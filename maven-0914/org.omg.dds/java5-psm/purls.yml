@@ -1,0 +1,2 @@
+- pkg:maven/org.omg.dds/java5-psm@1.0
+- pkg:maven/org.omg.dds/java5-psm@1.0?classifier=sources

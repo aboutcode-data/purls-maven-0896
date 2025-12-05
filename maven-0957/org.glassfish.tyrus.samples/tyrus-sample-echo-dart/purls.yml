@@ -1,0 +1,6 @@
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-dart@1.5?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-dart@1.5?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-dart@1.5?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-dart@1.6?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-dart@1.6?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-echo-dart@1.6?type=war

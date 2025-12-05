@@ -1,0 +1,12 @@
+- pkg:maven/org.objectweb.joram/jndi-server@5.3.2.53
+- pkg:maven/org.objectweb.joram/jndi-server@5.3.2.53?classifier=sources
+- pkg:maven/org.objectweb.joram/jndi-server@5.3.3.53
+- pkg:maven/org.objectweb.joram/jndi-server@5.3.3.53?classifier=sources
+- pkg:maven/org.objectweb.joram/jndi-server@5.4.0.54
+- pkg:maven/org.objectweb.joram/jndi-server@5.4.0.54?classifier=sources
+- pkg:maven/org.objectweb.joram/jndi-server@5.5.0
+- pkg:maven/org.objectweb.joram/jndi-server@5.5.0?classifier=sources
+- pkg:maven/org.objectweb.joram/jndi-server@5.6.0
+- pkg:maven/org.objectweb.joram/jndi-server@5.6.0?classifier=sources
+- pkg:maven/org.objectweb.joram/jndi-server@5.7.0
+- pkg:maven/org.objectweb.joram/jndi-server@5.7.0?classifier=sources

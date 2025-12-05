@@ -1,0 +1,4 @@
+- pkg:maven/fr.vekia.tools/VkLibs-Graph@1.2.1
+- pkg:maven/fr.vekia.tools/VkLibs-Graph@1.2.1?classifier=sources
+- pkg:maven/fr.vekia.tools/VkLibs-Graph@1.2.2-SNAPHOT
+- pkg:maven/fr.vekia.tools/VkLibs-Graph@1.2.2-SNAPHOT?classifier=sources

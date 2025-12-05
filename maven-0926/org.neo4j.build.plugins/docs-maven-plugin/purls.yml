@@ -1,0 +1,10 @@
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@1
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@1?classifier=sources
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@2
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@2?classifier=sources
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@3
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@3?classifier=sources
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@4
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@4?classifier=sources
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@5
+- pkg:maven/org.neo4j.build.plugins/docs-maven-plugin@5?classifier=sources

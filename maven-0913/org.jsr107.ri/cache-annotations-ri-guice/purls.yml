@@ -1,0 +1,8 @@
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@0.7
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@0.7?classifier=sources
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@0.8
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@0.8?classifier=sources
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@1.0.0
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@1.0.0-RC1
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@1.0.0-RC1?classifier=sources
+- pkg:maven/org.jsr107.ri/cache-annotations-ri-guice@1.0.0?classifier=sources

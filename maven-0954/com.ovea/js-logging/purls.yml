@@ -1,0 +1,12 @@
+- pkg:maven/com.ovea/js-logging@1.0
+- pkg:maven/com.ovea/js-logging@1.0?classifier=sources
+- pkg:maven/com.ovea/js-logging@1.1
+- pkg:maven/com.ovea/js-logging@1.1?classifier=sources
+- pkg:maven/com.ovea/js-logging@1.2.ga
+- pkg:maven/com.ovea/js-logging@1.2.ga?classifier=sources
+- pkg:maven/com.ovea/js-logging@2.0.ga
+- pkg:maven/com.ovea/js-logging@2.0.ga?classifier=sources
+- pkg:maven/com.ovea/js-logging@2.1.ga
+- pkg:maven/com.ovea/js-logging@2.1.ga?classifier=sources
+- pkg:maven/com.ovea/js-logging@2.2.ga
+- pkg:maven/com.ovea/js-logging@2.2.ga?classifier=sources

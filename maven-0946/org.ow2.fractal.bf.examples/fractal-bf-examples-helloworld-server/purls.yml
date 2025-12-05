@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.fractal.bf.examples/fractal-bf-examples-helloworld-server@0.10
+- pkg:maven/org.ow2.fractal.bf.examples/fractal-bf-examples-helloworld-server@0.10?classifier=sources

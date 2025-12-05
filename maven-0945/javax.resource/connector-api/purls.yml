@@ -1,0 +1,4 @@
+- pkg:maven/javax.resource/connector-api@1.5
+- pkg:maven/javax.resource/connector-api@1.5?classifier=sources
+- pkg:maven/javax.resource/connector-api@1.6-alpha-1
+- pkg:maven/javax.resource/connector-api@1.6-alpha-1?classifier=sources

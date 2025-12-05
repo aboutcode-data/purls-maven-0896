@@ -1,0 +1,2 @@
+- pkg:maven/de.is24.hystrix/hystrix-codahale-metrics-publisher@1.0
+- pkg:maven/de.is24.hystrix/hystrix-codahale-metrics-publisher@1.0?classifier=sources

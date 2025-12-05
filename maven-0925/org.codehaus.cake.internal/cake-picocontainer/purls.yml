@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.cake.internal/cake-picocontainer@1.3
+- pkg:maven/org.codehaus.cake.internal/cake-picocontainer@1.3?classifier=sources

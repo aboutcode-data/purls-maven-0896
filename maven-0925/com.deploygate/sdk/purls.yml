@@ -1,0 +1,3 @@
+- pkg:maven/com.deploygate/sdk@3.0?type=aar
+- pkg:maven/com.deploygate/sdk@3.1
+- pkg:maven/com.deploygate/sdk@3.1?classifier=sources

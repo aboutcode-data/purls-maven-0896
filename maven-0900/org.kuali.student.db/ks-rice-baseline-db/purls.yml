@@ -1,0 +1,6 @@
+- pkg:maven/org.kuali.student.db/ks-rice-baseline-db@2.0.0-cm
+- pkg:maven/org.kuali.student.db/ks-rice-baseline-db@2.0.0-cm?classifier=sources
+- pkg:maven/org.kuali.student.db/ks-rice-baseline-db@2.0.1-cm
+- pkg:maven/org.kuali.student.db/ks-rice-baseline-db@2.0.1-cm?classifier=sources
+- pkg:maven/org.kuali.student.db/ks-rice-baseline-db@2.0.2-cm
+- pkg:maven/org.kuali.student.db/ks-rice-baseline-db@2.0.2-cm?classifier=sources

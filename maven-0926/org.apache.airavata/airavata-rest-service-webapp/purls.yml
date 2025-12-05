@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.10?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.10?type=war
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.11?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.11?type=war
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.6?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.6?type=war
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.7?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.7?type=war
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.8?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.8?type=war
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.9?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-rest-service-webapp@0.9?type=war

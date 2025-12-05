@@ -1,0 +1,6 @@
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt@1.8.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt@1.8.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt@2.0.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt@2.0.0?classifier=sources
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt@2.1.0
+- pkg:maven/org.geomajas.plugin/geomajas-layer-google-gwt@2.1.0?classifier=sources

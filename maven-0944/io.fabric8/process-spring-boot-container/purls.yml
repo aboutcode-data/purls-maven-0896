@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8/process-spring-boot-container@1.1.0.Beta5
+- pkg:maven/io.fabric8/process-spring-boot-container@1.1.0.Beta5?classifier=sources

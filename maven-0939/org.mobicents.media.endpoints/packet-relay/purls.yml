@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.media.endpoints/packet-relay@2.2.0.FINAL
+- pkg:maven/org.mobicents.media.endpoints/packet-relay@2.2.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.media.endpoints/packet-relay@2.4.0.FINAL
+- pkg:maven/org.mobicents.media.endpoints/packet-relay@2.4.0.FINAL?classifier=sources

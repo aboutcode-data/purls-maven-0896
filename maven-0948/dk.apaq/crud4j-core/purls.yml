@@ -1,0 +1,4 @@
+- pkg:maven/dk.apaq/crud4j-core@1.2.0
+- pkg:maven/dk.apaq/crud4j-core@1.2.0?classifier=sources
+- pkg:maven/dk.apaq/crud4j-core@1.2.1
+- pkg:maven/dk.apaq/crud4j-core@1.2.1?classifier=sources

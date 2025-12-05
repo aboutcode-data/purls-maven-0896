@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.frascati.examples.scala/helloworld-annotated@1.4
+- pkg:maven/org.ow2.frascati.examples.scala/helloworld-annotated@1.4?classifier=sources

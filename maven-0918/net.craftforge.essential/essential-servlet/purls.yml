@@ -1,0 +1,6 @@
+- pkg:maven/net.craftforge.essential/essential-servlet@1.0
+- pkg:maven/net.craftforge.essential/essential-servlet@1.0?classifier=sources
+- pkg:maven/net.craftforge.essential/essential-servlet@2.0
+- pkg:maven/net.craftforge.essential/essential-servlet@2.0-beta2
+- pkg:maven/net.craftforge.essential/essential-servlet@2.0-beta2?classifier=sources
+- pkg:maven/net.craftforge.essential/essential-servlet@2.0?classifier=sources

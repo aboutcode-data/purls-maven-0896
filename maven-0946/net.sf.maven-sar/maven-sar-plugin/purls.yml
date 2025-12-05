@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.maven-sar/maven-sar-plugin@0.9
+- pkg:maven/net.sf.maven-sar/maven-sar-plugin@0.9?classifier=sources
+- pkg:maven/net.sf.maven-sar/maven-sar-plugin@1.0
+- pkg:maven/net.sf.maven-sar/maven-sar-plugin@1.0?classifier=sources

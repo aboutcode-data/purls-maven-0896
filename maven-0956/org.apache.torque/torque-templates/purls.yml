@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.torque/torque-templates@3.3
+- pkg:maven/org.apache.torque/torque-templates@3.3-RC3
+- pkg:maven/org.apache.torque/torque-templates@3.3-RC3?classifier=sources
+- pkg:maven/org.apache.torque/torque-templates@3.3?classifier=sources
+- pkg:maven/org.apache.torque/torque-templates@4.0-beta1?classifier=sources
+- pkg:maven/org.apache.torque/torque-templates@4.0-beta1?type=zip
+- pkg:maven/org.apache.torque/torque-templates@4.0?classifier=sources
+- pkg:maven/org.apache.torque/torque-templates@4.0?type=zip

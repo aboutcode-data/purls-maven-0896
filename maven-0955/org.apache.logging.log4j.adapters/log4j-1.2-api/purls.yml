@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.logging.log4j.adapters/log4j-1.2-api@2.0-beta4
+- pkg:maven/org.apache.logging.log4j.adapters/log4j-1.2-api@2.0-beta4?classifier=sources

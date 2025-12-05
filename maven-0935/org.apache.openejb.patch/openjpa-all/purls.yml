@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.openejb.patch/openjpa-all@2.3.0-nonfinal-1540826
+- pkg:maven/org.apache.openejb.patch/openjpa-all@2.3.0-nonfinal-1540826?classifier=sources
+- pkg:maven/org.apache.openejb.patch/openjpa-all@2.4.0-nonfinal-1591689
+- pkg:maven/org.apache.openejb.patch/openjpa-all@2.4.0-nonfinal-1591689?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta1
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta1?classifier=sources
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta2
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta2?classifier=sources
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta3
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta3?classifier=sources
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta4
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta4?classifier=sources
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta5
+- pkg:maven/io.fabric8.fab.tests/fab-sample-camel-blueprint-share@1.1.0.Beta5?classifier=sources

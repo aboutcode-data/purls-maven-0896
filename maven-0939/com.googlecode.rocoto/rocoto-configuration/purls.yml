@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.rocoto/rocoto-configuration@3.0
+- pkg:maven/com.googlecode.rocoto/rocoto-configuration@3.0?classifier=sources

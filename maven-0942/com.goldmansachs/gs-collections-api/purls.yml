@@ -1,0 +1,6 @@
+- pkg:maven/com.goldmansachs/gs-collections-api@4.1.0
+- pkg:maven/com.goldmansachs/gs-collections-api@4.1.0?classifier=sources
+- pkg:maven/com.goldmansachs/gs-collections-api@4.2.0
+- pkg:maven/com.goldmansachs/gs-collections-api@4.2.0?classifier=sources
+- pkg:maven/com.goldmansachs/gs-collections-api@5.0.0
+- pkg:maven/com.goldmansachs/gs-collections-api@5.0.0?classifier=sources

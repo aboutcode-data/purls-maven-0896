@@ -1,0 +1,4 @@
+- pkg:maven/com.buschmais.cdo/cdo.impl@0.1.0
+- pkg:maven/com.buschmais.cdo/cdo.impl@0.1.0?classifier=sources
+- pkg:maven/com.buschmais.cdo/cdo.impl@0.2.1
+- pkg:maven/com.buschmais.cdo/cdo.impl@0.2.1?classifier=sources

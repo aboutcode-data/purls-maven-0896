@@ -1,0 +1,8 @@
+- pkg:maven/org.apache/apache@10?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@11?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@12?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@13?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@14?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@7?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@8?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@9?classifier=source-release&type=zip

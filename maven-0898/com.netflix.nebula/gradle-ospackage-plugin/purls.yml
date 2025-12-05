@@ -1,0 +1,4 @@
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@1.9.2
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@1.9.2?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@1.9.4
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@1.9.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.applications.magicGball/magicGball-client@1.2-beta
+- pkg:maven/org.apache.geronimo.applications.magicGball/magicGball-client@1.2-beta?classifier=sources

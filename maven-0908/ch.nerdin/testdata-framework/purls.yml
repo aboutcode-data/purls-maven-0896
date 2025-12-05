@@ -1,0 +1,2 @@
+- pkg:maven/ch.nerdin/testdata-framework@0.10
+- pkg:maven/ch.nerdin/testdata-framework@0.10?classifier=sources

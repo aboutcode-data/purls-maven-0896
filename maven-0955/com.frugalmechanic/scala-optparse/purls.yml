@@ -1,0 +1,8 @@
+- pkg:maven/com.frugalmechanic/scala-optparse@1.0
+- pkg:maven/com.frugalmechanic/scala-optparse@1.0?classifier=sources
+- pkg:maven/com.frugalmechanic/scala-optparse@1.0?classifier=src&type=tar.gz
+- pkg:maven/com.frugalmechanic/scala-optparse@1.0?classifier=src&type=zip
+- pkg:maven/com.frugalmechanic/scala-optparse@1.1
+- pkg:maven/com.frugalmechanic/scala-optparse@1.1?classifier=sources
+- pkg:maven/com.frugalmechanic/scala-optparse@1.1?classifier=src&type=tar.gz
+- pkg:maven/com.frugalmechanic/scala-optparse@1.1?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/org.slf4j/slf4j-skin@1.2
+- pkg:maven/org.slf4j/slf4j-skin@1.2?classifier=sources

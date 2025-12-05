@@ -1,0 +1,6 @@
+- pkg:maven/org.camunda.bpm/camunda-engine@7.1.0-Final
+- pkg:maven/org.camunda.bpm/camunda-engine@7.1.0-Final?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine@7.1.0-alpha2
+- pkg:maven/org.camunda.bpm/camunda-engine@7.1.0-alpha2?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine@7.1.0-alpha4
+- pkg:maven/org.camunda.bpm/camunda-engine@7.1.0-alpha4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.codingwell/scala-guice_2.10@3.0.2
+- pkg:maven/net.codingwell/scala-guice_2.10@3.0.2?classifier=sources
+- pkg:maven/net.codingwell/scala-guice_2.10@4.0.0-beta
+- pkg:maven/net.codingwell/scala-guice_2.10@4.0.0-beta?classifier=sources

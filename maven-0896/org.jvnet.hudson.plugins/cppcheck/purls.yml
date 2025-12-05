@@ -1,0 +1,15 @@
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.10.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.10.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.10.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.10?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.5.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.5.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.5?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.6?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.7?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.8?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/cppcheck@0.9?classifier=sources

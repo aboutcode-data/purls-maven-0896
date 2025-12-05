@@ -1,0 +1,2 @@
+- pkg:maven/org.wicketopia/wicketopia-cdi-weld@1.0
+- pkg:maven/org.wicketopia/wicketopia-cdi-weld@1.0?classifier=sources

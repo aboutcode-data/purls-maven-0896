@@ -1,0 +1,6 @@
+- pkg:maven/com.imageworks.scala-migrations/scala-migrations_2.9.1@1.0.3
+- pkg:maven/com.imageworks.scala-migrations/scala-migrations_2.9.1@1.0.3?classifier=sources
+- pkg:maven/com.imageworks.scala-migrations/scala-migrations_2.9.1@1.1.0
+- pkg:maven/com.imageworks.scala-migrations/scala-migrations_2.9.1@1.1.0?classifier=sources
+- pkg:maven/com.imageworks.scala-migrations/scala-migrations_2.9.1@1.1.1
+- pkg:maven/com.imageworks.scala-migrations/scala-migrations_2.9.1@1.1.1?classifier=sources

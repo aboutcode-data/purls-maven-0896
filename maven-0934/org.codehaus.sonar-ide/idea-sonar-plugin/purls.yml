@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.sonar-ide/idea-sonar-plugin@0.1?classifier=sources
+- pkg:maven/org.codehaus.sonar-ide/idea-sonar-plugin@0.1?type=zip

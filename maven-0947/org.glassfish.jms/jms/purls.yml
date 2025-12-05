@@ -1,0 +1,5 @@
+- pkg:maven/org.glassfish.jms/jms@3.0-b41?classifier=sources
+- pkg:maven/org.glassfish.jms/jms@3.0-b42?classifier=sources
+- pkg:maven/org.glassfish.jms/jms@3.0-b43?classifier=sources
+- pkg:maven/org.glassfish.jms/jms@3.0-b44?classifier=sources
+- pkg:maven/org.glassfish.jms/jms@3.0-b45?classifier=sources

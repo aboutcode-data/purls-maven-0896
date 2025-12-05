@@ -1,0 +1,4 @@
+- pkg:maven/org.mortbay.jetty.toolchain.unix/unix-core@1.0-alpha-6
+- pkg:maven/org.mortbay.jetty.toolchain.unix/unix-core@1.0-alpha-6.1
+- pkg:maven/org.mortbay.jetty.toolchain.unix/unix-core@1.0-alpha-6.1?classifier=sources
+- pkg:maven/org.mortbay.jetty.toolchain.unix/unix-core@1.0-alpha-6?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.hdfgroup/hdf-java@2.6.1
+- pkg:maven/org.hdfgroup/hdf-java@2.6.1?classifier=sources

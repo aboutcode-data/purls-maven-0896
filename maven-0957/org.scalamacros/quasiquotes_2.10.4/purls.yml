@@ -1,0 +1,8 @@
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M3
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M3?classifier=sources
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M4
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M4?classifier=sources
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M5
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M5?classifier=sources
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M6
+- pkg:maven/org.scalamacros/quasiquotes_2.10.4@2.0.0-M6?classifier=sources

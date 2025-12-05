@@ -1,0 +1,4 @@
+- pkg:maven/org.objectweb.dream.dreamadl/dream-adl@0.1
+- pkg:maven/org.objectweb.dream.dreamadl/dream-adl@2.0
+- pkg:maven/org.objectweb.dream.dreamadl/dream-adl@2.2
+- pkg:maven/org.objectweb.dream.dreamadl/dream-adl@2.2?classifier=sources

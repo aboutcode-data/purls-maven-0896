@@ -1,0 +1,10 @@
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.2.1
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.2.1?classifier=sources
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.2.2
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.2.2?classifier=sources
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.3.0
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.3.0?classifier=sources
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.4.0
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.4.0?classifier=sources
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.4.1
+- pkg:maven/pl.pragmatists.tumbler/tumbler@0.4.1?classifier=sources

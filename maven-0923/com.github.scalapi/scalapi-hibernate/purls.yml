@@ -1,0 +1,8 @@
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.4
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.4?classifier=sources
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.5
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.5?classifier=sources
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.6
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.6?classifier=sources
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.7
+- pkg:maven/com.github.scalapi/scalapi-hibernate@0.7?classifier=sources

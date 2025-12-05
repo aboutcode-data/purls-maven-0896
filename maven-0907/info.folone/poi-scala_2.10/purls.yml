@@ -1,0 +1,6 @@
+- pkg:maven/info.folone/poi-scala_2.10@0.7
+- pkg:maven/info.folone/poi-scala_2.10@0.7?classifier=sources
+- pkg:maven/info.folone/poi-scala_2.10@0.8
+- pkg:maven/info.folone/poi-scala_2.10@0.8?classifier=sources
+- pkg:maven/info.folone/poi-scala_2.10@0.9
+- pkg:maven/info.folone/poi-scala_2.10@0.9?classifier=sources

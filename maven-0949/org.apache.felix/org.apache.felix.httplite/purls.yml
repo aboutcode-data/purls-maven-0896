@@ -1,0 +1,3 @@
+- pkg:maven/org.apache.felix/org.apache.felix.httplite@0.1.2
+- pkg:maven/org.apache.felix/org.apache.felix.httplite@0.1.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.httplite@0.1.2?classifier=sources

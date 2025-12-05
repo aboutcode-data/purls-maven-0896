@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.tuscany.sca/helloworld-service-contribution@2.0
+- pkg:maven/org.apache.tuscany.sca/helloworld-service-contribution@2.0-Beta2
+- pkg:maven/org.apache.tuscany.sca/helloworld-service-contribution@2.0-Beta2?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/helloworld-service-contribution@2.0.1
+- pkg:maven/org.apache.tuscany.sca/helloworld-service-contribution@2.0.1?classifier=sources
+- pkg:maven/org.apache.tuscany.sca/helloworld-service-contribution@2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.syncloud/dropbox-client@1.5.3
+- pkg:maven/org.syncloud/dropbox-client@1.5.3?classifier=sources
+- pkg:maven/org.syncloud/dropbox-client@1.5.3?classifier=src&type=tar.gz
+- pkg:maven/org.syncloud/dropbox-client@1.5.3?classifier=src&type=zip

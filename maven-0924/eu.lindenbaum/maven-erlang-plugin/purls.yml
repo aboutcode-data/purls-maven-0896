@@ -1,0 +1,8 @@
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@1.0.0-beta
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@1.0.0-beta?classifier=sources
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@2.0.0
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@2.0.0?classifier=sources
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@2.1.0
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@2.1.0?classifier=sources
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@2.2.0
+- pkg:maven/eu.lindenbaum/maven-erlang-plugin@2.2.0?classifier=sources

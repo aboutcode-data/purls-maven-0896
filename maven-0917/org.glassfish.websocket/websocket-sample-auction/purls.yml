@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.websocket/websocket-sample-auction@0.2?classifier=sources
+- pkg:maven/org.glassfish.websocket/websocket-sample-auction@0.2?type=war

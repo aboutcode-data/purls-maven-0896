@@ -1,0 +1,4 @@
+- pkg:maven/flux/twitter-action@1.0.0
+- pkg:maven/flux/twitter-action@1.0.0?classifier=sources
+- pkg:maven/flux/twitter-action@1.0.1
+- pkg:maven/flux/twitter-action@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.mailosaur/mailosaur-java@1.0.6
+- pkg:maven/com.mailosaur/mailosaur-java@1.0.6?classifier=sources

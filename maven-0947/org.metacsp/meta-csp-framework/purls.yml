@@ -1,0 +1,10 @@
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.175
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.175?classifier=sources
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.181
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.181?classifier=sources
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.213
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.213?classifier=sources
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.217
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.217?classifier=sources
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.255
+- pkg:maven/org.metacsp/meta-csp-framework@1.0.255?classifier=sources

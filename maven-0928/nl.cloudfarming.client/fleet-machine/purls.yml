@@ -1,0 +1,9 @@
+- pkg:maven/nl.cloudfarming.client/fleet-machine@1.0.23?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@1.0.24?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@12.10-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@12.10.1-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@12.11-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@12.12-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@13.01-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@13.02-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/fleet-machine@13.03-beta?classifier=sources

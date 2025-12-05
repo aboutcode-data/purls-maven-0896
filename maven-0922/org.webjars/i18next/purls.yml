@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/i18next@1.6.2
+- pkg:maven/org.webjars/i18next@1.6.2?classifier=sources
+- pkg:maven/org.webjars/i18next@1.7.1
+- pkg:maven/org.webjars/i18next@1.7.1?classifier=sources

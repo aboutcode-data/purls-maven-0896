@@ -1,0 +1,14 @@
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha4
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha4?classifier=sources
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha5
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha5?classifier=sources
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha6
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha6?classifier=sources
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha7
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha7?classifier=sources
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha9
+- pkg:maven/org.jbpm/form-services@6.0.0.Alpha9?classifier=sources
+- pkg:maven/org.jbpm/form-services@6.0.0.Beta1
+- pkg:maven/org.jbpm/form-services@6.0.0.Beta1?classifier=sources
+- pkg:maven/org.jbpm/form-services@6.0.0.Beta2
+- pkg:maven/org.jbpm/form-services@6.0.0.Beta2?classifier=sources

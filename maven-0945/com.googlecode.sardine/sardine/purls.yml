@@ -1,0 +1,12 @@
+- pkg:maven/com.googlecode.sardine/sardine@115
+- pkg:maven/com.googlecode.sardine/sardine@115?classifier=sources
+- pkg:maven/com.googlecode.sardine/sardine@123
+- pkg:maven/com.googlecode.sardine/sardine@123?classifier=sources
+- pkg:maven/com.googlecode.sardine/sardine@129
+- pkg:maven/com.googlecode.sardine/sardine@129?classifier=sources
+- pkg:maven/com.googlecode.sardine/sardine@146
+- pkg:maven/com.googlecode.sardine/sardine@146?classifier=sources
+- pkg:maven/com.googlecode.sardine/sardine@80
+- pkg:maven/com.googlecode.sardine/sardine@80?classifier=sources
+- pkg:maven/com.googlecode.sardine/sardine@97
+- pkg:maven/com.googlecode.sardine/sardine@97?classifier=sources

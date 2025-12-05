@@ -1,0 +1,6 @@
+- pkg:maven/plexus/plexus-appserver@1.0-alpha-1
+- pkg:maven/plexus/plexus-appserver@1.0-alpha-2
+- pkg:maven/plexus/plexus-appserver@1.0-alpha-3
+- pkg:maven/plexus/plexus-appserver@1.0-alpha-3?classifier=sources
+- pkg:maven/plexus/plexus-appserver@1.0-alpha-4
+- pkg:maven/plexus/plexus-appserver@1.0-alpha-4?classifier=sources

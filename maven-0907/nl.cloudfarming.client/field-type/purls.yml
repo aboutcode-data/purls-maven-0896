@@ -1,0 +1,14 @@
+- pkg:maven/nl.cloudfarming.client/field-type@1.0.17?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@1.0.18?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@1.0.19?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@1.0.20?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@1.0.21?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@1.0.23?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@1.0.24?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@12.10-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@12.10.1-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@12.11-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@12.12-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@13.01-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@13.02-beta?classifier=sources
+- pkg:maven/nl.cloudfarming.client/field-type@13.03-beta?classifier=sources

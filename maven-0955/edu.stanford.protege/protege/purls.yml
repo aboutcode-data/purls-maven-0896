@@ -1,0 +1,6 @@
+- pkg:maven/edu.stanford.protege/protege@3.5.0
+- pkg:maven/edu.stanford.protege/protege@3.5.0-beta-651
+- pkg:maven/edu.stanford.protege/protege@3.5.0-beta-651?classifier=sources
+- pkg:maven/edu.stanford.protege/protege@3.5.0?classifier=sources
+- pkg:maven/edu.stanford.protege/protege@3.5.1
+- pkg:maven/edu.stanford.protege/protege@3.5.1?classifier=sources

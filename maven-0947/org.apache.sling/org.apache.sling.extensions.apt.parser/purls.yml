@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sling/org.apache.sling.extensions.apt.parser@2.0.2-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.extensions.apt.parser@2.0.2-incubator?classifier=sources

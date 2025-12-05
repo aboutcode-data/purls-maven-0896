@@ -1,0 +1,4 @@
+- pkg:maven/org.scalaz/scalaz-core_2.10.0-RC3@6.0.4
+- pkg:maven/org.scalaz/scalaz-core_2.10.0-RC3@6.0.4?classifier=sources
+- pkg:maven/org.scalaz/scalaz-core_2.10.0-RC3@7.0.0-M5
+- pkg:maven/org.scalaz/scalaz-core_2.10.0-RC3@7.0.0-M5?classifier=sources

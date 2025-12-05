@@ -1,0 +1,2 @@
+- pkg:maven/eu.cedarsoft.utils/workflow@1.3
+- pkg:maven/eu.cedarsoft.utils/workflow@1.3?classifier=sources

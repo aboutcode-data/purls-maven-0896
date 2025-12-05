@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.testngdatabind/testng-databinding-csv@1.0
+- pkg:maven/net.sf.testngdatabind/testng-databinding-csv@1.0?classifier=sources
+- pkg:maven/net.sf.testngdatabind/testng-databinding-csv@2.0
+- pkg:maven/net.sf.testngdatabind/testng-databinding-csv@2.0?classifier=sources

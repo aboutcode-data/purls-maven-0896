@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.ppl/snaptree@0.1
+- pkg:maven/edu.stanford.ppl/snaptree@0.1?classifier=sources

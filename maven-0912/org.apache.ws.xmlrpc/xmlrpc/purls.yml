@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.ws.xmlrpc/xmlrpc@2.0.1
+- pkg:maven/org.apache.ws.xmlrpc/xmlrpc@2.0.1?classifier=sources
+- pkg:maven/org.apache.ws.xmlrpc/xmlrpc@3.0a1
+- pkg:maven/org.apache.ws.xmlrpc/xmlrpc@3.0a1?classifier=sources

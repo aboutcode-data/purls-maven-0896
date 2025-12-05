@@ -1,0 +1,6 @@
+- pkg:maven/org.jvnet.hypercompass/hypercompass-shared@1.0.4
+- pkg:maven/org.jvnet.hypercompass/hypercompass-shared@1.0.4?classifier=sources
+- pkg:maven/org.jvnet.hypercompass/hypercompass-shared@1.0.5
+- pkg:maven/org.jvnet.hypercompass/hypercompass-shared@1.0.5?classifier=sources
+- pkg:maven/org.jvnet.hypercompass/hypercompass-shared@1.0.6.2M3
+- pkg:maven/org.jvnet.hypercompass/hypercompass-shared@1.0.6.2M3?classifier=sources

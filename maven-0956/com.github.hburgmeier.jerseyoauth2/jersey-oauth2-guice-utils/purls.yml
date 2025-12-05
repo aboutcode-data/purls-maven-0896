@@ -1,0 +1,4 @@
+- pkg:maven/com.github.hburgmeier.jerseyoauth2/jersey-oauth2-guice-utils@0.7
+- pkg:maven/com.github.hburgmeier.jerseyoauth2/jersey-oauth2-guice-utils@0.7?classifier=sources
+- pkg:maven/com.github.hburgmeier.jerseyoauth2/jersey-oauth2-guice-utils@0.8
+- pkg:maven/com.github.hburgmeier.jerseyoauth2/jersey-oauth2-guice-utils@0.8?classifier=sources

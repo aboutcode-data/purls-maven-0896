@@ -1,0 +1,6 @@
+- pkg:maven/com.tumblr/jumblr@0.0.10
+- pkg:maven/com.tumblr/jumblr@0.0.10?classifier=sources
+- pkg:maven/com.tumblr/jumblr@0.0.6
+- pkg:maven/com.tumblr/jumblr@0.0.6?classifier=sources
+- pkg:maven/com.tumblr/jumblr@0.0.8
+- pkg:maven/com.tumblr/jumblr@0.0.8?classifier=sources

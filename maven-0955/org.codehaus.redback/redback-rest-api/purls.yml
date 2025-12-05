@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.redback/redback-rest-api@1.3
+- pkg:maven/org.codehaus.redback/redback-rest-api@1.3?classifier=sources
+- pkg:maven/org.codehaus.redback/redback-rest-api@1.4
+- pkg:maven/org.codehaus.redback/redback-rest-api@1.4?classifier=sources

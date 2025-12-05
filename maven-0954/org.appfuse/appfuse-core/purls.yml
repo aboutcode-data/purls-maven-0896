@@ -1,0 +1,2 @@
+- pkg:maven/org.appfuse/appfuse-core@2.0-m5
+- pkg:maven/org.appfuse/appfuse-core@2.0-m5?classifier=sources

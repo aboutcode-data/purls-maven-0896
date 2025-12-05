@@ -1,0 +1,14 @@
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b1
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b1?classifier=sources
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b2
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b2?classifier=sources
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b3
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b3?classifier=sources
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b4
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b4?classifier=sources
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b5
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b5?classifier=sources
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b6
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b6?classifier=sources
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b7
+- pkg:maven/com.greenlaw110.rythm/rythm-engine@1.0-b7?classifier=sources

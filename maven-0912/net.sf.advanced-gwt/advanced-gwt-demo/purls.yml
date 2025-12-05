@@ -1,0 +1,4 @@
+- pkg:maven/net.sf.advanced-gwt/advanced-gwt-demo@2.0.8?classifier=sources
+- pkg:maven/net.sf.advanced-gwt/advanced-gwt-demo@2.0.8?type=war
+- pkg:maven/net.sf.advanced-gwt/advanced-gwt-demo@2.0.9?classifier=sources
+- pkg:maven/net.sf.advanced-gwt/advanced-gwt-demo@2.0.9?type=war

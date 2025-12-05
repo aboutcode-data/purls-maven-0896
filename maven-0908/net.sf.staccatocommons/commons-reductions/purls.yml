@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.staccatocommons/commons-reductions@1.2
+- pkg:maven/net.sf.staccatocommons/commons-reductions@1.2-beta-2
+- pkg:maven/net.sf.staccatocommons/commons-reductions@1.2-beta-2?classifier=sources
+- pkg:maven/net.sf.staccatocommons/commons-reductions@1.2-beta-3
+- pkg:maven/net.sf.staccatocommons/commons-reductions@1.2-beta-3?classifier=sources
+- pkg:maven/net.sf.staccatocommons/commons-reductions@1.2?classifier=sources

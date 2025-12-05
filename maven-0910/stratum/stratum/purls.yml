@@ -1,0 +1,5 @@
+- pkg:maven/stratum/stratum@1.0-b1
+- pkg:maven/stratum/stratum@1.0-b3
+- pkg:maven/stratum/stratum@1.0-b5
+- pkg:maven/stratum/stratum@1.0?classifier=src&type=tar.gz
+- pkg:maven/stratum/stratum@1.0?classifier=src&type=zip

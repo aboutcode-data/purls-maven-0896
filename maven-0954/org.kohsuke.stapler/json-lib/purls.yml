@@ -1,0 +1,10 @@
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev2
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev2?classifier=sources
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev3
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev3?classifier=sources
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev4
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev4?classifier=sources
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev5
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev5?classifier=sources
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev6
+- pkg:maven/org.kohsuke.stapler/json-lib@2.1-rev6?classifier=sources

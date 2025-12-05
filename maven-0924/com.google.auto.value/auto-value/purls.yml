@@ -1,0 +1,2 @@
+- pkg:maven/com.google.auto.value/auto-value@1.0-rc1
+- pkg:maven/com.google.auto.value/auto-value@1.0-rc1?classifier=sources

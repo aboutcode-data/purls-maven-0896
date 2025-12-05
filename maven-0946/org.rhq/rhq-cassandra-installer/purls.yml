@@ -1,0 +1,4 @@
+- pkg:maven/org.rhq/rhq-cassandra-installer@4.10.0?classifier=sources
+- pkg:maven/org.rhq/rhq-cassandra-installer@4.11.0?classifier=sources
+- pkg:maven/org.rhq/rhq-cassandra-installer@4.8.0?classifier=sources
+- pkg:maven/org.rhq/rhq-cassandra-installer@4.9.0?classifier=sources

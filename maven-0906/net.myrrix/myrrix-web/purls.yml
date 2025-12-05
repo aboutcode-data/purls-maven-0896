@@ -1,0 +1,11 @@
+- pkg:maven/net.myrrix/myrrix-web@0.10
+- pkg:maven/net.myrrix/myrrix-web@0.11
+- pkg:maven/net.myrrix/myrrix-web@0.7
+- pkg:maven/net.myrrix/myrrix-web@0.7?classifier=sources
+- pkg:maven/net.myrrix/myrrix-web@0.8
+- pkg:maven/net.myrrix/myrrix-web@0.8?classifier=sources
+- pkg:maven/net.myrrix/myrrix-web@0.9
+- pkg:maven/net.myrrix/myrrix-web@0.9?classifier=sources
+- pkg:maven/net.myrrix/myrrix-web@1.0.0
+- pkg:maven/net.myrrix/myrrix-web@1.0.0-beta-1
+- pkg:maven/net.myrrix/myrrix-web@1.0.1

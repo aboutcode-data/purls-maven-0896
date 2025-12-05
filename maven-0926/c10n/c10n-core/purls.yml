@@ -1,0 +1,2 @@
+- pkg:maven/c10n/c10n-core@1.1
+- pkg:maven/c10n/c10n-core@1.1?classifier=sources

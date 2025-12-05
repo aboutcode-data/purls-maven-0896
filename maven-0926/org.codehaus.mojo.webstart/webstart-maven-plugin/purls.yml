@@ -1,0 +1,5 @@
+- pkg:maven/org.codehaus.mojo.webstart/webstart-maven-plugin@1.0-alpha-2
+- pkg:maven/org.codehaus.mojo.webstart/webstart-maven-plugin@1.0-alpha-2?classifier=sources
+- pkg:maven/org.codehaus.mojo.webstart/webstart-maven-plugin@1.0-beta-1
+- pkg:maven/org.codehaus.mojo.webstart/webstart-maven-plugin@1.0-beta-2
+- pkg:maven/org.codehaus.mojo.webstart/webstart-maven-plugin@1.0-beta-2?classifier=sources

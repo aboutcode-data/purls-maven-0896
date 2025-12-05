@@ -1,0 +1,4 @@
+- pkg:maven/org.pidster/embed-apache-tomcat-core@0.1-ALPHA
+- pkg:maven/org.pidster/embed-apache-tomcat-core@0.1-ALPHA?classifier=sources
+- pkg:maven/org.pidster/embed-apache-tomcat-core@0.2
+- pkg:maven/org.pidster/embed-apache-tomcat-core@0.2?classifier=sources

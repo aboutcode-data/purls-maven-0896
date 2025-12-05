@@ -1,0 +1,2 @@
+- pkg:maven/com.rhcloud.mongodb/mongodb-persistence-api@0.2.2
+- pkg:maven/com.rhcloud.mongodb/mongodb-persistence-api@0.2.2?classifier=sources

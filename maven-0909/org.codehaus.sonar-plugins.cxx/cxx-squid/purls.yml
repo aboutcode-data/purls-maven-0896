@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.sonar-plugins.cxx/cxx-squid@0.9
+- pkg:maven/org.codehaus.sonar-plugins.cxx/cxx-squid@0.9?classifier=sources

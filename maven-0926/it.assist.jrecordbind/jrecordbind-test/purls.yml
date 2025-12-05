@@ -1,0 +1,4 @@
+- pkg:maven/it.assist.jrecordbind/jrecordbind-test@2.3.7
+- pkg:maven/it.assist.jrecordbind/jrecordbind-test@2.3.7?classifier=sources
+- pkg:maven/it.assist.jrecordbind/jrecordbind-test@2.3.8
+- pkg:maven/it.assist.jrecordbind/jrecordbind-test@2.3.8?classifier=sources

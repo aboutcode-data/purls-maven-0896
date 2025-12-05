@@ -1,0 +1,2 @@
+- pkg:maven/com.mindsnacks/penmanship@0.9
+- pkg:maven/com.mindsnacks/penmanship@0.9?classifier=sources

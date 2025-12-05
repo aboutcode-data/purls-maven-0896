@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.maven/restdoc-maven-plugin@0.1
+- pkg:maven/org.commonjava.maven/restdoc-maven-plugin@0.1?classifier=sources

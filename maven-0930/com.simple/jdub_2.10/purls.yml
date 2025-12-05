@@ -1,0 +1,4 @@
+- pkg:maven/com.simple/jdub_2.10@0.3.3
+- pkg:maven/com.simple/jdub_2.10@0.3.3?classifier=sources
+- pkg:maven/com.simple/jdub_2.10@0.4.0
+- pkg:maven/com.simple/jdub_2.10@0.4.0?classifier=sources

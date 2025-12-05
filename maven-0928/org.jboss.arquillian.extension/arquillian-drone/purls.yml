@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.extension/arquillian-drone@1.0.0.Alpha5
+- pkg:maven/org.jboss.arquillian.extension/arquillian-drone@1.0.0.Alpha5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.stanbol/apache-stanbol-entityhub@0.10.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.stanbol/apache-stanbol-entityhub@0.11.0?classifier=source-release&type=zip

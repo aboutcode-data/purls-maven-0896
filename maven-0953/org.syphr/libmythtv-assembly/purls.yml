@@ -1,0 +1,2 @@
+- pkg:maven/org.syphr/libmythtv-assembly@0.1?classifier=src&type=tar.gz
+- pkg:maven/org.syphr/libmythtv-assembly@0.1?classifier=src&type=zip

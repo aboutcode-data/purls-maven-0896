@@ -1,0 +1,6 @@
+- pkg:maven/org.glassfish.tyrus/websocket-impl@1.0-b04
+- pkg:maven/org.glassfish.tyrus/websocket-impl@1.0-b04?classifier=sources
+- pkg:maven/org.glassfish.tyrus/websocket-impl@1.0-b05
+- pkg:maven/org.glassfish.tyrus/websocket-impl@1.0-b05?classifier=sources
+- pkg:maven/org.glassfish.tyrus/websocket-impl@1.0-b06
+- pkg:maven/org.glassfish.tyrus/websocket-impl@1.0-b06?classifier=sources

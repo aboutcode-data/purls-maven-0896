@@ -1,0 +1,2 @@
+- pkg:maven/org.aperteworkflow.contrib/groovy-script-processor@1.1.1
+- pkg:maven/org.aperteworkflow.contrib/groovy-script-processor@1.1.1?classifier=sources

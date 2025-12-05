@@ -1,0 +1,6 @@
+- pkg:maven/org.urish.gwt-titanium/gwt-titanium@0.1.0
+- pkg:maven/org.urish.gwt-titanium/gwt-titanium@0.1.0?classifier=sources
+- pkg:maven/org.urish.gwt-titanium/gwt-titanium@0.2.0
+- pkg:maven/org.urish.gwt-titanium/gwt-titanium@0.2.0?classifier=sources
+- pkg:maven/org.urish.gwt-titanium/gwt-titanium@0.2.1
+- pkg:maven/org.urish.gwt-titanium/gwt-titanium@0.2.1?classifier=sources

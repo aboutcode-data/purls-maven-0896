@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.confman/pax-confman-propsloader@0.2.3
+- pkg:maven/org.ops4j.pax.confman/pax-confman-propsloader@0.2.3?classifier=sources

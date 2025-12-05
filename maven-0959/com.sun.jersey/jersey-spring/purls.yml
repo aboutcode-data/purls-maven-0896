@@ -1,0 +1,5 @@
+- pkg:maven/com.sun.jersey/jersey-spring@0.8-ea
+- pkg:maven/com.sun.jersey/jersey-spring@0.9-ea
+- pkg:maven/com.sun.jersey/jersey-spring@0.9-ea?classifier=sources
+- pkg:maven/com.sun.jersey/jersey-spring@1.0
+- pkg:maven/com.sun.jersey/jersey-spring@1.0?classifier=sources

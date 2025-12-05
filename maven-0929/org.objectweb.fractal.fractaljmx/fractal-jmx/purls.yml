@@ -1,0 +1,6 @@
+- pkg:maven/org.objectweb.fractal.fractaljmx/fractal-jmx@0.2.3
+- pkg:maven/org.objectweb.fractal.fractaljmx/fractal-jmx@0.2.4
+- pkg:maven/org.objectweb.fractal.fractaljmx/fractal-jmx@0.2.5
+- pkg:maven/org.objectweb.fractal.fractaljmx/fractal-jmx@0.2.5?classifier=sources
+- pkg:maven/org.objectweb.fractal.fractaljmx/fractal-jmx@0.3.0
+- pkg:maven/org.objectweb.fractal.fractaljmx/fractal-jmx@0.3.0?classifier=sources

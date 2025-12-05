@@ -1,0 +1,2 @@
+- pkg:maven/javax.inject/javax.inject-tck@1
+- pkg:maven/javax.inject/javax.inject-tck@1?classifier=sources

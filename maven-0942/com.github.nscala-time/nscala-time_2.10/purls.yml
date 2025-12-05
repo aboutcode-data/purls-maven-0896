@@ -1,0 +1,12 @@
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.2.0
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.2.0?classifier=sources
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.4.0
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.4.0?classifier=sources
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.4.2
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.4.2?classifier=sources
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.6.0
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.6.0?classifier=sources
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.8.0
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@0.8.0?classifier=sources
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@1.0.0
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@1.0.0?classifier=sources

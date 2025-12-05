@@ -1,0 +1,4 @@
+- pkg:maven/org.openscm.kundo.plugins/kundo-cobertura-plugin@0.8
+- pkg:maven/org.openscm.kundo.plugins/kundo-cobertura-plugin@0.8?classifier=sources
+- pkg:maven/org.openscm.kundo.plugins/kundo-cobertura-plugin@0.9
+- pkg:maven/org.openscm.kundo.plugins/kundo-cobertura-plugin@0.9?classifier=sources

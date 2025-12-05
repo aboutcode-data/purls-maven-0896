@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-grizzly-httpspi@1.1
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-grizzly-httpspi@1.1?classifier=sources

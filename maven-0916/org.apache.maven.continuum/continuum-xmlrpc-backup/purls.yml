@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.maven.continuum/continuum-xmlrpc-backup@1.1
+- pkg:maven/org.apache.maven.continuum/continuum-xmlrpc-backup@1.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.glassfish.pfl/pfl-tf-tools@1.0.0-b001
+- pkg:maven/org.glassfish.pfl/pfl-tf-tools@3.2.0-b001
+- pkg:maven/org.glassfish.pfl/pfl-tf-tools@4.0.0-b003
+- pkg:maven/org.glassfish.pfl/pfl-tf-tools@4.0.0-b003?classifier=sources
+- pkg:maven/org.glassfish.pfl/pfl-tf-tools@4.0.0-b004
+- pkg:maven/org.glassfish.pfl/pfl-tf-tools@4.0.0-b004?classifier=sources

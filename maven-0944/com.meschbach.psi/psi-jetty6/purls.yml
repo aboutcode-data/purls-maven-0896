@@ -1,0 +1,2 @@
+- pkg:maven/com.meschbach.psi/psi-jetty6@2.4
+- pkg:maven/com.meschbach.psi/psi-jetty6@2.4?classifier=sources

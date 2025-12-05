@@ -1,0 +1,6 @@
+- pkg:maven/edu.washington.cs.knowitall.stanford-corenlp/stanford-ner-models@1.3.2
+- pkg:maven/edu.washington.cs.knowitall.stanford-corenlp/stanford-ner-models@1.3.2?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.stanford-corenlp/stanford-ner-models@1.3.4
+- pkg:maven/edu.washington.cs.knowitall.stanford-corenlp/stanford-ner-models@1.3.4?classifier=sources
+- pkg:maven/edu.washington.cs.knowitall.stanford-corenlp/stanford-ner-models@1.3.5
+- pkg:maven/edu.washington.cs.knowitall.stanford-corenlp/stanford-ner-models@1.3.5?classifier=sources

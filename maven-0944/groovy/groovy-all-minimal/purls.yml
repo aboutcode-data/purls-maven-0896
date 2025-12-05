@@ -1,0 +1,6 @@
+- pkg:maven/groovy/groovy-all-minimal@1.0
+- pkg:maven/groovy/groovy-all-minimal@1.1-BETA-1
+- pkg:maven/groovy/groovy-all-minimal@1.1-beta-2
+- pkg:maven/groovy/groovy-all-minimal@1.1-beta-3
+- pkg:maven/groovy/groovy-all-minimal@1.1-rc-1
+- pkg:maven/groovy/groovy-all-minimal@1.1-rc-1?classifier=sources

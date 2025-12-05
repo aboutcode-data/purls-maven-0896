@@ -1,0 +1,4 @@
+- pkg:maven/au.net.causal.projo/projo-bind@1.0
+- pkg:maven/au.net.causal.projo/projo-bind@1.0?classifier=sources
+- pkg:maven/au.net.causal.projo/projo-bind@1.1
+- pkg:maven/au.net.causal.projo/projo-bind@1.1?classifier=sources

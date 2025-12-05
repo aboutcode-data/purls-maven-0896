@@ -1,0 +1,9 @@
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-1
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-2
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-3
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-3-SNAPSHOT
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-4
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-4?classifier=sources
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-5
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-5?classifier=sources
+- pkg:maven/plexus/plexus-container-default@1.0-alpha-6

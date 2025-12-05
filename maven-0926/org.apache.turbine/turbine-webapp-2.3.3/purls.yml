@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.turbine/turbine-webapp-2.3.3@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.turbine/turbine-webapp-2.3.3@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.solr.solr/solr-clustering@1.4.1
+- pkg:maven/org.apache.solr.solr/solr-clustering@1.4.1?classifier=sources

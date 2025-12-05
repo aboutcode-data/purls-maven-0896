@@ -1,0 +1,2 @@
+- pkg:maven/hudson.plugins.bamboo/bamboo-notifier@1.0?classifier=sources
+- pkg:maven/hudson.plugins.bamboo/bamboo-notifier@1.1?classifier=sources

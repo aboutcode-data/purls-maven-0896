@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.frascati.upnp/frascati-metamodel-upnp@1.3
+- pkg:maven/org.ow2.frascati.upnp/frascati-metamodel-upnp@1.3?classifier=sources
+- pkg:maven/org.ow2.frascati.upnp/frascati-metamodel-upnp@1.4
+- pkg:maven/org.ow2.frascati.upnp/frascati-metamodel-upnp@1.4?classifier=sources

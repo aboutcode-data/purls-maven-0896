@@ -1,0 +1,4 @@
+- pkg:maven/org.swinglabs/swingx-core@1.6.2
+- pkg:maven/org.swinglabs/swingx-core@1.6.2-2
+- pkg:maven/org.swinglabs/swingx-core@1.6.2-2?classifier=sources
+- pkg:maven/org.swinglabs/swingx-core@1.6.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.nesscomputing.mojo/maven-migratory-plugin@3.0.0
+- pkg:maven/com.nesscomputing.mojo/maven-migratory-plugin@3.0.0?classifier=sources

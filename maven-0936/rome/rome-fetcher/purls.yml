@@ -1,0 +1,5 @@
+- pkg:maven/rome/rome-fetcher@0.3
+- pkg:maven/rome/rome-fetcher@1.0
+- pkg:maven/rome/rome-fetcher@1.0?classifier=sources
+- pkg:maven/rome/rome-fetcher@1.0RC2
+- pkg:maven/rome/rome-fetcher@1.0RC2?classifier=sources

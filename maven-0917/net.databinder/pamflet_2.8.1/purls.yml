@@ -1,0 +1,10 @@
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.2
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.2?classifier=sources
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.3
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.3?classifier=sources
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.4
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.4?classifier=sources
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.5
+- pkg:maven/net.databinder/pamflet_2.8.1@0.2.5?classifier=sources
+- pkg:maven/net.databinder/pamflet_2.8.1@0.3.0
+- pkg:maven/net.databinder/pamflet_2.8.1@0.3.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.mybatis.scala/mybatis-scala-core_2.10@1.0.1?classifier=sources
+- pkg:maven/org.mybatis.scala/mybatis-scala-core_2.10@1.0.1?type=zip
+- pkg:maven/org.mybatis.scala/mybatis-scala-core_2.10@1.0.2?classifier=sources
+- pkg:maven/org.mybatis.scala/mybatis-scala-core_2.10@1.0.2?type=zip

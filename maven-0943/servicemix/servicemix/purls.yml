@@ -1,0 +1,12 @@
+- pkg:maven/servicemix/servicemix@1.0-M1?classifier=src&type=tar.gz
+- pkg:maven/servicemix/servicemix@1.0-M1?classifier=src&type=zip
+- pkg:maven/servicemix/servicemix@1.0-M2?classifier=src&type=tar.gz
+- pkg:maven/servicemix/servicemix@1.0-M2?classifier=src&type=zip
+- pkg:maven/servicemix/servicemix@1.0.1?classifier=src&type=tar.gz
+- pkg:maven/servicemix/servicemix@1.0.1?classifier=src&type=zip
+- pkg:maven/servicemix/servicemix@1.0?classifier=src&type=tar.gz
+- pkg:maven/servicemix/servicemix@1.0?classifier=src&type=zip
+- pkg:maven/servicemix/servicemix@1.1
+- pkg:maven/servicemix/servicemix@2.0
+- pkg:maven/servicemix/servicemix@2.0.1
+- pkg:maven/servicemix/servicemix@2.0.2

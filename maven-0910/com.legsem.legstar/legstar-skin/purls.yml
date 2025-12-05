@@ -1,0 +1,4 @@
+- pkg:maven/com.legsem.legstar/legstar-skin@1.0.3
+- pkg:maven/com.legsem.legstar/legstar-skin@1.0.3?classifier=sources
+- pkg:maven/com.legsem.legstar/legstar-skin@1.0.4
+- pkg:maven/com.legsem.legstar/legstar-skin@1.0.4?classifier=sources

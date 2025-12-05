@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.keystore@1.0.0
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.keystore@1.0.0-rc1
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.keystore@1.0.0-rc2
+- pkg:maven/org.apache.servicemix.kernel.jaas/org.apache.servicemix.kernel.jaas.keystore@1.0.0?classifier=sources

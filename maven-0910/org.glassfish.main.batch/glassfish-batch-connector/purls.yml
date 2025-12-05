@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.main.batch/glassfish-batch-connector@4.0-b90?classifier=sources
+- pkg:maven/org.glassfish.main.batch/glassfish-batch-connector@4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.cave/apache-karaf-cave@2.3.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf.cave/apache-karaf-cave@2.3.0?classifier=src&type=zip

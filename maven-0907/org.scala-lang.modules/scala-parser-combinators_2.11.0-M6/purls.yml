@@ -1,0 +1,4 @@
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.11.0-M6@1.0.0-RC3
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.11.0-M6@1.0.0-RC3?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.11.0-M6@1.0.0-RC4
+- pkg:maven/org.scala-lang.modules/scala-parser-combinators_2.11.0-M6@1.0.0-RC4?classifier=sources

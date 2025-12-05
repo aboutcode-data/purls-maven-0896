@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.directory.studio/org.bouncycastle.bcprov.jdk15@140
+- pkg:maven/org.apache.directory.studio/org.bouncycastle.bcprov.jdk15@140?classifier=sources

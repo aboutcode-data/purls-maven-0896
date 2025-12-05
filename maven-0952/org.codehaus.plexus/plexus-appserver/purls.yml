@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.plexus/plexus-appserver@1.0-alpha-5
+- pkg:maven/org.codehaus.plexus/plexus-appserver@1.0-alpha-5?classifier=sources

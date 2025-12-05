@@ -1,0 +1,10 @@
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.18
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.18?classifier=sources
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.19
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.19?classifier=sources
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.20
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.20?classifier=sources
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.21
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.21?classifier=sources
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.22
+- pkg:maven/org.ow2.bundles/ow2-bundles-externals-cxf-2.2@1.0.22?classifier=sources

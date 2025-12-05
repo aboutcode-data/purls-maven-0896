@@ -1,0 +1,2 @@
+- pkg:maven/org.apithefire/apithefire-sql-c3p0@0.1.2
+- pkg:maven/org.apithefire/apithefire-sql-c3p0@0.1.2?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@0.3
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@0.3.1
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@0.3.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@0.3.1?classifier=sources
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@0.3?classifier=sources
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@1.0.0
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@1.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.aries.jndi/org.apache.aries.jndi.rmi@1.0.0?classifier=sources

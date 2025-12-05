@@ -1,0 +1,4 @@
+- pkg:maven/com.3pillarglobal.labs/quartz-simpledb-jobstore@0.0.1
+- pkg:maven/com.3pillarglobal.labs/quartz-simpledb-jobstore@0.0.1?classifier=sources
+- pkg:maven/com.3pillarglobal.labs/quartz-simpledb-jobstore@1.0
+- pkg:maven/com.3pillarglobal.labs/quartz-simpledb-jobstore@1.0?classifier=sources

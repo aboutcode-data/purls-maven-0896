@@ -1,0 +1,2 @@
+- pkg:maven/co.bitcode.utils/InterpolatedProperties@0.0.1
+- pkg:maven/co.bitcode.utils/InterpolatedProperties@0.0.1?classifier=sources

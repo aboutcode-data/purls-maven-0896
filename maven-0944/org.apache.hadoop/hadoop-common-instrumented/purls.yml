@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hadoop/hadoop-common-instrumented@0.22.0
+- pkg:maven/org.apache.hadoop/hadoop-common-instrumented@0.22.0?classifier=sources

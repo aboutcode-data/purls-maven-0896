@@ -1,0 +1,6 @@
+- pkg:maven/com.github.jeluard.ion.plugins/ion-maven-plugin@0.11
+- pkg:maven/com.github.jeluard.ion.plugins/ion-maven-plugin@0.11?classifier=sources
+- pkg:maven/com.github.jeluard.ion.plugins/ion-maven-plugin@0.9
+- pkg:maven/com.github.jeluard.ion.plugins/ion-maven-plugin@0.9?classifier=sources
+- pkg:maven/com.github.jeluard.ion.plugins/ion-maven-plugin@1.0
+- pkg:maven/com.github.jeluard.ion.plugins/ion-maven-plugin@1.0?classifier=sources

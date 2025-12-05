@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.opensuit/cel@0.9.6
+- pkg:maven/org.ow2.opensuit/cel@0.9.6?classifier=sources
+- pkg:maven/org.ow2.opensuit/cel@1.0
+- pkg:maven/org.ow2.opensuit/cel@1.0.1
+- pkg:maven/org.ow2.opensuit/cel@1.0.1?classifier=sources
+- pkg:maven/org.ow2.opensuit/cel@1.0?classifier=sources

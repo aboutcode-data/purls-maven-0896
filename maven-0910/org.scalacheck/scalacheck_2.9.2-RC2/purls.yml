@@ -1,0 +1,4 @@
+- pkg:maven/org.scalacheck/scalacheck_2.9.2-RC2@1.8
+- pkg:maven/org.scalacheck/scalacheck_2.9.2-RC2@1.8?classifier=sources
+- pkg:maven/org.scalacheck/scalacheck_2.9.2-RC2@1.9
+- pkg:maven/org.scalacheck/scalacheck_2.9.2-RC2@1.9?classifier=sources

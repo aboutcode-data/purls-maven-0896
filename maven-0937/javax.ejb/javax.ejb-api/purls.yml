@@ -1,0 +1,6 @@
+- pkg:maven/javax.ejb/javax.ejb-api@3.2
+- pkg:maven/javax.ejb/javax.ejb-api@3.2-b01
+- pkg:maven/javax.ejb/javax.ejb-api@3.2-b01?classifier=sources
+- pkg:maven/javax.ejb/javax.ejb-api@3.2-b02
+- pkg:maven/javax.ejb/javax.ejb-api@3.2-b02?classifier=sources
+- pkg:maven/javax.ejb/javax.ejb-api@3.2?classifier=sources

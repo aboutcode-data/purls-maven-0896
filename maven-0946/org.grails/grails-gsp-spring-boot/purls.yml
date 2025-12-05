@@ -1,0 +1,4 @@
+- pkg:maven/org.grails/grails-gsp-spring-boot@1.0.0.M1
+- pkg:maven/org.grails/grails-gsp-spring-boot@1.0.0.M1?classifier=sources
+- pkg:maven/org.grails/grails-gsp-spring-boot@1.0.0.RC1
+- pkg:maven/org.grails/grails-gsp-spring-boot@1.0.0.RC1?classifier=sources

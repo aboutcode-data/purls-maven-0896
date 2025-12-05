@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb2-commons-lang@2.3
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb2-commons-lang@2.3?classifier=sources
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb2-commons-lang@2.4
+- pkg:maven/org.jvnet.jaxb2_commons/jaxb2-commons-lang@2.4?classifier=sources

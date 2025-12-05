@@ -1,0 +1,4 @@
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.0.1?type=war
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.0.2?type=war
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.0.3?type=war
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.0?type=war

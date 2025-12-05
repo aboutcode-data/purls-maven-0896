@@ -1,0 +1,13 @@
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.0.0.v20120402
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.0.v20120525
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.1.v20121030
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.2.v20130305
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.3.v20130313
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.4.v20130313
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.5.v20130313
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.6.v20130911
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@1.1.7.v20140316
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@7.6.2.v20120308
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@7.6.2.v20120308?classifier=sources
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@8.1.2.v20120308
+- pkg:maven/org.mortbay.jetty.npn/npn-tests@8.1.2.v20120308?classifier=sources

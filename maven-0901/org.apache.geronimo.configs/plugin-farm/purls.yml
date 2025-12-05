@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.configs/plugin-farm@2.2.1?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/plugin-farm@2.2?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/plugin-farm@3.0-M1?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/plugin-farm@3.0-beta-1?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/plugin-farm@3.0.0?classifier=sources
+- pkg:maven/org.apache.geronimo.configs/plugin-farm@3.0.1?classifier=sources

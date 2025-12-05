@@ -1,0 +1,10 @@
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.12
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.12?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.2
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.4
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.7
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.7?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.9
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@1.15.9?classifier=sources

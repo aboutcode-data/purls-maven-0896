@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.fractal/fractal-api-bundle@2.0.2.0-0001
+- pkg:maven/org.ow2.fractal/fractal-api-bundle@2.0.2.0-0001?classifier=sources
+- pkg:maven/org.ow2.fractal/fractal-api-bundle@2.0.2.0-0002
+- pkg:maven/org.ow2.fractal/fractal-api-bundle@2.0.2.0-0002?classifier=sources

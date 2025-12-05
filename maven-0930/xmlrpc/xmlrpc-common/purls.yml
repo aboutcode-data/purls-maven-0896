@@ -1,0 +1,4 @@
+- pkg:maven/xmlrpc/xmlrpc-common@3.0
+- pkg:maven/xmlrpc/xmlrpc-common@3.0?classifier=sources
+- pkg:maven/xmlrpc/xmlrpc-common@3.0b1
+- pkg:maven/xmlrpc/xmlrpc-common@3.0b1?classifier=sources

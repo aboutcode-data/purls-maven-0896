@@ -1,0 +1,4 @@
+- pkg:maven/org.znerd/logdoc-sample-project@1.0-rc2
+- pkg:maven/org.znerd/logdoc-sample-project@1.0-rc2?classifier=sources
+- pkg:maven/org.znerd/logdoc-sample-project@1.0-rc3
+- pkg:maven/org.znerd/logdoc-sample-project@1.0-rc3?classifier=sources

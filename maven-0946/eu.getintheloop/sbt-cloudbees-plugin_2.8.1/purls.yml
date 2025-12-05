@@ -1,0 +1,4 @@
+- pkg:maven/eu.getintheloop/sbt-cloudbees-plugin_2.8.1@0.3.0
+- pkg:maven/eu.getintheloop/sbt-cloudbees-plugin_2.8.1@0.3.0?classifier=sources
+- pkg:maven/eu.getintheloop/sbt-cloudbees-plugin_2.8.1@0.3.1_0.10.0
+- pkg:maven/eu.getintheloop/sbt-cloudbees-plugin_2.8.1@0.3.1_0.10.1

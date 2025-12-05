@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.weblab.tools.maven/weblab-archetype-plugin@1.0
+- pkg:maven/org.ow2.weblab.tools.maven/weblab-archetype-plugin@1.0?classifier=sources

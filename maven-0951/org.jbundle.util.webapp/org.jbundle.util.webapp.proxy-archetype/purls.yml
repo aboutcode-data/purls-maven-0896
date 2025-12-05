@@ -1,0 +1,5 @@
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.proxy-archetype@0.9.1?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.proxy-archetype@0.9.3?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.proxy-archetype@0.9.4?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.proxy-archetype@1.0.0?classifier=sources
+- pkg:maven/org.jbundle.util.webapp/org.jbundle.util.webapp.proxy-archetype@1.0.1?classifier=sources

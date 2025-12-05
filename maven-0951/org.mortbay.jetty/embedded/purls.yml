@@ -1,0 +1,11 @@
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0beta15
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0beta15?classifier=sources
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0beta16
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0beta17
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0beta17?classifier=sources
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0rc0
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0rc0?classifier=sources
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0rc1
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0rc1?classifier=sources
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0rc2
+- pkg:maven/org.mortbay.jetty/embedded@6.0.0rc2?classifier=sources

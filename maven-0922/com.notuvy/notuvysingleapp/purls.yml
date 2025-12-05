@@ -1,0 +1,6 @@
+- pkg:maven/com.notuvy/notuvysingleapp@1.0
+- pkg:maven/com.notuvy/notuvysingleapp@1.0?classifier=sources
+- pkg:maven/com.notuvy/notuvysingleapp@2.0
+- pkg:maven/com.notuvy/notuvysingleapp@2.0?classifier=sources
+- pkg:maven/com.notuvy/notuvysingleapp@2.1
+- pkg:maven/com.notuvy/notuvysingleapp@2.1?classifier=sources

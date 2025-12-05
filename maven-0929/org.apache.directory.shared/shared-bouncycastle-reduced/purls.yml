@@ -1,0 +1,8 @@
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.10
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.10?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.11
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.11?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.12
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.12?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.9
+- pkg:maven/org.apache.directory.shared/shared-bouncycastle-reduced@0.9.9?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@1.0.2
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@1.0.2?classifier=sources
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.0.0
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.0.0?classifier=sources
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.1.3
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.1.3?classifier=sources
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.1.4
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.1.4?classifier=sources
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.1.5
+- pkg:maven/org.safehaus.jettyjam/jettyjam-rest@2.1.5?classifier=sources

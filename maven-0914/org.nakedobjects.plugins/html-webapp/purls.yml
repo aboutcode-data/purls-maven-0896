@@ -1,0 +1,2 @@
+- pkg:maven/org.nakedobjects.plugins/html-webapp@1.0-alpha-3?classifier=sources
+- pkg:maven/org.nakedobjects.plugins/html-webapp@1.0-alpha-3?type=war

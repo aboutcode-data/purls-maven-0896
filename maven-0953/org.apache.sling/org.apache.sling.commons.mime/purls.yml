@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.0.2-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.0.2-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.0.4-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.0.4-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.0-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.0-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.2
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.4
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/it.tidalwave.vaadin/it-tidalwave-ui-vaadin@1.0.0
+- pkg:maven/it.tidalwave.vaadin/it-tidalwave-ui-vaadin@1.0.0?classifier=sources
+- pkg:maven/it.tidalwave.vaadin/it-tidalwave-ui-vaadin@1.0.1
+- pkg:maven/it.tidalwave.vaadin/it-tidalwave-ui-vaadin@1.0.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.2.3?classifier=sources
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.2.3?type=war
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.2.4?classifier=sources
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.2.4?type=war
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.2.5?classifier=sources
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.2.5?type=war
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.3.0-RC1?classifier=sources
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.3.0-RC1?type=war
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.3.0-RC2?classifier=sources
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.3.0-RC2?type=war
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.3.0-RC3?classifier=sources
+- pkg:maven/com.wordnik/swagger-java-resteasy-sample_2.9.1@1.3.0-RC3?type=war

@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.weblab.service/ngramj-language-extraction@1.0?classifier=sources
+- pkg:maven/org.ow2.weblab.service/ngramj-language-extraction@1.0?type=war
+- pkg:maven/org.ow2.weblab.service/ngramj-language-extraction@1.1.1?classifier=sources
+- pkg:maven/org.ow2.weblab.service/ngramj-language-extraction@1.1.1?type=war
+- pkg:maven/org.ow2.weblab.service/ngramj-language-extraction@1.1?classifier=sources
+- pkg:maven/org.ow2.weblab.service/ngramj-language-extraction@1.1?type=war

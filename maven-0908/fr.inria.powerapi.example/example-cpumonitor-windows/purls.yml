@@ -1,0 +1,4 @@
+- pkg:maven/fr.inria.powerapi.example/example-cpumonitor-windows@1.4
+- pkg:maven/fr.inria.powerapi.example/example-cpumonitor-windows@1.4?classifier=sources
+- pkg:maven/fr.inria.powerapi.example/example-cpumonitor-windows@1.5
+- pkg:maven/fr.inria.powerapi.example/example-cpumonitor-windows@1.5?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.whirlycott/whirlycache@0.7.1
+- pkg:maven/com.whirlycott/whirlycache@1.0.1
+- pkg:maven/com.whirlycott/whirlycache@1.0.1?classifier=sources

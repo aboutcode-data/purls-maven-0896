@@ -1,0 +1,2 @@
+- pkg:maven/org.influxdb/influxdb-java@1.0
+- pkg:maven/org.influxdb/influxdb-java@1.0?classifier=sources

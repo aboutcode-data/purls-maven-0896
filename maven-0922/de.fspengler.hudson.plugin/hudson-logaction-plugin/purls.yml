@@ -1,0 +1,2 @@
+- pkg:maven/de.fspengler.hudson.plugin/hudson-logaction-plugin@1.0?classifier=sources
+- pkg:maven/de.fspengler.hudson.plugin/hudson-logaction-plugin@1.1?classifier=sources

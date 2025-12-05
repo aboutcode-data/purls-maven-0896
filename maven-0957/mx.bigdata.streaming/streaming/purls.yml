@@ -1,0 +1,2 @@
+- pkg:maven/mx.bigdata.streaming/streaming@1.0.0
+- pkg:maven/mx.bigdata.streaming/streaming@1.0.0?classifier=sources

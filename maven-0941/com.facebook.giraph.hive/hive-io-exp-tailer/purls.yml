@@ -1,0 +1,4 @@
+- pkg:maven/com.facebook.giraph.hive/hive-io-exp-tailer@0.6
+- pkg:maven/com.facebook.giraph.hive/hive-io-exp-tailer@0.6?classifier=sources
+- pkg:maven/com.facebook.giraph.hive/hive-io-exp-tailer@0.7
+- pkg:maven/com.facebook.giraph.hive/hive-io-exp-tailer@0.7?classifier=sources

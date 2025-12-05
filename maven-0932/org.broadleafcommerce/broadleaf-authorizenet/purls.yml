@@ -1,0 +1,6 @@
+- pkg:maven/org.broadleafcommerce/broadleaf-authorizenet@2.0.0-GA
+- pkg:maven/org.broadleafcommerce/broadleaf-authorizenet@2.0.0-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/broadleaf-authorizenet@2.0.1-GA
+- pkg:maven/org.broadleafcommerce/broadleaf-authorizenet@2.0.1-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/broadleaf-authorizenet@2.0.2-GA
+- pkg:maven/org.broadleafcommerce/broadleaf-authorizenet@2.0.2-GA?classifier=sources

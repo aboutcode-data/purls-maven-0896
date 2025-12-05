@@ -1,0 +1,2 @@
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.6.0.2
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.6.0.2?classifier=sources

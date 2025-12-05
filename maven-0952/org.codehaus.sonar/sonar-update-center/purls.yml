@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.sonar/sonar-update-center@2.2M1
+- pkg:maven/org.codehaus.sonar/sonar-update-center@2.2M1?classifier=sources
+- pkg:maven/org.codehaus.sonar/sonar-update-center@2.2RC1
+- pkg:maven/org.codehaus.sonar/sonar-update-center@2.2RC1?classifier=sources

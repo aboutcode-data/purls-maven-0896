@@ -1,0 +1,4 @@
+- pkg:maven/org.friendularity/org.friendularity.bundle.demo.ccrk@1.0.0
+- pkg:maven/org.friendularity/org.friendularity.bundle.demo.ccrk@1.0.0?classifier=sources
+- pkg:maven/org.friendularity/org.friendularity.bundle.demo.ccrk@1.0.1
+- pkg:maven/org.friendularity/org.friendularity.bundle.demo.ccrk@1.0.1?classifier=sources

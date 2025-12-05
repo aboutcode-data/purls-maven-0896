@@ -1,0 +1,5 @@
+- pkg:maven/org.mortbay.jetty.example/async-webservices-example-webapp@7.0.0pre0?classifier=sources
+- pkg:maven/org.mortbay.jetty.example/async-webservices-example-webapp@7.0.0pre0?type=war
+- pkg:maven/org.mortbay.jetty.example/async-webservices-example-webapp@7.0.0pre1?classifier=sources
+- pkg:maven/org.mortbay.jetty.example/async-webservices-example-webapp@7.0.0pre1?type=war
+- pkg:maven/org.mortbay.jetty.example/async-webservices-example-webapp@7.0.0pre2?type=war

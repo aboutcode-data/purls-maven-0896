@@ -1,0 +1,2 @@
+- pkg:maven/net.adamcin.httpsig/httpsig-helpers@0.6.0
+- pkg:maven/net.adamcin.httpsig/httpsig-helpers@0.6.0?classifier=sources

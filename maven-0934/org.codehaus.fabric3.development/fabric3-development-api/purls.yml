@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.fabric3.development/fabric3-development-api@0.2
+- pkg:maven/org.codehaus.fabric3.development/fabric3-development-api@0.2?classifier=sources
+- pkg:maven/org.codehaus.fabric3.development/fabric3-development-api@0.3
+- pkg:maven/org.codehaus.fabric3.development/fabric3-development-api@0.3?classifier=sources

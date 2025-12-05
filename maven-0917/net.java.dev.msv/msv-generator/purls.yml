@@ -1,0 +1,14 @@
+- pkg:maven/net.java.dev.msv/msv-generator@2009.1
+- pkg:maven/net.java.dev.msv/msv-generator@2009.1?classifier=sources
+- pkg:maven/net.java.dev.msv/msv-generator@2011.1
+- pkg:maven/net.java.dev.msv/msv-generator@2011.1?classifier=sources
+- pkg:maven/net.java.dev.msv/msv-generator@2013.2
+- pkg:maven/net.java.dev.msv/msv-generator@2013.2.2
+- pkg:maven/net.java.dev.msv/msv-generator@2013.2.2?classifier=sources
+- pkg:maven/net.java.dev.msv/msv-generator@2013.2.3
+- pkg:maven/net.java.dev.msv/msv-generator@2013.2.3?classifier=sources
+- pkg:maven/net.java.dev.msv/msv-generator@2013.2?classifier=sources
+- pkg:maven/net.java.dev.msv/msv-generator@2013.5.1
+- pkg:maven/net.java.dev.msv/msv-generator@2013.5.1?classifier=sources
+- pkg:maven/net.java.dev.msv/msv-generator@2013.6.1
+- pkg:maven/net.java.dev.msv/msv-generator@2013.6.1?classifier=sources

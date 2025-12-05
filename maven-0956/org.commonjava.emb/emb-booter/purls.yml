@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.emb/emb-booter@0.5
+- pkg:maven/org.commonjava.emb/emb-booter@0.5?classifier=sources

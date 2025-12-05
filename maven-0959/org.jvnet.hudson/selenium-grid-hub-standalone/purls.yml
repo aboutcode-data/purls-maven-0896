@@ -1,0 +1,14 @@
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.1
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.1?classifier=sources
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.3
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.3-hudson-1
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.3-hudson-1?classifier=sources
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.3?classifier=sources
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.4-hudson-1
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.4-hudson-1?classifier=sources
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.5-hudson-1
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.5-hudson-1?classifier=sources
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.6-hudson-1
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.6-hudson-1?classifier=sources
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.7-hudson-1
+- pkg:maven/org.jvnet.hudson/selenium-grid-hub-standalone@1.0.7-hudson-1?classifier=sources

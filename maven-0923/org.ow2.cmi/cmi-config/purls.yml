@@ -1,0 +1,8 @@
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC5
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC5?classifier=sources
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC5b
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC5b?classifier=sources
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC6
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC6?classifier=sources
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC7
+- pkg:maven/org.ow2.cmi/cmi-config@2.0-RC7?classifier=sources

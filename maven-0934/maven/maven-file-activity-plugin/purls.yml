@@ -1,0 +1,2 @@
+- pkg:maven/maven/maven-file-activity-plugin@1.6.1
+- pkg:maven/maven/maven-file-activity-plugin@1.6.1?classifier=sources

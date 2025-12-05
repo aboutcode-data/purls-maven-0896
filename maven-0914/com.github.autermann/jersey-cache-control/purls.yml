@@ -1,0 +1,2 @@
+- pkg:maven/com.github.autermann/jersey-cache-control@1.0.0
+- pkg:maven/com.github.autermann/jersey-cache-control@1.0.0?classifier=sources

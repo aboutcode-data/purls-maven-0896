@@ -1,0 +1,2 @@
+- pkg:maven/fr.norad.logback.prettier/logback-prettier@0.5
+- pkg:maven/fr.norad.logback.prettier/logback-prettier@0.5?classifier=sources

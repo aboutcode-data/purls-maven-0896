@@ -1,0 +1,8 @@
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.10
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.10.1
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.10.1?classifier=sources
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.10?classifier=sources
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.4-open
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.4-open?classifier=sources
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.9
+- pkg:maven/com.alibaba.rocketmq/rocketmq-research@3.0.9?classifier=sources

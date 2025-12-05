@@ -1,0 +1,12 @@
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.14?classifier=sources
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.14?type=war
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.15?classifier=sources
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.15?type=war
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.16?classifier=sources
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.16?type=war
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.17?classifier=sources
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.17?type=war
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.18?classifier=sources
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.18?type=war
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.19?classifier=sources
+- pkg:maven/net.dataforte.doorkeeper/doorkeeper-demo@0.3.19?type=war

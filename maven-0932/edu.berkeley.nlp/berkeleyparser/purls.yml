@@ -1,0 +1,2 @@
+- pkg:maven/edu.berkeley.nlp/berkeleyparser@r32
+- pkg:maven/edu.berkeley.nlp/berkeleyparser@r32?classifier=sources

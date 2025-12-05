@@ -1,0 +1,2 @@
+- pkg:maven/org.cogroo/cogroo-distr@4.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.cogroo/cogroo-distr@4.0.0?classifier=src&type=zip

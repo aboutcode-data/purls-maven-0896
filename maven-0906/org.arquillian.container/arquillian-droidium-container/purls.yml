@@ -1,0 +1,8 @@
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha2
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha2?classifier=sources
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha3
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha4
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha4?classifier=sources
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha5
+- pkg:maven/org.arquillian.container/arquillian-droidium-container@1.0.0.Alpha5?classifier=sources

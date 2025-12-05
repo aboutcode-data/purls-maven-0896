@@ -1,0 +1,4 @@
+- pkg:maven/org.specs2/specs2-scalacheck_2.11.0-RC4@2.3.10
+- pkg:maven/org.specs2/specs2-scalacheck_2.11.0-RC4@2.3.10?classifier=sources
+- pkg:maven/org.specs2/specs2-scalacheck_2.11.0-RC4@2.3.11
+- pkg:maven/org.specs2/specs2-scalacheck_2.11.0-RC4@2.3.11?classifier=sources

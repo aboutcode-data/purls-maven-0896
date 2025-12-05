@@ -1,0 +1,6 @@
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-annotations-api@1.0.4.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-annotations-api@1.0.4.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-annotations-api@1.0.5.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-annotations-api@1.0.5.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-annotations-api@1.1.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-config-annotations-api@1.1.0.Final?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.fusesource.scalate.tooling/scalate-archetype-empty@1.0?classifier=sources
+- pkg:maven/org.fusesource.scalate.tooling/scalate-archetype-empty@1.1?classifier=sources
+- pkg:maven/org.fusesource.scalate.tooling/scalate-archetype-empty@1.2?classifier=sources

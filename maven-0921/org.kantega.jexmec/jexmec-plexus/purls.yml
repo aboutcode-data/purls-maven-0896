@@ -1,0 +1,2 @@
+- pkg:maven/org.kantega.jexmec/jexmec-plexus@1.25
+- pkg:maven/org.kantega.jexmec/jexmec-plexus@1.25?classifier=sources

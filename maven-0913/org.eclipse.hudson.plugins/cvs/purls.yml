@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.hudson.plugins/cvs@3.0.0?classifier=sources
+- pkg:maven/org.eclipse.hudson.plugins/cvs@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.dblock.waffle/waffle-tomcat5@1.5
+- pkg:maven/com.github.dblock.waffle/waffle-tomcat5@1.5?classifier=sources

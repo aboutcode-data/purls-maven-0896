@@ -1,0 +1,4 @@
+- pkg:maven/geronimo/geronimo-console-standard@1.0-M5
+- pkg:maven/geronimo/geronimo-console-standard@1.0?type=war
+- pkg:maven/geronimo/geronimo-console-standard@1.1.1?type=war
+- pkg:maven/geronimo/geronimo-console-standard@1.1?type=war

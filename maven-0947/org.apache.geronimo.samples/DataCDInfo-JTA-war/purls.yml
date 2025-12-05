@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-war@2.1.7?classifier=sources
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-war@2.1.7?type=war
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-war@2.2.1?classifier=sources
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-war@2.2.1?type=war
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-war@2.2?classifier=sources
+- pkg:maven/org.apache.geronimo.samples/DataCDInfo-JTA-war@2.2?type=war

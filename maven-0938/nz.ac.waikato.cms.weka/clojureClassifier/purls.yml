@@ -1,0 +1,4 @@
+- pkg:maven/nz.ac.waikato.cms.weka/clojureClassifier@1.0.0
+- pkg:maven/nz.ac.waikato.cms.weka/clojureClassifier@1.0.0?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.weka/clojureClassifier@1.0.1
+- pkg:maven/nz.ac.waikato.cms.weka/clojureClassifier@1.0.1?classifier=sources

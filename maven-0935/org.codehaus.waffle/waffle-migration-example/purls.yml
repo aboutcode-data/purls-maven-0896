@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.waffle/waffle-migration-example@1.0-RC-2?classifier=sources
+- pkg:maven/org.codehaus.waffle/waffle-migration-example@1.0-RC-2?type=war

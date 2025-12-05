@@ -1,0 +1,12 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.2.2_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.2.2_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.2.2_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.2.2_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.2.2_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.2.2_7
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.3_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.4_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.4_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.4_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-dbcp@1.4_3?classifier=sources

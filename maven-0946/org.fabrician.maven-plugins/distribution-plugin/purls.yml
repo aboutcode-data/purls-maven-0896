@@ -1,0 +1,2 @@
+- pkg:maven/org.fabrician.maven-plugins/distribution-plugin@1.1
+- pkg:maven/org.fabrician.maven-plugins/distribution-plugin@1.1?classifier=sources

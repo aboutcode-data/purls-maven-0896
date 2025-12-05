@@ -1,0 +1,2 @@
+- pkg:maven/io.airlift.resolver/resolver@1.1
+- pkg:maven/io.airlift.resolver/resolver@1.1?classifier=sources

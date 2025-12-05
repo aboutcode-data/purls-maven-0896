@@ -1,0 +1,4 @@
+- pkg:maven/org.sat4j/org.sat4j.csp.xmlparser@2.2.3
+- pkg:maven/org.sat4j/org.sat4j.csp.xmlparser@2.2.3?classifier=sources
+- pkg:maven/org.sat4j/org.sat4j.csp.xmlparser@2.3.0
+- pkg:maven/org.sat4j/org.sat4j.csp.xmlparser@2.3.0?classifier=sources

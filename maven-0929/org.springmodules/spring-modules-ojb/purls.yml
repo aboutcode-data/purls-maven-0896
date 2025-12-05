@@ -1,0 +1,8 @@
+- pkg:maven/org.springmodules/spring-modules-ojb@0.6
+- pkg:maven/org.springmodules/spring-modules-ojb@0.6?classifier=sources
+- pkg:maven/org.springmodules/spring-modules-ojb@0.7
+- pkg:maven/org.springmodules/spring-modules-ojb@0.7?classifier=sources
+- pkg:maven/org.springmodules/spring-modules-ojb@0.8
+- pkg:maven/org.springmodules/spring-modules-ojb@0.8?classifier=sources
+- pkg:maven/org.springmodules/spring-modules-ojb@0.8a
+- pkg:maven/org.springmodules/spring-modules-ojb@0.8a?classifier=sources

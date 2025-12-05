@@ -1,0 +1,3 @@
+- pkg:maven/com.github.jeluard.parent-enforcer-rule.tests.multiple-correct/module2@1.0
+- pkg:maven/com.github.jeluard.parent-enforcer-rule.tests.multiple-correct/module2@1.0.1
+- pkg:maven/com.github.jeluard.parent-enforcer-rule.tests.multiple-correct/module2@1.0.2

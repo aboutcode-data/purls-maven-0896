@@ -1,0 +1,4 @@
+- pkg:maven/org.epics/pvmanager-integration@2.4
+- pkg:maven/org.epics/pvmanager-integration@2.4?classifier=sources
+- pkg:maven/org.epics/pvmanager-integration@2.5
+- pkg:maven/org.epics/pvmanager-integration@2.5?classifier=sources

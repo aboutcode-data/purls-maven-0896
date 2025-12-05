@@ -1,0 +1,12 @@
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@1.0.0
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@1.0.1
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.0
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.0?classifier=sources
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.1
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.1?classifier=sources
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.2
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.2?classifier=sources
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.3
+- pkg:maven/net.erdfelt.maven/xmlfresh-maven-plugin@2.3?classifier=sources

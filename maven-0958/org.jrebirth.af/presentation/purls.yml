@@ -1,0 +1,4 @@
+- pkg:maven/org.jrebirth.af/presentation@7.7.0
+- pkg:maven/org.jrebirth.af/presentation@7.7.0?classifier=sources
+- pkg:maven/org.jrebirth.af/presentation@7.7.1
+- pkg:maven/org.jrebirth.af/presentation@7.7.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.extension/arquillian-portal-warp-api@1.1.0.Alpha1
+- pkg:maven/org.jboss.arquillian.extension/arquillian-portal-warp-api@1.1.0.Alpha1?classifier=sources

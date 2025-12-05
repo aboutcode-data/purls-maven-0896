@@ -1,0 +1,4 @@
+- pkg:maven/de.huxhorn.lilith/log4j@0.9.40
+- pkg:maven/de.huxhorn.lilith/log4j@0.9.40?classifier=sources
+- pkg:maven/de.huxhorn.lilith/log4j@0.9.41
+- pkg:maven/de.huxhorn.lilith/log4j@0.9.41?classifier=sources

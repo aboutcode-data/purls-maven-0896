@@ -1,0 +1,10 @@
+- pkg:maven/edu.vt.middleware/vt-password@3.0
+- pkg:maven/edu.vt.middleware/vt-password@3.0.1
+- pkg:maven/edu.vt.middleware/vt-password@3.0.1?classifier=sources
+- pkg:maven/edu.vt.middleware/vt-password@3.0?classifier=sources
+- pkg:maven/edu.vt.middleware/vt-password@3.1
+- pkg:maven/edu.vt.middleware/vt-password@3.1.1
+- pkg:maven/edu.vt.middleware/vt-password@3.1.1?classifier=sources
+- pkg:maven/edu.vt.middleware/vt-password@3.1.2
+- pkg:maven/edu.vt.middleware/vt-password@3.1.2?classifier=sources
+- pkg:maven/edu.vt.middleware/vt-password@3.1?classifier=sources

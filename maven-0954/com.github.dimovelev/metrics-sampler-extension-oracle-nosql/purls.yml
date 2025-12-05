@@ -1,0 +1,4 @@
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-oracle-nosql@0.5.7
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-oracle-nosql@0.5.7?classifier=sources
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-oracle-nosql@0.7.1
+- pkg:maven/com.github.dimovelev/metrics-sampler-extension-oracle-nosql@0.7.1?classifier=sources

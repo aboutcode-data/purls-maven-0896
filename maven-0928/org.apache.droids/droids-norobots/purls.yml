@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.droids/droids-norobots@0.1.0-incubating
+- pkg:maven/org.apache.droids/droids-norobots@0.1.0-incubating?classifier=sources
+- pkg:maven/org.apache.droids/droids-norobots@0.2-incubating
+- pkg:maven/org.apache.droids/droids-norobots@0.2-incubating?classifier=sources

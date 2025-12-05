@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.sling/org.apache.sling.httpauth@2.0.2-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.httpauth@2.0.2-incubator?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.httpauth@2.0.4-incubator
+- pkg:maven/org.apache.sling/org.apache.sling.httpauth@2.0.4-incubator?classifier=sources

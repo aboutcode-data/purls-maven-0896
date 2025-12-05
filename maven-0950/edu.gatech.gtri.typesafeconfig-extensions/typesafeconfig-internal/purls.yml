@@ -1,0 +1,4 @@
+- pkg:maven/edu.gatech.gtri.typesafeconfig-extensions/typesafeconfig-internal@1.0
+- pkg:maven/edu.gatech.gtri.typesafeconfig-extensions/typesafeconfig-internal@1.0?classifier=sources
+- pkg:maven/edu.gatech.gtri.typesafeconfig-extensions/typesafeconfig-internal@1.1
+- pkg:maven/edu.gatech.gtri.typesafeconfig-extensions/typesafeconfig-internal@1.1?classifier=sources

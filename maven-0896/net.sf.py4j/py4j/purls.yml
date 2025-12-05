@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.py4j/py4j@0.8.1
+- pkg:maven/net.sf.py4j/py4j@0.8.1?classifier=sources

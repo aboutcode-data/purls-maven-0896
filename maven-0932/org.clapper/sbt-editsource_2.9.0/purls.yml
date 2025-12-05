@@ -1,0 +1,8 @@
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.4.2
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.4.2?classifier=sources
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.5
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.5.1
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.5.1?classifier=sources
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.5.2
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.5.2?classifier=sources
+- pkg:maven/org.clapper/sbt-editsource_2.9.0@0.5?classifier=sources

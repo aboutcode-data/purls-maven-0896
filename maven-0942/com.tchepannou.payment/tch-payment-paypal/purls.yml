@@ -1,0 +1,2 @@
+- pkg:maven/com.tchepannou.payment/tch-payment-paypal@3.0
+- pkg:maven/com.tchepannou.payment/tch-payment-paypal@3.0?classifier=sources

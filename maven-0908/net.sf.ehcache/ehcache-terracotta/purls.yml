@@ -1,0 +1,11 @@
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@1.7.0
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@1.7.0-beta
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@1.7.1
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@1.7.2
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@1.8.0
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@2.0.0
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@2.0.1
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@2.1.0
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@2.1.0?classifier=sources
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@2.1.1
+- pkg:maven/net.sf.ehcache/ehcache-terracotta@2.1.1?classifier=sources

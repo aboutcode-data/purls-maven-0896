@@ -1,0 +1,8 @@
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.4
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.4?classifier=sources
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.5
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.5?classifier=sources
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.6
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.6?classifier=sources
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.7
+- pkg:maven/com.cedarsoft.utils.legacy/db@1.3.7?classifier=sources

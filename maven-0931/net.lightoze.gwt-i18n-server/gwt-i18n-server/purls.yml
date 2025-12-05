@@ -1,0 +1,10 @@
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.18
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.18?classifier=sources
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.19
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.19?classifier=sources
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.20
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.20?classifier=sources
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.21
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.21?classifier=sources
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.22
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.22?classifier=sources

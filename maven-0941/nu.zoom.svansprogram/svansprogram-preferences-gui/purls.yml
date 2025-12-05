@@ -1,0 +1,6 @@
+- pkg:maven/nu.zoom.svansprogram/svansprogram-preferences-gui@1.0
+- pkg:maven/nu.zoom.svansprogram/svansprogram-preferences-gui@1.0?classifier=sources
+- pkg:maven/nu.zoom.svansprogram/svansprogram-preferences-gui@2.2
+- pkg:maven/nu.zoom.svansprogram/svansprogram-preferences-gui@2.2?classifier=sources
+- pkg:maven/nu.zoom.svansprogram/svansprogram-preferences-gui@3.0
+- pkg:maven/nu.zoom.svansprogram/svansprogram-preferences-gui@3.0?classifier=sources

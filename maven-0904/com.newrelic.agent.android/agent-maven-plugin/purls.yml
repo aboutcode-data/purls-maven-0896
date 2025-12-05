@@ -1,0 +1,15 @@
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.365
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.365.1
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.365.2
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.412.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.426.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.433.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.440.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@2.444.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@3.199.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@3.214.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@3.239.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@3.264.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@3.308.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@3.330.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@3.361.0

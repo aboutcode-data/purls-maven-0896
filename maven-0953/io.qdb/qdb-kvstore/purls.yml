@@ -1,0 +1,2 @@
+- pkg:maven/io.qdb/qdb-kvstore@0.1.3
+- pkg:maven/io.qdb/qdb-kvstore@0.1.3?classifier=sources

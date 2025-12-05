@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.hk2.auto-depends-test/test1@1.1.15?classifier=sources
+- pkg:maven/org.glassfish.hk2.auto-depends-test/test1@1.6.10?classifier=sources
+- pkg:maven/org.glassfish.hk2.auto-depends-test/test1@1.6.11?classifier=sources
+- pkg:maven/org.glassfish.hk2.auto-depends-test/test1@1.6.12?classifier=sources

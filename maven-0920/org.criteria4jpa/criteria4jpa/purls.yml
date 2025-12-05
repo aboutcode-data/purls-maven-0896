@@ -1,0 +1,2 @@
+- pkg:maven/org.criteria4jpa/criteria4jpa@0.2
+- pkg:maven/org.criteria4jpa/criteria4jpa@0.2?classifier=sources

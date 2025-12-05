@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.hydra-cache/harmony@0.4
+- pkg:maven/org.codehaus.hydra-cache/harmony@0.4?classifier=sources

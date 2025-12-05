@@ -1,0 +1,8 @@
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.8.0?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.9.0-M1?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.9.0-M2?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.9.0-M3?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.9.0-M4?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.9.0-M5?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.9.0?classifier=sources
+- pkg:maven/org.ow2.orchestra.designer/swf-orchestra-designer@4.9.1?classifier=sources

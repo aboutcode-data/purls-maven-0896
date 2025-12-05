@@ -1,0 +1,6 @@
+- pkg:maven/com.google.dexmaker/dexmaker@0.9
+- pkg:maven/com.google.dexmaker/dexmaker@0.9?classifier=sources
+- pkg:maven/com.google.dexmaker/dexmaker@1.0
+- pkg:maven/com.google.dexmaker/dexmaker@1.0?classifier=sources
+- pkg:maven/com.google.dexmaker/dexmaker@1.1
+- pkg:maven/com.google.dexmaker/dexmaker@1.1?classifier=sources

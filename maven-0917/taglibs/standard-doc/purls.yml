@@ -1,0 +1,9 @@
+- pkg:maven/taglibs/standard-doc@1.0.1?type=war
+- pkg:maven/taglibs/standard-doc@1.0.3?type=war
+- pkg:maven/taglibs/standard-doc@1.0.4?type=war
+- pkg:maven/taglibs/standard-doc@1.0.5?type=war
+- pkg:maven/taglibs/standard-doc@1.0.6?type=war
+- pkg:maven/taglibs/standard-doc@1.0?type=war
+- pkg:maven/taglibs/standard-doc@1.1.0?type=war
+- pkg:maven/taglibs/standard-doc@1.1.1?type=war
+- pkg:maven/taglibs/standard-doc@1.1.2?type=war

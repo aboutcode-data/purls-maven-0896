@@ -1,0 +1,2 @@
+- pkg:maven/org.nanocontainer/nanocontainer-persistence-distribution@1.1-RC-1?classifier=src&type=zip
+- pkg:maven/org.nanocontainer/nanocontainer-persistence-distribution@1.1?classifier=src&type=zip

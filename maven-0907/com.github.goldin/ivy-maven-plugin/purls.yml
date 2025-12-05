@@ -1,0 +1,4 @@
+- pkg:maven/com.github.goldin/ivy-maven-plugin@0.2.4
+- pkg:maven/com.github.goldin/ivy-maven-plugin@0.2.4?classifier=sources
+- pkg:maven/com.github.goldin/ivy-maven-plugin@0.2.5
+- pkg:maven/com.github.goldin/ivy-maven-plugin@0.2.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.bacoder.jgit/org.eclipse.jgit.console@3.1.0-201308312337-r
+- pkg:maven/com.bacoder.jgit/org.eclipse.jgit.console@3.1.0-201308312337-r?classifier=sources
+- pkg:maven/com.bacoder.jgit/org.eclipse.jgit.console@3.1.0-201309071158-r
+- pkg:maven/com.bacoder.jgit/org.eclipse.jgit.console@3.1.0-201309071158-r?classifier=sources

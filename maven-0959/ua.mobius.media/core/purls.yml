@@ -1,0 +1,4 @@
+- pkg:maven/ua.mobius.media/core@4.0.0
+- pkg:maven/ua.mobius.media/core@4.0.0?classifier=sources
+- pkg:maven/ua.mobius.media/core@4.0.1.FINAL
+- pkg:maven/ua.mobius.media/core@4.0.1.FINAL?classifier=sources

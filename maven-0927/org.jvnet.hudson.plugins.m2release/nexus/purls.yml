@@ -1,0 +1,5 @@
+- pkg:maven/org.jvnet.hudson.plugins.m2release/nexus@0.0.1
+- pkg:maven/org.jvnet.hudson.plugins.m2release/nexus@0.0.2
+- pkg:maven/org.jvnet.hudson.plugins.m2release/nexus@0.0.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins.m2release/nexus@0.0.3
+- pkg:maven/org.jvnet.hudson.plugins.m2release/nexus@0.0.3?classifier=sources

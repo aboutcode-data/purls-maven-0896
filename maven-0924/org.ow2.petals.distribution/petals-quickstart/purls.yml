@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.petals.distribution/petals-quickstart@2.1.1
+- pkg:maven/org.ow2.petals.distribution/petals-quickstart@2.1.1?classifier=sources
+- pkg:maven/org.ow2.petals.distribution/petals-quickstart@2.2?classifier=sources
+- pkg:maven/org.ow2.petals.distribution/petals-quickstart@2.2?type=zip
+- pkg:maven/org.ow2.petals.distribution/petals-quickstart@3.0
+- pkg:maven/org.ow2.petals.distribution/petals-quickstart@3.0?classifier=sources

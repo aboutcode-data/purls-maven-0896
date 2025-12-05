@@ -1,0 +1,10 @@
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.1
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.1?classifier=sources
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.2
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.2?classifier=sources
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.3
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.3?classifier=sources
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.4
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.4?classifier=sources
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.5
+- pkg:maven/ch.ledcom.tomcat.valves/tomcat-valves@0.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.lightful.maven.drools.plugin.its.test-artifacts/person-fact-model@0.1.11
+- pkg:maven/de.lightful.maven.drools.plugin.its.test-artifacts/person-fact-model@0.1.11?classifier=sources

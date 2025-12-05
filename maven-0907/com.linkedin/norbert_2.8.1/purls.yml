@@ -1,0 +1,14 @@
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.11
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.11?classifier=sources
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.12
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.12?classifier=sources
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.13
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.13?classifier=sources
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.29
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.29?classifier=sources
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.30
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.30?classifier=sources
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.32
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.32?classifier=sources
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.33
+- pkg:maven/com.linkedin/norbert_2.8.1@0.6.33?classifier=sources

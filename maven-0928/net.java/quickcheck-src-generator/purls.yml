@@ -1,0 +1,10 @@
+- pkg:maven/net.java/quickcheck-src-generator@0.5
+- pkg:maven/net.java/quickcheck-src-generator@0.5.1
+- pkg:maven/net.java/quickcheck-src-generator@0.5.1?classifier=sources
+- pkg:maven/net.java/quickcheck-src-generator@0.5?classifier=sources
+- pkg:maven/net.java/quickcheck-src-generator@0.5a
+- pkg:maven/net.java/quickcheck-src-generator@0.5a?classifier=sources
+- pkg:maven/net.java/quickcheck-src-generator@0.5b
+- pkg:maven/net.java/quickcheck-src-generator@0.5b?classifier=sources
+- pkg:maven/net.java/quickcheck-src-generator@0.6
+- pkg:maven/net.java/quickcheck-src-generator@0.6?classifier=sources

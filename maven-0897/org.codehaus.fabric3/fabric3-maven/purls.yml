@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.fabric3/fabric3-maven@0.2
+- pkg:maven/org.codehaus.fabric3/fabric3-maven@0.2?classifier=sources

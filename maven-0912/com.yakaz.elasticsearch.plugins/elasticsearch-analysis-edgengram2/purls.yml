@@ -1,0 +1,4 @@
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-edgengram2@1.0.0?classifier=sources
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-edgengram2@1.0.0?type=zip
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-edgengram2@1.1.0?classifier=sources
+- pkg:maven/com.yakaz.elasticsearch.plugins/elasticsearch-analysis-edgengram2@1.1.0?type=zip
