@@ -1,0 +1,2 @@
+- pkg:maven/edu.utah.bmi/rush@1.0
+- pkg:maven/edu.utah.bmi/rush@1.0?classifier=sources

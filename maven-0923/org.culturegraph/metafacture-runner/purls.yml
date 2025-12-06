@@ -8,3 +8,5 @@
 - pkg:maven/org.culturegraph/metafacture-runner@3.1.1?classifier=sources
 - pkg:maven/org.culturegraph/metafacture-runner@3.1.2
 - pkg:maven/org.culturegraph/metafacture-runner@3.1.2?classifier=sources
+- pkg:maven/org.culturegraph/metafacture-runner@4.0.0
+- pkg:maven/org.culturegraph/metafacture-runner@4.0.0?classifier=sources

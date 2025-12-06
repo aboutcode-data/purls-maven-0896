@@ -18,5 +18,15 @@
 - pkg:maven/de.alpharogroup/rest-client@3.19.0?classifier=sources
 - pkg:maven/de.alpharogroup/rest-client@3.21.0
 - pkg:maven/de.alpharogroup/rest-client@3.21.0?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@3.22.0
+- pkg:maven/de.alpharogroup/rest-client@3.22.0?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@3.23.0
+- pkg:maven/de.alpharogroup/rest-client@3.23.0?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@3.26.0
+- pkg:maven/de.alpharogroup/rest-client@3.26.0?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@3.27.0
+- pkg:maven/de.alpharogroup/rest-client@3.27.0?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@3.28.0
+- pkg:maven/de.alpharogroup/rest-client@3.28.0?classifier=sources
 - pkg:maven/de.alpharogroup/rest-client@3.9.0
 - pkg:maven/de.alpharogroup/rest-client@3.9.0?classifier=sources

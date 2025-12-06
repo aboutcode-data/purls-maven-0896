@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-compodoc-compodoc@0.0.40
+- pkg:maven/org.webjars.npm/github-com-compodoc-compodoc@0.0.40?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-compodoc-compodoc@0.0.41
+- pkg:maven/org.webjars.npm/github-com-compodoc-compodoc@0.0.41?classifier=sources

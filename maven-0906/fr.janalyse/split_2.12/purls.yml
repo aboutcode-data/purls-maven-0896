@@ -1,0 +1,2 @@
+- pkg:maven/fr.janalyse/split_2.12@0.3.6
+- pkg:maven/fr.janalyse/split_2.12@0.3.6?classifier=sources

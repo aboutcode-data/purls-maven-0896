@@ -1,0 +1,4 @@
+- pkg:maven/am.ik.blog/blog-domain@4.0.2
+- pkg:maven/am.ik.blog/blog-domain@4.0.2?classifier=sources
+- pkg:maven/am.ik.blog/blog-domain@4.1.0
+- pkg:maven/am.ik.blog/blog-domain@4.1.0?classifier=sources

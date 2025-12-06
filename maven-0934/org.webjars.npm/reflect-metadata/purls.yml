@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/reflect-metadata@0.1.3?classifier=sources
 - pkg:maven/org.webjars.npm/reflect-metadata@0.1.8
 - pkg:maven/org.webjars.npm/reflect-metadata@0.1.8?classifier=sources
+- pkg:maven/org.webjars.npm/reflect-metadata@0.1.9
+- pkg:maven/org.webjars.npm/reflect-metadata@0.1.9?classifier=sources

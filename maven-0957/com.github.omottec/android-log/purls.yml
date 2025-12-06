@@ -1,0 +1,9 @@
+- pkg:maven/com.github.omottec/android-log@0.0.08?classifier=sources
+- pkg:maven/com.github.omottec/android-log@0.0.08?type=aar
+- pkg:maven/com.github.omottec/android-log@0.0.09?classifier=sources
+- pkg:maven/com.github.omottec/android-log@0.0.09?type=aar
+- pkg:maven/com.github.omottec/android-log@0.0.10?classifier=sources
+- pkg:maven/com.github.omottec/android-log@0.0.10?type=aar
+- pkg:maven/com.github.omottec/android-log@0.0.11?type=aar
+- pkg:maven/com.github.omottec/android-log@0.0.14?classifier=sources
+- pkg:maven/com.github.omottec/android-log@0.0.14?type=aar

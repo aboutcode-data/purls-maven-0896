@@ -1,0 +1,4 @@
+- pkg:maven/me.jeffshaw.harmony/harmony_cats0-8-1_scalaz7-2_2.12@1.0
+- pkg:maven/me.jeffshaw.harmony/harmony_cats0-8-1_scalaz7-2_2.12@1.0?classifier=sources
+- pkg:maven/me.jeffshaw.harmony/harmony_cats0-8-1_scalaz7-2_2.12@1.1
+- pkg:maven/me.jeffshaw.harmony/harmony_cats0-8-1_scalaz7-2_2.12@1.1?classifier=sources

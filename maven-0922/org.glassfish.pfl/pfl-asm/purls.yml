@@ -4,3 +4,7 @@
 - pkg:maven/org.glassfish.pfl/pfl-asm@4.0.0-b003?classifier=sources
 - pkg:maven/org.glassfish.pfl/pfl-asm@4.0.0-b004
 - pkg:maven/org.glassfish.pfl/pfl-asm@4.0.0-b004?classifier=sources
+- pkg:maven/org.glassfish.pfl/pfl-asm@4.0.0-b008
+- pkg:maven/org.glassfish.pfl/pfl-asm@4.0.0-b008?classifier=sources
+- pkg:maven/org.glassfish.pfl/pfl-asm@4.0.0-b009
+- pkg:maven/org.glassfish.pfl/pfl-asm@4.0.0-b009?classifier=sources

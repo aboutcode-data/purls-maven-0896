@@ -1,0 +1,4 @@
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-collector@0.1
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-collector@0.1?classifier=sources
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-collector@0.2
+- pkg:maven/org.mortbay.jetty.loadgenerator/jetty-load-generator-collector@0.2?classifier=sources

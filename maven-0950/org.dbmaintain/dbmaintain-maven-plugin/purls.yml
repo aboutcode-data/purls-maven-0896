@@ -8,3 +8,5 @@
 - pkg:maven/org.dbmaintain/dbmaintain-maven-plugin@2.3?classifier=sources
 - pkg:maven/org.dbmaintain/dbmaintain-maven-plugin@2.4
 - pkg:maven/org.dbmaintain/dbmaintain-maven-plugin@2.4?classifier=sources
+- pkg:maven/org.dbmaintain/dbmaintain-maven-plugin@2.7.2
+- pkg:maven/org.dbmaintain/dbmaintain-maven-plugin@2.7.2?classifier=sources

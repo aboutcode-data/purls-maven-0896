@@ -16,3 +16,5 @@
 - pkg:maven/com.jaredrummler/android-processes@1.0.7?type=aar
 - pkg:maven/com.jaredrummler/android-processes@1.0.8?classifier=sources
 - pkg:maven/com.jaredrummler/android-processes@1.0.8?type=aar
+- pkg:maven/com.jaredrummler/android-processes@1.0.9?classifier=sources
+- pkg:maven/com.jaredrummler/android-processes@1.0.9?type=aar

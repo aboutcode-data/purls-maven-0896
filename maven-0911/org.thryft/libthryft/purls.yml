@@ -1,0 +1,6 @@
+- pkg:maven/org.thryft/libthryft@2.0.1
+- pkg:maven/org.thryft/libthryft@2.0.1?classifier=sources
+- pkg:maven/org.thryft/libthryft@2.0.3
+- pkg:maven/org.thryft/libthryft@2.0.3?classifier=sources
+- pkg:maven/org.thryft/libthryft@2.0.4
+- pkg:maven/org.thryft/libthryft@2.0.4?classifier=sources

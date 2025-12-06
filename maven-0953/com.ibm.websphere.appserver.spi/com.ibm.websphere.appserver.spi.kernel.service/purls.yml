@@ -6,3 +6,6 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.4.12
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.4.13
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.14
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.15
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.16
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.17

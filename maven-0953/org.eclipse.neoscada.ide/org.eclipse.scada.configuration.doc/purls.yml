@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.doc@0.3.0
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.doc@0.3.0?classifier=sources
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.doc@0.4.0
+- pkg:maven/org.eclipse.neoscada.ide/org.eclipse.scada.configuration.doc@0.4.0?classifier=sources

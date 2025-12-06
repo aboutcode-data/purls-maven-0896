@@ -1,0 +1,4 @@
+- pkg:maven/javax.security.enterprise/javax.security.enterprise-api@1.0-b05
+- pkg:maven/javax.security.enterprise/javax.security.enterprise-api@1.0-b05?classifier=sources
+- pkg:maven/javax.security.enterprise/javax.security.enterprise-api@1.0-b06
+- pkg:maven/javax.security.enterprise/javax.security.enterprise-api@1.0-b06?classifier=sources

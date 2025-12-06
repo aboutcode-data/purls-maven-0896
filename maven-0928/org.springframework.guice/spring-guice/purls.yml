@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.guice/spring-guice@1.0.0.RELEASE
+- pkg:maven/org.springframework.guice/spring-guice@1.0.0.RELEASE?classifier=sources

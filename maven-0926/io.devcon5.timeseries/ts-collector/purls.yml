@@ -1,0 +1,2 @@
+- pkg:maven/io.devcon5.timeseries/ts-collector@1.1
+- pkg:maven/io.devcon5.timeseries/ts-collector@1.1?classifier=sources

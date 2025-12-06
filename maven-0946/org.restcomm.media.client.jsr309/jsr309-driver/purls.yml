@@ -1,0 +1,10 @@
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@6.0.29
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@6.0.29?classifier=sources
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@6.0.36
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@6.0.36?classifier=sources
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@7.0.13
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@7.0.13?classifier=sources
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@7.0.14
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@7.0.14?classifier=sources
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@7.0.16
+- pkg:maven/org.restcomm.media.client.jsr309/jsr309-driver@7.0.16?classifier=sources

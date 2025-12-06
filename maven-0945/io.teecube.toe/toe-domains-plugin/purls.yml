@@ -1,0 +1,2 @@
+- pkg:maven/io.teecube.toe/toe-domains-plugin@0.0.1
+- pkg:maven/io.teecube.toe/toe-domains-plugin@0.0.1?classifier=sources

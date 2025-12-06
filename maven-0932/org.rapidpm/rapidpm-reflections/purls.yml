@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm/rapidpm-reflections@1.0.0?classifier=sources
+- pkg:maven/org.rapidpm/rapidpm-reflections@1.0.1?classifier=sources

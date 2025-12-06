@@ -12,3 +12,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@0.24.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@0.25.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@0.26.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@1.0.0?classifier=sources

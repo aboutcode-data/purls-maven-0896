@@ -8,3 +8,7 @@
 - pkg:maven/net.javacrumbs.future-converter/future-converter-spring-rxjava@0.2.2?classifier=sources
 - pkg:maven/net.javacrumbs.future-converter/future-converter-spring-rxjava@0.3.0
 - pkg:maven/net.javacrumbs.future-converter/future-converter-spring-rxjava@0.3.0?classifier=sources
+- pkg:maven/net.javacrumbs.future-converter/future-converter-spring-rxjava@1.0.0
+- pkg:maven/net.javacrumbs.future-converter/future-converter-spring-rxjava@1.0.0?classifier=sources
+- pkg:maven/net.javacrumbs.future-converter/future-converter-spring-rxjava@1.1.0
+- pkg:maven/net.javacrumbs.future-converter/future-converter-spring-rxjava@1.1.0?classifier=sources

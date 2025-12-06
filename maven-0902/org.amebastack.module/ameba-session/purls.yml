@@ -1,3 +1,5 @@
+- pkg:maven/org.amebastack.module/ameba-session@0.1.10
+- pkg:maven/org.amebastack.module/ameba-session@0.1.10?classifier=sources
 - pkg:maven/org.amebastack.module/ameba-session@0.1.6
 - pkg:maven/org.amebastack.module/ameba-session@0.1.6?classifier=sources
 - pkg:maven/org.amebastack.module/ameba-session@0.1.6e

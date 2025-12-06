@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.gobblin/gobblin-avro-json@0.10.0
+- pkg:maven/com.linkedin.gobblin/gobblin-avro-json@0.10.0?classifier=sources

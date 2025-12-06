@@ -1,0 +1,4 @@
+- pkg:maven/com.trueaccord.scalapb/compilerpluginshaded_2.11@0.4.45-p1
+- pkg:maven/com.trueaccord.scalapb/compilerpluginshaded_2.11@0.4.45-p1?classifier=sources
+- pkg:maven/com.trueaccord.scalapb/compilerpluginshaded_2.11@0.5.45-p1
+- pkg:maven/com.trueaccord.scalapb/compilerpluginshaded_2.11@0.5.45-p1?classifier=sources

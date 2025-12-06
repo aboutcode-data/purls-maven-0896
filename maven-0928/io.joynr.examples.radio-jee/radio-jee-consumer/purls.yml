@@ -1,0 +1,4 @@
+- pkg:maven/io.joynr.examples.radio-jee/radio-jee-consumer@0.26.0?classifier=sources
+- pkg:maven/io.joynr.examples.radio-jee/radio-jee-consumer@0.26.0?type=war
+- pkg:maven/io.joynr.examples.radio-jee/radio-jee-consumer@0.27.0?classifier=sources
+- pkg:maven/io.joynr.examples.radio-jee/radio-jee-consumer@0.27.0?type=war

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.jesg/phantomjsdriver@2.0.0
+- pkg:maven/com.github.jesg/phantomjsdriver@2.0.0?classifier=sources
+- pkg:maven/com.github.jesg/phantomjsdriver@3.0.0-beta1
+- pkg:maven/com.github.jesg/phantomjsdriver@3.0.0-beta1?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/cn.mapway/mapway-database@0.0.1?classifier=sources
 - pkg:maven/cn.mapway/mapway-database@0.0.2
 - pkg:maven/cn.mapway/mapway-database@0.0.2?classifier=sources
+- pkg:maven/cn.mapway/mapway-database@0.0.3
+- pkg:maven/cn.mapway/mapway-database@0.0.3?classifier=sources
+- pkg:maven/cn.mapway/mapway-database@0.1.0
+- pkg:maven/cn.mapway/mapway-database@0.1.0?classifier=sources

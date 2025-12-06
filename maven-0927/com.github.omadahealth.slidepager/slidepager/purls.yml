@@ -80,3 +80,7 @@
 - pkg:maven/com.github.omadahealth.slidepager/slidepager@2.4.3?type=aar
 - pkg:maven/com.github.omadahealth.slidepager/slidepager@2.5.0?classifier=sources
 - pkg:maven/com.github.omadahealth.slidepager/slidepager@2.5.0?type=aar
+- pkg:maven/com.github.omadahealth.slidepager/slidepager@2.5.1?classifier=sources
+- pkg:maven/com.github.omadahealth.slidepager/slidepager@2.5.1?type=aar
+- pkg:maven/com.github.omadahealth.slidepager/slidepager@2.5.2?classifier=sources
+- pkg:maven/com.github.omadahealth.slidepager/slidepager@2.5.2?type=aar

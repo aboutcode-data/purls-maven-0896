@@ -1,3 +1,5 @@
+- pkg:maven/org.glassfish.tyrus.tests.qa/tyrus-tests-qa-browser-test@1.13.1?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.qa/tyrus-tests-qa-browser-test@1.13.1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.qa/tyrus-tests-qa-browser-test@1.2.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.qa/tyrus-tests-qa-browser-test@1.2.1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.qa/tyrus-tests-qa-browser-test@1.2?classifier=sources

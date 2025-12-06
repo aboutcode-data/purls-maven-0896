@@ -1,0 +1,4 @@
+- pkg:maven/com.avrios.mvn.plugin/properties2json@1.0
+- pkg:maven/com.avrios.mvn.plugin/properties2json@1.0?classifier=sources
+- pkg:maven/com.avrios.mvn.plugin/properties2json@1.1
+- pkg:maven/com.avrios.mvn.plugin/properties2json@1.1?classifier=sources

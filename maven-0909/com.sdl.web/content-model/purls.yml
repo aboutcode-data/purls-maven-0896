@@ -4,3 +4,5 @@
 - pkg:maven/com.sdl.web/content-model@8.2.0-1008?classifier=sources
 - pkg:maven/com.sdl.web/content-model@8.3.0-1004
 - pkg:maven/com.sdl.web/content-model@8.3.0-1004?classifier=sources
+- pkg:maven/com.sdl.web/content-model@8.5.0-1013
+- pkg:maven/com.sdl.web/content-model@8.5.0-1013?classifier=sources

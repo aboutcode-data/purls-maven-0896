@@ -1,3 +1,5 @@
+- pkg:maven/org.typelevel/scala-actors@2.11.11-bin-typelevel-4
+- pkg:maven/org.typelevel/scala-actors@2.11.11-bin-typelevel-4?classifier=sources
 - pkg:maven/org.typelevel/scala-actors@2.11.7
 - pkg:maven/org.typelevel/scala-actors@2.11.7?classifier=sources
 - pkg:maven/org.typelevel/scala-actors@2.11.8

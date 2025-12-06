@@ -1,0 +1,2 @@
+- pkg:maven/com.vericite/vericite-lms-api@1.2
+- pkg:maven/com.vericite/vericite-lms-api@1.2?classifier=sources

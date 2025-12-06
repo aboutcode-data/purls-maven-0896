@@ -1,0 +1,6 @@
+- pkg:maven/eu.antidotedb/antidote-java-client@0.0.4
+- pkg:maven/eu.antidotedb/antidote-java-client@0.0.4?classifier=sources
+- pkg:maven/eu.antidotedb/antidote-java-client@0.0.5
+- pkg:maven/eu.antidotedb/antidote-java-client@0.0.5?classifier=sources
+- pkg:maven/eu.antidotedb/antidote-java-client@0.0.6
+- pkg:maven/eu.antidotedb/antidote-java-client@0.0.6?classifier=sources

@@ -34,6 +34,16 @@
 - pkg:maven/com.oneandone/typedrest-vaadin@0.26?classifier=sources
 - pkg:maven/com.oneandone/typedrest-vaadin@0.27
 - pkg:maven/com.oneandone/typedrest-vaadin@0.27?classifier=sources
+- pkg:maven/com.oneandone/typedrest-vaadin@0.28
+- pkg:maven/com.oneandone/typedrest-vaadin@0.28.1
+- pkg:maven/com.oneandone/typedrest-vaadin@0.28.1?classifier=sources
+- pkg:maven/com.oneandone/typedrest-vaadin@0.28?classifier=sources
+- pkg:maven/com.oneandone/typedrest-vaadin@0.29
+- pkg:maven/com.oneandone/typedrest-vaadin@0.29.1
+- pkg:maven/com.oneandone/typedrest-vaadin@0.29.1?classifier=sources
+- pkg:maven/com.oneandone/typedrest-vaadin@0.29?classifier=sources
+- pkg:maven/com.oneandone/typedrest-vaadin@0.30
+- pkg:maven/com.oneandone/typedrest-vaadin@0.30?classifier=sources
 - pkg:maven/com.oneandone/typedrest-vaadin@0.7
 - pkg:maven/com.oneandone/typedrest-vaadin@0.7?classifier=sources
 - pkg:maven/com.oneandone/typedrest-vaadin@0.8

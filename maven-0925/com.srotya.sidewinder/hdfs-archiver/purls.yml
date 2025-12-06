@@ -1,0 +1,6 @@
+- pkg:maven/com.srotya.sidewinder/hdfs-archiver@0.0.17
+- pkg:maven/com.srotya.sidewinder/hdfs-archiver@0.0.17?classifier=sources
+- pkg:maven/com.srotya.sidewinder/hdfs-archiver@0.0.18
+- pkg:maven/com.srotya.sidewinder/hdfs-archiver@0.0.18?classifier=sources
+- pkg:maven/com.srotya.sidewinder/hdfs-archiver@0.0.19
+- pkg:maven/com.srotya.sidewinder/hdfs-archiver@0.0.19?classifier=sources

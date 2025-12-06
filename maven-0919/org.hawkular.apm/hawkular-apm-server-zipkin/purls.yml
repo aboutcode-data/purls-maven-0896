@@ -1,2 +1,9 @@
 - pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.10.0.Final?type=war
 - pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.11.0.Final?type=war
+- pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.12.0.Final?type=war
+- pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.13.0.Final?type=war
+- pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.14.0.Final?type=war
+- pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.14.1.Final?type=war
+- pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.14.2.Final?type=war
+- pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.14.3.Final?type=war
+- pkg:maven/org.hawkular.apm/hawkular-apm-server-zipkin@0.14.4.Final?type=war

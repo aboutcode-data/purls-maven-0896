@@ -1,2 +1,4 @@
 - pkg:maven/org.flowable/flowable-webapp-explorer2@5.22.0?classifier=sources
 - pkg:maven/org.flowable/flowable-webapp-explorer2@5.22.0?type=war
+- pkg:maven/org.flowable/flowable-webapp-explorer2@5.23.0?classifier=sources
+- pkg:maven/org.flowable/flowable-webapp-explorer2@5.23.0?type=war

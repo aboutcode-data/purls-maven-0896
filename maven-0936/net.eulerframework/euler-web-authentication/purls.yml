@@ -1,0 +1,2 @@
+- pkg:maven/net.eulerframework/euler-web-authentication@0.3.1
+- pkg:maven/net.eulerframework/euler-web-authentication@0.3.1?classifier=sources

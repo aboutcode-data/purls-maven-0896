@@ -42,3 +42,7 @@
 - pkg:maven/com.github.xuwei-k/httpz_2.10@0.3.2?classifier=sources
 - pkg:maven/com.github.xuwei-k/httpz_2.10@0.4.0
 - pkg:maven/com.github.xuwei-k/httpz_2.10@0.4.0?classifier=sources
+- pkg:maven/com.github.xuwei-k/httpz_2.10@0.5.0
+- pkg:maven/com.github.xuwei-k/httpz_2.10@0.5.0?classifier=sources
+- pkg:maven/com.github.xuwei-k/httpz_2.10@0.5.1
+- pkg:maven/com.github.xuwei-k/httpz_2.10@0.5.1?classifier=sources

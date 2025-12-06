@@ -1,0 +1,8 @@
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3?classifier=sources
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3a
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3a?classifier=sources
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3b
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3b?classifier=sources
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3d
+- pkg:maven/com.stimulsoft/reports-lib@2017.1.0.3d?classifier=sources

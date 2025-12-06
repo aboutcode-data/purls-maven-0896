@@ -1,0 +1,2 @@
+- pkg:maven/ru.sberned/kafka-logback@1.0.2
+- pkg:maven/ru.sberned/kafka-logback@1.0.2?classifier=sources

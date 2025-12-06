@@ -1,0 +1,2 @@
+- pkg:maven/br.eti.clairton/repository@3.0.0
+- pkg:maven/br.eti.clairton/repository@3.0.0?classifier=sources

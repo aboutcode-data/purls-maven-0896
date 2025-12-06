@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/leaflet-draw@0.2.3
 - pkg:maven/org.webjars.bower/leaflet-draw@0.2.3?classifier=sources
+- pkg:maven/org.webjars.bower/leaflet-draw@0.4.9
+- pkg:maven/org.webjars.bower/leaflet-draw@0.4.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.cquiroz/scalajavatime_2.12@2.0.0-M7
+- pkg:maven/io.github.cquiroz/scalajavatime_2.12@2.0.0-M7?classifier=sources
+- pkg:maven/io.github.cquiroz/scalajavatime_2.12@2.0.0-M9
+- pkg:maven/io.github.cquiroz/scalajavatime_2.12@2.0.0-M9?classifier=sources

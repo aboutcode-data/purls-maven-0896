@@ -18,3 +18,5 @@
 - pkg:maven/com.github.ukase/ukase@1.6?type=war
 - pkg:maven/com.github.ukase/ukase@2.0?classifier=sources
 - pkg:maven/com.github.ukase/ukase@2.0?type=war
+- pkg:maven/com.github.ukase/ukase@3.0?classifier=sources
+- pkg:maven/com.github.ukase/ukase@3.0?type=war

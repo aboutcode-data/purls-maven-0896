@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.sf3jswing/AntBuildFiles@1.0.3
 - pkg:maven/net.sf.sf3jswing/AntBuildFiles@1.0.3?classifier=sources
+- pkg:maven/net.sf.sf3jswing/AntBuildFiles@1.0.8
+- pkg:maven/net.sf.sf3jswing/AntBuildFiles@1.0.8?classifier=sources

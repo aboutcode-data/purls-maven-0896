@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.msf4j/msf4j-spring@2.0.0
 - pkg:maven/org.wso2.msf4j/msf4j-spring@2.0.0?classifier=sources
+- pkg:maven/org.wso2.msf4j/msf4j-spring@2.1.0
+- pkg:maven/org.wso2.msf4j/msf4j-spring@2.1.0?classifier=sources

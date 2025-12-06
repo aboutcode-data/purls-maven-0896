@@ -1,0 +1,6 @@
+- pkg:maven/cn.easyproject/easycommondao-hibernate4@1.1.0-RELEASE
+- pkg:maven/cn.easyproject/easycommondao-hibernate4@1.1.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easycommondao-hibernate4@1.2.0-RELEASE
+- pkg:maven/cn.easyproject/easycommondao-hibernate4@1.2.0-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easycommondao-hibernate4@1.4.0-RELEASE
+- pkg:maven/cn.easyproject/easycommondao-hibernate4@1.4.0-RELEASE?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.2?classifier=sources
 - pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.4
 - pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.4?classifier=sources
+- pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.5
+- pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.6
+- pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.7
+- pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.8
+- pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.6.9
+- pkg:maven/org.cloudgraph/cloudgraph-maprdb@0.7.0

@@ -16,3 +16,7 @@
 - pkg:maven/com.github.mike10004/native-helper@4.2.3?classifier=sources
 - pkg:maven/com.github.mike10004/native-helper@5.0.0
 - pkg:maven/com.github.mike10004/native-helper@5.0.0?classifier=sources
+- pkg:maven/com.github.mike10004/native-helper@5.1.0
+- pkg:maven/com.github.mike10004/native-helper@5.1.0?classifier=sources
+- pkg:maven/com.github.mike10004/native-helper@6.0.0
+- pkg:maven/com.github.mike10004/native-helper@6.0.0?classifier=sources

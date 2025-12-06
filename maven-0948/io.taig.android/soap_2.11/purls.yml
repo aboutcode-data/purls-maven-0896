@@ -16,3 +16,11 @@
 - pkg:maven/io.taig.android/soap_2.11@3.0.5?type=aar
 - pkg:maven/io.taig.android/soap_2.11@4.0.0-RC1?classifier=sources
 - pkg:maven/io.taig.android/soap_2.11@4.0.0-RC1?type=aar
+- pkg:maven/io.taig.android/soap_2.11@4.0.0-RC2?classifier=sources
+- pkg:maven/io.taig.android/soap_2.11@4.0.0-RC2?type=aar
+- pkg:maven/io.taig.android/soap_2.11@4.0.0?classifier=sources
+- pkg:maven/io.taig.android/soap_2.11@4.0.0?type=aar
+- pkg:maven/io.taig.android/soap_2.11@4.0.1?classifier=sources
+- pkg:maven/io.taig.android/soap_2.11@4.0.1?type=aar
+- pkg:maven/io.taig.android/soap_2.11@4.0.2?classifier=sources
+- pkg:maven/io.taig.android/soap_2.11@4.0.2?type=aar

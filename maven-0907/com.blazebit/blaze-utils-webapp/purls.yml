@@ -6,6 +6,8 @@
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.12?type=war
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.13?classifier=sources
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.13?type=war
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.14?classifier=sources
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.14?type=war
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.4?classifier=sources
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.4?type=war
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.5?classifier=sources

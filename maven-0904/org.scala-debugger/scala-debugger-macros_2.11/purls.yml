@@ -4,3 +4,5 @@
 - pkg:maven/org.scala-debugger/scala-debugger-macros_2.11@1.1.0-M1?classifier=sources
 - pkg:maven/org.scala-debugger/scala-debugger-macros_2.11@1.1.0-M2
 - pkg:maven/org.scala-debugger/scala-debugger-macros_2.11@1.1.0-M2?classifier=sources
+- pkg:maven/org.scala-debugger/scala-debugger-macros_2.11@1.1.0-M3
+- pkg:maven/org.scala-debugger/scala-debugger-macros_2.11@1.1.0-M3?classifier=sources

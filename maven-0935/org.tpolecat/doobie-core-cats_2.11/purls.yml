@@ -1,2 +1,12 @@
 - pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.3.1-M1
 - pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.3.1-M1?classifier=sources
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.3.1-M2
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.3.1-M2?classifier=sources
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.3.1-M3
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.3.1-M3?classifier=sources
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.4.0
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.4.0-RC1
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.4.0-RC1?classifier=sources
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.4.0?classifier=sources
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.4.1
+- pkg:maven/org.tpolecat/doobie-core-cats_2.11@0.4.1?classifier=sources

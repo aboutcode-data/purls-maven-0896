@@ -1,0 +1,2 @@
+- pkg:maven/com.foodpanda/dropwizard-config-importable@0.1.0
+- pkg:maven/com.foodpanda/dropwizard-config-importable@0.1.0?classifier=sources

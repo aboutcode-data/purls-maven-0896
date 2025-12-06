@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/materialize@0.96.0
+- pkg:maven/org.webjars.bower/materialize@0.96.0?classifier=sources
 - pkg:maven/org.webjars.bower/materialize@0.96.1
 - pkg:maven/org.webjars.bower/materialize@0.96.1?classifier=sources
 - pkg:maven/org.webjars.bower/materialize@0.97.0
@@ -14,3 +16,11 @@
 - pkg:maven/org.webjars.bower/materialize@0.97.6?classifier=sources
 - pkg:maven/org.webjars.bower/materialize@0.97.7
 - pkg:maven/org.webjars.bower/materialize@0.97.7?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@0.97.8
+- pkg:maven/org.webjars.bower/materialize@0.97.8?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@0.98.0
+- pkg:maven/org.webjars.bower/materialize@0.98.0?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@0.98.1
+- pkg:maven/org.webjars.bower/materialize@0.98.1?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@0.98.2
+- pkg:maven/org.webjars.bower/materialize@0.98.2?classifier=sources

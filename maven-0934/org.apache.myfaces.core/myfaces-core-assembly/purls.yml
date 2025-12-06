@@ -98,6 +98,8 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.10?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.11?classifier=src&type=tar.gz
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.11?classifier=src&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.12?classifier=src&type=tar.gz
+- pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.12?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.1?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.2?classifier=src&type=tar.gz

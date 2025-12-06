@@ -8,3 +8,7 @@
 - pkg:maven/org.trustedanalytics/h2o-scoring-engine-base@0.5.3?classifier=sources
 - pkg:maven/org.trustedanalytics/h2o-scoring-engine-base@0.5.4
 - pkg:maven/org.trustedanalytics/h2o-scoring-engine-base@0.5.4?classifier=sources
+- pkg:maven/org.trustedanalytics/h2o-scoring-engine-base@0.5.7
+- pkg:maven/org.trustedanalytics/h2o-scoring-engine-base@0.5.7?classifier=sources
+- pkg:maven/org.trustedanalytics/h2o-scoring-engine-base@0.5.8
+- pkg:maven/org.trustedanalytics/h2o-scoring-engine-base@0.5.8?classifier=sources

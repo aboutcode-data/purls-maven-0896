@@ -1,0 +1,8 @@
+- pkg:maven/eu.freme-project.e-services/tilde-services@0.10
+- pkg:maven/eu.freme-project.e-services/tilde-services@0.10?classifier=sources
+- pkg:maven/eu.freme-project.e-services/tilde-services@0.9
+- pkg:maven/eu.freme-project.e-services/tilde-services@0.9?classifier=sources
+- pkg:maven/eu.freme-project.e-services/tilde-services@1.0
+- pkg:maven/eu.freme-project.e-services/tilde-services@1.0?classifier=sources
+- pkg:maven/eu.freme-project.e-services/tilde-services@1.1
+- pkg:maven/eu.freme-project.e-services/tilde-services@1.1?classifier=sources

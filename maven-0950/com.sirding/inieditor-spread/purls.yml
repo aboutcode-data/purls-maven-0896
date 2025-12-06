@@ -1,2 +1,4 @@
 - pkg:maven/com.sirding/inieditor-spread@1.0.0-releases
 - pkg:maven/com.sirding/inieditor-spread@1.0.0-releases?classifier=sources
+- pkg:maven/com.sirding/inieditor-spread@1.1.0-releases
+- pkg:maven/com.sirding/inieditor-spread@1.1.0-releases?classifier=sources

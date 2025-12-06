@@ -1,2 +1,4 @@
 - pkg:maven/org.aludratest/cloud-manager-impl@1.0.0
 - pkg:maven/org.aludratest/cloud-manager-impl@1.0.0?classifier=sources
+- pkg:maven/org.aludratest/cloud-manager-impl@1.1.0
+- pkg:maven/org.aludratest/cloud-manager-impl@1.1.0?classifier=sources

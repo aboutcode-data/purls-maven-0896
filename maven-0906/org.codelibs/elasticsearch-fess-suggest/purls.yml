@@ -16,3 +16,5 @@
 - pkg:maven/org.codelibs/elasticsearch-fess-suggest@2.1.1?type=zip
 - pkg:maven/org.codelibs/elasticsearch-fess-suggest@2.1.2?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-fess-suggest@2.1.2?type=zip
+- pkg:maven/org.codelibs/elasticsearch-fess-suggest@2.3.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-fess-suggest@2.3.0?type=zip

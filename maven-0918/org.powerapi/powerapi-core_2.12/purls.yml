@@ -1,0 +1,2 @@
+- pkg:maven/org.powerapi/powerapi-core_2.12@4.2
+- pkg:maven/org.powerapi/powerapi-core_2.12@4.2?classifier=sources

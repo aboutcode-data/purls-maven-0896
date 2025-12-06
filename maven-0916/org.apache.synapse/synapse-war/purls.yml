@@ -3,3 +3,5 @@
 - pkg:maven/org.apache.synapse/synapse-war@1.1?type=war
 - pkg:maven/org.apache.synapse/synapse-war@2.1.0?classifier=sources
 - pkg:maven/org.apache.synapse/synapse-war@2.1.0?type=war
+- pkg:maven/org.apache.synapse/synapse-war@3.0.0?classifier=sources
+- pkg:maven/org.apache.synapse/synapse-war@3.0.0?type=war

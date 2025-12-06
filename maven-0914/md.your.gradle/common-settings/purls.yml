@@ -5,8 +5,12 @@
 - pkg:maven/md.your.gradle/common-settings@0.0.21
 - pkg:maven/md.your.gradle/common-settings@0.0.21?classifier=sources
 - pkg:maven/md.your.gradle/common-settings@0.0.3
+- pkg:maven/md.your.gradle/common-settings@0.0.30
+- pkg:maven/md.your.gradle/common-settings@0.0.30?classifier=sources
 - pkg:maven/md.your.gradle/common-settings@0.0.3?classifier=sources
 - pkg:maven/md.your.gradle/common-settings@0.0.4
+- pkg:maven/md.your.gradle/common-settings@0.0.40
+- pkg:maven/md.your.gradle/common-settings@0.0.40?classifier=sources
 - pkg:maven/md.your.gradle/common-settings@0.0.4?classifier=sources
 - pkg:maven/md.your.gradle/common-settings@0.0.5
 - pkg:maven/md.your.gradle/common-settings@0.0.5?classifier=sources

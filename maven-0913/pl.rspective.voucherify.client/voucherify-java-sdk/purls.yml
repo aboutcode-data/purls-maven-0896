@@ -52,3 +52,13 @@
 - pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@3.4.0?classifier=sources
 - pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@3.5.0
 - pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@3.5.0?classifier=sources
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@3.6.0
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@3.6.0?classifier=sources
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@3.6.1
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@3.6.1?classifier=sources
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@4.0.0
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@4.0.0?classifier=sources
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@4.1.0
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@4.1.0?classifier=sources
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@4.2.0
+- pkg:maven/pl.rspective.voucherify.client/voucherify-java-sdk@4.2.0?classifier=sources

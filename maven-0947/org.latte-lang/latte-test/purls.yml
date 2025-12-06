@@ -1,0 +1,4 @@
+- pkg:maven/org.latte-lang/latte-test@0.0.5-ALPHA
+- pkg:maven/org.latte-lang/latte-test@0.0.5-ALPHA?classifier=sources
+- pkg:maven/org.latte-lang/latte-test@0.0.6-ALPHA
+- pkg:maven/org.latte-lang/latte-test@0.0.6-ALPHA?classifier=sources

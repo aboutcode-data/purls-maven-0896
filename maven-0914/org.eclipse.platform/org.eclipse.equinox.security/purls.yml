@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.security@1.2.200
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.security@1.2.200?classifier=sources

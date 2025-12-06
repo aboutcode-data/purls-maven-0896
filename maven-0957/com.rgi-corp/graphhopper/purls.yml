@@ -1,2 +1,10 @@
 - pkg:maven/com.rgi-corp/graphhopper@0.7.1
 - pkg:maven/com.rgi-corp/graphhopper@0.7.1?classifier=sources
+- pkg:maven/com.rgi-corp/graphhopper@0.7.2
+- pkg:maven/com.rgi-corp/graphhopper@0.7.2?classifier=sources
+- pkg:maven/com.rgi-corp/graphhopper@0.7.3
+- pkg:maven/com.rgi-corp/graphhopper@0.7.3?classifier=sources
+- pkg:maven/com.rgi-corp/graphhopper@0.7.4
+- pkg:maven/com.rgi-corp/graphhopper@0.7.4?classifier=sources
+- pkg:maven/com.rgi-corp/graphhopper@0.8.0
+- pkg:maven/com.rgi-corp/graphhopper@0.8.0?classifier=sources

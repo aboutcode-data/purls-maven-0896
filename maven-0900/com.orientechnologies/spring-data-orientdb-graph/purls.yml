@@ -4,5 +4,7 @@
 - pkg:maven/com.orientechnologies/spring-data-orientdb-graph@0.12?classifier=sources
 - pkg:maven/com.orientechnologies/spring-data-orientdb-graph@0.13
 - pkg:maven/com.orientechnologies/spring-data-orientdb-graph@0.13?classifier=sources
+- pkg:maven/com.orientechnologies/spring-data-orientdb-graph@0.14
+- pkg:maven/com.orientechnologies/spring-data-orientdb-graph@0.14?classifier=sources
 - pkg:maven/com.orientechnologies/spring-data-orientdb-graph@0.14rc1
 - pkg:maven/com.orientechnologies/spring-data-orientdb-graph@0.14rc1?classifier=sources

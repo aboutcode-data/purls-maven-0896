@@ -1,0 +1,2 @@
+- pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@0.1.0
+- pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@0.1.0?classifier=sources

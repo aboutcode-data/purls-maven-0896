@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition@1.0.1.v201201240349?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition@1.0.1.v201201240505
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition@1.0.1.v201201240505?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition@1.1.0.201603142002
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.enablement.msft.sqlserver.dbdefinition@1.1.0.201603142002?classifier=sources

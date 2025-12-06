@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.apex/apex-bufferserver@3.3.0-incubating?classifier=sources
 - pkg:maven/org.apache.apex/apex-bufferserver@3.4.0
 - pkg:maven/org.apache.apex/apex-bufferserver@3.4.0?classifier=sources
+- pkg:maven/org.apache.apex/apex-bufferserver@3.5.0
+- pkg:maven/org.apache.apex/apex-bufferserver@3.5.0?classifier=sources
+- pkg:maven/org.apache.apex/apex-bufferserver@3.6.0
+- pkg:maven/org.apache.apex/apex-bufferserver@3.6.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.paradoxical/dropwizard-guice@1.0.0-rc3
 - pkg:maven/io.paradoxical/dropwizard-guice@1.0.0-rc3?classifier=sources
 - pkg:maven/io.paradoxical/dropwizard-guice@1.0.0?classifier=sources
+- pkg:maven/io.paradoxical/dropwizard-guice@1.0.5
+- pkg:maven/io.paradoxical/dropwizard-guice@1.0.5?classifier=sources

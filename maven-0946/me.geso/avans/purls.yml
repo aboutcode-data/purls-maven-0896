@@ -76,3 +76,7 @@
 - pkg:maven/me.geso/avans@2.2.0?classifier=sources
 - pkg:maven/me.geso/avans@2.3.0
 - pkg:maven/me.geso/avans@2.3.0?classifier=sources
+- pkg:maven/me.geso/avans@2.4.0
+- pkg:maven/me.geso/avans@2.4.0?classifier=sources
+- pkg:maven/me.geso/avans@2.5.0
+- pkg:maven/me.geso/avans@2.5.0?classifier=sources

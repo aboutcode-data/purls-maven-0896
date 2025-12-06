@@ -1,3 +1,9 @@
 - pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.7.0
 - pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.7.0?classifier=sources
 - pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.7.1
+- pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.8.0
+- pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.8.0-M1
+- pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.8.0-M1?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.8.0-RC1
+- pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.8.0-RC1?classifier=sources
+- pkg:maven/org.scalatra.scalate/scalate-spring-mvc_2.10@1.8.0?classifier=sources

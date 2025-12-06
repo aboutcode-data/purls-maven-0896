@@ -1,0 +1,2 @@
+- pkg:maven/org.avaje.incubating/nexus-gradle-plugin@0.1
+- pkg:maven/org.avaje.incubating/nexus-gradle-plugin@0.1?classifier=sources

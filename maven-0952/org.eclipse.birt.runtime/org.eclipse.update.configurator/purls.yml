@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.update.configurator@3.3.200.v20130326-1319?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.update.configurator@3.3.300.v20140518-1928
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.update.configurator@3.3.300.v20140518-1928?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.update.configurator@3.3.400.v20160506-0750
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.update.configurator@3.3.400.v20160506-0750?classifier=sources

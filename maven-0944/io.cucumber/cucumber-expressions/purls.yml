@@ -1,2 +1,12 @@
 - pkg:maven/io.cucumber/cucumber-expressions@1.0.0
 - pkg:maven/io.cucumber/cucumber-expressions@1.0.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-expressions@1.0.2
+- pkg:maven/io.cucumber/cucumber-expressions@1.0.2?classifier=sources
+- pkg:maven/io.cucumber/cucumber-expressions@1.0.4
+- pkg:maven/io.cucumber/cucumber-expressions@1.0.4?classifier=sources
+- pkg:maven/io.cucumber/cucumber-expressions@2.0.0
+- pkg:maven/io.cucumber/cucumber-expressions@2.0.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-expressions@2.0.1
+- pkg:maven/io.cucumber/cucumber-expressions@2.0.1?classifier=sources
+- pkg:maven/io.cucumber/cucumber-expressions@3.0.0
+- pkg:maven/io.cucumber/cucumber-expressions@3.0.0?classifier=sources

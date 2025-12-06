@@ -16,6 +16,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.14
 - pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.14?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.14?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.16
+- pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.16?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.16?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.18
+- pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.18?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.4
 - pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.discovery.oak@1.2.4?classifier=sources

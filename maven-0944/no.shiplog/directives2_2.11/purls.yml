@@ -1,3 +1,7 @@
+- pkg:maven/no.shiplog/directives2_2.11@0.10.1
+- pkg:maven/no.shiplog/directives2_2.11@0.10.1?classifier=sources
+- pkg:maven/no.shiplog/directives2_2.11@0.10.1a
+- pkg:maven/no.shiplog/directives2_2.11@0.10.1a?classifier=sources
 - pkg:maven/no.shiplog/directives2_2.11@0.9
 - pkg:maven/no.shiplog/directives2_2.11@0.9.1
 - pkg:maven/no.shiplog/directives2_2.11@0.9.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.yaoakeji/hibatis@1.4.26
+- pkg:maven/com.yaoakeji/hibatis@1.4.26?classifier=sources
+- pkg:maven/com.yaoakeji/hibatis@1.4.27
+- pkg:maven/com.yaoakeji/hibatis@1.4.27?classifier=sources

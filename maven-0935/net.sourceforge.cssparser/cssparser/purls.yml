@@ -20,6 +20,12 @@
 - pkg:maven/net.sourceforge.cssparser/cssparser@0.9.19?classifier=sources
 - pkg:maven/net.sourceforge.cssparser/cssparser@0.9.20
 - pkg:maven/net.sourceforge.cssparser/cssparser@0.9.20?classifier=sources
+- pkg:maven/net.sourceforge.cssparser/cssparser@0.9.21
+- pkg:maven/net.sourceforge.cssparser/cssparser@0.9.21?classifier=sources
+- pkg:maven/net.sourceforge.cssparser/cssparser@0.9.22
+- pkg:maven/net.sourceforge.cssparser/cssparser@0.9.22?classifier=sources
+- pkg:maven/net.sourceforge.cssparser/cssparser@0.9.23
+- pkg:maven/net.sourceforge.cssparser/cssparser@0.9.23?classifier=sources
 - pkg:maven/net.sourceforge.cssparser/cssparser@0.9.4
 - pkg:maven/net.sourceforge.cssparser/cssparser@0.9.4?classifier=sources
 - pkg:maven/net.sourceforge.cssparser/cssparser@0.9.5

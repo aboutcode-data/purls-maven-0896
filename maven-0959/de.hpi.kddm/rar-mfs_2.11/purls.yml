@@ -1,0 +1,4 @@
+- pkg:maven/de.hpi.kddm/rar-mfs_2.11@1.0.0
+- pkg:maven/de.hpi.kddm/rar-mfs_2.11@1.0.0?classifier=sources
+- pkg:maven/de.hpi.kddm/rar-mfs_2.11@1.0.1
+- pkg:maven/de.hpi.kddm/rar-mfs_2.11@1.0.1?classifier=sources

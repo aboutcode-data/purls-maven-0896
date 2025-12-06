@@ -1,0 +1,4 @@
+- pkg:maven/com.github.akarnokd/reactive4java@0.98.0
+- pkg:maven/com.github.akarnokd/reactive4java@0.98.0?classifier=sources
+- pkg:maven/com.github.akarnokd/reactive4java@0.98.1
+- pkg:maven/com.github.akarnokd/reactive4java@0.98.1?classifier=sources

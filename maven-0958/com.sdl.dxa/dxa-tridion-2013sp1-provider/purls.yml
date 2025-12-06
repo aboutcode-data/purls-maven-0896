@@ -6,3 +6,5 @@
 - pkg:maven/com.sdl.dxa/dxa-tridion-2013sp1-provider@1.4.1?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-tridion-2013sp1-provider@1.5.0
 - pkg:maven/com.sdl.dxa/dxa-tridion-2013sp1-provider@1.5.0?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-tridion-2013sp1-provider@1.6.0
+- pkg:maven/com.sdl.dxa/dxa-tridion-2013sp1-provider@1.6.0?classifier=sources

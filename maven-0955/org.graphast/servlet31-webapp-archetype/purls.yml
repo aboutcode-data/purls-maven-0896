@@ -1,0 +1,4 @@
+- pkg:maven/org.graphast/servlet31-webapp-archetype@1.0.7
+- pkg:maven/org.graphast/servlet31-webapp-archetype@1.0.7?classifier=sources
+- pkg:maven/org.graphast/servlet31-webapp-archetype@1.0.8
+- pkg:maven/org.graphast/servlet31-webapp-archetype@1.0.8?classifier=sources

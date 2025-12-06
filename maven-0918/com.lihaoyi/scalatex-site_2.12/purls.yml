@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.7
+- pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.7?classifier=sources
+- pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.8
+- pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.8?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.martinhaeusler/org.chronos.common@0.5.4
+- pkg:maven/com.github.martinhaeusler/org.chronos.common@0.5.4?classifier=sources
+- pkg:maven/com.github.martinhaeusler/org.chronos.common@0.5.7
+- pkg:maven/com.github.martinhaeusler/org.chronos.common@0.5.7?classifier=sources

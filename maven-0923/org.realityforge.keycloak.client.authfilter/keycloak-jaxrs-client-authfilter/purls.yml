@@ -1,0 +1,4 @@
+- pkg:maven/org.realityforge.keycloak.client.authfilter/keycloak-jaxrs-client-authfilter@0.1
+- pkg:maven/org.realityforge.keycloak.client.authfilter/keycloak-jaxrs-client-authfilter@0.1?classifier=sources
+- pkg:maven/org.realityforge.keycloak.client.authfilter/keycloak-jaxrs-client-authfilter@0.2
+- pkg:maven/org.realityforge.keycloak.client.authfilter/keycloak-jaxrs-client-authfilter@0.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.spingo/op-rabbit-akka-stream_2.11@1.6.0
+- pkg:maven/com.spingo/op-rabbit-akka-stream_2.11@1.6.0?classifier=sources
+- pkg:maven/com.spingo/op-rabbit-akka-stream_2.11@2.0.0-rc1
+- pkg:maven/com.spingo/op-rabbit-akka-stream_2.11@2.0.0-rc1?classifier=sources

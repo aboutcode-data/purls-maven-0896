@@ -2,3 +2,9 @@
 - pkg:maven/org.latte-lang/latte-compiler@0.0.3-ALPHA?classifier=sources
 - pkg:maven/org.latte-lang/latte-compiler@0.0.4-ALPHA
 - pkg:maven/org.latte-lang/latte-compiler@0.0.4-ALPHA?classifier=sources
+- pkg:maven/org.latte-lang/latte-compiler@0.0.5-ALPHA
+- pkg:maven/org.latte-lang/latte-compiler@0.0.5-ALPHA?classifier=sources
+- pkg:maven/org.latte-lang/latte-compiler@0.0.6-ALPHA
+- pkg:maven/org.latte-lang/latte-compiler@0.0.6-ALPHA?classifier=sources
+- pkg:maven/org.latte-lang/latte-compiler@0.0.7-ALPHA
+- pkg:maven/org.latte-lang/latte-compiler@0.0.7-ALPHA?classifier=sources

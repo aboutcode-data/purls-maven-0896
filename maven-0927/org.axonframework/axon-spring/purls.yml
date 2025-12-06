@@ -1,3 +1,4 @@
+- pkg:maven/org.axonframework/axon-spring@3.0
 - pkg:maven/org.axonframework/axon-spring@3.0-M1
 - pkg:maven/org.axonframework/axon-spring@3.0-M1?classifier=sources
 - pkg:maven/org.axonframework/axon-spring@3.0-M2
@@ -8,3 +9,18 @@
 - pkg:maven/org.axonframework/axon-spring@3.0-M4?classifier=sources
 - pkg:maven/org.axonframework/axon-spring@3.0-M5
 - pkg:maven/org.axonframework/axon-spring@3.0-M5?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0-RC1
+- pkg:maven/org.axonframework/axon-spring@3.0-RC1?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0-RC2
+- pkg:maven/org.axonframework/axon-spring@3.0-RC2?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0.1
+- pkg:maven/org.axonframework/axon-spring@3.0.1?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0.2
+- pkg:maven/org.axonframework/axon-spring@3.0.2?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0.3
+- pkg:maven/org.axonframework/axon-spring@3.0.3?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0.4
+- pkg:maven/org.axonframework/axon-spring@3.0.4?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0.5
+- pkg:maven/org.axonframework/axon-spring@3.0.5?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@3.0?classifier=sources

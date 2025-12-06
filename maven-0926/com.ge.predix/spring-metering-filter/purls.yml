@@ -2,3 +2,7 @@
 - pkg:maven/com.ge.predix/spring-metering-filter@1.2.0?classifier=sources
 - pkg:maven/com.ge.predix/spring-metering-filter@1.2.1
 - pkg:maven/com.ge.predix/spring-metering-filter@1.2.1?classifier=sources
+- pkg:maven/com.ge.predix/spring-metering-filter@1.2.3
+- pkg:maven/com.ge.predix/spring-metering-filter@1.2.3?classifier=sources
+- pkg:maven/com.ge.predix/spring-metering-filter@1.2.4
+- pkg:maven/com.ge.predix/spring-metering-filter@1.2.4?classifier=sources

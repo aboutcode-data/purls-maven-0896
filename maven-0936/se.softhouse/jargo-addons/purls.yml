@@ -1,2 +1,4 @@
 - pkg:maven/se.softhouse/jargo-addons@0.2
 - pkg:maven/se.softhouse/jargo-addons@0.2?classifier=sources
+- pkg:maven/se.softhouse/jargo-addons@0.4.1
+- pkg:maven/se.softhouse/jargo-addons@0.4.1?classifier=sources

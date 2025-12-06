@@ -1,0 +1,11 @@
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.Alpha5
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.Alpha6
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.Beta2
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.Beta4
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.Beta6
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.Beta7
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.CR1
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.CR2
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.CR3
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.CR4
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.0.CR5

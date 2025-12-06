@@ -10,3 +10,9 @@
 - pkg:maven/io.wcm/io.wcm.handler.url@0.7.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.url@0.8.0
 - pkg:maven/io.wcm/io.wcm.handler.url@0.8.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.url@0.8.2
+- pkg:maven/io.wcm/io.wcm.handler.url@0.8.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.url@1.0.0
+- pkg:maven/io.wcm/io.wcm.handler.url@1.0.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.url@1.1.0
+- pkg:maven/io.wcm/io.wcm.handler.url@1.1.0?classifier=sources

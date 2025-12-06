@@ -1,2 +1,6 @@
 - pkg:maven/org.openmuc/j62056@1.2
 - pkg:maven/org.openmuc/j62056@1.2?classifier=sources
+- pkg:maven/org.openmuc/j62056@2.0.0
+- pkg:maven/org.openmuc/j62056@2.0.0?classifier=sources
+- pkg:maven/org.openmuc/j62056@2.1.0
+- pkg:maven/org.openmuc/j62056@2.1.0?classifier=sources

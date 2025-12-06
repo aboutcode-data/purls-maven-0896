@@ -1,0 +1,2 @@
+- pkg:maven/com.opsdatastore/opsdatastore-collector-plugin-archetype@1.2.0-RC1?classifier=sources
+- pkg:maven/com.opsdatastore/opsdatastore-collector-plugin-archetype@1.2.1-M2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.shiro/shiro-lang@1.4.0
+- pkg:maven/org.apache.shiro/shiro-lang@1.4.0-RC2
+- pkg:maven/org.apache.shiro/shiro-lang@1.4.0-RC2?classifier=sources
+- pkg:maven/org.apache.shiro/shiro-lang@1.4.0?classifier=sources

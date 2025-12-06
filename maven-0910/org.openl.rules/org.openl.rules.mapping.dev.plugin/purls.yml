@@ -5,6 +5,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.12?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.13?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.14?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.15?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.16?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.2
 - pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.2?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.mapping.dev.plugin@1.1.3

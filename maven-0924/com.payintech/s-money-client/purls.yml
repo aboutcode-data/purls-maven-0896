@@ -12,3 +12,5 @@
 - pkg:maven/com.payintech/s-money-client@16.07?classifier=sources
 - pkg:maven/com.payintech/s-money-client@16.09
 - pkg:maven/com.payintech/s-money-client@16.09?classifier=sources
+- pkg:maven/com.payintech/s-money-client@16.10
+- pkg:maven/com.payintech/s-money-client@16.10?classifier=sources

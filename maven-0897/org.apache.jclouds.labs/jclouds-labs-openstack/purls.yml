@@ -9,3 +9,6 @@
 - pkg:maven/org.apache.jclouds.labs/jclouds-labs-openstack@1.9.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.jclouds.labs/jclouds-labs-openstack@1.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.jclouds.labs/jclouds-labs-openstack@1.9.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.jclouds.labs/jclouds-labs-openstack@1.9.3?classifier=source-release&type=zip
+- pkg:maven/org.apache.jclouds.labs/jclouds-labs-openstack@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.jclouds.labs/jclouds-labs-openstack@2.0.1?classifier=source-release&type=zip

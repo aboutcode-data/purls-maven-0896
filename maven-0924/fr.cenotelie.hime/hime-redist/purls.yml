@@ -1,0 +1,2 @@
+- pkg:maven/fr.cenotelie.hime/hime-redist@3.0.0
+- pkg:maven/fr.cenotelie.hime/hime-redist@3.0.0?classifier=sources

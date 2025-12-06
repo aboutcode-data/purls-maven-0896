@@ -1,0 +1,3 @@
+- pkg:maven/net.hydromatic/steelwheels-data-hsqldb@0.1
+- pkg:maven/net.hydromatic/steelwheels-data-hsqldb@0.1?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/steelwheels-data-hsqldb@0.1?classifier=sources

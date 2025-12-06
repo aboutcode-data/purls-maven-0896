@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.servletbridge@1.0.300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.http.servletbridge@1.0.300?classifier=sources

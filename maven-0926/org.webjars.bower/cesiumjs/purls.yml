@@ -4,5 +4,9 @@
 - pkg:maven/org.webjars.bower/cesiumjs@1.14.0?classifier=sources
 - pkg:maven/org.webjars.bower/cesiumjs@1.15.0
 - pkg:maven/org.webjars.bower/cesiumjs@1.15.0?classifier=sources
+- pkg:maven/org.webjars.bower/cesiumjs@1.17.0
+- pkg:maven/org.webjars.bower/cesiumjs@1.17.0?classifier=sources
+- pkg:maven/org.webjars.bower/cesiumjs@1.19.0
+- pkg:maven/org.webjars.bower/cesiumjs@1.19.0?classifier=sources
 - pkg:maven/org.webjars.bower/cesiumjs@1.22.0
 - pkg:maven/org.webjars.bower/cesiumjs@1.22.0?classifier=sources

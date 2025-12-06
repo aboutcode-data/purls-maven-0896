@@ -1,0 +1,4 @@
+- pkg:maven/tk.plogitech/darksky-forecast-api@0.10
+- pkg:maven/tk.plogitech/darksky-forecast-api@0.10?classifier=sources
+- pkg:maven/tk.plogitech/darksky-forecast-api@0.9
+- pkg:maven/tk.plogitech/darksky-forecast-api@0.9?classifier=sources

@@ -40,3 +40,7 @@
 - pkg:maven/org.jlot/jlot-test@0.98?classifier=sources
 - pkg:maven/org.jlot/jlot-test@0.99
 - pkg:maven/org.jlot/jlot-test@0.99?classifier=sources
+- pkg:maven/org.jlot/jlot-test@1.0
+- pkg:maven/org.jlot/jlot-test@1.0?classifier=sources
+- pkg:maven/org.jlot/jlot-test@1.2
+- pkg:maven/org.jlot/jlot-test@1.2?classifier=sources

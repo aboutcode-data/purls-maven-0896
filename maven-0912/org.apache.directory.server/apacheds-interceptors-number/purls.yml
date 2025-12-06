@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.directory.server/apacheds-interceptors-number@2.0.0-M22?classifier=sources
 - pkg:maven/org.apache.directory.server/apacheds-interceptors-number@2.0.0-M23
 - pkg:maven/org.apache.directory.server/apacheds-interceptors-number@2.0.0-M23?classifier=sources
+- pkg:maven/org.apache.directory.server/apacheds-interceptors-number@2.0.0-M24
+- pkg:maven/org.apache.directory.server/apacheds-interceptors-number@2.0.0-M24?classifier=sources

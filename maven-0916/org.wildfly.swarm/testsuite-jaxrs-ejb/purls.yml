@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/testsuite-jaxrs-ejb@2017.5.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/testsuite-jaxrs-ejb@2017.5.0?type=war

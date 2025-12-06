@@ -6,3 +6,9 @@
 - pkg:maven/mobi.stos/podataka_lib@0.2b?type=aar
 - pkg:maven/mobi.stos/podataka_lib@0.3b?classifier=sources
 - pkg:maven/mobi.stos/podataka_lib@0.3b?type=aar
+- pkg:maven/mobi.stos/podataka_lib@0.4b?classifier=sources
+- pkg:maven/mobi.stos/podataka_lib@0.4b?type=aar
+- pkg:maven/mobi.stos/podataka_lib@0.5b?classifier=sources
+- pkg:maven/mobi.stos/podataka_lib@0.5b?type=aar
+- pkg:maven/mobi.stos/podataka_lib@0.6b?classifier=sources
+- pkg:maven/mobi.stos/podataka_lib@0.6b?type=aar

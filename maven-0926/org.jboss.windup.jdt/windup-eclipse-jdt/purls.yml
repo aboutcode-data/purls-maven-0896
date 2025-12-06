@@ -20,3 +20,15 @@
 - pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@2.6.0.Final?classifier=sources
 - pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@2.7.0.Final
 - pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@2.7.0.Final?classifier=sources
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@3.0.0.Alpha1
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@3.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@3.0.0.CR1
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@3.0.0.CR1?classifier=sources
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@3.0.0.Final
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@3.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.0.0.Beta1
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.0.0.Beta2
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.0.0.Beta2.1
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.0.0.Beta2.1?classifier=sources
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.0.0.Beta2?classifier=sources

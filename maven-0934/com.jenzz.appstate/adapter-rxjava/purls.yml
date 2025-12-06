@@ -1,0 +1,4 @@
+- pkg:maven/com.jenzz.appstate/adapter-rxjava@3.0.0?classifier=sources
+- pkg:maven/com.jenzz.appstate/adapter-rxjava@3.0.0?type=aar
+- pkg:maven/com.jenzz.appstate/adapter-rxjava@3.0.1?classifier=sources
+- pkg:maven/com.jenzz.appstate/adapter-rxjava@3.0.1?type=aar

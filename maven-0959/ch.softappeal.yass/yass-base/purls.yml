@@ -1,0 +1,6 @@
+- pkg:maven/ch.softappeal.yass/yass-base@48.0.0
+- pkg:maven/ch.softappeal.yass/yass-base@48.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-base@49.0.0
+- pkg:maven/ch.softappeal.yass/yass-base@49.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-base@50.0.0
+- pkg:maven/ch.softappeal.yass/yass-base@50.0.0?classifier=sources

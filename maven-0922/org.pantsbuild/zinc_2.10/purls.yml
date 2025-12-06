@@ -6,6 +6,8 @@
 - pkg:maven/org.pantsbuild/zinc_2.10@0.0.3?classifier=sources
 - pkg:maven/org.pantsbuild/zinc_2.10@0.0.4
 - pkg:maven/org.pantsbuild/zinc_2.10@0.0.4?classifier=sources
+- pkg:maven/org.pantsbuild/zinc_2.10@0.0.5
+- pkg:maven/org.pantsbuild/zinc_2.10@0.0.5?classifier=sources
 - pkg:maven/org.pantsbuild/zinc_2.10@20160412115411-zinc-canonicalize-1
 - pkg:maven/org.pantsbuild/zinc_2.10@20160412115411-zinc-canonicalize-1?classifier=sources
 - pkg:maven/org.pantsbuild/zinc_2.10@20160711170623-sbt-zinc-repo-1

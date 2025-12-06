@@ -1,0 +1,2 @@
+- pkg:maven/me.zongren/pullablelayout@1.7.0?classifier=sources
+- pkg:maven/me.zongren/pullablelayout@1.7.0?type=aar

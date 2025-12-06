@@ -2,3 +2,5 @@
 - pkg:maven/com.twitter.heron/heron-kafka@0.14.3?classifier=sources
 - pkg:maven/com.twitter.heron/heron-kafka@0.14.4
 - pkg:maven/com.twitter.heron/heron-kafka@0.14.4?classifier=sources
+- pkg:maven/com.twitter.heron/heron-kafka@0.14.5
+- pkg:maven/com.twitter.heron/heron-kafka@0.14.5?classifier=sources

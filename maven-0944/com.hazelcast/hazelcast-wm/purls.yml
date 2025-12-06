@@ -153,6 +153,8 @@
 - pkg:maven/com.hazelcast/hazelcast-wm@3.1.7?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-wm@3.1.8
 - pkg:maven/com.hazelcast/hazelcast-wm@3.1.8?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-wm@3.1.9
+- pkg:maven/com.hazelcast/hazelcast-wm@3.1.9?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-wm@3.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-wm@3.2
 - pkg:maven/com.hazelcast/hazelcast-wm@3.2-RC1
@@ -251,8 +253,16 @@
 - pkg:maven/com.hazelcast/hazelcast-wm@3.6.5?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-wm@3.6.6
 - pkg:maven/com.hazelcast/hazelcast-wm@3.6.6?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-wm@3.6.7
+- pkg:maven/com.hazelcast/hazelcast-wm@3.6.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-wm@3.6.8
+- pkg:maven/com.hazelcast/hazelcast-wm@3.6.8?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-wm@3.6?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-wm@3.7
 - pkg:maven/com.hazelcast/hazelcast-wm@3.7.1
 - pkg:maven/com.hazelcast/hazelcast-wm@3.7.1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-wm@3.7?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-wm@3.8
+- pkg:maven/com.hazelcast/hazelcast-wm@3.8.1
+- pkg:maven/com.hazelcast/hazelcast-wm@3.8.1?classifier=sources
+- pkg:maven/com.hazelcast/hazelcast-wm@3.8?classifier=sources

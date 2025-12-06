@@ -1,0 +1,4 @@
+- pkg:maven/io.kamon/agent-scala-extension_2.10@0.0.2-experimental
+- pkg:maven/io.kamon/agent-scala-extension_2.10@0.0.2-experimental?classifier=sources
+- pkg:maven/io.kamon/agent-scala-extension_2.10@0.0.3-experimental
+- pkg:maven/io.kamon/agent-scala-extension_2.10@0.0.3-experimental?classifier=sources

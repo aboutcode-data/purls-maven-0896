@@ -1,2 +1,8 @@
+- pkg:maven/org.webjars.npm/react-notification-system@0.2.10
+- pkg:maven/org.webjars.npm/react-notification-system@0.2.10?classifier=sources
+- pkg:maven/org.webjars.npm/react-notification-system@0.2.11
+- pkg:maven/org.webjars.npm/react-notification-system@0.2.11?classifier=sources
+- pkg:maven/org.webjars.npm/react-notification-system@0.2.13
+- pkg:maven/org.webjars.npm/react-notification-system@0.2.13?classifier=sources
 - pkg:maven/org.webjars.npm/react-notification-system@0.2.7
 - pkg:maven/org.webjars.npm/react-notification-system@0.2.7?classifier=sources

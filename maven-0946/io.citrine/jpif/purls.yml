@@ -1,0 +1,6 @@
+- pkg:maven/io.citrine/jpif@2.1.0
+- pkg:maven/io.citrine/jpif@2.1.0?classifier=sources
+- pkg:maven/io.citrine/jpif@2.1.4
+- pkg:maven/io.citrine/jpif@2.1.4?classifier=sources
+- pkg:maven/io.citrine/jpif@2.1.8
+- pkg:maven/io.citrine/jpif@2.1.8?classifier=sources

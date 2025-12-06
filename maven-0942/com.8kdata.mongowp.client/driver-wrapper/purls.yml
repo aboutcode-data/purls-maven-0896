@@ -6,3 +6,5 @@
 - pkg:maven/com.8kdata.mongowp.client/driver-wrapper@0.40-alpha3
 - pkg:maven/com.8kdata.mongowp.client/driver-wrapper@0.40-alpha3?classifier=sources
 - pkg:maven/com.8kdata.mongowp.client/driver-wrapper@0.40?classifier=sources
+- pkg:maven/com.8kdata.mongowp.client/driver-wrapper@0.50.0
+- pkg:maven/com.8kdata.mongowp.client/driver-wrapper@0.50.0?classifier=sources

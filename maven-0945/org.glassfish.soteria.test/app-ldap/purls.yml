@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.soteria.test/app-ldap@1.0-b07?classifier=sources
+- pkg:maven/org.glassfish.soteria.test/app-ldap@1.0-b07?type=war

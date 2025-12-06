@@ -1,0 +1,16 @@
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.0.208
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.0.208?classifier=sources
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.0.209
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.0.209?classifier=sources
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.0.210
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.0.210?classifier=sources
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.212
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.212?classifier=sources
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.213
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.213?classifier=sources
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.214
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.214?classifier=sources
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.215
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@10.1.215?classifier=sources
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@9.0.191
+- pkg:maven/org.mobicents.tools/heartbeat-rmi@9.0.191?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.autoscaler/autoscale-marathon-shared@1.0.0-12
+- pkg:maven/com.github.autoscaler/autoscale-marathon-shared@1.0.0-12?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-marathon-shared@1.0.1-39
+- pkg:maven/com.github.autoscaler/autoscale-marathon-shared@1.0.1-39?classifier=sources

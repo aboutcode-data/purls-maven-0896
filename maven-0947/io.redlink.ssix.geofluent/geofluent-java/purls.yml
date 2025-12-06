@@ -1,0 +1,4 @@
+- pkg:maven/io.redlink.ssix.geofluent/geofluent-java@0.1.0
+- pkg:maven/io.redlink.ssix.geofluent/geofluent-java@0.1.0?classifier=sources
+- pkg:maven/io.redlink.ssix.geofluent/geofluent-java@0.2.0
+- pkg:maven/io.redlink.ssix.geofluent/geofluent-java@0.2.0?classifier=sources

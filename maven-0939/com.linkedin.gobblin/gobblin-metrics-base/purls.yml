@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.gobblin/gobblin-metrics-base@0.10.0
+- pkg:maven/com.linkedin.gobblin/gobblin-metrics-base@0.10.0?classifier=sources

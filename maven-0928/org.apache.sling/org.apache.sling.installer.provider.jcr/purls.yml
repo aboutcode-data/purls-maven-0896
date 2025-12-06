@@ -20,6 +20,15 @@
 - pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.18?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.18?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.2
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.22
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.22?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.22?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.24
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.24?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.24?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.26
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.26?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.26?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.2?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.installer.provider.jcr@3.1.4

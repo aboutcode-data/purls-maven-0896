@@ -1,0 +1,9 @@
+- pkg:maven/org.tensorflow/tensorflow@1.1.0
+- pkg:maven/org.tensorflow/tensorflow@1.1.0-rc0
+- pkg:maven/org.tensorflow/tensorflow@1.1.0-rc0-windows-fix
+- pkg:maven/org.tensorflow/tensorflow@1.1.0-rc1
+- pkg:maven/org.tensorflow/tensorflow@1.1.0-rc2
+- pkg:maven/org.tensorflow/tensorflow@1.2.0
+- pkg:maven/org.tensorflow/tensorflow@1.2.0-rc0
+- pkg:maven/org.tensorflow/tensorflow@1.2.0-rc1
+- pkg:maven/org.tensorflow/tensorflow@1.2.0-rc2

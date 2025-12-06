@@ -1,0 +1,4 @@
+- pkg:maven/net.so1/microservice_2.11@0.0.2
+- pkg:maven/net.so1/microservice_2.11@0.0.2?classifier=sources
+- pkg:maven/net.so1/microservice_2.11@0.0.3
+- pkg:maven/net.so1/microservice_2.11@0.0.3?classifier=sources

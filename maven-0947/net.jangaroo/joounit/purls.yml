@@ -62,3 +62,10 @@
 - pkg:maven/net.jangaroo/joounit@3-preview-2?classifier=sources
 - pkg:maven/net.jangaroo/joounit@3-preview-3?classifier=sources
 - pkg:maven/net.jangaroo/joounit@3.0.0?classifier=sources
+- pkg:maven/net.jangaroo/joounit@4.0.20?classifier=sources
+- pkg:maven/net.jangaroo/joounit@4.0.37?classifier=sources
+- pkg:maven/net.jangaroo/joounit@4.0.38?classifier=sources
+- pkg:maven/net.jangaroo/joounit@4.0.39?classifier=sources
+- pkg:maven/net.jangaroo/joounit@4.0.40?classifier=sources
+- pkg:maven/net.jangaroo/joounit@4.0.41?classifier=sources
+- pkg:maven/net.jangaroo/joounit@4.0.42?classifier=sources

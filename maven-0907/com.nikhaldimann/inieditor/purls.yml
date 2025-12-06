@@ -1,2 +1,4 @@
 - pkg:maven/com.nikhaldimann/inieditor@r5
 - pkg:maven/com.nikhaldimann/inieditor@r5?classifier=sources
+- pkg:maven/com.nikhaldimann/inieditor@r6
+- pkg:maven/com.nikhaldimann/inieditor@r6?classifier=sources

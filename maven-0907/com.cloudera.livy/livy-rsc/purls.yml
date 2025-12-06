@@ -1,2 +1,4 @@
 - pkg:maven/com.cloudera.livy/livy-rsc@0.2.0
 - pkg:maven/com.cloudera.livy/livy-rsc@0.2.0?classifier=sources
+- pkg:maven/com.cloudera.livy/livy-rsc@0.3.0
+- pkg:maven/com.cloudera.livy/livy-rsc@0.3.0?classifier=sources

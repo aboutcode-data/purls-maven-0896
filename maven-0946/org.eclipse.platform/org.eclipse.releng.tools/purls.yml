@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.releng.tools@3.9.0
+- pkg:maven/org.eclipse.platform/org.eclipse.releng.tools@3.9.0?classifier=sources

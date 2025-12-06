@@ -1,0 +1,2 @@
+- pkg:maven/com.thoughtworks.deeplearning/nd4j-platform@1.0.0-RC9
+- pkg:maven/com.thoughtworks.deeplearning/nd4j-platform@1.0.0-RC9?classifier=sources

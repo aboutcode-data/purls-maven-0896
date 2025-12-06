@@ -1,0 +1,4 @@
+- pkg:maven/com.panayotis.jupidator/digester@0.8.9.8
+- pkg:maven/com.panayotis.jupidator/digester@0.8.9.8?classifier=sources
+- pkg:maven/com.panayotis.jupidator/digester@0.8.9.9
+- pkg:maven/com.panayotis.jupidator/digester@0.8.9.9?classifier=sources

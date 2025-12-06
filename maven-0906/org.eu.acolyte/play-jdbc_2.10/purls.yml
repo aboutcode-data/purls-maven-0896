@@ -4,3 +4,9 @@
 - pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.38-j7p?classifier=sources
 - pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.39-j7p
 - pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.39-j7p?classifier=sources
+- pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.42-j7p
+- pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.42-j7p?classifier=sources
+- pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.43-j7p
+- pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.43-j7p?classifier=sources
+- pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.44-j7p
+- pkg:maven/org.eu.acolyte/play-jdbc_2.10@1.0.44-j7p?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/edu.stanford.protege/protege-launcher@5.0.0?classifier=sources
 - pkg:maven/edu.stanford.protege/protege-launcher@5.1.0
 - pkg:maven/edu.stanford.protege/protege-launcher@5.1.0?classifier=sources
+- pkg:maven/edu.stanford.protege/protege-launcher@5.2.0
+- pkg:maven/edu.stanford.protege/protege-launcher@5.2.0?classifier=sources

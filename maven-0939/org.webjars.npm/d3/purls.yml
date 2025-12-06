@@ -20,6 +20,8 @@
 - pkg:maven/org.webjars.npm/d3@3.5.16?classifier=sources
 - pkg:maven/org.webjars.npm/d3@3.5.17
 - pkg:maven/org.webjars.npm/d3@3.5.17?classifier=sources
+- pkg:maven/org.webjars.npm/d3@3.5.3
+- pkg:maven/org.webjars.npm/d3@3.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/d3@3.5.6
 - pkg:maven/org.webjars.npm/d3@3.5.6?classifier=sources
 - pkg:maven/org.webjars.npm/d3@4.1.1
@@ -40,3 +42,17 @@
 - pkg:maven/org.webjars.npm/d3@4.2.6?classifier=sources
 - pkg:maven/org.webjars.npm/d3@4.2.8
 - pkg:maven/org.webjars.npm/d3@4.2.8?classifier=sources
+- pkg:maven/org.webjars.npm/d3@4.4.0
+- pkg:maven/org.webjars.npm/d3@4.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3@4.6.0
+- pkg:maven/org.webjars.npm/d3@4.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3@4.7.1
+- pkg:maven/org.webjars.npm/d3@4.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/d3@4.7.3
+- pkg:maven/org.webjars.npm/d3@4.7.3?classifier=sources
+- pkg:maven/org.webjars.npm/d3@4.7.4
+- pkg:maven/org.webjars.npm/d3@4.7.4?classifier=sources
+- pkg:maven/org.webjars.npm/d3@4.8.0
+- pkg:maven/org.webjars.npm/d3@4.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3@4.9.1
+- pkg:maven/org.webjars.npm/d3@4.9.1?classifier=sources

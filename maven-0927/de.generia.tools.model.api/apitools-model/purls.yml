@@ -1,0 +1,4 @@
+- pkg:maven/de.generia.tools.model.api/apitools-model@1.0.0
+- pkg:maven/de.generia.tools.model.api/apitools-model@1.0.0?classifier=sources
+- pkg:maven/de.generia.tools.model.api/apitools-model@1.0.2
+- pkg:maven/de.generia.tools.model.api/apitools-model@1.0.2?classifier=sources

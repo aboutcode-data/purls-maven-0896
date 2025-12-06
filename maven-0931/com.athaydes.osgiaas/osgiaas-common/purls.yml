@@ -1,0 +1,2 @@
+- pkg:maven/com.athaydes.osgiaas/osgiaas-common@0.7
+- pkg:maven/com.athaydes.osgiaas/osgiaas-common@0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.joshworks/local-storage@0.2
+- pkg:maven/io.joshworks/local-storage@0.2?classifier=sources

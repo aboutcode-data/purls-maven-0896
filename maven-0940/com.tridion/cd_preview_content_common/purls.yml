@@ -4,3 +4,5 @@
 - pkg:maven/com.tridion/cd_preview_content_common@8.2.0-1009?classifier=sources
 - pkg:maven/com.tridion/cd_preview_content_common@8.3.0-1004
 - pkg:maven/com.tridion/cd_preview_content_common@8.3.0-1004?classifier=sources
+- pkg:maven/com.tridion/cd_preview_content_common@8.5.0-1013
+- pkg:maven/com.tridion/cd_preview_content_common@8.5.0-1013?classifier=sources

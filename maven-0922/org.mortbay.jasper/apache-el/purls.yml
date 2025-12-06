@@ -20,3 +20,9 @@
 - pkg:maven/org.mortbay.jasper/apache-el@8.0.9.M3?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-el@8.5.4
 - pkg:maven/org.mortbay.jasper/apache-el@8.5.4?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-el@8.5.5
+- pkg:maven/org.mortbay.jasper/apache-el@8.5.5?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-el@8.5.9
+- pkg:maven/org.mortbay.jasper/apache-el@8.5.9.1
+- pkg:maven/org.mortbay.jasper/apache-el@8.5.9.1?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-el@8.5.9?classifier=sources

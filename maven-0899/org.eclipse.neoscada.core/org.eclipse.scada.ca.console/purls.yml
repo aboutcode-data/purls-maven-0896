@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.neoscada.core/org.eclipse.scada.ca.console@0.3.0
+- pkg:maven/org.eclipse.neoscada.core/org.eclipse.scada.ca.console@0.3.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.talent-aio/talent-aio-examples-helloworld-server@0.6.6-alpha
+- pkg:maven/com.talent-aio/talent-aio-examples-helloworld-server@0.6.6-alpha?classifier=sources
+- pkg:maven/com.talent-aio/talent-aio-examples-helloworld-server@0.6.8-alpha
+- pkg:maven/com.talent-aio/talent-aio-examples-helloworld-server@0.6.8-alpha?classifier=sources
+- pkg:maven/com.talent-aio/talent-aio-examples-helloworld-server@1.0.0-RELEASE
+- pkg:maven/com.talent-aio/talent-aio-examples-helloworld-server@1.0.0-RELEASE?classifier=sources

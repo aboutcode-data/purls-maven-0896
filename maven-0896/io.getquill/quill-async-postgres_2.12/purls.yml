@@ -1,0 +1,2 @@
+- pkg:maven/io.getquill/quill-async-postgres_2.12@1.2.1
+- pkg:maven/io.getquill/quill-async-postgres_2.12@1.2.1?classifier=sources

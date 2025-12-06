@@ -1,0 +1,4 @@
+- pkg:maven/com.github.bayounesamine/dfu@0.0.1?classifier=sources
+- pkg:maven/com.github.bayounesamine/dfu@0.0.1?type=aar
+- pkg:maven/com.github.bayounesamine/dfu@0.0.8?classifier=sources
+- pkg:maven/com.github.bayounesamine/dfu@0.0.8?type=aar

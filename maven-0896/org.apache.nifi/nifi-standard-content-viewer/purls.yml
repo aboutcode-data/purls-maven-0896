@@ -17,5 +17,14 @@
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@0.6.1?type=war
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@0.7.0?type=war
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@0.7.1?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@0.7.2?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@0.7.3?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@0.7.4?type=war
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.0.0-BETA?type=war
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.0.0?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.0.1?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.1.0?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.1.1?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.1.2?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.2.0?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@1.3.0?type=war

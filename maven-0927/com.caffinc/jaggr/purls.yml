@@ -1,0 +1,12 @@
+- pkg:maven/com.caffinc/jaggr@0.1
+- pkg:maven/com.caffinc/jaggr@0.1?classifier=sources
+- pkg:maven/com.caffinc/jaggr@0.2
+- pkg:maven/com.caffinc/jaggr@0.2.2
+- pkg:maven/com.caffinc/jaggr@0.2.2?classifier=sources
+- pkg:maven/com.caffinc/jaggr@0.2?classifier=sources
+- pkg:maven/com.caffinc/jaggr@0.3.0
+- pkg:maven/com.caffinc/jaggr@0.3.0?classifier=sources
+- pkg:maven/com.caffinc/jaggr@0.4.0
+- pkg:maven/com.caffinc/jaggr@0.4.0?classifier=sources
+- pkg:maven/com.caffinc/jaggr@0.5.0
+- pkg:maven/com.caffinc/jaggr@0.5.0?classifier=sources

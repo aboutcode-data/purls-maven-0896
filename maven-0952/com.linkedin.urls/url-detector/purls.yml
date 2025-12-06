@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.urls/url-detector@0.1.17
+- pkg:maven/com.linkedin.urls/url-detector@0.1.17?classifier=sources

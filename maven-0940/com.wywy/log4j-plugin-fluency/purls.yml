@@ -1,0 +1,16 @@
+- pkg:maven/com.wywy/log4j-plugin-fluency@%24%257Blog4jplugin.version%257D
+- pkg:maven/com.wywy/log4j-plugin-fluency@%24%257Blog4jplugin.version%257D?classifier=sources
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.0.0
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.0.0?classifier=sources
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.1.0
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.1.0?classifier=sources
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.1.1
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.1.1?classifier=sources
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.2.0
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.2.0?classifier=sources
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.3.0
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.3.0?classifier=sources
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.3.1
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.3.1?classifier=sources
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.3.2
+- pkg:maven/com.wywy/log4j-plugin-fluency@1.3.2?classifier=sources

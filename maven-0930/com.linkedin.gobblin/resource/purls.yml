@@ -1,4 +1,8 @@
+- pkg:maven/com.linkedin.gobblin/resource@0.10.0
+- pkg:maven/com.linkedin.gobblin/resource@0.10.0?classifier=sources
 - pkg:maven/com.linkedin.gobblin/resource@0.7.0
 - pkg:maven/com.linkedin.gobblin/resource@0.7.0?classifier=sources
 - pkg:maven/com.linkedin.gobblin/resource@0.8.0
 - pkg:maven/com.linkedin.gobblin/resource@0.8.0?classifier=sources
+- pkg:maven/com.linkedin.gobblin/resource@0.9.0
+- pkg:maven/com.linkedin.gobblin/resource@0.9.0?classifier=sources

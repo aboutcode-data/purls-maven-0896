@@ -6,7 +6,13 @@
 - pkg:maven/org.seedstack/domain-archetype@15.7-M4?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@15.7-M5?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@15.7?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@16.11.1?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@16.11.2?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@16.11?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@16.4?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@16.7.1?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@16.7.2?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@16.7.3?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@16.7.4?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@16.7?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@17.4?classifier=sources

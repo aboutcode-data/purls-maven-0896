@@ -1,0 +1,2 @@
+- pkg:maven/io.shaka/scala-embedded-jetty_2.12@32
+- pkg:maven/io.shaka/scala-embedded-jetty_2.12@32?classifier=sources

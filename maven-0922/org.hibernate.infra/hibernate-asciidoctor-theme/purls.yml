@@ -1,0 +1,4 @@
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.0.Final?classifier=sources
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.0.Final?type=zip
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.1.Final?classifier=sources
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.1.Final?type=zip

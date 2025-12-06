@@ -1,0 +1,2 @@
+- pkg:maven/com.github.scala212-forks/kafka_2.12@0.8.2.2
+- pkg:maven/com.github.scala212-forks/kafka_2.12@0.8.2.2?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/de.hasait.genesis/genesis-scriptgen@0.5.4?classifier=sources
 - pkg:maven/de.hasait.genesis/genesis-scriptgen@0.6.0
 - pkg:maven/de.hasait.genesis/genesis-scriptgen@0.6.0?classifier=sources
+- pkg:maven/de.hasait.genesis/genesis-scriptgen@0.6.1.FINAL
+- pkg:maven/de.hasait.genesis/genesis-scriptgen@0.6.1.FINAL?classifier=sources
+- pkg:maven/de.hasait.genesis/genesis-scriptgen@0.6.1.RC2
+- pkg:maven/de.hasait.genesis/genesis-scriptgen@0.6.1.RC2?classifier=sources

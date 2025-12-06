@@ -1,0 +1,4 @@
+- pkg:maven/guru.breakthemonolith/btm-DropwizardHealthChecks-mongodb@0.1.0
+- pkg:maven/guru.breakthemonolith/btm-DropwizardHealthChecks-mongodb@0.1.0-rc5
+- pkg:maven/guru.breakthemonolith/btm-DropwizardHealthChecks-mongodb@0.1.0-rc5?classifier=sources
+- pkg:maven/guru.breakthemonolith/btm-DropwizardHealthChecks-mongodb@0.1.0?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/org.kevoree.mwg.plugins/websocket@1
+- pkg:maven/org.kevoree.mwg.plugins/websocket@10
+- pkg:maven/org.kevoree.mwg.plugins/websocket@10?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/websocket@11
+- pkg:maven/org.kevoree.mwg.plugins/websocket@11?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/websocket@1?classifier=sources
 - pkg:maven/org.kevoree.mwg.plugins/websocket@2
 - pkg:maven/org.kevoree.mwg.plugins/websocket@2?classifier=sources

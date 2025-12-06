@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.cryptoutils/jjwk@0.1
+- pkg:maven/de.adorsys.cryptoutils/jjwk@0.1?classifier=sources

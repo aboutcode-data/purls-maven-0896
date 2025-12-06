@@ -120,6 +120,10 @@
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-15?classifier=sources
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-16
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-16?classifier=sources
+- pkg:maven/org.nuiton/nuiton-utils@3.0-rc-17
+- pkg:maven/org.nuiton/nuiton-utils@3.0-rc-17?classifier=sources
+- pkg:maven/org.nuiton/nuiton-utils@3.0-rc-18
+- pkg:maven/org.nuiton/nuiton-utils@3.0-rc-18?classifier=sources
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-1?classifier=sources
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-2
 - pkg:maven/org.nuiton/nuiton-utils@3.0-rc-2?classifier=sources

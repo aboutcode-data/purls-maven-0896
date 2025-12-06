@@ -1,0 +1,4 @@
+- pkg:maven/es.sandbox.ui.messages/flash-messages-spring-boot-starter-taglibs@1.0.2
+- pkg:maven/es.sandbox.ui.messages/flash-messages-spring-boot-starter-taglibs@1.0.2?classifier=sources
+- pkg:maven/es.sandbox.ui.messages/flash-messages-spring-boot-starter-taglibs@1.1.0
+- pkg:maven/es.sandbox.ui.messages/flash-messages-spring-boot-starter-taglibs@1.1.0?classifier=sources

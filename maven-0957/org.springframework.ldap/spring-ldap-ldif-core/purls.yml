@@ -15,3 +15,9 @@
 - pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.1.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.2.0.RELEASE
 - pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.2.1.RELEASE
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.3.0.RELEASE
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.3.1.RELEASE
+- pkg:maven/org.springframework.ldap/spring-ldap-ldif-core@2.3.1.RELEASE?classifier=sources

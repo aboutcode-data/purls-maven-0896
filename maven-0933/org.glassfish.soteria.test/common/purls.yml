@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.soteria.test/common@1.0-b07
+- pkg:maven/org.glassfish.soteria.test/common@1.0-b07?classifier=sources

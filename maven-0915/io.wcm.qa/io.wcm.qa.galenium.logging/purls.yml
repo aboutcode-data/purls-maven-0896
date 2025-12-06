@@ -1,0 +1,4 @@
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.logging@0.1.0
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.logging@0.1.0?classifier=sources
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.logging@0.1.4
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.logging@0.1.4?classifier=sources

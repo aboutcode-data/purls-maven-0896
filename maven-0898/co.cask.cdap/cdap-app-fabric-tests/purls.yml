@@ -4,4 +4,12 @@
 - pkg:maven/co.cask.cdap/cdap-app-fabric-tests@3.4.3
 - pkg:maven/co.cask.cdap/cdap-app-fabric-tests@3.5.0
 - pkg:maven/co.cask.cdap/cdap-app-fabric-tests@3.5.1
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@3.5.3
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@3.5.4
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@3.5.5
 - pkg:maven/co.cask.cdap/cdap-app-fabric-tests@3.6.0
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@4.0.0
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@4.0.1
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@4.1.0
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@4.1.1
+- pkg:maven/co.cask.cdap/cdap-app-fabric-tests@4.2.0

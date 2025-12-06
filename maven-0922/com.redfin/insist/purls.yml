@@ -1,0 +1,6 @@
+- pkg:maven/com.redfin/insist@0.1.0-beta
+- pkg:maven/com.redfin/insist@0.1.0-beta?classifier=sources
+- pkg:maven/com.redfin/insist@0.2.0-beta
+- pkg:maven/com.redfin/insist@0.2.0-beta?classifier=sources
+- pkg:maven/com.redfin/insist@0.3.0-beta
+- pkg:maven/com.redfin/insist@0.3.0-beta?classifier=sources

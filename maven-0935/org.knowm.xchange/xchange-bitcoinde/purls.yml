@@ -2,3 +2,5 @@
 - pkg:maven/org.knowm.xchange/xchange-bitcoinde@4.0.0?classifier=sources
 - pkg:maven/org.knowm.xchange/xchange-bitcoinde@4.1.0
 - pkg:maven/org.knowm.xchange/xchange-bitcoinde@4.1.0?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-bitcoinde@4.2.0
+- pkg:maven/org.knowm.xchange/xchange-bitcoinde@4.2.0?classifier=sources

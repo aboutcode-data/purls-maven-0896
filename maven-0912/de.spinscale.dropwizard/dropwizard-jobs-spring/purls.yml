@@ -1,0 +1,4 @@
+- pkg:maven/de.spinscale.dropwizard/dropwizard-jobs-spring@2.0.1
+- pkg:maven/de.spinscale.dropwizard/dropwizard-jobs-spring@2.0.1?classifier=sources
+- pkg:maven/de.spinscale.dropwizard/dropwizard-jobs-spring@3.0.0
+- pkg:maven/de.spinscale.dropwizard/dropwizard-jobs-spring@3.0.0?classifier=sources

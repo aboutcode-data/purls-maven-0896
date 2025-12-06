@@ -1,0 +1,4 @@
+- pkg:maven/org.hammerlab.adam/core_spark1_2.10@0.20.4
+- pkg:maven/org.hammerlab.adam/core_spark1_2.10@0.20.4?classifier=sources
+- pkg:maven/org.hammerlab.adam/core_spark1_2.10@0.21.1
+- pkg:maven/org.hammerlab.adam/core_spark1_2.10@0.21.1?classifier=sources

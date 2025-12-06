@@ -46,3 +46,5 @@
 - pkg:maven/com.alibaba.rocketmq/rocketmq-remoting@3.5.8?classifier=sources
 - pkg:maven/com.alibaba.rocketmq/rocketmq-remoting@3.5.9
 - pkg:maven/com.alibaba.rocketmq/rocketmq-remoting@3.5.9?classifier=sources
+- pkg:maven/com.alibaba.rocketmq/rocketmq-remoting@3.6.2.Final
+- pkg:maven/com.alibaba.rocketmq/rocketmq-remoting@3.6.2.Final?classifier=sources

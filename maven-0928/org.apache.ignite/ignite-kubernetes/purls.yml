@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.ignite/ignite-kubernetes@1.9.0
+- pkg:maven/org.apache.ignite/ignite-kubernetes@1.9.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-kubernetes@2.0.0
+- pkg:maven/org.apache.ignite/ignite-kubernetes@2.0.0?classifier=sources

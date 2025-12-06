@@ -6,6 +6,8 @@
 - pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.12?classifier=sources
 - pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.13
 - pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.13?classifier=sources
+- pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.14.0
+- pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.14.0?classifier=sources
 - pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.6
 - pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.6?classifier=sources
 - pkg:maven/tv.cntt/xitrum-hazelcast3_2.11@1.7

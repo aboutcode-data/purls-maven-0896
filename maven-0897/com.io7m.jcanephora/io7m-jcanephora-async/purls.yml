@@ -14,3 +14,13 @@
 - pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.45.2?classifier=sources
 - pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.45.3
 - pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.45.3?classifier=sources
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.50.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.50.0?classifier=sources
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.51.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.51.0?classifier=sources
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.52.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.52.0?classifier=sources
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.53.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.53.0?classifier=sources
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.53.1
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-async@0.53.1?classifier=sources

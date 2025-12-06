@@ -13,3 +13,6 @@
 - pkg:maven/com.squareup.sqldelight/ide-plugin@0.4.3?classifier=sources
 - pkg:maven/com.squareup.sqldelight/ide-plugin@0.4.4?classifier=sources
 - pkg:maven/com.squareup.sqldelight/ide-plugin@0.5.0?classifier=sources
+- pkg:maven/com.squareup.sqldelight/ide-plugin@0.5.1?classifier=sources
+- pkg:maven/com.squareup.sqldelight/ide-plugin@0.6.0?classifier=sources
+- pkg:maven/com.squareup.sqldelight/ide-plugin@0.6.1?classifier=sources
