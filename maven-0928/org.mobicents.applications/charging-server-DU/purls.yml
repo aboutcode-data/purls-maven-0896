@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.applications/charging-server-DU@1.0.0.2
+- pkg:maven/org.mobicents.applications/charging-server-DU@1.0.0.2?classifier=sources
+- pkg:maven/org.mobicents.applications/charging-server-DU@1.0.0.3
+- pkg:maven/org.mobicents.applications/charging-server-DU@1.0.0.3?classifier=sources

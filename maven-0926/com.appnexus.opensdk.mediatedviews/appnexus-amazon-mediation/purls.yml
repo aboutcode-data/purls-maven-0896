@@ -1,6 +1,12 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.0-5.4.192?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.0.1-5.4.192?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.1.0-5.4.235?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.10-5.6.20?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.11-5.6.20?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.12-5.6.20?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.13-5.6.20?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.14-5.6.20?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.15-5.8.1?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.2.0-5.5.149?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.3.0-5.6.20?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.3.1-5.6.20?type=aar
@@ -10,3 +16,5 @@
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.6-5.6.20?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.7.1-5.6.20?type=aar
 - pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.8-5.6.20?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.9-5.6.20?type=aar
+- pkg:maven/com.appnexus.opensdk.mediatedviews/appnexus-amazon-mediation@2.9.1-5.6.20?type=aar

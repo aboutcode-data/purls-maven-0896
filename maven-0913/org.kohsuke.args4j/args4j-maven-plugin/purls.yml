@@ -22,3 +22,5 @@
 - pkg:maven/org.kohsuke.args4j/args4j-maven-plugin@2.0.31?classifier=sources
 - pkg:maven/org.kohsuke.args4j/args4j-maven-plugin@2.32
 - pkg:maven/org.kohsuke.args4j/args4j-maven-plugin@2.32?classifier=sources
+- pkg:maven/org.kohsuke.args4j/args4j-maven-plugin@2.33
+- pkg:maven/org.kohsuke.args4j/args4j-maven-plugin@2.33?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.qos.logback.contrib/logback-json-access@0.1.5
+- pkg:maven/ch.qos.logback.contrib/logback-json-access@0.1.5?classifier=sources

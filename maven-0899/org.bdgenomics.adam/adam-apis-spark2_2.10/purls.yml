@@ -1,0 +1,2 @@
+- pkg:maven/org.bdgenomics.adam/adam-apis-spark2_2.10@0.20.0
+- pkg:maven/org.bdgenomics.adam/adam-apis-spark2_2.10@0.20.0?classifier=sources

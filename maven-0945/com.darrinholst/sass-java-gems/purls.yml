@@ -1,3 +1,5 @@
+- pkg:maven/com.darrinholst/sass-java-gems@3.4.20.0
+- pkg:maven/com.darrinholst/sass-java-gems@3.4.20.0?classifier=sources
 - pkg:maven/com.darrinholst/sass-java-gems@3.4.4
 - pkg:maven/com.darrinholst/sass-java-gems@3.4.4.1
 - pkg:maven/com.darrinholst/sass-java-gems@3.4.4.1?classifier=sources

@@ -16,6 +16,10 @@
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.17?classifier=sources
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.18
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.18?classifier=sources
+- pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.19
+- pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.19?classifier=sources
+- pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.20
+- pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.20?classifier=sources
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.7
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.7?classifier=sources
 - pkg:maven/guru.nidi.maven.plugins/tools-maven-plugin@1.0.8

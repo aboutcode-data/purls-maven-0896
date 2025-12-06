@@ -18,3 +18,7 @@
 - pkg:maven/org.ow2.asm/asm-all@5.0_ALPHA?classifier=sources
 - pkg:maven/org.ow2.asm/asm-all@5.0_BETA
 - pkg:maven/org.ow2.asm/asm-all@5.0_BETA?classifier=sources
+- pkg:maven/org.ow2.asm/asm-all@5.1
+- pkg:maven/org.ow2.asm/asm-all@5.1?classifier=sources
+- pkg:maven/org.ow2.asm/asm-all@6.0_ALPHA
+- pkg:maven/org.ow2.asm/asm-all@6.0_ALPHA?classifier=sources

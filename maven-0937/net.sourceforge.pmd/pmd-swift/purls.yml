@@ -1,0 +1,8 @@
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.3.7
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.3.7?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.4.2
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.4.2?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.5.0
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.5.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.5.1
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.5.1?classifier=sources

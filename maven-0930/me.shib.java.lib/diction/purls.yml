@@ -1,0 +1,4 @@
+- pkg:maven/me.shib.java.lib/diction@0.1
+- pkg:maven/me.shib.java.lib/diction@0.1.0
+- pkg:maven/me.shib.java.lib/diction@0.1.0?classifier=sources
+- pkg:maven/me.shib.java.lib/diction@0.1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.0
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.0?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.1
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.1?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.2
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.2?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.3
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.3.1
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.3.1?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.3.2
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.3.2?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.3?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.4
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.4.1
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.4.1?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@2.4?classifier=sources

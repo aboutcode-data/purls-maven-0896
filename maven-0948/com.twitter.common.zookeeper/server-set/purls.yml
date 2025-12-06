@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter.common.zookeeper/server-set@1.0.111
+- pkg:maven/com.twitter.common.zookeeper/server-set@1.0.111?classifier=sources
+- pkg:maven/com.twitter.common.zookeeper/server-set@1.0.112
+- pkg:maven/com.twitter.common.zookeeper/server-set@1.0.112?classifier=sources

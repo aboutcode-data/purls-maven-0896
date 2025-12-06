@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/datamaps@0.4.2
+- pkg:maven/org.webjars.npm/datamaps@0.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/datamaps@0.5.2
+- pkg:maven/org.webjars.npm/datamaps@0.5.2?classifier=sources

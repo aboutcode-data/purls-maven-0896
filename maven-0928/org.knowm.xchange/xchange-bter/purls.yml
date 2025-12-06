@@ -1,0 +1,4 @@
+- pkg:maven/org.knowm.xchange/xchange-bter@4.0.0
+- pkg:maven/org.knowm.xchange/xchange-bter@4.0.0?classifier=sources
+- pkg:maven/org.knowm.xchange/xchange-bter@4.1.0
+- pkg:maven/org.knowm.xchange/xchange-bter@4.1.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@3.1.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@3.1.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@3.2.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@3.2.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@3.3.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@3.3.0?classifier=sources

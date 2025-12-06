@@ -1,0 +1,10 @@
+- pkg:maven/org.lwapp/lwapp-notification@1.0.GA
+- pkg:maven/org.lwapp/lwapp-notification@1.0.GA?classifier=sources
+- pkg:maven/org.lwapp/lwapp-notification@1.0.M1
+- pkg:maven/org.lwapp/lwapp-notification@1.0.M1?classifier=sources
+- pkg:maven/org.lwapp/lwapp-notification@1.1.GA
+- pkg:maven/org.lwapp/lwapp-notification@1.1.GA?classifier=sources
+- pkg:maven/org.lwapp/lwapp-notification@1.2.1
+- pkg:maven/org.lwapp/lwapp-notification@1.2.1?classifier=sources
+- pkg:maven/org.lwapp/lwapp-notification@1.2.GA
+- pkg:maven/org.lwapp/lwapp-notification@1.2.GA?classifier=sources

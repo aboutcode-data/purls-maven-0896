@@ -4,3 +4,6 @@
 - pkg:maven/com.squareup.dagger.example/android-activity-graphs@1.2.0?classifier=sources
 - pkg:maven/com.squareup.dagger.example/android-activity-graphs@1.2.1?classifier=sources
 - pkg:maven/com.squareup.dagger.example/android-activity-graphs@1.2.2?classifier=sources
+- pkg:maven/com.squareup.dagger.example/android-activity-graphs@1.2.3?classifier=sources
+- pkg:maven/com.squareup.dagger.example/android-activity-graphs@1.2.4?classifier=sources
+- pkg:maven/com.squareup.dagger.example/android-activity-graphs@1.2.5?classifier=sources

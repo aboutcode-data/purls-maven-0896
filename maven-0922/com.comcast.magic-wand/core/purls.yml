@@ -1,0 +1,2 @@
+- pkg:maven/com.comcast.magic-wand/core@4.0.1
+- pkg:maven/com.comcast.magic-wand/core@4.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.cxf/cxf-spring-boot-autoconfigure@3.1.7
+- pkg:maven/org.apache.cxf/cxf-spring-boot-autoconfigure@3.1.7?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-spring-boot-autoconfigure@3.1.8
+- pkg:maven/org.apache.cxf/cxf-spring-boot-autoconfigure@3.1.8?classifier=sources

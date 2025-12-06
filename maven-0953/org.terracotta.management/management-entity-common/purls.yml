@@ -1,0 +1,2 @@
+- pkg:maven/org.terracotta.management/management-entity-common@2.5.0
+- pkg:maven/org.terracotta.management/management-entity-common@2.5.0?classifier=sources

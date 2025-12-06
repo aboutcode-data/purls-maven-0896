@@ -6,3 +6,5 @@
 - pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta6?classifier=sources
 - pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta7
 - pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta7?classifier=sources
+- pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta8
+- pkg:maven/com.google.code.maven-play-plugin/play-server-booter@1.0.0-beta8?classifier=sources

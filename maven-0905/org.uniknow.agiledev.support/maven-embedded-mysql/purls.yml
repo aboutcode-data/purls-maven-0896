@@ -1,0 +1,2 @@
+- pkg:maven/org.uniknow.agiledev.support/maven-embedded-mysql@0.1.13
+- pkg:maven/org.uniknow.agiledev.support/maven-embedded-mysql@0.1.13?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.rallydev.rest/rally-rest-api@2.0.4?classifier=sources
 - pkg:maven/com.rallydev.rest/rally-rest-api@2.1.1
 - pkg:maven/com.rallydev.rest/rally-rest-api@2.1.1?classifier=sources
+- pkg:maven/com.rallydev.rest/rally-rest-api@2.1.2
+- pkg:maven/com.rallydev.rest/rally-rest-api@2.1.2?classifier=sources
+- pkg:maven/com.rallydev.rest/rally-rest-api@2.2.1
+- pkg:maven/com.rallydev.rest/rally-rest-api@2.2.1?classifier=sources

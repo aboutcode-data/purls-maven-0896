@@ -1,8 +1,12 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2014101001
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2014101001?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015020701
+- pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015020701?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015061001
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015061001?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015091801
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015091801?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015110601
 - pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2015110601?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2016011501
+- pkg:maven/org.sonatype.nexus.plugins/nexus-extdirect-plugin@3.0.0-b2016011501?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.segment.cartographer/cartographer-benchmarks@1.0.0
+- pkg:maven/com.segment.cartographer/cartographer-benchmarks@1.0.0?classifier=sources

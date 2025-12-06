@@ -1,3 +1,15 @@
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.130-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.130-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.135-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.135-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.140-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.140-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.150-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.150-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.185-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.185-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.190-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-common@1.0.190-RELEASE?classifier=sources
 - pkg:maven/com.ahome-it/ahome-tooling-common@1.0.33-RC0
 - pkg:maven/com.ahome-it/ahome-tooling-common@1.0.33-RC0?classifier=sources
 - pkg:maven/com.ahome-it/ahome-tooling-common@1.0.33-RC1
@@ -18,3 +30,5 @@
 - pkg:maven/com.ahome-it/ahome-tooling-common@1.0.85-RELEASE?classifier=sources
 - pkg:maven/com.ahome-it/ahome-tooling-common@1.0.90-RELEASE
 - pkg:maven/com.ahome-it/ahome-tooling-common@1.0.90-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-common@2.0.0-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-common@2.0.0-RELEASE?classifier=sources

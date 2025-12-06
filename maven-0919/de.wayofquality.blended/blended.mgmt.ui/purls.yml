@@ -1,0 +1,7 @@
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.0-RC10?type=war
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.0-RC11?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.0-RC11?type=war
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.0-RC12?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.0-RC12?type=war
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.0-RC13?classifier=sources
+- pkg:maven/de.wayofquality.blended/blended.mgmt.ui@2.0-RC13?type=war

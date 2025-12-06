@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.lens/lens-driver-jdbc@2.3.0-beta?classifier=sources
 - pkg:maven/org.apache.lens/lens-driver-jdbc@2.4.0-beta
 - pkg:maven/org.apache.lens/lens-driver-jdbc@2.4.0-beta?classifier=sources
+- pkg:maven/org.apache.lens/lens-driver-jdbc@2.5.0-beta
+- pkg:maven/org.apache.lens/lens-driver-jdbc@2.5.0-beta?classifier=sources

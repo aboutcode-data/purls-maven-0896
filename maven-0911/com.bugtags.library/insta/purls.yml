@@ -1,0 +1,10 @@
+- pkg:maven/com.bugtags.library/insta@1.0.2?classifier=sources
+- pkg:maven/com.bugtags.library/insta@1.0.2?type=aar
+- pkg:maven/com.bugtags.library/insta@1.0.3?classifier=sources
+- pkg:maven/com.bugtags.library/insta@1.0.3?type=aar
+- pkg:maven/com.bugtags.library/insta@1.0.4?classifier=sources
+- pkg:maven/com.bugtags.library/insta@1.0.4?type=aar
+- pkg:maven/com.bugtags.library/insta@1.0.5?classifier=sources
+- pkg:maven/com.bugtags.library/insta@1.0.5?type=aar
+- pkg:maven/com.bugtags.library/insta@2.0.0?classifier=sources
+- pkg:maven/com.bugtags.library/insta@2.0.0?type=aar

@@ -10,3 +10,5 @@
 - pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.22?classifier=sources
 - pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.23
 - pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.23?classifier=sources
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.24
+- pkg:maven/net.lightoze.gwt-i18n-server/gwt-i18n-server@0.24?classifier=sources

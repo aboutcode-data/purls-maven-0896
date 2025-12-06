@@ -1,0 +1,6 @@
+- pkg:maven/ch.jodersky/flow-core_2.11@3.0.1
+- pkg:maven/ch.jodersky/flow-core_2.11@3.0.1?classifier=sources
+- pkg:maven/ch.jodersky/flow-core_2.11@3.0.2
+- pkg:maven/ch.jodersky/flow-core_2.11@3.0.2?classifier=sources
+- pkg:maven/ch.jodersky/flow-core_2.11@3.0.3
+- pkg:maven/ch.jodersky/flow-core_2.11@3.0.3?classifier=sources

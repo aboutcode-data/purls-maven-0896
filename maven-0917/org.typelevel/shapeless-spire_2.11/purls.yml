@@ -4,3 +4,5 @@
 - pkg:maven/org.typelevel/shapeless-spire_2.11@0.3?classifier=sources
 - pkg:maven/org.typelevel/shapeless-spire_2.11@0.4
 - pkg:maven/org.typelevel/shapeless-spire_2.11@0.4?classifier=sources
+- pkg:maven/org.typelevel/shapeless-spire_2.11@0.5
+- pkg:maven/org.typelevel/shapeless-spire_2.11@0.5?classifier=sources

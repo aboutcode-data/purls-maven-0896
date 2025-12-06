@@ -1,0 +1,6 @@
+- pkg:maven/fr.sii.sonar/sonar-report-core@2.0.0
+- pkg:maven/fr.sii.sonar/sonar-report-core@2.0.0-RC1
+- pkg:maven/fr.sii.sonar/sonar-report-core@2.0.0-RC1?classifier=sources
+- pkg:maven/fr.sii.sonar/sonar-report-core@2.0.0?classifier=sources
+- pkg:maven/fr.sii.sonar/sonar-report-core@2.1.0
+- pkg:maven/fr.sii.sonar/sonar-report-core@2.1.0?classifier=sources

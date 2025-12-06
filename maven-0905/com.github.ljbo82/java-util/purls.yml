@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ljbo82/java-util@0.1.0
+- pkg:maven/com.github.ljbo82/java-util@0.1.0-alpha
+- pkg:maven/com.github.ljbo82/java-util@0.1.0-alpha?classifier=sources
+- pkg:maven/com.github.ljbo82/java-util@0.1.0?classifier=sources

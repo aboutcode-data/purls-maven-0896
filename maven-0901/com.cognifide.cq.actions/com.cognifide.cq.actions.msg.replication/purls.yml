@@ -1,2 +1,6 @@
 - pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.msg.replication@3.0.0
 - pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.msg.replication@3.0.0?classifier=sources
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.msg.replication@4.0.0
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.msg.replication@4.0.0?classifier=sources
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.msg.replication@5.0.0
+- pkg:maven/com.cognifide.cq.actions/com.cognifide.cq.actions.msg.replication@5.0.0?classifier=sources

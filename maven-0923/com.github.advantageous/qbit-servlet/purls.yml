@@ -41,6 +41,12 @@
 - pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC10?classifier=sources
 - pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC11
 - pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC11?classifier=sources
+- pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC12
+- pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC12?classifier=sources
+- pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC13
+- pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC13?classifier=sources
+- pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC14
+- pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC14?classifier=sources
 - pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC1?classifier=sources
 - pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC2
 - pkg:maven/com.github.advantageous/qbit-servlet@0.9.2-RC2?classifier=sources

@@ -8,6 +8,10 @@
 - pkg:maven/org.gebish/geb-testng@0.12.1?classifier=sources
 - pkg:maven/org.gebish/geb-testng@0.12.2
 - pkg:maven/org.gebish/geb-testng@0.12.2?classifier=sources
+- pkg:maven/org.gebish/geb-testng@0.13.0
+- pkg:maven/org.gebish/geb-testng@0.13.0?classifier=sources
+- pkg:maven/org.gebish/geb-testng@0.13.1
+- pkg:maven/org.gebish/geb-testng@0.13.1?classifier=sources
 - pkg:maven/org.gebish/geb-testng@0.9.0
 - pkg:maven/org.gebish/geb-testng@0.9.0-RC-1
 - pkg:maven/org.gebish/geb-testng@0.9.0-RC-1?classifier=sources
@@ -20,3 +24,9 @@
 - pkg:maven/org.gebish/geb-testng@0.9.2?classifier=sources
 - pkg:maven/org.gebish/geb-testng@0.9.3
 - pkg:maven/org.gebish/geb-testng@0.9.3?classifier=sources
+- pkg:maven/org.gebish/geb-testng@1.0
+- pkg:maven/org.gebish/geb-testng@1.0-rc-1
+- pkg:maven/org.gebish/geb-testng@1.0-rc-1?classifier=sources
+- pkg:maven/org.gebish/geb-testng@1.0-rc-2
+- pkg:maven/org.gebish/geb-testng@1.0-rc-2?classifier=sources
+- pkg:maven/org.gebish/geb-testng@1.0?classifier=sources

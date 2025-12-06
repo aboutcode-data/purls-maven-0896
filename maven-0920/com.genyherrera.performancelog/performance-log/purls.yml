@@ -1,0 +1,4 @@
+- pkg:maven/com.genyherrera.performancelog/performance-log@1.0
+- pkg:maven/com.genyherrera.performancelog/performance-log@1.0?classifier=sources
+- pkg:maven/com.genyherrera.performancelog/performance-log@1.1
+- pkg:maven/com.genyherrera.performancelog/performance-log@1.1?classifier=sources

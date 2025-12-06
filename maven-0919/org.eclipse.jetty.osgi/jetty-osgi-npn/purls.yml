@@ -34,6 +34,8 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.1.4.v20140401?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.1.5.v20140505
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.1.5.v20140505?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.1.6.v20160112
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.1.6.v20160112?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.2.0.M0
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.2.0.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-npn@9.2.0.M1

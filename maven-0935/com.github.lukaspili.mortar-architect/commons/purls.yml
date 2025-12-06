@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lukaspili.mortar-architect/commons@0.21?classifier=sources
+- pkg:maven/com.github.lukaspili.mortar-architect/commons@0.21?type=aar

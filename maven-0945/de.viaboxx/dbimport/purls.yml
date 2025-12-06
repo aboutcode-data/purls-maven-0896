@@ -32,6 +32,8 @@
 - pkg:maven/de.viaboxx/dbimport@2.5.22?classifier=sources
 - pkg:maven/de.viaboxx/dbimport@2.5.23
 - pkg:maven/de.viaboxx/dbimport@2.5.23?classifier=sources
+- pkg:maven/de.viaboxx/dbimport@2.5.24
+- pkg:maven/de.viaboxx/dbimport@2.5.24?classifier=sources
 - pkg:maven/de.viaboxx/dbimport@2.5.3
 - pkg:maven/de.viaboxx/dbimport@2.5.3?classifier=sources
 - pkg:maven/de.viaboxx/dbimport@2.5.4

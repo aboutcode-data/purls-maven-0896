@@ -12,3 +12,5 @@
 - pkg:maven/org.codehaus.plexus/plexus-velocity@1.1.7?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-velocity@1.1.8
 - pkg:maven/org.codehaus.plexus/plexus-velocity@1.1.8?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-velocity@1.2
+- pkg:maven/org.codehaus.plexus/plexus-velocity@1.2?classifier=sources

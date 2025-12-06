@@ -6,3 +6,13 @@
 - pkg:maven/com.mapzen.android/lost@1.0.0?classifier=sources
 - pkg:maven/com.mapzen.android/lost@1.0.1
 - pkg:maven/com.mapzen.android/lost@1.0.1?classifier=sources
+- pkg:maven/com.mapzen.android/lost@1.1.0?classifier=sources
+- pkg:maven/com.mapzen.android/lost@1.1.0?type=aar
+- pkg:maven/com.mapzen.android/lost@1.1.1?classifier=sources
+- pkg:maven/com.mapzen.android/lost@1.1.1?type=aar
+- pkg:maven/com.mapzen.android/lost@2.0.0?classifier=sources
+- pkg:maven/com.mapzen.android/lost@2.0.0?type=aar
+- pkg:maven/com.mapzen.android/lost@2.1.0?classifier=sources
+- pkg:maven/com.mapzen.android/lost@2.1.0?type=aar
+- pkg:maven/com.mapzen.android/lost@2.1.1?classifier=sources
+- pkg:maven/com.mapzen.android/lost@2.1.1?type=aar

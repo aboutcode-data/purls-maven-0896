@@ -1,0 +1,2 @@
+- pkg:maven/com.clutchproject/fprint-jackson@0.2
+- pkg:maven/com.clutchproject/fprint-jackson@0.2?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.tehuti/tehuti@0.6?classifier=sources
 - pkg:maven/io.tehuti/tehuti@0.7.0
 - pkg:maven/io.tehuti/tehuti@0.7.0?classifier=sources
+- pkg:maven/io.tehuti/tehuti@0.7.1
+- pkg:maven/io.tehuti/tehuti@0.7.1?classifier=sources

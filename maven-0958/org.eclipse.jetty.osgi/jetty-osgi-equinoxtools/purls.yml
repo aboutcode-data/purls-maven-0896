@@ -56,8 +56,14 @@
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.17.v20150415?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.18.v20150929
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.18.v20150929?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.19.v20160209
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.19.v20160209?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.2.v20120308
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.2.v20120308?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.20.v20160902
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.20.v20160902?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.21.v20160908
+- pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.21.v20160908?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.3.v20120416
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.3.v20120416?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/jetty-osgi-equinoxtools@7.6.4.v20120524

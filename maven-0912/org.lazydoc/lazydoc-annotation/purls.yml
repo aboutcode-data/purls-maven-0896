@@ -8,3 +8,5 @@
 - pkg:maven/org.lazydoc/lazydoc-annotation@1.0.3?classifier=sources
 - pkg:maven/org.lazydoc/lazydoc-annotation@1.0.4
 - pkg:maven/org.lazydoc/lazydoc-annotation@1.0.4?classifier=sources
+- pkg:maven/org.lazydoc/lazydoc-annotation@1.0.6.1
+- pkg:maven/org.lazydoc/lazydoc-annotation@1.0.6.1?classifier=sources

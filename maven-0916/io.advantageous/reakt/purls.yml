@@ -1,0 +1,8 @@
+- pkg:maven/io.advantageous/reakt@0.1.0
+- pkg:maven/io.advantageous/reakt@0.1.0-RC1
+- pkg:maven/io.advantageous/reakt@0.1.0-RC1?classifier=sources
+- pkg:maven/io.advantageous/reakt@0.1.0?classifier=sources
+- pkg:maven/io.advantageous/reakt@1.0.0.RELEASE
+- pkg:maven/io.advantageous/reakt@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.advantageous/reakt@2.0.0.RELEASE
+- pkg:maven/io.advantageous/reakt@2.0.0.RELEASE?classifier=sources

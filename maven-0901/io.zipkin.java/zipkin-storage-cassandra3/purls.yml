@@ -1,0 +1,16 @@
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.10.0
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.10.0?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.11.0
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.11.0?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.11.1
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.11.1?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.12.0
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.12.0?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.12.1
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.12.1?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.13.0
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.13.0?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.13.1
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.13.1?classifier=sources
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.9.0
+- pkg:maven/io.zipkin.java/zipkin-storage-cassandra3@1.9.0?classifier=sources

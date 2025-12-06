@@ -44,3 +44,5 @@
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.9.2@7.0.7?classifier=sources
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.9.2@7.0.8
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.9.2@7.0.8?classifier=sources
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.9.2@7.0.9
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_2.9.2@7.0.9?classifier=sources

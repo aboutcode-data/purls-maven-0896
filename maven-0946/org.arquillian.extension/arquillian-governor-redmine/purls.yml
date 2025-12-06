@@ -1,0 +1,6 @@
+- pkg:maven/org.arquillian.extension/arquillian-governor-redmine@1.0.2.Final
+- pkg:maven/org.arquillian.extension/arquillian-governor-redmine@1.0.2.Final?classifier=sources
+- pkg:maven/org.arquillian.extension/arquillian-governor-redmine@1.0.3.Final
+- pkg:maven/org.arquillian.extension/arquillian-governor-redmine@1.0.3.Final?classifier=sources
+- pkg:maven/org.arquillian.extension/arquillian-governor-redmine@1.0.4.Final
+- pkg:maven/org.arquillian.extension/arquillian-governor-redmine@1.0.4.Final?classifier=sources

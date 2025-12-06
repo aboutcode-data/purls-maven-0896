@@ -1,0 +1,2 @@
+- pkg:maven/com.datastax/remote-junit-runner@0.1.2
+- pkg:maven/com.datastax/remote-junit-runner@0.1.2?classifier=sources

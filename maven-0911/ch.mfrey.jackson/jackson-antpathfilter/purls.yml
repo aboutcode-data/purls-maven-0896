@@ -2,3 +2,5 @@
 - pkg:maven/ch.mfrey.jackson/jackson-antpathfilter@1.0.0?classifier=sources
 - pkg:maven/ch.mfrey.jackson/jackson-antpathfilter@1.0.1
 - pkg:maven/ch.mfrey.jackson/jackson-antpathfilter@1.0.1?classifier=sources
+- pkg:maven/ch.mfrey.jackson/jackson-antpathfilter@1.0.2
+- pkg:maven/ch.mfrey.jackson/jackson-antpathfilter@1.0.2?classifier=sources

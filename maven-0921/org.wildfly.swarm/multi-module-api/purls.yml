@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/multi-module-api@2016.10.0
+- pkg:maven/org.wildfly.swarm/multi-module-api@2016.10.0?classifier=sources

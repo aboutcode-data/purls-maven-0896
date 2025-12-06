@@ -1,0 +1,10 @@
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.10.20
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.10.20?classifier=sources
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.10.21
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.10.21?classifier=sources
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.10.21a
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.10.21a?classifier=sources
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.11.22
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.11.22?classifier=sources
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.11.22a
+- pkg:maven/io.verizon.knobs/typesafe_2.11@3.11.22a?classifier=sources

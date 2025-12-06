@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.logging.log4j/log4j-api-scala_2.10@2.7
+- pkg:maven/org.apache.logging.log4j/log4j-api-scala_2.10@2.7?classifier=sources

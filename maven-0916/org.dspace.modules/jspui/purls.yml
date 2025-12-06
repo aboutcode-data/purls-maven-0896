@@ -19,6 +19,7 @@
 - pkg:maven/org.dspace.modules/jspui@3.3?type=war
 - pkg:maven/org.dspace.modules/jspui@3.4?type=war
 - pkg:maven/org.dspace.modules/jspui@3.5?type=war
+- pkg:maven/org.dspace.modules/jspui@3.6?type=war
 - pkg:maven/org.dspace.modules/jspui@4.0-rc1?type=war
 - pkg:maven/org.dspace.modules/jspui@4.0-rc2?type=war
 - pkg:maven/org.dspace.modules/jspui@4.0-rc3?type=war
@@ -27,6 +28,9 @@
 - pkg:maven/org.dspace.modules/jspui@4.2?type=war
 - pkg:maven/org.dspace.modules/jspui@4.3?type=war
 - pkg:maven/org.dspace.modules/jspui@4.4?type=war
+- pkg:maven/org.dspace.modules/jspui@4.5?type=war
+- pkg:maven/org.dspace.modules/jspui@4.6?type=war
+- pkg:maven/org.dspace.modules/jspui@4.7?type=war
 - pkg:maven/org.dspace.modules/jspui@5.0-rc1?type=war
 - pkg:maven/org.dspace.modules/jspui@5.0-rc2?type=war
 - pkg:maven/org.dspace.modules/jspui@5.0-rc3?type=war
@@ -35,3 +39,9 @@
 - pkg:maven/org.dspace.modules/jspui@5.2?type=war
 - pkg:maven/org.dspace.modules/jspui@5.3?type=war
 - pkg:maven/org.dspace.modules/jspui@5.4?type=war
+- pkg:maven/org.dspace.modules/jspui@5.5?type=war
+- pkg:maven/org.dspace.modules/jspui@5.6?type=war
+- pkg:maven/org.dspace.modules/jspui@6.0-rc1?type=war
+- pkg:maven/org.dspace.modules/jspui@6.0-rc2?type=war
+- pkg:maven/org.dspace.modules/jspui@6.0-rc3?type=war
+- pkg:maven/org.dspace.modules/jspui@6.0-rc4?type=war

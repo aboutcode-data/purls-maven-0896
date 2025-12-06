@@ -1,2 +1,6 @@
 - pkg:maven/fr.tvbarthel.cheerleader/library@0.1.1?classifier=sources
 - pkg:maven/fr.tvbarthel.cheerleader/library@0.1.1?type=aar
+- pkg:maven/fr.tvbarthel.cheerleader/library@1.0.0?classifier=sources
+- pkg:maven/fr.tvbarthel.cheerleader/library@1.0.0?type=aar
+- pkg:maven/fr.tvbarthel.cheerleader/library@1.0.1?classifier=sources
+- pkg:maven/fr.tvbarthel.cheerleader/library@1.0.1?type=aar

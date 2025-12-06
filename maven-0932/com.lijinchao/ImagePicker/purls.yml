@@ -1,0 +1,2 @@
+- pkg:maven/com.lijinchao/ImagePicker@3.0?classifier=sources
+- pkg:maven/com.lijinchao/ImagePicker@3.0?type=aar

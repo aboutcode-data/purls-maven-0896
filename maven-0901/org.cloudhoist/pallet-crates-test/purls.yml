@@ -1,0 +1,12 @@
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.4.0
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.4.0?classifier=sources
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.4.1
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.4.1?classifier=sources
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.5.0
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.5.0?classifier=sources
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.6.0
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.6.0?classifier=sources
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.7.0
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.7.0?classifier=sources
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.7.1
+- pkg:maven/org.cloudhoist/pallet-crates-test@0.7.1?classifier=sources

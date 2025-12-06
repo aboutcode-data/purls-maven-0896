@@ -1,0 +1,6 @@
+- pkg:maven/com.stripe/brushfire-training_2.10@0.7.3
+- pkg:maven/com.stripe/brushfire-training_2.10@0.7.3?classifier=sources
+- pkg:maven/com.stripe/brushfire-training_2.10@0.7.4
+- pkg:maven/com.stripe/brushfire-training_2.10@0.7.4?classifier=sources
+- pkg:maven/com.stripe/brushfire-training_2.10@0.7.5
+- pkg:maven/com.stripe/brushfire-training_2.10@0.7.5?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.github.odavid.maven.plugins/dependency-handler-maven-plugin@0.1-alpha-37?classifier=sources
 - pkg:maven/com.github.odavid.maven.plugins/dependency-handler-maven-plugin@0.1-alpha-38
 - pkg:maven/com.github.odavid.maven.plugins/dependency-handler-maven-plugin@0.1-alpha-38?classifier=sources
+- pkg:maven/com.github.odavid.maven.plugins/dependency-handler-maven-plugin@0.1-alpha-39
+- pkg:maven/com.github.odavid.maven.plugins/dependency-handler-maven-plugin@0.1-alpha-39?classifier=sources

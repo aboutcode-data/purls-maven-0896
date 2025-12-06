@@ -1,0 +1,6 @@
+- pkg:maven/com.github.lodsve/lodsve-mongodb@2.4.8
+- pkg:maven/com.github.lodsve/lodsve-mongodb@2.4.8?classifier=sources
+- pkg:maven/com.github.lodsve/lodsve-mongodb@2.4.9
+- pkg:maven/com.github.lodsve/lodsve-mongodb@2.4.9?classifier=sources
+- pkg:maven/com.github.lodsve/lodsve-mongodb@2.5.4
+- pkg:maven/com.github.lodsve/lodsve-mongodb@2.5.4?classifier=sources

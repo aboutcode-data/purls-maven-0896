@@ -1,0 +1,4 @@
+- pkg:maven/org.valid4j/json-path-matchers@1.0
+- pkg:maven/org.valid4j/json-path-matchers@1.0?classifier=sources
+- pkg:maven/org.valid4j/json-path-matchers@1.1
+- pkg:maven/org.valid4j/json-path-matchers@1.1?classifier=sources

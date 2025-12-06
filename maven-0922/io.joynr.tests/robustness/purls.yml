@@ -1,0 +1,2 @@
+- pkg:maven/io.joynr.tests/robustness@0.16.0
+- pkg:maven/io.joynr.tests/robustness@0.16.0?classifier=sources

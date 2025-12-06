@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-styles@1.0.9
 - pkg:maven/org.webjars.bower/github-com-polymerelements-paper-styles@1.0.9?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-styles@1.1.2
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-styles@1.1.2?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-styles@1.1.4
+- pkg:maven/org.webjars.bower/github-com-polymerelements-paper-styles@1.1.4?classifier=sources

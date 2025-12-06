@@ -2,3 +2,5 @@
 - pkg:maven/fi.pelam/pelam-scala-csv@0.9?classifier=sources
 - pkg:maven/fi.pelam/pelam-scala-csv@1.0.0
 - pkg:maven/fi.pelam/pelam-scala-csv@1.0.0?classifier=sources
+- pkg:maven/fi.pelam/pelam-scala-csv@1.1.0
+- pkg:maven/fi.pelam/pelam-scala-csv@1.1.0?classifier=sources

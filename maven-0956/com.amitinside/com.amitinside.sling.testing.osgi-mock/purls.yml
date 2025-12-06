@@ -1,0 +1,6 @@
+- pkg:maven/com.amitinside/com.amitinside.sling.testing.osgi-mock@1.0.0
+- pkg:maven/com.amitinside/com.amitinside.sling.testing.osgi-mock@1.0.0?classifier=sources
+- pkg:maven/com.amitinside/com.amitinside.sling.testing.osgi-mock@1.1.0
+- pkg:maven/com.amitinside/com.amitinside.sling.testing.osgi-mock@1.1.0?classifier=sources
+- pkg:maven/com.amitinside/com.amitinside.sling.testing.osgi-mock@1.2.0
+- pkg:maven/com.amitinside/com.amitinside.sling.testing.osgi-mock@1.2.0?classifier=sources

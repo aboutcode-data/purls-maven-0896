@@ -1,0 +1,2 @@
+- pkg:maven/de.alpharogroup/message-system-rest-web@3.6.0?classifier=sources
+- pkg:maven/de.alpharogroup/message-system-rest-web@3.6.0?type=war

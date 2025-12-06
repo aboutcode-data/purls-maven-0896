@@ -1,0 +1,9 @@
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@6.4.0.CR1
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@6.4.0.CR2
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@6.4.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@6.5.0.Beta1
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@6.5.0.CR1
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@6.5.0.CR2
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@6.5.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.0.0.Beta1
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.0.0.Beta2

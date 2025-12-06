@@ -1,2 +1,4 @@
+- pkg:maven/org.beigesoft/beige-swing-lib@2.1.10
+- pkg:maven/org.beigesoft/beige-swing-lib@2.1.10?classifier=sources
 - pkg:maven/org.beigesoft/beige-swing-lib@2.1.9
 - pkg:maven/org.beigesoft/beige-swing-lib@2.1.9?classifier=sources

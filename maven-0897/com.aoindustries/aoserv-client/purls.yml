@@ -1,0 +1,12 @@
+- pkg:maven/com.aoindustries/aoserv-client@1.79
+- pkg:maven/com.aoindustries/aoserv-client@1.79.1
+- pkg:maven/com.aoindustries/aoserv-client@1.79.1?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.79.2
+- pkg:maven/com.aoindustries/aoserv-client@1.79.2?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.79.3
+- pkg:maven/com.aoindustries/aoserv-client@1.79.3?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.79.4
+- pkg:maven/com.aoindustries/aoserv-client@1.79.4?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.79.5
+- pkg:maven/com.aoindustries/aoserv-client@1.79.5?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.79?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.paradoxical/cassieq-core@0.10
+- pkg:maven/io.paradoxical/cassieq-core@0.10?classifier=sources
+- pkg:maven/io.paradoxical/cassieq-core@0.11
+- pkg:maven/io.paradoxical/cassieq-core@0.11?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.jflyfox/jflyfox_jfinal@1.8
+- pkg:maven/com.jflyfox/jflyfox_jfinal@1.8?classifier=sources
+- pkg:maven/com.jflyfox/jflyfox_jfinal@1.9
+- pkg:maven/com.jflyfox/jflyfox_jfinal@1.9?classifier=sources
+- pkg:maven/com.jflyfox/jflyfox_jfinal@2.0
+- pkg:maven/com.jflyfox/jflyfox_jfinal@2.0?classifier=sources
+- pkg:maven/com.jflyfox/jflyfox_jfinal@2.1
+- pkg:maven/com.jflyfox/jflyfox_jfinal@2.1?classifier=sources
+- pkg:maven/com.jflyfox/jflyfox_jfinal@3.0
+- pkg:maven/com.jflyfox/jflyfox_jfinal@3.0?classifier=sources
+- pkg:maven/com.jflyfox/jflyfox_jfinal@4.0
+- pkg:maven/com.jflyfox/jflyfox_jfinal@4.0?classifier=sources
+- pkg:maven/com.jflyfox/jflyfox_jfinal@4.1
+- pkg:maven/com.jflyfox/jflyfox_jfinal@4.1?classifier=sources

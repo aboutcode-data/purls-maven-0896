@@ -4,3 +4,7 @@
 - pkg:maven/pl.jsolve/templ4docx@1.0.1?classifier=sources
 - pkg:maven/pl.jsolve/templ4docx@2.0.0
 - pkg:maven/pl.jsolve/templ4docx@2.0.0?classifier=sources
+- pkg:maven/pl.jsolve/templ4docx@2.0.1
+- pkg:maven/pl.jsolve/templ4docx@2.0.1?classifier=sources
+- pkg:maven/pl.jsolve/templ4docx@2.0.2
+- pkg:maven/pl.jsolve/templ4docx@2.0.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.kurento/kurento-tree-client-js@6.3.0
+- pkg:maven/org.kurento/kurento-tree-client-js@6.3.0?classifier=sources
+- pkg:maven/org.kurento/kurento-tree-client-js@6.5.0
+- pkg:maven/org.kurento/kurento-tree-client-js@6.5.0?classifier=sources
+- pkg:maven/org.kurento/kurento-tree-client-js@6.6.0
+- pkg:maven/org.kurento/kurento-tree-client-js@6.6.0?classifier=sources

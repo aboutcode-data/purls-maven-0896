@@ -1,0 +1,4 @@
+- pkg:maven/edu.stanford.protege/ontology-browser-owlbrowser@4.2.0
+- pkg:maven/edu.stanford.protege/ontology-browser-owlbrowser@4.2.0?classifier=sources
+- pkg:maven/edu.stanford.protege/ontology-browser-owlbrowser@4.3.0
+- pkg:maven/edu.stanford.protege/ontology-browser-owlbrowser@4.3.0?classifier=sources

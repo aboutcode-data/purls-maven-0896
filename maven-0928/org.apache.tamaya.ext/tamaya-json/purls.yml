@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.tamaya.ext/tamaya-json@0.1-incubating
 - pkg:maven/org.apache.tamaya.ext/tamaya-json@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.tamaya.ext/tamaya-json@0.2-incubating
+- pkg:maven/org.apache.tamaya.ext/tamaya-json@0.2-incubating?classifier=sources

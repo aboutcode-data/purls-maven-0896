@@ -42,3 +42,7 @@
 - pkg:maven/com.thesett/javasource-maven-plugin@0.8.8?classifier=sources
 - pkg:maven/com.thesett/javasource-maven-plugin@0.8.9
 - pkg:maven/com.thesett/javasource-maven-plugin@0.8.9?classifier=sources
+- pkg:maven/com.thesett/javasource-maven-plugin@0.9.65
+- pkg:maven/com.thesett/javasource-maven-plugin@0.9.65?classifier=sources
+- pkg:maven/com.thesett/javasource-maven-plugin@0.9.86
+- pkg:maven/com.thesett/javasource-maven-plugin@0.9.86?classifier=sources

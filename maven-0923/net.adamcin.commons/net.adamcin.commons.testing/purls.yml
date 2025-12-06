@@ -2,3 +2,5 @@
 - pkg:maven/net.adamcin.commons/net.adamcin.commons.testing@0.6.0?classifier=sources
 - pkg:maven/net.adamcin.commons/net.adamcin.commons.testing@0.8.0
 - pkg:maven/net.adamcin.commons/net.adamcin.commons.testing@0.8.0?classifier=sources
+- pkg:maven/net.adamcin.commons/net.adamcin.commons.testing@0.9.0
+- pkg:maven/net.adamcin.commons/net.adamcin.commons.testing@0.9.0?classifier=sources

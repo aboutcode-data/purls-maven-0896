@@ -48,3 +48,15 @@
 - pkg:maven/com.mitchellbosecke/pebble-spring3@1.5.2?classifier=sources
 - pkg:maven/com.mitchellbosecke/pebble-spring3@1.6.0
 - pkg:maven/com.mitchellbosecke/pebble-spring3@1.6.0?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.0.0
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.0.0?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.1.0
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.1.0?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.0
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.0?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.1
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.1?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.2
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.2?classifier=sources
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.3
+- pkg:maven/com.mitchellbosecke/pebble-spring3@2.2.3?classifier=sources

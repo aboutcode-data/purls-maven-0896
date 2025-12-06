@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.reef/tang-tint@0.14.0
+- pkg:maven/org.apache.reef/tang-tint@0.14.0?classifier=sources
+- pkg:maven/org.apache.reef/tang-tint@0.15.0
+- pkg:maven/org.apache.reef/tang-tint@0.15.0?classifier=sources

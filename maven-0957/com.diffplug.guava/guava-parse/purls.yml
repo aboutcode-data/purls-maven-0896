@@ -1,0 +1,2 @@
+- pkg:maven/com.diffplug.guava/guava-parse@19.0.0
+- pkg:maven/com.diffplug.guava/guava-parse@19.0.0?classifier=sources

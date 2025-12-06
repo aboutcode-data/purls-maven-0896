@@ -1,0 +1,4 @@
+- pkg:maven/org.kevoree.mwg.plugins/model.generator@6
+- pkg:maven/org.kevoree.mwg.plugins/model.generator@6?classifier=sources
+- pkg:maven/org.kevoree.mwg.plugins/model.generator@7
+- pkg:maven/org.kevoree.mwg.plugins/model.generator@7?classifier=sources

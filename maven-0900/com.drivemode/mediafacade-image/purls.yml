@@ -1,0 +1,2 @@
+- pkg:maven/com.drivemode/mediafacade-image@0.1.0?classifier=sources
+- pkg:maven/com.drivemode/mediafacade-image@0.1.0?type=aar

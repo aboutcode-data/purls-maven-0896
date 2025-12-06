@@ -6,6 +6,8 @@
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.10.2?classifier=sources
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.11.0
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.11.0?classifier=sources
+- pkg:maven/com.intel.jndn.mock/jndn-mock@0.11.1
+- pkg:maven/com.intel.jndn.mock/jndn-mock@0.11.1?classifier=sources
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.2
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.2?classifier=sources
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.3
@@ -18,3 +20,13 @@
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.6?classifier=sources
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.7
 - pkg:maven/com.intel.jndn.mock/jndn-mock@0.9.7?classifier=sources
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.0
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.0?classifier=sources
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.1
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.1?classifier=sources
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.2
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.2?classifier=sources
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.3
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.0.3?classifier=sources
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.1.0
+- pkg:maven/com.intel.jndn.mock/jndn-mock@1.1.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/br.com.objectos/testable-pojo-plugin@0.4.2?classifier=sources
 - pkg:maven/br.com.objectos/testable-pojo-plugin@0.4.3
 - pkg:maven/br.com.objectos/testable-pojo-plugin@0.4.3?classifier=sources
+- pkg:maven/br.com.objectos/testable-pojo-plugin@0.7.0
+- pkg:maven/br.com.objectos/testable-pojo-plugin@0.7.0?classifier=sources

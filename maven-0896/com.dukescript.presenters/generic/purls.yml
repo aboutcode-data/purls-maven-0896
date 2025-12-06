@@ -8,3 +8,5 @@
 - pkg:maven/com.dukescript.presenters/generic@0.9.1
 - pkg:maven/com.dukescript.presenters/generic@0.9.1?classifier=sources
 - pkg:maven/com.dukescript.presenters/generic@0.9?classifier=sources
+- pkg:maven/com.dukescript.presenters/generic@1.0
+- pkg:maven/com.dukescript.presenters/generic@1.0?classifier=sources

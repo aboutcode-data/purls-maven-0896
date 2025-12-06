@@ -1,0 +1,6 @@
+- pkg:maven/org.springframework.data/spring-data-hadoop-cluster-tests@2.3.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-hadoop-cluster-tests@2.3.0.RELEASE-hadoop26
+- pkg:maven/org.springframework.data/spring-data-hadoop-cluster-tests@2.3.0.RELEASE-hadoop26?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-cluster-tests@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-hadoop-cluster-tests@2.4.0.RELEASE
+- pkg:maven/org.springframework.data/spring-data-hadoop-cluster-tests@2.4.0.RELEASE?classifier=sources

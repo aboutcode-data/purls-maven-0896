@@ -1,4 +1,6 @@
+- pkg:maven/de.weltraumschaf/freemarkerdown@1.0.0
 - pkg:maven/de.weltraumschaf/freemarkerdown@1.0.0-alpha
 - pkg:maven/de.weltraumschaf/freemarkerdown@1.0.0-alpha?classifier=sources
 - pkg:maven/de.weltraumschaf/freemarkerdown@1.0.0-beta
 - pkg:maven/de.weltraumschaf/freemarkerdown@1.0.0-beta?classifier=sources
+- pkg:maven/de.weltraumschaf/freemarkerdown@1.0.0?classifier=sources

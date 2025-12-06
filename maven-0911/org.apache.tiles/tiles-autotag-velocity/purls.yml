@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.tiles/tiles-autotag-velocity@1.0.0?classifier=sources
 - pkg:maven/org.apache.tiles/tiles-autotag-velocity@1.1.0
 - pkg:maven/org.apache.tiles/tiles-autotag-velocity@1.1.0?classifier=sources
+- pkg:maven/org.apache.tiles/tiles-autotag-velocity@1.2
+- pkg:maven/org.apache.tiles/tiles-autotag-velocity@1.2?classifier=sources

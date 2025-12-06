@@ -1,2 +1,8 @@
 - pkg:maven/com.visual-tools.nubomedia/nubofacedetector@0.0.5
 - pkg:maven/com.visual-tools.nubomedia/nubofacedetector@0.0.5?classifier=sources
+- pkg:maven/com.visual-tools.nubomedia/nubofacedetector@6.4.01
+- pkg:maven/com.visual-tools.nubomedia/nubofacedetector@6.4.01?classifier=sources
+- pkg:maven/com.visual-tools.nubomedia/nubofacedetector@6.4.02
+- pkg:maven/com.visual-tools.nubomedia/nubofacedetector@6.4.02?classifier=sources
+- pkg:maven/com.visual-tools.nubomedia/nubofacedetector@6.5.0
+- pkg:maven/com.visual-tools.nubomedia/nubofacedetector@6.5.0?classifier=sources

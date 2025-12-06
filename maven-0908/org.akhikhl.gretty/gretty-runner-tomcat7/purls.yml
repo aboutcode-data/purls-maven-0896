@@ -30,3 +30,5 @@
 - pkg:maven/org.akhikhl.gretty/gretty-runner-tomcat7@1.2.3?classifier=sources
 - pkg:maven/org.akhikhl.gretty/gretty-runner-tomcat7@1.2.4
 - pkg:maven/org.akhikhl.gretty/gretty-runner-tomcat7@1.2.4?classifier=sources
+- pkg:maven/org.akhikhl.gretty/gretty-runner-tomcat7@1.4.0
+- pkg:maven/org.akhikhl.gretty/gretty-runner-tomcat7@1.4.0?classifier=sources

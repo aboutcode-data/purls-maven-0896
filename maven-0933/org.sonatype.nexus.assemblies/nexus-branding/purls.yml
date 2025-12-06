@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-branding@3.0.0-b2016011501
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-branding@3.0.0-b2016011501?classifier=sources

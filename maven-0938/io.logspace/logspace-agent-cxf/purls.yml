@@ -1,0 +1,2 @@
+- pkg:maven/io.logspace/logspace-agent-cxf@0.3.0
+- pkg:maven/io.logspace/logspace-agent-cxf@0.3.0?classifier=sources

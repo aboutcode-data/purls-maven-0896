@@ -1,0 +1,10 @@
+- pkg:maven/net.moznion/redis-script-manager-core@0.0.1
+- pkg:maven/net.moznion/redis-script-manager-core@0.0.1?classifier=sources
+- pkg:maven/net.moznion/redis-script-manager-core@0.1.0
+- pkg:maven/net.moznion/redis-script-manager-core@0.1.0?classifier=sources
+- pkg:maven/net.moznion/redis-script-manager-core@0.2.0
+- pkg:maven/net.moznion/redis-script-manager-core@0.2.0?classifier=sources
+- pkg:maven/net.moznion/redis-script-manager-core@0.3.0
+- pkg:maven/net.moznion/redis-script-manager-core@0.3.0?classifier=sources
+- pkg:maven/net.moznion/redis-script-manager-core@0.4.0
+- pkg:maven/net.moznion/redis-script-manager-core@0.4.0?classifier=sources

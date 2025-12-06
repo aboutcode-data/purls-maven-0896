@@ -1,0 +1,8 @@
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.1.0
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.1.0?classifier=sources
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.2.0
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.2.0?classifier=sources
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.3.0
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.3.0?classifier=sources
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.4.0
+- pkg:maven/com.github.tpiecora/dockerclient_2.10@0.4.0?classifier=sources

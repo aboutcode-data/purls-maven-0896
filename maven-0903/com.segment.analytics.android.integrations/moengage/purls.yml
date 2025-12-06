@@ -1,2 +1,4 @@
 - pkg:maven/com.segment.analytics.android.integrations/moengage@1.0.0?classifier=sources
 - pkg:maven/com.segment.analytics.android.integrations/moengage@1.0.0?type=aar
+- pkg:maven/com.segment.analytics.android.integrations/moengage@1.1.0?classifier=sources
+- pkg:maven/com.segment.analytics.android.integrations/moengage@1.1.0?type=aar

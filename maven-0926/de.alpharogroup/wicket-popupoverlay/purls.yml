@@ -1,4 +1,12 @@
 - pkg:maven/de.alpharogroup/wicket-popupoverlay@6.18.0
 - pkg:maven/de.alpharogroup/wicket-popupoverlay@6.18.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@6.21.0
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@6.21.0?classifier=sources
 - pkg:maven/de.alpharogroup/wicket-popupoverlay@7.0.0
 - pkg:maven/de.alpharogroup/wicket-popupoverlay@7.0.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@7.1.0
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@7.1.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@7.3.0
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@7.3.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@7.4.0
+- pkg:maven/de.alpharogroup/wicket-popupoverlay@7.4.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.piano.android/composer@1.0.0-alpha2?classifier=sources
+- pkg:maven/io.piano.android/composer@1.0.0-alpha2?type=aar
+- pkg:maven/io.piano.android/composer@1.0.0-alpha3?classifier=sources
+- pkg:maven/io.piano.android/composer@1.0.0-alpha3?type=aar
+- pkg:maven/io.piano.android/composer@1.0.0-alpha4?classifier=sources
+- pkg:maven/io.piano.android/composer@1.0.0-alpha4?type=aar
+- pkg:maven/io.piano.android/composer@1.0.0-alpha5?classifier=sources
+- pkg:maven/io.piano.android/composer@1.0.0-alpha5?type=aar
+- pkg:maven/io.piano.android/composer@1.0.0-alpha6?classifier=sources
+- pkg:maven/io.piano.android/composer@1.0.0-alpha6?type=aar
+- pkg:maven/io.piano.android/composer@1.0.0-alpha7?classifier=sources
+- pkg:maven/io.piano.android/composer@1.0.0-alpha7?type=aar

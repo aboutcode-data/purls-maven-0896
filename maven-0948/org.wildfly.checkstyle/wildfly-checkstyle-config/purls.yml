@@ -10,3 +10,6 @@
 - pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.3.Final?classifier=sources
 - pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.4.Final
 - pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.4.Final?classifier=sources
+- pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.5.Final
+- pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.5.Final?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/com.cedarsoft.commons/struct@7.0.0?classifier=sources
 - pkg:maven/com.cedarsoft.commons/struct@7.1.0
 - pkg:maven/com.cedarsoft.commons/struct@7.1.0?classifier=sources
+- pkg:maven/com.cedarsoft.commons/struct@7.2.0
+- pkg:maven/com.cedarsoft.commons/struct@7.2.0?classifier=sources

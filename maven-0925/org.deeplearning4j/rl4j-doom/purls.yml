@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/rl4j-doom@0.6.0
+- pkg:maven/org.deeplearning4j/rl4j-doom@0.6.0?classifier=sources

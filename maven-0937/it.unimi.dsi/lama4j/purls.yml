@@ -1,2 +1,4 @@
 - pkg:maven/it.unimi.dsi/lama4j@1.1.0
 - pkg:maven/it.unimi.dsi/lama4j@1.1.0?classifier=sources
+- pkg:maven/it.unimi.dsi/lama4j@1.1.1
+- pkg:maven/it.unimi.dsi/lama4j@1.1.1?classifier=sources

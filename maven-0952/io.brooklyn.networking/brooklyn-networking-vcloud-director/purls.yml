@@ -1,2 +1,4 @@
 - pkg:maven/io.brooklyn.networking/brooklyn-networking-vcloud-director@0.8.0-incubating
 - pkg:maven/io.brooklyn.networking/brooklyn-networking-vcloud-director@0.8.0-incubating?classifier=sources
+- pkg:maven/io.brooklyn.networking/brooklyn-networking-vcloud-director@0.9.0
+- pkg:maven/io.brooklyn.networking/brooklyn-networking-vcloud-director@0.9.0?classifier=sources

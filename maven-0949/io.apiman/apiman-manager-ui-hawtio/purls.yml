@@ -14,3 +14,5 @@
 - pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.2.0.Beta1?type=war
 - pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.2.0.Beta2?type=war
 - pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.2.0.Beta3?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.2.0.Final?type=war
+- pkg:maven/io.apiman/apiman-manager-ui-hawtio@1.2.1.Final?type=war

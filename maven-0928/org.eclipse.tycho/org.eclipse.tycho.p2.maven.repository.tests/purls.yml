@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.maven.repository.tests@0.23.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.maven.repository.tests@0.23.1?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.maven.repository.tests@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.maven.repository.tests@0.25.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.maven.repository.tests@0.26.0?classifier=sources

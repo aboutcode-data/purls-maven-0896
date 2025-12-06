@@ -1,0 +1,6 @@
+- pkg:maven/org.zalando.maven.plugins/kio-maven-plugin@0.5.0
+- pkg:maven/org.zalando.maven.plugins/kio-maven-plugin@0.5.0?classifier=sources
+- pkg:maven/org.zalando.maven.plugins/kio-maven-plugin@0.5.1
+- pkg:maven/org.zalando.maven.plugins/kio-maven-plugin@0.5.1?classifier=sources
+- pkg:maven/org.zalando.maven.plugins/kio-maven-plugin@0.5.2
+- pkg:maven/org.zalando.maven.plugins/kio-maven-plugin@0.5.2?classifier=sources

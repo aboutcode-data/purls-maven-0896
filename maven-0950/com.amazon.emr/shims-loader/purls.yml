@@ -1,0 +1,2 @@
+- pkg:maven/com.amazon.emr/shims-loader@4.2.0
+- pkg:maven/com.amazon.emr/shims-loader@4.2.0?classifier=sources

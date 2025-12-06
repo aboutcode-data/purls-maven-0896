@@ -17,6 +17,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.0
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.10
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.10?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.10?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.2
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.configadmin@1.8.2?classifier=sources

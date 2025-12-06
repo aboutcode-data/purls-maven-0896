@@ -1,2 +1,4 @@
 - pkg:maven/org.vaadin.spring.extensions/vaadin-spring-ext-test@0.0.6.RELEASE
 - pkg:maven/org.vaadin.spring.extensions/vaadin-spring-ext-test@0.0.6.RELEASE?classifier=sources
+- pkg:maven/org.vaadin.spring.extensions/vaadin-spring-ext-test@0.0.7.RELEASE
+- pkg:maven/org.vaadin.spring.extensions/vaadin-spring-ext-test@0.0.7.RELEASE?classifier=sources

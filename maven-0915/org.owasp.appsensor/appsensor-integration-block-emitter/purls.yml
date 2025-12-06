@@ -1,0 +1,2 @@
+- pkg:maven/org.owasp.appsensor/appsensor-integration-block-emitter@2.3.0
+- pkg:maven/org.owasp.appsensor/appsensor-integration-block-emitter@2.3.0?classifier=sources

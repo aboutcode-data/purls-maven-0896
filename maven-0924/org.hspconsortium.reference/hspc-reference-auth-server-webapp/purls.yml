@@ -1,0 +1,4 @@
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@0.11?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@0.11?type=war
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@0.12?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-auth-server-webapp@0.12?type=war

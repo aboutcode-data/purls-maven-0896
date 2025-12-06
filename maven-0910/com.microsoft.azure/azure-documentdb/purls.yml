@@ -22,3 +22,17 @@
 - pkg:maven/com.microsoft.azure/azure-documentdb@1.4.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-documentdb@1.5.0
 - pkg:maven/com.microsoft.azure/azure-documentdb@1.5.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.5.1
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.5.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.6.0
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.6.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.7.0
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.7.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.7.1
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.7.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.8.0
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.8.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.8.1
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.8.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.9.0
+- pkg:maven/com.microsoft.azure/azure-documentdb@1.9.0?classifier=sources

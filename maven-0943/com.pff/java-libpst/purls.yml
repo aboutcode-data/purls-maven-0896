@@ -2,3 +2,5 @@
 - pkg:maven/com.pff/java-libpst@0.7?classifier=sources
 - pkg:maven/com.pff/java-libpst@0.8.1
 - pkg:maven/com.pff/java-libpst@0.8.1?classifier=sources
+- pkg:maven/com.pff/java-libpst@0.9.3
+- pkg:maven/com.pff/java-libpst@0.9.3?classifier=sources

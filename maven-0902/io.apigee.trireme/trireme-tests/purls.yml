@@ -34,3 +34,5 @@
 - pkg:maven/io.apigee.trireme/trireme-tests@0.8.7?classifier=sources
 - pkg:maven/io.apigee.trireme/trireme-tests@0.8.8
 - pkg:maven/io.apigee.trireme/trireme-tests@0.8.8?classifier=sources
+- pkg:maven/io.apigee.trireme/trireme-tests@0.8.9
+- pkg:maven/io.apigee.trireme/trireme-tests@0.8.9?classifier=sources

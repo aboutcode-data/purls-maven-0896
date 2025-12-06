@@ -13,3 +13,6 @@
 - pkg:maven/org.ow2.easywsdl/easywsdl-tool-xsd2xml@2.5.0
 - pkg:maven/org.ow2.easywsdl/easywsdl-tool-xsd2xml@2.5.0?classifier=source-release&type=zip
 - pkg:maven/org.ow2.easywsdl/easywsdl-tool-xsd2xml@2.5.0?classifier=sources
+- pkg:maven/org.ow2.easywsdl/easywsdl-tool-xsd2xml@2.5.1
+- pkg:maven/org.ow2.easywsdl/easywsdl-tool-xsd2xml@2.5.1?classifier=source-release&type=zip
+- pkg:maven/org.ow2.easywsdl/easywsdl-tool-xsd2xml@2.5.1?classifier=sources

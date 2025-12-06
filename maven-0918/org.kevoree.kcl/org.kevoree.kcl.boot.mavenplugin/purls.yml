@@ -20,3 +20,7 @@
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl.boot.mavenplugin@21?classifier=sources
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl.boot.mavenplugin@22
 - pkg:maven/org.kevoree.kcl/org.kevoree.kcl.boot.mavenplugin@22?classifier=sources
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl.boot.mavenplugin@23
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl.boot.mavenplugin@23?classifier=sources
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl.boot.mavenplugin@24
+- pkg:maven/org.kevoree.kcl/org.kevoree.kcl.boot.mavenplugin@24?classifier=sources

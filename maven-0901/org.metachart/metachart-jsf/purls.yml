@@ -1,0 +1,2 @@
+- pkg:maven/org.metachart/metachart-jsf@0.0.2
+- pkg:maven/org.metachart/metachart-jsf@0.0.2?classifier=sources

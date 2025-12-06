@@ -1,0 +1,4 @@
+- pkg:maven/com.github.meldsza/Java-Shorcut-API@0.01
+- pkg:maven/com.github.meldsza/Java-Shorcut-API@0.01?classifier=sources
+- pkg:maven/com.github.meldsza/Java-Shorcut-API@0.02
+- pkg:maven/com.github.meldsza/Java-Shorcut-API@0.02?classifier=sources

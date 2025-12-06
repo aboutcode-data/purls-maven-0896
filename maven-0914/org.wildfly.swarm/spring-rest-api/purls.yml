@@ -1,0 +1,10 @@
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Alpha2
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Alpha2?classifier=sources
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Alpha3
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Alpha4
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Beta1
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Final
+- pkg:maven/org.wildfly.swarm/spring-rest-api@1.0.0.Final?classifier=sources

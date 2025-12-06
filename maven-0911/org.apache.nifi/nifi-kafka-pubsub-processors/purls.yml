@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.nifi/nifi-kafka-pubsub-processors@0.7.0
+- pkg:maven/org.apache.nifi/nifi-kafka-pubsub-processors@0.7.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kafka-pubsub-processors@0.7.1
+- pkg:maven/org.apache.nifi/nifi-kafka-pubsub-processors@0.7.1?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-kafka-pubsub-processors@1.0.0-BETA
+- pkg:maven/org.apache.nifi/nifi-kafka-pubsub-processors@1.0.0-BETA?classifier=sources

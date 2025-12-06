@@ -1,0 +1,4 @@
+- pkg:maven/ml.bundle/bundle-ml_2.10@0.1.0
+- pkg:maven/ml.bundle/bundle-ml_2.10@0.1.0?classifier=sources
+- pkg:maven/ml.bundle/bundle-ml_2.10@0.1.1
+- pkg:maven/ml.bundle/bundle-ml_2.10@0.1.1?classifier=sources

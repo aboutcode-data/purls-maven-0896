@@ -1,0 +1,4 @@
+- pkg:maven/org.rcsb/mmtf-common@0.0.1-alpha3
+- pkg:maven/org.rcsb/mmtf-common@0.0.1-alpha3?classifier=sources
+- pkg:maven/org.rcsb/mmtf-common@0.0.1-alpha4
+- pkg:maven/org.rcsb/mmtf-common@0.0.1-alpha4?classifier=sources

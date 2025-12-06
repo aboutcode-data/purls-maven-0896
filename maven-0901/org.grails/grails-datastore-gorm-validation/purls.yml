@@ -1,0 +1,10 @@
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.0.M2
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.0.M2?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.0.RC1
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.0.RC1?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.0.RC2
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.0.RC2?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.1.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.1.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.2.RELEASE
+- pkg:maven/org.grails/grails-datastore-gorm-validation@6.0.2.RELEASE?classifier=sources

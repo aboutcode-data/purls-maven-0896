@@ -1,1 +1,2 @@
 - pkg:maven/org.entando.entando.bundles.app-view/entando-app-view-tokenapi-default@4.2.0-TP1?type=war
+- pkg:maven/org.entando.entando.bundles.app-view/entando-app-view-tokenapi-default@4.2.0?type=war

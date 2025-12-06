@@ -1,0 +1,2 @@
+- pkg:maven/com.diffplug.osgi/com.diffplug.osgi.extension.sun.misc@0.0.0
+- pkg:maven/com.diffplug.osgi/com.diffplug.osgi.extension.sun.misc@0.0.0?classifier=sources

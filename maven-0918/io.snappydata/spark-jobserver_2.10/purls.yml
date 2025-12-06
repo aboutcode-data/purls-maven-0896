@@ -1,0 +1,2 @@
+- pkg:maven/io.snappydata/spark-jobserver_2.10@0.6.1
+- pkg:maven/io.snappydata/spark-jobserver_2.10@0.6.1?classifier=sources

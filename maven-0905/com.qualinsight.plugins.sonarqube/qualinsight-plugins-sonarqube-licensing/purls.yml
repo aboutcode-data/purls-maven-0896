@@ -1,0 +1,2 @@
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-licensing@1.0.0
+- pkg:maven/com.qualinsight.plugins.sonarqube/qualinsight-plugins-sonarqube-licensing@1.0.0?classifier=sources

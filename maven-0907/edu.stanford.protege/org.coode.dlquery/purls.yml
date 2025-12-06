@@ -8,3 +8,11 @@
 - pkg:maven/edu.stanford.protege/org.coode.dlquery@2.0.1?classifier=sources
 - pkg:maven/edu.stanford.protege/org.coode.dlquery@2.0.2
 - pkg:maven/edu.stanford.protege/org.coode.dlquery@2.0.2?classifier=sources
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@3.0.0
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@3.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@3.0.1
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@3.0.1?classifier=sources
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@4.0.0
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@4.0.0?classifier=sources
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@4.0.1
+- pkg:maven/edu.stanford.protege/org.coode.dlquery@4.0.1?classifier=sources

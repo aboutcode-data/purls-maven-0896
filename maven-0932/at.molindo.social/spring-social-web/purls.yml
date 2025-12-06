@@ -1,2 +1,4 @@
 - pkg:maven/at.molindo.social/spring-social-web@1.1.0.RELEASE
 - pkg:maven/at.molindo.social/spring-social-web@1.1.0.RELEASE?classifier=sources
+- pkg:maven/at.molindo.social/spring-social-web@1.1.4.RELEASE
+- pkg:maven/at.molindo.social/spring-social-web@1.1.4.RELEASE?classifier=sources

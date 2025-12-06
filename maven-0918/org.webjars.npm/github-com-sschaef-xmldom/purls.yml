@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-sschaef-xmldom@0.1.19
+- pkg:maven/org.webjars.npm/github-com-sschaef-xmldom@0.1.19?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-sschaef-xmldom@0.1.21
+- pkg:maven/org.webjars.npm/github-com-sschaef-xmldom@0.1.21?classifier=sources

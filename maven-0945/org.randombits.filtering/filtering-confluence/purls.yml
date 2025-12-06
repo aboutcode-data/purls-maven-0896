@@ -10,3 +10,4 @@
 - pkg:maven/org.randombits.filtering/filtering-confluence@1.2.6?classifier=sources
 - pkg:maven/org.randombits.filtering/filtering-confluence@1.2.7?classifier=sources
 - pkg:maven/org.randombits.filtering/filtering-confluence@1.3.0?classifier=sources
+- pkg:maven/org.randombits.filtering/filtering-confluence@1.4.0?classifier=sources

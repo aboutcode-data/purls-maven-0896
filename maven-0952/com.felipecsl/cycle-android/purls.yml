@@ -1,0 +1,2 @@
+- pkg:maven/com.felipecsl/cycle-android@0.2.0?classifier=sources
+- pkg:maven/com.felipecsl/cycle-android@0.2.0?type=aar

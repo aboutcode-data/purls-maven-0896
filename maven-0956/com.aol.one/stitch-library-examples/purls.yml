@@ -1,0 +1,2 @@
+- pkg:maven/com.aol.one/stitch-library-examples@0.4.0?classifier=sources
+- pkg:maven/com.aol.one/stitch-library-examples@0.4.0?type=war

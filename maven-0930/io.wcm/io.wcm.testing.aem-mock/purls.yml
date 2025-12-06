@@ -22,3 +22,15 @@
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.6.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.6.2
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.6.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.6.4
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.6.4?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.7.0
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.7.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.8.0
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.8.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.8.2
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@1.8.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@2.0.0
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@2.0.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@2.0.2
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock@2.0.2?classifier=sources

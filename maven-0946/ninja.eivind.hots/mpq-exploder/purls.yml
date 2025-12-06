@@ -1,2 +1,6 @@
 - pkg:maven/ninja.eivind.hots/mpq-exploder@0.1.1
 - pkg:maven/ninja.eivind.hots/mpq-exploder@0.1.1?classifier=sources
+- pkg:maven/ninja.eivind.hots/mpq-exploder@0.1.2.RELEASE
+- pkg:maven/ninja.eivind.hots/mpq-exploder@0.1.2.RELEASE?classifier=sources
+- pkg:maven/ninja.eivind.hots/mpq-exploder@0.2.0.RELEASE
+- pkg:maven/ninja.eivind.hots/mpq-exploder@0.2.0.RELEASE?classifier=sources

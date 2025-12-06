@@ -1,0 +1,2 @@
+- pkg:maven/org.hawkular.titan/titan-lucene@0.5.4-jboss-1
+- pkg:maven/org.hawkular.titan/titan-lucene@0.5.4-jboss-1?classifier=sources

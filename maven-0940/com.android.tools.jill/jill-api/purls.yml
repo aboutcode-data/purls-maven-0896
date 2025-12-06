@@ -1,2 +1,4 @@
+- pkg:maven/com.android.tools.jill/jill-api@0.10.0
+- pkg:maven/com.android.tools.jill/jill-api@0.10.0?classifier=sources
 - pkg:maven/com.android.tools.jill/jill-api@0.9.0
 - pkg:maven/com.android.tools.jill/jill-api@0.9.0?classifier=sources

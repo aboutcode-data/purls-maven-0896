@@ -1,0 +1,6 @@
+- pkg:maven/com.sdl.web/discovery-common@8.1.1-1009
+- pkg:maven/com.sdl.web/discovery-common@8.1.1-1009?classifier=sources
+- pkg:maven/com.sdl.web/discovery-common@8.2.0-1006
+- pkg:maven/com.sdl.web/discovery-common@8.2.0-1006?classifier=sources
+- pkg:maven/com.sdl.web/discovery-common@8.3.0-1004
+- pkg:maven/com.sdl.web/discovery-common@8.3.0-1004?classifier=sources

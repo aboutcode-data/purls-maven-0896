@@ -1,2 +1,10 @@
 - pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@1.8.0
 - pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@1.8.0?classifier=sources
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@1.8.1
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@1.8.1?classifier=sources
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@1.9.0
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@1.9.0?classifier=sources
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@2.0.0
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@2.0.0?classifier=sources
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@2.1.0
+- pkg:maven/se.jguru.nazgul.core.jmx.test.mbeanserver/nazgul-core-jmx-test@2.1.0?classifier=sources

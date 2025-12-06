@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/messenger@1.4.2
+- pkg:maven/org.webjars.bower/messenger@1.4.2?classifier=sources
+- pkg:maven/org.webjars.bower/messenger@1.5.0
+- pkg:maven/org.webjars.bower/messenger@1.5.0?classifier=sources

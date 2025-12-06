@@ -1,2 +1,4 @@
 - pkg:maven/org.dellroad/leveldb-api@0.8.1
 - pkg:maven/org.dellroad/leveldb-api@0.8.1?classifier=sources
+- pkg:maven/org.dellroad/leveldb-api@0.9
+- pkg:maven/org.dellroad/leveldb-api@0.9?classifier=sources

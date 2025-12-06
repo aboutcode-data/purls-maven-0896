@@ -10,3 +10,9 @@
 - pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.13.2?type=aar
 - pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.0-SHAPSHOT?classifier=sources
 - pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.0-SHAPSHOT?type=aar
+- pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.0?classifier=sources
+- pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.0?type=aar
+- pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.1?classifier=sources
+- pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.1?type=aar
+- pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.2?classifier=sources
+- pkg:maven/com.github.vmironov.jetpack/jetpack-bindings-preferences@0.14.2?type=aar

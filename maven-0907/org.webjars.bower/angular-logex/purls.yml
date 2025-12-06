@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/angular-logex@0.0.10
+- pkg:maven/org.webjars.bower/angular-logex@0.0.10?classifier=sources
+- pkg:maven/org.webjars.bower/angular-logex@0.0.11
+- pkg:maven/org.webjars.bower/angular-logex@0.0.11?classifier=sources

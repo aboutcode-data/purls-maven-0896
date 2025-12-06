@@ -1,0 +1,2 @@
+- pkg:maven/io.openbouquet/bouquet-plugin-mysql@4.2.0
+- pkg:maven/io.openbouquet/bouquet-plugin-mysql@4.2.0?classifier=sources

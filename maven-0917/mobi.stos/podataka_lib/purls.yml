@@ -1,0 +1,8 @@
+- pkg:maven/mobi.stos/podataka_lib@0.1?classifier=sources
+- pkg:maven/mobi.stos/podataka_lib@0.1?type=aar
+- pkg:maven/mobi.stos/podataka_lib@0.1b?classifier=sources
+- pkg:maven/mobi.stos/podataka_lib@0.1b?type=aar
+- pkg:maven/mobi.stos/podataka_lib@0.2b?classifier=sources
+- pkg:maven/mobi.stos/podataka_lib@0.2b?type=aar
+- pkg:maven/mobi.stos/podataka_lib@0.3b?classifier=sources
+- pkg:maven/mobi.stos/podataka_lib@0.3b?type=aar

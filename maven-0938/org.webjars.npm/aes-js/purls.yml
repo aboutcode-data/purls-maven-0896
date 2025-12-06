@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/aes-js@0.2.4
+- pkg:maven/org.webjars.npm/aes-js@0.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/aes-js@2.0.0
+- pkg:maven/org.webjars.npm/aes-js@2.0.0?classifier=sources

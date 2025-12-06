@@ -1,0 +1,8 @@
+- pkg:maven/com.netease.nimlib/lucene@2.7.0?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@2.7.0?type=aar
+- pkg:maven/com.netease.nimlib/lucene@2.8.0?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@2.8.0?type=aar
+- pkg:maven/com.netease.nimlib/lucene@2.9.0?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@2.9.0?type=aar
+- pkg:maven/com.netease.nimlib/lucene@3.0.0?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@3.0.0?type=aar

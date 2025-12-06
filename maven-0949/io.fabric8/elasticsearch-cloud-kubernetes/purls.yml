@@ -11,3 +11,15 @@
 - pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.0.1?classifier=sources
 - pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.0.2?classifier=sources
 - pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.1.0?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.1.1?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.2.0?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.2.1?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.2.1_01?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.3.1?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.3.2?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.3.3?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.3.4?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.3.5?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.4.0?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.4.0_01?classifier=sources
+- pkg:maven/io.fabric8/elasticsearch-cloud-kubernetes@2.4.1?classifier=sources

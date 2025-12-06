@@ -6,3 +6,5 @@
 - pkg:maven/de.cit-ec.tcs.alignment/adp@2.1.1?classifier=sources
 - pkg:maven/de.cit-ec.tcs.alignment/adp@2.1.2
 - pkg:maven/de.cit-ec.tcs.alignment/adp@2.1.2?classifier=sources
+- pkg:maven/de.cit-ec.tcs.alignment/adp@3.0.0
+- pkg:maven/de.cit-ec.tcs.alignment/adp@3.0.0?classifier=sources

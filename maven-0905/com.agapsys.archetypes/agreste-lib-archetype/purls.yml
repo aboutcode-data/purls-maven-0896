@@ -1,0 +1,5 @@
+- pkg:maven/com.agapsys.archetypes/agreste-lib-archetype@2.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/agreste-lib-archetype@3.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/agreste-lib-archetype@4.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/agreste-lib-archetype@5.0.0?classifier=sources
+- pkg:maven/com.agapsys.archetypes/agreste-lib-archetype@6.0.0?classifier=sources

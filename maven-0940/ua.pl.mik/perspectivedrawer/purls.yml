@@ -6,5 +6,7 @@
 - pkg:maven/ua.pl.mik/perspectivedrawer@0.2?type=aar
 - pkg:maven/ua.pl.mik/perspectivedrawer@0.3.1?classifier=sources
 - pkg:maven/ua.pl.mik/perspectivedrawer@0.3.1?type=aar
+- pkg:maven/ua.pl.mik/perspectivedrawer@0.3.2?classifier=sources
+- pkg:maven/ua.pl.mik/perspectivedrawer@0.3.2?type=aar
 - pkg:maven/ua.pl.mik/perspectivedrawer@0.3?classifier=sources
 - pkg:maven/ua.pl.mik/perspectivedrawer@0.3?type=aar

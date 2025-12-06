@@ -22,3 +22,7 @@
 - pkg:maven/net.rdrei.android.buildtimetracker/gradle-plugin@0.4.4?classifier=sources
 - pkg:maven/net.rdrei.android.buildtimetracker/gradle-plugin@0.5.0
 - pkg:maven/net.rdrei.android.buildtimetracker/gradle-plugin@0.5.0?classifier=sources
+- pkg:maven/net.rdrei.android.buildtimetracker/gradle-plugin@0.7.0
+- pkg:maven/net.rdrei.android.buildtimetracker/gradle-plugin@0.7.0?classifier=sources
+- pkg:maven/net.rdrei.android.buildtimetracker/gradle-plugin@0.8.0
+- pkg:maven/net.rdrei.android.buildtimetracker/gradle-plugin@0.8.0?classifier=sources

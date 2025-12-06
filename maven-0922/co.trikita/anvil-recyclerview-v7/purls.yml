@@ -1,0 +1,4 @@
+- pkg:maven/co.trikita/anvil-recyclerview-v7@0.3.6?classifier=sources
+- pkg:maven/co.trikita/anvil-recyclerview-v7@0.3.6?type=aar
+- pkg:maven/co.trikita/anvil-recyclerview-v7@0.4.0?classifier=sources
+- pkg:maven/co.trikita/anvil-recyclerview-v7@0.4.0?type=aar

@@ -84,3 +84,5 @@
 - pkg:maven/info.cukes/cucumber-core@1.2.3?classifier=sources
 - pkg:maven/info.cukes/cucumber-core@1.2.4
 - pkg:maven/info.cukes/cucumber-core@1.2.4?classifier=sources
+- pkg:maven/info.cukes/cucumber-core@1.2.5
+- pkg:maven/info.cukes/cucumber-core@1.2.5?classifier=sources

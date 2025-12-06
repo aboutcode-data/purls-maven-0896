@@ -28,7 +28,10 @@
 - pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.18.3?type=war
 - pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.18.4?classifier=sources
 - pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.18.4?type=war
+- pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.18.5?type=war
 - pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.18?type=war
+- pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.19.1?type=war
+- pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.19.2?type=war
 - pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.19?type=war
 - pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.2?type=war
 - pkg:maven/com.sun.jersey.contribs.bill-burke-book/ex03_1@1.3?type=war

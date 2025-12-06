@@ -1,0 +1,4 @@
+- pkg:maven/com.cognifide.aet/sample-site@2.0.0-rc2?classifier=sources
+- pkg:maven/com.cognifide.aet/sample-site@2.0.0-rc2?type=war
+- pkg:maven/com.cognifide.aet/sample-site@2.0.0?classifier=sources
+- pkg:maven/com.cognifide.aet/sample-site@2.0.0?type=war

@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.vxquery/apache-vxquery@0.3-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.vxquery/apache-vxquery@0.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.vxquery/apache-vxquery@0.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.vxquery/apache-vxquery@0.6?classifier=source-release&type=zip

@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.uima/ruta-ep-core-ext@2.3.0?classifier=sources
 - pkg:maven/org.apache.uima/ruta-ep-core-ext@2.3.1
 - pkg:maven/org.apache.uima/ruta-ep-core-ext@2.3.1?classifier=sources
+- pkg:maven/org.apache.uima/ruta-ep-core-ext@2.4.0
+- pkg:maven/org.apache.uima/ruta-ep-core-ext@2.4.0?classifier=sources
+- pkg:maven/org.apache.uima/ruta-ep-core-ext@2.5.0
+- pkg:maven/org.apache.uima/ruta-ep-core-ext@2.5.0?classifier=sources

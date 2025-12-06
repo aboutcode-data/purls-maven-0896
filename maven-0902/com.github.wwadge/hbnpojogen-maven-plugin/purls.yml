@@ -1,0 +1,4 @@
+- pkg:maven/com.github.wwadge/hbnpojogen-maven-plugin@1.4.32
+- pkg:maven/com.github.wwadge/hbnpojogen-maven-plugin@1.4.32?classifier=sources
+- pkg:maven/com.github.wwadge/hbnpojogen-maven-plugin@1.4.33
+- pkg:maven/com.github.wwadge/hbnpojogen-maven-plugin@1.4.33?classifier=sources

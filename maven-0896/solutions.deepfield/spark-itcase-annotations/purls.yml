@@ -1,0 +1,4 @@
+- pkg:maven/solutions.deepfield/spark-itcase-annotations@1.0.2
+- pkg:maven/solutions.deepfield/spark-itcase-annotations@1.0.2?classifier=sources
+- pkg:maven/solutions.deepfield/spark-itcase-annotations@1.0.3
+- pkg:maven/solutions.deepfield/spark-itcase-annotations@1.0.3?classifier=sources

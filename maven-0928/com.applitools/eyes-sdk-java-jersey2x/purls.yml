@@ -1,2 +1,16 @@
 - pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.19
 - pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.19?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.23
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.23?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.24
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.24?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.34
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.34?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.50
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.50?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.51
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.51?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.53
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.53?classifier=sources
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.54
+- pkg:maven/com.applitools/eyes-sdk-java-jersey2x@2.54?classifier=sources

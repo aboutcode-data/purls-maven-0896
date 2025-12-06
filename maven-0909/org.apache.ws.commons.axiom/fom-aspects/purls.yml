@@ -1,2 +1,10 @@
 - pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.16
 - pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.16?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.17
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.17?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.18
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.18?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.19
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.19?classifier=sources
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.20
+- pkg:maven/org.apache.ws.commons.axiom/fom-aspects@1.2.20?classifier=sources

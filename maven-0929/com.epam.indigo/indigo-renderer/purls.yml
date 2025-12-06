@@ -4,3 +4,5 @@
 - pkg:maven/com.epam.indigo/indigo-renderer@1.2.2beta-r1?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-renderer@1.2.2beta-r37
 - pkg:maven/com.epam.indigo/indigo-renderer@1.2.2beta-r37?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-renderer@1.2.3.r0
+- pkg:maven/com.epam.indigo/indigo-renderer@1.2.3.r0?classifier=sources

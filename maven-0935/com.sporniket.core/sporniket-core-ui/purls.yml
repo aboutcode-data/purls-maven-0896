@@ -2,3 +2,15 @@
 - pkg:maven/com.sporniket.core/sporniket-core-ui@15.03.01-jdk
 - pkg:maven/com.sporniket.core/sporniket-core-ui@15.03.01-jdk?classifier=sources
 - pkg:maven/com.sporniket.core/sporniket-core-ui@15.03.01?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.09.00
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.09.00-jdk6
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.09.00-jdk6?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.09.00?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.08.00
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.08.00?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.08.01
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.08.01?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.08.02
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.08.02?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.09.00
+- pkg:maven/com.sporniket.core/sporniket-core-ui@16.09.00?classifier=sources

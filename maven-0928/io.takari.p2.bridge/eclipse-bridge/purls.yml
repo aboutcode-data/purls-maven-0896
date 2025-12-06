@@ -1,0 +1,2 @@
+- pkg:maven/io.takari.p2.bridge/eclipse-bridge@1.1.10
+- pkg:maven/io.takari.p2.bridge/eclipse-bridge@1.1.10?classifier=sources

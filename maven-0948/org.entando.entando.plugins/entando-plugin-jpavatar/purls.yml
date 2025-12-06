@@ -5,3 +5,4 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpavatar@4.0.0?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpavatar@4.0.0?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpavatar@4.2.0-TP1?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpavatar@4.2.0?type=war

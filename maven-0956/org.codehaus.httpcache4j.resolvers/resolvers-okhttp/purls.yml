@@ -1,0 +1,6 @@
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-okhttp@5.0.0
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-okhttp@5.0.0-M3
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-okhttp@5.0.0-M3?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-okhttp@5.0.0?classifier=sources
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-okhttp@5.0.1
+- pkg:maven/org.codehaus.httpcache4j.resolvers/resolvers-okhttp@5.0.1?classifier=sources

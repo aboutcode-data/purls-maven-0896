@@ -1,0 +1,4 @@
+- pkg:maven/it.thomasjohansen.warbuddy/war-buddy-maven-plugin@1.0-RC1
+- pkg:maven/it.thomasjohansen.warbuddy/war-buddy-maven-plugin@1.0-RC1?classifier=sources
+- pkg:maven/it.thomasjohansen.warbuddy/war-buddy-maven-plugin@1.0-RC2
+- pkg:maven/it.thomasjohansen.warbuddy/war-buddy-maven-plugin@1.0-RC2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.1.162
+- pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.1.162?classifier=sources
+- pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.1.163
+- pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.1.163?classifier=sources

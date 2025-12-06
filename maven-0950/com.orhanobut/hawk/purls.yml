@@ -24,3 +24,5 @@
 - pkg:maven/com.orhanobut/hawk@1.8?type=aar
 - pkg:maven/com.orhanobut/hawk@1.9?classifier=sources
 - pkg:maven/com.orhanobut/hawk@1.9?type=aar
+- pkg:maven/com.orhanobut/hawk@2.0.0-Alpha?classifier=sources
+- pkg:maven/com.orhanobut/hawk@2.0.0-Alpha?type=aar

@@ -16,6 +16,8 @@
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.8.1?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.8.2
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.8.2?classifier=sources
+- pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.8.3
+- pkg:maven/co.cask.cdap/cdap-unit-test-standalone@2.8.3?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@3.0.0
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@3.0.0?classifier=sources
 - pkg:maven/co.cask.cdap/cdap-unit-test-standalone@3.0.1

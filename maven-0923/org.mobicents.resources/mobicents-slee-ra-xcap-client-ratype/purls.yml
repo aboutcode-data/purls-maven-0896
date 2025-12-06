@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.resources/mobicents-slee-ra-xcap-client-ratype@2.8.3
+- pkg:maven/org.mobicents.resources/mobicents-slee-ra-xcap-client-ratype@2.8.3?classifier=sources
+- pkg:maven/org.mobicents.resources/mobicents-slee-ra-xcap-client-ratype@2.8.7
+- pkg:maven/org.mobicents.resources/mobicents-slee-ra-xcap-client-ratype@2.8.7?classifier=sources

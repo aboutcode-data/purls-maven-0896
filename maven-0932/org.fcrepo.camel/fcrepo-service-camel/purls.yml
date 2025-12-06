@@ -1,0 +1,4 @@
+- pkg:maven/org.fcrepo.camel/fcrepo-service-camel@4.6.0
+- pkg:maven/org.fcrepo.camel/fcrepo-service-camel@4.6.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-service-camel@4.6.1
+- pkg:maven/org.fcrepo.camel/fcrepo-service-camel@4.6.1?classifier=sources

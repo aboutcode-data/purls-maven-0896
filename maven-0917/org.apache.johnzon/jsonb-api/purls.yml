@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.johnzon/jsonb-api@0.9.3-incubating
+- pkg:maven/org.apache.johnzon/jsonb-api@0.9.3-incubating?classifier=sources
+- pkg:maven/org.apache.johnzon/jsonb-api@0.9.4
+- pkg:maven/org.apache.johnzon/jsonb-api@0.9.4?classifier=sources
+- pkg:maven/org.apache.johnzon/jsonb-api@0.9.5
+- pkg:maven/org.apache.johnzon/jsonb-api@0.9.5?classifier=sources

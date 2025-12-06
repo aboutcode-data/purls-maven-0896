@@ -1,0 +1,6 @@
+- pkg:maven/com.recipegrace/biglibrary_2.10@0.0.1
+- pkg:maven/com.recipegrace/biglibrary_2.10@0.0.1?classifier=sources
+- pkg:maven/com.recipegrace/biglibrary_2.10@0.0.2
+- pkg:maven/com.recipegrace/biglibrary_2.10@0.0.2?classifier=sources
+- pkg:maven/com.recipegrace/biglibrary_2.10@0.0.4
+- pkg:maven/com.recipegrace/biglibrary_2.10@0.0.4?classifier=sources

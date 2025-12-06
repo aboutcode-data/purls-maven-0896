@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@2.0.8
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@2.0.8?classifier=sources
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@2.0.9
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@2.0.9?classifier=sources

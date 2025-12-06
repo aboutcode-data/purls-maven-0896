@@ -1,0 +1,4 @@
+- pkg:maven/de.measite.minidns/minidns-hla@0.2.0-alpha3
+- pkg:maven/de.measite.minidns/minidns-hla@0.2.0-alpha3?classifier=sources
+- pkg:maven/de.measite.minidns/minidns-hla@0.2.0-beta1
+- pkg:maven/de.measite.minidns/minidns-hla@0.2.0-beta1?classifier=sources

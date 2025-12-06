@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.gobblin/gobblin-kafka@0.8.0
+- pkg:maven/com.linkedin.gobblin/gobblin-kafka@0.8.0?classifier=sources

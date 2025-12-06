@@ -1,0 +1,2 @@
+- pkg:maven/com.khubla.com.pragmatach.examples/facebookexample@1.40?classifier=sources
+- pkg:maven/com.khubla.com.pragmatach.examples/facebookexample@1.40?type=war

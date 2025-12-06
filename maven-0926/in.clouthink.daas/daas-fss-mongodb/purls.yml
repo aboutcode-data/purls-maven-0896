@@ -1,0 +1,8 @@
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@1.0.0
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@1.0.0?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@1.0.1
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@1.0.1?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@1.0.2
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@1.0.2?classifier=sources
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@2.0.0
+- pkg:maven/in.clouthink.daas/daas-fss-mongodb@2.0.0?classifier=sources

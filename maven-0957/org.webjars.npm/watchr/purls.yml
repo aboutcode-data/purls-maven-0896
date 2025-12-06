@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/watchr@2.4.13
+- pkg:maven/org.webjars.npm/watchr@2.4.13?classifier=sources
+- pkg:maven/org.webjars.npm/watchr@2.5.0
+- pkg:maven/org.webjars.npm/watchr@2.5.0?classifier=sources

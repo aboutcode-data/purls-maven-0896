@@ -1,0 +1,2 @@
+- pkg:maven/com.2gis.cartoshka/cartoshka@0.2
+- pkg:maven/com.2gis.cartoshka/cartoshka@0.2?classifier=sources

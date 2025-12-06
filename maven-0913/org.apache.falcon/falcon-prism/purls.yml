@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.falcon/falcon-prism@0.8?type=war
+- pkg:maven/org.apache.falcon/falcon-prism@0.9?type=war

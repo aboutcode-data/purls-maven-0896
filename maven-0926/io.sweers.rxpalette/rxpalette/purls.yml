@@ -2,3 +2,5 @@
 - pkg:maven/io.sweers.rxpalette/rxpalette@0.1.0?type=aar
 - pkg:maven/io.sweers.rxpalette/rxpalette@0.2.0?classifier=sources
 - pkg:maven/io.sweers.rxpalette/rxpalette@0.2.0?type=aar
+- pkg:maven/io.sweers.rxpalette/rxpalette@0.3.0?classifier=sources
+- pkg:maven/io.sweers.rxpalette/rxpalette@0.3.0?type=aar

@@ -14,3 +14,7 @@
 - pkg:maven/org.jvnet.ogc/wms-v_1_1_0@2.5.3?classifier=sources
 - pkg:maven/org.jvnet.ogc/wms-v_1_1_0@2.5.4
 - pkg:maven/org.jvnet.ogc/wms-v_1_1_0@2.5.4?classifier=sources
+- pkg:maven/org.jvnet.ogc/wms-v_1_1_0@2.6.0
+- pkg:maven/org.jvnet.ogc/wms-v_1_1_0@2.6.0?classifier=sources
+- pkg:maven/org.jvnet.ogc/wms-v_1_1_0@2.6.1
+- pkg:maven/org.jvnet.ogc/wms-v_1_1_0@2.6.1?classifier=sources

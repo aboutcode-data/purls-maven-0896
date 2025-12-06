@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/traceur-runtime@0.0.89
 - pkg:maven/org.webjars.bower/traceur-runtime@0.0.89?classifier=sources
+- pkg:maven/org.webjars.bower/traceur-runtime@0.0.95
+- pkg:maven/org.webjars.bower/traceur-runtime@0.0.95?classifier=sources

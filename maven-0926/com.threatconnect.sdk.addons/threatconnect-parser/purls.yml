@@ -1,0 +1,6 @@
+- pkg:maven/com.threatconnect.sdk.addons/threatconnect-parser@2.5.0
+- pkg:maven/com.threatconnect.sdk.addons/threatconnect-parser@2.5.0?classifier=sources
+- pkg:maven/com.threatconnect.sdk.addons/threatconnect-parser@2.6.0
+- pkg:maven/com.threatconnect.sdk.addons/threatconnect-parser@2.6.0?classifier=sources
+- pkg:maven/com.threatconnect.sdk.addons/threatconnect-parser@2.6.1
+- pkg:maven/com.threatconnect.sdk.addons/threatconnect-parser@2.6.1?classifier=sources

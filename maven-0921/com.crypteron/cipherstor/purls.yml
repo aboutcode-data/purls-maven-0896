@@ -1,0 +1,10 @@
+- pkg:maven/com.crypteron/cipherstor@2015.12.1.0
+- pkg:maven/com.crypteron/cipherstor@2015.12.1.0?classifier=sources
+- pkg:maven/com.crypteron/cipherstor@2016.4.1.0
+- pkg:maven/com.crypteron/cipherstor@2016.4.1.0?classifier=sources
+- pkg:maven/com.crypteron/cipherstor@2016.5.1.0
+- pkg:maven/com.crypteron/cipherstor@2016.5.1.0?classifier=sources
+- pkg:maven/com.crypteron/cipherstor@2016.8.1.0
+- pkg:maven/com.crypteron/cipherstor@2016.8.1.0?classifier=sources
+- pkg:maven/com.crypteron/cipherstor@2016.8.1.1
+- pkg:maven/com.crypteron/cipherstor@2016.8.1.1?classifier=sources
