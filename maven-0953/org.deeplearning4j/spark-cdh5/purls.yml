@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/spark-cdh5@0.0.3.3.1.alpha1
+- pkg:maven/org.deeplearning4j/spark-cdh5@0.0.3.3.1.alpha1?classifier=sources

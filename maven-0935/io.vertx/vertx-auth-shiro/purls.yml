@@ -1,0 +1,6 @@
+- pkg:maven/io.vertx/vertx-auth-shiro@3.0.0
+- pkg:maven/io.vertx/vertx-auth-shiro@3.0.0-milestone6
+- pkg:maven/io.vertx/vertx-auth-shiro@3.0.0-milestone6?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-shiro@3.0.0?classifier=sources
+- pkg:maven/io.vertx/vertx-auth-shiro@3.1.0
+- pkg:maven/io.vertx/vertx-auth-shiro@3.1.0?classifier=sources

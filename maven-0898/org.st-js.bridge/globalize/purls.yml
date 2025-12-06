@@ -1,0 +1,4 @@
+- pkg:maven/org.st-js.bridge/globalize@1.0.0.bv1
+- pkg:maven/org.st-js.bridge/globalize@1.0.0.bv1?classifier=sources
+- pkg:maven/org.st-js.bridge/globalize@1.0.0.bv2
+- pkg:maven/org.st-js.bridge/globalize@1.0.0.bv2?classifier=sources

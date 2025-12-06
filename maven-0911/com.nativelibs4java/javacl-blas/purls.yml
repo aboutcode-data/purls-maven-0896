@@ -2,3 +2,5 @@
 - pkg:maven/com.nativelibs4java/javacl-blas@1.0.0-RC2?classifier=sources
 - pkg:maven/com.nativelibs4java/javacl-blas@1.0.0-RC3
 - pkg:maven/com.nativelibs4java/javacl-blas@1.0.0-RC3?classifier=sources
+- pkg:maven/com.nativelibs4java/javacl-blas@1.0.0-RC4
+- pkg:maven/com.nativelibs4java/javacl-blas@1.0.0-RC4?classifier=sources

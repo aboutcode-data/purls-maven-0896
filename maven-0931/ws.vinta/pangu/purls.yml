@@ -1,0 +1,4 @@
+- pkg:maven/ws.vinta/pangu@1.0.0
+- pkg:maven/ws.vinta/pangu@1.0.0?classifier=sources
+- pkg:maven/ws.vinta/pangu@1.1.0
+- pkg:maven/ws.vinta/pangu@1.1.0?classifier=sources

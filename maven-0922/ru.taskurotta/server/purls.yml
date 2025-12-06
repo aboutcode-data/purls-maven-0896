@@ -1,0 +1,4 @@
+- pkg:maven/ru.taskurotta/server@0.8.0
+- pkg:maven/ru.taskurotta/server@0.8.0?classifier=sources
+- pkg:maven/ru.taskurotta/server@0.8.1
+- pkg:maven/ru.taskurotta/server@0.8.1?classifier=sources

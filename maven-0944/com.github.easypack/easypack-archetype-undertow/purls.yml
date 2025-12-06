@@ -1,0 +1,2 @@
+- pkg:maven/com.github.easypack/easypack-archetype-undertow@1.0.BETA
+- pkg:maven/com.github.easypack/easypack-archetype-undertow@1.0.BETA?classifier=sources

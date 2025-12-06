@@ -1,0 +1,4 @@
+- pkg:maven/zone.src.sheaf/java-sheaf@0.1.0
+- pkg:maven/zone.src.sheaf/java-sheaf@0.1.0?classifier=sources
+- pkg:maven/zone.src.sheaf/java-sheaf@0.2.0
+- pkg:maven/zone.src.sheaf/java-sheaf@0.2.0?classifier=sources

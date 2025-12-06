@@ -6,3 +6,7 @@
 - pkg:maven/org.gridgain/gridgain-datagrid@6.1.0?classifier=sources
 - pkg:maven/org.gridgain/gridgain-datagrid@6.1.1
 - pkg:maven/org.gridgain/gridgain-datagrid@6.1.1?classifier=sources
+- pkg:maven/org.gridgain/gridgain-datagrid@6.1.5
+- pkg:maven/org.gridgain/gridgain-datagrid@6.1.5?classifier=sources
+- pkg:maven/org.gridgain/gridgain-datagrid@6.1.6
+- pkg:maven/org.gridgain/gridgain-datagrid@6.1.6?classifier=sources

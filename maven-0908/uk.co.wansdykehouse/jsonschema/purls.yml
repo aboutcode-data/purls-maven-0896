@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.wansdykehouse/jsonschema@1.0
+- pkg:maven/uk.co.wansdykehouse/jsonschema@1.0?classifier=sources
+- pkg:maven/uk.co.wansdykehouse/jsonschema@1.1
+- pkg:maven/uk.co.wansdykehouse/jsonschema@1.1?classifier=sources

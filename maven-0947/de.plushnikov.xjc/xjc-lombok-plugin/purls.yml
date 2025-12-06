@@ -1,0 +1,2 @@
+- pkg:maven/de.plushnikov.xjc/xjc-lombok-plugin@1.0
+- pkg:maven/de.plushnikov.xjc/xjc-lombok-plugin@1.0?classifier=sources

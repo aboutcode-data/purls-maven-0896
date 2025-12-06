@@ -1,0 +1,2 @@
+- pkg:maven/org.hawkular.btm/hawkular-btm-agent-rest@0.6.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-agent-rest@0.6.0.Final?classifier=sources

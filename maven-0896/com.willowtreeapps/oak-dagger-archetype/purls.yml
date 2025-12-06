@@ -14,3 +14,7 @@
 - pkg:maven/com.willowtreeapps/oak-dagger-archetype@1.3.6?classifier=sources
 - pkg:maven/com.willowtreeapps/oak-dagger-archetype@1.3.7
 - pkg:maven/com.willowtreeapps/oak-dagger-archetype@1.3.7?classifier=sources
+- pkg:maven/com.willowtreeapps/oak-dagger-archetype@1.3.8
+- pkg:maven/com.willowtreeapps/oak-dagger-archetype@1.3.8?classifier=sources
+- pkg:maven/com.willowtreeapps/oak-dagger-archetype@1.4.0
+- pkg:maven/com.willowtreeapps/oak-dagger-archetype@1.4.0?classifier=sources

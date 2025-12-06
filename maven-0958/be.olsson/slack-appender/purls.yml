@@ -1,0 +1,4 @@
+- pkg:maven/be.olsson/slack-appender@0.99.2
+- pkg:maven/be.olsson/slack-appender@0.99.2?classifier=sources
+- pkg:maven/be.olsson/slack-appender@0.99.3
+- pkg:maven/be.olsson/slack-appender@0.99.3?classifier=sources

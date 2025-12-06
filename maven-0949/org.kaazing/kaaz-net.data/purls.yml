@@ -1,0 +1,2 @@
+- pkg:maven/org.kaazing/kaaz-net.data@0.0.0.3
+- pkg:maven/org.kaazing/kaaz-net.data@0.0.0.3?classifier=sources

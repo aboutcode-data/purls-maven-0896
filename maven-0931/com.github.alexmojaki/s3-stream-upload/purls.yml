@@ -1,0 +1,2 @@
+- pkg:maven/com.github.alexmojaki/s3-stream-upload@1.0
+- pkg:maven/com.github.alexmojaki/s3-stream-upload@1.0?classifier=sources

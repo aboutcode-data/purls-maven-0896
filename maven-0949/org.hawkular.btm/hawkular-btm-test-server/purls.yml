@@ -1,0 +1,2 @@
+- pkg:maven/org.hawkular.btm/hawkular-btm-test-server@0.3.0.Final
+- pkg:maven/org.hawkular.btm/hawkular-btm-test-server@0.3.0.Final?classifier=sources

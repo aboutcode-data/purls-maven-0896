@@ -1,0 +1,6 @@
+- pkg:maven/com.groupdocs/viewer@1.8.0
+- pkg:maven/com.groupdocs/viewer@1.8.0?classifier=sources
+- pkg:maven/com.groupdocs/viewer@2.0.0
+- pkg:maven/com.groupdocs/viewer@2.0.0?classifier=sources
+- pkg:maven/com.groupdocs/viewer@2.1.0
+- pkg:maven/com.groupdocs/viewer@2.1.0?classifier=sources

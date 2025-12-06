@@ -1,0 +1,9 @@
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.4.1?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.4.2?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.4.3?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.4?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.5.0?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.5.1?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.6.0?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.7.0?type=war
+- pkg:maven/com.java-adventures.smarkdown/smarkdown-war-jetty@0.8.0?type=war

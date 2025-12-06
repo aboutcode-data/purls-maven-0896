@@ -1,0 +1,8 @@
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.10
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.10-b140310.1920
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.10-b140310.1920?classifier=sources
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.10-b140802.1033
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.10-b140802.1033?classifier=sources
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.10?classifier=sources
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.11
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.2.11?classifier=sources

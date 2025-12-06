@@ -14,6 +14,14 @@
 - pkg:maven/net.ripe.rpki/rpki-validator-app@2.15?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-validator-app@2.16
 - pkg:maven/net.ripe.rpki/rpki-validator-app@2.16?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.17
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.17?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.18
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.18?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.19
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.19?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.20
+- pkg:maven/net.ripe.rpki/rpki-validator-app@2.20?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-validator-app@2.7
 - pkg:maven/net.ripe.rpki/rpki-validator-app@2.7?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-validator-app@2.8

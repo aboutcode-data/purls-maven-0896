@@ -1,0 +1,2 @@
+- pkg:maven/edu.jhuapl.accumulo/proxy-instance@1.0.0
+- pkg:maven/edu.jhuapl.accumulo/proxy-instance@1.0.0?classifier=sources

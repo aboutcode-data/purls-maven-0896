@@ -1,0 +1,2 @@
+- pkg:maven/com.plugback/jpa@2.0.0
+- pkg:maven/com.plugback/jpa@2.0.0?classifier=sources

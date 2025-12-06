@@ -1,0 +1,2 @@
+- pkg:maven/org.infinispan.hadoop/infinispan-hadoop-core@0.1
+- pkg:maven/org.infinispan.hadoop/infinispan-hadoop-core@0.1?classifier=sources

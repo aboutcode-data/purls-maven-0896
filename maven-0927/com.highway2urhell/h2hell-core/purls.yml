@@ -1,0 +1,6 @@
+- pkg:maven/com.highway2urhell/h2hell-core@1.0.1
+- pkg:maven/com.highway2urhell/h2hell-core@1.0.1?classifier=sources
+- pkg:maven/com.highway2urhell/h2hell-core@1.0.3
+- pkg:maven/com.highway2urhell/h2hell-core@1.0.3?classifier=sources
+- pkg:maven/com.highway2urhell/h2hell-core@1.0.4
+- pkg:maven/com.highway2urhell/h2hell-core@1.0.4?classifier=sources

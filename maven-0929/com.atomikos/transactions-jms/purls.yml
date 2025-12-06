@@ -16,3 +16,5 @@
 - pkg:maven/com.atomikos/transactions-jms@3.9.2?classifier=sources
 - pkg:maven/com.atomikos/transactions-jms@3.9.3
 - pkg:maven/com.atomikos/transactions-jms@3.9.3?classifier=sources
+- pkg:maven/com.atomikos/transactions-jms@4.0.0M4
+- pkg:maven/com.atomikos/transactions-jms@4.0.0M4?classifier=sources

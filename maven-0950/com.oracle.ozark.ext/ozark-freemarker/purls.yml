@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.ozark.ext/ozark-freemarker@1.0.0-m01
+- pkg:maven/com.oracle.ozark.ext/ozark-freemarker@1.0.0-m01?classifier=sources

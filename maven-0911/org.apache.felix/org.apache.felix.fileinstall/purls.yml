@@ -41,3 +41,9 @@
 - pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.4.0
 - pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.4.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.4.2
+- pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.4.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.4.2?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.5.0
+- pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.5.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.fileinstall@3.5.0?classifier=sources

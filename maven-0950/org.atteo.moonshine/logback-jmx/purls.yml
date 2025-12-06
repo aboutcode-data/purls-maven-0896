@@ -1,2 +1,6 @@
+- pkg:maven/org.atteo.moonshine/logback-jmx@1.0
 - pkg:maven/org.atteo.moonshine/logback-jmx@1.0.RC1
 - pkg:maven/org.atteo.moonshine/logback-jmx@1.0.RC1?classifier=sources
+- pkg:maven/org.atteo.moonshine/logback-jmx@1.0?classifier=sources
+- pkg:maven/org.atteo.moonshine/logback-jmx@1.1
+- pkg:maven/org.atteo.moonshine/logback-jmx@1.1?classifier=sources

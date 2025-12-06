@@ -1,0 +1,4 @@
+- pkg:maven/org.tinygroup/org.tinygroup.sctestwebsampleas@1.2.2?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.sctestwebsampleas@1.2.2?type=war
+- pkg:maven/org.tinygroup/org.tinygroup.sctestwebsampleas@2.0.0?classifier=sources
+- pkg:maven/org.tinygroup/org.tinygroup.sctestwebsampleas@2.0.0?type=war

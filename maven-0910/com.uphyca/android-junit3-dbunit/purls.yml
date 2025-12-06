@@ -1,2 +1,4 @@
 - pkg:maven/com.uphyca/android-junit3-dbunit@0.1
 - pkg:maven/com.uphyca/android-junit3-dbunit@0.1?classifier=sources
+- pkg:maven/com.uphyca/android-junit3-dbunit@0.5
+- pkg:maven/com.uphyca/android-junit3-dbunit@0.5?classifier=sources

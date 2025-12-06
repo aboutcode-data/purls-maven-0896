@@ -4,3 +4,5 @@
 - pkg:maven/org.jbundle.model/org.jbundle.model.app.program@1.0.2?classifier=sources
 - pkg:maven/org.jbundle.model/org.jbundle.model.app.program@1.0.3
 - pkg:maven/org.jbundle.model/org.jbundle.model.app.program@1.0.3?classifier=sources
+- pkg:maven/org.jbundle.model/org.jbundle.model.app.program@1.0.9
+- pkg:maven/org.jbundle.model/org.jbundle.model.app.program@1.0.9?classifier=sources

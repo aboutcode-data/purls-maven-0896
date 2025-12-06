@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-remoting@1.0.0.Alpha5
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-remoting@1.0.0.Alpha5?classifier=sources

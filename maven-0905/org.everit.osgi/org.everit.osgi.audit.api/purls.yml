@@ -1,0 +1,6 @@
+- pkg:maven/org.everit.osgi/org.everit.osgi.audit.api@1.0.0-alpha1
+- pkg:maven/org.everit.osgi/org.everit.osgi.audit.api@1.0.0-alpha1?classifier=sources
+- pkg:maven/org.everit.osgi/org.everit.osgi.audit.api@2.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.audit.api@2.0.0?classifier=sources
+- pkg:maven/org.everit.osgi/org.everit.osgi.audit.api@3.0.0
+- pkg:maven/org.everit.osgi/org.everit.osgi.audit.api@3.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.phloc/phloc-db@3.1.2
+- pkg:maven/com.phloc/phloc-db@3.1.2?classifier=sources
+- pkg:maven/com.phloc/phloc-db@3.5.0
+- pkg:maven/com.phloc/phloc-db@3.5.0?classifier=sources

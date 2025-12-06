@@ -10,3 +10,9 @@
 - pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.5.0?classifier=sources
 - pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.6.0
 - pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.6.0?classifier=sources
+- pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.7.0
+- pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.7.0?classifier=sources
+- pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.7.1
+- pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.7.1?classifier=sources
+- pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.8.0
+- pkg:maven/com.newzly/phantom-cassandra-unit_2.10@0.8.0?classifier=sources

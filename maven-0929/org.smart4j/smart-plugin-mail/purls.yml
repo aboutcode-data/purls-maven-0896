@@ -1,2 +1,4 @@
+- pkg:maven/org.smart4j/smart-plugin-mail@1.0
+- pkg:maven/org.smart4j/smart-plugin-mail@1.0?classifier=sources
 - pkg:maven/org.smart4j/smart-plugin-mail@2.2
 - pkg:maven/org.smart4j/smart-plugin-mail@2.2?classifier=sources

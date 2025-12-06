@@ -39,5 +39,9 @@
 - pkg:maven/com.googlecode.gbench/gbench@0.4.2-groovy-2.0?classifier=sources
 - pkg:maven/com.googlecode.gbench/gbench@0.4.2-groovy-2.1
 - pkg:maven/com.googlecode.gbench/gbench@0.4.2-groovy-2.1?classifier=sources
+- pkg:maven/com.googlecode.gbench/gbench@0.4.2-groovy-2.2
+- pkg:maven/com.googlecode.gbench/gbench@0.4.2-groovy-2.2?classifier=sources
+- pkg:maven/com.googlecode.gbench/gbench@0.4.2-groovy-2.3
+- pkg:maven/com.googlecode.gbench/gbench@0.4.2-groovy-2.3?classifier=sources
 - pkg:maven/com.googlecode.gbench/gbench@11.07.05
 - pkg:maven/com.googlecode.gbench/gbench@11.07.05?classifier=sources

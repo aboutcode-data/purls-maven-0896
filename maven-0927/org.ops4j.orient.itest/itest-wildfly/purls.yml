@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.orient.itest/itest-wildfly@0.3.0
+- pkg:maven/org.ops4j.orient.itest/itest-wildfly@0.3.0?classifier=sources

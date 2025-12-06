@@ -1,3 +1,6 @@
+- pkg:maven/com.google.sitebricks/sitebricks-persist@0.8.10
+- pkg:maven/com.google.sitebricks/sitebricks-persist@0.8.10?classifier=sources
+- pkg:maven/com.google.sitebricks/sitebricks-persist@0.8.11?classifier=sources
 - pkg:maven/com.google.sitebricks/sitebricks-persist@0.8.8
 - pkg:maven/com.google.sitebricks/sitebricks-persist@0.8.8?classifier=sources
 - pkg:maven/com.google.sitebricks/sitebricks-persist@0.8.9

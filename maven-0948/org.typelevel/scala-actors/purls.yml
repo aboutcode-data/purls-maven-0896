@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/scala-actors@2.11.7
+- pkg:maven/org.typelevel/scala-actors@2.11.7?classifier=sources

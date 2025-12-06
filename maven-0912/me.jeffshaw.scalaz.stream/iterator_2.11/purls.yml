@@ -1,0 +1,16 @@
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@1.0
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@1.0?classifier=sources
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@1.0a
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@1.0a?classifier=sources
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@2.0
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@2.0?classifier=sources
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@2.0a
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@2.0a?classifier=sources
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0.1
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0.1?classifier=sources
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0.1a
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0.1a?classifier=sources
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0?classifier=sources
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0a
+- pkg:maven/me.jeffshaw.scalaz.stream/iterator_2.11@3.0a?classifier=sources

@@ -10,3 +10,9 @@
 - pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.4
 - pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.4?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.6
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.6?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.6?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.8
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.commons.mime@2.1.8?classifier=sources

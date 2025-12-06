@@ -8,3 +8,5 @@
 - pkg:maven/org.libvirt/libvirt@0.4.5
 - pkg:maven/org.libvirt/libvirt@0.4.6
 - pkg:maven/org.libvirt/libvirt@0.4.7
+- pkg:maven/org.libvirt/libvirt@0.5.1
+- pkg:maven/org.libvirt/libvirt@0.5.1?classifier=sources

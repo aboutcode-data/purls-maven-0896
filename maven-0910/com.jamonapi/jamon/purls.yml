@@ -5,3 +5,15 @@
 - pkg:maven/com.jamonapi/jamon@2.4
 - pkg:maven/com.jamonapi/jamon@2.75
 - pkg:maven/com.jamonapi/jamon@2.75?classifier=sources
+- pkg:maven/com.jamonapi/jamon@2.76
+- pkg:maven/com.jamonapi/jamon@2.76?classifier=sources
+- pkg:maven/com.jamonapi/jamon@2.77
+- pkg:maven/com.jamonapi/jamon@2.77?classifier=sources
+- pkg:maven/com.jamonapi/jamon@2.78
+- pkg:maven/com.jamonapi/jamon@2.78?classifier=sources
+- pkg:maven/com.jamonapi/jamon@2.79
+- pkg:maven/com.jamonapi/jamon@2.79?classifier=sources
+- pkg:maven/com.jamonapi/jamon@2.80
+- pkg:maven/com.jamonapi/jamon@2.80?classifier=sources
+- pkg:maven/com.jamonapi/jamon@2.81
+- pkg:maven/com.jamonapi/jamon@2.81?classifier=sources

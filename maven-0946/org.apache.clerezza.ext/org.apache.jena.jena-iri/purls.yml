@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza.ext/org.apache.jena.jena-iri@1.0.1_1
+- pkg:maven/org.apache.clerezza.ext/org.apache.jena.jena-iri@1.0.1_1?classifier=sources

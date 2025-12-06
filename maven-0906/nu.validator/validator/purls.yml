@@ -1,0 +1,14 @@
+- pkg:maven/nu.validator/validator@15.3.10
+- pkg:maven/nu.validator/validator@15.3.10?classifier=sources
+- pkg:maven/nu.validator/validator@15.3.11
+- pkg:maven/nu.validator/validator@15.3.11?classifier=sources
+- pkg:maven/nu.validator/validator@15.3.12
+- pkg:maven/nu.validator/validator@15.3.12?classifier=sources
+- pkg:maven/nu.validator/validator@15.3.14
+- pkg:maven/nu.validator/validator@15.3.14?classifier=sources
+- pkg:maven/nu.validator/validator@15.3.28
+- pkg:maven/nu.validator/validator@15.3.28?classifier=sources
+- pkg:maven/nu.validator/validator@15.4.12
+- pkg:maven/nu.validator/validator@15.4.12?classifier=sources
+- pkg:maven/nu.validator/validator@15.6.29
+- pkg:maven/nu.validator/validator@15.6.29?classifier=sources

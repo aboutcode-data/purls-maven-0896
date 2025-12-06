@@ -34,3 +34,7 @@
 - pkg:maven/org.kualigan.maven.plugins/kuali-maven-plugin@1.1.8?classifier=sources
 - pkg:maven/org.kualigan.maven.plugins/kuali-maven-plugin@1.1.9
 - pkg:maven/org.kualigan.maven.plugins/kuali-maven-plugin@1.1.9?classifier=sources
+- pkg:maven/org.kualigan.maven.plugins/kuali-maven-plugin@2.0.0
+- pkg:maven/org.kualigan.maven.plugins/kuali-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/org.kualigan.maven.plugins/kuali-maven-plugin@2.0.3
+- pkg:maven/org.kualigan.maven.plugins/kuali-maven-plugin@2.0.3?classifier=sources

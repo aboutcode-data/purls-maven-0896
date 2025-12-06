@@ -1,0 +1,16 @@
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b01
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b01?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b02
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b02?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b03
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b03?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b04
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b04?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b07
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b07?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b08
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b08?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b09
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1-b09?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.1?classifier=sources

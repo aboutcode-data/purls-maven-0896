@@ -1,0 +1,2 @@
+- pkg:maven/io.corbel.lib/cli@0.4.0
+- pkg:maven/io.corbel.lib/cli@0.4.0?classifier=sources

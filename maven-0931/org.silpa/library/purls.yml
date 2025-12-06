@@ -1,0 +1,4 @@
+- pkg:maven/org.silpa/library@0.1.0?classifier=sources
+- pkg:maven/org.silpa/library@0.1.0?type=aar
+- pkg:maven/org.silpa/library@0.1.2?classifier=sources
+- pkg:maven/org.silpa/library@0.1.2?type=aar

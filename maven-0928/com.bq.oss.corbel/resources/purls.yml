@@ -1,0 +1,4 @@
+- pkg:maven/com.bq.oss.corbel/resources@1.19.2
+- pkg:maven/com.bq.oss.corbel/resources@1.19.2?classifier=sources
+- pkg:maven/com.bq.oss.corbel/resources@1.20.0
+- pkg:maven/com.bq.oss.corbel/resources@1.20.0?classifier=sources

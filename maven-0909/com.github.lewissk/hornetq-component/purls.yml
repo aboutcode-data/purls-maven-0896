@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lewissk/hornetq-component@0.1
+- pkg:maven/com.github.lewissk/hornetq-component@0.1?classifier=sources

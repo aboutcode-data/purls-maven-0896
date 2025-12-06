@@ -1,0 +1,4 @@
+- pkg:maven/im.bci/jnuit-playn-java@0.12
+- pkg:maven/im.bci/jnuit-playn-java@0.12?classifier=sources
+- pkg:maven/im.bci/jnuit-playn-java@0.13
+- pkg:maven/im.bci/jnuit-playn-java@0.13?classifier=sources

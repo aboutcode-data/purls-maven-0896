@@ -1,0 +1,4 @@
+- pkg:maven/com.github.nscala-money/nscala-money_2.12.0-M1@0.9.0
+- pkg:maven/com.github.nscala-money/nscala-money_2.12.0-M1@0.9.0?classifier=sources
+- pkg:maven/com.github.nscala-money/nscala-money_2.12.0-M1@0.9.1
+- pkg:maven/com.github.nscala-money/nscala-money_2.12.0-M1@0.9.1?classifier=sources

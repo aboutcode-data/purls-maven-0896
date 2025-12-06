@@ -44,8 +44,16 @@
 - pkg:maven/com.sun.jersey.samples/moxy@1.17?type=war
 - pkg:maven/com.sun.jersey.samples/moxy@1.18.1?classifier=sources
 - pkg:maven/com.sun.jersey.samples/moxy@1.18.1?type=war
+- pkg:maven/com.sun.jersey.samples/moxy@1.18.2?classifier=sources
+- pkg:maven/com.sun.jersey.samples/moxy@1.18.2?type=war
+- pkg:maven/com.sun.jersey.samples/moxy@1.18.3?classifier=sources
+- pkg:maven/com.sun.jersey.samples/moxy@1.18.3?type=war
+- pkg:maven/com.sun.jersey.samples/moxy@1.18.4?classifier=sources
+- pkg:maven/com.sun.jersey.samples/moxy@1.18.4?type=war
 - pkg:maven/com.sun.jersey.samples/moxy@1.18?classifier=sources
 - pkg:maven/com.sun.jersey.samples/moxy@1.18?type=war
+- pkg:maven/com.sun.jersey.samples/moxy@1.19?classifier=sources
+- pkg:maven/com.sun.jersey.samples/moxy@1.19?type=war
 - pkg:maven/com.sun.jersey.samples/moxy@1.5-ea09?type=war
 - pkg:maven/com.sun.jersey.samples/moxy@1.5?type=war
 - pkg:maven/com.sun.jersey.samples/moxy@1.6-ea01?type=war

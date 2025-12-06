@@ -10,3 +10,7 @@
 - pkg:maven/com.arcbees.gaestudio/gae-studio-webapp@0.8.3
 - pkg:maven/com.arcbees.gaestudio/gae-studio-webapp@0.8.3?classifier=sources
 - pkg:maven/com.arcbees.gaestudio/gae-studio-webapp@0.8?classifier=sources
+- pkg:maven/com.arcbees.gaestudio/gae-studio-webapp@1.0-RC2?classifier=sources
+- pkg:maven/com.arcbees.gaestudio/gae-studio-webapp@1.0-RC2?type=war
+- pkg:maven/com.arcbees.gaestudio/gae-studio-webapp@1.0-RC3?classifier=sources
+- pkg:maven/com.arcbees.gaestudio/gae-studio-webapp@1.0-RC3?type=war

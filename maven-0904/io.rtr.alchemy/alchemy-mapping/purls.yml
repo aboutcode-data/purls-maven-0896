@@ -1,0 +1,4 @@
+- pkg:maven/io.rtr.alchemy/alchemy-mapping@0.1.10
+- pkg:maven/io.rtr.alchemy/alchemy-mapping@0.1.10?classifier=sources
+- pkg:maven/io.rtr.alchemy/alchemy-mapping@0.1.9
+- pkg:maven/io.rtr.alchemy/alchemy-mapping@0.1.9?classifier=sources

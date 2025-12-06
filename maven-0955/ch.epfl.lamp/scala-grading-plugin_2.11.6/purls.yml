@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.lamp/scala-grading-plugin_2.11.6@0.3
+- pkg:maven/ch.epfl.lamp/scala-grading-plugin_2.11.6@0.3?classifier=sources

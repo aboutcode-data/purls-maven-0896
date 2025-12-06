@@ -1,0 +1,4 @@
+- pkg:maven/org.pac4j/vertx-pac4j-helper@1.0.0
+- pkg:maven/org.pac4j/vertx-pac4j-helper@1.0.0?classifier=sources
+- pkg:maven/org.pac4j/vertx-pac4j-helper@1.1.0
+- pkg:maven/org.pac4j/vertx-pac4j-helper@1.1.0?classifier=sources

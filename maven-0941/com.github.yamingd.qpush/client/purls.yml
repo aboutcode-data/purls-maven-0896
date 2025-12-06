@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yamingd.qpush/client@1.2
+- pkg:maven/com.github.yamingd.qpush/client@1.2?classifier=sources

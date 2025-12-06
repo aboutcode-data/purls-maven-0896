@@ -1,0 +1,4 @@
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-impl@10.3
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-impl@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-impl@10.4
+- pkg:maven/org.sakaiproject.search.elasticsearch/elasticsearch-impl@10.4?classifier=sources

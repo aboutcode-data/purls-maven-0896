@@ -1,0 +1,16 @@
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.0.7
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.0.7?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.0.8
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.0.8?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.10.0
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.10.0?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.10.1
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.10.1?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.10.2
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.10.2?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.11.1
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.11.1?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.12.0
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.12.0?classifier=sources
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.9.0
+- pkg:maven/de.hilling.junit.cdi/cdi-test-cucumber@0.9.0?classifier=sources

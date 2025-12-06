@@ -4,6 +4,8 @@
 - pkg:maven/com.linkedin.pegasus/degrader@1.13.4?classifier=sources
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.12
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.12?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@1.15.18
+- pkg:maven/com.linkedin.pegasus/degrader@1.15.18?classifier=sources
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.2
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.2?classifier=sources
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.4
@@ -12,6 +14,8 @@
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.9
 - pkg:maven/com.linkedin.pegasus/degrader@1.15.9?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@1.20.0
+- pkg:maven/com.linkedin.pegasus/degrader@1.20.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/degrader@1.8.3
 - pkg:maven/com.linkedin.pegasus/degrader@1.8.3?classifier=sources
 - pkg:maven/com.linkedin.pegasus/degrader@1.9.1
@@ -26,3 +30,15 @@
 - pkg:maven/com.linkedin.pegasus/degrader@1.9.40?classifier=sources
 - pkg:maven/com.linkedin.pegasus/degrader@1.9.5
 - pkg:maven/com.linkedin.pegasus/degrader@1.9.5?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@2.1.0
+- pkg:maven/com.linkedin.pegasus/degrader@2.1.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@2.12.7
+- pkg:maven/com.linkedin.pegasus/degrader@2.12.7?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@2.2.5
+- pkg:maven/com.linkedin.pegasus/degrader@2.2.5?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@2.6.0
+- pkg:maven/com.linkedin.pegasus/degrader@2.6.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@3.1.1
+- pkg:maven/com.linkedin.pegasus/degrader@3.1.1?classifier=sources
+- pkg:maven/com.linkedin.pegasus/degrader@3.1.2
+- pkg:maven/com.linkedin.pegasus/degrader@3.1.2?classifier=sources

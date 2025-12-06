@@ -1,0 +1,2 @@
+- pkg:maven/io.rhiot/camel-webcam@0.1.2
+- pkg:maven/io.rhiot/camel-webcam@0.1.2?classifier=sources

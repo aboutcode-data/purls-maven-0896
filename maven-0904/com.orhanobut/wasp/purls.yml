@@ -1,0 +1,12 @@
+- pkg:maven/com.orhanobut/wasp@1.10?classifier=sources
+- pkg:maven/com.orhanobut/wasp@1.10?type=aar
+- pkg:maven/com.orhanobut/wasp@1.11?classifier=sources
+- pkg:maven/com.orhanobut/wasp@1.11?type=aar
+- pkg:maven/com.orhanobut/wasp@1.12?classifier=sources
+- pkg:maven/com.orhanobut/wasp@1.12?type=aar
+- pkg:maven/com.orhanobut/wasp@1.13?classifier=sources
+- pkg:maven/com.orhanobut/wasp@1.13?type=aar
+- pkg:maven/com.orhanobut/wasp@1.8?classifier=sources
+- pkg:maven/com.orhanobut/wasp@1.8?type=aar
+- pkg:maven/com.orhanobut/wasp@1.9?classifier=sources
+- pkg:maven/com.orhanobut/wasp@1.9?type=aar

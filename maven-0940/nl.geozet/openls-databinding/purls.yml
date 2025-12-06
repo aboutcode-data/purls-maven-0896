@@ -1,0 +1,2 @@
+- pkg:maven/nl.geozet/openls-databinding@0.4
+- pkg:maven/nl.geozet/openls-databinding@0.4?classifier=sources

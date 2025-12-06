@@ -25,6 +25,10 @@
 - pkg:maven/com.github.corydoras/base@1.5.1?classifier=sources
 - pkg:maven/com.github.corydoras/base@1.5.2
 - pkg:maven/com.github.corydoras/base@1.5.2?classifier=sources
+- pkg:maven/com.github.corydoras/base@1.5.3
+- pkg:maven/com.github.corydoras/base@1.5.3?classifier=sources
+- pkg:maven/com.github.corydoras/base@1.5.4
+- pkg:maven/com.github.corydoras/base@1.5.4?classifier=sources
 - pkg:maven/com.github.corydoras/base@1.5.beta1
 - pkg:maven/com.github.corydoras/base@1.5.beta1?classifier=sources
 - pkg:maven/com.github.corydoras/base@1.5.beta2

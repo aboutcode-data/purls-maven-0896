@@ -1,0 +1,2 @@
+- pkg:maven/ru.vyarus/gradle-pom-plugin@1.0.1
+- pkg:maven/ru.vyarus/gradle-pom-plugin@1.0.1?classifier=sources

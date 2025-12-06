@@ -1,0 +1,4 @@
+- pkg:maven/fr.putnami.pwt/pwt-spring@1.1.0
+- pkg:maven/fr.putnami.pwt/pwt-spring@1.1.0?classifier=sources
+- pkg:maven/fr.putnami.pwt/pwt-spring@1.1.1
+- pkg:maven/fr.putnami.pwt/pwt-spring@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.tatarka.simplefragment/simplefragment-appcompat@0.1?classifier=sources
+- pkg:maven/me.tatarka.simplefragment/simplefragment-appcompat@0.1?type=aar

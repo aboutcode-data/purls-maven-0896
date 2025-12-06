@@ -1,3 +1,7 @@
+- pkg:maven/org.sakaiproject.basiclti/basiclti-util@10.3
+- pkg:maven/org.sakaiproject.basiclti/basiclti-util@10.3?classifier=sources
+- pkg:maven/org.sakaiproject.basiclti/basiclti-util@10.4
+- pkg:maven/org.sakaiproject.basiclti/basiclti-util@10.4?classifier=sources
 - pkg:maven/org.sakaiproject.basiclti/basiclti-util@2.0.0
 - pkg:maven/org.sakaiproject.basiclti/basiclti-util@2.0.0-b03
 - pkg:maven/org.sakaiproject.basiclti/basiclti-util@2.0.0-b03?classifier=sources

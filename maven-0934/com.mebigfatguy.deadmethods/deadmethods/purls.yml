@@ -1,2 +1,6 @@
 - pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.2.0
 - pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.2.0?classifier=sources
+- pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.4.0
+- pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.4.0?classifier=sources
+- pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.6.0
+- pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.6.0?classifier=sources

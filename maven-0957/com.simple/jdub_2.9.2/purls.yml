@@ -12,3 +12,5 @@
 - pkg:maven/com.simple/jdub_2.9.2@0.3.3?classifier=sources
 - pkg:maven/com.simple/jdub_2.9.2@0.4.0
 - pkg:maven/com.simple/jdub_2.9.2@0.4.0?classifier=sources
+- pkg:maven/com.simple/jdub_2.9.2@0.4.1
+- pkg:maven/com.simple/jdub_2.9.2@0.4.1?classifier=sources

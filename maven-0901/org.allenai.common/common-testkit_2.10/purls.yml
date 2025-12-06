@@ -1,0 +1,8 @@
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.11.13-0
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.11.13-0?classifier=sources
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.11.17-1
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.11.17-1?classifier=sources
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.11.25-0
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.11.25-0?classifier=sources
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.12.04-1
+- pkg:maven/org.allenai.common/common-testkit_2.10@2014.12.04-1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.tonilopezmr/interactorexecutor@1.0?classifier=sources
+- pkg:maven/com.github.tonilopezmr/interactorexecutor@1.0?type=aar
+- pkg:maven/com.github.tonilopezmr/interactorexecutor@2.0
+- pkg:maven/com.github.tonilopezmr/interactorexecutor@2.0?classifier=sources

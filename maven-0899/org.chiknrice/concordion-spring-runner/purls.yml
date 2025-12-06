@@ -1,0 +1,2 @@
+- pkg:maven/org.chiknrice/concordion-spring-runner@0.0.1
+- pkg:maven/org.chiknrice/concordion-spring-runner@0.0.1?classifier=sources

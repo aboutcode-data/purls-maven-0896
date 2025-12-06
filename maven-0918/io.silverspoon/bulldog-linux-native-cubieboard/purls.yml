@@ -1,0 +1,3 @@
+- pkg:maven/io.silverspoon/bulldog-linux-native-cubieboard@0.1.0?classifier=sources
+- pkg:maven/io.silverspoon/bulldog-linux-native-cubieboard@0.1.2?classifier=sources
+- pkg:maven/io.silverspoon/bulldog-linux-native-cubieboard@0.2.0?classifier=sources

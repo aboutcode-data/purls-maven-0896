@@ -1,0 +1,6 @@
+- pkg:maven/net.oneandone/troilus-service-example@0.2?classifier=sources
+- pkg:maven/net.oneandone/troilus-service-example@0.2?type=war
+- pkg:maven/net.oneandone/troilus-service-example@0.3?classifier=sources
+- pkg:maven/net.oneandone/troilus-service-example@0.3?type=war
+- pkg:maven/net.oneandone/troilus-service-example@0.4?classifier=sources
+- pkg:maven/net.oneandone/troilus-service-example@0.4?type=war

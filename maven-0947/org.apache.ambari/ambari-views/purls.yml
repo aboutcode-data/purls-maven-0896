@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.ambari/ambari-views@1.7.0.0
+- pkg:maven/org.apache.ambari/ambari-views@1.7.0.0?classifier=sources
+- pkg:maven/org.apache.ambari/ambari-views@2.0.0.0
+- pkg:maven/org.apache.ambari/ambari-views@2.0.0.0?classifier=sources

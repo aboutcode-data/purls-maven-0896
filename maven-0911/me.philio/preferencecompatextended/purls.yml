@@ -1,0 +1,6 @@
+- pkg:maven/me.philio/preferencecompatextended@0.2.0?classifier=sources
+- pkg:maven/me.philio/preferencecompatextended@0.2.0?type=aar
+- pkg:maven/me.philio/preferencecompatextended@0.2.1?classifier=sources
+- pkg:maven/me.philio/preferencecompatextended@0.2.1?type=aar
+- pkg:maven/me.philio/preferencecompatextended@1.0.0?classifier=sources
+- pkg:maven/me.philio/preferencecompatextended@1.0.0?type=aar

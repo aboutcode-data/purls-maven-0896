@@ -1,0 +1,2 @@
+- pkg:maven/org.netxms/netxms-base@2.0-RC1
+- pkg:maven/org.netxms/netxms-base@2.0-RC1?classifier=sources

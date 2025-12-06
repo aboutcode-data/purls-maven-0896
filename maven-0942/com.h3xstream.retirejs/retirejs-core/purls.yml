@@ -1,0 +1,4 @@
+- pkg:maven/com.h3xstream.retirejs/retirejs-core@1.0.0
+- pkg:maven/com.h3xstream.retirejs/retirejs-core@1.0.0?classifier=sources
+- pkg:maven/com.h3xstream.retirejs/retirejs-core@2.1.0
+- pkg:maven/com.h3xstream.retirejs/retirejs-core@2.1.0?classifier=sources

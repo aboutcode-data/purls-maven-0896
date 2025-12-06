@@ -1,0 +1,4 @@
+- pkg:maven/org.hawkular.btm/hawkular-btm-btxn-service-rest@0.0.2?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-btxn-service-rest@0.0.2?type=war
+- pkg:maven/org.hawkular.btm/hawkular-btm-btxn-service-rest@0.1.0.Final?classifier=sources
+- pkg:maven/org.hawkular.btm/hawkular-btm-btxn-service-rest@0.1.0.Final?type=war

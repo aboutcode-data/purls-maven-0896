@@ -1,0 +1,2 @@
+- pkg:maven/com.segment.analytics.android.integrations/localytics@1.0.0?classifier=sources
+- pkg:maven/com.segment.analytics.android.integrations/localytics@1.0.0?type=aar

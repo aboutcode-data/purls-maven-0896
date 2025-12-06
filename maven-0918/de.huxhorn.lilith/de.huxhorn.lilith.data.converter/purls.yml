@@ -2,3 +2,5 @@
 - pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.data.converter@0.9.43?classifier=sources
 - pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.data.converter@0.9.44
 - pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.data.converter@0.9.44?classifier=sources
+- pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.data.converter@8.0.0
+- pkg:maven/de.huxhorn.lilith/de.huxhorn.lilith.data.converter@8.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.dd4t/dd4t-databind@2.0.1-beta
+- pkg:maven/org.dd4t/dd4t-databind@2.0.1-beta?classifier=sources

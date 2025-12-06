@@ -1,0 +1,10 @@
+- pkg:maven/com.flickr4java/flickr4java@2.10
+- pkg:maven/com.flickr4java/flickr4java@2.10?classifier=sources
+- pkg:maven/com.flickr4java/flickr4java@2.11
+- pkg:maven/com.flickr4java/flickr4java@2.11?classifier=sources
+- pkg:maven/com.flickr4java/flickr4java@2.12
+- pkg:maven/com.flickr4java/flickr4java@2.12?classifier=sources
+- pkg:maven/com.flickr4java/flickr4java@2.13
+- pkg:maven/com.flickr4java/flickr4java@2.13?classifier=sources
+- pkg:maven/com.flickr4java/flickr4java@2.9
+- pkg:maven/com.flickr4java/flickr4java@2.9?classifier=sources

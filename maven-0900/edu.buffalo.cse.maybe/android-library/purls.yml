@@ -1,0 +1,2 @@
+- pkg:maven/edu.buffalo.cse.maybe/android-library@0.0.2?classifier=sources
+- pkg:maven/edu.buffalo.cse.maybe/android-library@0.0.2?type=aar

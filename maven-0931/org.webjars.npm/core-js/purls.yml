@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/core-js@0.9.11
+- pkg:maven/org.webjars.npm/core-js@0.9.11?classifier=sources
+- pkg:maven/org.webjars.npm/core-js@1.1.0
+- pkg:maven/org.webjars.npm/core-js@1.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/core-js@1.2.4
+- pkg:maven/org.webjars.npm/core-js@1.2.4?classifier=sources

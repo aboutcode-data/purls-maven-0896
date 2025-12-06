@@ -1,2 +1,4 @@
 - pkg:maven/sk.seges.sesam/sesam-jndi@1.0.8
 - pkg:maven/sk.seges.sesam/sesam-jndi@1.0.8?classifier=sources
+- pkg:maven/sk.seges.sesam/sesam-jndi@2.0.0
+- pkg:maven/sk.seges.sesam/sesam-jndi@2.0.0?classifier=sources

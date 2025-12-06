@@ -1,0 +1,4 @@
+- pkg:maven/com.aol.microservices/microserver-client@0.60
+- pkg:maven/com.aol.microservices/microserver-client@0.60?classifier=sources
+- pkg:maven/com.aol.microservices/microserver-client@0.61
+- pkg:maven/com.aol.microservices/microserver-client@0.61?classifier=sources

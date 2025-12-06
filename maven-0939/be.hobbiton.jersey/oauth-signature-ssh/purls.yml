@@ -1,0 +1,4 @@
+- pkg:maven/be.hobbiton.jersey/oauth-signature-ssh@1.0.0
+- pkg:maven/be.hobbiton.jersey/oauth-signature-ssh@1.0.0?classifier=sources
+- pkg:maven/be.hobbiton.jersey/oauth-signature-ssh@1.0.1
+- pkg:maven/be.hobbiton.jersey/oauth-signature-ssh@1.0.1?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/com.eclipsesource.tabris/tabris-application@1.2.1?classifier=sources
 - pkg:maven/com.eclipsesource.tabris/tabris-application@1.2?classifier=sources
 - pkg:maven/com.eclipsesource.tabris/tabris-application@1.3?classifier=sources
+- pkg:maven/com.eclipsesource.tabris/tabris-application@1.4.1?classifier=sources
+- pkg:maven/com.eclipsesource.tabris/tabris-application@1.4.2?classifier=sources
+- pkg:maven/com.eclipsesource.tabris/tabris-application@1.4.3?classifier=sources
+- pkg:maven/com.eclipsesource.tabris/tabris-application@1.4.4?classifier=sources
+- pkg:maven/com.eclipsesource.tabris/tabris-application@1.4.5?classifier=sources
+- pkg:maven/com.eclipsesource.tabris/tabris-application@1.4?classifier=sources

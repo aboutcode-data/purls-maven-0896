@@ -1,0 +1,2 @@
+- pkg:maven/io.imply/hostbook_2.10@0.1
+- pkg:maven/io.imply/hostbook_2.10@0.1?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/com.bericotech/clavin@1.0.0rc6?classifier=sources
 - pkg:maven/com.bericotech/clavin@1.0.0rc7
 - pkg:maven/com.bericotech/clavin@1.0.0rc7?classifier=sources
+- pkg:maven/com.bericotech/clavin@2.0.0
+- pkg:maven/com.bericotech/clavin@2.0.0?classifier=sources
+- pkg:maven/com.bericotech/clavin@2.0.0rc1
+- pkg:maven/com.bericotech/clavin@2.0.0rc1?classifier=sources

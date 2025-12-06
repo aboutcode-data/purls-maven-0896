@@ -12,3 +12,15 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.2_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.2_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.5_2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.6_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.6_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.6_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jdom@2.0.6_1?classifier=src&type=zip

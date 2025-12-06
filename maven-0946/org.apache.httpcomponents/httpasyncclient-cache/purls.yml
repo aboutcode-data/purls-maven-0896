@@ -7,4 +7,12 @@
 - pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.0-beta4?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.0.1
 - pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.0.1?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.0.2
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.0.2?classifier=sources
 - pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.0?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.1
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.1-beta1
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.1-beta1?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.1.1
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.1.1?classifier=sources
+- pkg:maven/org.apache.httpcomponents/httpasyncclient-cache@4.1?classifier=sources

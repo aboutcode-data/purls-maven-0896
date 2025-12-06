@@ -1,0 +1,8 @@
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.10
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.10?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.6
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.6?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.8
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.8?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.9
+- pkg:maven/com.bertramlabs.plugins/karman-aws@0.9.9?classifier=sources

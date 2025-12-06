@@ -1,0 +1,2 @@
+- pkg:maven/com.github.danysantiago/sendgrid-android@1?classifier=sources
+- pkg:maven/com.github.danysantiago/sendgrid-android@1?type=aar

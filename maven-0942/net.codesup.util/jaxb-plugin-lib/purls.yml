@@ -1,0 +1,4 @@
+- pkg:maven/net.codesup.util/jaxb-plugin-lib@1.0.0
+- pkg:maven/net.codesup.util/jaxb-plugin-lib@1.0.0?classifier=sources
+- pkg:maven/net.codesup.util/jaxb-plugin-lib@1.1.0
+- pkg:maven/net.codesup.util/jaxb-plugin-lib@1.1.0?classifier=sources

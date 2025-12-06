@@ -1,0 +1,4 @@
+- pkg:maven/com.google.code.simple-spring-memcached/aws-elasticache-provider@3.5.0
+- pkg:maven/com.google.code.simple-spring-memcached/aws-elasticache-provider@3.5.0?classifier=sources
+- pkg:maven/com.google.code.simple-spring-memcached/aws-elasticache-provider@3.6.0
+- pkg:maven/com.google.code.simple-spring-memcached/aws-elasticache-provider@3.6.0?classifier=sources

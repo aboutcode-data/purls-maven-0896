@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.sling.ide/org.apache.sling.ide.api-test@1.0.0
+- pkg:maven/org.apache.sling.ide/org.apache.sling.ide.api-test@1.0.0?classifier=sources

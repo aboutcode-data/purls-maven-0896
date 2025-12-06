@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.directory.mavibot/mavibot-parent@1.0.0-M2?classifier=source-release&type=zip
 - pkg:maven/org.apache.directory.mavibot/mavibot-parent@1.0.0-M3?classifier=source-release&type=zip
 - pkg:maven/org.apache.directory.mavibot/mavibot-parent@1.0.0-M4?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.mavibot/mavibot-parent@1.0.0-M5?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.mavibot/mavibot-parent@1.0.0-M6?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.mavibot/mavibot-parent@1.0.0-M7?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.mavibot/mavibot-parent@1.0.0-M8?classifier=source-release&type=zip

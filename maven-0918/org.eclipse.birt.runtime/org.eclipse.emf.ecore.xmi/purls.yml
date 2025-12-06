@@ -1,3 +1,11 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.10.0.v20140514-1158
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.10.0.v20140514-1158?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.10.1.v20140901-1043
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.10.1.v20140901-1043?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.10.2.v20150123-0348
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.10.2.v20150123-0348?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.11.0.v20150512-0501
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.11.0.v20150512-0501?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.7.0.v20120123-0926
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.7.0.v20120123-0926?classifier=sources
 - pkg:maven/org.eclipse.birt.runtime/org.eclipse.emf.ecore.xmi@2.8.0.v20120606-0717

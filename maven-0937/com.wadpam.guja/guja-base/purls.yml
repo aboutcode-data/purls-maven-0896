@@ -1,0 +1,4 @@
+- pkg:maven/com.wadpam.guja/guja-base@0.0.3
+- pkg:maven/com.wadpam.guja/guja-base@0.0.3?classifier=sources
+- pkg:maven/com.wadpam.guja/guja-base@0.8.1
+- pkg:maven/com.wadpam.guja/guja-base@0.8.1?classifier=sources

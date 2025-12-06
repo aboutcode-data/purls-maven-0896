@@ -1,0 +1,2 @@
+- pkg:maven/ph.samson.maven/checksum-enforcer-rule@0.0.1
+- pkg:maven/ph.samson.maven/checksum-enforcer-rule@0.0.1?classifier=sources

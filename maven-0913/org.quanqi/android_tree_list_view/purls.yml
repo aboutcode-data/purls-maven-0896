@@ -1,0 +1,4 @@
+- pkg:maven/org.quanqi/android_tree_list_view@0.1?classifier=sources
+- pkg:maven/org.quanqi/android_tree_list_view@0.1?type=aar
+- pkg:maven/org.quanqi/android_tree_list_view@0.2.0?classifier=sources
+- pkg:maven/org.quanqi/android_tree_list_view@0.2.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.mybatis.caches/mybatis-redis@1.0.0-beta1?classifier=sources
+- pkg:maven/org.mybatis.caches/mybatis-redis@1.0.0-beta1?type=zip

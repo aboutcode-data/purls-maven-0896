@@ -1,0 +1,4 @@
+- pkg:maven/org.scalatest/scalatest-selenium_2.11@3.0.0-SNAP12
+- pkg:maven/org.scalatest/scalatest-selenium_2.11@3.0.0-SNAP12?classifier=sources
+- pkg:maven/org.scalatest/scalatest-selenium_2.11@3.0.0-SNAP13
+- pkg:maven/org.scalatest/scalatest-selenium_2.11@3.0.0-SNAP13?classifier=sources

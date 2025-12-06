@@ -1,0 +1,2 @@
+- pkg:maven/org.spark-project.hive.shims/hive-shims-scheduler@1.2.1.spark
+- pkg:maven/org.spark-project.hive.shims/hive-shims-scheduler@1.2.1.spark?classifier=sources

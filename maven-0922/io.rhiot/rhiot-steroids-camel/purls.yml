@@ -1,0 +1,2 @@
+- pkg:maven/io.rhiot/rhiot-steroids-camel@0.1.2
+- pkg:maven/io.rhiot/rhiot-steroids-camel@0.1.2?classifier=sources

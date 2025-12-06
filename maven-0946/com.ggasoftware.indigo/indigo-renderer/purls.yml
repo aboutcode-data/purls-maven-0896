@@ -4,3 +4,7 @@
 - pkg:maven/com.ggasoftware.indigo/indigo-renderer@1.1.11?classifier=sources
 - pkg:maven/com.ggasoftware.indigo/indigo-renderer@1.1.12
 - pkg:maven/com.ggasoftware.indigo/indigo-renderer@1.1.12?classifier=sources
+- pkg:maven/com.ggasoftware.indigo/indigo-renderer@1.2.1-dev5
+- pkg:maven/com.ggasoftware.indigo/indigo-renderer@1.2.1-dev5-moderna
+- pkg:maven/com.ggasoftware.indigo/indigo-renderer@1.2.1-dev5-moderna?classifier=sources
+- pkg:maven/com.ggasoftware.indigo/indigo-renderer@1.2.1-dev5?classifier=sources

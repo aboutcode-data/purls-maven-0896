@@ -1,0 +1,2 @@
+- pkg:maven/com.foreach.libs/common-test@0.12
+- pkg:maven/com.foreach.libs/common-test@0.12?classifier=sources

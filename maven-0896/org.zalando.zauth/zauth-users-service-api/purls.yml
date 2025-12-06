@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando.zauth/zauth-users-service-api@0.9.0
+- pkg:maven/org.zalando.zauth/zauth-users-service-api@0.9.0?classifier=sources

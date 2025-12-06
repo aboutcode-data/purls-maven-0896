@@ -1,2 +1,16 @@
 - pkg:maven/com.seagate.kinetic/kinetic-client@0.6.0.2
 - pkg:maven/com.seagate.kinetic/kinetic-client@0.6.0.2?classifier=sources
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.7.0.1
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.7.0.1?classifier=sources
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.7.0.2
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.7.0.2?classifier=sources
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.1
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.1?classifier=sources
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.2
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.2?classifier=sources
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.3
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.3?classifier=sources
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.4
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.4?classifier=sources
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.5
+- pkg:maven/com.seagate.kinetic/kinetic-client@0.8.0.5?classifier=sources

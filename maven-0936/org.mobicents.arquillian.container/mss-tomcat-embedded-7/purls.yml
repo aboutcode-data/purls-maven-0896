@@ -4,3 +4,9 @@
 - pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.0-ALPHA2?classifier=sources
 - pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.0-CR1
 - pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.0-CR1?classifier=sources
+- pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.0.CR2
+- pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.0.CR2?classifier=sources
+- pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.0.CR3
+- pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.0.CR3?classifier=sources
+- pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.1
+- pkg:maven/org.mobicents.arquillian.container/mss-tomcat-embedded-7@1.0.1?classifier=sources

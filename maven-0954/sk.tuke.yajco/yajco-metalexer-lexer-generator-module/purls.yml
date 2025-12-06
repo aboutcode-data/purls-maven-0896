@@ -1,2 +1,4 @@
 - pkg:maven/sk.tuke.yajco/yajco-metalexer-lexer-generator-module@0.1
+- pkg:maven/sk.tuke.yajco/yajco-metalexer-lexer-generator-module@0.1.1
+- pkg:maven/sk.tuke.yajco/yajco-metalexer-lexer-generator-module@0.1.1?classifier=sources
 - pkg:maven/sk.tuke.yajco/yajco-metalexer-lexer-generator-module@0.1?classifier=sources

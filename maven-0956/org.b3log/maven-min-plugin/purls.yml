@@ -1,0 +1,2 @@
+- pkg:maven/org.b3log/maven-min-plugin@1.0.0
+- pkg:maven/org.b3log/maven-min-plugin@1.0.0?classifier=sources

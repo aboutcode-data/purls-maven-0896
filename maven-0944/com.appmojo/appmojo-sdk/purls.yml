@@ -1,0 +1,2 @@
+- pkg:maven/com.appmojo/appmojo-sdk@0.0.2?classifier=sources
+- pkg:maven/com.appmojo/appmojo-sdk@0.0.2?type=aar

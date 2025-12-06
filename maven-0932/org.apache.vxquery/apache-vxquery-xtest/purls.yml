@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.vxquery/apache-vxquery-xtest@0.2-incubating?classifier=sources
 - pkg:maven/org.apache.vxquery/apache-vxquery-xtest@0.3-incubating
 - pkg:maven/org.apache.vxquery/apache-vxquery-xtest@0.3-incubating?classifier=sources
+- pkg:maven/org.apache.vxquery/apache-vxquery-xtest@0.4
+- pkg:maven/org.apache.vxquery/apache-vxquery-xtest@0.4?classifier=sources
+- pkg:maven/org.apache.vxquery/apache-vxquery-xtest@0.5
+- pkg:maven/org.apache.vxquery/apache-vxquery-xtest@0.5?classifier=sources

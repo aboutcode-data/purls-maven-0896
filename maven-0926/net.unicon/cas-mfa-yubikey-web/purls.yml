@@ -1,0 +1,10 @@
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-M5?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-M6?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC1?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC2?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC3?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC4?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC5?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC6?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC7?type=war
+- pkg:maven/net.unicon/cas-mfa-yubikey-web@1.0.0-RC8?type=war

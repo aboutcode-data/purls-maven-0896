@@ -1,0 +1,2 @@
+- pkg:maven/io.progix.jackson/jackson-patch@0.1.0
+- pkg:maven/io.progix.jackson/jackson-patch@0.1.0?classifier=sources

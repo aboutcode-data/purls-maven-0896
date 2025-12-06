@@ -1,0 +1,6 @@
+- pkg:maven/com.github.axdotl/jqassistant-plugins-liquibase@0.0.3
+- pkg:maven/com.github.axdotl/jqassistant-plugins-liquibase@0.0.3?classifier=sources
+- pkg:maven/com.github.axdotl/jqassistant-plugins-liquibase@0.0.4
+- pkg:maven/com.github.axdotl/jqassistant-plugins-liquibase@0.0.4?classifier=sources
+- pkg:maven/com.github.axdotl/jqassistant-plugins-liquibase@0.0.5
+- pkg:maven/com.github.axdotl/jqassistant-plugins-liquibase@0.0.5?classifier=sources

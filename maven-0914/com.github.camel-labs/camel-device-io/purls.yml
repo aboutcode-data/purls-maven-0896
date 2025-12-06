@@ -1,0 +1,2 @@
+- pkg:maven/com.github.camel-labs/camel-device-io@0.1.0
+- pkg:maven/com.github.camel-labs/camel-device-io@0.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.5.0
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.5.0-RC2
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.5.0-RC2?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.5.0?classifier=sources

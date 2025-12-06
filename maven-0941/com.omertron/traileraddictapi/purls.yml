@@ -1,2 +1,4 @@
 - pkg:maven/com.omertron/traileraddictapi@1.4
 - pkg:maven/com.omertron/traileraddictapi@1.4?classifier=sources
+- pkg:maven/com.omertron/traileraddictapi@1.5
+- pkg:maven/com.omertron/traileraddictapi@1.5?classifier=sources

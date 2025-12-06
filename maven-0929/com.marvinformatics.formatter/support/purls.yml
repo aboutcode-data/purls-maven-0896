@@ -1,0 +1,10 @@
+- pkg:maven/com.marvinformatics.formatter/support@1.5.0
+- pkg:maven/com.marvinformatics.formatter/support@1.5.0?classifier=sources
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC1
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC1?classifier=sources
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC2
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC2?classifier=sources
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC3
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC3?classifier=sources
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC4
+- pkg:maven/com.marvinformatics.formatter/support@1.6.0.RC4?classifier=sources

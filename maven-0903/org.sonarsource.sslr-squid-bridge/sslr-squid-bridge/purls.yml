@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.sslr-squid-bridge/sslr-squid-bridge@2.6.1
+- pkg:maven/org.sonarsource.sslr-squid-bridge/sslr-squid-bridge@2.6.1?classifier=sources

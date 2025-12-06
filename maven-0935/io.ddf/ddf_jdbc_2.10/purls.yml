@@ -1,0 +1,2 @@
+- pkg:maven/io.ddf/ddf_jdbc_2.10@1.4.0
+- pkg:maven/io.ddf/ddf_jdbc_2.10@1.4.0?classifier=sources

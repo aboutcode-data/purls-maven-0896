@@ -1,0 +1,4 @@
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-ribbon-secured-runtime@1.0.0.Alpha4
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-ribbon-secured-runtime@1.0.0.Alpha4?classifier=sources
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-ribbon-secured-runtime@1.0.0.Alpha5
+- pkg:maven/org.wildfly.swarm/wildfly-swarm-ribbon-secured-runtime@1.0.0.Alpha5?classifier=sources

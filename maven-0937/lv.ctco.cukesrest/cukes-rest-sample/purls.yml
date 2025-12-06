@@ -1,0 +1,4 @@
+- pkg:maven/lv.ctco.cukesrest/cukes-rest-sample@0.2.0
+- pkg:maven/lv.ctco.cukesrest/cukes-rest-sample@0.2.0?classifier=sources
+- pkg:maven/lv.ctco.cukesrest/cukes-rest-sample@0.2.1
+- pkg:maven/lv.ctco.cukesrest/cukes-rest-sample@0.2.1?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.0-0-RC1
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.0-0-RC1?classifier=sources
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.0.0
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.0.0?classifier=sources
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.0.1
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.0.1?classifier=sources
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.1.0
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.1.0?classifier=sources
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.2.0
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.2.0?classifier=sources
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.3.0
+- pkg:maven/uk.camsw.rx/rx-test-kafka@2.3.0?classifier=sources

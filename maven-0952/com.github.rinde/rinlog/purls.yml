@@ -1,2 +1,6 @@
 - pkg:maven/com.github.rinde/rinlog@0.1.0
 - pkg:maven/com.github.rinde/rinlog@0.1.0?classifier=sources
+- pkg:maven/com.github.rinde/rinlog@1.0.0
+- pkg:maven/com.github.rinde/rinlog@1.0.0?classifier=sources
+- pkg:maven/com.github.rinde/rinlog@2.0.0
+- pkg:maven/com.github.rinde/rinlog@2.0.0?classifier=sources

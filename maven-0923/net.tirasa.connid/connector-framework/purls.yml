@@ -1,0 +1,6 @@
+- pkg:maven/net.tirasa.connid/connector-framework@1.4.0.0
+- pkg:maven/net.tirasa.connid/connector-framework@1.4.0.0?classifier=sources
+- pkg:maven/net.tirasa.connid/connector-framework@1.4.1.0
+- pkg:maven/net.tirasa.connid/connector-framework@1.4.1.0?classifier=sources
+- pkg:maven/net.tirasa.connid/connector-framework@1.4.2.0
+- pkg:maven/net.tirasa.connid/connector-framework@1.4.2.0?classifier=sources

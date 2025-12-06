@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.m-m-m/mmm-transaction-impl-spring@0.9.0
 - pkg:maven/net.sf.m-m-m/mmm-transaction-impl-spring@0.9.0?classifier=sources
+- pkg:maven/net.sf.m-m-m/mmm-transaction-impl-spring@1.0.0
+- pkg:maven/net.sf.m-m-m/mmm-transaction-impl-spring@1.0.0?classifier=sources

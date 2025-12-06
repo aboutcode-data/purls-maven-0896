@@ -1,0 +1,4 @@
+- pkg:maven/co.easimart/sdk-android@1.0.0
+- pkg:maven/co.easimart/sdk-android@1.0.0?classifier=sources
+- pkg:maven/co.easimart/sdk-android@1.1.0
+- pkg:maven/co.easimart/sdk-android@1.1.0?classifier=sources

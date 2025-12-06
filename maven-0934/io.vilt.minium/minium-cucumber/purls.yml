@@ -1,0 +1,14 @@
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.0
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.0-RC1
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.0-RC1?classifier=sources
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.0-RC4
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.0-RC4?classifier=sources
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.0?classifier=sources
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.1
+- pkg:maven/io.vilt.minium/minium-cucumber@1.0.1?classifier=sources
+- pkg:maven/io.vilt.minium/minium-cucumber@1.1.0
+- pkg:maven/io.vilt.minium/minium-cucumber@1.1.0?classifier=sources
+- pkg:maven/io.vilt.minium/minium-cucumber@1.2.0
+- pkg:maven/io.vilt.minium/minium-cucumber@1.2.0?classifier=sources
+- pkg:maven/io.vilt.minium/minium-cucumber@1.2.1
+- pkg:maven/io.vilt.minium/minium-cucumber@1.2.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.psclistens/mongodb-maven-plugin@0.6
+- pkg:maven/com.psclistens/mongodb-maven-plugin@0.6?classifier=sources
+- pkg:maven/com.psclistens/mongodb-maven-plugin@0.7
+- pkg:maven/com.psclistens/mongodb-maven-plugin@0.7?classifier=sources

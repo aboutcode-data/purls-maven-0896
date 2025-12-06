@@ -1,0 +1,4 @@
+- pkg:maven/org.nd4j/nd4s_2.10@0.4-rc2.2
+- pkg:maven/org.nd4j/nd4s_2.10@0.4-rc2.2?classifier=sources
+- pkg:maven/org.nd4j/nd4s_2.10@0.4-rc3
+- pkg:maven/org.nd4j/nd4s_2.10@0.4-rc3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ssoup.denv/denv-server-mongodb@0.2
+- pkg:maven/org.ssoup.denv/denv-server-mongodb@0.2?classifier=sources

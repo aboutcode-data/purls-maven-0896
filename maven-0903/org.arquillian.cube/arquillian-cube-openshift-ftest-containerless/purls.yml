@@ -1,0 +1,4 @@
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-ftest-containerless@1.0.0.Alpha6
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-ftest-containerless@1.0.0.Alpha6?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-ftest-containerless@1.0.0.Alpha7
+- pkg:maven/org.arquillian.cube/arquillian-cube-openshift-ftest-containerless@1.0.0.Alpha7?classifier=sources

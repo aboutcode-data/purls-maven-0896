@@ -1,0 +1,6 @@
+- pkg:maven/org.craftercms/crafter-studio-2@2.5.0.1.e?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-2@2.5.0.1.e?type=war
+- pkg:maven/org.craftercms/crafter-studio-2@2.5.0.e?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-2@2.5.0.e?type=war
+- pkg:maven/org.craftercms/crafter-studio-2@2.5.0?classifier=sources
+- pkg:maven/org.craftercms/crafter-studio-2@2.5.0?type=war

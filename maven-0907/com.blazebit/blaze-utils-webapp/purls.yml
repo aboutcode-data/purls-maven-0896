@@ -1,4 +1,16 @@
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.10?classifier=sources
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.10?type=war
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.11?classifier=sources
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.11?type=war
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.12?classifier=sources
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.12?type=war
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.4?classifier=sources
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.4?type=war
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.5?classifier=sources
 - pkg:maven/com.blazebit/blaze-utils-webapp@0.1.5?type=war
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.7?classifier=sources
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.7?type=war
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.8?classifier=sources
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.8?type=war
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.9?classifier=sources
+- pkg:maven/com.blazebit/blaze-utils-webapp@0.1.9?type=war

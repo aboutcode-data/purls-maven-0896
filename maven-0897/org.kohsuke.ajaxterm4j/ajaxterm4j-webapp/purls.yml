@@ -10,3 +10,5 @@
 - pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.4?type=war
 - pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.6?classifier=sources
 - pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.6?type=war
+- pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.7?classifier=sources
+- pkg:maven/org.kohsuke.ajaxterm4j/ajaxterm4j-webapp@1.7?type=war

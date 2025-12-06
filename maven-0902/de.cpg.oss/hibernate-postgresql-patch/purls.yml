@@ -1,0 +1,2 @@
+- pkg:maven/de.cpg.oss/hibernate-postgresql-patch@1.0.0
+- pkg:maven/de.cpg.oss/hibernate-postgresql-patch@1.0.0?classifier=sources

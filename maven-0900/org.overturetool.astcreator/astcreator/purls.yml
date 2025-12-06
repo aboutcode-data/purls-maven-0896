@@ -1,2 +1,4 @@
 - pkg:maven/org.overturetool.astcreator/astcreator@1.6.4
 - pkg:maven/org.overturetool.astcreator/astcreator@1.6.4?classifier=sources
+- pkg:maven/org.overturetool.astcreator/astcreator@1.6.6
+- pkg:maven/org.overturetool.astcreator/astcreator@1.6.6?classifier=sources

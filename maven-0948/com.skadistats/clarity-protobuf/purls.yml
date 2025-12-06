@@ -1,0 +1,4 @@
+- pkg:maven/com.skadistats/clarity-protobuf@1
+- pkg:maven/com.skadistats/clarity-protobuf@1?classifier=sources
+- pkg:maven/com.skadistats/clarity-protobuf@2
+- pkg:maven/com.skadistats/clarity-protobuf@2?classifier=sources

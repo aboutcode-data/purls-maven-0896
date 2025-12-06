@@ -1,0 +1,4 @@
+- pkg:maven/io.rny.dropwizard.modules/dropwizard-cmis@0.1.0
+- pkg:maven/io.rny.dropwizard.modules/dropwizard-cmis@0.1.0?classifier=sources
+- pkg:maven/io.rny.dropwizard.modules/dropwizard-cmis@0.7.1
+- pkg:maven/io.rny.dropwizard.modules/dropwizard-cmis@0.7.1?classifier=sources

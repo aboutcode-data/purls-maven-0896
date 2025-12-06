@@ -1,2 +1,4 @@
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@1.0
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@1.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@1.1
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@1.1?classifier=sources

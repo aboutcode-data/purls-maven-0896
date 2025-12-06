@@ -1,0 +1,4 @@
+- pkg:maven/com.xeiam.xchange/xchange-empoex@3.0.0
+- pkg:maven/com.xeiam.xchange/xchange-empoex@3.0.0?classifier=sources
+- pkg:maven/com.xeiam.xchange/xchange-empoex@3.1.0
+- pkg:maven/com.xeiam.xchange/xchange-empoex@3.1.0?classifier=sources

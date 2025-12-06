@@ -14,3 +14,5 @@
 - pkg:maven/net.sourceforge.xazzle/xazzle@0.37?classifier=sources
 - pkg:maven/net.sourceforge.xazzle/xazzle@0.38
 - pkg:maven/net.sourceforge.xazzle/xazzle@0.38?classifier=sources
+- pkg:maven/net.sourceforge.xazzle/xazzle@0.39
+- pkg:maven/net.sourceforge.xazzle/xazzle@0.39?classifier=sources

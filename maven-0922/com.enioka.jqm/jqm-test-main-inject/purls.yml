@@ -1,2 +1,4 @@
 - pkg:maven/com.enioka.jqm/jqm-test-main-inject@1.1.6
 - pkg:maven/com.enioka.jqm/jqm-test-main-inject@1.1.6?classifier=sources
+- pkg:maven/com.enioka.jqm/jqm-test-main-inject@1.2.1
+- pkg:maven/com.enioka.jqm/jqm-test-main-inject@1.2.1?classifier=sources

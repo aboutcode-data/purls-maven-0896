@@ -77,6 +77,12 @@
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.39?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.3?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.4
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.41
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.41?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.42
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.42?classifier=sources
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.43
+- pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.43?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.4?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.5
 - pkg:maven/org.jasig.resourceserver/resource-server-utils@1.0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks@1.0
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks@1.0?classifier=sources
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks@1.1
+- pkg:maven/org.codehaus.sonar-plugins.css/css-checks@1.1?classifier=sources

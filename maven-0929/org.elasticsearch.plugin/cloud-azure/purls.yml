@@ -1,0 +1,6 @@
+- pkg:maven/org.elasticsearch.plugin/cloud-azure@2.0.0-beta1?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/cloud-azure@2.0.0-beta2?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/cloud-azure@2.0.0-rc1?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/cloud-azure@2.0.0?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/cloud-azure@2.0.1?classifier=sources
+- pkg:maven/org.elasticsearch.plugin/cloud-azure@2.1.0?classifier=sources

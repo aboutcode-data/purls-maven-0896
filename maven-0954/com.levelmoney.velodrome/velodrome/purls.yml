@@ -1,0 +1,4 @@
+- pkg:maven/com.levelmoney.velodrome/velodrome@0.9.3?classifier=sources
+- pkg:maven/com.levelmoney.velodrome/velodrome@0.9.3?type=aar
+- pkg:maven/com.levelmoney.velodrome/velodrome@1.0?classifier=sources
+- pkg:maven/com.levelmoney.velodrome/velodrome@1.0?type=aar

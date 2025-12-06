@@ -1,0 +1,4 @@
+- pkg:maven/org.carewebframework/org.carewebframework.cal.ui.patientphoto@3.1.0
+- pkg:maven/org.carewebframework/org.carewebframework.cal.ui.patientphoto@3.1.0?classifier=sources
+- pkg:maven/org.carewebframework/org.carewebframework.cal.ui.patientphoto@4.0.0
+- pkg:maven/org.carewebframework/org.carewebframework.cal.ui.patientphoto@4.0.0?classifier=sources

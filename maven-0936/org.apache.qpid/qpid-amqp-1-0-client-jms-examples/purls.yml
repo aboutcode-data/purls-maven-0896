@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-client-jms-examples@0.30
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-client-jms-examples@0.30?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-client-jms-examples@0.32
+- pkg:maven/org.apache.qpid/qpid-amqp-1-0-client-jms-examples@0.32?classifier=sources

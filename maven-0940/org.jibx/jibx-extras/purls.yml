@@ -24,3 +24,5 @@
 - pkg:maven/org.jibx/jibx-extras@1.2.4?classifier=sources
 - pkg:maven/org.jibx/jibx-extras@1.2.5
 - pkg:maven/org.jibx/jibx-extras@1.2.5?classifier=sources
+- pkg:maven/org.jibx/jibx-extras@1.2.6
+- pkg:maven/org.jibx/jibx-extras@1.2.6?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.clusterra/clusterra-iam-email@1.1.0.RELEASE
+- pkg:maven/com.clusterra/clusterra-iam-email@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.clusterra/clusterra-iam-email@1.1.1.RELEASE
+- pkg:maven/com.clusterra/clusterra-iam-email@1.1.1.RELEASE?classifier=sources
+- pkg:maven/com.clusterra/clusterra-iam-email@1.2.1.RELEASE
+- pkg:maven/com.clusterra/clusterra-iam-email@1.2.1.RELEASE?classifier=sources

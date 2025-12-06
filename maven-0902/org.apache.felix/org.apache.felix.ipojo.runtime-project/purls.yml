@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.felix/org.apache.felix.ipojo.runtime-project@1.11.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.ipojo.runtime-project@1.11.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.ipojo.runtime-project@1.12.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.ipojo.runtime-project@1.12.1?classifier=source-release&type=zip

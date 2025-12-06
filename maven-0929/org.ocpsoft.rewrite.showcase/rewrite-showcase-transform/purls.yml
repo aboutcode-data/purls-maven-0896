@@ -30,3 +30,17 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@2.0.8.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@2.0.9.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@2.0.9.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha10?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha10?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha1?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha1?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha2?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha2?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha3?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha3?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha4?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha4?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha5?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha5?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha6?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.0.0.Alpha6?type=war

@@ -6,3 +6,5 @@
 - pkg:maven/com.lapis.jsfexporter/export-type-xml@1.0.1.Final?classifier=sources
 - pkg:maven/com.lapis.jsfexporter/export-type-xml@1.0.2.Final
 - pkg:maven/com.lapis.jsfexporter/export-type-xml@1.0.2.Final?classifier=sources
+- pkg:maven/com.lapis.jsfexporter/export-type-xml@1.0.3.Final
+- pkg:maven/com.lapis.jsfexporter/export-type-xml@1.0.3.Final?classifier=sources

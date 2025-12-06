@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container.itest.karaf@2.2.0
+- pkg:maven/org.apache.aries.jpa/org.apache.aries.jpa.container.itest.karaf@2.2.0?classifier=sources

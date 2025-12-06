@@ -12,3 +12,11 @@
 - pkg:maven/org.bitstrings.maven/nbm-tools@3.11.1-beta-1?classifier=sources
 - pkg:maven/org.bitstrings.maven/nbm-tools@3.11.1?classifier=sources
 - pkg:maven/org.bitstrings.maven/nbm-tools@3.11?classifier=sources
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.13.2
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.13.2-2
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.13.2-2?classifier=sources
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.13.2?classifier=sources
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.14-1
+- pkg:maven/org.bitstrings.maven/nbm-tools@3.14-1?classifier=sources
+- pkg:maven/org.bitstrings.maven/nbm-tools@4.1
+- pkg:maven/org.bitstrings.maven/nbm-tools@4.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.nudge.apm/probe-java-api@3.0
+- pkg:maven/org.nudge.apm/probe-java-api@3.0?classifier=sources

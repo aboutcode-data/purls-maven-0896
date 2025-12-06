@@ -1,0 +1,4 @@
+- pkg:maven/com.github.rayboot.svr/svr@2.0.0?classifier=sources
+- pkg:maven/com.github.rayboot.svr/svr@2.0.0?type=aar
+- pkg:maven/com.github.rayboot.svr/svr@2.2.0?classifier=sources
+- pkg:maven/com.github.rayboot.svr/svr@2.2.0?type=aar

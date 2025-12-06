@@ -8,3 +8,7 @@
 - pkg:maven/net.adamcin.httpsig/net.adamcin.httpsig.osgi@1.0.4?classifier=sources
 - pkg:maven/net.adamcin.httpsig/net.adamcin.httpsig.osgi@1.0.6
 - pkg:maven/net.adamcin.httpsig/net.adamcin.httpsig.osgi@1.0.6?classifier=sources
+- pkg:maven/net.adamcin.httpsig/net.adamcin.httpsig.osgi@1.1.0
+- pkg:maven/net.adamcin.httpsig/net.adamcin.httpsig.osgi@1.1.0?classifier=sources
+- pkg:maven/net.adamcin.httpsig/net.adamcin.httpsig.osgi@1.2.0
+- pkg:maven/net.adamcin.httpsig/net.adamcin.httpsig.osgi@1.2.0?classifier=sources

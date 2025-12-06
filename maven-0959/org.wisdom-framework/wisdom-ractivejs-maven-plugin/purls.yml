@@ -1,0 +1,6 @@
+- pkg:maven/org.wisdom-framework/wisdom-ractivejs-maven-plugin@0.1.2
+- pkg:maven/org.wisdom-framework/wisdom-ractivejs-maven-plugin@0.1.2?classifier=source-release&type=zip
+- pkg:maven/org.wisdom-framework/wisdom-ractivejs-maven-plugin@0.1.2?classifier=sources
+- pkg:maven/org.wisdom-framework/wisdom-ractivejs-maven-plugin@0.1.4
+- pkg:maven/org.wisdom-framework/wisdom-ractivejs-maven-plugin@0.1.4?classifier=source-release&type=zip
+- pkg:maven/org.wisdom-framework/wisdom-ractivejs-maven-plugin@0.1.4?classifier=sources

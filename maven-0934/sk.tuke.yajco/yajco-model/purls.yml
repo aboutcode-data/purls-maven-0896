@@ -1,2 +1,4 @@
 - pkg:maven/sk.tuke.yajco/yajco-model@0.5
+- pkg:maven/sk.tuke.yajco/yajco-model@0.5.9
+- pkg:maven/sk.tuke.yajco/yajco-model@0.5.9?classifier=sources
 - pkg:maven/sk.tuke.yajco/yajco-model@0.5?classifier=sources

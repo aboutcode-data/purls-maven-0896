@@ -4,3 +4,5 @@
 - pkg:maven/com.google.gwt.eventbinder/eventbinder-sample@1.0.1?type=war
 - pkg:maven/com.google.gwt.eventbinder/eventbinder-sample@1.0.2?classifier=sources
 - pkg:maven/com.google.gwt.eventbinder/eventbinder-sample@1.0.2?type=war
+- pkg:maven/com.google.gwt.eventbinder/eventbinder-sample@1.1.0?classifier=sources
+- pkg:maven/com.google.gwt.eventbinder/eventbinder-sample@1.1.0?type=war

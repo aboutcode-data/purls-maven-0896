@@ -1,0 +1,6 @@
+- pkg:maven/com.theagilemonkeys.meets/meets-core@0.1.1
+- pkg:maven/com.theagilemonkeys.meets/meets-core@0.1.1?classifier=sources
+- pkg:maven/com.theagilemonkeys.meets/meets-core@0.1.2
+- pkg:maven/com.theagilemonkeys.meets/meets-core@0.1.2?classifier=sources
+- pkg:maven/com.theagilemonkeys.meets/meets-core@0.2.0
+- pkg:maven/com.theagilemonkeys.meets/meets-core@0.2.0?classifier=sources

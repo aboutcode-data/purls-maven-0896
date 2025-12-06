@@ -1,0 +1,2 @@
+- pkg:maven/org.tomitribe/tomitribe-http-signatures@1.0
+- pkg:maven/org.tomitribe/tomitribe-http-signatures@1.0?classifier=sources

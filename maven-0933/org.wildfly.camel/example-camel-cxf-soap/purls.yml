@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.camel/example-camel-cxf-soap@2.0.0.CR1?classifier=sources
+- pkg:maven/org.wildfly.camel/example-camel-cxf-soap@2.0.0.CR1?type=war

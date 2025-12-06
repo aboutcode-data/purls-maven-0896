@@ -1,0 +1,4 @@
+- pkg:maven/uk.co.codezen/composer-maven-plugin@1.0
+- pkg:maven/uk.co.codezen/composer-maven-plugin@1.0?classifier=sources
+- pkg:maven/uk.co.codezen/composer-maven-plugin@1.1
+- pkg:maven/uk.co.codezen/composer-maven-plugin@1.1?classifier=sources

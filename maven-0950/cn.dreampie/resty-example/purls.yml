@@ -1,0 +1,2 @@
+- pkg:maven/cn.dreampie/resty-example@1.0?classifier=sources
+- pkg:maven/cn.dreampie/resty-example@1.0?type=war

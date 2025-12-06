@@ -1,0 +1,2 @@
+- pkg:maven/de.greenrobot/eventbus-annotation-processor@3.0.0-beta1
+- pkg:maven/de.greenrobot/eventbus-annotation-processor@3.0.0-beta1?classifier=sources

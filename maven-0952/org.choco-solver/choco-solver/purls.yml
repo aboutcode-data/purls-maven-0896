@@ -1,0 +1,10 @@
+- pkg:maven/org.choco-solver/choco-solver@3.3.0
+- pkg:maven/org.choco-solver/choco-solver@3.3.0?classifier=sources
+- pkg:maven/org.choco-solver/choco-solver@3.3.1
+- pkg:maven/org.choco-solver/choco-solver@3.3.1-j7
+- pkg:maven/org.choco-solver/choco-solver@3.3.1-j7?classifier=sources
+- pkg:maven/org.choco-solver/choco-solver@3.3.1?classifier=sources
+- pkg:maven/org.choco-solver/choco-solver@3.3.2
+- pkg:maven/org.choco-solver/choco-solver@3.3.2-j7
+- pkg:maven/org.choco-solver/choco-solver@3.3.2-j7?classifier=sources
+- pkg:maven/org.choco-solver/choco-solver@3.3.2?classifier=sources

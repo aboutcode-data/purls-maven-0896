@@ -1,0 +1,8 @@
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.10.0
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.10.0?classifier=sources
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.6.0
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.6.0?classifier=sources
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.7.0
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.7.0?classifier=sources
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.8.0
+- pkg:maven/com.wix.restaurants/common-protocol-api@1.8.0?classifier=sources

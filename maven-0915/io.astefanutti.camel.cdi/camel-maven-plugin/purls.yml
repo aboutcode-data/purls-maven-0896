@@ -1,0 +1,2 @@
+- pkg:maven/io.astefanutti.camel.cdi/camel-maven-plugin@1.1.0
+- pkg:maven/io.astefanutti.camel.cdi/camel-maven-plugin@1.1.0?classifier=sources

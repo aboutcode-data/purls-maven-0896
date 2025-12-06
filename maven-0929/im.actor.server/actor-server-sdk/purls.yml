@@ -1,0 +1,4 @@
+- pkg:maven/im.actor.server/actor-server-sdk@1.0.3
+- pkg:maven/im.actor.server/actor-server-sdk@1.0.3?classifier=sources
+- pkg:maven/im.actor.server/actor-server-sdk@1.0.8
+- pkg:maven/im.actor.server/actor-server-sdk@1.0.8?classifier=sources

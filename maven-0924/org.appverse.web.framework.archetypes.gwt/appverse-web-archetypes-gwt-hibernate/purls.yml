@@ -1,0 +1,4 @@
+- pkg:maven/org.appverse.web.framework.archetypes.gwt/appverse-web-archetypes-gwt-hibernate@1.4-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.archetypes.gwt/appverse-web-archetypes-gwt-hibernate@1.4.1-MILESTONE_2?classifier=sources
+- pkg:maven/org.appverse.web.framework.archetypes.gwt/appverse-web-archetypes-gwt-hibernate@1.5.0-RELEASE?classifier=sources
+- pkg:maven/org.appverse.web.framework.archetypes.gwt/appverse-web-archetypes-gwt-hibernate@1.5.3-RELEASE?classifier=sources

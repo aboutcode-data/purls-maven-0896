@@ -1,0 +1,4 @@
+- pkg:maven/org.mapdb/mapdb-hz-offheap@0.8
+- pkg:maven/org.mapdb/mapdb-hz-offheap@0.8?classifier=sources
+- pkg:maven/org.mapdb/mapdb-hz-offheap@3.5.A
+- pkg:maven/org.mapdb/mapdb-hz-offheap@3.5.A?classifier=sources

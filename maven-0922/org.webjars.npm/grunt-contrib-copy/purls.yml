@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/grunt-contrib-copy@0.8.0
+- pkg:maven/org.webjars.npm/grunt-contrib-copy@0.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/info.debatty/sparkpackage-maven-plugin@0.1
+- pkg:maven/info.debatty/sparkpackage-maven-plugin@0.1?classifier=sources

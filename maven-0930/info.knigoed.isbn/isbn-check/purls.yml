@@ -1,0 +1,2 @@
+- pkg:maven/info.knigoed.isbn/isbn-check@1.0
+- pkg:maven/info.knigoed.isbn/isbn-check@1.0?classifier=sources

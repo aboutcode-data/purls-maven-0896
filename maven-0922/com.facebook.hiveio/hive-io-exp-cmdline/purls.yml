@@ -26,6 +26,8 @@
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.22?classifier=sources
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.23
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.23?classifier=sources
+- pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.26
+- pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.26?classifier=sources
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.8
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.8?classifier=sources
 - pkg:maven/com.facebook.hiveio/hive-io-exp-cmdline@0.9

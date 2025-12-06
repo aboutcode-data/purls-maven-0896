@@ -1,0 +1,2 @@
+- pkg:maven/com.cesarferreira.catkit/catkit@0.3.0?classifier=sources
+- pkg:maven/com.cesarferreira.catkit/catkit@0.3.0?type=aar

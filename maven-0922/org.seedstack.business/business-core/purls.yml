@@ -1,0 +1,8 @@
+- pkg:maven/org.seedstack.business/business-core@2.0.0
+- pkg:maven/org.seedstack.business/business-core@2.0.0-M2
+- pkg:maven/org.seedstack.business/business-core@2.0.0-M2?classifier=sources
+- pkg:maven/org.seedstack.business/business-core@2.0.0-M3
+- pkg:maven/org.seedstack.business/business-core@2.0.0-M3?classifier=sources
+- pkg:maven/org.seedstack.business/business-core@2.0.0?classifier=sources
+- pkg:maven/org.seedstack.business/business-core@2.1.0
+- pkg:maven/org.seedstack.business/business-core@2.1.0?classifier=sources

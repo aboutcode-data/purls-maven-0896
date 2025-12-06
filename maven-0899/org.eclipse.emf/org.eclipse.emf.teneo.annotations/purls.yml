@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.teneo.annotations@2.0.1-v201310012125?classifier=sources
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.teneo.annotations@2.0.1-v201311180843
 - pkg:maven/org.eclipse.emf/org.eclipse.emf.teneo.annotations@2.0.1-v201311180843?classifier=sources
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.teneo.annotations@2.1.0-v201501071531
+- pkg:maven/org.eclipse.emf/org.eclipse.emf.teneo.annotations@2.1.0-v201501071531?classifier=sources

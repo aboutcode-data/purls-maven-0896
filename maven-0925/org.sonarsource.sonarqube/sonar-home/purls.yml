@@ -1,0 +1,10 @@
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2-RC2
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2-RC2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2-RC3
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2-RC3?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2-RC4
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2-RC4?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.2?classifier=sources
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.3-RC1
+- pkg:maven/org.sonarsource.sonarqube/sonar-home@5.3-RC1?classifier=sources

@@ -2,3 +2,13 @@
 - pkg:maven/org.mobicents.cluster/timers@1.13.1.FINAL?classifier=sources
 - pkg:maven/org.mobicents.cluster/timers@1.14.0.FINAL
 - pkg:maven/org.mobicents.cluster/timers@1.14.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.cluster/timers@1.15.10
+- pkg:maven/org.mobicents.cluster/timers@1.15.10?classifier=sources
+- pkg:maven/org.mobicents.cluster/timers@1.15.6
+- pkg:maven/org.mobicents.cluster/timers@1.15.6?classifier=sources
+- pkg:maven/org.mobicents.cluster/timers@1.15.7
+- pkg:maven/org.mobicents.cluster/timers@1.15.7?classifier=sources
+- pkg:maven/org.mobicents.cluster/timers@1.15.8
+- pkg:maven/org.mobicents.cluster/timers@1.15.8?classifier=sources
+- pkg:maven/org.mobicents.cluster/timers@1.15.9
+- pkg:maven/org.mobicents.cluster/timers@1.15.9?classifier=sources

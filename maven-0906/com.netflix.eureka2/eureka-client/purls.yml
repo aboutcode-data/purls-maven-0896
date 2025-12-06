@@ -1,0 +1,8 @@
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP1
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP1?classifier=sources
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP2
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP2?classifier=sources
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP3
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP3?classifier=sources
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP4
+- pkg:maven/com.netflix.eureka2/eureka-client@2.0.0-DP4?classifier=sources

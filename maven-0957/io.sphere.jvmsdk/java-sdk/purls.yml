@@ -1,0 +1,4 @@
+- pkg:maven/io.sphere.jvmsdk/java-sdk@1.0.0-M2
+- pkg:maven/io.sphere.jvmsdk/java-sdk@1.0.0-M2?classifier=sources
+- pkg:maven/io.sphere.jvmsdk/java-sdk@1.0.0-M3
+- pkg:maven/io.sphere.jvmsdk/java-sdk@1.0.0-M3?classifier=sources

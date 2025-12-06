@@ -20,6 +20,8 @@
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.20?classifier=sources
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.21
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.21?classifier=sources
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.22
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.22?classifier=sources
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.6
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.6?classifier=sources
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-svc-camel@3.7

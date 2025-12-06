@@ -1,0 +1,6 @@
+- pkg:maven/org.nd4j/jcusparse-windows64@5.5
+- pkg:maven/org.nd4j/jcusparse-windows64@5.5?classifier=sources
+- pkg:maven/org.nd4j/jcusparse-windows64@6.0
+- pkg:maven/org.nd4j/jcusparse-windows64@6.0?classifier=sources
+- pkg:maven/org.nd4j/jcusparse-windows64@6.5
+- pkg:maven/org.nd4j/jcusparse-windows64@6.5?classifier=sources

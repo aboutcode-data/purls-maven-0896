@@ -1,0 +1,4 @@
+- pkg:maven/im.mange/shoreditch_2.10@1
+- pkg:maven/im.mange/shoreditch_2.10@1.0.51
+- pkg:maven/im.mange/shoreditch_2.10@1.0.51?classifier=sources
+- pkg:maven/im.mange/shoreditch_2.10@1?classifier=sources

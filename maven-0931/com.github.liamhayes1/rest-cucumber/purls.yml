@@ -1,0 +1,6 @@
+- pkg:maven/com.github.liamhayes1/rest-cucumber@0.0.2
+- pkg:maven/com.github.liamhayes1/rest-cucumber@0.0.2?classifier=sources
+- pkg:maven/com.github.liamhayes1/rest-cucumber@1.0
+- pkg:maven/com.github.liamhayes1/rest-cucumber@1.0?classifier=sources
+- pkg:maven/com.github.liamhayes1/rest-cucumber@1.1
+- pkg:maven/com.github.liamhayes1/rest-cucumber@1.1?classifier=sources

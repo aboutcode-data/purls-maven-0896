@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jclouds.labs/digitalocean2@1.9.1
+- pkg:maven/org.apache.jclouds.labs/digitalocean2@1.9.1?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/org.apache.airavata/airavata-registry-api@0.10?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-registry-api@0.11
 - pkg:maven/org.apache.airavata/airavata-registry-api@0.11?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-registry-api@0.12
+- pkg:maven/org.apache.airavata/airavata-registry-api@0.12?classifier=sources
+- pkg:maven/org.apache.airavata/airavata-registry-api@0.13
+- pkg:maven/org.apache.airavata/airavata-registry-api@0.13?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-registry-api@0.3-incubating
 - pkg:maven/org.apache.airavata/airavata-registry-api@0.3-incubating?classifier=sources
 - pkg:maven/org.apache.airavata/airavata-registry-api@0.4-incubating

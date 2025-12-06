@@ -1,0 +1,2 @@
+- pkg:maven/com.stratio.maven/sphinx-maven-plugin@2.0.0
+- pkg:maven/com.stratio.maven/sphinx-maven-plugin@2.0.0?classifier=sources

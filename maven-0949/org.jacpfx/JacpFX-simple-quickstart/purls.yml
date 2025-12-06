@@ -1,0 +1,5 @@
+- pkg:maven/org.jacpfx/JacpFX-simple-quickstart@2.0-RC3?classifier=sources
+- pkg:maven/org.jacpfx/JacpFX-simple-quickstart@2.0-RC4?classifier=sources
+- pkg:maven/org.jacpfx/JacpFX-simple-quickstart@2.0.1?classifier=sources
+- pkg:maven/org.jacpfx/JacpFX-simple-quickstart@2.0.2?classifier=sources
+- pkg:maven/org.jacpfx/JacpFX-simple-quickstart@2.0?classifier=sources

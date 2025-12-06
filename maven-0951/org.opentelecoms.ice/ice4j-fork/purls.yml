@@ -1,0 +1,4 @@
+- pkg:maven/org.opentelecoms.ice/ice4j-fork@1.0%2Bf.1
+- pkg:maven/org.opentelecoms.ice/ice4j-fork@1.0%2Bf.1?classifier=sources
+- pkg:maven/org.opentelecoms.ice/ice4j-fork@1.0%2Bf.4
+- pkg:maven/org.opentelecoms.ice/ice4j-fork@1.0%2Bf.4?classifier=sources

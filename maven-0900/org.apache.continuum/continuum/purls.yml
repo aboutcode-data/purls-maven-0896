@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.continuum/continuum@1.4.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.continuum/continuum@1.4.2?classifier=source-release&type=zip

@@ -1,0 +1,4 @@
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.03.01
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.03.01-jdk
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.03.01-jdk?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@15.03.01?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.alexvasilkov/android-sign-release@0.3.6
+- pkg:maven/com.alexvasilkov/android-sign-release@0.3.6?classifier=sources
+- pkg:maven/com.alexvasilkov/android-sign-release@0.3.7
+- pkg:maven/com.alexvasilkov/android-sign-release@0.3.7?classifier=sources
+- pkg:maven/com.alexvasilkov/android-sign-release@0.4
+- pkg:maven/com.alexvasilkov/android-sign-release@0.4?classifier=sources
+- pkg:maven/com.alexvasilkov/android-sign-release@0.5
+- pkg:maven/com.alexvasilkov/android-sign-release@0.5?classifier=sources
+- pkg:maven/com.alexvasilkov/android-sign-release@0.7
+- pkg:maven/com.alexvasilkov/android-sign-release@0.7?classifier=sources
+- pkg:maven/com.alexvasilkov/android-sign-release@0.8
+- pkg:maven/com.alexvasilkov/android-sign-release@0.8.1
+- pkg:maven/com.alexvasilkov/android-sign-release@0.8.1?classifier=sources
+- pkg:maven/com.alexvasilkov/android-sign-release@0.8?classifier=sources

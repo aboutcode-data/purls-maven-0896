@@ -1,0 +1,4 @@
+- pkg:maven/com.github.fracpete/ptstemmer@2008.6.27
+- pkg:maven/com.github.fracpete/ptstemmer@2008.6.27?classifier=sources
+- pkg:maven/com.github.fracpete/ptstemmer@2010.1.13
+- pkg:maven/com.github.fracpete/ptstemmer@2010.1.13?classifier=sources

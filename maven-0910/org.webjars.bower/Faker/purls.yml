@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/Faker@2.1.5
+- pkg:maven/org.webjars.bower/Faker@2.1.5?classifier=sources
+- pkg:maven/org.webjars.bower/Faker@3.0.1
+- pkg:maven/org.webjars.bower/Faker@3.0.1?classifier=sources

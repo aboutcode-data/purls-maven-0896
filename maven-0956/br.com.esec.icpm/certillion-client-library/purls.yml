@@ -1,0 +1,8 @@
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.3
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.3?classifier=sources
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.6
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.6?classifier=sources
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.7
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.7?classifier=sources
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.8
+- pkg:maven/br.com.esec.icpm/certillion-client-library@1.1.8?classifier=sources

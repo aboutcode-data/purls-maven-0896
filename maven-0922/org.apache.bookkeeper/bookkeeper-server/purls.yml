@@ -3,3 +3,8 @@
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.0
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.1
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.2
+- pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.3
+- pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.4
+- pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.3.0
+- pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.3.1
+- pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.3.2

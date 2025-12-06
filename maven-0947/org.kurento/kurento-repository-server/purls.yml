@@ -1,0 +1,2 @@
+- pkg:maven/org.kurento/kurento-repository-server@6.0.0?classifier=sources
+- pkg:maven/org.kurento/kurento-repository-server@6.0.0?type=zip

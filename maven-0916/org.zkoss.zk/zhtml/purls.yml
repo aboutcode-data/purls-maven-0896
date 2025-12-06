@@ -99,3 +99,11 @@
 - pkg:maven/org.zkoss.zk/zhtml@7.0.0?classifier=sources
 - pkg:maven/org.zkoss.zk/zhtml@7.0.1
 - pkg:maven/org.zkoss.zk/zhtml@7.0.1?classifier=sources
+- pkg:maven/org.zkoss.zk/zhtml@7.0.2
+- pkg:maven/org.zkoss.zk/zhtml@7.0.2?classifier=sources
+- pkg:maven/org.zkoss.zk/zhtml@7.0.3
+- pkg:maven/org.zkoss.zk/zhtml@7.0.3?classifier=sources
+- pkg:maven/org.zkoss.zk/zhtml@8.0.0
+- pkg:maven/org.zkoss.zk/zhtml@8.0.0-RC
+- pkg:maven/org.zkoss.zk/zhtml@8.0.0-RC?classifier=sources
+- pkg:maven/org.zkoss.zk/zhtml@8.0.0?classifier=sources

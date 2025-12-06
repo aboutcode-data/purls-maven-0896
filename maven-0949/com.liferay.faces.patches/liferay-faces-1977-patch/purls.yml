@@ -1,0 +1,4 @@
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1977-patch@3.1.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1977-patch@3.1.4-ga5?classifier=sources
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1977-patch@3.2.4-ga5
+- pkg:maven/com.liferay.faces.patches/liferay-faces-1977-patch@3.2.4-ga5?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.advantageous.boon/boon-util@0.5.0
+- pkg:maven/io.advantageous.boon/boon-util@0.5.0?classifier=sources
+- pkg:maven/io.advantageous.boon/boon-util@0.5.2
+- pkg:maven/io.advantageous.boon/boon-util@0.5.2?classifier=sources
+- pkg:maven/io.advantageous.boon/boon-util@0.5.3
+- pkg:maven/io.advantageous.boon/boon-util@0.5.3?classifier=sources
+- pkg:maven/io.advantageous.boon/boon-util@0.5.4
+- pkg:maven/io.advantageous.boon/boon-util@0.5.4?classifier=sources
+- pkg:maven/io.advantageous.boon/boon-util@0.5.5
+- pkg:maven/io.advantageous.boon/boon-util@0.5.5?classifier=sources
+- pkg:maven/io.advantageous.boon/boon-util@0.5.6.RELEASE
+- pkg:maven/io.advantageous.boon/boon-util@0.5.6.RELEASE?classifier=sources

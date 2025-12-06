@@ -1,0 +1,2 @@
+- pkg:maven/io.rudin.cdi/cdi-usermanagement-web@1.4?classifier=sources
+- pkg:maven/io.rudin.cdi/cdi-usermanagement-web@1.4?type=war

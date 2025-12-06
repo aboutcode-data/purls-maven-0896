@@ -14,6 +14,8 @@
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.1.0-b037?classifier=sources
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.1.2-b001
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.1.2-b001?classifier=sources
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.1.2-b002
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.1.2-b002?classifier=sources
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.2.0-b006
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@3.2.0-b006?classifier=sources
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.0.0-b001
@@ -32,3 +34,5 @@
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.0.0-b007?classifier=sources
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.0.0-b008
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.0.0-b008?classifier=sources
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.0.1
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.0.1?classifier=sources

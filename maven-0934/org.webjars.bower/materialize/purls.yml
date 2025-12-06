@@ -1,0 +1,8 @@
+- pkg:maven/org.webjars.bower/materialize@0.96.1
+- pkg:maven/org.webjars.bower/materialize@0.96.1?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@0.97.0
+- pkg:maven/org.webjars.bower/materialize@0.97.0?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@0.97.1
+- pkg:maven/org.webjars.bower/materialize@0.97.1?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@0.97.2
+- pkg:maven/org.webjars.bower/materialize@0.97.2?classifier=sources

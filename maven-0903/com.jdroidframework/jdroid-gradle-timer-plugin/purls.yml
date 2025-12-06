@@ -1,0 +1,4 @@
+- pkg:maven/com.jdroidframework/jdroid-gradle-timer-plugin@0.9.0
+- pkg:maven/com.jdroidframework/jdroid-gradle-timer-plugin@0.9.0?classifier=sources
+- pkg:maven/com.jdroidframework/jdroid-gradle-timer-plugin@0.9.1
+- pkg:maven/com.jdroidframework/jdroid-gradle-timer-plugin@0.9.1?classifier=sources

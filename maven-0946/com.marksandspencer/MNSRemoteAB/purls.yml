@@ -1,0 +1,2 @@
+- pkg:maven/com.marksandspencer/MNSRemoteAB@1.0.0?classifier=sources
+- pkg:maven/com.marksandspencer/MNSRemoteAB@1.0.0?type=aar

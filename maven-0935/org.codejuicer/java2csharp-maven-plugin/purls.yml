@@ -1,0 +1,2 @@
+- pkg:maven/org.codejuicer/java2csharp-maven-plugin@1.0.2
+- pkg:maven/org.codejuicer/java2csharp-maven-plugin@1.0.2?classifier=sources

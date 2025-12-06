@@ -1,0 +1,4 @@
+- pkg:maven/de.alpharogroup/wicket.bootstrap2@6.18.0
+- pkg:maven/de.alpharogroup/wicket.bootstrap2@6.18.0?classifier=sources
+- pkg:maven/de.alpharogroup/wicket.bootstrap2@6.20.0
+- pkg:maven/de.alpharogroup/wicket.bootstrap2@6.20.0?classifier=sources

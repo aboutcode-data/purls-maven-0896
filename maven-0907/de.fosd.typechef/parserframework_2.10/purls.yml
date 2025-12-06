@@ -1,2 +1,4 @@
 - pkg:maven/de.fosd.typechef/parserframework_2.10@0.3.4
 - pkg:maven/de.fosd.typechef/parserframework_2.10@0.3.4?classifier=sources
+- pkg:maven/de.fosd.typechef/parserframework_2.10@0.3.7
+- pkg:maven/de.fosd.typechef/parserframework_2.10@0.3.7?classifier=sources
