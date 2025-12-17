@@ -1,0 +1,8 @@
+- pkg:maven/com.simiacryptus/java-analysis@1.4.17
+- pkg:maven/com.simiacryptus/java-analysis@1.4.17?classifier=sources
+- pkg:maven/com.simiacryptus/java-analysis@1.4.20
+- pkg:maven/com.simiacryptus/java-analysis@1.4.20?classifier=sources
+- pkg:maven/com.simiacryptus/java-analysis@1.4.23
+- pkg:maven/com.simiacryptus/java-analysis@1.4.23?classifier=sources
+- pkg:maven/com.simiacryptus/java-analysis@1.4.7
+- pkg:maven/com.simiacryptus/java-analysis@1.4.7?classifier=sources

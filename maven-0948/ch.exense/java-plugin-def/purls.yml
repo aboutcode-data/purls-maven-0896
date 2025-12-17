@@ -1,0 +1,2 @@
+- pkg:maven/ch.exense/java-plugin-def@3.6.1
+- pkg:maven/ch.exense/java-plugin-def@3.6.1?classifier=sources

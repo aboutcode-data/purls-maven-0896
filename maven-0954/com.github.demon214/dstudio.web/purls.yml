@@ -1,0 +1,4 @@
+- pkg:maven/com.github.demon214/dstudio.web@0.0.1
+- pkg:maven/com.github.demon214/dstudio.web@0.0.11
+- pkg:maven/com.github.demon214/dstudio.web@0.0.11?classifier=sources
+- pkg:maven/com.github.demon214/dstudio.web@0.0.1?classifier=sources

@@ -70,3 +70,13 @@
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.3.7.425?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.0.440
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.0.440?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.1.589
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.1.589?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.1.637
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.1.637?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.1.695
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.1.695?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.2.783
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.2.783?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.3.928
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@4.4.3.928?classifier=sources

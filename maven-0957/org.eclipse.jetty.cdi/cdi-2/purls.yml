@@ -1,2 +1,14 @@
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.RC0
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.RC0?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.RC1
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.RC1?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.v20180503
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.v20180503?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.11.v20180605
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.11.v20180605?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.8.v20171121
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.8.v20171121?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.8.v20180619
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.8.v20180619?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.9.v20180320
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.9.v20180320?classifier=sources

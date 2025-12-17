@@ -1,0 +1,2 @@
+- pkg:maven/com.wf2311/redis-distributed-lock-common@1.0.0
+- pkg:maven/com.wf2311/redis-distributed-lock-common@1.0.0?classifier=sources

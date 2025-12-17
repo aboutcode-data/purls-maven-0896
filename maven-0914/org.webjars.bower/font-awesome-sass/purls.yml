@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/font-awesome-sass@4.6.2
 - pkg:maven/org.webjars.bower/font-awesome-sass@4.6.2?classifier=sources
+- pkg:maven/org.webjars.bower/font-awesome-sass@4.7.0
+- pkg:maven/org.webjars.bower/font-awesome-sass@4.7.0?classifier=sources

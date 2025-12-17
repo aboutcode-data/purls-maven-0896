@@ -1,0 +1,2 @@
+- pkg:maven/com.github.combineads/hbase-testing-util-shaded@4.13.1
+- pkg:maven/com.github.combineads/hbase-testing-util-shaded@4.13.1?classifier=sources

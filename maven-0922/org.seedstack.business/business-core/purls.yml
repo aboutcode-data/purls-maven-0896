@@ -34,3 +34,5 @@
 - pkg:maven/org.seedstack.business/business-core@4.1.1?classifier=sources
 - pkg:maven/org.seedstack.business/business-core@4.2.0
 - pkg:maven/org.seedstack.business/business-core@4.2.0?classifier=sources
+- pkg:maven/org.seedstack.business/business-core@4.2.1
+- pkg:maven/org.seedstack.business/business-core@4.2.1?classifier=sources

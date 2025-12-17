@@ -16,3 +16,5 @@
 - pkg:maven/org.ops4j.ramler/ramler-html@0.7.0?classifier=sources
 - pkg:maven/org.ops4j.ramler/ramler-html@0.8.0
 - pkg:maven/org.ops4j.ramler/ramler-html@0.8.0?classifier=sources
+- pkg:maven/org.ops4j.ramler/ramler-html@0.9.0
+- pkg:maven/org.ops4j.ramler/ramler-html@0.9.0?classifier=sources

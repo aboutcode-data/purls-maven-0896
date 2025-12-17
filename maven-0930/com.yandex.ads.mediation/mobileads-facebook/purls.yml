@@ -1,0 +1,2 @@
+- pkg:maven/com.yandex.ads.mediation/mobileads-facebook@1.0.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-facebook@1.0.0?type=aar

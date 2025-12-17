@@ -18,3 +18,5 @@
 - pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.2.173?classifier=sources
 - pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.2.174
 - pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.2.174?classifier=sources
+- pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.2.181
+- pkg:maven/fish.payara.blue.extras/payara-embedded-web@4.1.2.181?classifier=sources

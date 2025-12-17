@@ -8,3 +8,5 @@
 - pkg:maven/com.amdocs.zusammen/zusammen-core-api@0.2.4?classifier=sources
 - pkg:maven/com.amdocs.zusammen/zusammen-core-api@0.3.0
 - pkg:maven/com.amdocs.zusammen/zusammen-core-api@0.3.0?classifier=sources
+- pkg:maven/com.amdocs.zusammen/zusammen-core-api@1.0.0
+- pkg:maven/com.amdocs.zusammen/zusammen-core-api@1.0.0?classifier=sources

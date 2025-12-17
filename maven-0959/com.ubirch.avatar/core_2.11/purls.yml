@@ -43,8 +43,12 @@
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.26?classifier=sources
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.27
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.27?classifier=sources
+- pkg:maven/com.ubirch.avatar/core_2.11@0.3.29
+- pkg:maven/com.ubirch.avatar/core_2.11@0.3.29?classifier=sources
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.2?classifier=sources
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.3
+- pkg:maven/com.ubirch.avatar/core_2.11@0.3.30
+- pkg:maven/com.ubirch.avatar/core_2.11@0.3.30?classifier=sources
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.3?classifier=sources
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.4
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.4?classifier=sources
@@ -58,3 +62,7 @@
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.8?classifier=sources
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.9
 - pkg:maven/com.ubirch.avatar/core_2.11@0.3.9?classifier=sources
+- pkg:maven/com.ubirch.avatar/core_2.11@0.4.0
+- pkg:maven/com.ubirch.avatar/core_2.11@0.4.0?classifier=sources
+- pkg:maven/com.ubirch.avatar/core_2.11@0.4.1
+- pkg:maven/com.ubirch.avatar/core_2.11@0.4.1?classifier=sources

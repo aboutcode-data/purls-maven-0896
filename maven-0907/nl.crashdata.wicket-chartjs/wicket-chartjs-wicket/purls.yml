@@ -2,6 +2,12 @@
 - pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.10?classifier=sources
 - pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.11
 - pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.11?classifier=sources
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.12
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.12?classifier=sources
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.13
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.13?classifier=sources
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.50
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.50?classifier=sources
 - pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.7
 - pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.7?classifier=sources
 - pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-wicket@0.9

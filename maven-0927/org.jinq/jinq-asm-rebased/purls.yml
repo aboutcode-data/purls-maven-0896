@@ -24,6 +24,10 @@
 - pkg:maven/org.jinq/jinq-asm-rebased@1.8.21?classifier=sources
 - pkg:maven/org.jinq/jinq-asm-rebased@1.8.22
 - pkg:maven/org.jinq/jinq-asm-rebased@1.8.22?classifier=sources
+- pkg:maven/org.jinq/jinq-asm-rebased@1.8.23
+- pkg:maven/org.jinq/jinq-asm-rebased@1.8.23?classifier=sources
+- pkg:maven/org.jinq/jinq-asm-rebased@1.8.24
+- pkg:maven/org.jinq/jinq-asm-rebased@1.8.24?classifier=sources
 - pkg:maven/org.jinq/jinq-asm-rebased@1.8.4
 - pkg:maven/org.jinq/jinq-asm-rebased@1.8.4?classifier=sources
 - pkg:maven/org.jinq/jinq-asm-rebased@1.8.5

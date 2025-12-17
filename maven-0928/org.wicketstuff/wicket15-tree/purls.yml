@@ -6,3 +6,5 @@
 - pkg:maven/org.wicketstuff/wicket15-tree@7.0.2?classifier=sources
 - pkg:maven/org.wicketstuff/wicket15-tree@7.1.0
 - pkg:maven/org.wicketstuff/wicket15-tree@7.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicket15-tree@8.0.0
+- pkg:maven/org.wicketstuff/wicket15-tree@8.0.0?classifier=sources

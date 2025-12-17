@@ -1,4 +1,6 @@
 - pkg:maven/io.bootique.kotlin/bootique-kotlin-config@0.24
 - pkg:maven/io.bootique.kotlin/bootique-kotlin-config@0.24?classifier=sources
+- pkg:maven/io.bootique.kotlin/bootique-kotlin-config@0.25
+- pkg:maven/io.bootique.kotlin/bootique-kotlin-config@0.25?classifier=sources
 - pkg:maven/io.bootique.kotlin/bootique-kotlin-config@0.4
 - pkg:maven/io.bootique.kotlin/bootique-kotlin-config@0.4?classifier=sources

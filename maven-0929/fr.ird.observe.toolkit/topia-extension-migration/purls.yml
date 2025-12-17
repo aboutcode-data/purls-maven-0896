@@ -1,0 +1,6 @@
+- pkg:maven/fr.ird.observe.toolkit/topia-extension-migration@3.6
+- pkg:maven/fr.ird.observe.toolkit/topia-extension-migration@3.6?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/topia-extension-migration@3.7
+- pkg:maven/fr.ird.observe.toolkit/topia-extension-migration@3.7?classifier=sources
+- pkg:maven/fr.ird.observe.toolkit/topia-extension-migration@3.8
+- pkg:maven/fr.ird.observe.toolkit/topia-extension-migration@3.8?classifier=sources

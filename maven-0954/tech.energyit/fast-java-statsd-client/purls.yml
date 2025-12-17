@@ -1,0 +1,4 @@
+- pkg:maven/tech.energyit/fast-java-statsd-client@0.4
+- pkg:maven/tech.energyit/fast-java-statsd-client@0.4?classifier=sources
+- pkg:maven/tech.energyit/fast-java-statsd-client@0.5
+- pkg:maven/tech.energyit/fast-java-statsd-client@0.5?classifier=sources

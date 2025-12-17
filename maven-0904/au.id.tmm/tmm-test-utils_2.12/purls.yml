@@ -1,0 +1,6 @@
+- pkg:maven/au.id.tmm/tmm-test-utils_2.12@0.2.15
+- pkg:maven/au.id.tmm/tmm-test-utils_2.12@0.2.15?classifier=sources
+- pkg:maven/au.id.tmm/tmm-test-utils_2.12@0.2.17
+- pkg:maven/au.id.tmm/tmm-test-utils_2.12@0.2.17-rc.0.0%2B713995006822ed49f71e7eb6d3e872a447f5a965.uncommitted
+- pkg:maven/au.id.tmm/tmm-test-utils_2.12@0.2.17-rc.0.0%2B713995006822ed49f71e7eb6d3e872a447f5a965.uncommitted?classifier=sources
+- pkg:maven/au.id.tmm/tmm-test-utils_2.12@0.2.17?classifier=sources

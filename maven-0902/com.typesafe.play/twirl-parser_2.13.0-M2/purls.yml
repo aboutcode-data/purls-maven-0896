@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.play/twirl-parser_2.13.0-M2@1.3.13
 - pkg:maven/com.typesafe.play/twirl-parser_2.13.0-M2@1.3.13?classifier=sources
+- pkg:maven/com.typesafe.play/twirl-parser_2.13.0-M2@1.3.14
+- pkg:maven/com.typesafe.play/twirl-parser_2.13.0-M2@1.3.14?classifier=sources

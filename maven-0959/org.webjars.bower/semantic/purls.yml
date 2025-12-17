@@ -13,8 +13,14 @@
 - pkg:maven/org.webjars.bower/semantic@2.2.11?classifier=sources
 - pkg:maven/org.webjars.bower/semantic@2.2.13
 - pkg:maven/org.webjars.bower/semantic@2.2.13?classifier=sources
+- pkg:maven/org.webjars.bower/semantic@2.2.14
+- pkg:maven/org.webjars.bower/semantic@2.2.14?classifier=sources
 - pkg:maven/org.webjars.bower/semantic@2.2.1?classifier=sources
 - pkg:maven/org.webjars.bower/semantic@2.2.2
 - pkg:maven/org.webjars.bower/semantic@2.2.2?classifier=sources
 - pkg:maven/org.webjars.bower/semantic@2.2.7
 - pkg:maven/org.webjars.bower/semantic@2.2.7?classifier=sources
+- pkg:maven/org.webjars.bower/semantic@2.3.0
+- pkg:maven/org.webjars.bower/semantic@2.3.0?classifier=sources
+- pkg:maven/org.webjars.bower/semantic@2.3.1
+- pkg:maven/org.webjars.bower/semantic@2.3.1?classifier=sources

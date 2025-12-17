@@ -48,3 +48,5 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.4.0.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.4.1.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.4.1.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.4.2.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-transform@3.4.2.Final?type=war

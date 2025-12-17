@@ -1,2 +1,4 @@
 - pkg:maven/eu.dindoffer/yin-pda-lib@1.0.0
 - pkg:maven/eu.dindoffer/yin-pda-lib@1.0.0?classifier=sources
+- pkg:maven/eu.dindoffer/yin-pda-lib@1.0.1
+- pkg:maven/eu.dindoffer/yin-pda-lib@1.0.1?classifier=sources

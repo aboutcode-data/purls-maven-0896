@@ -1,5 +1,7 @@
 - pkg:maven/org.webjars.bower/vaadin-progress-bar@1.0.0-alpha11
 - pkg:maven/org.webjars.bower/vaadin-progress-bar@1.0.0-alpha11?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-progress-bar@1.0.0-alpha12
+- pkg:maven/org.webjars.bower/vaadin-progress-bar@1.0.0-alpha12?classifier=sources
 - pkg:maven/org.webjars.bower/vaadin-progress-bar@1.0.0-alpha5
 - pkg:maven/org.webjars.bower/vaadin-progress-bar@1.0.0-alpha5?classifier=sources
 - pkg:maven/org.webjars.bower/vaadin-progress-bar@1.0.0-alpha6

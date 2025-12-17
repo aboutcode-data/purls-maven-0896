@@ -2,6 +2,16 @@
 - pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.10?classifier=sources
 - pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.11
 - pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.11?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.12
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.12?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.13
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.13?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.14
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.14?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.16
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.16?classifier=sources
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.17
+- pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.17?classifier=sources
 - pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.6
 - pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.6?classifier=sources
 - pkg:maven/nl.talsmasoftware.context/mdc-propagation@0.4.7

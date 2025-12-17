@@ -2,3 +2,5 @@
 - pkg:maven/com.softwaremill.macmemo/macros_2.11@0.2?classifier=sources
 - pkg:maven/com.softwaremill.macmemo/macros_2.11@0.3
 - pkg:maven/com.softwaremill.macmemo/macros_2.11@0.3?classifier=sources
+- pkg:maven/com.softwaremill.macmemo/macros_2.11@0.4
+- pkg:maven/com.softwaremill.macmemo/macros_2.11@0.4?classifier=sources

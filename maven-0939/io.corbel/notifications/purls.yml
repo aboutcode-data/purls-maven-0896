@@ -24,3 +24,5 @@
 - pkg:maven/io.corbel/notifications@1.38.0?classifier=sources
 - pkg:maven/io.corbel/notifications@1.39.0
 - pkg:maven/io.corbel/notifications@1.39.0?classifier=sources
+- pkg:maven/io.corbel/notifications@1.40.0
+- pkg:maven/io.corbel/notifications@1.40.0?classifier=sources

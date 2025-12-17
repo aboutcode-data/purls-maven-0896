@@ -10,5 +10,7 @@
 - pkg:maven/org.dmfs/essentials@1.14?classifier=sources
 - pkg:maven/org.dmfs/essentials@1.15
 - pkg:maven/org.dmfs/essentials@1.15?classifier=sources
+- pkg:maven/org.dmfs/essentials@1.16
+- pkg:maven/org.dmfs/essentials@1.16?classifier=sources
 - pkg:maven/org.dmfs/essentials@1.9
 - pkg:maven/org.dmfs/essentials@1.9?classifier=sources

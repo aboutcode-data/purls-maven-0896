@@ -1,0 +1,4 @@
+- pkg:maven/me.16s/result-state_2.12@0.0.8
+- pkg:maven/me.16s/result-state_2.12@0.0.8?classifier=sources
+- pkg:maven/me.16s/result-state_2.12@0.1.2
+- pkg:maven/me.16s/result-state_2.12@0.1.2?classifier=sources

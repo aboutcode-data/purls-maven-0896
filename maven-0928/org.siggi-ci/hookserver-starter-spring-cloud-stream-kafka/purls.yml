@@ -1,0 +1,2 @@
+- pkg:maven/org.siggi-ci/hookserver-starter-spring-cloud-stream-kafka@0.12.0
+- pkg:maven/org.siggi-ci/hookserver-starter-spring-cloud-stream-kafka@0.12.0?classifier=sources

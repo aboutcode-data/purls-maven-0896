@@ -1,0 +1,2 @@
+- pkg:maven/com.quhaodian.discover/discover-quartz@1.8.1
+- pkg:maven/com.quhaodian.discover/discover-quartz@1.8.1?classifier=sources

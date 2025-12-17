@@ -18,3 +18,15 @@
 - pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.4.2?classifier=sources
 - pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.4.4
 - pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.4.4?classifier=sources
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.5.0
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.5.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.6.0
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.6.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.6.2
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.6.2?classifier=sources
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.7.0
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.7.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.8.0
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.8.0?classifier=sources
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.9.0
+- pkg:maven/io.wcm.devops.conga/conga-maven-plugin@1.9.0?classifier=sources

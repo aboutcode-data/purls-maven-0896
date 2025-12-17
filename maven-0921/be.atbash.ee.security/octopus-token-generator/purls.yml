@@ -1,0 +1,2 @@
+- pkg:maven/be.atbash.ee.security/octopus-token-generator@0.3
+- pkg:maven/be.atbash.ee.security/octopus-token-generator@0.3?classifier=sources

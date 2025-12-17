@@ -1,2 +1,4 @@
 - pkg:maven/kz.greetgo/greetgo.scheduling@2.0.0
 - pkg:maven/kz.greetgo/greetgo.scheduling@2.0.0?classifier=sources
+- pkg:maven/kz.greetgo/greetgo.scheduling@2.0.2
+- pkg:maven/kz.greetgo/greetgo.scheduling@2.0.2?classifier=sources

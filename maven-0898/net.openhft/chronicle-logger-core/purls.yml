@@ -1,0 +1,2 @@
+- pkg:maven/net.openhft/chronicle-logger-core@4.0.1
+- pkg:maven/net.openhft/chronicle-logger-core@4.0.1?classifier=sources

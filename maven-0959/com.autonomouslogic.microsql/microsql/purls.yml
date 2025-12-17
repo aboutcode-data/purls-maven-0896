@@ -1,0 +1,2 @@
+- pkg:maven/com.autonomouslogic.microsql/microsql@0.0.3
+- pkg:maven/com.autonomouslogic.microsql/microsql@0.0.3?classifier=sources

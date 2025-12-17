@@ -1,2 +1,6 @@
 - pkg:maven/cc.drx/gen_2.11@di
 - pkg:maven/cc.drx/gen_2.11@di?classifier=sources
+- pkg:maven/cc.drx/gen_2.11@dj
+- pkg:maven/cc.drx/gen_2.11@dj?classifier=sources
+- pkg:maven/cc.drx/gen_2.11@dk
+- pkg:maven/cc.drx/gen_2.11@dk?classifier=sources

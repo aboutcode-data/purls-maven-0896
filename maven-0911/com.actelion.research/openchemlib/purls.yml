@@ -46,3 +46,13 @@
 - pkg:maven/com.actelion.research/openchemlib@2017.9.0?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2018.1.0
 - pkg:maven/com.actelion.research/openchemlib@2018.1.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2018.2.0
+- pkg:maven/com.actelion.research/openchemlib@2018.2.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2018.3.0
+- pkg:maven/com.actelion.research/openchemlib@2018.3.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2018.4.0
+- pkg:maven/com.actelion.research/openchemlib@2018.4.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2018.5.0
+- pkg:maven/com.actelion.research/openchemlib@2018.5.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2018.6.0
+- pkg:maven/com.actelion.research/openchemlib@2018.6.0?classifier=sources

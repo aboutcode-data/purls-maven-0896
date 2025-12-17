@@ -1,2 +1,4 @@
 - pkg:maven/com.jporm/jpo-commons-json-api@8.8.0
 - pkg:maven/com.jporm/jpo-commons-json-api@8.8.0?classifier=sources
+- pkg:maven/com.jporm/jpo-commons-json-api@8.9.0
+- pkg:maven/com.jporm/jpo-commons-json-api@8.9.0?classifier=sources

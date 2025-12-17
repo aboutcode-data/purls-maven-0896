@@ -36,6 +36,8 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@1.7.3?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@1.7.4
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@1.7.4?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@1.7.5
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@1.7.5?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.0
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.0?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.1
@@ -44,3 +46,9 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.2?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.3
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.3?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.4
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.4?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.5
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.5?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.6
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@2.0.6?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/org.jrebirth.af/presentation@8.0.5?classifier=sources
 - pkg:maven/org.jrebirth.af/presentation@8.5.0
 - pkg:maven/org.jrebirth.af/presentation@8.5.0?classifier=sources
+- pkg:maven/org.jrebirth.af/presentation@8.6.0
+- pkg:maven/org.jrebirth.af/presentation@8.6.0?classifier=sources

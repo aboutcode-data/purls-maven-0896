@@ -76,6 +76,8 @@
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.26-b09
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.27
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.27?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.5
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.5.1
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-jetty-http@2.5.1?classifier=sources

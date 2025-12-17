@@ -26,3 +26,5 @@
 - pkg:maven/io.taig.android/soap_2.11@4.0.2?type=aar
 - pkg:maven/io.taig.android/soap_2.11@4.0.3?classifier=sources
 - pkg:maven/io.taig.android/soap_2.11@4.0.3?type=aar
+- pkg:maven/io.taig.android/soap_2.11@4.1.0?classifier=sources
+- pkg:maven/io.taig.android/soap_2.11@4.1.0?type=aar

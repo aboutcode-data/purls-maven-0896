@@ -1,2 +1,6 @@
 - pkg:maven/org.dkpro.tc/dkpro-tc-testing@0.9.0
 - pkg:maven/org.dkpro.tc/dkpro-tc-testing@0.9.0?classifier=sources
+- pkg:maven/org.dkpro.tc/dkpro-tc-testing@1.0.0
+- pkg:maven/org.dkpro.tc/dkpro-tc-testing@1.0.0?classifier=sources
+- pkg:maven/org.dkpro.tc/dkpro-tc-testing@1.0.1
+- pkg:maven/org.dkpro.tc/dkpro-tc-testing@1.0.1?classifier=sources

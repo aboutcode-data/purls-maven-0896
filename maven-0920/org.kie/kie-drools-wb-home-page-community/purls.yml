@@ -76,3 +76,7 @@
 - pkg:maven/org.kie/kie-drools-wb-home-page-community@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie/kie-drools-wb-home-page-community@7.5.0.Final
 - pkg:maven/org.kie/kie-drools-wb-home-page-community@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-home-page-community@7.6.0.Final
+- pkg:maven/org.kie/kie-drools-wb-home-page-community@7.6.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-drools-wb-home-page-community@7.7.0.Final
+- pkg:maven/org.kie/kie-drools-wb-home-page-community@7.7.0.Final?classifier=sources

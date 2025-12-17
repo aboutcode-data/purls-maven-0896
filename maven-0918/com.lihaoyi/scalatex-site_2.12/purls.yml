@@ -1,5 +1,7 @@
 - pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.11
 - pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.11?classifier=sources
+- pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.12
+- pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.12?classifier=sources
 - pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.7
 - pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.7?classifier=sources
 - pkg:maven/com.lihaoyi/scalatex-site_2.12@0.3.8

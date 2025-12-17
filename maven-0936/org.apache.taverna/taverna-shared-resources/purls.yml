@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.taverna/taverna-shared-resources@3-incubating
+- pkg:maven/org.apache.taverna/taverna-shared-resources@3-incubating?classifier=sources

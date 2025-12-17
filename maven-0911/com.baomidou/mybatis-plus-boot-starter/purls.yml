@@ -1,0 +1,6 @@
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@2.1.9
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@2.1.9?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@2.2.0
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@2.2.0?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@2.3
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@2.3?classifier=sources

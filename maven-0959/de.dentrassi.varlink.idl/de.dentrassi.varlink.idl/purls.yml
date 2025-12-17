@@ -1,2 +1,6 @@
 - pkg:maven/de.dentrassi.varlink.idl/de.dentrassi.varlink.idl@0.0.1
 - pkg:maven/de.dentrassi.varlink.idl/de.dentrassi.varlink.idl@0.0.1?classifier=sources
+- pkg:maven/de.dentrassi.varlink.idl/de.dentrassi.varlink.idl@0.1.0
+- pkg:maven/de.dentrassi.varlink.idl/de.dentrassi.varlink.idl@0.1.0?classifier=sources
+- pkg:maven/de.dentrassi.varlink.idl/de.dentrassi.varlink.idl@0.2.0
+- pkg:maven/de.dentrassi.varlink.idl/de.dentrassi.varlink.idl@0.2.0?classifier=sources

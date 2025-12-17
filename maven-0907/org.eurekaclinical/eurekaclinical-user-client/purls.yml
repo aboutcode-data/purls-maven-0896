@@ -1,3 +1,4 @@
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0-Alpha-10
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0-Alpha-10?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0-Alpha-11
@@ -48,3 +49,6 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0-Alpha-8?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0-Alpha-9
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0-Alpha-9?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.0?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.1
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.1?classifier=sources

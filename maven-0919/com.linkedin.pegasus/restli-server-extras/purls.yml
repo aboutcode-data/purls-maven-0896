@@ -20,6 +20,8 @@
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@11.0.17?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@17.0.4
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@17.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@19.0.3
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@19.0.3?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@2.1.0
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@2.1.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@2.12.7
@@ -28,6 +30,10 @@
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@2.2.5?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@2.6.0
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@2.6.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@20.0.4
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@20.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@21.0.0
+- pkg:maven/com.linkedin.pegasus/restli-server-extras@21.0.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@3.1.1
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@3.1.1?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-server-extras@3.1.2

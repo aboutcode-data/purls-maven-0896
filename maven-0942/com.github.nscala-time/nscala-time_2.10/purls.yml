@@ -32,6 +32,8 @@
 - pkg:maven/com.github.nscala-time/nscala-time_2.10@2.18.0?classifier=sources
 - pkg:maven/com.github.nscala-time/nscala-time_2.10@2.2.0
 - pkg:maven/com.github.nscala-time/nscala-time_2.10@2.2.0?classifier=sources
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@2.20.0
+- pkg:maven/com.github.nscala-time/nscala-time_2.10@2.20.0?classifier=sources
 - pkg:maven/com.github.nscala-time/nscala-time_2.10@2.4.0
 - pkg:maven/com.github.nscala-time/nscala-time_2.10@2.4.0?classifier=sources
 - pkg:maven/com.github.nscala-time/nscala-time_2.10@2.6.0

@@ -1,0 +1,12 @@
+- pkg:maven/org.j-im/jim-server@1.0.0.v20180413-RELEASE
+- pkg:maven/org.j-im/jim-server@1.0.0.v20180413-RELEASE?classifier=sources
+- pkg:maven/org.j-im/jim-server@1.0.1.v20180515-RELEASE
+- pkg:maven/org.j-im/jim-server@1.0.1.v20180515-RELEASE?classifier=sources
+- pkg:maven/org.j-im/jim-server@1.1.0.v20180601-RELEASE
+- pkg:maven/org.j-im/jim-server@1.1.0.v20180601-RELEASE?classifier=sources
+- pkg:maven/org.j-im/jim-server@2.0.0.v20180520-RELEASE
+- pkg:maven/org.j-im/jim-server@2.0.0.v20180520-RELEASE?classifier=sources
+- pkg:maven/org.j-im/jim-server@2.0.1.v20180601-RELEASE
+- pkg:maven/org.j-im/jim-server@2.0.1.v20180601-RELEASE?classifier=sources
+- pkg:maven/org.j-im/jim-server@2.1.0.v20180611-RELEASE
+- pkg:maven/org.j-im/jim-server@2.1.0.v20180611-RELEASE?classifier=sources

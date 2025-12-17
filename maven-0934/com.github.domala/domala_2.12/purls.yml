@@ -14,3 +14,5 @@
 - pkg:maven/com.github.domala/domala_2.12@0.1.0-beta.7?classifier=sources
 - pkg:maven/com.github.domala/domala_2.12@0.1.0-beta.8
 - pkg:maven/com.github.domala/domala_2.12@0.1.0-beta.8?classifier=sources
+- pkg:maven/com.github.domala/domala_2.12@0.1.0-beta.9
+- pkg:maven/com.github.domala/domala_2.12@0.1.0-beta.9?classifier=sources

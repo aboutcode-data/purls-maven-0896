@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.twitter/org.wso2.carbon.extension.identity.authenticator.twitter.connector@1.0.10
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.twitter/org.wso2.carbon.extension.identity.authenticator.twitter.connector@1.0.10?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.twitter/org.wso2.carbon.extension.identity.authenticator.twitter.connector@1.0.8
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.twitter/org.wso2.carbon.extension.identity.authenticator.twitter.connector@1.0.8?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.twitter/org.wso2.carbon.extension.identity.authenticator.twitter.connector@1.0.9
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.twitter/org.wso2.carbon.extension.identity.authenticator.twitter.connector@1.0.9?classifier=source-release&type=zip

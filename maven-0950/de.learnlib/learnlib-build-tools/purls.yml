@@ -8,6 +8,10 @@
 - pkg:maven/de.learnlib/learnlib-build-tools@0.11.2?classifier=sources
 - pkg:maven/de.learnlib/learnlib-build-tools@0.12.0
 - pkg:maven/de.learnlib/learnlib-build-tools@0.12.0?classifier=sources
+- pkg:maven/de.learnlib/learnlib-build-tools@0.13.0
+- pkg:maven/de.learnlib/learnlib-build-tools@0.13.0?classifier=sources
+- pkg:maven/de.learnlib/learnlib-build-tools@0.13.1
+- pkg:maven/de.learnlib/learnlib-build-tools@0.13.1?classifier=sources
 - pkg:maven/de.learnlib/learnlib-build-tools@0.9.0
 - pkg:maven/de.learnlib/learnlib-build-tools@0.9.0?classifier=sources
 - pkg:maven/de.learnlib/learnlib-build-tools@0.9.1

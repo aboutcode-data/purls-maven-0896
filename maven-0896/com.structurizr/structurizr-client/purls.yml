@@ -1,0 +1,4 @@
+- pkg:maven/com.structurizr/structurizr-client@1.0.0-RC5
+- pkg:maven/com.structurizr/structurizr-client@1.0.0-RC5?classifier=sources
+- pkg:maven/com.structurizr/structurizr-client@1.0.0-RC6
+- pkg:maven/com.structurizr/structurizr-client@1.0.0-RC6?classifier=sources

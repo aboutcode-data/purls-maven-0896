@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.das/wso2das-parent@3.1.0-update1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.das/wso2das-parent@3.2.0-RC1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.das/wso2das-parent@3.2.0-alpha2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.das/wso2das-parent@3.2.0-alpha?classifier=source-release&type=zip
+- pkg:maven/org.wso2.das/wso2das-parent@3.2.0-beta?classifier=source-release&type=zip
+- pkg:maven/org.wso2.das/wso2das-parent@3.2.0?classifier=source-release&type=zip

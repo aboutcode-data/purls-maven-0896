@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.bower/angular-ui-scroll@1.5.1?classifier=sources
 - pkg:maven/org.webjars.bower/angular-ui-scroll@1.5.2
 - pkg:maven/org.webjars.bower/angular-ui-scroll@1.5.2?classifier=sources
+- pkg:maven/org.webjars.bower/angular-ui-scroll@1.7.0
+- pkg:maven/org.webjars.bower/angular-ui-scroll@1.7.0?classifier=sources

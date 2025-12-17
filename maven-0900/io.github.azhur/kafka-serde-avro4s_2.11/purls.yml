@@ -1,0 +1,2 @@
+- pkg:maven/io.github.azhur/kafka-serde-avro4s_2.11@0.3.0
+- pkg:maven/io.github.azhur/kafka-serde-avro4s_2.11@0.3.0?classifier=sources

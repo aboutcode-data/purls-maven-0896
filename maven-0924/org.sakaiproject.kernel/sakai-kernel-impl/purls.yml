@@ -38,3 +38,6 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@11.3?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@11.4
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@11.4?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@12.0?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@12.1?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@12.2?classifier=sources

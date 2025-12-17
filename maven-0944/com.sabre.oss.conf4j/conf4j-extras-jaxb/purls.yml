@@ -1,0 +1,5 @@
+- pkg:maven/com.sabre.oss.conf4j/conf4j-extras-jaxb@1.0
+- pkg:maven/com.sabre.oss.conf4j/conf4j-extras-jaxb@1.0.RC1
+- pkg:maven/com.sabre.oss.conf4j/conf4j-extras-jaxb@1.0.RC2
+- pkg:maven/com.sabre.oss.conf4j/conf4j-extras-jaxb@1.0.RC2?classifier=sources
+- pkg:maven/com.sabre.oss.conf4j/conf4j-extras-jaxb@1.0?classifier=sources

@@ -247,3 +247,9 @@
 - pkg:maven/org.jboss.remoting/jboss-remoting@5.0.5.Final
 - pkg:maven/org.jboss.remoting/jboss-remoting@5.0.5.Final?classifier=source-release&type=zip
 - pkg:maven/org.jboss.remoting/jboss-remoting@5.0.5.Final?classifier=sources
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.6.Final
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.6.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.6.Final?classifier=sources
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.7.Final
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.7.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.remoting/jboss-remoting@5.0.7.Final?classifier=sources

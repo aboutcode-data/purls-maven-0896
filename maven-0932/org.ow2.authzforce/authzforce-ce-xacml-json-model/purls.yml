@@ -2,3 +2,5 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-json-model@1.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-json-model@1.1.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-json-model@1.1.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-json-model@2.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-xacml-json-model@2.0.0?classifier=sources

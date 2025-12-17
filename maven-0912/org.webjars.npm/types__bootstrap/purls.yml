@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/types__bootstrap@3.3.28?classifier=sources
 - pkg:maven/org.webjars.npm/types__bootstrap@3.3.32
 - pkg:maven/org.webjars.npm/types__bootstrap@3.3.32?classifier=sources
+- pkg:maven/org.webjars.npm/types__bootstrap@4.1.0
+- pkg:maven/org.webjars.npm/types__bootstrap@4.1.0?classifier=sources

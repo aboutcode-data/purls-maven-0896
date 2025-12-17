@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/tableexport@5.0.0
 - pkg:maven/org.webjars.npm/tableexport@5.0.0-rc.11
 - pkg:maven/org.webjars.npm/tableexport@5.0.0-rc.11?classifier=sources
+- pkg:maven/org.webjars.npm/tableexport@5.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.github.martinhaeusler/org.chronos.chronograph@0.5.7?classifier=sources
 - pkg:maven/com.github.martinhaeusler/org.chronos.chronograph@0.7.3
 - pkg:maven/com.github.martinhaeusler/org.chronos.chronograph@0.7.3?classifier=sources
+- pkg:maven/com.github.martinhaeusler/org.chronos.chronograph@0.9.1
+- pkg:maven/com.github.martinhaeusler/org.chronos.chronograph@0.9.1?classifier=sources

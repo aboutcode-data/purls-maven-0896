@@ -10,3 +10,5 @@
 - pkg:maven/com.ecfront.dew/cluster-spi-hazelcast@1.1.3?classifier=sources
 - pkg:maven/com.ecfront.dew/cluster-spi-hazelcast@1.1.4
 - pkg:maven/com.ecfront.dew/cluster-spi-hazelcast@1.1.4?classifier=sources
+- pkg:maven/com.ecfront.dew/cluster-spi-hazelcast@1.2.2-RC
+- pkg:maven/com.ecfront.dew/cluster-spi-hazelcast@1.2.2-RC?classifier=sources

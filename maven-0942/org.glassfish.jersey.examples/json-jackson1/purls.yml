@@ -100,3 +100,6 @@
 - pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.26?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.27
+- pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.27?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.27?classifier=sources

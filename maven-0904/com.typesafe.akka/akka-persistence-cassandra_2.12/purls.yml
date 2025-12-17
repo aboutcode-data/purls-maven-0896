@@ -48,6 +48,8 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.58?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.59
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.59?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.60
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.60?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.80
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.80-RC1
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.80-RC1?classifier=sources
@@ -56,3 +58,13 @@
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.80-RC3
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.80-RC3?classifier=sources
 - pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.80?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.81
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.81?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.82
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.82?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.83
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.83?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.84
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.84?classifier=sources
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.85
+- pkg:maven/com.typesafe.akka/akka-persistence-cassandra_2.12@0.85?classifier=sources

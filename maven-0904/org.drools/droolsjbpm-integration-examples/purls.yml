@@ -172,3 +172,9 @@
 - pkg:maven/org.drools/droolsjbpm-integration-examples@7.5.0.Final?classifier=sources
 - pkg:maven/org.drools/droolsjbpm-integration-examples@7.5.0.t018
 - pkg:maven/org.drools/droolsjbpm-integration-examples@7.5.0.t018?classifier=sources
+- pkg:maven/org.drools/droolsjbpm-integration-examples@7.6.0.Final
+- pkg:maven/org.drools/droolsjbpm-integration-examples@7.6.0.Final?classifier=sources
+- pkg:maven/org.drools/droolsjbpm-integration-examples@7.6.0.t022
+- pkg:maven/org.drools/droolsjbpm-integration-examples@7.6.0.t022?classifier=sources
+- pkg:maven/org.drools/droolsjbpm-integration-examples@7.7.0.Final
+- pkg:maven/org.drools/droolsjbpm-integration-examples@7.7.0.Final?classifier=sources

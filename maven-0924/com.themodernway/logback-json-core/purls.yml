@@ -1,0 +1,4 @@
+- pkg:maven/com.themodernway/logback-json-core@2.0.0-RELEASE
+- pkg:maven/com.themodernway/logback-json-core@2.0.0-RELEASE?classifier=sources
+- pkg:maven/com.themodernway/logback-json-core@2.0.1-RELEASE
+- pkg:maven/com.themodernway/logback-json-core@2.0.1-RELEASE?classifier=sources

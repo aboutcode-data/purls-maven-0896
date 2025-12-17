@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hyukjinkwon.hcatalog/hive-hcatalog-server-extensions@1.2.1.spark2
+- pkg:maven/com.github.hyukjinkwon.hcatalog/hive-hcatalog-server-extensions@1.2.1.spark2?classifier=sources

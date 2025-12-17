@@ -1,0 +1,6 @@
+- pkg:maven/fr.inria.repairnator/repairnator-dockerpool@1.0
+- pkg:maven/fr.inria.repairnator/repairnator-dockerpool@1.0?classifier=sources
+- pkg:maven/fr.inria.repairnator/repairnator-dockerpool@2.0
+- pkg:maven/fr.inria.repairnator/repairnator-dockerpool@2.0?classifier=sources
+- pkg:maven/fr.inria.repairnator/repairnator-dockerpool@2.1
+- pkg:maven/fr.inria.repairnator/repairnator-dockerpool@2.1?classifier=sources

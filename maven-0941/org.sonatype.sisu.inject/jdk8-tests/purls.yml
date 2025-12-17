@@ -1,0 +1,2 @@
+- pkg:maven/org.sonatype.sisu.inject/jdk8-tests@4.2.0
+- pkg:maven/org.sonatype.sisu.inject/jdk8-tests@4.2.0?classifier=sources

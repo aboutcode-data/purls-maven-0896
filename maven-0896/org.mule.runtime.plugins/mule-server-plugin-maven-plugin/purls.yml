@@ -1,0 +1,2 @@
+- pkg:maven/org.mule.runtime.plugins/mule-server-plugin-maven-plugin@1.1.1
+- pkg:maven/org.mule.runtime.plugins/mule-server-plugin-maven-plugin@1.1.1?classifier=sources

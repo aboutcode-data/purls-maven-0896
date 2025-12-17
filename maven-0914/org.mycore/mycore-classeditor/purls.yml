@@ -1,0 +1,2 @@
+- pkg:maven/org.mycore/mycore-classeditor@2018.05
+- pkg:maven/org.mycore/mycore-classeditor@2018.05?classifier=sources

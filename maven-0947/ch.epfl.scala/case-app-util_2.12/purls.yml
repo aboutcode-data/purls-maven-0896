@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/case-app-util_2.12@1.2.0-faster-compile-time
+- pkg:maven/ch.epfl.scala/case-app-util_2.12@1.2.0-faster-compile-time?classifier=sources

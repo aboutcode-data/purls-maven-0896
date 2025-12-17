@@ -25,3 +25,5 @@
 - pkg:maven/org.codehaus.woodstox/stax2-api@3.1.4?classifier=sources
 - pkg:maven/org.codehaus.woodstox/stax2-api@4.0.0
 - pkg:maven/org.codehaus.woodstox/stax2-api@4.0.0?classifier=sources
+- pkg:maven/org.codehaus.woodstox/stax2-api@4.1
+- pkg:maven/org.codehaus.woodstox/stax2-api@4.1?classifier=sources

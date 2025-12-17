@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vedenin.atoms/atoms-htmlparser@0.1-jsoup-draft
+- pkg:maven/com.github.vedenin.atoms/atoms-htmlparser@0.1-jsoup-draft?classifier=sources

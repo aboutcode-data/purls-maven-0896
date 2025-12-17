@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.jena/jena-osgi-features@3.5.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-osgi-features@3.6.0
 - pkg:maven/org.apache.jena/jena-osgi-features@3.6.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-osgi-features@3.7.0
+- pkg:maven/org.apache.jena/jena-osgi-features@3.7.0?classifier=sources

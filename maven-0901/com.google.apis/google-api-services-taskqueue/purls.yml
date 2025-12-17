@@ -304,6 +304,14 @@
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev51-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev51-1.23.0
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev51-1.23.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.21.0
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.21.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.22.0
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.23.0
+- pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta1-rev52-1.23.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta2-rev11-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta2-rev11-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-taskqueue@v1beta2-rev11-1.14.1-beta

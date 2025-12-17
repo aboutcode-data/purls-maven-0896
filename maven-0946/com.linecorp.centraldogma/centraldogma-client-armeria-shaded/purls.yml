@@ -1,0 +1,6 @@
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria-shaded@0.23.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria-shaded@0.24.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria-shaded@0.25.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria-shaded@0.26.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria-shaded@0.27.0?classifier=sources
+- pkg:maven/com.linecorp.centraldogma/centraldogma-client-armeria-shaded@0.28.0?classifier=sources

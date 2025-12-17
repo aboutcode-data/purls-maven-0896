@@ -8,3 +8,5 @@
 - pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@3.4.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@3.5.0
 - pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@3.5.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@4.0.0
+- pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.afrogleap.docustream/docustream@0.0.1?classifier=sources
+- pkg:maven/com.afrogleap.docustream/docustream@0.0.1?type=aar

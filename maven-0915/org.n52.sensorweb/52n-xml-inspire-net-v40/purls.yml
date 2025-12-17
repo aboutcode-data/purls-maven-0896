@@ -2,3 +2,7 @@
 - pkg:maven/org.n52.sensorweb/52n-xml-inspire-net-v40@2.2.0?classifier=sources
 - pkg:maven/org.n52.sensorweb/52n-xml-inspire-net-v40@2.3.0
 - pkg:maven/org.n52.sensorweb/52n-xml-inspire-net-v40@2.3.0?classifier=sources
+- pkg:maven/org.n52.sensorweb/52n-xml-inspire-net-v40@2.4.0
+- pkg:maven/org.n52.sensorweb/52n-xml-inspire-net-v40@2.4.0?classifier=sources
+- pkg:maven/org.n52.sensorweb/52n-xml-inspire-net-v40@2.5.0
+- pkg:maven/org.n52.sensorweb/52n-xml-inspire-net-v40@2.5.0?classifier=sources

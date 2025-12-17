@@ -46,6 +46,8 @@
 - pkg:maven/com.soywiz/korio-root@0.19.0?classifier=sources
 - pkg:maven/com.soywiz/korio-root@0.19.1
 - pkg:maven/com.soywiz/korio-root@0.19.1?classifier=sources
+- pkg:maven/com.soywiz/korio-root@0.20.0
+- pkg:maven/com.soywiz/korio-root@0.20.0?classifier=sources
 - pkg:maven/com.soywiz/korio-root@0.8.1
 - pkg:maven/com.soywiz/korio-root@0.8.1?classifier=sources
 - pkg:maven/com.soywiz/korio-root@0.8.2

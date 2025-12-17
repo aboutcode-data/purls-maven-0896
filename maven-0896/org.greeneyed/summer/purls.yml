@@ -1,0 +1,4 @@
+- pkg:maven/org.greeneyed/summer@0.1
+- pkg:maven/org.greeneyed/summer@0.1?classifier=sources
+- pkg:maven/org.greeneyed/summer@0.3
+- pkg:maven/org.greeneyed/summer@0.3?classifier=sources

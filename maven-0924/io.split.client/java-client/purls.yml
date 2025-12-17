@@ -96,7 +96,11 @@
 - pkg:maven/io.split.client/java-client@2.2.1?classifier=sources
 - pkg:maven/io.split.client/java-client@2.2.2
 - pkg:maven/io.split.client/java-client@2.2.2?classifier=sources
+- pkg:maven/io.split.client/java-client@2.3.0
 - pkg:maven/io.split.client/java-client@2.3.0-rc1
 - pkg:maven/io.split.client/java-client@2.3.0-rc1?classifier=sources
 - pkg:maven/io.split.client/java-client@2.3.0-rc2
 - pkg:maven/io.split.client/java-client@2.3.0-rc2?classifier=sources
+- pkg:maven/io.split.client/java-client@2.3.0?classifier=sources
+- pkg:maven/io.split.client/java-client@2.3.1
+- pkg:maven/io.split.client/java-client@2.3.1?classifier=sources

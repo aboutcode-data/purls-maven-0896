@@ -2,3 +2,7 @@
 - pkg:maven/org.jetbrains/annotations@13.0?classifier=sources
 - pkg:maven/org.jetbrains/annotations@15.0
 - pkg:maven/org.jetbrains/annotations@15.0?classifier=sources
+- pkg:maven/org.jetbrains/annotations@16.0.1
+- pkg:maven/org.jetbrains/annotations@16.0.1?classifier=sources
+- pkg:maven/org.jetbrains/annotations@16.0.2
+- pkg:maven/org.jetbrains/annotations@16.0.2?classifier=sources

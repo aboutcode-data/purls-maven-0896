@@ -1,0 +1,2 @@
+- pkg:maven/io.devcon5.commons/simple-rest-client@1.1
+- pkg:maven/io.devcon5.commons/simple-rest-client@1.1?classifier=sources

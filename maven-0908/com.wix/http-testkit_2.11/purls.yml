@@ -1,3 +1,5 @@
+- pkg:maven/com.wix/http-testkit_2.11@0.0.18
+- pkg:maven/com.wix/http-testkit_2.11@0.0.18?classifier=sources
 - pkg:maven/com.wix/http-testkit_2.11@0.1.0
 - pkg:maven/com.wix/http-testkit_2.11@0.1.0?classifier=sources
 - pkg:maven/com.wix/http-testkit_2.11@0.1.1
@@ -17,6 +19,10 @@
 - pkg:maven/com.wix/http-testkit_2.11@0.1.16?classifier=sources
 - pkg:maven/com.wix/http-testkit_2.11@0.1.17
 - pkg:maven/com.wix/http-testkit_2.11@0.1.17?classifier=sources
+- pkg:maven/com.wix/http-testkit_2.11@0.1.18
+- pkg:maven/com.wix/http-testkit_2.11@0.1.18?classifier=sources
+- pkg:maven/com.wix/http-testkit_2.11@0.1.19
+- pkg:maven/com.wix/http-testkit_2.11@0.1.19?classifier=sources
 - pkg:maven/com.wix/http-testkit_2.11@0.1.1?classifier=sources
 - pkg:maven/com.wix/http-testkit_2.11@0.1.2
 - pkg:maven/com.wix/http-testkit_2.11@0.1.2?classifier=sources

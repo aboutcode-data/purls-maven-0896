@@ -2,3 +2,7 @@
 - pkg:maven/net.eulerframework/euler-web-authentication@0.3.1?classifier=sources
 - pkg:maven/net.eulerframework/euler-web-authentication@0.3.2
 - pkg:maven/net.eulerframework/euler-web-authentication@0.3.2?classifier=sources
+- pkg:maven/net.eulerframework/euler-web-authentication@0.3.9
+- pkg:maven/net.eulerframework/euler-web-authentication@0.3.9?classifier=sources
+- pkg:maven/net.eulerframework/euler-web-authentication@1.0.0.M1
+- pkg:maven/net.eulerframework/euler-web-authentication@1.0.0.M1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.pulsar/pulsar-functions-metrics@2.0.0-rc1-incubating
+- pkg:maven/org.apache.pulsar/pulsar-functions-metrics@2.0.0-rc1-incubating?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-functions-metrics@2.0.1-incubating
+- pkg:maven/org.apache.pulsar/pulsar-functions-metrics@2.0.1-incubating?classifier=sources

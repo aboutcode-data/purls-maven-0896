@@ -1,0 +1,4 @@
+- pkg:maven/com.revenuecat.purchases/purchases@0.1.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@0.1.0?type=aar
+- pkg:maven/com.revenuecat.purchases/purchases@1.0.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@1.0.0?type=aar

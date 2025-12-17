@@ -50,6 +50,14 @@
 - pkg:maven/org.webjars.bower/moment@2.20.0?classifier=sources
 - pkg:maven/org.webjars.bower/moment@2.20.1
 - pkg:maven/org.webjars.bower/moment@2.20.1?classifier=sources
+- pkg:maven/org.webjars.bower/moment@2.21.0
+- pkg:maven/org.webjars.bower/moment@2.21.0?classifier=sources
+- pkg:maven/org.webjars.bower/moment@2.22.0
+- pkg:maven/org.webjars.bower/moment@2.22.0?classifier=sources
+- pkg:maven/org.webjars.bower/moment@2.22.1
+- pkg:maven/org.webjars.bower/moment@2.22.1?classifier=sources
+- pkg:maven/org.webjars.bower/moment@2.22.2
+- pkg:maven/org.webjars.bower/moment@2.22.2?classifier=sources
 - pkg:maven/org.webjars.bower/moment@2.3.1
 - pkg:maven/org.webjars.bower/moment@2.3.1?classifier=sources
 - pkg:maven/org.webjars.bower/moment@2.5.1
@@ -58,5 +66,7 @@
 - pkg:maven/org.webjars.bower/moment@2.6.0?classifier=sources
 - pkg:maven/org.webjars.bower/moment@2.8.2
 - pkg:maven/org.webjars.bower/moment@2.8.2?classifier=sources
+- pkg:maven/org.webjars.bower/moment@2.8.4
+- pkg:maven/org.webjars.bower/moment@2.8.4?classifier=sources
 - pkg:maven/org.webjars.bower/moment@2.9.0
 - pkg:maven/org.webjars.bower/moment@2.9.0?classifier=sources

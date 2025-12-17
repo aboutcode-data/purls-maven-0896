@@ -6,3 +6,5 @@
 - pkg:maven/ch.epfl.scala/collection-strawman_sjs0.6_2.13.0-M2@0.7.0?classifier=sources
 - pkg:maven/ch.epfl.scala/collection-strawman_sjs0.6_2.13.0-M2@0.8.0
 - pkg:maven/ch.epfl.scala/collection-strawman_sjs0.6_2.13.0-M2@0.8.0?classifier=sources
+- pkg:maven/ch.epfl.scala/collection-strawman_sjs0.6_2.13.0-M2@0.9.0
+- pkg:maven/ch.epfl.scala/collection-strawman_sjs0.6_2.13.0-M2@0.9.0?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/io.verizon.knobs/typesafe_2.11@4.0.31-scalaz-7.2?classifier=sources
 - pkg:maven/io.verizon.knobs/typesafe_2.11@5.0.32
 - pkg:maven/io.verizon.knobs/typesafe_2.11@5.0.32?classifier=sources
+- pkg:maven/io.verizon.knobs/typesafe_2.11@6.0.33
+- pkg:maven/io.verizon.knobs/typesafe_2.11@6.0.33?classifier=sources

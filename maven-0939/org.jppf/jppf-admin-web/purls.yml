@@ -1,0 +1,2 @@
+- pkg:maven/org.jppf/jppf-admin-web@6.0-alpha-4?classifier=sources
+- pkg:maven/org.jppf/jppf-admin-web@6.0-alpha-4?type=war

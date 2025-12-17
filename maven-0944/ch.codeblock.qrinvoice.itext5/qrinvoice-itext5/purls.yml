@@ -1,0 +1,4 @@
+- pkg:maven/ch.codeblock.qrinvoice.itext5/qrinvoice-itext5@0.7
+- pkg:maven/ch.codeblock.qrinvoice.itext5/qrinvoice-itext5@0.7?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.itext5/qrinvoice-itext5@0.8
+- pkg:maven/ch.codeblock.qrinvoice.itext5/qrinvoice-itext5@0.8?classifier=sources

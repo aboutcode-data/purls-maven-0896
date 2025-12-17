@@ -10,3 +10,6 @@
 - pkg:maven/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec@1.0.3.Final?classifier=sources
 - pkg:maven/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec@1.0.4.Final
 - pkg:maven/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec@1.0.4.Final?classifier=sources
+- pkg:maven/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec@1.0.5.Final
+- pkg:maven/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec@1.0.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.xml.bind/jboss-jaxb-api_2.2_spec@1.0.5.Final?classifier=sources

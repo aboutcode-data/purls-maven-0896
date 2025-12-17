@@ -14,3 +14,7 @@
 - pkg:maven/com.hubrick.vertx/vertx-s3-client@3.3.0?classifier=sources
 - pkg:maven/com.hubrick.vertx/vertx-s3-client@3.3.1
 - pkg:maven/com.hubrick.vertx/vertx-s3-client@3.3.1?classifier=sources
+- pkg:maven/com.hubrick.vertx/vertx-s3-client@3.3.2
+- pkg:maven/com.hubrick.vertx/vertx-s3-client@3.3.2?classifier=sources
+- pkg:maven/com.hubrick.vertx/vertx-s3-client@3.3.3
+- pkg:maven/com.hubrick.vertx/vertx-s3-client@3.3.3?classifier=sources

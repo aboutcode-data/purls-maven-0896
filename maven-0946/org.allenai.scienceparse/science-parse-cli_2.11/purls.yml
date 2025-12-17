@@ -1,0 +1,4 @@
+- pkg:maven/org.allenai.scienceparse/science-parse-cli_2.11@1.3.2
+- pkg:maven/org.allenai.scienceparse/science-parse-cli_2.11@1.3.2?classifier=sources
+- pkg:maven/org.allenai.scienceparse/science-parse-cli_2.11@2.0.1
+- pkg:maven/org.allenai.scienceparse/science-parse-cli_2.11@2.0.1?classifier=sources

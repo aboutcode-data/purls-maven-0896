@@ -1,0 +1,8 @@
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@1.0.0
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@1.0.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@1.0.1
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@1.0.1?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@2.0.0
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@2.0.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@2.0.1
+- pkg:maven/com.nepxion/discovery-plugin-admin-center@2.0.1?classifier=sources

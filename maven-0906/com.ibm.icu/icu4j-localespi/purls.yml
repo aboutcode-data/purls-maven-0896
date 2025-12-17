@@ -2,3 +2,7 @@
 - pkg:maven/com.ibm.icu/icu4j-localespi@60.1?classifier=sources
 - pkg:maven/com.ibm.icu/icu4j-localespi@60.2
 - pkg:maven/com.ibm.icu/icu4j-localespi@60.2?classifier=sources
+- pkg:maven/com.ibm.icu/icu4j-localespi@61.1
+- pkg:maven/com.ibm.icu/icu4j-localespi@61.1?classifier=sources
+- pkg:maven/com.ibm.icu/icu4j-localespi@62.1
+- pkg:maven/com.ibm.icu/icu4j-localespi@62.1?classifier=sources

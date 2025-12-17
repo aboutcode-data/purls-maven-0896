@@ -1,0 +1,2 @@
+- pkg:maven/hu.alphabox/clamav-client@0.1
+- pkg:maven/hu.alphabox/clamav-client@0.1?classifier=sources

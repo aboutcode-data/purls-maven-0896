@@ -26,3 +26,6 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.4.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.4.1.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.5.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.6.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.6.0.t022
+- pkg:maven/org.kie.server/kie-server-integ-tests-optaplanner@7.7.0.Final

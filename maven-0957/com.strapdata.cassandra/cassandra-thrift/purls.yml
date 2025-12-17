@@ -20,3 +20,5 @@
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.1.2
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.1.2?classifier=sources
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.1?classifier=sources
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.2
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.2?classifier=sources

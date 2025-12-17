@@ -1,0 +1,8 @@
+- pkg:maven/io.github.alekseysotnikov/CmdTool@0.4.2
+- pkg:maven/io.github.alekseysotnikov/CmdTool@0.4.2?classifier=sources
+- pkg:maven/io.github.alekseysotnikov/CmdTool@0.4.3
+- pkg:maven/io.github.alekseysotnikov/CmdTool@0.4.3?classifier=sources
+- pkg:maven/io.github.alekseysotnikov/CmdTool@1.0.0
+- pkg:maven/io.github.alekseysotnikov/CmdTool@1.0.0?classifier=sources
+- pkg:maven/io.github.alekseysotnikov/CmdTool@1.0.1
+- pkg:maven/io.github.alekseysotnikov/CmdTool@1.0.1?classifier=sources

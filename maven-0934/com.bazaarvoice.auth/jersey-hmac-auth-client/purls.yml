@@ -12,3 +12,5 @@
 - pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-client@0.17?classifier=sources
 - pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-client@0.18
 - pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-client@0.18?classifier=sources
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-client@1.0
+- pkg:maven/com.bazaarvoice.auth/jersey-hmac-auth-client@1.0?classifier=sources

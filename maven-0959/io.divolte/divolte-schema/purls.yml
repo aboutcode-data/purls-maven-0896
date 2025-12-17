@@ -18,3 +18,7 @@
 - pkg:maven/io.divolte/divolte-schema@0.5.0?classifier=sources
 - pkg:maven/io.divolte/divolte-schema@0.6.0
 - pkg:maven/io.divolte/divolte-schema@0.6.0?classifier=sources
+- pkg:maven/io.divolte/divolte-schema@0.7.0
+- pkg:maven/io.divolte/divolte-schema@0.7.0?classifier=sources
+- pkg:maven/io.divolte/divolte-schema@0.8.0
+- pkg:maven/io.divolte/divolte-schema@0.8.0?classifier=sources

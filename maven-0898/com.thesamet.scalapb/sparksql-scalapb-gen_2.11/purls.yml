@@ -1,2 +1,4 @@
+- pkg:maven/com.thesamet.scalapb/sparksql-scalapb-gen_2.11@0.7.0
 - pkg:maven/com.thesamet.scalapb/sparksql-scalapb-gen_2.11@0.7.0-rc1
 - pkg:maven/com.thesamet.scalapb/sparksql-scalapb-gen_2.11@0.7.0-rc1?classifier=sources
+- pkg:maven/com.thesamet.scalapb/sparksql-scalapb-gen_2.11@0.7.0?classifier=sources

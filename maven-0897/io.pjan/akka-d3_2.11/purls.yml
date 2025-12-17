@@ -14,3 +14,5 @@
 - pkg:maven/io.pjan/akka-d3_2.11@0.4.3?classifier=sources
 - pkg:maven/io.pjan/akka-d3_2.11@0.4.4
 - pkg:maven/io.pjan/akka-d3_2.11@0.4.4?classifier=sources
+- pkg:maven/io.pjan/akka-d3_2.11@0.4.5
+- pkg:maven/io.pjan/akka-d3_2.11@0.4.5?classifier=sources

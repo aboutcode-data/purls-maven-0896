@@ -35,3 +35,5 @@
 - pkg:maven/org.ocpsoft.prettytime/prettytime@4.0.0.Final
 - pkg:maven/org.ocpsoft.prettytime/prettytime@4.0.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.prettytime/prettytime@4.0.1.Final
+- pkg:maven/org.ocpsoft.prettytime/prettytime@4.0.2.Final
+- pkg:maven/org.ocpsoft.prettytime/prettytime@4.0.2.Final?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/com.revolsys.open/com.revolsys.open.swing@0.20161222.073911-CPF_5_0_5-RELEASE?classifier=sources
 - pkg:maven/com.revolsys.open/com.revolsys.open.swing@0.20171005.131236-CPF_5_0_6-RELEASE
 - pkg:maven/com.revolsys.open/com.revolsys.open.swing@0.20171005.131236-CPF_5_0_6-RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.swing@0.20180228.140703-CPF_5_1_0-RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.swing@0.20180228.140703-CPF_5_1_0-RELEASE?classifier=sources
 - pkg:maven/com.revolsys.open/com.revolsys.open.swing@2014.09.08-MTEC3
 - pkg:maven/com.revolsys.open/com.revolsys.open.swing@2014.09.08-MTEC3?classifier=sources
 - pkg:maven/com.revolsys.open/com.revolsys.open.swing@2014.09.10-MTEC1

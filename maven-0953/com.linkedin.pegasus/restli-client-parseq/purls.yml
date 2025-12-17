@@ -6,10 +6,16 @@
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@11.0.17?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@17.0.4
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@17.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-parseq@19.0.3
+- pkg:maven/com.linkedin.pegasus/restli-client-parseq@19.0.3?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@2.12.7
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@2.12.7?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@2.6.0
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@2.6.0?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-parseq@20.0.4
+- pkg:maven/com.linkedin.pegasus/restli-client-parseq@20.0.4?classifier=sources
+- pkg:maven/com.linkedin.pegasus/restli-client-parseq@21.0.0
+- pkg:maven/com.linkedin.pegasus/restli-client-parseq@21.0.0?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@3.1.1
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@3.1.1?classifier=sources
 - pkg:maven/com.linkedin.pegasus/restli-client-parseq@3.1.2

@@ -6,5 +6,7 @@
 - pkg:maven/io.protostuff/protostuff-msgpack@1.5.5?classifier=sources
 - pkg:maven/io.protostuff/protostuff-msgpack@1.5.6
 - pkg:maven/io.protostuff/protostuff-msgpack@1.5.6?classifier=sources
+- pkg:maven/io.protostuff/protostuff-msgpack@1.5.9
+- pkg:maven/io.protostuff/protostuff-msgpack@1.5.9?classifier=sources
 - pkg:maven/io.protostuff/protostuff-msgpack@1.6.0
 - pkg:maven/io.protostuff/protostuff-msgpack@1.6.0?classifier=sources

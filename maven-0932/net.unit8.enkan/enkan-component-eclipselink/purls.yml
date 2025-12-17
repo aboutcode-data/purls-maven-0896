@@ -1,0 +1,4 @@
+- pkg:maven/net.unit8.enkan/enkan-component-eclipselink@0.6.0-beta2
+- pkg:maven/net.unit8.enkan/enkan-component-eclipselink@0.6.0-beta2?classifier=sources
+- pkg:maven/net.unit8.enkan/enkan-component-eclipselink@0.6.0-beta3
+- pkg:maven/net.unit8.enkan/enkan-component-eclipselink@0.6.0-beta3?classifier=sources

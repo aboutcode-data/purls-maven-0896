@@ -1,2 +1,6 @@
 - pkg:maven/org.uberfire/uberfire-structure-client@2.2.0.Final
 - pkg:maven/org.uberfire/uberfire-structure-client@2.2.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-structure-client@2.3.0.Final
+- pkg:maven/org.uberfire/uberfire-structure-client@2.3.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-structure-client@2.4.0.Final
+- pkg:maven/org.uberfire/uberfire-structure-client@2.4.0.Final?classifier=sources

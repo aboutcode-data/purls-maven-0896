@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.authn.sdk/okta-authn-sdk-impl@0.1.0
+- pkg:maven/com.okta.authn.sdk/okta-authn-sdk-impl@0.1.0?classifier=sources

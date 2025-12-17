@@ -2,3 +2,5 @@
 - pkg:maven/org.lwjgl.osgi/org.lwjgl.lmdb@3.1.2?classifier=sources
 - pkg:maven/org.lwjgl.osgi/org.lwjgl.lmdb@3.1.3
 - pkg:maven/org.lwjgl.osgi/org.lwjgl.lmdb@3.1.3?classifier=sources
+- pkg:maven/org.lwjgl.osgi/org.lwjgl.lmdb@3.1.6
+- pkg:maven/org.lwjgl.osgi/org.lwjgl.lmdb@3.1.6?classifier=sources

@@ -24,6 +24,8 @@
 - pkg:maven/com.twitter/algebird-test_2.11@0.13.2?classifier=sources
 - pkg:maven/com.twitter/algebird-test_2.11@0.13.3
 - pkg:maven/com.twitter/algebird-test_2.11@0.13.3?classifier=sources
+- pkg:maven/com.twitter/algebird-test_2.11@0.13.4
+- pkg:maven/com.twitter/algebird-test_2.11@0.13.4?classifier=sources
 - pkg:maven/com.twitter/algebird-test_2.11@0.8.0
 - pkg:maven/com.twitter/algebird-test_2.11@0.8.0?classifier=sources
 - pkg:maven/com.twitter/algebird-test_2.11@0.8.1

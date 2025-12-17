@@ -9,3 +9,5 @@
 - pkg:maven/org.springframework.cloud.stream.app.plugin/spring-cloud-stream-app-maven-plugin@1.2.4.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app.plugin/spring-cloud-stream-app-maven-plugin@1.2.5.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app.plugin/spring-cloud-stream-app-maven-plugin@1.2.6.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app.plugin/spring-cloud-stream-app-maven-plugin@1.2.7.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app.plugin/spring-cloud-stream-app-maven-plugin@1.2.8.RELEASE

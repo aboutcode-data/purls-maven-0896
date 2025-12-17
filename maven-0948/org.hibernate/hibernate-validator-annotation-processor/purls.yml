@@ -119,9 +119,12 @@
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.0.CR3
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.0.Final
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.1.Final
+- pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.10.Final
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.2.Final
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.3.Final
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.4.Final
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.5.Final
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.6.Final
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.7.Final
+- pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.8.Final
+- pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.0.9.Final

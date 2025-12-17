@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.zam/zam-core@0.01
+- pkg:maven/org.realityforge.zam/zam-core@0.01?classifier=sources

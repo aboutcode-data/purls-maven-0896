@@ -2,3 +2,11 @@
 - pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.3?classifier=sources
 - pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.4
 - pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.4?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.5
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.5?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.6
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.6?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.7
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.7?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.8
+- pkg:maven/com.arm.mbed.cloud.sdk/iam@1.2.8?classifier=sources

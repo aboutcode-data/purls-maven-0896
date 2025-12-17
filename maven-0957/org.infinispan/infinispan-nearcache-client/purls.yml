@@ -250,6 +250,10 @@
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.0.Final?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.1.Final?type=war
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.10.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.10.Final?type=war
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.11.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.11.Final?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.2.Final?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.3.Final?classifier=sources

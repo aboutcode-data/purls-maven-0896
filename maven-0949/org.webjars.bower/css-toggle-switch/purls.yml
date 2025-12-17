@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/css-toggle-switch@3.1.1
 - pkg:maven/org.webjars.bower/css-toggle-switch@3.1.1?classifier=sources
+- pkg:maven/org.webjars.bower/css-toggle-switch@4.1.0
+- pkg:maven/org.webjars.bower/css-toggle-switch@4.1.0?classifier=sources

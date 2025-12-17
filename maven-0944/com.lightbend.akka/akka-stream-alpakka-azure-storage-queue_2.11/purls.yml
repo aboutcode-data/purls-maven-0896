@@ -10,3 +10,9 @@
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.15?classifier=sources
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.16
 - pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.16?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.17
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.17?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.18
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.18?classifier=sources
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.19
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-azure-storage-queue_2.11@0.19?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.app/openurp-app-api4j@0.0.23
+- pkg:maven/org.openurp.app/openurp-app-api4j@0.0.23?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/com.jporm/jpo-rm-quasar@8.7.5?classifier=sources
 - pkg:maven/com.jporm/jpo-rm-quasar@8.8.0
 - pkg:maven/com.jporm/jpo-rm-quasar@8.8.0?classifier=sources
+- pkg:maven/com.jporm/jpo-rm-quasar@8.9.0
+- pkg:maven/com.jporm/jpo-rm-quasar@8.9.0?classifier=sources

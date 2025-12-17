@@ -1,0 +1,4 @@
+- pkg:maven/io.oasp.java.modules/oasp4j-cxf-server-rest@2.5.0
+- pkg:maven/io.oasp.java.modules/oasp4j-cxf-server-rest@2.5.0?classifier=sources
+- pkg:maven/io.oasp.java.modules/oasp4j-cxf-server-rest@2.6.0
+- pkg:maven/io.oasp.java.modules/oasp4j-cxf-server-rest@2.6.0?classifier=sources

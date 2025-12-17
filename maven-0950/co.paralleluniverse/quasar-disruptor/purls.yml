@@ -1,3 +1,5 @@
+- pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.10
+- pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.10?classifier=sources
 - pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.4
 - pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.4?classifier=sources
 - pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.5

@@ -1,2 +1,4 @@
 - pkg:maven/io.github.interestinglab.waterdrop/waterdrop-apis_2.11@0.1.0
 - pkg:maven/io.github.interestinglab.waterdrop/waterdrop-apis_2.11@0.1.0?classifier=sources
+- pkg:maven/io.github.interestinglab.waterdrop/waterdrop-apis_2.11@1.0.0
+- pkg:maven/io.github.interestinglab.waterdrop/waterdrop-apis_2.11@1.0.0?classifier=sources

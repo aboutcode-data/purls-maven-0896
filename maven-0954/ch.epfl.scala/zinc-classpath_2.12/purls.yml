@@ -1,0 +1,12 @@
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.0.0-X8%2B510-660ed3cb
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.0.0-X8%2B510-660ed3cb?classifier=sources
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.0%2B87-9d521e25
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.0%2B87-9d521e25?classifier=sources
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.0%2B9-57ca9e0f
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.0%2B9-57ca9e0f?classifier=sources
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.0%2B91-eebc74eb
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.0%2B91-eebc74eb?classifier=sources
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.1%2B49-1c290cbb
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.1%2B49-1c290cbb?classifier=sources
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.7%2B62-0f4ad9d5
+- pkg:maven/ch.epfl.scala/zinc-classpath_2.12@1.1.7%2B62-0f4ad9d5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.automatalib/automata-dot-visualizer@0.7.0
+- pkg:maven/net.automatalib/automata-dot-visualizer@0.7.0?classifier=sources
+- pkg:maven/net.automatalib/automata-dot-visualizer@0.7.1
+- pkg:maven/net.automatalib/automata-dot-visualizer@0.7.1?classifier=sources

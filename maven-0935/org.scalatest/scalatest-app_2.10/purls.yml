@@ -38,7 +38,17 @@
 - pkg:maven/org.scalatest/scalatest-app_2.10@3.0.3?classifier=sources
 - pkg:maven/org.scalatest/scalatest-app_2.10@3.0.4
 - pkg:maven/org.scalatest/scalatest-app_2.10@3.0.4?classifier=sources
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.0.5
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.0.5-M1
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.0.5-M1?classifier=sources
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.0.5?classifier=sources
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.0.6-SNAP1
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.0.6-SNAP1?classifier=sources
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.1.0-SNAP6
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.1.0-SNAP6?classifier=sources
 - pkg:maven/org.scalatest/scalatest-app_2.10@3.2.0-SNAP1
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.2.0-SNAP10
+- pkg:maven/org.scalatest/scalatest-app_2.10@3.2.0-SNAP10?classifier=sources
 - pkg:maven/org.scalatest/scalatest-app_2.10@3.2.0-SNAP1?classifier=sources
 - pkg:maven/org.scalatest/scalatest-app_2.10@3.2.0-SNAP2
 - pkg:maven/org.scalatest/scalatest-app_2.10@3.2.0-SNAP2?classifier=sources

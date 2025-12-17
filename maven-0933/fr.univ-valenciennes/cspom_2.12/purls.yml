@@ -12,3 +12,11 @@
 - pkg:maven/fr.univ-valenciennes/cspom_2.12@2.19.1
 - pkg:maven/fr.univ-valenciennes/cspom_2.12@2.19.1?classifier=sources
 - pkg:maven/fr.univ-valenciennes/cspom_2.12@2.19?classifier=sources
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.20
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.20?classifier=sources
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.21
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.21?classifier=sources
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.22
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.22?classifier=sources
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.23
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.23?classifier=sources

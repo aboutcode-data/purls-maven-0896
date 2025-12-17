@@ -1,0 +1,4 @@
+- pkg:maven/ai.idylnlp/idylnlp-opennlp-tools-1.8.3@1.0.0
+- pkg:maven/ai.idylnlp/idylnlp-opennlp-tools-1.8.3@1.0.0?classifier=sources
+- pkg:maven/ai.idylnlp/idylnlp-opennlp-tools-1.8.3@1.1.0
+- pkg:maven/ai.idylnlp/idylnlp-opennlp-tools-1.8.3@1.1.0?classifier=sources

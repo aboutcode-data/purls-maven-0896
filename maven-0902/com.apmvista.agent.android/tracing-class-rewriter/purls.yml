@@ -16,3 +16,9 @@
 - pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.0.9?classifier=sources
 - pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.0
 - pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.0?classifier=sources
+- pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.1
+- pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.1?classifier=sources
+- pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.2
+- pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.2?classifier=sources
+- pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.3
+- pkg:maven/com.apmvista.agent.android/tracing-class-rewriter@1.1.3?classifier=sources

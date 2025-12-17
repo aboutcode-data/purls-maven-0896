@@ -8,3 +8,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.101?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.102
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.102?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.103
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.103?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.153
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.153?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.xmlgraphics/fop-pdf-images@2.2
 - pkg:maven/org.apache.xmlgraphics/fop-pdf-images@2.2?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/fop-pdf-images@2.3
+- pkg:maven/org.apache.xmlgraphics/fop-pdf-images@2.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.bookkeeper/stream-storage-cli@4.7.0
+- pkg:maven/org.apache.bookkeeper/stream-storage-cli@4.7.0?classifier=sources
+- pkg:maven/org.apache.bookkeeper/stream-storage-cli@4.7.1
+- pkg:maven/org.apache.bookkeeper/stream-storage-cli@4.7.1?classifier=sources

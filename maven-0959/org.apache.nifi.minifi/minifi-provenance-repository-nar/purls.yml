@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.nifi.minifi/minifi-provenance-repository-nar@0.1.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-provenance-repository-nar@0.2.0?classifier=sources
 - pkg:maven/org.apache.nifi.minifi/minifi-provenance-repository-nar@0.3.0?classifier=sources
+- pkg:maven/org.apache.nifi.minifi/minifi-provenance-repository-nar@0.4.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.h3xstream.retirejs/retirejs-core@2.2.0?classifier=sources
 - pkg:maven/com.h3xstream.retirejs/retirejs-core@3.0.0
 - pkg:maven/com.h3xstream.retirejs/retirejs-core@3.0.0?classifier=sources
+- pkg:maven/com.h3xstream.retirejs/retirejs-core@3.0.1
+- pkg:maven/com.h3xstream.retirejs/retirejs-core@3.0.1?classifier=sources

@@ -7,6 +7,7 @@
 - pkg:maven/org.apache/apache@16?classifier=source-release&type=zip
 - pkg:maven/org.apache/apache@17?classifier=source-release&type=zip
 - pkg:maven/org.apache/apache@18?classifier=source-release&type=zip
+- pkg:maven/org.apache/apache@19?classifier=source-release&type=zip
 - pkg:maven/org.apache/apache@7?classifier=source-release&type=zip
 - pkg:maven/org.apache/apache@8?classifier=source-release&type=zip
 - pkg:maven/org.apache/apache@9?classifier=source-release&type=zip

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.marmotta/marmotta-loader-core@3.2.1?classifier=sources
 - pkg:maven/org.apache.marmotta/marmotta-loader-core@3.3.0
 - pkg:maven/org.apache.marmotta/marmotta-loader-core@3.3.0?classifier=sources
+- pkg:maven/org.apache.marmotta/marmotta-loader-core@3.4.0
+- pkg:maven/org.apache.marmotta/marmotta-loader-core@3.4.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/net.s-jr.utils.converterutils/joda-converter-utils@1.0.0?classifier=sources
 - pkg:maven/net.s-jr.utils.converterutils/joda-converter-utils@1.0.1
 - pkg:maven/net.s-jr.utils.converterutils/joda-converter-utils@1.0.1?classifier=sources
+- pkg:maven/net.s-jr.utils.converterutils/joda-converter-utils@1.0.2
+- pkg:maven/net.s-jr.utils.converterutils/joda-converter-utils@1.0.2?classifier=sources

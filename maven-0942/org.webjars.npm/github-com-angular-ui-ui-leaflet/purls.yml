@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-leaflet@1.0.3
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-leaflet@1.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-leaflet@2.0.0
+- pkg:maven/org.webjars.npm/github-com-angular-ui-ui-leaflet@2.0.0?classifier=sources

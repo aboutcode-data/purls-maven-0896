@@ -6,3 +6,7 @@
 - pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-adversereactions@2.0.0?classifier=sources
 - pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-adversereactions@2.0.1
 - pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-adversereactions@2.0.1?classifier=sources
+- pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-adversereactions@3.0.0-RC1
+- pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-adversereactions@3.0.0-RC1?classifier=sources
+- pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-adversereactions@3.0.0-RC4
+- pkg:maven/org.hspconsortium.carewebframework/cwf-plugin-adversereactions@3.0.0-RC4?classifier=sources

@@ -4,6 +4,16 @@
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.10.1?classifier=sources
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.10.2
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.10.2?classifier=sources
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.11.0
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.11.0?classifier=sources
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC1
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC1?classifier=sources
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC2
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC2?classifier=sources
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC3
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC3?classifier=sources
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0?classifier=sources
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.5.0
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.5.0?classifier=sources
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.5.1

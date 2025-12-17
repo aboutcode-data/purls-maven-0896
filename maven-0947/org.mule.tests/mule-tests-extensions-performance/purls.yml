@@ -1,2 +1,4 @@
 - pkg:maven/org.mule.tests/mule-tests-extensions-performance@4.0.0-BETA.4
 - pkg:maven/org.mule.tests/mule-tests-extensions-performance@4.0.0-rc
+- pkg:maven/org.mule.tests/mule-tests-extensions-performance@4.1.1
+- pkg:maven/org.mule.tests/mule-tests-extensions-performance@4.1.1?classifier=sources

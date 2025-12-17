@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/parseqs@0.0.3
 - pkg:maven/org.webjars.npm/parseqs@0.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/parseqs@0.0.5
+- pkg:maven/org.webjars.npm/parseqs@0.0.5?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.xuwei-k/msgpack4z-core_2.13.0-M2@0.3.7
 - pkg:maven/com.github.xuwei-k/msgpack4z-core_2.13.0-M2@0.3.7?classifier=sources
+- pkg:maven/com.github.xuwei-k/msgpack4z-core_2.13.0-M2@0.3.8
+- pkg:maven/com.github.xuwei-k/msgpack4z-core_2.13.0-M2@0.3.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hubspot.chrome/ChromeDevToolsClient@1.0
+- pkg:maven/com.hubspot.chrome/ChromeDevToolsClient@1.0?classifier=sources

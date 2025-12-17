@@ -1,0 +1,2 @@
+- pkg:maven/io.axoniq.axonhub/axonhub-grpc-proto@1.0-beta1
+- pkg:maven/io.axoniq.axonhub/axonhub-grpc-proto@1.0-beta1?classifier=sources

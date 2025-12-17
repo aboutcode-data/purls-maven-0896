@@ -1,0 +1,6 @@
+- pkg:maven/com.avakkachen/wormholelogger@1.0.0-1-STAGING?classifier=sources
+- pkg:maven/com.avakkachen/wormholelogger@1.0.0-1-STAGING?type=aar
+- pkg:maven/com.avakkachen/wormholelogger@1.0.0-2-STAGING?classifier=sources
+- pkg:maven/com.avakkachen/wormholelogger@1.0.0-2-STAGING?type=aar
+- pkg:maven/com.avakkachen/wormholelogger@1.0.0-STAGING?classifier=sources
+- pkg:maven/com.avakkachen/wormholelogger@1.0.0-STAGING?type=aar

@@ -30,3 +30,9 @@
 - pkg:maven/io.tekniq/tekniq-sparklin@0.8.3
 - pkg:maven/io.tekniq/tekniq-sparklin@0.8.3?classifier=sources
 - pkg:maven/io.tekniq/tekniq-sparklin@0.8?classifier=sources
+- pkg:maven/io.tekniq/tekniq-sparklin@0.9
+- pkg:maven/io.tekniq/tekniq-sparklin@0.9.1
+- pkg:maven/io.tekniq/tekniq-sparklin@0.9.1?classifier=sources
+- pkg:maven/io.tekniq/tekniq-sparklin@0.9.2
+- pkg:maven/io.tekniq/tekniq-sparklin@0.9.2?classifier=sources
+- pkg:maven/io.tekniq/tekniq-sparklin@0.9?classifier=sources

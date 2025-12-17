@@ -16,3 +16,11 @@
 - pkg:maven/fr.vsct.tock/tock-bot-open-data@0.6.0?classifier=sources
 - pkg:maven/fr.vsct.tock/tock-bot-open-data@0.7.0
 - pkg:maven/fr.vsct.tock/tock-bot-open-data@0.7.0?classifier=sources
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@0.8.0
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@0.8.0?classifier=sources
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@0.9.0
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@0.9.0?classifier=sources
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@1.0.0
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@1.0.0-rc0
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@1.0.0-rc0?classifier=sources
+- pkg:maven/fr.vsct.tock/tock-bot-open-data@1.0.0?classifier=sources

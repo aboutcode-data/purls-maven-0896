@@ -2,3 +2,5 @@
 - pkg:maven/com.jfinal/jfinal-java8@3.2?classifier=sources
 - pkg:maven/com.jfinal/jfinal-java8@3.3
 - pkg:maven/com.jfinal/jfinal-java8@3.3?classifier=sources
+- pkg:maven/com.jfinal/jfinal-java8@3.4
+- pkg:maven/com.jfinal/jfinal-java8@3.4?classifier=sources

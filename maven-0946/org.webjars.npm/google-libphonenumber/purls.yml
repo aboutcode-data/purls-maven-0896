@@ -1,5 +1,9 @@
 - pkg:maven/org.webjars.npm/google-libphonenumber@1.0.16
 - pkg:maven/org.webjars.npm/google-libphonenumber@1.0.16?classifier=sources
+- pkg:maven/org.webjars.npm/google-libphonenumber@1.0.7
+- pkg:maven/org.webjars.npm/google-libphonenumber@1.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/google-libphonenumber@1.1.2
+- pkg:maven/org.webjars.npm/google-libphonenumber@1.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/google-libphonenumber@2.0.11
 - pkg:maven/org.webjars.npm/google-libphonenumber@2.0.11?classifier=sources
 - pkg:maven/org.webjars.npm/google-libphonenumber@2.0.9

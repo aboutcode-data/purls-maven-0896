@@ -14,3 +14,13 @@
 - pkg:maven/ch.sahits.game/OpenPatricianData@0.8.0-RC1
 - pkg:maven/ch.sahits.game/OpenPatricianData@0.8.0-RC1?classifier=sources
 - pkg:maven/ch.sahits.game/OpenPatricianData@0.8.0?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.0
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.0-RC1
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.0-RC1?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.0-RC2
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.0-RC2?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.0?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.1
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.1-RC1
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.1-RC1?classifier=sources
+- pkg:maven/ch.sahits.game/OpenPatricianData@0.9.1?classifier=sources

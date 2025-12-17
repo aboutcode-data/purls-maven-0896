@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/color-string@0.3.0
 - pkg:maven/org.webjars.npm/color-string@0.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/color-string@1.5.2
+- pkg:maven/org.webjars.npm/color-string@1.5.2?classifier=sources

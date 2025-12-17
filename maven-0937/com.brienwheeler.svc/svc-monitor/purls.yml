@@ -18,3 +18,5 @@
 - pkg:maven/com.brienwheeler.svc/svc-monitor@1.08?classifier=sources
 - pkg:maven/com.brienwheeler.svc/svc-monitor@1.09
 - pkg:maven/com.brienwheeler.svc/svc-monitor@1.09?classifier=sources
+- pkg:maven/com.brienwheeler.svc/svc-monitor@1.10
+- pkg:maven/com.brienwheeler.svc/svc-monitor@1.10?classifier=sources

@@ -1,3 +1,9 @@
 - pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.6.1?classifier=sources
 - pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.6.2?classifier=sources
 - pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.7.0?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.7.1?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.8.0?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.8.1-gwt2?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.8.1?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.8.2-gwt2?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/dagger-sample@0.8.3?classifier=sources

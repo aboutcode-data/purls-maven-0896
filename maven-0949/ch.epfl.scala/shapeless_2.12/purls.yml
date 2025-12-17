@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/shapeless_2.12@2.3.3-lower-priority-coproduct
+- pkg:maven/ch.epfl.scala/shapeless_2.12@2.3.3-lower-priority-coproduct?classifier=sources

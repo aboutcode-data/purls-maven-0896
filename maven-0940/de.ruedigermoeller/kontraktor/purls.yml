@@ -136,3 +136,7 @@
 - pkg:maven/de.ruedigermoeller/kontraktor@4.21?classifier=sources
 - pkg:maven/de.ruedigermoeller/kontraktor@4.22
 - pkg:maven/de.ruedigermoeller/kontraktor@4.22?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor@4.23
+- pkg:maven/de.ruedigermoeller/kontraktor@4.23?classifier=sources
+- pkg:maven/de.ruedigermoeller/kontraktor@4.25
+- pkg:maven/de.ruedigermoeller/kontraktor@4.25?classifier=sources

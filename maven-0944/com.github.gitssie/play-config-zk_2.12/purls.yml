@@ -1,0 +1,4 @@
+- pkg:maven/com.github.gitssie/play-config-zk_2.12@2.6.10
+- pkg:maven/com.github.gitssie/play-config-zk_2.12@2.6.10?classifier=sources
+- pkg:maven/com.github.gitssie/play-config-zk_2.12@2.6.11
+- pkg:maven/com.github.gitssie/play-config-zk_2.12@2.6.11?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.spring-data-dynamodb/spring-data-dynamodb@4.5.5
+- pkg:maven/com.github.spring-data-dynamodb/spring-data-dynamodb@4.5.5?classifier=sources
+- pkg:maven/com.github.spring-data-dynamodb/spring-data-dynamodb@5.0.2
+- pkg:maven/com.github.spring-data-dynamodb/spring-data-dynamodb@5.0.2?classifier=sources

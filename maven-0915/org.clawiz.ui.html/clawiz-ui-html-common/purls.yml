@@ -1,0 +1,4 @@
+- pkg:maven/org.clawiz.ui.html/clawiz-ui-html-common@2.2.0
+- pkg:maven/org.clawiz.ui.html/clawiz-ui-html-common@2.2.0?classifier=sources
+- pkg:maven/org.clawiz.ui.html/clawiz-ui-html-common@2.2.2
+- pkg:maven/org.clawiz.ui.html/clawiz-ui-html-common@2.2.2?classifier=sources

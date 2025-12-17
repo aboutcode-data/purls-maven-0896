@@ -1,0 +1,4 @@
+- pkg:maven/tk.mybatis/mapper-base2@1.0.0
+- pkg:maven/tk.mybatis/mapper-base2@1.0.0?classifier=sources
+- pkg:maven/tk.mybatis/mapper-base2@1.0.1
+- pkg:maven/tk.mybatis/mapper-base2@1.0.1?classifier=sources

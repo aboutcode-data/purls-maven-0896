@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.knox/gateway-provider-identity-assertion-hadoop-groups@0.13.0?classifier=sources
 - pkg:maven/org.apache.knox/gateway-provider-identity-assertion-hadoop-groups@0.14.0
 - pkg:maven/org.apache.knox/gateway-provider-identity-assertion-hadoop-groups@0.14.0?classifier=sources
+- pkg:maven/org.apache.knox/gateway-provider-identity-assertion-hadoop-groups@1.0.0
+- pkg:maven/org.apache.knox/gateway-provider-identity-assertion-hadoop-groups@1.0.0?classifier=sources

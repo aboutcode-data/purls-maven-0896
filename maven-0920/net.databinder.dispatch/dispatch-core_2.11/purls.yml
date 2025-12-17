@@ -26,3 +26,5 @@
 - pkg:maven/net.databinder.dispatch/dispatch-core_2.11@0.13.2?classifier=sources
 - pkg:maven/net.databinder.dispatch/dispatch-core_2.11@0.13.3
 - pkg:maven/net.databinder.dispatch/dispatch-core_2.11@0.13.3?classifier=sources
+- pkg:maven/net.databinder.dispatch/dispatch-core_2.11@0.13.4
+- pkg:maven/net.databinder.dispatch/dispatch-core_2.11@0.13.4?classifier=sources

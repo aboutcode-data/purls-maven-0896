@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/core-macros_2.12@1.1.0-sourcedeps
+- pkg:maven/ch.epfl.scala/core-macros_2.12@1.1.0-sourcedeps?classifier=sources
