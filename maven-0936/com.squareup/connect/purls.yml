@@ -6,6 +6,16 @@
 - pkg:maven/com.squareup/connect@2.2.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.2.1
 - pkg:maven/com.squareup/connect@2.2.1?classifier=sources
+- pkg:maven/com.squareup/connect@2.20180712.0
+- pkg:maven/com.squareup/connect@2.20180712.0?classifier=sources
+- pkg:maven/com.squareup/connect@2.20180712.1
+- pkg:maven/com.squareup/connect@2.20180712.1?classifier=sources
+- pkg:maven/com.squareup/connect@2.20180712.2
+- pkg:maven/com.squareup/connect@2.20180712.2?classifier=sources
+- pkg:maven/com.squareup/connect@2.20180918.0
+- pkg:maven/com.squareup/connect@2.20180918.0?classifier=sources
+- pkg:maven/com.squareup/connect@2.20180918.1
+- pkg:maven/com.squareup/connect@2.20180918.1?classifier=sources
 - pkg:maven/com.squareup/connect@2.3.0
 - pkg:maven/com.squareup/connect@2.3.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.3.1
@@ -26,3 +36,5 @@
 - pkg:maven/com.squareup/connect@2.7.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.8.0
 - pkg:maven/com.squareup/connect@2.8.0?classifier=sources
+- pkg:maven/com.squareup/connect@2.9.0
+- pkg:maven/com.squareup/connect@2.9.0?classifier=sources

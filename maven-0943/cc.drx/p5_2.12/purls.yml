@@ -4,3 +4,7 @@
 - pkg:maven/cc.drx/p5_2.12@dj?classifier=sources
 - pkg:maven/cc.drx/p5_2.12@dk
 - pkg:maven/cc.drx/p5_2.12@dk?classifier=sources
+- pkg:maven/cc.drx/p5_2.12@do
+- pkg:maven/cc.drx/p5_2.12@do?classifier=sources
+- pkg:maven/cc.drx/p5_2.12@dp
+- pkg:maven/cc.drx/p5_2.12@dp?classifier=sources

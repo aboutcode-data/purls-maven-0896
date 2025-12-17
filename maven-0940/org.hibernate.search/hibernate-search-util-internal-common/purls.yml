@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.search/hibernate-search-util-internal-common@6.0.0.Alpha1
+- pkg:maven/org.hibernate.search/hibernate-search-util-internal-common@6.0.0.Alpha1?classifier=sources

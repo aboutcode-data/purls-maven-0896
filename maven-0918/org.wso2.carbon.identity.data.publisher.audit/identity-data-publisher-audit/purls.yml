@@ -1,2 +1,3 @@
 - pkg:maven/org.wso2.carbon.identity.data.publisher.audit/identity-data-publisher-audit@1.0.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.data.publisher.audit/identity-data-publisher-audit@1.0.3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.data.publisher.audit/identity-data-publisher-audit@1.0.4?classifier=source-release&type=zip

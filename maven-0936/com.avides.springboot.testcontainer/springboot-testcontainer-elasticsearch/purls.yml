@@ -12,3 +12,5 @@
 - pkg:maven/com.avides.springboot.testcontainer/springboot-testcontainer-elasticsearch@0.1.0-RC6?classifier=sources
 - pkg:maven/com.avides.springboot.testcontainer/springboot-testcontainer-elasticsearch@0.1.0-RC7
 - pkg:maven/com.avides.springboot.testcontainer/springboot-testcontainer-elasticsearch@0.1.0-RC7?classifier=sources
+- pkg:maven/com.avides.springboot.testcontainer/springboot-testcontainer-elasticsearch@0.1.0-RC8
+- pkg:maven/com.avides.springboot.testcontainer/springboot-testcontainer-elasticsearch@0.1.0-RC8?classifier=sources

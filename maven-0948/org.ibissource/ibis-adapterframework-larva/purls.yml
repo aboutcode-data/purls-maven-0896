@@ -1,0 +1,12 @@
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.0-RC3
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.0-RC3?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1-B1
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1-B1?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1-B3
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1-B3?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1-B4
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1-B4?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.1?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.2
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.2?classifier=sources

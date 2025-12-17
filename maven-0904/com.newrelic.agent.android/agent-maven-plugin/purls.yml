@@ -64,8 +64,12 @@
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.18.1?classifier=sources
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.19.0
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.19.0?classifier=sources
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.19.1
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.19.1?classifier=sources
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.2.0
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.2.1
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.20.0
+- pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.20.0?classifier=sources
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.3.0
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.3.1
 - pkg:maven/com.newrelic.agent.android/agent-maven-plugin@5.3.2

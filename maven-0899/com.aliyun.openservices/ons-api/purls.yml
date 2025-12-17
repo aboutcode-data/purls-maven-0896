@@ -48,3 +48,5 @@
 - pkg:maven/com.aliyun.openservices/ons-api@1.7.6.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-api@1.7.7.Final
 - pkg:maven/com.aliyun.openservices/ons-api@1.7.7.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-api@1.7.8.Final
+- pkg:maven/com.aliyun.openservices/ons-api@1.7.8.Final?classifier=sources

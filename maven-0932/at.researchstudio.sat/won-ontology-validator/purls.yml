@@ -1,0 +1,4 @@
+- pkg:maven/at.researchstudio.sat/won-ontology-validator@0.2
+- pkg:maven/at.researchstudio.sat/won-ontology-validator@0.2?classifier=sources
+- pkg:maven/at.researchstudio.sat/won-ontology-validator@0.3
+- pkg:maven/at.researchstudio.sat/won-ontology-validator@0.3?classifier=sources

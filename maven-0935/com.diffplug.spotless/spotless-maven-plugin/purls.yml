@@ -10,3 +10,9 @@
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.0.0.BETA5?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.13.0
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.13.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.14.0
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.14.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.15.0
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.15.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.16.0
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@1.16.0?classifier=sources

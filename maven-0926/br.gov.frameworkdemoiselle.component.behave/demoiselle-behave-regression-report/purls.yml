@@ -8,3 +8,5 @@
 - pkg:maven/br.gov.frameworkdemoiselle.component.behave/demoiselle-behave-regression-report@1.5.2?classifier=sources
 - pkg:maven/br.gov.frameworkdemoiselle.component.behave/demoiselle-behave-regression-report@1.5.3
 - pkg:maven/br.gov.frameworkdemoiselle.component.behave/demoiselle-behave-regression-report@1.5.3?classifier=sources
+- pkg:maven/br.gov.frameworkdemoiselle.component.behave/demoiselle-behave-regression-report@1.6.0-BETA2
+- pkg:maven/br.gov.frameworkdemoiselle.component.behave/demoiselle-behave-regression-report@1.6.0-BETA2?classifier=sources

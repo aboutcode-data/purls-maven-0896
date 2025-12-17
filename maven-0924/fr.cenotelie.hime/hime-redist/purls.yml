@@ -16,3 +16,5 @@
 - pkg:maven/fr.cenotelie.hime/hime-redist@3.3.1?classifier=sources
 - pkg:maven/fr.cenotelie.hime/hime-redist@3.3.2
 - pkg:maven/fr.cenotelie.hime/hime-redist@3.3.2?classifier=sources
+- pkg:maven/fr.cenotelie.hime/hime-redist@3.4.0
+- pkg:maven/fr.cenotelie.hime/hime-redist@3.4.0?classifier=sources

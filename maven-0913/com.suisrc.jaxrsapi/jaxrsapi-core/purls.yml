@@ -1,0 +1,4 @@
+- pkg:maven/com.suisrc.jaxrsapi/jaxrsapi-core@1.0.4-Final
+- pkg:maven/com.suisrc.jaxrsapi/jaxrsapi-core@1.0.4-Final?classifier=sources
+- pkg:maven/com.suisrc.jaxrsapi/jaxrsapi-core@1.0.5-Final
+- pkg:maven/com.suisrc.jaxrsapi/jaxrsapi-core@1.0.5-Final?classifier=sources

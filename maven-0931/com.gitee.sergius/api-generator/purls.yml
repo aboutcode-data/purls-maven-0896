@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.sergius/api-generator@1.0.0
+- pkg:maven/com.gitee.sergius/api-generator@1.0.0?classifier=sources
+- pkg:maven/com.gitee.sergius/api-generator@2.0.0
+- pkg:maven/com.gitee.sergius/api-generator@2.0.0?classifier=sources

@@ -64,3 +64,11 @@
 - pkg:maven/com.outr/reactify_sjs0.6_2.12@2.2.0?classifier=sources
 - pkg:maven/com.outr/reactify_sjs0.6_2.12@2.3.0
 - pkg:maven/com.outr/reactify_sjs0.6_2.12@2.3.0?classifier=sources
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.0
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.0?classifier=sources
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.1
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.1?classifier=sources
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.2
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.2?classifier=sources
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.3
+- pkg:maven/com.outr/reactify_sjs0.6_2.12@3.0.3?classifier=sources

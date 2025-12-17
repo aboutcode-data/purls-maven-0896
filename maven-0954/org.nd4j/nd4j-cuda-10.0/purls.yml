@@ -1,0 +1,2 @@
+- pkg:maven/org.nd4j/nd4j-cuda-10.0@1.0.0-beta3
+- pkg:maven/org.nd4j/nd4j-cuda-10.0@1.0.0-beta3?classifier=sources

@@ -16,3 +16,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-btc-xchange@1.13?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-btc-xchange@1.13?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-btc-xchange@1.13?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-btc-xchange@1.14?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-btc-xchange@1.14?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-btc-xchange@1.14?type=war

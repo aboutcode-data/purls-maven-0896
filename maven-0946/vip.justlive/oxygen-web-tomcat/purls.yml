@@ -1,0 +1,6 @@
+- pkg:maven/vip.justlive/oxygen-web-tomcat@1.0.0
+- pkg:maven/vip.justlive/oxygen-web-tomcat@1.0.0.ALPHA
+- pkg:maven/vip.justlive/oxygen-web-tomcat@1.0.0.ALPHA?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@1.0.0?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@1.1.0
+- pkg:maven/vip.justlive/oxygen-web-tomcat@1.1.0?classifier=sources

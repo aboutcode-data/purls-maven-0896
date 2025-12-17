@@ -1,0 +1,2 @@
+- pkg:maven/io.lsn/logger-factory@1.2
+- pkg:maven/io.lsn/logger-factory@1.2?classifier=sources

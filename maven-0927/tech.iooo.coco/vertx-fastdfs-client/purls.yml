@@ -2,3 +2,5 @@
 - pkg:maven/tech.iooo.coco/vertx-fastdfs-client@1.0.0.RELEASE?classifier=sources
 - pkg:maven/tech.iooo.coco/vertx-fastdfs-client@1.0.1.RELEASE
 - pkg:maven/tech.iooo.coco/vertx-fastdfs-client@1.0.1.RELEASE?classifier=sources
+- pkg:maven/tech.iooo.coco/vertx-fastdfs-client@1.0.2.RELEASE
+- pkg:maven/tech.iooo.coco/vertx-fastdfs-client@1.0.2.RELEASE?classifier=sources

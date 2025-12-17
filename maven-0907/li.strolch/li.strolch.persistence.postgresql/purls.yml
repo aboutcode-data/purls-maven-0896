@@ -22,3 +22,9 @@
 - pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.2?classifier=sources
 - pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.3
 - pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.3?classifier=sources
+- pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.49
+- pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.49?classifier=sources
+- pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.50
+- pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.50?classifier=sources
+- pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.51
+- pkg:maven/li.strolch/li.strolch.persistence.postgresql@1.6.51?classifier=sources

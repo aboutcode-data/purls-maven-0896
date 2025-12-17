@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ruschecker/s3-storage-wagon@1.3
+- pkg:maven/io.github.ruschecker/s3-storage-wagon@1.3?classifier=sources

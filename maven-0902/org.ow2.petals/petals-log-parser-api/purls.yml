@@ -9,3 +9,6 @@
 - pkg:maven/org.ow2.petals/petals-log-parser-api@1.0.3
 - pkg:maven/org.ow2.petals/petals-log-parser-api@1.0.3?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-log-parser-api@1.0.3?classifier=sources
+- pkg:maven/org.ow2.petals/petals-log-parser-api@1.1.0
+- pkg:maven/org.ow2.petals/petals-log-parser-api@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-log-parser-api@1.1.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/ai.grakn/test-snb@0.18.0?classifier=sources
 - pkg:maven/ai.grakn/test-snb@1.0.0
 - pkg:maven/ai.grakn/test-snb@1.0.0?classifier=sources
+- pkg:maven/ai.grakn/test-snb@1.4.1
+- pkg:maven/ai.grakn/test-snb@1.4.1?classifier=sources
+- pkg:maven/ai.grakn/test-snb@v1.1.0-226-g847ecff2d8e26f249422247d7665fe15f07b1744
+- pkg:maven/ai.grakn/test-snb@v1.1.0-226-g847ecff2d8e26f249422247d7665fe15f07b1744?classifier=sources

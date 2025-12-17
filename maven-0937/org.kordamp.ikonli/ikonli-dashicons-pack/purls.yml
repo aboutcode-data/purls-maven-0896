@@ -1,3 +1,9 @@
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@11.0.0
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@11.0.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@11.0.1
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@11.0.1?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@11.0.2
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@11.0.2?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.1.0
 - pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.1.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.1.1
@@ -6,3 +12,5 @@
 - pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.2.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.3.0
 - pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.3.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.4.0
+- pkg:maven/org.kordamp.ikonli/ikonli-dashicons-pack@2.4.0?classifier=sources

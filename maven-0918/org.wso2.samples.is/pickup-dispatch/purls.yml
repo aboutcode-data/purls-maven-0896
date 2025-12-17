@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@2.0.0?classifier=sources
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@2.0.0?type=war
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@3.0.0-m1?classifier=sources
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@3.0.0-m1?type=war

@@ -6,3 +6,9 @@
 - pkg:maven/ch.squaredesk.nova/http@5.0.0?classifier=sources
 - pkg:maven/ch.squaredesk.nova/http@5.2.0
 - pkg:maven/ch.squaredesk.nova/http@5.2.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/http@5.3.0
+- pkg:maven/ch.squaredesk.nova/http@5.3.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/http@6.0.0
+- pkg:maven/ch.squaredesk.nova/http@6.0.0?classifier=sources
+- pkg:maven/ch.squaredesk.nova/http@7.0.0
+- pkg:maven/ch.squaredesk.nova/http@7.0.0?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/org.apache.tephra/tephra-hbase-compat-1.2-cdh@0.13.0-incubating?classifier=sources
 - pkg:maven/org.apache.tephra/tephra-hbase-compat-1.2-cdh@0.14.0-incubating
 - pkg:maven/org.apache.tephra/tephra-hbase-compat-1.2-cdh@0.14.0-incubating?classifier=sources
+- pkg:maven/org.apache.tephra/tephra-hbase-compat-1.2-cdh@0.15.0-incubating
+- pkg:maven/org.apache.tephra/tephra-hbase-compat-1.2-cdh@0.15.0-incubating?classifier=sources
 - pkg:maven/org.apache.tephra/tephra-hbase-compat-1.2-cdh@0.9.0-incubating
 - pkg:maven/org.apache.tephra/tephra-hbase-compat-1.2-cdh@0.9.0-incubating?classifier=sources

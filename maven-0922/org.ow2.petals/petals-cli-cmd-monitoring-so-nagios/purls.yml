@@ -9,3 +9,6 @@
 - pkg:maven/org.ow2.petals/petals-cli-cmd-monitoring-so-nagios@2.0.0
 - pkg:maven/org.ow2.petals/petals-cli-cmd-monitoring-so-nagios@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-cli-cmd-monitoring-so-nagios@2.0.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-cli-cmd-monitoring-so-nagios@2.1.0
+- pkg:maven/org.ow2.petals/petals-cli-cmd-monitoring-so-nagios@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-cli-cmd-monitoring-so-nagios@2.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/in.syncup/dbhelper@1.9
+- pkg:maven/in.syncup/dbhelper@1.9?classifier=sources
+- pkg:maven/in.syncup/dbhelper@2.0
+- pkg:maven/in.syncup/dbhelper@2.0?classifier=sources

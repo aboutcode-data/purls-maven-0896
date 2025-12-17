@@ -1,2 +1,4 @@
 - pkg:maven/org.milyn/antrunner@1.7.0
 - pkg:maven/org.milyn/antrunner@1.7.0?classifier=sources
+- pkg:maven/org.milyn/antrunner@1.7.1
+- pkg:maven/org.milyn/antrunner@1.7.1?classifier=sources

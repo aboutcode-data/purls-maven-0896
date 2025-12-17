@@ -40,6 +40,8 @@
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.23.v20180228?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.24.v20180605?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.24.v20180605?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.25.v20180904?classifier=sources
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.25.v20180904?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.8.v20160314?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.8.v20160314?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.3.9.M0?classifier=sources
@@ -73,6 +75,12 @@
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.10.RC1?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.10.v20180503?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.11.v20180605?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.12.RC0?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.12.RC1?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.12.RC2?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.12.v20180830?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.13.v20181111?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.14.v20181114?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.2.v20170220?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.2.v20170220?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.2.v20180619?classifier=sources

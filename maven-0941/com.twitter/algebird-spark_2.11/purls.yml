@@ -12,3 +12,5 @@
 - pkg:maven/com.twitter/algebird-spark_2.11@0.12.4?classifier=sources
 - pkg:maven/com.twitter/algebird-spark_2.11@0.13.0
 - pkg:maven/com.twitter/algebird-spark_2.11@0.13.0?classifier=sources
+- pkg:maven/com.twitter/algebird-spark_2.11@0.13.5
+- pkg:maven/com.twitter/algebird-spark_2.11@0.13.5?classifier=sources

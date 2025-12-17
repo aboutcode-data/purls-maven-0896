@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.logging.log4j/log4j-mongodb3@2.11.0
 - pkg:maven/org.apache.logging.log4j/log4j-mongodb3@2.11.0?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-mongodb3@2.11.1
+- pkg:maven/org.apache.logging.log4j/log4j-mongodb3@2.11.1?classifier=sources

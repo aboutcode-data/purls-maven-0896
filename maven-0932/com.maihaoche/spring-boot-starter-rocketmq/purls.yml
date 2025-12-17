@@ -12,3 +12,5 @@
 - pkg:maven/com.maihaoche/spring-boot-starter-rocketmq@0.0.6?classifier=sources
 - pkg:maven/com.maihaoche/spring-boot-starter-rocketmq@0.0.7
 - pkg:maven/com.maihaoche/spring-boot-starter-rocketmq@0.0.7?classifier=sources
+- pkg:maven/com.maihaoche/spring-boot-starter-rocketmq@0.1.0
+- pkg:maven/com.maihaoche/spring-boot-starter-rocketmq@0.1.0?classifier=sources

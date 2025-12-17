@@ -1,0 +1,4 @@
+- pkg:maven/com.indeed/gradle-test-publish@4.0.0
+- pkg:maven/com.indeed/gradle-test-publish@4.0.0?classifier=sources
+- pkg:maven/com.indeed/gradle-test-publish@4.0.1
+- pkg:maven/com.indeed/gradle-test-publish@4.0.1?classifier=sources

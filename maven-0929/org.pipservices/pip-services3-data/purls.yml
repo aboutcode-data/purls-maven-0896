@@ -1,0 +1,2 @@
+- pkg:maven/org.pipservices/pip-services3-data@3.0.0
+- pkg:maven/org.pipservices/pip-services3-data@3.0.0?classifier=sources

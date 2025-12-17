@@ -1,2 +1,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-gradle@1.2.50
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-gradle@1.2.50?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-gradle@1.2.51
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-gradle@1.2.51?classifier=sources

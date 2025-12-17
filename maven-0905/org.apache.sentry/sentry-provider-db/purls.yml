@@ -2,3 +2,6 @@
 - pkg:maven/org.apache.sentry/sentry-provider-db@1.7.1
 - pkg:maven/org.apache.sentry/sentry-provider-db@1.8.0
 - pkg:maven/org.apache.sentry/sentry-provider-db@2.0.0
+- pkg:maven/org.apache.sentry/sentry-provider-db@2.0.1
+- pkg:maven/org.apache.sentry/sentry-provider-db@2.1.0
+- pkg:maven/org.apache.sentry/sentry-provider-db@2.1.0?classifier=sources

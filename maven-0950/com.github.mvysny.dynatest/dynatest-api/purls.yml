@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.12
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.12?classifier=sources

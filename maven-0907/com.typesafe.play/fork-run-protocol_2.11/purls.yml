@@ -67,6 +67,8 @@
 - pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.17?classifier=sources
 - pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.18
 - pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.18?classifier=sources
+- pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.19
+- pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.19?classifier=sources
 - pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.1?classifier=sources
 - pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.2
 - pkg:maven/com.typesafe.play/fork-run-protocol_2.11@2.5.2?classifier=sources

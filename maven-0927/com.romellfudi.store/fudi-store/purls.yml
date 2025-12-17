@@ -1,0 +1,2 @@
+- pkg:maven/com.romellfudi.store/fudi-store@1.0.a?classifier=sources
+- pkg:maven/com.romellfudi.store/fudi-store@1.0.a?type=aar

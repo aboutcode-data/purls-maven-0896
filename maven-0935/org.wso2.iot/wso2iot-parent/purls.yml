@@ -8,3 +8,4 @@
 - pkg:maven/org.wso2.iot/wso2iot-parent@3.1.0-update11?classifier=source-release&type=zip
 - pkg:maven/org.wso2.iot/wso2iot-parent@3.2.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.iot/wso2iot-parent@3.3.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.iot/wso2iot-parent@3.3.1?classifier=source-release&type=zip

@@ -1,0 +1,16 @@
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.10.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.10.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.11.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.11.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.12.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.12.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.13.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.13.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.14.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.14.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.15.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.15.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.8.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.8.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.9.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-pom-migration@7.9.0.Final?classifier=sources

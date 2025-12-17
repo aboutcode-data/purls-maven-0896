@@ -2,3 +2,5 @@
 - pkg:maven/org.visola.spring.security/spring-security-token-filter-spring-boot-starter@1.0?classifier=sources
 - pkg:maven/org.visola.spring.security/spring-security-token-filter-spring-boot-starter@1.1
 - pkg:maven/org.visola.spring.security/spring-security-token-filter-spring-boot-starter@1.1?classifier=sources
+- pkg:maven/org.visola.spring.security/spring-security-token-filter-spring-boot-starter@2.0
+- pkg:maven/org.visola.spring.security/spring-security-token-filter-spring-boot-starter@2.0?classifier=sources

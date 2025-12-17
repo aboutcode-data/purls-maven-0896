@@ -1,0 +1,4 @@
+- pkg:maven/com.metreeca/rest@0.47.0
+- pkg:maven/com.metreeca/rest@0.47.0?classifier=sources
+- pkg:maven/com.metreeca/rest@0.47.1
+- pkg:maven/com.metreeca/rest@0.47.1?classifier=sources

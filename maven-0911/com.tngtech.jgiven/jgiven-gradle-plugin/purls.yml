@@ -24,3 +24,7 @@
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.15.3?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.16.0
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.16.0?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.16.1
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.16.1?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.17.0
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.17.0?classifier=sources

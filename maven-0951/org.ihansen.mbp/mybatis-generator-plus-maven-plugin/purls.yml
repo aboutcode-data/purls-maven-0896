@@ -1,0 +1,4 @@
+- pkg:maven/org.ihansen.mbp/mybatis-generator-plus-maven-plugin@1.4
+- pkg:maven/org.ihansen.mbp/mybatis-generator-plus-maven-plugin@1.4?classifier=sources
+- pkg:maven/org.ihansen.mbp/mybatis-generator-plus-maven-plugin@1.5
+- pkg:maven/org.ihansen.mbp/mybatis-generator-plus-maven-plugin@1.5?classifier=sources

@@ -130,3 +130,7 @@
 - pkg:maven/org.mock-server/mockserver-maven-plugin@5.2.3?classifier=sources
 - pkg:maven/org.mock-server/mockserver-maven-plugin@5.3.0
 - pkg:maven/org.mock-server/mockserver-maven-plugin@5.3.0?classifier=sources
+- pkg:maven/org.mock-server/mockserver-maven-plugin@5.4.1
+- pkg:maven/org.mock-server/mockserver-maven-plugin@5.4.1?classifier=sources
+- pkg:maven/org.mock-server/mockserver-maven-plugin@5.5.0
+- pkg:maven/org.mock-server/mockserver-maven-plugin@5.5.0?classifier=sources

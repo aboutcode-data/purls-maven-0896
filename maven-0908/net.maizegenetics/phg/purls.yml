@@ -1,0 +1,10 @@
+- pkg:maven/net.maizegenetics/phg@0.0.1
+- pkg:maven/net.maizegenetics/phg@0.0.1?classifier=sources
+- pkg:maven/net.maizegenetics/phg@0.0.2
+- pkg:maven/net.maizegenetics/phg@0.0.2?classifier=sources
+- pkg:maven/net.maizegenetics/phg@0.0.4
+- pkg:maven/net.maizegenetics/phg@0.0.4?classifier=sources
+- pkg:maven/net.maizegenetics/phg@0.0.5
+- pkg:maven/net.maizegenetics/phg@0.0.5?classifier=sources
+- pkg:maven/net.maizegenetics/phg@0.0.6
+- pkg:maven/net.maizegenetics/phg@0.0.6?classifier=sources

@@ -125,6 +125,12 @@
 - pkg:maven/org.cactoos/cactoos@0.34?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.35
 - pkg:maven/org.cactoos/cactoos@0.35?classifier=sources
+- pkg:maven/org.cactoos/cactoos@0.36
+- pkg:maven/org.cactoos/cactoos@0.36?classifier=sources
+- pkg:maven/org.cactoos/cactoos@0.37
+- pkg:maven/org.cactoos/cactoos@0.37?classifier=sources
+- pkg:maven/org.cactoos/cactoos@0.38
+- pkg:maven/org.cactoos/cactoos@0.38?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.3?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.4
 - pkg:maven/org.cactoos/cactoos@0.4?classifier=sources

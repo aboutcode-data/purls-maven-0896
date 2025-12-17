@@ -1,0 +1,2 @@
+- pkg:maven/io.rest-assured/spring-web-test-client@3.2.0
+- pkg:maven/io.rest-assured/spring-web-test-client@3.2.0?classifier=sources

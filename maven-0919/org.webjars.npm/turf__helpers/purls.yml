@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/turf__helpers@5.0.0-alpha?classifier=sources
 - pkg:maven/org.webjars.npm/turf__helpers@6.0.0-beta.4
 - pkg:maven/org.webjars.npm/turf__helpers@6.0.0-beta.4?classifier=sources
+- pkg:maven/org.webjars.npm/turf__helpers@6.1.4
+- pkg:maven/org.webjars.npm/turf__helpers@6.1.4?classifier=sources

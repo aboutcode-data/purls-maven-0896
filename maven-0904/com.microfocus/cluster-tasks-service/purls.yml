@@ -1,0 +1,2 @@
+- pkg:maven/com.microfocus/cluster-tasks-service@1.4.0
+- pkg:maven/com.microfocus/cluster-tasks-service@1.4.0?classifier=sources

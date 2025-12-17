@@ -6,3 +6,5 @@
 - pkg:maven/org.jqassistant.contrib.common/rules@1.2.0?classifier=sources
 - pkg:maven/org.jqassistant.contrib.common/rules@1.2.1
 - pkg:maven/org.jqassistant.contrib.common/rules@1.2.1?classifier=sources
+- pkg:maven/org.jqassistant.contrib.common/rules@1.5.0
+- pkg:maven/org.jqassistant.contrib.common/rules@1.5.0?classifier=sources

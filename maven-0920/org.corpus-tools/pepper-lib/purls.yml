@@ -6,3 +6,15 @@
 - pkg:maven/org.corpus-tools/pepper-lib@3.0.2?type=zip
 - pkg:maven/org.corpus-tools/pepper-lib@3.1.0?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-lib@3.1.0?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.1?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.1?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.2?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.2?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.4?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.4?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.5?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.5?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.6?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.6?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.7?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.2.7?type=zip

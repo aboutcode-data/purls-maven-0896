@@ -10,3 +10,7 @@
 - pkg:maven/com.lodsve/lodsve-test@2.6.4.2-RELEASE?classifier=sources
 - pkg:maven/com.lodsve/lodsve-test@2.6.5-RELEASE
 - pkg:maven/com.lodsve/lodsve-test@2.6.5-RELEASE?classifier=sources
+- pkg:maven/com.lodsve/lodsve-test@2.6.6-RELEASE
+- pkg:maven/com.lodsve/lodsve-test@2.6.6-RELEASE?classifier=sources
+- pkg:maven/com.lodsve/lodsve-test@2.6.7-RELEASE
+- pkg:maven/com.lodsve/lodsve-test@2.6.7-RELEASE?classifier=sources

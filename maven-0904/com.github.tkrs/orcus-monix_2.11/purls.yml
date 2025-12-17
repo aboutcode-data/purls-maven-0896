@@ -10,3 +10,5 @@
 - pkg:maven/com.github.tkrs/orcus-monix_2.11@0.15.0?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-monix_2.11@0.16.0
 - pkg:maven/com.github.tkrs/orcus-monix_2.11@0.16.0?classifier=sources
+- pkg:maven/com.github.tkrs/orcus-monix_2.11@0.16.2
+- pkg:maven/com.github.tkrs/orcus-monix_2.11@0.16.2?classifier=sources

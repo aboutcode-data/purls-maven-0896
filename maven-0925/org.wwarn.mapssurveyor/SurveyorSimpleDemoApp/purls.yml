@@ -1,0 +1,4 @@
+- pkg:maven/org.wwarn.mapssurveyor/SurveyorSimpleDemoApp@1.4.3?classifier=sources
+- pkg:maven/org.wwarn.mapssurveyor/SurveyorSimpleDemoApp@1.4.3?type=war
+- pkg:maven/org.wwarn.mapssurveyor/SurveyorSimpleDemoApp@1.4.4?classifier=sources
+- pkg:maven/org.wwarn.mapssurveyor/SurveyorSimpleDemoApp@1.4.4?type=war

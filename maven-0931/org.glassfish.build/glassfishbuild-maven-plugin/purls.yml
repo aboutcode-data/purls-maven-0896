@@ -12,6 +12,8 @@
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.19?classifier=sources
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.20
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.20?classifier=sources
+- pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.26
+- pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.26?classifier=sources
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.3
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.4
 - pkg:maven/org.glassfish.build/glassfishbuild-maven-plugin@3.2.4?classifier=sources

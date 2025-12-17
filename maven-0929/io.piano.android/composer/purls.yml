@@ -20,3 +20,9 @@
 - pkg:maven/io.piano.android/composer@1.0.2?type=aar
 - pkg:maven/io.piano.android/composer@1.0.3?classifier=sources
 - pkg:maven/io.piano.android/composer@1.0.3?type=aar
+- pkg:maven/io.piano.android/composer@1.0.4?classifier=sources
+- pkg:maven/io.piano.android/composer@1.0.4?type=aar
+- pkg:maven/io.piano.android/composer@1.1.0?classifier=sources
+- pkg:maven/io.piano.android/composer@1.1.0?type=aar
+- pkg:maven/io.piano.android/composer@1.2.0?classifier=sources
+- pkg:maven/io.piano.android/composer@1.2.0?type=aar

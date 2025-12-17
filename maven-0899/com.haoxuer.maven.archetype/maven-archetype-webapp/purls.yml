@@ -1,0 +1,2 @@
+- pkg:maven/com.haoxuer.maven.archetype/maven-archetype-webapp@1.01
+- pkg:maven/com.haoxuer.maven.archetype/maven-archetype-webapp@1.01?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.felix/org.apache.felix.framework.security@2.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.framework.security@2.6.0
 - pkg:maven/org.apache.felix/org.apache.felix.framework.security@2.6.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.framework.security@2.6.1
+- pkg:maven/org.apache.felix/org.apache.felix.framework.security@2.6.1?classifier=source-release&type=zip

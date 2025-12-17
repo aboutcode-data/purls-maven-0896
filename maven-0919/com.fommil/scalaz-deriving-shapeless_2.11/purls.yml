@@ -1,0 +1,4 @@
+- pkg:maven/com.fommil/scalaz-deriving-shapeless_2.11@1.0.0-RC8
+- pkg:maven/com.fommil/scalaz-deriving-shapeless_2.11@1.0.0-RC8?classifier=sources
+- pkg:maven/com.fommil/scalaz-deriving-shapeless_2.11@1.0.0-RC9
+- pkg:maven/com.fommil/scalaz-deriving-shapeless_2.11@1.0.0-RC9?classifier=sources

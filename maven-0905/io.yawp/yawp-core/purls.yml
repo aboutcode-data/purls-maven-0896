@@ -110,3 +110,7 @@
 - pkg:maven/io.yawp/yawp-core@1.6.9?classifier=sources
 - pkg:maven/io.yawp/yawp-core@2.0.0alpha
 - pkg:maven/io.yawp/yawp-core@2.0.0alpha?classifier=sources
+- pkg:maven/io.yawp/yawp-core@2.0.3alpha
+- pkg:maven/io.yawp/yawp-core@2.0.3alpha?classifier=sources
+- pkg:maven/io.yawp/yawp-core@2.0.4alpha
+- pkg:maven/io.yawp/yawp-core@2.0.4alpha?classifier=sources

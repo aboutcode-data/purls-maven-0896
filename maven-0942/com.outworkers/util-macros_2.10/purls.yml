@@ -42,3 +42,9 @@
 - pkg:maven/com.outworkers/util-macros_2.10@0.39.1?classifier=sources
 - pkg:maven/com.outworkers/util-macros_2.10@0.40.0
 - pkg:maven/com.outworkers/util-macros_2.10@0.40.0?classifier=sources
+- pkg:maven/com.outworkers/util-macros_2.10@0.43.0
+- pkg:maven/com.outworkers/util-macros_2.10@0.43.0?classifier=sources
+- pkg:maven/com.outworkers/util-macros_2.10@0.44.0
+- pkg:maven/com.outworkers/util-macros_2.10@0.44.0?classifier=sources
+- pkg:maven/com.outworkers/util-macros_2.10@0.45.0
+- pkg:maven/com.outworkers/util-macros_2.10@0.45.0?classifier=sources

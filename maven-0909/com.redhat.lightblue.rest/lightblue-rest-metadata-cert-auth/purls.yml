@@ -24,6 +24,7 @@
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata-cert-auth@2.23.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata-cert-auth@2.24.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata-cert-auth@2.25.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata-cert-auth@2.26.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata-cert-auth@2.3.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata-cert-auth@2.4.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-metadata-cert-auth@2.5.0?type=war

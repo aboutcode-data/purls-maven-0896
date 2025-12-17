@@ -16,3 +16,5 @@
 - pkg:maven/org.glassfish.main.tests/utils@4.1?classifier=sources
 - pkg:maven/org.glassfish.main.tests/utils@5.0
 - pkg:maven/org.glassfish.main.tests/utils@5.0?classifier=sources
+- pkg:maven/org.glassfish.main.tests/utils@5.1.0-RC1
+- pkg:maven/org.glassfish.main.tests/utils@5.1.0-RC1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/tech.sparse/trail_2.11@0.1.0
 - pkg:maven/tech.sparse/trail_2.11@0.1.0?classifier=sources
+- pkg:maven/tech.sparse/trail_2.11@0.1.2
+- pkg:maven/tech.sparse/trail_2.11@0.1.2?classifier=sources

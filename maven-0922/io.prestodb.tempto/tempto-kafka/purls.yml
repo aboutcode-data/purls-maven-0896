@@ -4,3 +4,5 @@
 - pkg:maven/io.prestodb.tempto/tempto-kafka@1.47?classifier=sources
 - pkg:maven/io.prestodb.tempto/tempto-kafka@1.49
 - pkg:maven/io.prestodb.tempto/tempto-kafka@1.49?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-kafka@1.50
+- pkg:maven/io.prestodb.tempto/tempto-kafka@1.50?classifier=sources

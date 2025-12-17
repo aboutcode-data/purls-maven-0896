@@ -1,0 +1,2 @@
+- pkg:maven/org.clojure/core.typed.checker.jvm@0.7.0
+- pkg:maven/org.clojure/core.typed.checker.jvm@0.7.0?classifier=sources

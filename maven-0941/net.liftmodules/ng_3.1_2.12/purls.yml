@@ -8,3 +8,5 @@
 - pkg:maven/net.liftmodules/ng_3.1_2.12@0.12.0-RC3
 - pkg:maven/net.liftmodules/ng_3.1_2.12@0.12.0-RC3?classifier=sources
 - pkg:maven/net.liftmodules/ng_3.1_2.12@0.12.0?classifier=sources
+- pkg:maven/net.liftmodules/ng_3.1_2.12@0.12.1
+- pkg:maven/net.liftmodules/ng_3.1_2.12@0.12.1?classifier=sources

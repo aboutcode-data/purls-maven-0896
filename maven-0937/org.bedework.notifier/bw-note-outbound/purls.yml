@@ -1,2 +1,4 @@
 - pkg:maven/org.bedework.notifier/bw-note-outbound@4.0.2
 - pkg:maven/org.bedework.notifier/bw-note-outbound@4.0.2?classifier=sources
+- pkg:maven/org.bedework.notifier/bw-note-outbound@4.0.3
+- pkg:maven/org.bedework.notifier/bw-note-outbound@4.0.3?classifier=sources

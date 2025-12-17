@@ -1,2 +1,4 @@
 - pkg:maven/me.vican.jorge/directory-watcher@0.5.2-a1c0e21c
 - pkg:maven/me.vican.jorge/directory-watcher@0.5.2-a1c0e21c?classifier=sources
+- pkg:maven/me.vican.jorge/directory-watcher@0.5.2-eade9dbe
+- pkg:maven/me.vican.jorge/directory-watcher@0.5.2-eade9dbe?classifier=sources

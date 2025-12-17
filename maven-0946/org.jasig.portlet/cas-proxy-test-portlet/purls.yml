@@ -6,3 +6,5 @@
 - pkg:maven/org.jasig.portlet/cas-proxy-test-portlet@1.0.0-RC3?type=war
 - pkg:maven/org.jasig.portlet/cas-proxy-test-portlet@1.0.1?classifier=sources
 - pkg:maven/org.jasig.portlet/cas-proxy-test-portlet@1.0.1?type=war
+- pkg:maven/org.jasig.portlet/cas-proxy-test-portlet@1.0.2?classifier=sources
+- pkg:maven/org.jasig.portlet/cas-proxy-test-portlet@1.0.2?type=war

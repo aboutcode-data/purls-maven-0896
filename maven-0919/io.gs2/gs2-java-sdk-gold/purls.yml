@@ -1,2 +1,10 @@
 - pkg:maven/io.gs2/gs2-java-sdk-gold@0.5.1
 - pkg:maven/io.gs2/gs2-java-sdk-gold@0.5.1?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.5.2
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.5.2?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.5.4
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.5.4?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.6.0
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.6.0?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.6.1
+- pkg:maven/io.gs2/gs2-java-sdk-gold@0.6.1?classifier=sources

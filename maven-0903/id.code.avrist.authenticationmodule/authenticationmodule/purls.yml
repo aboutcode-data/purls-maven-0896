@@ -1,0 +1,4 @@
+- pkg:maven/id.code.avrist.authenticationmodule/authenticationmodule@0.0.14?classifier=sources
+- pkg:maven/id.code.avrist.authenticationmodule/authenticationmodule@0.0.14?type=aar
+- pkg:maven/id.code.avrist.authenticationmodule/authenticationmodule@0.0.6?classifier=sources
+- pkg:maven/id.code.avrist.authenticationmodule/authenticationmodule@0.0.6?type=aar

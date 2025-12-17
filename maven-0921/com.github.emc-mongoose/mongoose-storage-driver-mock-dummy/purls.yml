@@ -16,6 +16,8 @@
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@3.6.0-beta8
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@3.6.0-beta8?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@3.6.0?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@3.6.2
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@3.6.2?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@4.0.0-alpha
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@4.0.0-alpha0
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-mock-dummy@4.0.0-alpha0?classifier=sources

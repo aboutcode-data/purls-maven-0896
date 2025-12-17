@@ -18,3 +18,9 @@
 - pkg:maven/ru.tinkoff.acquiring/card-io@1.3.4.F?type=aar
 - pkg:maven/ru.tinkoff.acquiring/card-io@1.3.4?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/card-io@1.3.4?type=aar
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.4.0?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.4.0?type=aar
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.4.1?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.4.1?type=aar
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.4.2?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.4.2?type=aar

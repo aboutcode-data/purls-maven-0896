@@ -18,6 +18,10 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.14.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.14.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.14.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.15.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.15.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.15.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.15.0_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.2.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.2.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.2.0_1?classifier=src&type=tar.gz
@@ -38,3 +42,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.9.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.9.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@1.9.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@2.1.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@2.1.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@2.1.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.okio@2.1.0_1?classifier=src&type=zip

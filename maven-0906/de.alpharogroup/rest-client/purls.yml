@@ -80,3 +80,9 @@
 - pkg:maven/de.alpharogroup/rest-client@6.1.0?classifier=sources
 - pkg:maven/de.alpharogroup/rest-client@6.2.0
 - pkg:maven/de.alpharogroup/rest-client@6.2.0?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@6.3
+- pkg:maven/de.alpharogroup/rest-client@6.3?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@6.4
+- pkg:maven/de.alpharogroup/rest-client@6.4?classifier=sources
+- pkg:maven/de.alpharogroup/rest-client@6.5
+- pkg:maven/de.alpharogroup/rest-client@6.5?classifier=sources

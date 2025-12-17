@@ -1,3 +1,7 @@
+- pkg:maven/org.onosproject/onos-drivers-utilities@1.15.0
+- pkg:maven/org.onosproject/onos-drivers-utilities@1.15.0-rc2
+- pkg:maven/org.onosproject/onos-drivers-utilities@1.15.0-rc2?classifier=sources
+- pkg:maven/org.onosproject/onos-drivers-utilities@1.15.0?classifier=sources
 - pkg:maven/org.onosproject/onos-drivers-utilities@1.5.0
 - pkg:maven/org.onosproject/onos-drivers-utilities@1.5.0?classifier=sources
 - pkg:maven/org.onosproject/onos-drivers-utilities@1.5.1
@@ -30,3 +34,5 @@
 - pkg:maven/org.onosproject/onos-drivers-utilities@1.8.8?classifier=sources
 - pkg:maven/org.onosproject/onos-drivers-utilities@1.8.9
 - pkg:maven/org.onosproject/onos-drivers-utilities@1.8.9?classifier=sources
+- pkg:maven/org.onosproject/onos-drivers-utilities@2.0.0-b1
+- pkg:maven/org.onosproject/onos-drivers-utilities@2.0.0-b1?classifier=sources

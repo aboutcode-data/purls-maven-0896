@@ -10,3 +10,5 @@
 - pkg:maven/com.capitalone.dashboard/chat-ops-collector@2.0.3?classifier=sources
 - pkg:maven/com.capitalone.dashboard/chat-ops-collector@2.0.4
 - pkg:maven/com.capitalone.dashboard/chat-ops-collector@2.0.4?classifier=sources
+- pkg:maven/com.capitalone.dashboard/chat-ops-collector@3.0.1
+- pkg:maven/com.capitalone.dashboard/chat-ops-collector@3.0.1?classifier=sources

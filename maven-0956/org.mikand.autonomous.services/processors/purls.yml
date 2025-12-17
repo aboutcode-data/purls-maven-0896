@@ -1,2 +1,4 @@
 - pkg:maven/org.mikand.autonomous.services/processors@1.0.0
 - pkg:maven/org.mikand.autonomous.services/processors@1.0.0?classifier=sources
+- pkg:maven/org.mikand.autonomous.services/processors@1.0.1
+- pkg:maven/org.mikand.autonomous.services/processors@1.0.1?classifier=sources

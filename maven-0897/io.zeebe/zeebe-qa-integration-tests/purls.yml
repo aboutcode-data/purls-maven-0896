@@ -2,6 +2,11 @@
 - pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.1.1
 - pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.10.0
 - pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.10.1
+- pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.11.0
+- pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.12.0
+- pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.12.1
+- pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.13.0
+- pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.13.1
 - pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.2.0
 - pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.2.1
 - pkg:maven/io.zeebe/zeebe-qa-integration-tests@0.3.0

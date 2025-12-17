@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/ax5ui-calendar@1.4.126
+- pkg:maven/org.webjars.npm/ax5ui-calendar@1.4.126?classifier=sources
 - pkg:maven/org.webjars.npm/ax5ui-calendar@1.4.20
 - pkg:maven/org.webjars.npm/ax5ui-calendar@1.4.20?classifier=sources

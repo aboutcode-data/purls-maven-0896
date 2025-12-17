@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/lodash.isfunction@2.4.1
+- pkg:maven/org.webjars.npm/lodash.isfunction@2.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.isfunction@3.0.7
 - pkg:maven/org.webjars.npm/lodash.isfunction@3.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.isfunction@3.0.8

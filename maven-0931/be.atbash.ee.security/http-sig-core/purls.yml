@@ -1,0 +1,2 @@
+- pkg:maven/be.atbash.ee.security/http-sig-core@0.1
+- pkg:maven/be.atbash.ee.security/http-sig-core@0.1?classifier=sources

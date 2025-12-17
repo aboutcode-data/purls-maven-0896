@@ -8,5 +8,7 @@
 - pkg:maven/org.webjars.bower/datetimepicker@2.5.11?classifier=sources
 - pkg:maven/org.webjars.bower/datetimepicker@2.5.14
 - pkg:maven/org.webjars.bower/datetimepicker@2.5.14?classifier=sources
+- pkg:maven/org.webjars.bower/datetimepicker@2.5.20
+- pkg:maven/org.webjars.bower/datetimepicker@2.5.20?classifier=sources
 - pkg:maven/org.webjars.bower/datetimepicker@2.5.4
 - pkg:maven/org.webjars.bower/datetimepicker@2.5.4?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@7.3.1?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@7.4.0
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@7.4.0?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@7.5.0
+- pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@7.5.0?classifier=sources

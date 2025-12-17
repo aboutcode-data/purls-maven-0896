@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-customimagesearch@1.0.2-beta
+- pkg:maven/com.microsoft.azure.cognitiveservices/azure-cognitiveservices-customimagesearch@1.0.2-beta?classifier=sources

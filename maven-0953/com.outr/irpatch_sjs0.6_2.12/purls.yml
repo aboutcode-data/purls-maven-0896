@@ -4,3 +4,7 @@
 - pkg:maven/com.outr/irpatch_sjs0.6_2.12@2.2.1?classifier=sources
 - pkg:maven/com.outr/irpatch_sjs0.6_2.12@2.3.0
 - pkg:maven/com.outr/irpatch_sjs0.6_2.12@2.3.0?classifier=sources
+- pkg:maven/com.outr/irpatch_sjs0.6_2.12@2.3.1
+- pkg:maven/com.outr/irpatch_sjs0.6_2.12@2.3.1?classifier=sources
+- pkg:maven/com.outr/irpatch_sjs0.6_2.12@2.3.2
+- pkg:maven/com.outr/irpatch_sjs0.6_2.12@2.3.2?classifier=sources

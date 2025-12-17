@@ -1,0 +1,4 @@
+- pkg:maven/de.thalia.boot.trace/thalia-trace-starter@0.0.2
+- pkg:maven/de.thalia.boot.trace/thalia-trace-starter@0.0.2?classifier=sources
+- pkg:maven/de.thalia.boot.trace/thalia-trace-starter@1.0.0
+- pkg:maven/de.thalia.boot.trace/thalia-trace-starter@1.0.0?classifier=sources

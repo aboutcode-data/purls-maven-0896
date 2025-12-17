@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bowergithub.nhnent/raphael@2.2.0b
 - pkg:maven/org.webjars.bowergithub.nhnent/raphael@2.2.0b?classifier=sources
+- pkg:maven/org.webjars.bowergithub.nhnent/raphael@38d4ba69d2
+- pkg:maven/org.webjars.bowergithub.nhnent/raphael@38d4ba69d2?classifier=sources

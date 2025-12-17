@@ -1,0 +1,2 @@
+- pkg:maven/org.nutz/nutzboot-starter-redis-lettuce@2.2.7
+- pkg:maven/org.nutz/nutzboot-starter-redis-lettuce@2.2.7?classifier=sources

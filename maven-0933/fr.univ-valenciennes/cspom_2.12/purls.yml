@@ -20,3 +20,5 @@
 - pkg:maven/fr.univ-valenciennes/cspom_2.12@2.22?classifier=sources
 - pkg:maven/fr.univ-valenciennes/cspom_2.12@2.23
 - pkg:maven/fr.univ-valenciennes/cspom_2.12@2.23?classifier=sources
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.24
+- pkg:maven/fr.univ-valenciennes/cspom_2.12@2.24?classifier=sources

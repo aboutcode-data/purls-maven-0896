@@ -52,6 +52,7 @@
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.4.3?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.4.4
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.4.4?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview1
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview1?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview2
@@ -64,3 +65,12 @@
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview5?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview6
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview6?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview7
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-preview7?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-rc1
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-rc1?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-rc2
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-rc2?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-rc3
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0-rc3?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.0?classifier=sources

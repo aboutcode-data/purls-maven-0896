@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.directory.server/apacheds-i18n@2.0.0-M8?classifier=sources
 - pkg:maven/org.apache.directory.server/apacheds-i18n@2.0.0-M9
 - pkg:maven/org.apache.directory.server/apacheds-i18n@2.0.0-M9?classifier=sources
+- pkg:maven/org.apache.directory.server/apacheds-i18n@2.0.0.AM25
+- pkg:maven/org.apache.directory.server/apacheds-i18n@2.0.0.AM25?classifier=sources

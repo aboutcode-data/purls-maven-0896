@@ -1,0 +1,5 @@
+- pkg:maven/com.trusona/trusona-sdk-resources@3.3.0?classifier=sources
+- pkg:maven/com.trusona/trusona-sdk-resources@3.4.0?classifier=sources
+- pkg:maven/com.trusona/trusona-sdk-resources@3.4.1?classifier=sources
+- pkg:maven/com.trusona/trusona-sdk-resources@3.5.1?classifier=sources
+- pkg:maven/com.trusona/trusona-sdk-resources@3.5.2?classifier=sources

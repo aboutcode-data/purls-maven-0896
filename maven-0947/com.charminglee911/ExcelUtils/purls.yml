@@ -1,0 +1,6 @@
+- pkg:maven/com.charminglee911/ExcelUtils@0.9.release
+- pkg:maven/com.charminglee911/ExcelUtils@0.9.release?classifier=sources
+- pkg:maven/com.charminglee911/ExcelUtils@1.0.release
+- pkg:maven/com.charminglee911/ExcelUtils@1.0.release?classifier=sources
+- pkg:maven/com.charminglee911/ExcelUtils@1.1.release
+- pkg:maven/com.charminglee911/ExcelUtils@1.1.release?classifier=sources

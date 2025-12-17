@@ -26,3 +26,5 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.2.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.3.0
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.3.0?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.4.0
+- pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.4.0?classifier=sources

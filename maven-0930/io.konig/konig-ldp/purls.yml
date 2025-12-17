@@ -14,6 +14,7 @@
 - pkg:maven/io.konig/konig-ldp@1.7.6?classifier=sources
 - pkg:maven/io.konig/konig-ldp@1.7.7
 - pkg:maven/io.konig/konig-ldp@1.7.7?classifier=sources
+- pkg:maven/io.konig/konig-ldp@2.0.0
 - pkg:maven/io.konig/konig-ldp@2.0.0-1
 - pkg:maven/io.konig/konig-ldp@2.0.0-1?classifier=sources
 - pkg:maven/io.konig/konig-ldp@2.0.0-2
@@ -26,3 +27,6 @@
 - pkg:maven/io.konig/konig-ldp@2.0.0-6?classifier=sources
 - pkg:maven/io.konig/konig-ldp@2.0.0-7
 - pkg:maven/io.konig/konig-ldp@2.0.0-7?classifier=sources
+- pkg:maven/io.konig/konig-ldp@2.0.0?classifier=sources
+- pkg:maven/io.konig/konig-ldp@2.1.0
+- pkg:maven/io.konig/konig-ldp@2.1.0?classifier=sources

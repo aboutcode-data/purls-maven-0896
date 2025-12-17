@@ -1,0 +1,4 @@
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.editor.tests@3.0.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.editor.tests@3.1.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.editor.tests@3.2.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/net.officefloor.eclipse.editor.tests@3.3.0?classifier=sources

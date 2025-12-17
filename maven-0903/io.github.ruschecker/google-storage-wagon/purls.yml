@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ruschecker/google-storage-wagon@1.3
+- pkg:maven/io.github.ruschecker/google-storage-wagon@1.3?classifier=sources

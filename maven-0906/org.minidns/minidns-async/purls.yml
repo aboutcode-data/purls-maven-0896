@@ -2,3 +2,15 @@
 - pkg:maven/org.minidns/minidns-async@0.3.0-alpha1
 - pkg:maven/org.minidns/minidns-async@0.3.0-alpha1?classifier=sources
 - pkg:maven/org.minidns/minidns-async@0.3.0?classifier=sources
+- pkg:maven/org.minidns/minidns-async@0.3.1
+- pkg:maven/org.minidns/minidns-async@0.3.1?classifier=sources
+- pkg:maven/org.minidns/minidns-async@0.3.2
+- pkg:maven/org.minidns/minidns-async@0.3.2?classifier=sources
+- pkg:maven/org.minidns/minidns-async@0.3.3
+- pkg:maven/org.minidns/minidns-async@0.3.3?classifier=sources
+- pkg:maven/org.minidns/minidns-async@0.4.0-alpha1
+- pkg:maven/org.minidns/minidns-async@0.4.0-alpha1?classifier=sources
+- pkg:maven/org.minidns/minidns-async@0.4.0-alpha2
+- pkg:maven/org.minidns/minidns-async@0.4.0-alpha2?classifier=sources
+- pkg:maven/org.minidns/minidns-async@0.4.0-alpha3
+- pkg:maven/org.minidns/minidns-async@0.4.0-alpha3?classifier=sources

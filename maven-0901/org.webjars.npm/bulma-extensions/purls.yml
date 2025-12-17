@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/bulma-extensions@1.0.13
 - pkg:maven/org.webjars.npm/bulma-extensions@1.0.13?classifier=sources
+- pkg:maven/org.webjars.npm/bulma-extensions@3.0.0
+- pkg:maven/org.webjars.npm/bulma-extensions@3.0.0?classifier=sources

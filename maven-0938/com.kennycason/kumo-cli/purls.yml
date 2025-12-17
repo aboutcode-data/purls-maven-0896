@@ -6,5 +6,7 @@
 - pkg:maven/com.kennycason/kumo-cli@1.12?classifier=sources
 - pkg:maven/com.kennycason/kumo-cli@1.13
 - pkg:maven/com.kennycason/kumo-cli@1.13?classifier=sources
+- pkg:maven/com.kennycason/kumo-cli@1.17
+- pkg:maven/com.kennycason/kumo-cli@1.17?classifier=sources
 - pkg:maven/com.kennycason/kumo-cli@1.9
 - pkg:maven/com.kennycason/kumo-cli@1.9?classifier=sources

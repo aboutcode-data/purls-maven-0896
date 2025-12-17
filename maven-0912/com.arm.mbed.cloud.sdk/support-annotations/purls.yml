@@ -1,3 +1,5 @@
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.10?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.10?type=zip
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.3?classifier=sources
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.3?type=zip
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.4?classifier=sources
@@ -10,3 +12,11 @@
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.7?type=zip
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.8?classifier=sources
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.8?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.9?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.9?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.0.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.0.0?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.1.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.1.0?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.2.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.2.0?type=zip

@@ -10,3 +10,5 @@
 - pkg:maven/com.helger.maven/ph-buildinfo-maven-plugin@2.0.0?classifier=sources
 - pkg:maven/com.helger.maven/ph-buildinfo-maven-plugin@2.1.0
 - pkg:maven/com.helger.maven/ph-buildinfo-maven-plugin@2.1.0?classifier=sources
+- pkg:maven/com.helger.maven/ph-buildinfo-maven-plugin@3.0.0
+- pkg:maven/com.helger.maven/ph-buildinfo-maven-plugin@3.0.0?classifier=sources

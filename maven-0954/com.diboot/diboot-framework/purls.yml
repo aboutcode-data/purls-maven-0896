@@ -1,0 +1,2 @@
+- pkg:maven/com.diboot/diboot-framework@1.5
+- pkg:maven/com.diboot/diboot-framework@1.5?classifier=sources

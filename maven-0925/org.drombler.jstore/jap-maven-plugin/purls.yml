@@ -1,0 +1,2 @@
+- pkg:maven/org.drombler.jstore/jap-maven-plugin@0.1
+- pkg:maven/org.drombler.jstore/jap-maven-plugin@0.1?classifier=sources

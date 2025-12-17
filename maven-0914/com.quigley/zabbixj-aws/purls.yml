@@ -1,0 +1,2 @@
+- pkg:maven/com.quigley/zabbixj-aws@6
+- pkg:maven/com.quigley/zabbixj-aws@6?classifier=sources

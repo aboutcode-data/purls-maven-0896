@@ -1,0 +1,8 @@
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.3.RELEASE
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.3.RELEASE?classifier=sources
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.4.RELEASE
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.4.RELEASE?classifier=sources
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.5.RELEASE
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.5.RELEASE?classifier=sources
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.6.RELEASE
+- pkg:maven/com.gitee.hengboy/code-builder-maven-plugin@1.0.6.RELEASE?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.10.0
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.10.0?classifier=sources
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.10.1
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.10.1?classifier=sources
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.22
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.22?classifier=sources
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.23
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.23?classifier=sources
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.24
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.24?classifier=sources
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.25
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.25?classifier=sources
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.26
+- pkg:maven/com.trasier/trasier-client-opentracing-interceptor-spring-cloud@0.9.26?classifier=sources

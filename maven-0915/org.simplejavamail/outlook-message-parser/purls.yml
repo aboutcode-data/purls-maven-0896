@@ -2,3 +2,5 @@
 - pkg:maven/org.simplejavamail/outlook-message-parser@1.1.16-java6-release
 - pkg:maven/org.simplejavamail/outlook-message-parser@1.1.16-java6-release?classifier=sources
 - pkg:maven/org.simplejavamail/outlook-message-parser@1.1.16?classifier=sources
+- pkg:maven/org.simplejavamail/outlook-message-parser@1.1.17
+- pkg:maven/org.simplejavamail/outlook-message-parser@1.1.17?classifier=sources

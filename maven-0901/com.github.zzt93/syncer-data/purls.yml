@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zzt93/syncer-data@1.0
+- pkg:maven/com.github.zzt93/syncer-data@1.0?classifier=sources

@@ -39,4 +39,10 @@
 - pkg:maven/org.ow2.asm/asm-analysis@6.1.1?classifier=sources
 - pkg:maven/org.ow2.asm/asm-analysis@6.1?classifier=sources
 - pkg:maven/org.ow2.asm/asm-analysis@6.2
+- pkg:maven/org.ow2.asm/asm-analysis@6.2.1
+- pkg:maven/org.ow2.asm/asm-analysis@6.2.1?classifier=sources
 - pkg:maven/org.ow2.asm/asm-analysis@6.2?classifier=sources
+- pkg:maven/org.ow2.asm/asm-analysis@7.0
+- pkg:maven/org.ow2.asm/asm-analysis@7.0-beta
+- pkg:maven/org.ow2.asm/asm-analysis@7.0-beta?classifier=sources
+- pkg:maven/org.ow2.asm/asm-analysis@7.0?classifier=sources

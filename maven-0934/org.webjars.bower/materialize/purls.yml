@@ -30,3 +30,5 @@
 - pkg:maven/org.webjars.bower/materialize@1.0.0-alpha.2?classifier=sources
 - pkg:maven/org.webjars.bower/materialize@1.0.0-beta
 - pkg:maven/org.webjars.bower/materialize@1.0.0-beta?classifier=sources
+- pkg:maven/org.webjars.bower/materialize@1.0.0-rc.2
+- pkg:maven/org.webjars.bower/materialize@1.0.0-rc.2?classifier=sources

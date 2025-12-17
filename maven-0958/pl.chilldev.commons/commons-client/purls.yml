@@ -15,6 +15,8 @@
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.15?classifier=sources
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.16
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.16?classifier=sources
+- pkg:maven/pl.chilldev.commons/commons-client@0.3.19
+- pkg:maven/pl.chilldev.commons/commons-client@0.3.19?classifier=sources
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.1?classifier=sources
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.2
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.2?classifier=sources
@@ -26,3 +28,9 @@
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.8?classifier=sources
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.9
 - pkg:maven/pl.chilldev.commons/commons-client@0.3.9?classifier=sources
+- pkg:maven/pl.chilldev.commons/commons-client@0.4.0
+- pkg:maven/pl.chilldev.commons/commons-client@0.4.0?classifier=sources
+- pkg:maven/pl.chilldev.commons/commons-client@0.4.1
+- pkg:maven/pl.chilldev.commons/commons-client@0.4.1?classifier=sources
+- pkg:maven/pl.chilldev.commons/commons-client@0.4.4
+- pkg:maven/pl.chilldev.commons/commons-client@0.4.4?classifier=sources

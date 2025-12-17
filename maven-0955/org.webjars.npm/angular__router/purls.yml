@@ -100,3 +100,13 @@
 - pkg:maven/org.webjars.npm/angular__router@5.2.10?classifier=sources
 - pkg:maven/org.webjars.npm/angular__router@5.2.3
 - pkg:maven/org.webjars.npm/angular__router@5.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/angular__router@6.0.7
+- pkg:maven/org.webjars.npm/angular__router@6.0.7?classifier=sources
+- pkg:maven/org.webjars.npm/angular__router@6.1.0
+- pkg:maven/org.webjars.npm/angular__router@6.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/angular__router@6.1.4
+- pkg:maven/org.webjars.npm/angular__router@6.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/angular__router@6.1.9
+- pkg:maven/org.webjars.npm/angular__router@6.1.9?classifier=sources
+- pkg:maven/org.webjars.npm/angular__router@7.0.0-rc.1
+- pkg:maven/org.webjars.npm/angular__router@7.0.0-rc.1?classifier=sources

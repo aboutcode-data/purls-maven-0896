@@ -98,3 +98,17 @@
 - pkg:maven/net.morimekta.providence/providence-testing@1.5.1?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-testing@1.5.2
 - pkg:maven/net.morimekta.providence/providence-testing@1.5.2?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-testing@1.6.0
+- pkg:maven/net.morimekta.providence/providence-testing@1.6.0?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-testing@1.6.1
+- pkg:maven/net.morimekta.providence/providence-testing@1.6.1?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-testing@1.7.0
+- pkg:maven/net.morimekta.providence/providence-testing@1.7.0?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-testing@1.7.1
+- pkg:maven/net.morimekta.providence/providence-testing@1.7.1?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-testing@1.7.2
+- pkg:maven/net.morimekta.providence/providence-testing@1.7.2?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-testing@1.8.0
+- pkg:maven/net.morimekta.providence/providence-testing@1.8.0?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-testing@1.9.0
+- pkg:maven/net.morimekta.providence/providence-testing@1.9.0?classifier=sources

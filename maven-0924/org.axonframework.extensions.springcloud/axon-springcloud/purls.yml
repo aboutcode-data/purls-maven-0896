@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud@4.0
+- pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud@4.0?classifier=sources

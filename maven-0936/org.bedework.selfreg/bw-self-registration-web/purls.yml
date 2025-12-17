@@ -1,2 +1,4 @@
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@4.0.3
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@4.0.3?classifier=sources
+- pkg:maven/org.bedework.selfreg/bw-self-registration-web@4.0.5
+- pkg:maven/org.bedework.selfreg/bw-self-registration-web@4.0.5?classifier=sources

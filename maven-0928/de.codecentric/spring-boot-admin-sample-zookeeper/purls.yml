@@ -38,3 +38,13 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@1.5.7?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.1
 - pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.1?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.2
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.2?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.3
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.3?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.4
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.0.4?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.1.0
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.1.0?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.1.1
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@2.1.1?classifier=sources

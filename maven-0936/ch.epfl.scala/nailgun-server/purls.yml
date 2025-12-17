@@ -1,5 +1,9 @@
+- pkg:maven/ch.epfl.scala/nailgun-server@0c8b937b
+- pkg:maven/ch.epfl.scala/nailgun-server@0c8b937b?classifier=sources
 - pkg:maven/ch.epfl.scala/nailgun-server@12448b9b
 - pkg:maven/ch.epfl.scala/nailgun-server@12448b9b?classifier=sources
+- pkg:maven/ch.epfl.scala/nailgun-server@27614371
+- pkg:maven/ch.epfl.scala/nailgun-server@27614371?classifier=sources
 - pkg:maven/ch.epfl.scala/nailgun-server@3574ab4f
 - pkg:maven/ch.epfl.scala/nailgun-server@3574ab4f?classifier=sources
 - pkg:maven/ch.epfl.scala/nailgun-server@49c9e6c6

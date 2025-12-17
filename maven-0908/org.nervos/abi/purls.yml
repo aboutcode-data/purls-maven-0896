@@ -1,0 +1,10 @@
+- pkg:maven/org.nervos/abi@0.17.1
+- pkg:maven/org.nervos/abi@0.17.1?classifier=sources
+- pkg:maven/org.nervos/abi@0.18
+- pkg:maven/org.nervos/abi@0.18-android
+- pkg:maven/org.nervos/abi@0.18-android?classifier=sources
+- pkg:maven/org.nervos/abi@0.18?classifier=sources
+- pkg:maven/org.nervos/abi@0.19
+- pkg:maven/org.nervos/abi@0.19?classifier=sources
+- pkg:maven/org.nervos/abi@0.20
+- pkg:maven/org.nervos/abi@0.20?classifier=sources

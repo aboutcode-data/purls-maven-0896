@@ -14,6 +14,8 @@
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC3
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0-RC3?classifier=sources
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.0?classifier=sources
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.1
+- pkg:maven/net.liftmodules/ng_2.6_2.11@0.12.1?classifier=sources
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.5.0
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.5.0?classifier=sources
 - pkg:maven/net.liftmodules/ng_2.6_2.11@0.5.1

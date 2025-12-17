@@ -34,3 +34,5 @@
 - pkg:maven/org.digidoc4j.dss/dss-service@5.2.d4j.2?classifier=sources
 - pkg:maven/org.digidoc4j.dss/dss-service@5.2.d4j.3
 - pkg:maven/org.digidoc4j.dss/dss-service@5.2.d4j.3?classifier=sources
+- pkg:maven/org.digidoc4j.dss/dss-service@5.2.d4j.4
+- pkg:maven/org.digidoc4j.dss/dss-service@5.2.d4j.4?classifier=sources

@@ -41,6 +41,16 @@
 - pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.20?classifier=sources
 - pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.21
 - pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.21?classifier=sources
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.22
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.22?classifier=sources
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.23
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.23?classifier=sources
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.24
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.24?classifier=sources
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.25
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.25?classifier=sources
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.26
+- pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.26?classifier=sources
 - pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.2?classifier=sources
 - pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.3
 - pkg:maven/org.jupiter-rpc/jupiter-transport-netty@1.2.3?classifier=sources

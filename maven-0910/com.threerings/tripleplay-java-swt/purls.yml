@@ -11,4 +11,6 @@
 - pkg:maven/com.threerings/tripleplay-java-swt@2.0.2a?classifier=sources
 - pkg:maven/com.threerings/tripleplay-java-swt@2.0.3
 - pkg:maven/com.threerings/tripleplay-java-swt@2.0.3?classifier=sources
+- pkg:maven/com.threerings/tripleplay-java-swt@2.0.4
+- pkg:maven/com.threerings/tripleplay-java-swt@2.0.4?classifier=sources
 - pkg:maven/com.threerings/tripleplay-java-swt@2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.narayana/txn-recovery-marker-jdbc-hibernate4@1.1.1.Final
+- pkg:maven/io.narayana/txn-recovery-marker-jdbc-hibernate4@1.1.1.Final?classifier=sources
+- pkg:maven/io.narayana/txn-recovery-marker-jdbc-hibernate4@1.1.2.Final
+- pkg:maven/io.narayana/txn-recovery-marker-jdbc-hibernate4@1.1.2.Final?classifier=sources

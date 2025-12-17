@@ -12,3 +12,5 @@
 - pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.8?classifier=sources
 - pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.9
 - pkg:maven/co.paralleluniverse/quasar-disruptor@0.7.9?classifier=sources
+- pkg:maven/co.paralleluniverse/quasar-disruptor@0.8.0
+- pkg:maven/co.paralleluniverse/quasar-disruptor@0.8.0?classifier=sources

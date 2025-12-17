@@ -22,3 +22,5 @@
 - pkg:maven/de.leanovate.swaggercheck/json-schema-model_2.11@0.99?classifier=sources
 - pkg:maven/de.leanovate.swaggercheck/json-schema-model_2.11@1.0.0
 - pkg:maven/de.leanovate.swaggercheck/json-schema-model_2.11@1.0.0?classifier=sources
+- pkg:maven/de.leanovate.swaggercheck/json-schema-model_2.11@1.0.1
+- pkg:maven/de.leanovate.swaggercheck/json-schema-model_2.11@1.0.1?classifier=sources

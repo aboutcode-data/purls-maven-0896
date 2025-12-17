@@ -10,6 +10,8 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.13.1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.13?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.13?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.14?classifier=sources
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.14?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.6?classifier=sources
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.6?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-mbean-test@1.7?classifier=sources

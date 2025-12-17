@@ -1,0 +1,6 @@
+- pkg:maven/net.bis5.mattermost4j/mattermost4j-core@0.0.1
+- pkg:maven/net.bis5.mattermost4j/mattermost4j-core@0.0.1?classifier=sources
+- pkg:maven/net.bis5.mattermost4j/mattermost4j-core@0.1.0
+- pkg:maven/net.bis5.mattermost4j/mattermost4j-core@0.1.0?classifier=sources
+- pkg:maven/net.bis5.mattermost4j/mattermost4j-core@0.1.1
+- pkg:maven/net.bis5.mattermost4j/mattermost4j-core@0.1.1?classifier=sources

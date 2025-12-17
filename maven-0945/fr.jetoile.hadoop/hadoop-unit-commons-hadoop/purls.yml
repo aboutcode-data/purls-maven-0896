@@ -10,3 +10,7 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons-hadoop@2.6?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons-hadoop@2.7
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons-hadoop@2.7?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons-hadoop@2.8
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons-hadoop@2.8?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons-hadoop@2.9
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons-hadoop@2.9?classifier=sources

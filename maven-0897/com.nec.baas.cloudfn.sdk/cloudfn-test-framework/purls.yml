@@ -1,0 +1,4 @@
+- pkg:maven/com.nec.baas.cloudfn.sdk/cloudfn-test-framework@7.0.2
+- pkg:maven/com.nec.baas.cloudfn.sdk/cloudfn-test-framework@7.0.2?classifier=sources
+- pkg:maven/com.nec.baas.cloudfn.sdk/cloudfn-test-framework@7.5.0
+- pkg:maven/com.nec.baas.cloudfn.sdk/cloudfn-test-framework@7.5.0?classifier=sources

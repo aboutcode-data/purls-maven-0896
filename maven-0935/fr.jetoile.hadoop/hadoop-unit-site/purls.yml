@@ -1,2 +1,4 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-site@2.6
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-site@2.7
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-site@2.8
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-site@2.9

@@ -1,2 +1,4 @@
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-examples_2.12@1.7.7
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-examples_2.12@1.7.7?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-examples_2.12@2.4.1
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-examples_2.12@2.4.1?classifier=sources

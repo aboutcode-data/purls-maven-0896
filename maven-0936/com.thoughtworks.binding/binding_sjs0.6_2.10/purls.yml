@@ -44,6 +44,16 @@
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.0.0?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.0.1
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.0.1?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.1.0
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.1.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.1.1
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.1.1?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.1.2
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.1.2?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.2.0
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.2.0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.3.0
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@11.3.0?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@8.0.0
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@8.0.0?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.10@8.0.1

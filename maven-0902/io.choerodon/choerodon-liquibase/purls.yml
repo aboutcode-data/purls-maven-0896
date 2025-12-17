@@ -1,0 +1,14 @@
+- pkg:maven/io.choerodon/choerodon-liquibase@0.5.4.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.5.4.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.0.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.1.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.1.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.2.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.2.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.3.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.3.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.4.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.6.4.RELEASE?classifier=sources
+- pkg:maven/io.choerodon/choerodon-liquibase@0.7.0.RELEASE
+- pkg:maven/io.choerodon/choerodon-liquibase@0.7.0.RELEASE?classifier=sources

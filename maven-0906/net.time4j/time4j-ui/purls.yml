@@ -40,3 +40,7 @@
 - pkg:maven/net.time4j/time4j-ui@4.37?classifier=sources
 - pkg:maven/net.time4j/time4j-ui@4.38
 - pkg:maven/net.time4j/time4j-ui@4.38?classifier=sources
+- pkg:maven/net.time4j/time4j-ui@5.0
+- pkg:maven/net.time4j/time4j-ui@5.0?classifier=sources
+- pkg:maven/net.time4j/time4j-ui@5.1
+- pkg:maven/net.time4j/time4j-ui@5.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.netflix.ndbench/ndbench-cockroachdb-plugins@0.3.18
+- pkg:maven/com.netflix.ndbench/ndbench-cockroachdb-plugins@0.3.18?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-cockroachdb-plugins@0.4.0
+- pkg:maven/com.netflix.ndbench/ndbench-cockroachdb-plugins@0.4.0?classifier=sources
+- pkg:maven/com.netflix.ndbench/ndbench-cockroachdb-plugins@0.4.1
+- pkg:maven/com.netflix.ndbench/ndbench-cockroachdb-plugins@0.4.1?classifier=sources
