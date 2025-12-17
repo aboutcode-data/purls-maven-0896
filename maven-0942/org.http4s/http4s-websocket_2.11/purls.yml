@@ -10,3 +10,5 @@
 - pkg:maven/org.http4s/http4s-websocket_2.11@0.1.4?classifier=sources
 - pkg:maven/org.http4s/http4s-websocket_2.11@0.1.6
 - pkg:maven/org.http4s/http4s-websocket_2.11@0.1.6?classifier=sources
+- pkg:maven/org.http4s/http4s-websocket_2.11@0.2.0
+- pkg:maven/org.http4s/http4s-websocket_2.11@0.2.0?classifier=sources

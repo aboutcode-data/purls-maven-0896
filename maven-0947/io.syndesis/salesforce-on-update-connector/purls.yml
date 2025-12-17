@@ -1,0 +1,14 @@
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.2
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.2?classifier=sources
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.3
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.3?classifier=sources
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.4
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.4?classifier=sources
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.5
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.5?classifier=sources
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.6
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.6?classifier=sources
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.7
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.7?classifier=sources
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.8
+- pkg:maven/io.syndesis/salesforce-on-update-connector@0.5.8?classifier=sources

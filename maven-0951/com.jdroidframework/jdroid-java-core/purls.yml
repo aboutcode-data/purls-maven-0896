@@ -1,2 +1,6 @@
 - pkg:maven/com.jdroidframework/jdroid-java-core@0.13.0
 - pkg:maven/com.jdroidframework/jdroid-java-core@0.13.0?classifier=sources
+- pkg:maven/com.jdroidframework/jdroid-java-core@0.14.0
+- pkg:maven/com.jdroidframework/jdroid-java-core@0.14.0?classifier=sources
+- pkg:maven/com.jdroidframework/jdroid-java-core@0.15.0
+- pkg:maven/com.jdroidframework/jdroid-java-core@0.15.0?classifier=sources

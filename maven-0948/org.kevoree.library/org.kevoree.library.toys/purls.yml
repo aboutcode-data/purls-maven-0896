@@ -1,0 +1,6 @@
+- pkg:maven/org.kevoree.library/org.kevoree.library.toys@5.5.0
+- pkg:maven/org.kevoree.library/org.kevoree.library.toys@5.5.0?classifier=sources
+- pkg:maven/org.kevoree.library/org.kevoree.library.toys@5.5.2
+- pkg:maven/org.kevoree.library/org.kevoree.library.toys@5.5.2?classifier=sources
+- pkg:maven/org.kevoree.library/org.kevoree.library.toys@5.5.3
+- pkg:maven/org.kevoree.library/org.kevoree.library.toys@5.5.3?classifier=sources

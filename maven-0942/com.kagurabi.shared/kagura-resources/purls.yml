@@ -10,3 +10,5 @@
 - pkg:maven/com.kagurabi.shared/kagura-resources@1.7?classifier=sources
 - pkg:maven/com.kagurabi.shared/kagura-resources@1.8
 - pkg:maven/com.kagurabi.shared/kagura-resources@1.8?classifier=sources
+- pkg:maven/com.kagurabi.shared/kagura-resources@1.9
+- pkg:maven/com.kagurabi.shared/kagura-resources@1.9?classifier=sources

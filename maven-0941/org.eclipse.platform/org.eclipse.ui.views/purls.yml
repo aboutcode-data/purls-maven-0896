@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.8.101?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.8.102
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.8.102?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.9.0
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.9.0?classifier=sources

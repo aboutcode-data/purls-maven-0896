@@ -1,1 +1,2 @@
 - pkg:maven/com.github.choonchernlim/choonchernlim-archetype-jar@0.1.0?classifier=sources
+- pkg:maven/com.github.choonchernlim/choonchernlim-archetype-jar@2.0.0?classifier=sources

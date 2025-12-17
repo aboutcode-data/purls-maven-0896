@@ -14,3 +14,5 @@
 - pkg:maven/be.wegenenverkeer/atomium-server_2.10@0.8.2?classifier=sources
 - pkg:maven/be.wegenenverkeer/atomium-server_2.10@1.0.0
 - pkg:maven/be.wegenenverkeer/atomium-server_2.10@1.0.0?classifier=sources
+- pkg:maven/be.wegenenverkeer/atomium-server_2.10@1.1.0
+- pkg:maven/be.wegenenverkeer/atomium-server_2.10@1.1.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/me.wuwenbin/template-utils-wep@1.0.0.RELEASE
 - pkg:maven/me.wuwenbin/template-utils-wep@1.0.0.RELEASE?classifier=sources
 - pkg:maven/me.wuwenbin/template-utils-wep@1.0.0?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-wep@1.1.0.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-wep@1.1.0.RELEASE?classifier=sources

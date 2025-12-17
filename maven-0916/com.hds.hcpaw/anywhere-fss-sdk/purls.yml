@@ -2,3 +2,5 @@
 - pkg:maven/com.hds.hcpaw/anywhere-fss-sdk@2.1.1.17?classifier=sources
 - pkg:maven/com.hds.hcpaw/anywhere-fss-sdk@3.0.0.20
 - pkg:maven/com.hds.hcpaw/anywhere-fss-sdk@3.0.0.20?classifier=sources
+- pkg:maven/com.hds.hcpaw/anywhere-fss-sdk@3.0.3.58
+- pkg:maven/com.hds.hcpaw/anywhere-fss-sdk@3.0.3.58?classifier=sources

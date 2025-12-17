@@ -2,3 +2,9 @@
 - pkg:maven/com.helger/ph-as4-lib@0.5.0?classifier=sources
 - pkg:maven/com.helger/ph-as4-lib@0.6.0
 - pkg:maven/com.helger/ph-as4-lib@0.6.0?classifier=sources
+- pkg:maven/com.helger/ph-as4-lib@0.7.0
+- pkg:maven/com.helger/ph-as4-lib@0.7.0?classifier=sources
+- pkg:maven/com.helger/ph-as4-lib@0.8.0-b1
+- pkg:maven/com.helger/ph-as4-lib@0.8.0-b1?classifier=sources
+- pkg:maven/com.helger/ph-as4-lib@0.8.0-b2
+- pkg:maven/com.helger/ph-as4-lib@0.8.0-b2?classifier=sources

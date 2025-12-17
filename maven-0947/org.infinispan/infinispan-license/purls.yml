@@ -1,5 +1,6 @@
 - pkg:maven/org.infinispan/infinispan-license@1
 - pkg:maven/org.infinispan/infinispan-license@8.2.7.Final
+- pkg:maven/org.infinispan/infinispan-license@8.2.8.Final
 - pkg:maven/org.infinispan/infinispan-license@9.0.0.CR2
 - pkg:maven/org.infinispan/infinispan-license@9.0.0.CR3
 - pkg:maven/org.infinispan/infinispan-license@9.0.0.CR4
@@ -9,3 +10,13 @@
 - pkg:maven/org.infinispan/infinispan-license@9.0.3.Final
 - pkg:maven/org.infinispan/infinispan-license@9.1.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-license@9.1.0.Beta1
+- pkg:maven/org.infinispan/infinispan-license@9.1.0.CR1
+- pkg:maven/org.infinispan/infinispan-license@9.1.0.Final
+- pkg:maven/org.infinispan/infinispan-license@9.1.1.Final
+- pkg:maven/org.infinispan/infinispan-license@9.1.2.Final
+- pkg:maven/org.infinispan/infinispan-license@9.1.3.Final
+- pkg:maven/org.infinispan/infinispan-license@9.1.4.Final
+- pkg:maven/org.infinispan/infinispan-license@9.2.0.Alpha1
+- pkg:maven/org.infinispan/infinispan-license@9.2.0.Alpha2
+- pkg:maven/org.infinispan/infinispan-license@9.2.0.Beta1
+- pkg:maven/org.infinispan/infinispan-license@9.2.0.Beta2

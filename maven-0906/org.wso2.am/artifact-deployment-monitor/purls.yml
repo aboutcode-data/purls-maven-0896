@@ -1,0 +1,14 @@
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update1?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update1?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update2?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update2?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update3?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update3?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update4?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update4?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update5?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update5?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update6?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.1.0-update6?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.2.0-m1?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@2.2.0-m1?type=war

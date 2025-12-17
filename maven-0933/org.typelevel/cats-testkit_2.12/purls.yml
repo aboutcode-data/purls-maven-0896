@@ -1,0 +1,10 @@
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0-MF
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0-MF?classifier=sources
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0-RC1
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0-RC1?classifier=sources
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0-RC2
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0-RC2?classifier=sources
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.0?classifier=sources
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.1
+- pkg:maven/org.typelevel/cats-testkit_2.12@1.0.1?classifier=sources

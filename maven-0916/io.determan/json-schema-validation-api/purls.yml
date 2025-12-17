@@ -1,0 +1,2 @@
+- pkg:maven/io.determan/json-schema-validation-api@0.0.1
+- pkg:maven/io.determan/json-schema-validation-api@0.0.1?classifier=sources

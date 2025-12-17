@@ -1,3 +1,5 @@
+- pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.100
+- pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.100?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.85
 - pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.85?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.86
@@ -24,3 +26,5 @@
 - pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.96?classifier=sources
 - pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.97
 - pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.97?classifier=sources
+- pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.98
+- pkg:maven/fr.iscpif.gridscale/pbs_2.11@1.98?classifier=sources

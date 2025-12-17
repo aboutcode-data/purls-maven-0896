@@ -1,0 +1,4 @@
+- pkg:maven/com.github.liaochong/ratel-tools-validator@1.0.0
+- pkg:maven/com.github.liaochong/ratel-tools-validator@1.0.0-snapshot
+- pkg:maven/com.github.liaochong/ratel-tools-validator@1.0.0-snapshot?classifier=sources
+- pkg:maven/com.github.liaochong/ratel-tools-validator@1.0.0?classifier=sources

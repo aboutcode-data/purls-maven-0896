@@ -1,0 +1,4 @@
+- pkg:maven/com.cemerick/clojurescript@1.9.921
+- pkg:maven/com.cemerick/clojurescript@1.9.921?classifier=sources
+- pkg:maven/com.cemerick/clojurescript@1.9.922
+- pkg:maven/com.cemerick/clojurescript@1.9.922?classifier=sources

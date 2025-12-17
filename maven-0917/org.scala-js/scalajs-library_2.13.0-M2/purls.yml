@@ -1,0 +1,12 @@
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.18
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.18?classifier=sources
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.19
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.19?classifier=sources
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.20
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.20?classifier=sources
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.21
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@0.6.21?classifier=sources
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@1.0.0-M1
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@1.0.0-M1?classifier=sources
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@1.0.0-M2
+- pkg:maven/org.scala-js/scalajs-library_2.13.0-M2@1.0.0-M2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/top.fastsql/fastsql@0.9.0
+- pkg:maven/top.fastsql/fastsql@0.9.0?classifier=sources
+- pkg:maven/top.fastsql/fastsql@0.9.3
+- pkg:maven/top.fastsql/fastsql@0.9.3?classifier=sources
+- pkg:maven/top.fastsql/fastsql@1.0.0
+- pkg:maven/top.fastsql/fastsql@1.0.0?classifier=sources

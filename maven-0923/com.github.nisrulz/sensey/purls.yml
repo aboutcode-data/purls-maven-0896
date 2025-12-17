@@ -12,3 +12,5 @@
 - pkg:maven/com.github.nisrulz/sensey@1.5.1?type=aar
 - pkg:maven/com.github.nisrulz/sensey@1.6.1?classifier=sources
 - pkg:maven/com.github.nisrulz/sensey@1.6.1?type=aar
+- pkg:maven/com.github.nisrulz/sensey@1.8.0?classifier=sources
+- pkg:maven/com.github.nisrulz/sensey@1.8.0?type=aar

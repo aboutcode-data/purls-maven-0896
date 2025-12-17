@@ -62,6 +62,14 @@
 - pkg:maven/org.springframework/spring-websocket@4.3.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@4.3.1.RELEASE
 - pkg:maven/org.springframework/spring-websocket@4.3.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@4.3.10.RELEASE
+- pkg:maven/org.springframework/spring-websocket@4.3.10.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@4.3.11.RELEASE
+- pkg:maven/org.springframework/spring-websocket@4.3.11.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@4.3.12.RELEASE
+- pkg:maven/org.springframework/spring-websocket@4.3.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@4.3.13.RELEASE
+- pkg:maven/org.springframework/spring-websocket@4.3.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@4.3.2.RELEASE
 - pkg:maven/org.springframework/spring-websocket@4.3.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@4.3.3.RELEASE
@@ -78,3 +86,9 @@
 - pkg:maven/org.springframework/spring-websocket@4.3.8.RELEASE?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@4.3.9.RELEASE
 - pkg:maven/org.springframework/spring-websocket@4.3.9.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@5.0.0.RELEASE
+- pkg:maven/org.springframework/spring-websocket@5.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@5.0.1.RELEASE
+- pkg:maven/org.springframework/spring-websocket@5.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@5.0.2.RELEASE
+- pkg:maven/org.springframework/spring-websocket@5.0.2.RELEASE?classifier=sources

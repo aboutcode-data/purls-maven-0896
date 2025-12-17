@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.jpita/com.io7m.jpita.documentation@0.3.0?classifier=sources
 - pkg:maven/com.io7m.jpita/com.io7m.jpita.documentation@0.3.0?type=zip
+- pkg:maven/com.io7m.jpita/com.io7m.jpita.documentation@1.0.0?classifier=sources
+- pkg:maven/com.io7m.jpita/com.io7m.jpita.documentation@1.0.0?type=zip

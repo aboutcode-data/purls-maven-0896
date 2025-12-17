@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.karaf.cave/apache-karaf-cave@3.0.0?classifier=src&type=zip
 - pkg:maven/org.apache.karaf.cave/apache-karaf-cave@4.0.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.karaf.cave/apache-karaf-cave@4.0.0?classifier=src&type=zip
+- pkg:maven/org.apache.karaf.cave/apache-karaf-cave@4.1.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.karaf.cave/apache-karaf-cave@4.1.0?classifier=src&type=zip

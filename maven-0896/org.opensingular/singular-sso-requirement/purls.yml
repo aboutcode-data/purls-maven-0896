@@ -1,0 +1,16 @@
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.8?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.8?type=war
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9-RC1?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9-RC1?type=war
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9-RC2?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9-RC2?type=war
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9-RC3?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9-RC3?type=war
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9.1?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9.1?type=war
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.6.9?type=war
+- pkg:maven/org.opensingular/singular-sso-requirement@1.7.0-RC1?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.7.0-RC1?type=war
+- pkg:maven/org.opensingular/singular-sso-requirement@1.7.0-RC2?classifier=sources
+- pkg:maven/org.opensingular/singular-sso-requirement@1.7.0-RC2?type=war

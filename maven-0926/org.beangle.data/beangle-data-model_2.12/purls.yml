@@ -4,7 +4,17 @@
 - pkg:maven/org.beangle.data/beangle-data-model_2.12@4.4.0?classifier=sources
 - pkg:maven/org.beangle.data/beangle-data-model_2.12@4.4.1
 - pkg:maven/org.beangle.data/beangle-data-model_2.12@4.4.1?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0
 - pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M2
 - pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M2?classifier=sources
 - pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M3
 - pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M3?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M4
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M4?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M5
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M5?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M6
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0.M6?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.0?classifier=sources
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.1
+- pkg:maven/org.beangle.data/beangle-data-model_2.12@5.0.1?classifier=sources

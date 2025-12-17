@@ -1,0 +1,4 @@
+- pkg:maven/com.github.eric0liang/lib_cardocr@0.9.3?classifier=sources
+- pkg:maven/com.github.eric0liang/lib_cardocr@0.9.3?type=aar
+- pkg:maven/com.github.eric0liang/lib_cardocr@1.0.0?classifier=sources
+- pkg:maven/com.github.eric0liang/lib_cardocr@1.0.0?type=aar

@@ -2,6 +2,7 @@
 - pkg:maven/org.wildfly.swarm/camel-jmx@1.0.4?classifier=sources
 - pkg:maven/org.wildfly.swarm/camel-jmx@1.1.0
 - pkg:maven/org.wildfly.swarm/camel-jmx@1.1.0?classifier=sources
+- pkg:maven/org.wildfly.swarm/camel-jmx@2012.12.0
 - pkg:maven/org.wildfly.swarm/camel-jmx@2016.10.0
 - pkg:maven/org.wildfly.swarm/camel-jmx@2016.11.0
 - pkg:maven/org.wildfly.swarm/camel-jmx@2016.12.0
@@ -11,6 +12,11 @@
 - pkg:maven/org.wildfly.swarm/camel-jmx@2016.9
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.1
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.1.1
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.10.0
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.10.1
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.11.0
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.12.0
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.12.1
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.2.0
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.3.2
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.3.3
@@ -18,3 +24,8 @@
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.5.0
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.6.0
 - pkg:maven/org.wildfly.swarm/camel-jmx@2017.6.1
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.7.0
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.8.0
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.8.1
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.9.4
+- pkg:maven/org.wildfly.swarm/camel-jmx@2017.9.5

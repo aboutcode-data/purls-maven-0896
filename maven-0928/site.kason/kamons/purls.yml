@@ -1,0 +1,4 @@
+- pkg:maven/site.kason/kamons@1.0.0
+- pkg:maven/site.kason/kamons@1.0.0?classifier=sources
+- pkg:maven/site.kason/kamons@1.0.1
+- pkg:maven/site.kason/kamons@1.0.1?classifier=sources

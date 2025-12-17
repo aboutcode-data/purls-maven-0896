@@ -1,0 +1,4 @@
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.3?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.3?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.4?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@1.2.4?type=zip

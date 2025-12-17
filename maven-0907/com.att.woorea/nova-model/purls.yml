@@ -1,5 +1,7 @@
 - pkg:maven/com.att.woorea/nova-model@3.3.24
 - pkg:maven/com.att.woorea/nova-model@3.3.24?classifier=sources
+- pkg:maven/com.att.woorea/nova-model@3.3.26-oss
+- pkg:maven/com.att.woorea/nova-model@3.3.26-oss?classifier=sources
 - pkg:maven/com.att.woorea/nova-model@3.3.27
 - pkg:maven/com.att.woorea/nova-model@3.3.27-oss
 - pkg:maven/com.att.woorea/nova-model@3.3.27-oss?classifier=sources

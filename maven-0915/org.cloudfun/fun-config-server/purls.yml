@@ -1,0 +1,2 @@
+- pkg:maven/org.cloudfun/fun-config-server@0.0.2-release
+- pkg:maven/org.cloudfun/fun-config-server@0.0.2-release?classifier=sources

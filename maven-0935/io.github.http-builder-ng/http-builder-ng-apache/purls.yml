@@ -10,3 +10,15 @@
 - pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@0.16.0?classifier=sources
 - pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@0.16.1
 - pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@0.16.1?classifier=sources
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@0.17.0
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@0.17.0?classifier=sources
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@0.18.0
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@0.18.0?classifier=sources
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.0
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.0?classifier=sources
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.1
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.1?classifier=sources
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.2
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.2?classifier=sources
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.3
+- pkg:maven/io.github.http-builder-ng/http-builder-ng-apache@1.0.3?classifier=sources

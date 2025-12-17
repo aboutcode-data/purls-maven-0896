@@ -62,3 +62,5 @@
 - pkg:maven/com.truward.brikar.protobuf/brikar-protobuf-http-json@1.8.32?classifier=sources
 - pkg:maven/com.truward.brikar.protobuf/brikar-protobuf-http-json@1.8.33
 - pkg:maven/com.truward.brikar.protobuf/brikar-protobuf-http-json@1.8.33?classifier=sources
+- pkg:maven/com.truward.brikar.protobuf/brikar-protobuf-http-json@1.8.35
+- pkg:maven/com.truward.brikar.protobuf/brikar-protobuf-http-json@1.8.35?classifier=sources

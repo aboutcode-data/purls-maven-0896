@@ -1,0 +1,4 @@
+- pkg:maven/fi.testee/testeefi-jms@0.6.0
+- pkg:maven/fi.testee/testeefi-jms@0.6.0?classifier=sources
+- pkg:maven/fi.testee/testeefi-jms@0.6.1
+- pkg:maven/fi.testee/testeefi-jms@0.6.1?classifier=sources

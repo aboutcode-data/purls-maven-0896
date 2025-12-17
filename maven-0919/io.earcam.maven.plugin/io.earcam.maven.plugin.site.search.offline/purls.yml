@@ -1,0 +1,2 @@
+- pkg:maven/io.earcam.maven.plugin/io.earcam.maven.plugin.site.search.offline@0.0.1
+- pkg:maven/io.earcam.maven.plugin/io.earcam.maven.plugin.site.search.offline@0.0.1?classifier=sources

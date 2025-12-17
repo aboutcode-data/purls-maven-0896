@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/chokidar@1.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/chokidar@1.6.1
 - pkg:maven/org.webjars.npm/chokidar@1.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/chokidar@1.7.0
+- pkg:maven/org.webjars.npm/chokidar@1.7.0?classifier=sources

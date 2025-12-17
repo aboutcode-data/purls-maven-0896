@@ -48,3 +48,13 @@
 - pkg:maven/com.gu/play-googleauth_2.11@0.5.1?classifier=sources
 - pkg:maven/com.gu/play-googleauth_2.11@0.6.0
 - pkg:maven/com.gu/play-googleauth_2.11@0.6.0?classifier=sources
+- pkg:maven/com.gu/play-googleauth_2.11@0.6.1
+- pkg:maven/com.gu/play-googleauth_2.11@0.6.1?classifier=sources
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.0
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.0.1
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.0.1?classifier=sources
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.0?classifier=sources
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.1
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.1?classifier=sources
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.2
+- pkg:maven/com.gu/play-googleauth_2.11@0.7.2?classifier=sources

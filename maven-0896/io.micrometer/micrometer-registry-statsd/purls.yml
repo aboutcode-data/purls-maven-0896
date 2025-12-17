@@ -1,0 +1,12 @@
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.2
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.2?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.3
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.3?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.4
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.4?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.5
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.5?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.6
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.6?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.7
+- pkg:maven/io.micrometer/micrometer-registry-statsd@1.0.0-rc.7?classifier=sources

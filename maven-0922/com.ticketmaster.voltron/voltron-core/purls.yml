@@ -1,0 +1,2 @@
+- pkg:maven/com.ticketmaster.voltron/voltron-core@0.1.2?classifier=sources
+- pkg:maven/com.ticketmaster.voltron/voltron-core@0.1.2?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-jquery-i18n-properties-jquery-i18n-properties-@1.2.3
 - pkg:maven/org.webjars.bower/github-com-jquery-i18n-properties-jquery-i18n-properties-@1.2.3?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-jquery-i18n-properties-jquery-i18n-properties-@1.2.7
+- pkg:maven/org.webjars.bower/github-com-jquery-i18n-properties-jquery-i18n-properties-@1.2.7?classifier=sources

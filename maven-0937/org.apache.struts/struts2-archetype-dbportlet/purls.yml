@@ -63,6 +63,10 @@
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.31?classifier=sources
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.32
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.32?classifier=sources
+- pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.33
+- pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.33?classifier=sources
+- pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.34
+- pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.34?classifier=sources
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.3?classifier=sources
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.4
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.3.4.1

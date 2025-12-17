@@ -1,0 +1,4 @@
+- pkg:maven/de.binfalse/BFUtils@0.5.2
+- pkg:maven/de.binfalse/BFUtils@0.5.2?classifier=sources
+- pkg:maven/de.binfalse/BFUtils@0.5.4
+- pkg:maven/de.binfalse/BFUtils@0.5.4?classifier=sources

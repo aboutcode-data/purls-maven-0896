@@ -1,2 +1,4 @@
 - pkg:maven/com.cvent/retrofit-metrics@1.0.0
 - pkg:maven/com.cvent/retrofit-metrics@1.0.0?classifier=sources
+- pkg:maven/com.cvent/retrofit-metrics@2.0.0
+- pkg:maven/com.cvent/retrofit-metrics@2.0.0?classifier=sources

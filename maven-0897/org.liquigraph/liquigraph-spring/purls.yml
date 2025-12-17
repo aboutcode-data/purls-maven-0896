@@ -1,0 +1,2 @@
+- pkg:maven/org.liquigraph/liquigraph-spring@3.0.2
+- pkg:maven/org.liquigraph/liquigraph-spring@3.0.2?classifier=sources

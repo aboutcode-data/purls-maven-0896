@@ -1,0 +1,4 @@
+- pkg:maven/net.oauth-2/oauth2-databinding-gson@1.0.0
+- pkg:maven/net.oauth-2/oauth2-databinding-gson@1.0.0?classifier=sources
+- pkg:maven/net.oauth-2/oauth2-databinding-gson@1.1.0
+- pkg:maven/net.oauth-2/oauth2-databinding-gson@1.1.0?classifier=sources

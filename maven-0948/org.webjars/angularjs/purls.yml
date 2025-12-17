@@ -185,6 +185,8 @@
 - pkg:maven/org.webjars/angularjs@1.5.0-rc.2
 - pkg:maven/org.webjars/angularjs@1.5.0-rc.2?classifier=sources
 - pkg:maven/org.webjars/angularjs@1.5.0?classifier=sources
+- pkg:maven/org.webjars/angularjs@1.5.11
+- pkg:maven/org.webjars/angularjs@1.5.11?classifier=sources
 - pkg:maven/org.webjars/angularjs@1.5.2
 - pkg:maven/org.webjars/angularjs@1.5.2?classifier=sources
 - pkg:maven/org.webjars/angularjs@1.5.3
@@ -209,6 +211,8 @@
 - pkg:maven/org.webjars/angularjs@1.6.2?classifier=sources
 - pkg:maven/org.webjars/angularjs@1.6.4
 - pkg:maven/org.webjars/angularjs@1.6.4?classifier=sources
+- pkg:maven/org.webjars/angularjs@1.6.6
+- pkg:maven/org.webjars/angularjs@1.6.6?classifier=sources
 - pkg:maven/org.webjars/angularjs@2.0.0-alpha.19
 - pkg:maven/org.webjars/angularjs@2.0.0-alpha.19?classifier=sources
 - pkg:maven/org.webjars/angularjs@2.0.0-alpha.22

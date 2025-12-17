@@ -114,3 +114,5 @@
 - pkg:maven/io.codearte.accurest/accurest-converters@1.1.0-M8
 - pkg:maven/io.codearte.accurest/accurest-converters@1.1.0-M8?classifier=sources
 - pkg:maven/io.codearte.accurest/accurest-converters@1.1.0?classifier=sources
+- pkg:maven/io.codearte.accurest/accurest-converters@1.1.1
+- pkg:maven/io.codearte.accurest/accurest-converters@1.1.1?classifier=sources

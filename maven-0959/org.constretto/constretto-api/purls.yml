@@ -48,3 +48,5 @@
 - pkg:maven/org.constretto/constretto-api@2.2.2?classifier=sources
 - pkg:maven/org.constretto/constretto-api@2.2.3
 - pkg:maven/org.constretto/constretto-api@2.2.3?classifier=sources
+- pkg:maven/org.constretto/constretto-api@3.0.0-BETA1
+- pkg:maven/org.constretto/constretto-api@3.0.0-BETA1?classifier=sources

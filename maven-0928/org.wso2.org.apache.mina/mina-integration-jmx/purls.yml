@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.org.apache.mina/mina-integration-jmx@1.1.7-wso2v1
+- pkg:maven/org.wso2.org.apache.mina/mina-integration-jmx@1.1.7-wso2v1?classifier=sources
+- pkg:maven/org.wso2.org.apache.mina/mina-integration-jmx@1.1.7-wso2v2
+- pkg:maven/org.wso2.org.apache.mina/mina-integration-jmx@1.1.7-wso2v2?classifier=sources
+- pkg:maven/org.wso2.org.apache.mina/mina-integration-jmx@1.1.7-wso2v3
+- pkg:maven/org.wso2.org.apache.mina/mina-integration-jmx@1.1.7-wso2v3?classifier=sources

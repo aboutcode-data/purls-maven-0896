@@ -1,0 +1,4 @@
+- pkg:maven/com.sandinh/php-utils_2.12@1.0.6
+- pkg:maven/com.sandinh/php-utils_2.12@1.0.6?classifier=sources
+- pkg:maven/com.sandinh/php-utils_2.12@1.0.7
+- pkg:maven/com.sandinh/php-utils_2.12@1.0.7?classifier=sources

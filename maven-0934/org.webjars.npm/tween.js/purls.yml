@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/tween.js@15.0.0
 - pkg:maven/org.webjars.npm/tween.js@15.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/tween.js@16.6.0
+- pkg:maven/org.webjars.npm/tween.js@16.6.0?classifier=sources

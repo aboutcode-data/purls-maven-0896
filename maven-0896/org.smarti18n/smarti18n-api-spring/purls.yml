@@ -1,0 +1,16 @@
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.0.1
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.0.1?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.0.2
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.0.2?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M10
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M10?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M11
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M11?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M12
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M12?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M13
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M13?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M14
+- pkg:maven/org.smarti18n/smarti18n-api-spring@0.1-M14?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-api-spring@1.0-PRE1
+- pkg:maven/org.smarti18n/smarti18n-api-spring@1.0-PRE1?classifier=sources

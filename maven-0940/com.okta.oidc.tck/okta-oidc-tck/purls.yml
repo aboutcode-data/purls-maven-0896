@@ -1,0 +1,2 @@
+- pkg:maven/com.okta.oidc.tck/okta-oidc-tck@0.2.0
+- pkg:maven/com.okta.oidc.tck/okta-oidc-tck@0.2.0?classifier=sources

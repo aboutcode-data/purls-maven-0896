@@ -1,0 +1,2 @@
+- pkg:maven/org.broadinstitute/google-cloud-nio-GATK4-custom-patch@0.20.4-alpha-GCS-RETRY-FIX
+- pkg:maven/org.broadinstitute/google-cloud-nio-GATK4-custom-patch@0.20.4-alpha-GCS-RETRY-FIX?classifier=sources

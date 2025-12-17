@@ -16,3 +16,5 @@
 - pkg:maven/net.databinder.dispatch/dispatch-json4s-jackson_2.10@0.11.2?classifier=sources
 - pkg:maven/net.databinder.dispatch/dispatch-json4s-jackson_2.10@0.11.3
 - pkg:maven/net.databinder.dispatch/dispatch-json4s-jackson_2.10@0.11.3?classifier=sources
+- pkg:maven/net.databinder.dispatch/dispatch-json4s-jackson_2.10@0.11.4
+- pkg:maven/net.databinder.dispatch/dispatch-json4s-jackson_2.10@0.11.4?classifier=sources

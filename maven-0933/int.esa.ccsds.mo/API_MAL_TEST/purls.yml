@@ -6,3 +6,5 @@
 - pkg:maven/int.esa.ccsds.mo/API_MAL_TEST@1.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/API_MAL_TEST@1.2
 - pkg:maven/int.esa.ccsds.mo/API_MAL_TEST@1.2?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/API_MAL_TEST@1.7
+- pkg:maven/int.esa.ccsds.mo/API_MAL_TEST@1.7?classifier=sources

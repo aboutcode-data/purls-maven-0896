@@ -1,0 +1,6 @@
+- pkg:maven/org.clojure/clojure-install@0.1.10
+- pkg:maven/org.clojure/clojure-install@0.1.10?classifier=sources
+- pkg:maven/org.clojure/clojure-install@0.1.16
+- pkg:maven/org.clojure/clojure-install@0.1.16?classifier=sources
+- pkg:maven/org.clojure/clojure-install@0.1.21
+- pkg:maven/org.clojure/clojure-install@0.1.21?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.tatarka.redux/redux-core@0.10?classifier=sources
+- pkg:maven/me.tatarka.redux/redux-core@0.9?classifier=sources

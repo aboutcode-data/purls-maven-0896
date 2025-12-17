@@ -8,3 +8,7 @@
 - pkg:maven/enterprises.orbital/base@2.0.0?classifier=sources
 - pkg:maven/enterprises.orbital/base@2.1.0
 - pkg:maven/enterprises.orbital/base@2.1.0?classifier=sources
+- pkg:maven/enterprises.orbital/base@2.3.0
+- pkg:maven/enterprises.orbital/base@2.3.0?classifier=sources
+- pkg:maven/enterprises.orbital/base@2.4.0
+- pkg:maven/enterprises.orbital/base@2.4.0?classifier=sources

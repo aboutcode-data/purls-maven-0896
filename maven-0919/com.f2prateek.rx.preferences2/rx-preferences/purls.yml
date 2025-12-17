@@ -2,3 +2,5 @@
 - pkg:maven/com.f2prateek.rx.preferences2/rx-preferences@2.0.0-RC1?type=aar
 - pkg:maven/com.f2prateek.rx.preferences2/rx-preferences@2.0.0-RC2?classifier=sources
 - pkg:maven/com.f2prateek.rx.preferences2/rx-preferences@2.0.0-RC2?type=aar
+- pkg:maven/com.f2prateek.rx.preferences2/rx-preferences@2.0.0-RC3?classifier=sources
+- pkg:maven/com.f2prateek.rx.preferences2/rx-preferences@2.0.0-RC3?type=aar

@@ -2,3 +2,7 @@
 - pkg:maven/es.ree.eemws/eemws-kit@1.1.0?classifier=sources
 - pkg:maven/es.ree.eemws/eemws-kit@1.1.2
 - pkg:maven/es.ree.eemws/eemws-kit@1.1.2?classifier=sources
+- pkg:maven/es.ree.eemws/eemws-kit@1.1.4
+- pkg:maven/es.ree.eemws/eemws-kit@1.1.4?classifier=sources
+- pkg:maven/es.ree.eemws/eemws-kit@1.2.0
+- pkg:maven/es.ree.eemws/eemws-kit@1.2.0?classifier=sources

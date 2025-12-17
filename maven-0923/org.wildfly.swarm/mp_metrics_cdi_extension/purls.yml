@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.swarm/mp_metrics_cdi_extension@2017.11.0
+- pkg:maven/org.wildfly.swarm/mp_metrics_cdi_extension@2017.11.0?classifier=sources

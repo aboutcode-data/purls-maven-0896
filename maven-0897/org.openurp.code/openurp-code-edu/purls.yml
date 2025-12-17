@@ -8,6 +8,12 @@
 - pkg:maven/org.openurp.code/openurp-code-edu@0.0.15?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-edu@0.0.17
 - pkg:maven/org.openurp.code/openurp-code-edu@0.0.17?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-edu@0.0.18
+- pkg:maven/org.openurp.code/openurp-code-edu@0.0.18?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-edu@0.0.19
+- pkg:maven/org.openurp.code/openurp-code-edu@0.0.19?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-edu@0.0.20
+- pkg:maven/org.openurp.code/openurp-code-edu@0.0.20?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-edu@0.0.7
 - pkg:maven/org.openurp.code/openurp-code-edu@0.0.7?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-edu@0.0.8

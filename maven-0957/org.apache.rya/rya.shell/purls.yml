@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.rya/rya.shell@3.2.11-incubating
+- pkg:maven/org.apache.rya/rya.shell@3.2.11-incubating?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.hubrick.vertx/vertx-elasticsearch-service@1.1.0?classifier=sources
 - pkg:maven/com.hubrick.vertx/vertx-elasticsearch-service@1.2.0
 - pkg:maven/com.hubrick.vertx/vertx-elasticsearch-service@1.2.0?classifier=sources
+- pkg:maven/com.hubrick.vertx/vertx-elasticsearch-service@2.0.0
+- pkg:maven/com.hubrick.vertx/vertx-elasticsearch-service@2.0.0?classifier=sources
+- pkg:maven/com.hubrick.vertx/vertx-elasticsearch-service@2.1.0
+- pkg:maven/com.hubrick.vertx/vertx-elasticsearch-service@2.1.0?classifier=sources

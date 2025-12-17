@@ -14,3 +14,5 @@
 - pkg:maven/org.eurekaclinical/aiw-neo4j-etl@2.0?classifier=sources
 - pkg:maven/org.eurekaclinical/aiw-neo4j-etl@2.0?classifier=src&type=tar.gz
 - pkg:maven/org.eurekaclinical/aiw-neo4j-etl@2.0?classifier=src&type=zip
+- pkg:maven/org.eurekaclinical/aiw-neo4j-etl@2.1-Alpha-1
+- pkg:maven/org.eurekaclinical/aiw-neo4j-etl@2.1-Alpha-1?classifier=sources

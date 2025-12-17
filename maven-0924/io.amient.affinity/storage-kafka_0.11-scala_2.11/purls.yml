@@ -1,0 +1,2 @@
+- pkg:maven/io.amient.affinity/storage-kafka_0.11-scala_2.11@0.4.0
+- pkg:maven/io.amient.affinity/storage-kafka_0.11-scala_2.11@0.4.0?classifier=sources

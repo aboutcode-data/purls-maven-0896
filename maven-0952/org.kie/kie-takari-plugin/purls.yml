@@ -1,0 +1,6 @@
+- pkg:maven/org.kie/kie-takari-plugin@7.2.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-takari-plugin@7.3.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-takari-plugin@7.4.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-takari-plugin@7.4.1.Final?classifier=sources
+- pkg:maven/org.kie/kie-takari-plugin@7.5.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-takari-plugin@7.5.0.t018?classifier=sources

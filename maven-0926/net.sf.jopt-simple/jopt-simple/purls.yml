@@ -79,6 +79,10 @@
 - pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.2?classifier=sources
 - pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.3
 - pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.3?classifier=sources
+- pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4
+- pkg:maven/net.sf.jopt-simple/jopt-simple@5.0.4?classifier=sources
 - pkg:maven/net.sf.jopt-simple/jopt-simple@5.0?classifier=sources
 - pkg:maven/net.sf.jopt-simple/jopt-simple@6.0-alpha-1
 - pkg:maven/net.sf.jopt-simple/jopt-simple@6.0-alpha-1?classifier=sources
+- pkg:maven/net.sf.jopt-simple/jopt-simple@6.0-alpha-2
+- pkg:maven/net.sf.jopt-simple/jopt-simple@6.0-alpha-2?classifier=sources

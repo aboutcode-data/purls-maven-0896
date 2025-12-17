@@ -1,5 +1,7 @@
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-gfm-tables@0.1.0
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-gfm-tables@0.1.0?classifier=sources
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-gfm-tables@0.10.0
+- pkg:maven/com.atlassian.commonmark/commonmark-ext-gfm-tables@0.10.0?classifier=sources
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-gfm-tables@0.2.0
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-gfm-tables@0.2.0?classifier=sources
 - pkg:maven/com.atlassian.commonmark/commonmark-ext-gfm-tables@0.3.0

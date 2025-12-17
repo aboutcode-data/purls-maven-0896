@@ -238,6 +238,8 @@
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.1.7.Final?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.1.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.1.8.Final?type=war
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.1.9.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.1.9.Final?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.0.Beta1?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.0.Beta2?classifier=sources
@@ -260,5 +262,7 @@
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.6.Final?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.7.Final?type=war
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-nearcache-client@8.2.8.Final?type=war
 - pkg:maven/org.infinispan/infinispan-nearcache-client@9.0.0.Alpha1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-nearcache-client@9.0.0.Alpha1?type=war

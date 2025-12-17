@@ -1,0 +1,2 @@
+- pkg:maven/com.kerb4j/kerb4j-server-spring-security@0.0.4
+- pkg:maven/com.kerb4j/kerb4j-server-spring-security@0.0.4?classifier=sources

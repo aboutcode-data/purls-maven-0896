@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.bower/angular-svg-round-progressbar@0.4.7?classifier=sources
 - pkg:maven/org.webjars.bower/angular-svg-round-progressbar@0.4.8
 - pkg:maven/org.webjars.bower/angular-svg-round-progressbar@0.4.8?classifier=sources
+- pkg:maven/org.webjars.bower/angular-svg-round-progressbar@1.2.0
+- pkg:maven/org.webjars.bower/angular-svg-round-progressbar@1.2.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-svg-round-progressbar@1.2.1
+- pkg:maven/org.webjars.bower/angular-svg-round-progressbar@1.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.battery/reporters@0.0.1?classifier=sources
+- pkg:maven/com.facebook.battery/reporters@0.0.1?type=aar

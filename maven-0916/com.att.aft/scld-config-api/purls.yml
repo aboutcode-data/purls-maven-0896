@@ -1,2 +1,4 @@
 - pkg:maven/com.att.aft/scld-config-api@3.1.200
+- pkg:maven/com.att.aft/scld-config-api@3.1.200-oss
+- pkg:maven/com.att.aft/scld-config-api@3.1.200-oss?classifier=sources
 - pkg:maven/com.att.aft/scld-config-api@3.1.200?classifier=sources

@@ -4,3 +4,13 @@
 - pkg:maven/ch.softappeal.yass/yass-base@49.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass/yass-base@50.0.0
 - pkg:maven/ch.softappeal.yass/yass-base@50.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-base@50.0.1
+- pkg:maven/ch.softappeal.yass/yass-base@50.0.1?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-base@51.0.1
+- pkg:maven/ch.softappeal.yass/yass-base@51.0.1?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-base@52.0.0
+- pkg:maven/ch.softappeal.yass/yass-base@52.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-base@52.0.1
+- pkg:maven/ch.softappeal.yass/yass-base@52.0.1?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-base@53.0.0
+- pkg:maven/ch.softappeal.yass/yass-base@53.0.0?classifier=sources

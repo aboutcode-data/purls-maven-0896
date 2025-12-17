@@ -1,0 +1,4 @@
+- pkg:maven/com.mikafecito/cortado_2.12@1.0AB
+- pkg:maven/com.mikafecito/cortado_2.12@1.0AB?classifier=sources
+- pkg:maven/com.mikafecito/cortado_2.12@2.0AB
+- pkg:maven/com.mikafecito/cortado_2.12@2.0AB?classifier=sources

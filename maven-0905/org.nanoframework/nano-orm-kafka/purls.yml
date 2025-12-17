@@ -1,0 +1,4 @@
+- pkg:maven/org.nanoframework/nano-orm-kafka@1.4.10
+- pkg:maven/org.nanoframework/nano-orm-kafka@1.4.10?classifier=sources
+- pkg:maven/org.nanoframework/nano-orm-kafka@1.4.9
+- pkg:maven/org.nanoframework/nano-orm-kafka@1.4.9?classifier=sources

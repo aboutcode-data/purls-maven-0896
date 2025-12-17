@@ -1,2 +1,4 @@
 - pkg:maven/cn.home1/oss-lib-log4j2-spring-boot-1.4.1.RELEASE@1.0.7.OSS
 - pkg:maven/cn.home1/oss-lib-log4j2-spring-boot-1.4.1.RELEASE@1.0.7.OSS?classifier=sources
+- pkg:maven/cn.home1/oss-lib-log4j2-spring-boot-1.4.1.RELEASE@1.0.8.OSS
+- pkg:maven/cn.home1/oss-lib-log4j2-spring-boot-1.4.1.RELEASE@1.0.8.OSS?classifier=sources

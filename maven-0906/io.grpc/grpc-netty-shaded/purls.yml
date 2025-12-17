@@ -1,0 +1,2 @@
+- pkg:maven/io.grpc/grpc-netty-shaded@1.9.0
+- pkg:maven/io.grpc/grpc-netty-shaded@1.9.0?classifier=sources

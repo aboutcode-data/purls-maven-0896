@@ -1,0 +1,4 @@
+- pkg:maven/io.servicecomb.demo/demo-spring-boot-jaxrs-server@0.1.0
+- pkg:maven/io.servicecomb.demo/demo-spring-boot-jaxrs-server@0.1.0-m2
+- pkg:maven/io.servicecomb.demo/demo-spring-boot-jaxrs-server@0.1.0-m2?classifier=sources
+- pkg:maven/io.servicecomb.demo/demo-spring-boot-jaxrs-server@0.1.0?classifier=sources

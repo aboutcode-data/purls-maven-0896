@@ -1,2 +1,4 @@
 - pkg:maven/com.nortal.jroad/xtee-client-jvis@4.2.0
 - pkg:maven/com.nortal.jroad/xtee-client-jvis@4.2.0?classifier=sources
+- pkg:maven/com.nortal.jroad/xtee-client-jvis@4.2.2
+- pkg:maven/com.nortal.jroad/xtee-client-jvis@4.2.2?classifier=sources

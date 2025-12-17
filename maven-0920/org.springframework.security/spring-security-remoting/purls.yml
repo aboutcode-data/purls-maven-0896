@@ -64,3 +64,5 @@
 - pkg:maven/org.springframework.security/spring-security-remoting@4.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-remoting@4.2.3.RELEASE
 - pkg:maven/org.springframework.security/spring-security-remoting@4.2.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-remoting@5.0.0.RELEASE
+- pkg:maven/org.springframework.security/spring-security-remoting@5.0.0.RELEASE?classifier=sources

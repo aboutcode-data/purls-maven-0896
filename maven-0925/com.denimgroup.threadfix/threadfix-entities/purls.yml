@@ -2,3 +2,5 @@
 - pkg:maven/com.denimgroup.threadfix/threadfix-entities@2.2.0?classifier=sources
 - pkg:maven/com.denimgroup.threadfix/threadfix-entities@2.3.7
 - pkg:maven/com.denimgroup.threadfix/threadfix-entities@2.3.7?classifier=sources
+- pkg:maven/com.denimgroup.threadfix/threadfix-entities@2.5
+- pkg:maven/com.denimgroup.threadfix/threadfix-entities@2.5?classifier=sources

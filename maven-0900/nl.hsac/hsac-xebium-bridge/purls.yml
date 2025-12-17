@@ -34,3 +34,7 @@
 - pkg:maven/nl.hsac/hsac-xebium-bridge@0.4.1?classifier=sources
 - pkg:maven/nl.hsac/hsac-xebium-bridge@0.5.0
 - pkg:maven/nl.hsac/hsac-xebium-bridge@0.5.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-xebium-bridge@0.6.0
+- pkg:maven/nl.hsac/hsac-xebium-bridge@0.6.0?classifier=sources
+- pkg:maven/nl.hsac/hsac-xebium-bridge@0.7.0
+- pkg:maven/nl.hsac/hsac-xebium-bridge@0.7.0?classifier=sources

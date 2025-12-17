@@ -1,0 +1,2 @@
+- pkg:maven/org.atmosphere/atmosphere-shiro@3.0.0-alpha2
+- pkg:maven/org.atmosphere/atmosphere-shiro@3.0.0-alpha2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.locationtech.spatial4j/spatial4j@0.6
 - pkg:maven/org.locationtech.spatial4j/spatial4j@0.6?classifier=sources
+- pkg:maven/org.locationtech.spatial4j/spatial4j@0.7
+- pkg:maven/org.locationtech.spatial4j/spatial4j@0.7?classifier=sources

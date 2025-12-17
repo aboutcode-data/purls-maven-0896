@@ -147,6 +147,10 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.0.rc2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.1
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.10
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.10?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.11
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.11?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.2
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.2?classifier=sources
@@ -164,6 +168,7 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.8?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.9
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.8.9?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0.pr1
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0.pr1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0.pr2
@@ -172,3 +177,10 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0.pr3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0.pr4
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0.pr4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.1
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.2
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.3
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.3?classifier=sources

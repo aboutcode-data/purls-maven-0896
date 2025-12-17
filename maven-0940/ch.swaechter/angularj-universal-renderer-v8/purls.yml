@@ -1,0 +1,4 @@
+- pkg:maven/ch.swaechter/angularj-universal-renderer-v8@0.0.1
+- pkg:maven/ch.swaechter/angularj-universal-renderer-v8@0.0.1?classifier=sources
+- pkg:maven/ch.swaechter/angularj-universal-renderer-v8@0.0.2
+- pkg:maven/ch.swaechter/angularj-universal-renderer-v8@0.0.2?classifier=sources

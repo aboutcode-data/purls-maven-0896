@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.documentation@0.60.0?classifier=sources
 - pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.documentation@0.60.0?type=zip
+- pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.documentation@0.61.0?classifier=sources
+- pkg:maven/com.io7m.jcanephora/com.io7m.jcanephora.documentation@0.61.0?type=zip

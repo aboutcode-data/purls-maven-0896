@@ -1,0 +1,4 @@
+- pkg:maven/com.sandinh/android-image-cropper@2.4.8?classifier=sources
+- pkg:maven/com.sandinh/android-image-cropper@2.4.9?classifier=sources
+- pkg:maven/com.sandinh/android-image-cropper@2.4.9?type=aar
+- pkg:maven/com.sandinh/android-image-cropper@2.5.0?classifier=sources

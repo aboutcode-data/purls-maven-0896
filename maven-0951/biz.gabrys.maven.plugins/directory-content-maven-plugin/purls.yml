@@ -10,3 +10,5 @@
 - pkg:maven/biz.gabrys.maven.plugins/directory-content-maven-plugin@1.2.0?classifier=sources
 - pkg:maven/biz.gabrys.maven.plugins/directory-content-maven-plugin@1.2.1
 - pkg:maven/biz.gabrys.maven.plugins/directory-content-maven-plugin@1.2.1?classifier=sources
+- pkg:maven/biz.gabrys.maven.plugins/directory-content-maven-plugin@2.0.0
+- pkg:maven/biz.gabrys.maven.plugins/directory-content-maven-plugin@2.0.0?classifier=sources

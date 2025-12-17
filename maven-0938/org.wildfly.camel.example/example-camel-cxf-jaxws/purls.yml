@@ -4,3 +4,9 @@
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@4.4.0?type=war
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@4.5.0?classifier=sources
 - pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@4.5.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@4.8.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@4.8.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@4.9.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@4.9.0?type=war
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@5.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel.example/example-camel-cxf-jaxws@5.0.0?type=war

@@ -1,3 +1,5 @@
+- pkg:maven/org.drombler.fx/drombler-fx-core-standard-desktop-classic@0.10
+- pkg:maven/org.drombler.fx/drombler-fx-core-standard-desktop-classic@0.10?classifier=sources
 - pkg:maven/org.drombler.fx/drombler-fx-core-standard-desktop-classic@0.7
 - pkg:maven/org.drombler.fx/drombler-fx-core-standard-desktop-classic@0.7?classifier=sources
 - pkg:maven/org.drombler.fx/drombler-fx-core-standard-desktop-classic@0.8

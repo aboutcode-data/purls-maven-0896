@@ -22,3 +22,13 @@
 - pkg:maven/io.fabric8/gitective-core@0.9.20?classifier=sources
 - pkg:maven/io.fabric8/gitective-core@0.9.21
 - pkg:maven/io.fabric8/gitective-core@0.9.21?classifier=sources
+- pkg:maven/io.fabric8/gitective-core@0.9.22
+- pkg:maven/io.fabric8/gitective-core@0.9.22?classifier=sources
+- pkg:maven/io.fabric8/gitective-core@0.9.23
+- pkg:maven/io.fabric8/gitective-core@0.9.23?classifier=sources
+- pkg:maven/io.fabric8/gitective-core@0.9.30
+- pkg:maven/io.fabric8/gitective-core@0.9.30?classifier=sources
+- pkg:maven/io.fabric8/gitective-core@0.9.37
+- pkg:maven/io.fabric8/gitective-core@0.9.37?classifier=sources
+- pkg:maven/io.fabric8/gitective-core@0.9.50
+- pkg:maven/io.fabric8/gitective-core@0.9.50?classifier=sources

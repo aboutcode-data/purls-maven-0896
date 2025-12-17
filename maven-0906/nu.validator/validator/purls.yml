@@ -28,9 +28,17 @@
 - pkg:maven/nu.validator/validator@17.0.1?classifier=sources
 - pkg:maven/nu.validator/validator@17.1.0
 - pkg:maven/nu.validator/validator@17.1.0?classifier=sources
+- pkg:maven/nu.validator/validator@17.11.0
+- pkg:maven/nu.validator/validator@17.11.0?classifier=sources
+- pkg:maven/nu.validator/validator@17.11.1
+- pkg:maven/nu.validator/validator@17.11.1?classifier=sources
 - pkg:maven/nu.validator/validator@17.2.0
 - pkg:maven/nu.validator/validator@17.2.0?classifier=sources
 - pkg:maven/nu.validator/validator@17.2.1
 - pkg:maven/nu.validator/validator@17.2.1?classifier=sources
 - pkg:maven/nu.validator/validator@17.3.0
 - pkg:maven/nu.validator/validator@17.3.0?classifier=sources
+- pkg:maven/nu.validator/validator@17.7.0
+- pkg:maven/nu.validator/validator@17.7.0?classifier=sources
+- pkg:maven/nu.validator/validator@17.9.0
+- pkg:maven/nu.validator/validator@17.9.0?classifier=sources

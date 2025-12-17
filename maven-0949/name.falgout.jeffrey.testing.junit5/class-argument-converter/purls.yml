@@ -1,0 +1,6 @@
+- pkg:maven/name.falgout.jeffrey.testing.junit5/class-argument-converter@1.0.0
+- pkg:maven/name.falgout.jeffrey.testing.junit5/class-argument-converter@1.0.0-M4
+- pkg:maven/name.falgout.jeffrey.testing.junit5/class-argument-converter@1.0.0-M4?classifier=sources
+- pkg:maven/name.falgout.jeffrey.testing.junit5/class-argument-converter@1.0.0-RC2
+- pkg:maven/name.falgout.jeffrey.testing.junit5/class-argument-converter@1.0.0-RC2?classifier=sources
+- pkg:maven/name.falgout.jeffrey.testing.junit5/class-argument-converter@1.0.0?classifier=sources

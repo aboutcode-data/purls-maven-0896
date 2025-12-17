@@ -1,0 +1,2 @@
+- pkg:maven/ca.ryangreen/apigateway-generic-java-sdk@1.0
+- pkg:maven/ca.ryangreen/apigateway-generic-java-sdk@1.0?classifier=sources

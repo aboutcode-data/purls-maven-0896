@@ -2,3 +2,7 @@
 - pkg:maven/org.zuchini/zuchini-compat-annotations@0.1.0?classifier=sources
 - pkg:maven/org.zuchini/zuchini-compat-annotations@0.2.0
 - pkg:maven/org.zuchini/zuchini-compat-annotations@0.2.0?classifier=sources
+- pkg:maven/org.zuchini/zuchini-compat-annotations@0.3.0
+- pkg:maven/org.zuchini/zuchini-compat-annotations@0.3.0?classifier=sources
+- pkg:maven/org.zuchini/zuchini-compat-annotations@0.4.0
+- pkg:maven/org.zuchini/zuchini-compat-annotations@0.4.0?classifier=sources

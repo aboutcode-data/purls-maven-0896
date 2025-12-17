@@ -1,0 +1,2 @@
+- pkg:maven/mobi.stos/httplib@1?classifier=sources
+- pkg:maven/mobi.stos/httplib@1?type=aar

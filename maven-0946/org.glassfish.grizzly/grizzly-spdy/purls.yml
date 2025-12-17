@@ -56,6 +56,14 @@
 - pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.30?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.31
 - pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.31?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.32
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.32?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.33
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.33?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.34
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.34?classifier=sources
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.35
+- pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.35?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.3?classifier=sources
 - pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.4
 - pkg:maven/org.glassfish.grizzly/grizzly-spdy@2.3.4?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.surenpi.autotest/autotest.suite.runner@1.0.0-20170504
 - pkg:maven/com.surenpi.autotest/autotest.suite.runner@1.0.0-20170504?classifier=sources
+- pkg:maven/com.surenpi.autotest/autotest.suite.runner@1.0.1-20170718
+- pkg:maven/com.surenpi.autotest/autotest.suite.runner@1.0.1-20170718?classifier=sources

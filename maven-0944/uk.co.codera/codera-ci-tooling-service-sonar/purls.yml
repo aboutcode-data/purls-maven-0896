@@ -16,3 +16,5 @@
 - pkg:maven/uk.co.codera/codera-ci-tooling-service-sonar@0.2.2?classifier=sources
 - pkg:maven/uk.co.codera/codera-ci-tooling-service-sonar@0.2.3
 - pkg:maven/uk.co.codera/codera-ci-tooling-service-sonar@0.2.3?classifier=sources
+- pkg:maven/uk.co.codera/codera-ci-tooling-service-sonar@0.2.4
+- pkg:maven/uk.co.codera/codera-ci-tooling-service-sonar@0.2.4?classifier=sources

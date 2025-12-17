@@ -4,3 +4,5 @@
 - pkg:maven/com.dell.isg.smi/commons-elm@1.0.73?classifier=sources
 - pkg:maven/com.dell.isg.smi/commons-elm@1.0.76
 - pkg:maven/com.dell.isg.smi/commons-elm@1.0.76?classifier=sources
+- pkg:maven/com.dell.isg.smi/commons-elm@1.0.82
+- pkg:maven/com.dell.isg.smi/commons-elm@1.0.82?classifier=sources

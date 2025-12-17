@@ -6,3 +6,5 @@
 - pkg:maven/ru.vyarus/gradle-pom-plugin@1.0.3?classifier=sources
 - pkg:maven/ru.vyarus/gradle-pom-plugin@1.1.0
 - pkg:maven/ru.vyarus/gradle-pom-plugin@1.1.0?classifier=sources
+- pkg:maven/ru.vyarus/gradle-pom-plugin@1.2.0
+- pkg:maven/ru.vyarus/gradle-pom-plugin@1.2.0?classifier=sources

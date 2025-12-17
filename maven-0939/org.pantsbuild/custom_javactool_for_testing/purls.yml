@@ -4,3 +4,7 @@
 - pkg:maven/org.pantsbuild/custom_javactool_for_testing@0.0.2?classifier=sources
 - pkg:maven/org.pantsbuild/custom_javactool_for_testing@0.0.3
 - pkg:maven/org.pantsbuild/custom_javactool_for_testing@0.0.3?classifier=sources
+- pkg:maven/org.pantsbuild/custom_javactool_for_testing@0.0.4
+- pkg:maven/org.pantsbuild/custom_javactool_for_testing@0.0.4?classifier=sources
+- pkg:maven/org.pantsbuild/custom_javactool_for_testing@0.0.5
+- pkg:maven/org.pantsbuild/custom_javactool_for_testing@0.0.5?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/com.ibm.watson.developer_cloud/language-translation@3.7.2?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/language-translation@3.8.0
 - pkg:maven/com.ibm.watson.developer_cloud/language-translation@3.8.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/language-translation@3.9.0
+- pkg:maven/com.ibm.watson.developer_cloud/language-translation@3.9.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/language-translation@3.9.1
+- pkg:maven/com.ibm.watson.developer_cloud/language-translation@3.9.1?classifier=sources

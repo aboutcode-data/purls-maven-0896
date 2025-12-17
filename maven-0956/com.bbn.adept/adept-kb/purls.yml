@@ -1,0 +1,4 @@
+- pkg:maven/com.bbn.adept/adept-kb@2.7.3
+- pkg:maven/com.bbn.adept/adept-kb@2.7.3?classifier=sources
+- pkg:maven/com.bbn.adept/adept-kb@2.7.4
+- pkg:maven/com.bbn.adept/adept-kb@2.7.4?classifier=sources

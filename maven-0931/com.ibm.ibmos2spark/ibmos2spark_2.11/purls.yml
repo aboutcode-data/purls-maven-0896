@@ -1,2 +1,6 @@
 - pkg:maven/com.ibm.ibmos2spark/ibmos2spark_2.11@0.0.7
 - pkg:maven/com.ibm.ibmos2spark/ibmos2spark_2.11@0.0.7?classifier=sources
+- pkg:maven/com.ibm.ibmos2spark/ibmos2spark_2.11@0.0.8
+- pkg:maven/com.ibm.ibmos2spark/ibmos2spark_2.11@0.0.8?classifier=sources
+- pkg:maven/com.ibm.ibmos2spark/ibmos2spark_2.11@0.0.9
+- pkg:maven/com.ibm.ibmos2spark/ibmos2spark_2.11@0.0.9?classifier=sources

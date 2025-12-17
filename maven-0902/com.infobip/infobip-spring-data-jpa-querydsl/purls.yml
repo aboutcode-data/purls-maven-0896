@@ -1,0 +1,4 @@
+- pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@1.0.0
+- pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@1.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@1.0.1
+- pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@1.0.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.moodysalem/phantomjs-wrapper-exec@3.1.0?classifier=sources
 - pkg:maven/com.moodysalem/phantomjs-wrapper-exec@3.1.1
 - pkg:maven/com.moodysalem/phantomjs-wrapper-exec@3.1.1?classifier=sources
+- pkg:maven/com.moodysalem/phantomjs-wrapper-exec@3.1.2
+- pkg:maven/com.moodysalem/phantomjs-wrapper-exec@3.1.2?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.5.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.6.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.7.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.7.RELEASE?classifier=sources

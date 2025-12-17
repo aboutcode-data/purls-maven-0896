@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m6
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m6?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m7
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m7?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m8
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m8?classifier=sources

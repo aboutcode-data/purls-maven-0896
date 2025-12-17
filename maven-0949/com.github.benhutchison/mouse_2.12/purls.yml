@@ -1,6 +1,10 @@
+- pkg:maven/com.github.benhutchison/mouse_2.12@0.10-MF
+- pkg:maven/com.github.benhutchison/mouse_2.12@0.10-MF?classifier=sources
 - pkg:maven/com.github.benhutchison/mouse_2.12@0.6
 - pkg:maven/com.github.benhutchison/mouse_2.12@0.6?classifier=sources
 - pkg:maven/com.github.benhutchison/mouse_2.12@0.7
 - pkg:maven/com.github.benhutchison/mouse_2.12@0.7?classifier=sources
 - pkg:maven/com.github.benhutchison/mouse_2.12@0.8
 - pkg:maven/com.github.benhutchison/mouse_2.12@0.8?classifier=sources
+- pkg:maven/com.github.benhutchison/mouse_2.12@0.9
+- pkg:maven/com.github.benhutchison/mouse_2.12@0.9?classifier=sources

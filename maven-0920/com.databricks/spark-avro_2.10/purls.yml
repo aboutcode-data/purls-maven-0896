@@ -18,3 +18,5 @@
 - pkg:maven/com.databricks/spark-avro_2.10@3.1.0?classifier=sources
 - pkg:maven/com.databricks/spark-avro_2.10@3.2.0
 - pkg:maven/com.databricks/spark-avro_2.10@3.2.0?classifier=sources
+- pkg:maven/com.databricks/spark-avro_2.10@4.0.0
+- pkg:maven/com.databricks/spark-avro_2.10@4.0.0?classifier=sources

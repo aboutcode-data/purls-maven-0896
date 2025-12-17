@@ -34,3 +34,7 @@
 - pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@4.0.0.Beta2.1
 - pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@4.0.0.Beta2.1?classifier=sources
 - pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@4.0.0.Beta2?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@4.0.0.Beta4
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@4.0.0.Beta4?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@4.0.0.Final
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@4.0.0.Final?classifier=sources

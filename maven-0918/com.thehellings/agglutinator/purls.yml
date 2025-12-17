@@ -1,0 +1,2 @@
+- pkg:maven/com.thehellings/agglutinator@1.2
+- pkg:maven/com.thehellings/agglutinator@1.2?classifier=sources

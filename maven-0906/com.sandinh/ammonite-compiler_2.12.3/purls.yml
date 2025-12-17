@@ -1,0 +1,2 @@
+- pkg:maven/com.sandinh/ammonite-compiler_2.12.3@1.0.1-sh
+- pkg:maven/com.sandinh/ammonite-compiler_2.12.3@1.0.1-sh?classifier=sources

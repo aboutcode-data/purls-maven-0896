@@ -10,3 +10,5 @@
 - pkg:maven/net.javacrumbs/smock-extension@0.6?classifier=sources
 - pkg:maven/net.javacrumbs/smock-extension@0.7
 - pkg:maven/net.javacrumbs/smock-extension@0.7?classifier=sources
+- pkg:maven/net.javacrumbs/smock-extension@0.9.0
+- pkg:maven/net.javacrumbs/smock-extension@0.9.0?classifier=sources

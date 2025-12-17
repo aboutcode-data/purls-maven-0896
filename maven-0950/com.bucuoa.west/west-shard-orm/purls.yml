@@ -8,3 +8,7 @@
 - pkg:maven/com.bucuoa.west/west-shard-orm@0.3.5-RELEASE?classifier=sources
 - pkg:maven/com.bucuoa.west/west-shard-orm@0.3.7-RELEASE
 - pkg:maven/com.bucuoa.west/west-shard-orm@0.3.7-RELEASE?classifier=sources
+- pkg:maven/com.bucuoa.west/west-shard-orm@0.4.0-RELEASE
+- pkg:maven/com.bucuoa.west/west-shard-orm@0.4.0-RELEASE?classifier=sources
+- pkg:maven/com.bucuoa.west/west-shard-orm@0.4.1-RELEASE
+- pkg:maven/com.bucuoa.west/west-shard-orm@0.4.1-RELEASE?classifier=sources

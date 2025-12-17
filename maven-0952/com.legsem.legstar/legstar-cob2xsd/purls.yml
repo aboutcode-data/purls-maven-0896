@@ -10,6 +10,8 @@
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@0.3.7?type=zip
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@0.3.8?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@0.3.8?type=zip
+- pkg:maven/com.legsem.legstar/legstar-cob2xsd@0.3.9?classifier=sources
+- pkg:maven/com.legsem.legstar/legstar-cob2xsd@0.3.9?type=zip
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.0.0?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.0.0?type=zip
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.0.1?classifier=sources

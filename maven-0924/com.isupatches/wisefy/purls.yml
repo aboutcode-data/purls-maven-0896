@@ -2,3 +2,9 @@
 - pkg:maven/com.isupatches/wisefy@1.0.5?type=aar
 - pkg:maven/com.isupatches/wisefy@1.0.6?classifier=sources
 - pkg:maven/com.isupatches/wisefy@1.0.6?type=aar
+- pkg:maven/com.isupatches/wisefy@1.0.8?classifier=sources
+- pkg:maven/com.isupatches/wisefy@1.0.8?type=aar
+- pkg:maven/com.isupatches/wisefy@2.0.0-BETA1?classifier=sources
+- pkg:maven/com.isupatches/wisefy@2.0.0-BETA1?type=aar
+- pkg:maven/com.isupatches/wisefy@2.0.0?classifier=sources
+- pkg:maven/com.isupatches/wisefy@2.0.0?type=aar

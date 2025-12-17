@@ -1,0 +1,10 @@
+- pkg:maven/in.norbor/yoda-orm_2.12@1.4.0
+- pkg:maven/in.norbor/yoda-orm_2.12@1.4.0?classifier=sources
+- pkg:maven/in.norbor/yoda-orm_2.12@1.5.0
+- pkg:maven/in.norbor/yoda-orm_2.12@1.5.0?classifier=sources
+- pkg:maven/in.norbor/yoda-orm_2.12@2.0
+- pkg:maven/in.norbor/yoda-orm_2.12@2.0?classifier=sources
+- pkg:maven/in.norbor/yoda-orm_2.12@2.1.0
+- pkg:maven/in.norbor/yoda-orm_2.12@2.1.0?classifier=sources
+- pkg:maven/in.norbor/yoda-orm_2.12@2.2.1
+- pkg:maven/in.norbor/yoda-orm_2.12@2.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.datarouter/datarouter-storage@0.0.6
+- pkg:maven/io.datarouter/datarouter-storage@0.0.6?classifier=sources

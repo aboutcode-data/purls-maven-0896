@@ -1,0 +1,6 @@
+- pkg:maven/com.dell.cpsd/common-contract-enricher@2.0.0
+- pkg:maven/com.dell.cpsd/common-contract-enricher@2.0.0?classifier=sources
+- pkg:maven/com.dell.cpsd/common-contract-enricher@2.1.0
+- pkg:maven/com.dell.cpsd/common-contract-enricher@2.1.0?classifier=sources
+- pkg:maven/com.dell.cpsd/common-contract-enricher@2.2.0
+- pkg:maven/com.dell.cpsd/common-contract-enricher@2.2.0?classifier=sources

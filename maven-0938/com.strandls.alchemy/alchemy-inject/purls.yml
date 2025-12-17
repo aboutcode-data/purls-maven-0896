@@ -1,2 +1,6 @@
 - pkg:maven/com.strandls.alchemy/alchemy-inject@0.9
 - pkg:maven/com.strandls.alchemy/alchemy-inject@0.9?classifier=sources
+- pkg:maven/com.strandls.alchemy/alchemy-inject@1.0
+- pkg:maven/com.strandls.alchemy/alchemy-inject@1.0?classifier=sources
+- pkg:maven/com.strandls.alchemy/alchemy-inject@1.1
+- pkg:maven/com.strandls.alchemy/alchemy-inject@1.1?classifier=sources

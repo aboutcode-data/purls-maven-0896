@@ -1,0 +1,4 @@
+- pkg:maven/at.makubi.maven.plugin/avrohugger-maven-plugin@1.4
+- pkg:maven/at.makubi.maven.plugin/avrohugger-maven-plugin@1.4?classifier=sources
+- pkg:maven/at.makubi.maven.plugin/avrohugger-maven-plugin@1.5
+- pkg:maven/at.makubi.maven.plugin/avrohugger-maven-plugin@1.5?classifier=sources

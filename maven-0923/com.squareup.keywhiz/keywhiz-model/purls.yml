@@ -24,3 +24,5 @@
 - pkg:maven/com.squareup.keywhiz/keywhiz-model@0.7.9-sync
 - pkg:maven/com.squareup.keywhiz/keywhiz-model@0.7.9-sync?classifier=sources
 - pkg:maven/com.squareup.keywhiz/keywhiz-model@0.7.9?classifier=sources
+- pkg:maven/com.squareup.keywhiz/keywhiz-model@0.8.0
+- pkg:maven/com.squareup.keywhiz/keywhiz-model@0.8.0?classifier=sources

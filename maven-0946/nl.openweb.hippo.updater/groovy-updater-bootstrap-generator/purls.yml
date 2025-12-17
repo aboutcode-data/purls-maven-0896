@@ -1,0 +1,2 @@
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.9
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.9?classifier=sources

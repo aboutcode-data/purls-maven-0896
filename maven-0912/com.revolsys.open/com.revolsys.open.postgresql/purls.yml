@@ -14,3 +14,5 @@
 - pkg:maven/com.revolsys.open/com.revolsys.open.postgresql@0.20161221.161418-CPF_5_0_4-RELEASE?classifier=sources
 - pkg:maven/com.revolsys.open/com.revolsys.open.postgresql@0.20161222.073911-CPF_5_0_5-RELEASE
 - pkg:maven/com.revolsys.open/com.revolsys.open.postgresql@0.20161222.073911-CPF_5_0_5-RELEASE?classifier=sources
+- pkg:maven/com.revolsys.open/com.revolsys.open.postgresql@0.20171005.131236-CPF_5_0_6-RELEASE
+- pkg:maven/com.revolsys.open/com.revolsys.open.postgresql@0.20171005.131236-CPF_5_0_6-RELEASE?classifier=sources

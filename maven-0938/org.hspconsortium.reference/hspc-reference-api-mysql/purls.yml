@@ -4,6 +4,8 @@
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@0.9?classifier=sources
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.0.0
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.0.0?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.10.1
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.10.1?classifier=sources
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.4.0
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.4.0?classifier=sources
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.4.1
@@ -22,3 +24,17 @@
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.5.3?classifier=sources
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.5.4
 - pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.5.4?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.6.0
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.6.0?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.7.0
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.7.0?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.7.1
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.7.1?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.7.2
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.7.2?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.8.0
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.8.0?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.9.0
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.9.0?classifier=sources
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.9.1
+- pkg:maven/org.hspconsortium.reference/hspc-reference-api-mysql@1.9.1?classifier=sources

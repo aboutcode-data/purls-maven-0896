@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample10@2.1.0-update4
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample10@2.1.0-update4?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample10@2.1.0-update5
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample10@2.1.0-update5?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample10@2.1.0-update6
+- pkg:maven/org.wso2.am/org.wso2.carbon.apimgt.samples.sample10@2.1.0-update6?classifier=sources

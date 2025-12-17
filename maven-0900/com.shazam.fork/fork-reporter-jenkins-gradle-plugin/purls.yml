@@ -12,3 +12,5 @@
 - pkg:maven/com.shazam.fork/fork-reporter-jenkins-gradle-plugin@2.1.0?classifier=sources
 - pkg:maven/com.shazam.fork/fork-reporter-jenkins-gradle-plugin@2.2.0
 - pkg:maven/com.shazam.fork/fork-reporter-jenkins-gradle-plugin@2.2.0?classifier=sources
+- pkg:maven/com.shazam.fork/fork-reporter-jenkins-gradle-plugin@3.0.0
+- pkg:maven/com.shazam.fork/fork-reporter-jenkins-gradle-plugin@3.0.0?classifier=sources

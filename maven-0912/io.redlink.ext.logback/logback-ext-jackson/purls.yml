@@ -1,0 +1,2 @@
+- pkg:maven/io.redlink.ext.logback/logback-ext-jackson@1.0.0
+- pkg:maven/io.redlink.ext.logback/logback-ext-jackson@1.0.0?classifier=sources

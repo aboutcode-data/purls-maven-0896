@@ -6,3 +6,5 @@
 - pkg:maven/com.tsc9526/monalisa-orm@1.7.0?classifier=sources
 - pkg:maven/com.tsc9526/monalisa-orm@2.0.0
 - pkg:maven/com.tsc9526/monalisa-orm@2.0.0?classifier=sources
+- pkg:maven/com.tsc9526/monalisa-orm@2.1.0
+- pkg:maven/com.tsc9526/monalisa-orm@2.1.0?classifier=sources

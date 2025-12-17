@@ -1,5 +1,7 @@
 - pkg:maven/org.chtijbug.drools/kie-drools-framework-wb-webapp@2.0.0?classifier=sources
 - pkg:maven/org.chtijbug.drools/kie-drools-framework-wb-webapp@2.0.0?type=war
+- pkg:maven/org.chtijbug.drools/kie-drools-framework-wb-webapp@2.0.10?classifier=sources
+- pkg:maven/org.chtijbug.drools/kie-drools-framework-wb-webapp@2.0.10?type=war
 - pkg:maven/org.chtijbug.drools/kie-drools-framework-wb-webapp@2.0.1?classifier=sources
 - pkg:maven/org.chtijbug.drools/kie-drools-framework-wb-webapp@2.0.1?type=war
 - pkg:maven/org.chtijbug.drools/kie-drools-framework-wb-webapp@2.0.2?classifier=sources

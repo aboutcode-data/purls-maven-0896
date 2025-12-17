@@ -1,0 +1,14 @@
+- pkg:maven/com.indix/sparkplug_2.11@v0.2.0
+- pkg:maven/com.indix/sparkplug_2.11@v0.2.0?classifier=sources
+- pkg:maven/com.indix/sparkplug_2.11@v0.3.0
+- pkg:maven/com.indix/sparkplug_2.11@v0.3.0?classifier=sources
+- pkg:maven/com.indix/sparkplug_2.11@v0.4.0
+- pkg:maven/com.indix/sparkplug_2.11@v0.4.0?classifier=sources
+- pkg:maven/com.indix/sparkplug_2.11@v0.4.1
+- pkg:maven/com.indix/sparkplug_2.11@v0.4.1?classifier=sources
+- pkg:maven/com.indix/sparkplug_2.11@v0.4.2
+- pkg:maven/com.indix/sparkplug_2.11@v0.4.2?classifier=sources
+- pkg:maven/com.indix/sparkplug_2.11@v0.5.0
+- pkg:maven/com.indix/sparkplug_2.11@v0.5.0?classifier=sources
+- pkg:maven/com.indix/sparkplug_2.11@v0.5.1
+- pkg:maven/com.indix/sparkplug_2.11@v0.5.1?classifier=sources

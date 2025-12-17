@@ -1,0 +1,2 @@
+- pkg:maven/com.javastreets/mule-couchbase-connector@0.0.4?classifier=sources
+- pkg:maven/com.javastreets/mule-couchbase-connector@1.0.0?classifier=sources

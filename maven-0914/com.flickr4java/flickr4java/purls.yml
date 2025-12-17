@@ -12,5 +12,7 @@
 - pkg:maven/com.flickr4java/flickr4java@2.15?classifier=sources
 - pkg:maven/com.flickr4java/flickr4java@2.16
 - pkg:maven/com.flickr4java/flickr4java@2.16?classifier=sources
+- pkg:maven/com.flickr4java/flickr4java@2.17
+- pkg:maven/com.flickr4java/flickr4java@2.17?classifier=sources
 - pkg:maven/com.flickr4java/flickr4java@2.9
 - pkg:maven/com.flickr4java/flickr4java@2.9?classifier=sources

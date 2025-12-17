@@ -45,6 +45,10 @@
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.30?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.31
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.31?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.32
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.32?classifier=sources
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.33
+- pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.33?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.3?classifier=sources
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.4
 - pkg:maven/org.glassfish.grizzly.samples/grizzly-spdy-samples@2.3.4?classifier=sources

@@ -12,3 +12,13 @@
 - pkg:maven/org.webjars.npm/supports-color@3.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/supports-color@3.2.3
 - pkg:maven/org.webjars.npm/supports-color@3.2.3?classifier=sources
+- pkg:maven/org.webjars.npm/supports-color@4.2.1
+- pkg:maven/org.webjars.npm/supports-color@4.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/supports-color@4.4.0
+- pkg:maven/org.webjars.npm/supports-color@4.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/supports-color@4.5.0
+- pkg:maven/org.webjars.npm/supports-color@4.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/supports-color@5.0.0
+- pkg:maven/org.webjars.npm/supports-color@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/supports-color@5.1.0
+- pkg:maven/org.webjars.npm/supports-color@5.1.0?classifier=sources

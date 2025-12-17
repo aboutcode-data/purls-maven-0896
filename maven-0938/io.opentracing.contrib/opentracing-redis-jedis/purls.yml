@@ -1,0 +1,2 @@
+- pkg:maven/io.opentracing.contrib/opentracing-redis-jedis@0.0.1
+- pkg:maven/io.opentracing.contrib/opentracing-redis-jedis@0.0.1?classifier=sources

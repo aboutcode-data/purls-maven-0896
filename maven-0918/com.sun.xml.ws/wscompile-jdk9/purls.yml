@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.xml.ws/wscompile-jdk9@2.3.0
+- pkg:maven/com.sun.xml.ws/wscompile-jdk9@2.3.0?classifier=sources

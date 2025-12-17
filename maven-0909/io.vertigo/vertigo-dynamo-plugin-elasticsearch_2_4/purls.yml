@@ -1,0 +1,2 @@
+- pkg:maven/io.vertigo/vertigo-dynamo-plugin-elasticsearch_2_4@1.1.0
+- pkg:maven/io.vertigo/vertigo-dynamo-plugin-elasticsearch_2_4@1.1.0?classifier=sources

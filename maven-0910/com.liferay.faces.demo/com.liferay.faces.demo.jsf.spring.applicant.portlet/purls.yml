@@ -1,4 +1,8 @@
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@3.0.0?classifier=sources
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@3.0.0?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@3.1.0?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@3.1.0?type=war
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@4.0.0?classifier=sources
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@4.0.0?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@4.1.0?classifier=sources
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.spring.applicant.portlet@4.1.0?type=war

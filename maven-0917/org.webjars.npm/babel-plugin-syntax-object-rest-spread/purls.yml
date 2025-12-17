@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-object-rest-spread@6.13.0
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-object-rest-spread@6.13.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-plugin-syntax-object-rest-spread@6.3.13
 - pkg:maven/org.webjars.npm/babel-plugin-syntax-object-rest-spread@6.3.13?classifier=sources

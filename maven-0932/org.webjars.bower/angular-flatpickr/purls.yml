@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/angular-flatpickr@2.0.0
 - pkg:maven/org.webjars.bower/angular-flatpickr@2.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/angular-flatpickr@2.5.0
+- pkg:maven/org.webjars.bower/angular-flatpickr@2.5.0?classifier=sources

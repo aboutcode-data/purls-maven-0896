@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/zmon-opentracing@0.30.0
+- pkg:maven/org.zalando/zmon-opentracing@0.30.0?classifier=sources

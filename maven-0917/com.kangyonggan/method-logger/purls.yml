@@ -1,0 +1,8 @@
+- pkg:maven/com.kangyonggan/method-logger@1.0
+- pkg:maven/com.kangyonggan/method-logger@1.0?classifier=sources
+- pkg:maven/com.kangyonggan/method-logger@1.2
+- pkg:maven/com.kangyonggan/method-logger@1.2?classifier=sources
+- pkg:maven/com.kangyonggan/method-logger@1.4
+- pkg:maven/com.kangyonggan/method-logger@1.4?classifier=sources
+- pkg:maven/com.kangyonggan/method-logger@1.6
+- pkg:maven/com.kangyonggan/method-logger@1.6?classifier=sources

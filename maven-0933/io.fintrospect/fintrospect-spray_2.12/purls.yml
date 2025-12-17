@@ -24,6 +24,12 @@
 - pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.17.2?classifier=sources
 - pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.17.3
 - pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.17.3?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.18.0
+- pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.18.0?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.19.0
+- pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.19.0?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.20.0
+- pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.20.0?classifier=sources
 - pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.4.0
 - pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.4.0?classifier=sources
 - pkg:maven/io.fintrospect/fintrospect-spray_2.12@14.5.0

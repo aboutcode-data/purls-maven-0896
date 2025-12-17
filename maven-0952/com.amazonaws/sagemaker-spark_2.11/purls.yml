@@ -1,0 +1,4 @@
+- pkg:maven/com.amazonaws/sagemaker-spark_2.11@spark_2.1.1-1.0
+- pkg:maven/com.amazonaws/sagemaker-spark_2.11@spark_2.1.1-1.0?classifier=sources
+- pkg:maven/com.amazonaws/sagemaker-spark_2.11@spark_2.2.0-1.0
+- pkg:maven/com.amazonaws/sagemaker-spark_2.11@spark_2.2.0-1.0?classifier=sources

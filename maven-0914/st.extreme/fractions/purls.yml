@@ -2,3 +2,5 @@
 - pkg:maven/st.extreme/fractions@0.9?classifier=sources
 - pkg:maven/st.extreme/fractions@1.0
 - pkg:maven/st.extreme/fractions@1.0?classifier=sources
+- pkg:maven/st.extreme/fractions@1.1
+- pkg:maven/st.extreme/fractions@1.1?classifier=sources

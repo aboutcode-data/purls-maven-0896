@@ -3,3 +3,4 @@
 - pkg:maven/org.ow2.petals/petals-container-parent@4.2.3?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-container-parent@4.2.4?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-container-parent@4.2.5?classifier=source-release&type=zip
+- pkg:maven/org.ow2.petals/petals-container-parent@4.2.6?classifier=source-release&type=zip

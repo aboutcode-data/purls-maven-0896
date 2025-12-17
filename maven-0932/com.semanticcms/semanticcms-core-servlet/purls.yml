@@ -1,5 +1,7 @@
 - pkg:maven/com.semanticcms/semanticcms-core-servlet@1.10.0
 - pkg:maven/com.semanticcms/semanticcms-core-servlet@1.10.0?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-core-servlet@1.11.0
+- pkg:maven/com.semanticcms/semanticcms-core-servlet@1.11.0?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-core-servlet@1.2
 - pkg:maven/com.semanticcms/semanticcms-core-servlet@1.2?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-core-servlet@1.3

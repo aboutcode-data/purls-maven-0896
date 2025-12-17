@@ -1,0 +1,14 @@
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.17
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.17?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.18
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.18?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.19
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.20
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.20?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.21
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.21?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.22
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.22?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.23
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.2.23?classifier=source-release&type=zip

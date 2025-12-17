@@ -1,0 +1,2 @@
+- pkg:maven/com.onelogin/onelogin-aws-assume-role-jsp@1.0.0?classifier=sources
+- pkg:maven/com.onelogin/onelogin-aws-assume-role-jsp@1.0.0?type=war

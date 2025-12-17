@@ -1,2 +1,6 @@
 - pkg:maven/com.thoughtworks.deeplearning/plugins-rawindarraylayers_2.11@2.0.0-M5
 - pkg:maven/com.thoughtworks.deeplearning/plugins-rawindarraylayers_2.11@2.0.0-M5?classifier=sources
+- pkg:maven/com.thoughtworks.deeplearning/plugins-rawindarraylayers_2.11@2.0.0-RC0
+- pkg:maven/com.thoughtworks.deeplearning/plugins-rawindarraylayers_2.11@2.0.0-RC0?classifier=sources
+- pkg:maven/com.thoughtworks.deeplearning/plugins-rawindarraylayers_2.11@2.0.0-RC1
+- pkg:maven/com.thoughtworks.deeplearning/plugins-rawindarraylayers_2.11@2.0.0-RC1?classifier=sources

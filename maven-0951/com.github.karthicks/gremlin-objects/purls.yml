@@ -1,0 +1,8 @@
+- pkg:maven/com.github.karthicks/gremlin-objects@3.2.5-RC1
+- pkg:maven/com.github.karthicks/gremlin-objects@3.2.5-RC1?classifier=sources
+- pkg:maven/com.github.karthicks/gremlin-objects@3.3.0-RC1
+- pkg:maven/com.github.karthicks/gremlin-objects@3.3.0-RC1?classifier=sources
+- pkg:maven/com.github.karthicks/gremlin-objects@3.3.1-RC1
+- pkg:maven/com.github.karthicks/gremlin-objects@3.3.1-RC1?classifier=sources
+- pkg:maven/com.github.karthicks/gremlin-objects@t1
+- pkg:maven/com.github.karthicks/gremlin-objects@t1?classifier=sources

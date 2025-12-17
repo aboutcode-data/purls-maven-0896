@@ -1,0 +1,4 @@
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@0.4.0
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@0.4.0?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@0.4.1
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@0.4.1?classifier=sources

@@ -1,2 +1,12 @@
 - pkg:maven/io.kamon/kamon-agent@0.0.3-experimental
 - pkg:maven/io.kamon/kamon-agent@0.0.3-experimental?classifier=sources
+- pkg:maven/io.kamon/kamon-agent@0.0.4-experimental
+- pkg:maven/io.kamon/kamon-agent@0.0.4-experimental?classifier=sources
+- pkg:maven/io.kamon/kamon-agent@0.0.5-experimental
+- pkg:maven/io.kamon/kamon-agent@0.0.5-experimental?classifier=sources
+- pkg:maven/io.kamon/kamon-agent@0.0.6-experimental
+- pkg:maven/io.kamon/kamon-agent@0.0.6-experimental?classifier=sources
+- pkg:maven/io.kamon/kamon-agent@0.0.7-experimental
+- pkg:maven/io.kamon/kamon-agent@0.0.7-experimental?classifier=sources
+- pkg:maven/io.kamon/kamon-agent@0.0.8-experimental
+- pkg:maven/io.kamon/kamon-agent@0.0.8-experimental?classifier=sources

@@ -6,3 +6,15 @@
 - pkg:maven/org.opendatakit/opendatakit-javarosa@2.2.0?classifier=sources
 - pkg:maven/org.opendatakit/opendatakit-javarosa@2.3.0
 - pkg:maven/org.opendatakit/opendatakit-javarosa@2.3.0?classifier=sources
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.4.0
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.4.0?classifier=sources
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.5.0
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.5.0?classifier=sources
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.5.1
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.5.1?classifier=sources
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.6.0
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.6.0?classifier=sources
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.6.1
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.6.1?classifier=sources
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.7.0
+- pkg:maven/org.opendatakit/opendatakit-javarosa@2.7.0?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/com.gimbal.android.v2/gimbal-slf4j-impl@2.64.2?classifier=sources
 - pkg:maven/com.gimbal.android.v2/gimbal-slf4j-impl@2.67.1?classifier=sources
 - pkg:maven/com.gimbal.android.v2/gimbal-slf4j-impl@2.67.1?type=aar
+- pkg:maven/com.gimbal.android.v2/gimbal-slf4j-impl@2.72?classifier=sources
+- pkg:maven/com.gimbal.android.v2/gimbal-slf4j-impl@2.72?type=aar

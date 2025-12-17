@@ -12,3 +12,5 @@
 - pkg:maven/cn.easyproject/easyshiro@2.5.0-RELEASE?classifier=sources
 - pkg:maven/cn.easyproject/easyshiro@2.5.1-RELEASE
 - pkg:maven/cn.easyproject/easyshiro@2.5.1-RELEASE?classifier=sources
+- pkg:maven/cn.easyproject/easyshiro@2.6.0-RELEASE
+- pkg:maven/cn.easyproject/easyshiro@2.6.0-RELEASE?classifier=sources

@@ -170,3 +170,5 @@
 - pkg:maven/org.picketbox/jbosssx-bare@5.0.1.Final?classifier=sources
 - pkg:maven/org.picketbox/jbosssx-bare@5.0.2.Final
 - pkg:maven/org.picketbox/jbosssx-bare@5.0.2.Final?classifier=sources
+- pkg:maven/org.picketbox/jbosssx-bare@5.0.3.Beta1
+- pkg:maven/org.picketbox/jbosssx-bare@5.0.3.Beta1?classifier=sources

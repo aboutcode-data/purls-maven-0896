@@ -1,0 +1,4 @@
+- pkg:maven/org.xipki.pki/ocsp-server@2.3.0
+- pkg:maven/org.xipki.pki/ocsp-server@2.3.0?classifier=sources
+- pkg:maven/org.xipki.pki/ocsp-server@3.0.0
+- pkg:maven/org.xipki.pki/ocsp-server@3.0.0?classifier=sources

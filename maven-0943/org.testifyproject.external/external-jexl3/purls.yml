@@ -1,2 +1,10 @@
 - pkg:maven/org.testifyproject.external/external-jexl3@0.9.7
 - pkg:maven/org.testifyproject.external/external-jexl3@0.9.7?classifier=sources
+- pkg:maven/org.testifyproject.external/external-jexl3@0.9.8
+- pkg:maven/org.testifyproject.external/external-jexl3@0.9.8?classifier=sources
+- pkg:maven/org.testifyproject.external/external-jexl3@0.9.9
+- pkg:maven/org.testifyproject.external/external-jexl3@0.9.9?classifier=sources
+- pkg:maven/org.testifyproject.external/external-jexl3@1.0.0
+- pkg:maven/org.testifyproject.external/external-jexl3@1.0.0?classifier=sources
+- pkg:maven/org.testifyproject.external/external-jexl3@1.0.2
+- pkg:maven/org.testifyproject.external/external-jexl3@1.0.2?classifier=sources

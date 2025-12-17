@@ -34,3 +34,9 @@
 - pkg:maven/net.sourceforge.pmd/pmd-swift@5.6.1?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-swift@5.7.0
 - pkg:maven/net.sourceforge.pmd/pmd-swift@5.7.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.8.0
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.8.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.8.1
+- pkg:maven/net.sourceforge.pmd/pmd-swift@5.8.1?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-swift@6.0.0
+- pkg:maven/net.sourceforge.pmd/pmd-swift@6.0.0?classifier=sources

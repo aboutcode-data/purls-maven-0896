@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.security/spring-security-oauth2-core@5.0.0.RELEASE
+- pkg:maven/org.springframework.security/spring-security-oauth2-core@5.0.0.RELEASE?classifier=sources

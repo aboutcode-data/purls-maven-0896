@@ -1,0 +1,2 @@
+- pkg:maven/eu.clarussecure/CLARUS-UserLibrary@0.1
+- pkg:maven/eu.clarussecure/CLARUS-UserLibrary@0.1?classifier=sources

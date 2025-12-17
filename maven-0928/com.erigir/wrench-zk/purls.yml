@@ -52,3 +52,9 @@
 - pkg:maven/com.erigir/wrench-zk@1.2.0%2B74?classifier=sources
 - pkg:maven/com.erigir/wrench-zk@1.2.1%2B76
 - pkg:maven/com.erigir/wrench-zk@1.2.1%2B76?classifier=sources
+- pkg:maven/com.erigir/wrench-zk@2.0.1%2B116
+- pkg:maven/com.erigir/wrench-zk@2.0.1%2B116?classifier=sources
+- pkg:maven/com.erigir/wrench-zk@2.0.2%2B118
+- pkg:maven/com.erigir/wrench-zk@2.0.2%2B118?classifier=sources
+- pkg:maven/com.erigir/wrench-zk@2.0.4%2B122
+- pkg:maven/com.erigir/wrench-zk@2.0.4%2B122?classifier=sources

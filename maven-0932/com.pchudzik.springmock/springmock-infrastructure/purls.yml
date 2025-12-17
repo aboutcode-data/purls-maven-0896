@@ -1,0 +1,8 @@
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@1.0.0
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@1.0.0?classifier=sources
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@2.0.0
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@2.0.0?classifier=sources
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@3.0.0
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@3.0.0?classifier=sources
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@3.0.1
+- pkg:maven/com.pchudzik.springmock/springmock-infrastructure@3.0.1?classifier=sources

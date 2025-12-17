@@ -68,3 +68,13 @@
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.7.0.Beta2?classifier=sources
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.7.0.Beta3
 - pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.7.0.Beta3?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.7.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.7.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.8.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.8.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.9.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@0.9.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@1.0.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@1.0.0.Final?classifier=sources
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@2.2.0.Final
+- pkg:maven/org.dashbuilder/dashbuilder-renderer-chartjs@2.2.0.Final?classifier=sources

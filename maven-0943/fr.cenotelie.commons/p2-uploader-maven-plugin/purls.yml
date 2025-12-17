@@ -1,0 +1,4 @@
+- pkg:maven/fr.cenotelie.commons/p2-uploader-maven-plugin@2.0.0
+- pkg:maven/fr.cenotelie.commons/p2-uploader-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/fr.cenotelie.commons/p2-uploader-maven-plugin@2.0.1
+- pkg:maven/fr.cenotelie.commons/p2-uploader-maven-plugin@2.0.1?classifier=sources

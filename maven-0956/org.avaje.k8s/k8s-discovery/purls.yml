@@ -1,0 +1,4 @@
+- pkg:maven/org.avaje.k8s/k8s-discovery@1.1.1
+- pkg:maven/org.avaje.k8s/k8s-discovery@1.1.1?classifier=sources
+- pkg:maven/org.avaje.k8s/k8s-discovery@1.2.1
+- pkg:maven/org.avaje.k8s/k8s-discovery@1.2.1?classifier=sources

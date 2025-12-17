@@ -30,3 +30,5 @@
 - pkg:maven/com.genability/genability-client@1.7.0?classifier=sources
 - pkg:maven/com.genability/genability-client@1.8.0
 - pkg:maven/com.genability/genability-client@1.8.0?classifier=sources
+- pkg:maven/com.genability/genability-client@1.9.0
+- pkg:maven/com.genability/genability-client@1.9.0?classifier=sources

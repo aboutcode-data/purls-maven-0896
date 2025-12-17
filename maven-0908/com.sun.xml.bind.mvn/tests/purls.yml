@@ -6,3 +6,4 @@
 - pkg:maven/com.sun.xml.bind.mvn/tests@2.2.10?classifier=sources
 - pkg:maven/com.sun.xml.bind.mvn/tests@2.2.11
 - pkg:maven/com.sun.xml.bind.mvn/tests@2.2.11?classifier=sources
+- pkg:maven/com.sun.xml.bind.mvn/tests@2.3.0

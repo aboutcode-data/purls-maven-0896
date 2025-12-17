@@ -1,0 +1,14 @@
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE4
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE4?classifier=sources
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE5
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE5?classifier=sources
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE6
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE6?classifier=sources
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE7
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE7?classifier=sources
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE8
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE8?classifier=sources
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE9
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-UPDATE9?classifier=sources
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-update10
+- pkg:maven/org.wso2.iot/org.wso2.carbon.iot.test.integration@3.1.0-update10?classifier=sources

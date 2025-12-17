@@ -1,0 +1,12 @@
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.29
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.29?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.30
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.30?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.31
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.31?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.32
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.32?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.33
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.33?classifier=sources
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.35
+- pkg:maven/org.wvlet.airframe/airframe-codec_2.12@0.35?classifier=sources

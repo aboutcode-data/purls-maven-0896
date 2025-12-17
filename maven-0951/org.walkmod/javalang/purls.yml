@@ -88,3 +88,5 @@
 - pkg:maven/org.walkmod/javalang@4.8.5?classifier=sources
 - pkg:maven/org.walkmod/javalang@4.8.6
 - pkg:maven/org.walkmod/javalang@4.8.6?classifier=sources
+- pkg:maven/org.walkmod/javalang@4.8.7
+- pkg:maven/org.walkmod/javalang@4.8.7?classifier=sources

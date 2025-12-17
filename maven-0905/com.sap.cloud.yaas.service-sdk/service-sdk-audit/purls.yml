@@ -1,0 +1,4 @@
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-audit@4.17.0
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-audit@4.17.0?classifier=sources
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-audit@4.17.1
+- pkg:maven/com.sap.cloud.yaas.service-sdk/service-sdk-audit@4.17.1?classifier=sources

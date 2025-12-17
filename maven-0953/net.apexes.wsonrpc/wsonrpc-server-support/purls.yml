@@ -1,0 +1,4 @@
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@1.1.0
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@1.1.0?classifier=sources
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.0.0
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.0.0?classifier=sources

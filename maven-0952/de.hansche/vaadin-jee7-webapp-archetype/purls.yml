@@ -1,1 +1,2 @@
 - pkg:maven/de.hansche/vaadin-jee7-webapp-archetype@1.0?classifier=sources
+- pkg:maven/de.hansche/vaadin-jee7-webapp-archetype@8.1?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.1.18?classifier=sources
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.1.19
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.1.19?classifier=sources
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.1.20
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.1.20?classifier=sources
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.3.4
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.3.4?classifier=sources
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.3.5
@@ -16,3 +18,9 @@
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.4.2?classifier=sources
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.4.3
 - pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.4.3?classifier=sources
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.5.0
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.5.0?classifier=sources
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.5.1
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.5.1?classifier=sources
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.5.2
+- pkg:maven/com.github.scalaprops/scalaprops-scalazlaws_2.12@0.5.2?classifier=sources

@@ -132,3 +132,15 @@
 - pkg:maven/org.jboss.errai/errai-codegen@4.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-codegen@4.0.1.Beta1
 - pkg:maven/org.jboss.errai/errai-codegen@4.0.1.Beta1?classifier=sources
+- pkg:maven/org.jboss.errai/errai-codegen@4.0.1.Beta2
+- pkg:maven/org.jboss.errai/errai-codegen@4.0.1.Beta2?classifier=sources
+- pkg:maven/org.jboss.errai/errai-codegen@4.0.2.Final
+- pkg:maven/org.jboss.errai/errai-codegen@4.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-codegen@4.0.3.Final
+- pkg:maven/org.jboss.errai/errai-codegen@4.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-codegen@4.1.0.Final
+- pkg:maven/org.jboss.errai/errai-codegen@4.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-codegen@4.1.1.Final
+- pkg:maven/org.jboss.errai/errai-codegen@4.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-codegen@4.1.2.Final
+- pkg:maven/org.jboss.errai/errai-codegen@4.1.2.Final?classifier=sources

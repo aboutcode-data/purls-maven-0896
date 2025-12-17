@@ -11,4 +11,6 @@
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.csvdir@0.8.5?classifier=sources
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.csvdir@0.8.6
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.csvdir@0.8.6?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.csvdir@0.8.7
+- pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.csvdir@0.8.7?classifier=sources
 - pkg:maven/net.tirasa.connid.bundles/net.tirasa.connid.bundles.csvdir@0.8?classifier=sources

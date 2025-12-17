@@ -1,0 +1,4 @@
+- pkg:maven/com.github.nkutsche/woodstox-core@5.1.0
+- pkg:maven/com.github.nkutsche/woodstox-core@5.1.0?classifier=sources
+- pkg:maven/com.github.nkutsche/woodstox-core@5.2.1
+- pkg:maven/com.github.nkutsche/woodstox-core@5.2.1?classifier=sources

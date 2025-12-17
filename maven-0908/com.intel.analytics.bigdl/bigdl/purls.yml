@@ -2,3 +2,9 @@
 - pkg:maven/com.intel.analytics.bigdl/bigdl@0.1.0-doc
 - pkg:maven/com.intel.analytics.bigdl/bigdl@0.1.0-doc?classifier=sources
 - pkg:maven/com.intel.analytics.bigdl/bigdl@0.1.0?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl/bigdl@0.2.0
+- pkg:maven/com.intel.analytics.bigdl/bigdl@0.2.0?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl/bigdl@0.3.0
+- pkg:maven/com.intel.analytics.bigdl/bigdl@0.3.0?classifier=sources
+- pkg:maven/com.intel.analytics.bigdl/bigdl@0.4.0
+- pkg:maven/com.intel.analytics.bigdl/bigdl@0.4.0?classifier=sources

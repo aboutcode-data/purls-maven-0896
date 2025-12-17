@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/value-equal@0.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/value-equal@0.2.0
 - pkg:maven/org.webjars.npm/value-equal@0.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/value-equal@0.4.0
+- pkg:maven/org.webjars.npm/value-equal@0.4.0?classifier=sources

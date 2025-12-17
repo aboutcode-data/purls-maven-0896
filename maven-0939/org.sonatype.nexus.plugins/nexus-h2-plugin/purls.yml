@@ -18,6 +18,7 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-h2-plugin@2.14.3-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-h2-plugin@2.14.4-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-h2-plugin@2.14.4-03?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-h2-plugin@2.14.5-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-h2-plugin@2.4.0-03?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-h2-plugin@2.4.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-h2-plugin@2.4.0-05?classifier=sources

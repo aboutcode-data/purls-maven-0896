@@ -10,3 +10,13 @@
 - pkg:maven/com.ibm.watson.developer_cloud/discovery@3.7.2?classifier=sources
 - pkg:maven/com.ibm.watson.developer_cloud/discovery@3.8.0
 - pkg:maven/com.ibm.watson.developer_cloud/discovery@3.8.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@3.9.0
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@3.9.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@3.9.1
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@3.9.1?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@4.0.0
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@4.0.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@4.1.0
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@4.1.0?classifier=sources
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@4.2.1
+- pkg:maven/com.ibm.watson.developer_cloud/discovery@4.2.1?classifier=sources
