@@ -150,6 +150,16 @@
 - pkg:maven/org.uberfire/uberfire-workbench-client@2.11.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-workbench-client@2.12.0.Final
 - pkg:maven/org.uberfire/uberfire-workbench-client@2.12.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.13.0.Final
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.13.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.14.0.Final
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.14.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.15.0.Final
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.15.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.16.0.Final
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.16.0.Final?classifier=sources
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.17.0.Final
+- pkg:maven/org.uberfire/uberfire-workbench-client@2.17.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-workbench-client@2.2.0.Final
 - pkg:maven/org.uberfire/uberfire-workbench-client@2.2.0.Final?classifier=sources
 - pkg:maven/org.uberfire/uberfire-workbench-client@2.3.0.Final

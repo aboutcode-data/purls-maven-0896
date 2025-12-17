@@ -30,3 +30,9 @@
 - pkg:maven/org.clulab/processors-odin_2.11@7.4.2?classifier=sources
 - pkg:maven/org.clulab/processors-odin_2.11@7.4.3
 - pkg:maven/org.clulab/processors-odin_2.11@7.4.3?classifier=sources
+- pkg:maven/org.clulab/processors-odin_2.11@7.4.4
+- pkg:maven/org.clulab/processors-odin_2.11@7.4.4?classifier=sources
+- pkg:maven/org.clulab/processors-odin_2.11@7.5.0
+- pkg:maven/org.clulab/processors-odin_2.11@7.5.0?classifier=sources
+- pkg:maven/org.clulab/processors-odin_2.11@7.5.1
+- pkg:maven/org.clulab/processors-odin_2.11@7.5.1?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.github.karasiq/commons-network_2.11@1.0.10
 - pkg:maven/com.github.karasiq/commons-network_2.11@1.0.10?classifier=sources
+- pkg:maven/com.github.karasiq/commons-network_2.11@1.0.11
+- pkg:maven/com.github.karasiq/commons-network_2.11@1.0.11?classifier=sources
 - pkg:maven/com.github.karasiq/commons-network_2.11@1.0.2
 - pkg:maven/com.github.karasiq/commons-network_2.11@1.0.2?classifier=sources
 - pkg:maven/com.github.karasiq/commons-network_2.11@1.0.3

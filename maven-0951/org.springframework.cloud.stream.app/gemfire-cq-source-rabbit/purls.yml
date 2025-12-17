@@ -22,3 +22,7 @@
 - pkg:maven/org.springframework.cloud.stream.app/gemfire-cq-source-rabbit@2.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/gemfire-cq-source-rabbit@2.0.4.RELEASE
 - pkg:maven/org.springframework.cloud.stream.app/gemfire-cq-source-rabbit@2.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/gemfire-cq-source-rabbit@2.1.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/gemfire-cq-source-rabbit@2.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/gemfire-cq-source-rabbit@2.1.1.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/gemfire-cq-source-rabbit@2.1.1.RELEASE?classifier=sources

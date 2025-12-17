@@ -1,2 +1,4 @@
 - pkg:maven/ai.x/diff_2.12@2.0
+- pkg:maven/ai.x/diff_2.12@2.0.1
+- pkg:maven/ai.x/diff_2.12@2.0.1?classifier=sources
 - pkg:maven/ai.x/diff_2.12@2.0?classifier=sources

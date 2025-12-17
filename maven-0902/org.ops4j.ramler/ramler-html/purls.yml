@@ -1,5 +1,7 @@
 - pkg:maven/org.ops4j.ramler/ramler-html@0.1.0
 - pkg:maven/org.ops4j.ramler/ramler-html@0.1.0?classifier=sources
+- pkg:maven/org.ops4j.ramler/ramler-html@0.10.0
+- pkg:maven/org.ops4j.ramler/ramler-html@0.10.0?classifier=sources
 - pkg:maven/org.ops4j.ramler/ramler-html@0.2.0
 - pkg:maven/org.ops4j.ramler/ramler-html@0.2.0?classifier=sources
 - pkg:maven/org.ops4j.ramler/ramler-html@0.3.0

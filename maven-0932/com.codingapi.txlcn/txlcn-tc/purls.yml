@@ -1,0 +1,8 @@
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.0
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.0.RELEASE
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.0.RELEASE?classifier=sources
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.0?classifier=sources
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.1.RELEASE
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.1.RELEASE?classifier=sources
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.2.RELEASE
+- pkg:maven/com.codingapi.txlcn/txlcn-tc@5.0.2.RELEASE?classifier=sources

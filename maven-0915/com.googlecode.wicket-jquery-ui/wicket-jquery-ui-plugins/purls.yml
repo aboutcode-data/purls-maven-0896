@@ -160,3 +160,5 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-plugins@8.0.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-plugins@8.1.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-plugins@8.1.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-plugins@8.3.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-plugins@8.3.0?classifier=sources

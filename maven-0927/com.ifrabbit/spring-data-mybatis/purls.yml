@@ -30,3 +30,7 @@
 - pkg:maven/com.ifrabbit/spring-data-mybatis@1.0.8.RELEASE?classifier=sources
 - pkg:maven/com.ifrabbit/spring-data-mybatis@1.0.9.RELEASE
 - pkg:maven/com.ifrabbit/spring-data-mybatis@1.0.9.RELEASE?classifier=sources
+- pkg:maven/com.ifrabbit/spring-data-mybatis@2.0.0.RELEASE
+- pkg:maven/com.ifrabbit/spring-data-mybatis@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ifrabbit/spring-data-mybatis@2.0.1.RELEASE
+- pkg:maven/com.ifrabbit/spring-data-mybatis@2.0.1.RELEASE?classifier=sources

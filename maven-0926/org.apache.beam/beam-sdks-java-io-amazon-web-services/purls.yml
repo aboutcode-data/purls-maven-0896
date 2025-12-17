@@ -1,3 +1,7 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.10.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.10.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.11.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.11.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.3.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.3.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.4.0
@@ -9,3 +13,5 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.8.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.8.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.9.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-amazon-web-services@2.9.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.jwebmp.jre11.jackson.core/jackson-annotations@0.63.0.17
+- pkg:maven/com.jwebmp.jre11.jackson.core/jackson-annotations@0.63.0.17?classifier=sources
+- pkg:maven/com.jwebmp.jre11.jackson.core/jackson-annotations@0.63.0.19
+- pkg:maven/com.jwebmp.jre11.jackson.core/jackson-annotations@0.63.0.19?classifier=sources

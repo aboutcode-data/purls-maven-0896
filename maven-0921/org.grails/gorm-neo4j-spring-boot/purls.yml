@@ -84,3 +84,7 @@
 - pkg:maven/org.grails/gorm-neo4j-spring-boot@6.1.6.RELEASE?classifier=sources
 - pkg:maven/org.grails/gorm-neo4j-spring-boot@6.1.7.RELEASE
 - pkg:maven/org.grails/gorm-neo4j-spring-boot@6.1.7.RELEASE?classifier=sources
+- pkg:maven/org.grails/gorm-neo4j-spring-boot@7.0.0.RC2
+- pkg:maven/org.grails/gorm-neo4j-spring-boot@7.0.0.RC2?classifier=sources
+- pkg:maven/org.grails/gorm-neo4j-spring-boot@7.0.0.RELEASE
+- pkg:maven/org.grails/gorm-neo4j-spring-boot@7.0.0.RELEASE?classifier=sources

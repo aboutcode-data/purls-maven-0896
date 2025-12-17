@@ -1,0 +1,9 @@
+- pkg:maven/io.prestosql/presto-redshift@300?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@301?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@302?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@303?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@304?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@305?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@306?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@307?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@308?classifier=sources

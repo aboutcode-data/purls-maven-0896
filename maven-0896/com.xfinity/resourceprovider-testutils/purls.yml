@@ -1,2 +1,4 @@
 - pkg:maven/com.xfinity/resourceprovider-testutils@1.0?classifier=sources
 - pkg:maven/com.xfinity/resourceprovider-testutils@1.0?type=aar
+- pkg:maven/com.xfinity/resourceprovider-testutils@1.1.0?classifier=sources
+- pkg:maven/com.xfinity/resourceprovider-testutils@1.1.0?type=aar

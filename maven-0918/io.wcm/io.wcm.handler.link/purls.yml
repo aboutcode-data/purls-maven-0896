@@ -18,6 +18,8 @@
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.10
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.10?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.link@1.0.12
+- pkg:maven/io.wcm/io.wcm.handler.link@1.0.12?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.2
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.2?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.4
@@ -26,3 +28,9 @@
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.6?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.8
 - pkg:maven/io.wcm/io.wcm.handler.link@1.0.8?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.link@1.1.0
+- pkg:maven/io.wcm/io.wcm.handler.link@1.1.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.link@1.2.0
+- pkg:maven/io.wcm/io.wcm.handler.link@1.2.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.link@1.2.2
+- pkg:maven/io.wcm/io.wcm.handler.link@1.2.2?classifier=sources

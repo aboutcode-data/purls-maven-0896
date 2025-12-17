@@ -2,3 +2,5 @@
 - pkg:maven/org.weixin4j/weixin4j@0.0.7?classifier=sources
 - pkg:maven/org.weixin4j/weixin4j@0.1.3
 - pkg:maven/org.weixin4j/weixin4j@0.1.3?classifier=sources
+- pkg:maven/org.weixin4j/weixin4j@0.1.4
+- pkg:maven/org.weixin4j/weixin4j@0.1.4?classifier=sources

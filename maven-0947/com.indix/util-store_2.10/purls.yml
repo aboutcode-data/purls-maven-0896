@@ -18,3 +18,5 @@
 - pkg:maven/com.indix/util-store_2.10@v0.7.0?classifier=sources
 - pkg:maven/com.indix/util-store_2.10@v0.7.1
 - pkg:maven/com.indix/util-store_2.10@v0.7.1?classifier=sources
+- pkg:maven/com.indix/util-store_2.10@v0.8.0
+- pkg:maven/com.indix/util-store_2.10@v0.8.0?classifier=sources

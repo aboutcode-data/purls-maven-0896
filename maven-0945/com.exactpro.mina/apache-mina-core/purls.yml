@@ -1,0 +1,2 @@
+- pkg:maven/com.exactpro.mina/apache-mina-core@2.0.9.1
+- pkg:maven/com.exactpro.mina/apache-mina-core@2.0.9.1?classifier=sources

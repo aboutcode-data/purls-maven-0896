@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.blink/flink-queryable-state-runtime_2.11@1.5.1
+- pkg:maven/com.alibaba.blink/flink-queryable-state-runtime_2.11@1.5.1?classifier=sources

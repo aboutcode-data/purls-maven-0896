@@ -2,3 +2,5 @@
 - pkg:maven/com.github.zeripath/java-gitea-api@1.0.0?classifier=sources
 - pkg:maven/com.github.zeripath/java-gitea-api@1.6.0
 - pkg:maven/com.github.zeripath/java-gitea-api@1.6.0?classifier=sources
+- pkg:maven/com.github.zeripath/java-gitea-api@1.7.4
+- pkg:maven/com.github.zeripath/java-gitea-api@1.7.4?classifier=sources

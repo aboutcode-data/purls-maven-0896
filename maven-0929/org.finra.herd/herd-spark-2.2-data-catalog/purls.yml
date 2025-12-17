@@ -1,0 +1,4 @@
+- pkg:maven/org.finra.herd/herd-spark-2.2-data-catalog@0.87.0
+- pkg:maven/org.finra.herd/herd-spark-2.2-data-catalog@0.87.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-spark-2.2-data-catalog@0.88.0
+- pkg:maven/org.finra.herd/herd-spark-2.2-data-catalog@0.88.0?classifier=sources

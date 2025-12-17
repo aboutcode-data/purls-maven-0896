@@ -10,3 +10,5 @@
 - pkg:maven/com.zaubersoftware.commons.auth/commons-auth-api@3.53?classifier=sources
 - pkg:maven/com.zaubersoftware.commons.auth/commons-auth-api@3.54
 - pkg:maven/com.zaubersoftware.commons.auth/commons-auth-api@3.54?classifier=sources
+- pkg:maven/com.zaubersoftware.commons.auth/commons-auth-api@3.55
+- pkg:maven/com.zaubersoftware.commons.auth/commons-auth-api@3.55?classifier=sources

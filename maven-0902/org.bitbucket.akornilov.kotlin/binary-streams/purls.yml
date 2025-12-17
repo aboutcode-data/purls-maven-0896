@@ -3,4 +3,6 @@
 - pkg:maven/org.bitbucket.akornilov.kotlin/binary-streams@0.3
 - pkg:maven/org.bitbucket.akornilov.kotlin/binary-streams@0.31
 - pkg:maven/org.bitbucket.akornilov.kotlin/binary-streams@0.31?classifier=sources
+- pkg:maven/org.bitbucket.akornilov.kotlin/binary-streams@0.33
+- pkg:maven/org.bitbucket.akornilov.kotlin/binary-streams@0.33?classifier=sources
 - pkg:maven/org.bitbucket.akornilov.kotlin/binary-streams@0.3?classifier=sources

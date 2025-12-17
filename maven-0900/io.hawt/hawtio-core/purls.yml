@@ -240,3 +240,9 @@
 - pkg:maven/io.hawt/hawtio-core@2.2.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-core@2.3.0
 - pkg:maven/io.hawt/hawtio-core@2.3.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-core@2.4.0
+- pkg:maven/io.hawt/hawtio-core@2.4.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-core@2.5.0
+- pkg:maven/io.hawt/hawtio-core@2.5.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-core@2.6.0
+- pkg:maven/io.hawt/hawtio-core@2.6.0?classifier=sources

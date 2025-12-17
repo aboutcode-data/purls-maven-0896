@@ -20,3 +20,7 @@
 - pkg:maven/jp.co.yahoo.dataplatform.schema/schema-jackson@1.2.2_hive-1.2.1000.2.6.4.0-91?classifier=sources
 - pkg:maven/jp.co.yahoo.dataplatform.schema/schema-jackson@1.2.3_hive-1.2.1000.2.6.4.0-91
 - pkg:maven/jp.co.yahoo.dataplatform.schema/schema-jackson@1.2.3_hive-1.2.1000.2.6.4.0-91?classifier=sources
+- pkg:maven/jp.co.yahoo.dataplatform.schema/schema-jackson@1.2.4_hive-1.2.1000.2.6.4.0-91
+- pkg:maven/jp.co.yahoo.dataplatform.schema/schema-jackson@1.2.4_hive-1.2.1000.2.6.4.0-91?classifier=sources
+- pkg:maven/jp.co.yahoo.dataplatform.schema/schema-jackson@1.2.4_hive-1.2.1000.2.6.5.99-1
+- pkg:maven/jp.co.yahoo.dataplatform.schema/schema-jackson@1.2.4_hive-1.2.1000.2.6.5.99-1?classifier=sources

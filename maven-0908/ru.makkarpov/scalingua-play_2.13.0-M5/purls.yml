@@ -1,0 +1,4 @@
+- pkg:maven/ru.makkarpov/scalingua-play_2.13.0-M5@0.7.4
+- pkg:maven/ru.makkarpov/scalingua-play_2.13.0-M5@0.7.4?classifier=sources
+- pkg:maven/ru.makkarpov/scalingua-play_2.13.0-M5@0.8
+- pkg:maven/ru.makkarpov/scalingua-play_2.13.0-M5@0.8?classifier=sources

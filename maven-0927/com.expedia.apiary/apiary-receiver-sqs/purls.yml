@@ -1,0 +1,4 @@
+- pkg:maven/com.expedia.apiary/apiary-receiver-sqs@1.4.0
+- pkg:maven/com.expedia.apiary/apiary-receiver-sqs@1.4.0?classifier=sources
+- pkg:maven/com.expedia.apiary/apiary-receiver-sqs@2.0.0
+- pkg:maven/com.expedia.apiary/apiary-receiver-sqs@2.0.0?classifier=sources

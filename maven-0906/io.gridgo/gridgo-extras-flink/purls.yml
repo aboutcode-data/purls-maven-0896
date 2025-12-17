@@ -1,0 +1,2 @@
+- pkg:maven/io.gridgo/gridgo-extras-flink@0.5.0
+- pkg:maven/io.gridgo/gridgo-extras-flink@0.5.0?classifier=sources

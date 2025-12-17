@@ -4,3 +4,7 @@
 - pkg:maven/org.apache.carbondata/carbondata-examples@0.1.1-incubating?classifier=sources
 - pkg:maven/org.apache.carbondata/carbondata-examples@0.2.0-incubating
 - pkg:maven/org.apache.carbondata/carbondata-examples@0.2.0-incubating?classifier=sources
+- pkg:maven/org.apache.carbondata/carbondata-examples@1.5.2
+- pkg:maven/org.apache.carbondata/carbondata-examples@1.5.2?classifier=sources
+- pkg:maven/org.apache.carbondata/carbondata-examples@1.5.3
+- pkg:maven/org.apache.carbondata/carbondata-examples@1.5.3?classifier=sources

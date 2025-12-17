@@ -4,3 +4,9 @@
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.0.1?classifier=sources
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.0.2
 - pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.0.2?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.1.0
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.1.0?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.1.1
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.1.1?classifier=sources
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.1.4
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-driver-coop-netty-http-s3@4.1.4?classifier=sources

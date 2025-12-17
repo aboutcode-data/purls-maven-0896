@@ -1,0 +1,10 @@
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0-INCAP-1?classifier=sources
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0-INCAP-1?type=aar
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0-INCAP-2?classifier=sources
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0-INCAP-2?type=aar
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0-INCAP?classifier=sources
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0-INCAP?type=aar
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0.3?classifier=sources
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0.3?type=aar
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0.4?classifier=sources
+- pkg:maven/com.github.stephanenicolas/butterknife@10.0.0.4?type=aar

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/mongodb@2.0.0-alpha2
+- pkg:maven/org.webjars.npm/mongodb@2.0.0-alpha2?classifier=sources
 - pkg:maven/org.webjars.npm/mongodb@2.2.22
 - pkg:maven/org.webjars.npm/mongodb@2.2.22?classifier=sources
 - pkg:maven/org.webjars.npm/mongodb@2.2.24

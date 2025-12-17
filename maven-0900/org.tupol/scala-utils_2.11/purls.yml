@@ -2,3 +2,5 @@
 - pkg:maven/org.tupol/scala-utils_2.11@0.0.1?classifier=sources
 - pkg:maven/org.tupol/scala-utils_2.11@0.1.0
 - pkg:maven/org.tupol/scala-utils_2.11@0.1.0?classifier=sources
+- pkg:maven/org.tupol/scala-utils_2.11@0.2.0
+- pkg:maven/org.tupol/scala-utils_2.11@0.2.0?classifier=sources

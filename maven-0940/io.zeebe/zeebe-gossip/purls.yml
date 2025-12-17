@@ -1,0 +1,2 @@
+- pkg:maven/io.zeebe/zeebe-gossip@0.17.0
+- pkg:maven/io.zeebe/zeebe-gossip@0.17.0?classifier=sources

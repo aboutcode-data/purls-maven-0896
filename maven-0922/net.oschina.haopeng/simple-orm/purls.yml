@@ -12,3 +12,9 @@
 - pkg:maven/net.oschina.haopeng/simple-orm@v1.5?classifier=sources
 - pkg:maven/net.oschina.haopeng/simple-orm@v1.6
 - pkg:maven/net.oschina.haopeng/simple-orm@v1.6?classifier=sources
+- pkg:maven/net.oschina.haopeng/simple-orm@v1.7
+- pkg:maven/net.oschina.haopeng/simple-orm@v1.7?classifier=sources
+- pkg:maven/net.oschina.haopeng/simple-orm@v1.8
+- pkg:maven/net.oschina.haopeng/simple-orm@v1.8?classifier=sources
+- pkg:maven/net.oschina.haopeng/simple-orm@v1.9
+- pkg:maven/net.oschina.haopeng/simple-orm@v1.9?classifier=sources

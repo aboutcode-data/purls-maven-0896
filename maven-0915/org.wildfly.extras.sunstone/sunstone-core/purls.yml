@@ -2,3 +2,9 @@
 - pkg:maven/org.wildfly.extras.sunstone/sunstone-core@0.10.0?classifier=sources
 - pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.0.0
 - pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.0.0?classifier=sources
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.1.0
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.1.0?classifier=sources
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.2.0
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.2.0?classifier=sources
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.2.1
+- pkg:maven/org.wildfly.extras.sunstone/sunstone-core@1.2.1?classifier=sources

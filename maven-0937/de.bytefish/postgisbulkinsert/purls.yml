@@ -1,0 +1,2 @@
+- pkg:maven/de.bytefish/postgisbulkinsert@0.1
+- pkg:maven/de.bytefish/postgisbulkinsert@0.1?classifier=sources

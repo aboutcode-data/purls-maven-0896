@@ -2,3 +2,5 @@
 - pkg:maven/com.airlenet.yang/yang-maven-plugin@1.0.0.RELEASE?classifier=sources
 - pkg:maven/com.airlenet.yang/yang-maven-plugin@1.0.1.RELEASE
 - pkg:maven/com.airlenet.yang/yang-maven-plugin@1.0.1.RELEASE?classifier=sources
+- pkg:maven/com.airlenet.yang/yang-maven-plugin@1.1.0
+- pkg:maven/com.airlenet.yang/yang-maven-plugin@1.1.0?classifier=sources

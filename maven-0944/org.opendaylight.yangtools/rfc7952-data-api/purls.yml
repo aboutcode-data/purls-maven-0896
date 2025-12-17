@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@3.0.0
+- pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@3.0.0?classifier=sources

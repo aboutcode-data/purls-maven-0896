@@ -1,0 +1,12 @@
+- pkg:maven/io.scalecube/scalecube-configuration@2.0.17
+- pkg:maven/io.scalecube/scalecube-configuration@2.0.17?classifier=sources
+- pkg:maven/io.scalecube/scalecube-configuration@2.0.18
+- pkg:maven/io.scalecube/scalecube-configuration@2.0.18?classifier=sources
+- pkg:maven/io.scalecube/scalecube-configuration@2.0.19
+- pkg:maven/io.scalecube/scalecube-configuration@2.0.19?classifier=sources
+- pkg:maven/io.scalecube/scalecube-configuration@2.1.0
+- pkg:maven/io.scalecube/scalecube-configuration@2.1.0?classifier=sources
+- pkg:maven/io.scalecube/scalecube-configuration@2.1.1
+- pkg:maven/io.scalecube/scalecube-configuration@2.1.1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-configuration@2.1.2
+- pkg:maven/io.scalecube/scalecube-configuration@2.1.2?classifier=sources

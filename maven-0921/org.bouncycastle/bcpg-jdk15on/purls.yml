@@ -26,3 +26,5 @@
 - pkg:maven/org.bouncycastle/bcpg-jdk15on@1.59?classifier=sources
 - pkg:maven/org.bouncycastle/bcpg-jdk15on@1.60
 - pkg:maven/org.bouncycastle/bcpg-jdk15on@1.60?classifier=sources
+- pkg:maven/org.bouncycastle/bcpg-jdk15on@1.61
+- pkg:maven/org.bouncycastle/bcpg-jdk15on@1.61?classifier=sources

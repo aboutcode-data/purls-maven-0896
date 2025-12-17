@@ -1,0 +1,4 @@
+- pkg:maven/io.github.lujian213/SmartSimulator@0.0.9
+- pkg:maven/io.github.lujian213/SmartSimulator@0.0.9?classifier=sources
+- pkg:maven/io.github.lujian213/SmartSimulator@1.0.0
+- pkg:maven/io.github.lujian213/SmartSimulator@1.0.0?classifier=sources

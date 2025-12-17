@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/portfinder@0.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/portfinder@1.0.13
 - pkg:maven/org.webjars.npm/portfinder@1.0.13?classifier=sources
+- pkg:maven/org.webjars.npm/portfinder@1.0.20
+- pkg:maven/org.webjars.npm/portfinder@1.0.20?classifier=sources

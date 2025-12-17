@@ -12,6 +12,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@1.0.5
 - pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@1.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@1.0.6
+- pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@1.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@1.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.store.safe.file.name.wrapper@2.0.0?classifier=sources-commercial

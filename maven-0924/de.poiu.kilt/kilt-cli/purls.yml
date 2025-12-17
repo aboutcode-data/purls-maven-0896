@@ -2,3 +2,5 @@
 - pkg:maven/de.poiu.kilt/kilt-cli@0.2.0?classifier=sources
 - pkg:maven/de.poiu.kilt/kilt-cli@0.3.0
 - pkg:maven/de.poiu.kilt/kilt-cli@0.3.0?classifier=sources
+- pkg:maven/de.poiu.kilt/kilt-cli@0.3.1
+- pkg:maven/de.poiu.kilt/kilt-cli@0.3.1?classifier=sources

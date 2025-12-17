@@ -1,0 +1,2 @@
+- pkg:maven/io.opentracing.contrib.specialagent.plugins/opentracing-specialagent-concurrent@0.9.0
+- pkg:maven/io.opentracing.contrib.specialagent.plugins/opentracing-specialagent-concurrent@0.9.0?classifier=sources

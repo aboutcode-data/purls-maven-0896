@@ -1,0 +1,2 @@
+- pkg:maven/com.fluxchess.pulse/pulse@1.6.1-java
+- pkg:maven/com.fluxchess.pulse/pulse@1.6.1-java?classifier=sources

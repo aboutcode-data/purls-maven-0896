@@ -20,3 +20,6 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.3.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.1.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.1.1.RELEASE

@@ -14,6 +14,10 @@
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.11.2?classifier=sources
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.11.3
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.11.3?classifier=sources
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.11.4
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.11.4?classifier=sources
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.12.0
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.12.0?classifier=sources
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.6.0
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.6.0?classifier=sources
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-client@0.7.0

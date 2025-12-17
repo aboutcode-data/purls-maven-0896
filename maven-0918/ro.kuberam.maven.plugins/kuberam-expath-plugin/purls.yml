@@ -36,3 +36,5 @@
 - pkg:maven/ro.kuberam.maven.plugins/kuberam-expath-plugin@0.5.8?classifier=sources
 - pkg:maven/ro.kuberam.maven.plugins/kuberam-expath-plugin@0.5.9
 - pkg:maven/ro.kuberam.maven.plugins/kuberam-expath-plugin@0.5.9?classifier=sources
+- pkg:maven/ro.kuberam.maven.plugins/kuberam-expath-plugin@0.6.0
+- pkg:maven/ro.kuberam.maven.plugins/kuberam-expath-plugin@0.6.0?classifier=sources

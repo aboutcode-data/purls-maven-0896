@@ -76,3 +76,5 @@
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m8?classifier=sources
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m9
 - pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@0.9.0-m9?classifier=sources
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@1.0.0
+- pkg:maven/org.wso2.testgrid/org.wso2.testgrid.reporting@1.0.0?classifier=sources

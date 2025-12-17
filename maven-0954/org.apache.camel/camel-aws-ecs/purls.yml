@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-aws-ecs@3.0.0-M2
+- pkg:maven/org.apache.camel/camel-aws-ecs@3.0.0-M2?classifier=sources

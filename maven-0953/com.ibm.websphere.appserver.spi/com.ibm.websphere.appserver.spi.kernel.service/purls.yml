@@ -14,3 +14,7 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.20
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.21
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.22
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.23
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.24
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.25
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.kernel.service@1.5.26

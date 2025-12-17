@@ -1,3 +1,5 @@
 - pkg:maven/org.puremvc/PureMVC_Java_MultiCore@1.0
 - pkg:maven/org.puremvc/PureMVC_Java_MultiCore@1.0.6
 - pkg:maven/org.puremvc/PureMVC_Java_MultiCore@1.0.7
+- pkg:maven/org.puremvc/PureMVC_Java_MultiCore@2.0
+- pkg:maven/org.puremvc/PureMVC_Java_MultiCore@2.0?classifier=sources

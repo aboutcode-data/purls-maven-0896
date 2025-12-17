@@ -50,3 +50,7 @@
 - pkg:maven/com.pauldijou/jwt-core-impl_2.11@0.9.1?classifier=sources
 - pkg:maven/com.pauldijou/jwt-core-impl_2.11@0.9.2
 - pkg:maven/com.pauldijou/jwt-core-impl_2.11@0.9.2?classifier=sources
+- pkg:maven/com.pauldijou/jwt-core-impl_2.11@1.0.0
+- pkg:maven/com.pauldijou/jwt-core-impl_2.11@1.0.0?classifier=sources
+- pkg:maven/com.pauldijou/jwt-core-impl_2.11@1.1.0
+- pkg:maven/com.pauldijou/jwt-core-impl_2.11@1.1.0?classifier=sources

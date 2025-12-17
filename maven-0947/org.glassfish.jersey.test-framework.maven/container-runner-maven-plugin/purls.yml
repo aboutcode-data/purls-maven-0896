@@ -44,3 +44,7 @@
 - pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.26?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.27
 - pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.27?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.28
+- pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.28-RC4
+- pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.28-RC4?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework.maven/container-runner-maven-plugin@2.28?classifier=sources

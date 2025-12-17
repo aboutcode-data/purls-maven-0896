@@ -1,2 +1,6 @@
 - pkg:maven/xyz.devfortress.splot/splot-core_2.12@0.2.0
 - pkg:maven/xyz.devfortress.splot/splot-core_2.12@0.2.0?classifier=sources
+- pkg:maven/xyz.devfortress.splot/splot-core_2.12@0.3.0
+- pkg:maven/xyz.devfortress.splot/splot-core_2.12@0.3.0?classifier=sources
+- pkg:maven/xyz.devfortress.splot/splot-core_2.12@0.4.0
+- pkg:maven/xyz.devfortress.splot/splot-core_2.12@0.4.0?classifier=sources

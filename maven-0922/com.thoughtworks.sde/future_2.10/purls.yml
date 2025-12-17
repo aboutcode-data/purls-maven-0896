@@ -21,4 +21,10 @@
 - pkg:maven/com.thoughtworks.sde/future_2.10@3.3.0
 - pkg:maven/com.thoughtworks.sde/future_2.10@3.3.0?classifier=sources
 - pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1
+- pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1%2B120-6f6451ee
+- pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1%2B120-6f6451ee?classifier=sources
+- pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1%2B137-4c1eaf9f
+- pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1%2B137-4c1eaf9f?classifier=sources
+- pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1%2B138-d61f1eb3
+- pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1%2B138-d61f1eb3?classifier=sources
 - pkg:maven/com.thoughtworks.sde/future_2.10@3.3.1?classifier=sources

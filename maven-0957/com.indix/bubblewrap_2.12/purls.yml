@@ -1,3 +1,19 @@
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.102
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.102?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.105
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.105?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.108
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.108?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.113
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.113?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.120
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.120?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.125
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.125?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.127
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.127?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.128
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.128?classifier=sources
 - pkg:maven/com.indix/bubblewrap_2.12@0.2.28
 - pkg:maven/com.indix/bubblewrap_2.12@0.2.28?classifier=sources
 - pkg:maven/com.indix/bubblewrap_2.12@0.2.29
@@ -30,3 +46,7 @@
 - pkg:maven/com.indix/bubblewrap_2.12@0.2.85?classifier=sources
 - pkg:maven/com.indix/bubblewrap_2.12@0.2.89
 - pkg:maven/com.indix/bubblewrap_2.12@0.2.89?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.92
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.92?classifier=sources
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.95
+- pkg:maven/com.indix/bubblewrap_2.12@0.2.95?classifier=sources

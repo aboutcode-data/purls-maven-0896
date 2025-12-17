@@ -12,3 +12,5 @@
 - pkg:maven/com.sdl.web/discovery-common@8.5.0-1014?classifier=sources
 - pkg:maven/com.sdl.web/discovery-common@8.5.0-1037
 - pkg:maven/com.sdl.web/discovery-common@8.5.0-1037?classifier=sources
+- pkg:maven/com.sdl.web/discovery-common@8.5.0-1085
+- pkg:maven/com.sdl.web/discovery-common@8.5.0-1085?classifier=sources

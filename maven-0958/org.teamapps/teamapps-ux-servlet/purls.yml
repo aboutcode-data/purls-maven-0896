@@ -1,0 +1,4 @@
+- pkg:maven/org.teamapps/teamapps-ux-servlet@0.9.5
+- pkg:maven/org.teamapps/teamapps-ux-servlet@0.9.5?classifier=sources
+- pkg:maven/org.teamapps/teamapps-ux-servlet@0.9.6
+- pkg:maven/org.teamapps/teamapps-ux-servlet@0.9.6?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.virtdata/virtdata-annotations@2.12.01
+- pkg:maven/io.virtdata/virtdata-annotations@2.12.01?classifier=sources
+- pkg:maven/io.virtdata/virtdata-annotations@2.12.02
+- pkg:maven/io.virtdata/virtdata-annotations@2.12.02?classifier=sources
+- pkg:maven/io.virtdata/virtdata-annotations@2.12.03
+- pkg:maven/io.virtdata/virtdata-annotations@2.12.03?classifier=sources

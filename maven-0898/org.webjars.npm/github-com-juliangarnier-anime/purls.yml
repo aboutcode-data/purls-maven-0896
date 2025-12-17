@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-juliangarnier-anime@2.0.2
 - pkg:maven/org.webjars.npm/github-com-juliangarnier-anime@2.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-juliangarnier-anime@3.0.1
+- pkg:maven/org.webjars.npm/github-com-juliangarnier-anime@3.0.1?classifier=sources

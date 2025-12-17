@@ -1,0 +1,4 @@
+- pkg:maven/com.2oi7/component-redis@1.0.0
+- pkg:maven/com.2oi7/component-redis@1.0.0?classifier=sources
+- pkg:maven/com.2oi7/component-redis@2.0.0
+- pkg:maven/com.2oi7/component-redis@2.0.0?classifier=sources

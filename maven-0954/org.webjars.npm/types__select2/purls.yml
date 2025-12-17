@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__select2@4.0.41
 - pkg:maven/org.webjars.npm/types__select2@4.0.41?classifier=sources
+- pkg:maven/org.webjars.npm/types__select2@4.0.48
+- pkg:maven/org.webjars.npm/types__select2@4.0.48?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.vanniktech/emoji-kotlin@0.6.0?classifier=sources
+- pkg:maven/com.vanniktech/emoji-kotlin@0.6.0?type=aar

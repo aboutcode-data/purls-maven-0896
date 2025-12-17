@@ -4,6 +4,8 @@
 - pkg:maven/com.gu.play-secret-rotation/core_2.12@0.11?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/core_2.12@0.12
 - pkg:maven/com.gu.play-secret-rotation/core_2.12@0.12?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/core_2.12@0.14
+- pkg:maven/com.gu.play-secret-rotation/core_2.12@0.14?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/core_2.12@0.2
 - pkg:maven/com.gu.play-secret-rotation/core_2.12@0.2?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/core_2.12@0.3

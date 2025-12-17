@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-ram@2.0.7?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-ram@3.0.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-ram@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-ram@3.0.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-ram@3.0.1?classifier=sources

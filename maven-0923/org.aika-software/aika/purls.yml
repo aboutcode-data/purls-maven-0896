@@ -25,6 +25,8 @@
 - pkg:maven/org.aika-software/aika@0.23?classifier=sources
 - pkg:maven/org.aika-software/aika@0.24
 - pkg:maven/org.aika-software/aika@0.24?classifier=sources
+- pkg:maven/org.aika-software/aika@0.25
+- pkg:maven/org.aika-software/aika@0.25?classifier=sources
 - pkg:maven/org.aika-software/aika@0.2?classifier=sources
 - pkg:maven/org.aika-software/aika@0.5
 - pkg:maven/org.aika-software/aika@0.5?classifier=sources
@@ -36,3 +38,9 @@
 - pkg:maven/org.aika-software/aika@0.8?classifier=sources
 - pkg:maven/org.aika-software/aika@0.9
 - pkg:maven/org.aika-software/aika@0.9?classifier=sources
+- pkg:maven/org.aika-software/aika@1.0.0
+- pkg:maven/org.aika-software/aika@1.0.0?classifier=sources
+- pkg:maven/org.aika-software/aika@1.1.0
+- pkg:maven/org.aika-software/aika@1.1.0?classifier=sources
+- pkg:maven/org.aika-software/aika@1.1.1
+- pkg:maven/org.aika-software/aika@1.1.1?classifier=sources

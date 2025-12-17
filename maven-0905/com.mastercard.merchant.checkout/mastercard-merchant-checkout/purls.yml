@@ -18,3 +18,5 @@
 - pkg:maven/com.mastercard.merchant.checkout/mastercard-merchant-checkout@2.2.2?classifier=sources
 - pkg:maven/com.mastercard.merchant.checkout/mastercard-merchant-checkout@2.3.0
 - pkg:maven/com.mastercard.merchant.checkout/mastercard-merchant-checkout@2.3.0?classifier=sources
+- pkg:maven/com.mastercard.merchant.checkout/mastercard-merchant-checkout@2.3.1
+- pkg:maven/com.mastercard.merchant.checkout/mastercard-merchant-checkout@2.3.1?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/com.redfin/insist@4.0.0?classifier=sources
 - pkg:maven/com.redfin/insist@4.1.0
 - pkg:maven/com.redfin/insist@4.1.0?classifier=sources
+- pkg:maven/com.redfin/insist@4.2.0
+- pkg:maven/com.redfin/insist@4.2.0?classifier=sources

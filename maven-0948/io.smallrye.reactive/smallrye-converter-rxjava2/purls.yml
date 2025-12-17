@@ -1,0 +1,6 @@
+- pkg:maven/io.smallrye.reactive/smallrye-converter-rxjava2@0.4.1
+- pkg:maven/io.smallrye.reactive/smallrye-converter-rxjava2@0.4.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-converter-rxjava2@1.0.0
+- pkg:maven/io.smallrye.reactive/smallrye-converter-rxjava2@1.0.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-converter-rxjava2@1.0.1
+- pkg:maven/io.smallrye.reactive/smallrye-converter-rxjava2@1.0.1?classifier=sources

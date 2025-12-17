@@ -12,3 +12,9 @@
 - pkg:maven/nl.42/spring-boot-starter-docker@0.6.0?classifier=sources
 - pkg:maven/nl.42/spring-boot-starter-docker@0.7.0
 - pkg:maven/nl.42/spring-boot-starter-docker@0.7.0?classifier=sources
+- pkg:maven/nl.42/spring-boot-starter-docker@1.0.0.JAVA.11
+- pkg:maven/nl.42/spring-boot-starter-docker@1.0.0.JAVA.11?classifier=sources
+- pkg:maven/nl.42/spring-boot-starter-docker@1.0.1.JAVA.11
+- pkg:maven/nl.42/spring-boot-starter-docker@1.0.1.JAVA.11?classifier=sources
+- pkg:maven/nl.42/spring-boot-starter-docker@1.0.2
+- pkg:maven/nl.42/spring-boot-starter-docker@1.0.2?classifier=sources

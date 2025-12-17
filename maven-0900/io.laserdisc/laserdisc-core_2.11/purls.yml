@@ -62,6 +62,8 @@
 - pkg:maven/io.laserdisc/laserdisc-core_2.11@0.2.1?classifier=sources
 - pkg:maven/io.laserdisc/laserdisc-core_2.11@0.2.2
 - pkg:maven/io.laserdisc/laserdisc-core_2.11@0.2.2?classifier=sources
+- pkg:maven/io.laserdisc/laserdisc-core_2.11@0.2.3
+- pkg:maven/io.laserdisc/laserdisc-core_2.11@0.2.3?classifier=sources
 - pkg:maven/io.laserdisc/laserdisc-core_2.11@bcfce1b5
 - pkg:maven/io.laserdisc/laserdisc-core_2.11@bcfce1b5?classifier=sources
 - pkg:maven/io.laserdisc/laserdisc-core_2.11@f570d821

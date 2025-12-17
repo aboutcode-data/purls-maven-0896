@@ -2,3 +2,5 @@
 - pkg:maven/com.github.crabs-hue.commons/commons-archive-filesystem@0.0.2?classifier=sources
 - pkg:maven/com.github.crabs-hue.commons/commons-archive-filesystem@0.0.3
 - pkg:maven/com.github.crabs-hue.commons/commons-archive-filesystem@0.0.3?classifier=sources
+- pkg:maven/com.github.crabs-hue.commons/commons-archive-filesystem@0.1.0
+- pkg:maven/com.github.crabs-hue.commons/commons-archive-filesystem@0.1.0?classifier=sources

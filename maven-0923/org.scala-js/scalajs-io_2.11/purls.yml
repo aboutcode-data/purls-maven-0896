@@ -6,3 +6,5 @@
 - pkg:maven/org.scala-js/scalajs-io_2.11@1.0.0-M5?classifier=sources
 - pkg:maven/org.scala-js/scalajs-io_2.11@1.0.0-M6
 - pkg:maven/org.scala-js/scalajs-io_2.11@1.0.0-M6?classifier=sources
+- pkg:maven/org.scala-js/scalajs-io_2.11@1.0.0-M7
+- pkg:maven/org.scala-js/scalajs-io_2.11@1.0.0-M7?classifier=sources

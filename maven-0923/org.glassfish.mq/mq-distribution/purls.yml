@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.mq/mq-distribution@5.1.3?classifier=sources
+- pkg:maven/org.glassfish.mq/mq-distribution@5.1.4?classifier=sources

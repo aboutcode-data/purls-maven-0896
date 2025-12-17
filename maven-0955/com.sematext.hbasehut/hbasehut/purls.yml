@@ -1,4 +1,6 @@
 - pkg:maven/com.sematext.hbasehut/hbasehut@0.1.0
+- pkg:maven/com.sematext.hbasehut/hbasehut@0.1.0-cdh5.3.0
+- pkg:maven/com.sematext.hbasehut/hbasehut@0.1.0-cdh5.3.0?classifier=sources
 - pkg:maven/com.sematext.hbasehut/hbasehut@0.1.0-hadoop-2.0
 - pkg:maven/com.sematext.hbasehut/hbasehut@0.1.0-hadoop-2.0?classifier=sources
 - pkg:maven/com.sematext.hbasehut/hbasehut@0.1.0?classifier=sources

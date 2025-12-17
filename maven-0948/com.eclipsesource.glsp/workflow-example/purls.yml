@@ -1,0 +1,4 @@
+- pkg:maven/com.eclipsesource.glsp/workflow-example@0.1.0
+- pkg:maven/com.eclipsesource.glsp/workflow-example@0.1.0?classifier=sources
+- pkg:maven/com.eclipsesource.glsp/workflow-example@1.0.0
+- pkg:maven/com.eclipsesource.glsp/workflow-example@1.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.core.expressions@3.6.100?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.core.expressions@3.6.200
 - pkg:maven/org.eclipse.platform/org.eclipse.core.expressions@3.6.200?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.core.expressions@3.6.300
+- pkg:maven/org.eclipse.platform/org.eclipse.core.expressions@3.6.300?classifier=sources

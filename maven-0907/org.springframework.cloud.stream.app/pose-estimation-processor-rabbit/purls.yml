@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud.stream.app/pose-estimation-processor-rabbit@2.1.0.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/pose-estimation-processor-rabbit@2.1.0.RELEASE?classifier=sources

@@ -22,3 +22,9 @@
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.1?classifier=sources
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.2
 - pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.2?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.3
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.3?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.4
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.4.1
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.4.1?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-http@3.4?classifier=sources

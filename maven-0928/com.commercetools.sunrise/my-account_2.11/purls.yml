@@ -34,6 +34,8 @@
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@0.24.1?classifier=sources
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@0.24.2
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@0.24.2?classifier=sources
+- pkg:maven/com.commercetools.sunrise/my-account_2.11@0.25.0
+- pkg:maven/com.commercetools.sunrise/my-account_2.11@0.25.0?classifier=sources
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@0.7.0
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@0.7.0?classifier=sources
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@0.8.0
@@ -43,6 +45,8 @@
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M1
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M1.1
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M1.1?classifier=sources
+- pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M10
+- pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M10?classifier=sources
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M1?classifier=sources
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M2
 - pkg:maven/com.commercetools.sunrise/my-account_2.11@1.0.0-M2.1

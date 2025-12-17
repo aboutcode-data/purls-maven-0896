@@ -24,6 +24,10 @@
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.4.4
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.0
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.1
+- pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.10
+- pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.10.1
+- pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.11
+- pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.12
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.2
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.3
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.4
@@ -32,3 +36,4 @@
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.7
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.8
 - pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.5.9
+- pkg:maven/com.alicp.jetcache/jetcache-starter-redis@2.6.0.M1

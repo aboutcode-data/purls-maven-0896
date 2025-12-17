@@ -45,6 +45,8 @@
 - pkg:maven/org.apache.cayenne/cayenne-client@3.2M1
 - pkg:maven/org.apache.cayenne/cayenne-client@3.2M1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-client@4.0
+- pkg:maven/org.apache.cayenne/cayenne-client@4.0.1
+- pkg:maven/org.apache.cayenne/cayenne-client@4.0.1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-client@4.0.B1
 - pkg:maven/org.apache.cayenne/cayenne-client@4.0.B1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-client@4.0.B2
@@ -60,6 +62,8 @@
 - pkg:maven/org.apache.cayenne/cayenne-client@4.0.RC1
 - pkg:maven/org.apache.cayenne/cayenne-client@4.0.RC1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-client@4.0?classifier=sources
+- pkg:maven/org.apache.cayenne/cayenne-client@4.1.B1
+- pkg:maven/org.apache.cayenne/cayenne-client@4.1.B1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-client@4.1.M1
 - pkg:maven/org.apache.cayenne/cayenne-client@4.1.M1?classifier=sources
 - pkg:maven/org.apache.cayenne/cayenne-client@4.1.M2

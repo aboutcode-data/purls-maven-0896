@@ -1,0 +1,4 @@
+- pkg:maven/io.timeandspace/jpsg-cli@1.1
+- pkg:maven/io.timeandspace/jpsg-cli@1.1?classifier=sources
+- pkg:maven/io.timeandspace/jpsg-cli@1.2
+- pkg:maven/io.timeandspace/jpsg-cli@1.2?classifier=sources

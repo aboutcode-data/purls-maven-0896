@@ -4,6 +4,8 @@
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.11?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.12
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.12?classifier=sources
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.14
+- pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.14?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.6
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.6?classifier=sources
 - pkg:maven/com.gu.play-secret-rotation/aws-parameterstore-lambda_2.12@0.7

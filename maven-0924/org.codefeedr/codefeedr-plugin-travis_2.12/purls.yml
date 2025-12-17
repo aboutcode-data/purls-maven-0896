@@ -1,0 +1,2 @@
+- pkg:maven/org.codefeedr/codefeedr-plugin-travis_2.12@0.1.0
+- pkg:maven/org.codefeedr/codefeedr-plugin-travis_2.12@0.1.0?classifier=sources

@@ -1,2 +1,8 @@
+- pkg:maven/cn.leancloud.android/avoscloud-search@4.7.10
+- pkg:maven/cn.leancloud.android/avoscloud-search@4.7.10?classifier=sources
+- pkg:maven/cn.leancloud.android/avoscloud-search@4.7.8
+- pkg:maven/cn.leancloud.android/avoscloud-search@4.7.8?classifier=sources
 - pkg:maven/cn.leancloud.android/avoscloud-search@4.7.8_RC
 - pkg:maven/cn.leancloud.android/avoscloud-search@4.7.8_RC?classifier=sources
+- pkg:maven/cn.leancloud.android/avoscloud-search@4.7.9
+- pkg:maven/cn.leancloud.android/avoscloud-search@4.7.9?classifier=sources

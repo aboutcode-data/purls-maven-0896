@@ -46,3 +46,5 @@
 - pkg:maven/org.ow2.asm/asm-analysis@7.0-beta
 - pkg:maven/org.ow2.asm/asm-analysis@7.0-beta?classifier=sources
 - pkg:maven/org.ow2.asm/asm-analysis@7.0?classifier=sources
+- pkg:maven/org.ow2.asm/asm-analysis@7.1
+- pkg:maven/org.ow2.asm/asm-analysis@7.1?classifier=sources

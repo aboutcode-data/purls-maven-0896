@@ -4,3 +4,5 @@
 - pkg:maven/de.gccc.play/database-test-helpers_2.12@0.0.4?classifier=sources
 - pkg:maven/de.gccc.play/database-test-helpers_2.12@0.0.5
 - pkg:maven/de.gccc.play/database-test-helpers_2.12@0.0.5?classifier=sources
+- pkg:maven/de.gccc.play/database-test-helpers_2.12@0.1.0
+- pkg:maven/de.gccc.play/database-test-helpers_2.12@0.1.0?classifier=sources

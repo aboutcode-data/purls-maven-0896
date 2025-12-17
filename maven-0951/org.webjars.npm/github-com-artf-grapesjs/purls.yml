@@ -1,3 +1,7 @@
+- pkg:maven/org.webjars.npm/github-com-artf-grapesjs@0.14.43
+- pkg:maven/org.webjars.npm/github-com-artf-grapesjs@0.14.43?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-artf-grapesjs@0.14.52
+- pkg:maven/org.webjars.npm/github-com-artf-grapesjs@0.14.52?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-artf-grapesjs@0.3.71
 - pkg:maven/org.webjars.npm/github-com-artf-grapesjs@0.3.71?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-artf-grapesjs@0.4.5

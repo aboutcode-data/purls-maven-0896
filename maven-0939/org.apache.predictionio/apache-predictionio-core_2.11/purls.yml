@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.predictionio/apache-predictionio-core_2.11@0.12.1?classifier=sources
 - pkg:maven/org.apache.predictionio/apache-predictionio-core_2.11@0.13.0
 - pkg:maven/org.apache.predictionio/apache-predictionio-core_2.11@0.13.0?classifier=sources
+- pkg:maven/org.apache.predictionio/apache-predictionio-core_2.11@0.14.0
+- pkg:maven/org.apache.predictionio/apache-predictionio-core_2.11@0.14.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.afu/dnspod@1.0-RELEASE
+- pkg:maven/io.afu/dnspod@1.0-RELEASE?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.12
 - pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.12?classifier=sources
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.13
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.13?classifier=sources
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.14
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.14?classifier=sources
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.15
+- pkg:maven/com.github.mvysny.dynatest/dynatest-api@0.15?classifier=sources

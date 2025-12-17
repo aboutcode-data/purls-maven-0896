@@ -4,3 +4,5 @@
 - pkg:maven/com.dinstone.jrpc/jrpc-spring@3.1.0?classifier=sources
 - pkg:maven/com.dinstone.jrpc/jrpc-spring@3.1.1
 - pkg:maven/com.dinstone.jrpc/jrpc-spring@3.1.1?classifier=sources
+- pkg:maven/com.dinstone.jrpc/jrpc-spring@3.2.0
+- pkg:maven/com.dinstone.jrpc/jrpc-spring@3.2.0?classifier=sources

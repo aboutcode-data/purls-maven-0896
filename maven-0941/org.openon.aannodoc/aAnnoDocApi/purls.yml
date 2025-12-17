@@ -1,2 +1,4 @@
+- pkg:maven/org.openon.aannodoc/aAnnoDocApi@1.0.10
+- pkg:maven/org.openon.aannodoc/aAnnoDocApi@1.0.10?classifier=sources
 - pkg:maven/org.openon.aannodoc/aAnnoDocApi@1.0.12
 - pkg:maven/org.openon.aannodoc/aAnnoDocApi@1.0.12?classifier=sources

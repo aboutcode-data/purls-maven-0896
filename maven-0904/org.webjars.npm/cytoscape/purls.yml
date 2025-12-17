@@ -14,3 +14,9 @@
 - pkg:maven/org.webjars.npm/cytoscape@3.2.17?classifier=sources
 - pkg:maven/org.webjars.npm/cytoscape@3.2.20
 - pkg:maven/org.webjars.npm/cytoscape@3.2.20?classifier=sources
+- pkg:maven/org.webjars.npm/cytoscape@3.3.3
+- pkg:maven/org.webjars.npm/cytoscape@3.3.3?classifier=sources
+- pkg:maven/org.webjars.npm/cytoscape@3.4.2
+- pkg:maven/org.webjars.npm/cytoscape@3.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/cytoscape@3.5.0
+- pkg:maven/org.webjars.npm/cytoscape@3.5.0?classifier=sources

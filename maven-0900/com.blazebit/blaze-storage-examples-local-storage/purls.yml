@@ -4,3 +4,5 @@
 - pkg:maven/com.blazebit/blaze-storage-examples-local-storage@0.2.1?type=war
 - pkg:maven/com.blazebit/blaze-storage-examples-local-storage@0.2.2?classifier=sources
 - pkg:maven/com.blazebit/blaze-storage-examples-local-storage@0.2.2?type=war
+- pkg:maven/com.blazebit/blaze-storage-examples-local-storage@0.2.3?classifier=sources
+- pkg:maven/com.blazebit/blaze-storage-examples-local-storage@0.2.3?type=war

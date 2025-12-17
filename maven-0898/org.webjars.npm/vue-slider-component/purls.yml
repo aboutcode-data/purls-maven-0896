@@ -4,3 +4,7 @@
 - pkg:maven/org.webjars.npm/vue-slider-component@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue-slider-component@2.5.8
 - pkg:maven/org.webjars.npm/vue-slider-component@2.5.8?classifier=sources
+- pkg:maven/org.webjars.npm/vue-slider-component@2.8.12
+- pkg:maven/org.webjars.npm/vue-slider-component@2.8.12?classifier=sources
+- pkg:maven/org.webjars.npm/vue-slider-component@2.8.13
+- pkg:maven/org.webjars.npm/vue-slider-component@2.8.13?classifier=sources

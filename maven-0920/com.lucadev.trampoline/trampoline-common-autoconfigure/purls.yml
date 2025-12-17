@@ -1,0 +1,4 @@
+- pkg:maven/com.lucadev.trampoline/trampoline-common-autoconfigure@20190308
+- pkg:maven/com.lucadev.trampoline/trampoline-common-autoconfigure@20190308?classifier=sources
+- pkg:maven/com.lucadev.trampoline/trampoline-common-autoconfigure@20190329
+- pkg:maven/com.lucadev.trampoline/trampoline-common-autoconfigure@20190329?classifier=sources

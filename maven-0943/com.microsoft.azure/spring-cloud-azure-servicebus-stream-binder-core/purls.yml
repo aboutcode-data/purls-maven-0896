@@ -1,0 +1,6 @@
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-servicebus-stream-binder-core@1.1.0.RC3
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-servicebus-stream-binder-core@1.1.0.RC3?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-servicebus-stream-binder-core@1.1.0.RC4
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-servicebus-stream-binder-core@1.1.0.RC4?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-servicebus-stream-binder-core@1.1.0.RC5
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-servicebus-stream-binder-core@1.1.0.RC5?classifier=sources

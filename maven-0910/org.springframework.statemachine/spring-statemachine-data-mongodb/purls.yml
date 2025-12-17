@@ -8,6 +8,8 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.11.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.12.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.12.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.13.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.13.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.2.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@1.2.3.RELEASE
@@ -32,3 +34,7 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.0.3.RELEASE
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.0.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.1.0.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.1.1.RELEASE
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.1.1.RELEASE?classifier=sources

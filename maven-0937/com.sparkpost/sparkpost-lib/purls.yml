@@ -24,6 +24,8 @@
 - pkg:maven/com.sparkpost/sparkpost-lib@0.20?classifier=sources
 - pkg:maven/com.sparkpost/sparkpost-lib@0.21
 - pkg:maven/com.sparkpost/sparkpost-lib@0.21?classifier=sources
+- pkg:maven/com.sparkpost/sparkpost-lib@0.22
+- pkg:maven/com.sparkpost/sparkpost-lib@0.22?classifier=sources
 - pkg:maven/com.sparkpost/sparkpost-lib@0.8
 - pkg:maven/com.sparkpost/sparkpost-lib@0.8?classifier=sources
 - pkg:maven/com.sparkpost/sparkpost-lib@0.9

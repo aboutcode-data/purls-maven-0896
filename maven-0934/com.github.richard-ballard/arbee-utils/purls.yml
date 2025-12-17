@@ -12,3 +12,5 @@
 - pkg:maven/com.github.richard-ballard/arbee-utils@1.5?classifier=sources
 - pkg:maven/com.github.richard-ballard/arbee-utils@1.6
 - pkg:maven/com.github.richard-ballard/arbee-utils@1.6?classifier=sources
+- pkg:maven/com.github.richard-ballard/arbee-utils@2.0
+- pkg:maven/com.github.richard-ballard/arbee-utils@2.0?classifier=sources

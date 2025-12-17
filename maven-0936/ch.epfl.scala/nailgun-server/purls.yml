@@ -18,6 +18,8 @@
 - pkg:maven/ch.epfl.scala/nailgun-server@60c2d130?classifier=sources
 - pkg:maven/ch.epfl.scala/nailgun-server@615737a9
 - pkg:maven/ch.epfl.scala/nailgun-server@615737a9?classifier=sources
+- pkg:maven/ch.epfl.scala/nailgun-server@6992a3bf
+- pkg:maven/ch.epfl.scala/nailgun-server@6992a3bf?classifier=sources
 - pkg:maven/ch.epfl.scala/nailgun-server@6e6ac1e5
 - pkg:maven/ch.epfl.scala/nailgun-server@6e6ac1e5?classifier=sources
 - pkg:maven/ch.epfl.scala/nailgun-server@8b9da2a5
@@ -28,3 +30,5 @@
 - pkg:maven/ch.epfl.scala/nailgun-server@ebe7ab23?classifier=sources
 - pkg:maven/ch.epfl.scala/nailgun-server@ec3bfc1b
 - pkg:maven/ch.epfl.scala/nailgun-server@ec3bfc1b?classifier=sources
+- pkg:maven/ch.epfl.scala/nailgun-server@ee3c4343
+- pkg:maven/ch.epfl.scala/nailgun-server@ee3c4343?classifier=sources

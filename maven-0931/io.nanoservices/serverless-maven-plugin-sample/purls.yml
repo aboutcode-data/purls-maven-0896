@@ -1,0 +1,2 @@
+- pkg:maven/io.nanoservices/serverless-maven-plugin-sample@1.0-alpha-1
+- pkg:maven/io.nanoservices/serverless-maven-plugin-sample@1.0-alpha-1?classifier=sources

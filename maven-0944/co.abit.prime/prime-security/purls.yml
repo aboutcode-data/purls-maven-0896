@@ -5,6 +5,8 @@
 - pkg:maven/co.abit.prime/prime-security@1.1.0
 - pkg:maven/co.abit.prime/prime-security@1.1.0?classifier=sources
 - pkg:maven/co.abit.prime/prime-security@1.1.1
+- pkg:maven/co.abit.prime/prime-security@1.1.16
+- pkg:maven/co.abit.prime/prime-security@1.1.16?classifier=sources
 - pkg:maven/co.abit.prime/prime-security@1.1.1?classifier=sources
 - pkg:maven/co.abit.prime/prime-security@1.1.2
 - pkg:maven/co.abit.prime/prime-security@1.1.2?classifier=sources
@@ -14,3 +16,5 @@
 - pkg:maven/co.abit.prime/prime-security@1.1.4?classifier=sources
 - pkg:maven/co.abit.prime/prime-security@1.1.5
 - pkg:maven/co.abit.prime/prime-security@1.1.5?classifier=sources
+- pkg:maven/co.abit.prime/prime-security@1.1.6
+- pkg:maven/co.abit.prime/prime-security@1.1.6?classifier=sources

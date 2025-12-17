@@ -2,3 +2,7 @@
 - pkg:maven/de.julielab/julielab-topic-modeling@1.8.7?classifier=sources
 - pkg:maven/de.julielab/julielab-topic-modeling@1.9.0
 - pkg:maven/de.julielab/julielab-topic-modeling@1.9.0?classifier=sources
+- pkg:maven/de.julielab/julielab-topic-modeling@1.9.1
+- pkg:maven/de.julielab/julielab-topic-modeling@1.9.1?classifier=sources
+- pkg:maven/de.julielab/julielab-topic-modeling@1.9.2
+- pkg:maven/de.julielab/julielab-topic-modeling@1.9.2?classifier=sources

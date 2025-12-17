@@ -12,3 +12,5 @@
 - pkg:maven/io.beanmother/beanmother-core@0.7.5?classifier=sources
 - pkg:maven/io.beanmother/beanmother-core@0.8.0
 - pkg:maven/io.beanmother/beanmother-core@0.8.0?classifier=sources
+- pkg:maven/io.beanmother/beanmother-core@0.9.0
+- pkg:maven/io.beanmother/beanmother-core@0.9.0?classifier=sources

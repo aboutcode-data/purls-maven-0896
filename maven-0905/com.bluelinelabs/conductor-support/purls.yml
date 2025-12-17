@@ -53,3 +53,7 @@
 - pkg:maven/com.bluelinelabs/conductor-support@2.1.4?type=aar
 - pkg:maven/com.bluelinelabs/conductor-support@2.1.5?classifier=sources
 - pkg:maven/com.bluelinelabs/conductor-support@2.1.5?type=aar
+- pkg:maven/com.bluelinelabs/conductor-support@3.0.0-rc1?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor-support@3.0.0-rc1?type=aar
+- pkg:maven/com.bluelinelabs/conductor-support@3.0.0-rc2?classifier=sources
+- pkg:maven/com.bluelinelabs/conductor-support@3.0.0-rc2?type=aar

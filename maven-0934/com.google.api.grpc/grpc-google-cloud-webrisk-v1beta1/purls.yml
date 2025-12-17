@@ -1,0 +1,4 @@
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.1.0-alpha
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.1.0-alpha?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.2.0-alpha
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.2.0-alpha?classifier=sources

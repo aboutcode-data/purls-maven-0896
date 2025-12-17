@@ -1,0 +1,4 @@
+- pkg:maven/com.gruelbox/service-pubnub@4.3.16.1
+- pkg:maven/com.gruelbox/service-pubnub@4.3.16.1?classifier=sources
+- pkg:maven/com.gruelbox/service-pubnub@4.3.16.2
+- pkg:maven/com.gruelbox/service-pubnub@4.3.16.2?classifier=sources

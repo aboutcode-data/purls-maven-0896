@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.api@0.1.1
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.api@0.1.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.api@0.1.1?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.api@2.0.0
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.api@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.api@2.0.0?classifier=sources

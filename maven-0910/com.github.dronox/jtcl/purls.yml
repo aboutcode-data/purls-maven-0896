@@ -1,0 +1,6 @@
+- pkg:maven/com.github.dronox/jtcl@2.9.1
+- pkg:maven/com.github.dronox/jtcl@2.9.1?classifier=sources
+- pkg:maven/com.github.dronox/jtcl@2.9.2
+- pkg:maven/com.github.dronox/jtcl@2.9.2?classifier=sources
+- pkg:maven/com.github.dronox/jtcl@2.9.3
+- pkg:maven/com.github.dronox/jtcl@2.9.3?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/serve-index@1.6.4?classifier=sources
 - pkg:maven/org.webjars.npm/serve-index@1.8.0
 - pkg:maven/org.webjars.npm/serve-index@1.8.0?classifier=sources
+- pkg:maven/org.webjars.npm/serve-index@1.9.1
+- pkg:maven/org.webjars.npm/serve-index@1.9.1?classifier=sources

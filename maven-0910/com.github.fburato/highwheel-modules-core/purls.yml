@@ -12,3 +12,5 @@
 - pkg:maven/com.github.fburato/highwheel-modules-core@1.3.0?classifier=sources
 - pkg:maven/com.github.fburato/highwheel-modules-core@1.4.0
 - pkg:maven/com.github.fburato/highwheel-modules-core@1.4.0?classifier=sources
+- pkg:maven/com.github.fburato/highwheel-modules-core@1.5.0
+- pkg:maven/com.github.fburato/highwheel-modules-core@1.5.0?classifier=sources

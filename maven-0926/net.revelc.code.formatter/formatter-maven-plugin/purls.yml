@@ -22,3 +22,5 @@
 - pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.8.0?classifier=sources
 - pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.8.1
 - pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.8.1?classifier=sources
+- pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.9.0
+- pkg:maven/net.revelc.code.formatter/formatter-maven-plugin@2.9.0?classifier=sources

@@ -19,6 +19,12 @@
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.1
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.10
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.10?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.11
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.11?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.12
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.12?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.13
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.13?classifier=sources
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.1?classifier=sources
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.2
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.2?classifier=sources

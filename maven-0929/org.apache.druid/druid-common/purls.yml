@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid/druid-common@0.13.0-incubating
+- pkg:maven/org.apache.druid/druid-common@0.13.0-incubating?classifier=sources

@@ -32,3 +32,5 @@
 - pkg:maven/com.lihaoyi/scalatags_sjs0.6_2.11@0.6.6?classifier=sources
 - pkg:maven/com.lihaoyi/scalatags_sjs0.6_2.11@0.6.7
 - pkg:maven/com.lihaoyi/scalatags_sjs0.6_2.11@0.6.7?classifier=sources
+- pkg:maven/com.lihaoyi/scalatags_sjs0.6_2.11@0.6.8
+- pkg:maven/com.lihaoyi/scalatags_sjs0.6_2.11@0.6.8?classifier=sources

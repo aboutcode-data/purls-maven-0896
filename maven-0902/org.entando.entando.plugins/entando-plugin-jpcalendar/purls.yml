@@ -15,3 +15,5 @@
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcalendar@5.0.1?type=war
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcalendar@5.0.2?classifier=sources
 - pkg:maven/org.entando.entando.plugins/entando-plugin-jpcalendar@5.0.2?type=war
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcalendar@5.0.3?classifier=sources
+- pkg:maven/org.entando.entando.plugins/entando-plugin-jpcalendar@5.0.3?type=war

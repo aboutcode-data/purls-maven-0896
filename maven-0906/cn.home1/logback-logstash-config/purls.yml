@@ -10,3 +10,5 @@
 - pkg:maven/cn.home1/logback-logstash-config@0.1.2?classifier=sources
 - pkg:maven/cn.home1/logback-logstash-config@0.2.0
 - pkg:maven/cn.home1/logback-logstash-config@0.2.0?classifier=sources
+- pkg:maven/cn.home1/logback-logstash-config@1.0.0
+- pkg:maven/cn.home1/logback-logstash-config@1.0.0?classifier=sources

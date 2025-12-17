@@ -48,3 +48,5 @@
 - pkg:maven/nz.net.osnz.common/common-ebean@9.3?classifier=sources
 - pkg:maven/nz.net.osnz.common/common-ebean@9.6
 - pkg:maven/nz.net.osnz.common/common-ebean@9.6?classifier=sources
+- pkg:maven/nz.net.osnz.common/common-ebean@9.7
+- pkg:maven/nz.net.osnz.common/common-ebean@9.7?classifier=sources

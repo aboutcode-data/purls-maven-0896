@@ -20,3 +20,7 @@
 - pkg:maven/com.flickr4java/flickr4java@2.19?classifier=sources
 - pkg:maven/com.flickr4java/flickr4java@2.9
 - pkg:maven/com.flickr4java/flickr4java@2.9?classifier=sources
+- pkg:maven/com.flickr4java/flickr4java@3.0.0
+- pkg:maven/com.flickr4java/flickr4java@3.0.0?classifier=sources
+- pkg:maven/com.flickr4java/flickr4java@3.0.1
+- pkg:maven/com.flickr4java/flickr4java@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jeffreypasternack/liblinear@2.21
+- pkg:maven/com.jeffreypasternack/liblinear@2.21?classifier=sources

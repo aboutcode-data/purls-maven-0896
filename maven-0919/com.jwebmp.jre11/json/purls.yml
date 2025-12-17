@@ -1,0 +1,6 @@
+- pkg:maven/com.jwebmp.jre11/json@0.63.0.16
+- pkg:maven/com.jwebmp.jre11/json@0.63.0.16?classifier=sources
+- pkg:maven/com.jwebmp.jre11/json@0.63.0.17
+- pkg:maven/com.jwebmp.jre11/json@0.63.0.17?classifier=sources
+- pkg:maven/com.jwebmp.jre11/json@0.63.0.19
+- pkg:maven/com.jwebmp.jre11/json@0.63.0.19?classifier=sources

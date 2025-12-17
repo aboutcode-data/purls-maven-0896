@@ -6,3 +6,11 @@
 - pkg:maven/de.mhus.osgi/mhu-osgi-services@1.4.2?classifier=sources
 - pkg:maven/de.mhus.osgi/mhu-osgi-services@1.4.3
 - pkg:maven/de.mhus.osgi/mhu-osgi-services@1.4.3?classifier=sources
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.4.4
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.4.4?classifier=sources
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.5.0
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.5.0?classifier=sources
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.6.0
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.6.0?classifier=sources
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.6.1
+- pkg:maven/de.mhus.osgi/mhu-osgi-services@1.6.1?classifier=sources

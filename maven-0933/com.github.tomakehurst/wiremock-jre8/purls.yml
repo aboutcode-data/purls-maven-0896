@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tomakehurst/wiremock-jre8@2.21.0?classifier=sources
+- pkg:maven/com.github.tomakehurst/wiremock-jre8@2.22.0?classifier=sources

@@ -26,3 +26,11 @@
 - pkg:maven/ch.softappeal.yass/yass-transport-ws@61.0.1?classifier=sources
 - pkg:maven/ch.softappeal.yass/yass-transport-ws@61.0.2
 - pkg:maven/ch.softappeal.yass/yass-transport-ws@61.0.2?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@62.0.0
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@62.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@63.0.0
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@63.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@64.0.0
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@64.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@65.0.1
+- pkg:maven/ch.softappeal.yass/yass-transport-ws@65.0.1?classifier=sources

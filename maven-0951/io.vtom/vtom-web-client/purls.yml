@@ -1,0 +1,4 @@
+- pkg:maven/io.vtom/vtom-web-client@1.0-beta
+- pkg:maven/io.vtom/vtom-web-client@1.0-beta?classifier=sources
+- pkg:maven/io.vtom/vtom-web-client@1.1-beta
+- pkg:maven/io.vtom/vtom-web-client@1.1-beta?classifier=sources

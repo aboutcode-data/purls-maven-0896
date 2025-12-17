@@ -12,3 +12,5 @@
 - pkg:maven/org.jfleet/jfleet@0.5.7?classifier=sources
 - pkg:maven/org.jfleet/jfleet@0.5.9
 - pkg:maven/org.jfleet/jfleet@0.5.9?classifier=sources
+- pkg:maven/org.jfleet/jfleet@0.6.1
+- pkg:maven/org.jfleet/jfleet@0.6.1?classifier=sources

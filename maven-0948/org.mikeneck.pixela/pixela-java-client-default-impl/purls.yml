@@ -1,0 +1,6 @@
+- pkg:maven/org.mikeneck.pixela/pixela-java-client-default-impl@0.1
+- pkg:maven/org.mikeneck.pixela/pixela-java-client-default-impl@0.1?classifier=sources
+- pkg:maven/org.mikeneck.pixela/pixela-java-client-default-impl@0.2
+- pkg:maven/org.mikeneck.pixela/pixela-java-client-default-impl@0.2?classifier=sources
+- pkg:maven/org.mikeneck.pixela/pixela-java-client-default-impl@0.3
+- pkg:maven/org.mikeneck.pixela/pixela-java-client-default-impl@0.3?classifier=sources

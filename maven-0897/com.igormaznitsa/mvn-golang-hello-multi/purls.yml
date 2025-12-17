@@ -8,3 +8,5 @@
 - pkg:maven/com.igormaznitsa/mvn-golang-hello-multi@2.1.8?classifier=sources
 - pkg:maven/com.igormaznitsa/mvn-golang-hello-multi@2.2.0
 - pkg:maven/com.igormaznitsa/mvn-golang-hello-multi@2.2.0?classifier=sources
+- pkg:maven/com.igormaznitsa/mvn-golang-hello-multi@2.3.0
+- pkg:maven/com.igormaznitsa/mvn-golang-hello-multi@2.3.0?classifier=sources

@@ -124,6 +124,8 @@
 - pkg:maven/org.apache.solr/solr-velocity@6.6.4?classifier=sources
 - pkg:maven/org.apache.solr/solr-velocity@6.6.5
 - pkg:maven/org.apache.solr/solr-velocity@6.6.5?classifier=sources
+- pkg:maven/org.apache.solr/solr-velocity@6.6.6
+- pkg:maven/org.apache.solr/solr-velocity@6.6.6?classifier=sources
 - pkg:maven/org.apache.solr/solr-velocity@7.0.0
 - pkg:maven/org.apache.solr/solr-velocity@7.0.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-velocity@7.0.1
@@ -142,3 +144,11 @@
 - pkg:maven/org.apache.solr/solr-velocity@7.4.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-velocity@7.5.0
 - pkg:maven/org.apache.solr/solr-velocity@7.5.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-velocity@7.6.0
+- pkg:maven/org.apache.solr/solr-velocity@7.6.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-velocity@7.7.0
+- pkg:maven/org.apache.solr/solr-velocity@7.7.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-velocity@7.7.1
+- pkg:maven/org.apache.solr/solr-velocity@7.7.1?classifier=sources
+- pkg:maven/org.apache.solr/solr-velocity@8.0.0
+- pkg:maven/org.apache.solr/solr-velocity@8.0.0?classifier=sources

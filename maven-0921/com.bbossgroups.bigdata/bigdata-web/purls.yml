@@ -8,3 +8,5 @@
 - pkg:maven/com.bbossgroups.bigdata/bigdata-web@5.0.5.7?classifier=sources
 - pkg:maven/com.bbossgroups.bigdata/bigdata-web@5.0.9
 - pkg:maven/com.bbossgroups.bigdata/bigdata-web@5.0.9?classifier=sources
+- pkg:maven/com.bbossgroups.bigdata/bigdata-web@5.1.0
+- pkg:maven/com.bbossgroups.bigdata/bigdata-web@5.1.0?classifier=sources

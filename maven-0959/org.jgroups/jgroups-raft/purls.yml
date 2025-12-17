@@ -1,4 +1,8 @@
 - pkg:maven/org.jgroups/jgroups-raft@0.2
 - pkg:maven/org.jgroups/jgroups-raft@0.2?classifier=sources
+- pkg:maven/org.jgroups/jgroups-raft@0.4.1.Final
+- pkg:maven/org.jgroups/jgroups-raft@0.4.1.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups-raft@0.4.2.Final
+- pkg:maven/org.jgroups/jgroups-raft@0.4.2.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups-raft@0.4.Final
 - pkg:maven/org.jgroups/jgroups-raft@0.4.Final?classifier=sources

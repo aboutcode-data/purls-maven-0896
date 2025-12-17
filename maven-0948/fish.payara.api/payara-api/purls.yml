@@ -22,6 +22,8 @@
 - pkg:maven/fish.payara.api/payara-api@5.183?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@5.184
 - pkg:maven/fish.payara.api/payara-api@5.184?classifier=sources
+- pkg:maven/fish.payara.api/payara-api@5.191
+- pkg:maven/fish.payara.api/payara-api@5.191?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@5.Beta1
 - pkg:maven/fish.payara.api/payara-api@5.Beta1?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@5.Beta2

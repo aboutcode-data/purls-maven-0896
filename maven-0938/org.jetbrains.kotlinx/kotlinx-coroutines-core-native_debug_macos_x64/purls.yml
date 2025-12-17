@@ -17,3 +17,7 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-native_debug_macos_x64@1.0.0-RC1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-native_debug_macos_x64@1.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-native_debug_macos_x64@1.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-native_debug_macos_x64@1.1.0-alpha?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-native_debug_macos_x64@1.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-native_debug_macos_x64@1.1.1-eap13?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-native_debug_macos_x64@1.1.1?classifier=sources

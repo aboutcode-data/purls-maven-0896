@@ -1,0 +1,6 @@
+- pkg:maven/com.spirit21.swagger/javadoc-jaxrs-swagger-doclet@0.2
+- pkg:maven/com.spirit21.swagger/javadoc-jaxrs-swagger-doclet@0.2?classifier=sources
+- pkg:maven/com.spirit21.swagger/javadoc-jaxrs-swagger-doclet@0.3
+- pkg:maven/com.spirit21.swagger/javadoc-jaxrs-swagger-doclet@0.3?classifier=sources
+- pkg:maven/com.spirit21.swagger/javadoc-jaxrs-swagger-doclet@0.4
+- pkg:maven/com.spirit21.swagger/javadoc-jaxrs-swagger-doclet@0.4?classifier=sources

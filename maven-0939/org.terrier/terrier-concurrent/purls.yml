@@ -1,2 +1,4 @@
 - pkg:maven/org.terrier/terrier-concurrent@5.0
 - pkg:maven/org.terrier/terrier-concurrent@5.0?classifier=sources
+- pkg:maven/org.terrier/terrier-concurrent@5.1
+- pkg:maven/org.terrier/terrier-concurrent@5.1?classifier=sources

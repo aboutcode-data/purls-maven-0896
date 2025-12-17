@@ -154,6 +154,8 @@
 - pkg:maven/org.scala-lang/scala-library@2.12.6?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.12.7
 - pkg:maven/org.scala-lang/scala-library@2.12.7?classifier=sources
+- pkg:maven/org.scala-lang/scala-library@2.12.8
+- pkg:maven/org.scala-lang/scala-library@2.12.8?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M1
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M1?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M2
@@ -167,9 +169,15 @@
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M4-pre-20d3c21?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M4?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M5
+- pkg:maven/org.scala-lang/scala-library@2.13.0-M5-1775dba
+- pkg:maven/org.scala-lang/scala-library@2.13.0-M5-1775dba?classifier=sources
+- pkg:maven/org.scala-lang/scala-library@2.13.0-M5-5eef812
+- pkg:maven/org.scala-lang/scala-library@2.13.0-M5-5eef812?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M5-6e0cba7
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M5-6e0cba7?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.13.0-M5?classifier=sources
+- pkg:maven/org.scala-lang/scala-library@2.13.0-RC1
+- pkg:maven/org.scala-lang/scala-library@2.13.0-RC1?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.3.1
 - pkg:maven/org.scala-lang/scala-library@2.3.3
 - pkg:maven/org.scala-lang/scala-library@2.4.0

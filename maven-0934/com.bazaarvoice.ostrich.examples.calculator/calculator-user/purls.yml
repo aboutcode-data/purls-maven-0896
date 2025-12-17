@@ -42,3 +42,5 @@
 - pkg:maven/com.bazaarvoice.ostrich.examples.calculator/calculator-user@1.9.5?classifier=sources
 - pkg:maven/com.bazaarvoice.ostrich.examples.calculator/calculator-user@2.0.0
 - pkg:maven/com.bazaarvoice.ostrich.examples.calculator/calculator-user@2.0.0?classifier=sources
+- pkg:maven/com.bazaarvoice.ostrich.examples.calculator/calculator-user@2.0.1
+- pkg:maven/com.bazaarvoice.ostrich.examples.calculator/calculator-user@2.0.1?classifier=sources

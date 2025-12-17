@@ -12,6 +12,8 @@
 - pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621159?type=war
 - pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621169?classifier=sources
 - pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621169?type=war
+- pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621177?classifier=sources
+- pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621177?type=war
 - pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621186?classifier=sources
 - pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621186?type=war
 - pkg:maven/org.wildfly.camel/example-camel-jms@2.3.0.redhat-621211?classifier=sources

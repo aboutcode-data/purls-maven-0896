@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hivemall/hivemall-spark2.3@0.5.2-incubating
+- pkg:maven/org.apache.hivemall/hivemall-spark2.3@0.5.2-incubating?classifier=sources

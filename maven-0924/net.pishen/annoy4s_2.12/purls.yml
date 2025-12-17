@@ -4,3 +4,5 @@
 - pkg:maven/net.pishen/annoy4s_2.12@0.6.0?classifier=sources
 - pkg:maven/net.pishen/annoy4s_2.12@0.7.0
 - pkg:maven/net.pishen/annoy4s_2.12@0.7.0?classifier=sources
+- pkg:maven/net.pishen/annoy4s_2.12@0.8.0
+- pkg:maven/net.pishen/annoy4s_2.12@0.8.0?classifier=sources

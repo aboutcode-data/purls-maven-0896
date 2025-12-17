@@ -1,5 +1,7 @@
 - pkg:maven/com.genability/genability-client@1.10.0
 - pkg:maven/com.genability/genability-client@1.10.0?classifier=sources
+- pkg:maven/com.genability/genability-client@1.11.2
+- pkg:maven/com.genability/genability-client@1.11.2?classifier=sources
 - pkg:maven/com.genability/genability-client@1.2.0
 - pkg:maven/com.genability/genability-client@1.2.0?classifier=sources
 - pkg:maven/com.genability/genability-client@1.2.1

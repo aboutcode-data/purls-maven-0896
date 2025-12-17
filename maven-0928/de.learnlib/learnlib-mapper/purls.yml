@@ -12,3 +12,5 @@
 - pkg:maven/de.learnlib/learnlib-mapper@0.13.0?classifier=sources
 - pkg:maven/de.learnlib/learnlib-mapper@0.13.1
 - pkg:maven/de.learnlib/learnlib-mapper@0.13.1?classifier=sources
+- pkg:maven/de.learnlib/learnlib-mapper@0.14.0
+- pkg:maven/de.learnlib/learnlib-mapper@0.14.0?classifier=sources

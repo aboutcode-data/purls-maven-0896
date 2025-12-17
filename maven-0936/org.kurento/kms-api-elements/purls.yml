@@ -3,6 +3,7 @@
 - pkg:maven/org.kurento/kms-api-elements@5.1.0
 - pkg:maven/org.kurento/kms-api-elements@6.0.0
 - pkg:maven/org.kurento/kms-api-elements@6.1.0
+- pkg:maven/org.kurento/kms-api-elements@6.10.0
 - pkg:maven/org.kurento/kms-api-elements@6.2.0
 - pkg:maven/org.kurento/kms-api-elements@6.3.0
 - pkg:maven/org.kurento/kms-api-elements@6.4.0
@@ -11,3 +12,4 @@
 - pkg:maven/org.kurento/kms-api-elements@6.7.0
 - pkg:maven/org.kurento/kms-api-elements@6.7.1
 - pkg:maven/org.kurento/kms-api-elements@6.8.0
+- pkg:maven/org.kurento/kms-api-elements@6.9.0

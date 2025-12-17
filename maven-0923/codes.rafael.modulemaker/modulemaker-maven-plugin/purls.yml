@@ -8,3 +8,7 @@
 - pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.4?classifier=sources
 - pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.5
 - pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.5?classifier=sources
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.6
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.6?classifier=sources
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.7
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.7?classifier=sources

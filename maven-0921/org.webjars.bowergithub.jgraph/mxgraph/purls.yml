@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.jgraph/mxgraph@3.9.12
+- pkg:maven/org.webjars.bowergithub.jgraph/mxgraph@3.9.12?classifier=sources
 - pkg:maven/org.webjars.bowergithub.jgraph/mxgraph@3.9.8
 - pkg:maven/org.webjars.bowergithub.jgraph/mxgraph@3.9.8?classifier=sources

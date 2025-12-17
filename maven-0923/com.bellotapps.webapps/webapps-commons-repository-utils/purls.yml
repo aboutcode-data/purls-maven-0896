@@ -1,0 +1,4 @@
+- pkg:maven/com.bellotapps.webapps/webapps-commons-repository-utils@0.2.0-RELEASE
+- pkg:maven/com.bellotapps.webapps/webapps-commons-repository-utils@0.2.0-RELEASE?classifier=sources
+- pkg:maven/com.bellotapps.webapps/webapps-commons-repository-utils@0.3.0-RELEASE
+- pkg:maven/com.bellotapps.webapps/webapps-commons-repository-utils@0.3.0-RELEASE?classifier=sources

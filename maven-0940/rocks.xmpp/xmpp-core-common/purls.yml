@@ -1,2 +1,4 @@
 - pkg:maven/rocks.xmpp/xmpp-core-common@0.8.0
 - pkg:maven/rocks.xmpp/xmpp-core-common@0.8.0?classifier=sources
+- pkg:maven/rocks.xmpp/xmpp-core-common@0.8.1
+- pkg:maven/rocks.xmpp/xmpp-core-common@0.8.1?classifier=sources
