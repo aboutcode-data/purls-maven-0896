@@ -1,0 +1,4 @@
+- pkg:maven/com.codenuity.jboss/jboss-modules-builder@1.0
+- pkg:maven/com.codenuity.jboss/jboss-modules-builder@1.0?classifier=sources
+- pkg:maven/com.codenuity.jboss/jboss-modules-builder@1.1
+- pkg:maven/com.codenuity.jboss/jboss-modules-builder@1.1?classifier=sources

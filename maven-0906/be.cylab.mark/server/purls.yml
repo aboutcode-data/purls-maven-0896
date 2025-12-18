@@ -28,3 +28,5 @@
 - pkg:maven/be.cylab.mark/server@0.0.26?classifier=sources
 - pkg:maven/be.cylab.mark/server@0.0.27
 - pkg:maven/be.cylab.mark/server@0.0.27?classifier=sources
+- pkg:maven/be.cylab.mark/server@0.0.28
+- pkg:maven/be.cylab.mark/server@0.0.28?classifier=sources

@@ -96,3 +96,9 @@
 - pkg:maven/io.apiman/apiman-common-plugin@1.5.1.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-common-plugin@1.5.2.Final
 - pkg:maven/io.apiman/apiman-common-plugin@1.5.2.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-common-plugin@1.5.3.Final
+- pkg:maven/io.apiman/apiman-common-plugin@1.5.3.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-common-plugin@1.5.4.Final
+- pkg:maven/io.apiman/apiman-common-plugin@1.5.4.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-common-plugin@1.5.5.Final
+- pkg:maven/io.apiman/apiman-common-plugin@1.5.5.Final?classifier=sources

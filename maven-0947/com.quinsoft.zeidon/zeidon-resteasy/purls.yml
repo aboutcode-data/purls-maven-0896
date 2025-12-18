@@ -2,3 +2,5 @@
 - pkg:maven/com.quinsoft.zeidon/zeidon-resteasy@1.4.1?type=war
 - pkg:maven/com.quinsoft.zeidon/zeidon-resteasy@1.5.0?classifier=sources
 - pkg:maven/com.quinsoft.zeidon/zeidon-resteasy@1.5.0?type=war
+- pkg:maven/com.quinsoft.zeidon/zeidon-resteasy@1.7.0?classifier=sources
+- pkg:maven/com.quinsoft.zeidon/zeidon-resteasy@1.7.0?type=war

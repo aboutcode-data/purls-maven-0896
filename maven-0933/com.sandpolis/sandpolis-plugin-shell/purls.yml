@@ -1,2 +1,6 @@
 - pkg:maven/com.sandpolis/sandpolis-plugin-shell@5.1.0
 - pkg:maven/com.sandpolis/sandpolis-plugin-shell@5.1.0?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-plugin-shell@5.1.1?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-plugin-shell@5.1.2?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-plugin-shell@6.0.0?classifier=sources
+- pkg:maven/com.sandpolis/sandpolis-plugin-shell@6.1.0?classifier=sources

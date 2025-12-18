@@ -1,0 +1,2 @@
+- pkg:maven/com.sshtools/pf4j-plugin-generator@0.0.1
+- pkg:maven/com.sshtools/pf4j-plugin-generator@0.0.1?classifier=sources

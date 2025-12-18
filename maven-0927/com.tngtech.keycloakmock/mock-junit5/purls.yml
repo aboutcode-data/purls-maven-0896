@@ -1,2 +1,3 @@
 - pkg:maven/com.tngtech.keycloakmock/mock-junit5@0.1.0
 - pkg:maven/com.tngtech.keycloakmock/mock-junit5@0.1.0?classifier=sources
+- pkg:maven/com.tngtech.keycloakmock/mock-junit5@0.2.0?classifier=sources

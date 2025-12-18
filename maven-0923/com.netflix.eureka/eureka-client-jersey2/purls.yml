@@ -141,6 +141,16 @@
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.12?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.13
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.13?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.14
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.14?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.15
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.15?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.16
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.16?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.17
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.17?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.18
+- pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.18?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.1?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.2
 - pkg:maven/com.netflix.eureka/eureka-client-jersey2@1.9.2?classifier=sources

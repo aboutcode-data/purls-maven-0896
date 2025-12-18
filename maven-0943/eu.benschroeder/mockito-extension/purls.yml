@@ -1,0 +1,2 @@
+- pkg:maven/eu.benschroeder/mockito-extension@3.2.4
+- pkg:maven/eu.benschroeder/mockito-extension@3.2.4?classifier=sources

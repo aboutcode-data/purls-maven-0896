@@ -8,3 +8,9 @@
 - pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.11-M4
 - pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.11-M4?classifier=sources
 - pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.11?classifier=sources
+- pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.12
+- pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.12?classifier=sources
+- pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.13
+- pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.13?classifier=sources
+- pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.15
+- pkg:maven/eu.cdevreeze.tqa/tqa_2.13@0.8.15?classifier=sources

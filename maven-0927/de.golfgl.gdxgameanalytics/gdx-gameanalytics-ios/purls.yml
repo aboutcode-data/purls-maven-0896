@@ -4,3 +4,5 @@
 - pkg:maven/de.golfgl.gdxgameanalytics/gdx-gameanalytics-ios@0.1.4?classifier=sources
 - pkg:maven/de.golfgl.gdxgameanalytics/gdx-gameanalytics-ios@0.1.5
 - pkg:maven/de.golfgl.gdxgameanalytics/gdx-gameanalytics-ios@0.1.5?classifier=sources
+- pkg:maven/de.golfgl.gdxgameanalytics/gdx-gameanalytics-ios@1.0.0
+- pkg:maven/de.golfgl.gdxgameanalytics/gdx-gameanalytics-ios@1.0.0?classifier=sources

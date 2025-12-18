@@ -60,3 +60,5 @@
 - pkg:maven/ru.tinkoff.acquiring/ui@1.5.2?type=aar
 - pkg:maven/ru.tinkoff.acquiring/ui@1.5.3?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/ui@1.5.3?type=aar
+- pkg:maven/ru.tinkoff.acquiring/ui@1.6.0?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/ui@1.6.0?type=aar

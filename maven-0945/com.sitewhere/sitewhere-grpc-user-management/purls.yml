@@ -30,3 +30,17 @@
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@2.2.0?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@2.2.1
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@2.2.1?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha1
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha1?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha2
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha2?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha3
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha3?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha4
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha4?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha5
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha5?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha6
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha6?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha7
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha7?classifier=sources

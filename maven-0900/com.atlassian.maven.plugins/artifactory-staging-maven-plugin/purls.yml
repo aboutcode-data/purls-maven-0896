@@ -4,3 +4,5 @@
 - pkg:maven/com.atlassian.maven.plugins/artifactory-staging-maven-plugin@3.0.3?classifier=sources
 - pkg:maven/com.atlassian.maven.plugins/artifactory-staging-maven-plugin@3.0.4
 - pkg:maven/com.atlassian.maven.plugins/artifactory-staging-maven-plugin@3.0.4?classifier=sources
+- pkg:maven/com.atlassian.maven.plugins/artifactory-staging-maven-plugin@3.0.7
+- pkg:maven/com.atlassian.maven.plugins/artifactory-staging-maven-plugin@3.0.7?classifier=sources

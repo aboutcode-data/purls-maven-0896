@@ -24,3 +24,7 @@
 - pkg:maven/io.hawt/hawtio-log-osgi@2.7.1?classifier=sources
 - pkg:maven/io.hawt/hawtio-log-osgi@2.8.0
 - pkg:maven/io.hawt/hawtio-log-osgi@2.8.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-log-osgi@2.9.0
+- pkg:maven/io.hawt/hawtio-log-osgi@2.9.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-log-osgi@2.9.1
+- pkg:maven/io.hawt/hawtio-log-osgi@2.9.1?classifier=sources

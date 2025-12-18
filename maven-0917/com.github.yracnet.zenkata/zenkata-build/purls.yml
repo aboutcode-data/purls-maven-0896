@@ -1,0 +1,4 @@
+- pkg:maven/com.github.yracnet.zenkata/zenkata-build@0.2.1
+- pkg:maven/com.github.yracnet.zenkata/zenkata-build@0.2.1?classifier=sources
+- pkg:maven/com.github.yracnet.zenkata/zenkata-build@0.2.3
+- pkg:maven/com.github.yracnet.zenkata/zenkata-build@0.2.3?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-javaee@2.9.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-javaee@3.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-javaee@3.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-javaee@4.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-javaee@4.0.0?classifier=sources

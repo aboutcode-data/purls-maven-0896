@@ -1,2 +1,4 @@
 - pkg:maven/ch.jodersky/akka-serial-sync_2.13@4.1.4
 - pkg:maven/ch.jodersky/akka-serial-sync_2.13@4.1.4?classifier=sources
+- pkg:maven/ch.jodersky/akka-serial-sync_2.13@4.2.0
+- pkg:maven/ch.jodersky/akka-serial-sync_2.13@4.2.0?classifier=sources

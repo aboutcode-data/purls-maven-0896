@@ -1,0 +1,6 @@
+- pkg:maven/io.skullabs.kos/kos-config-yaml@0.1.0
+- pkg:maven/io.skullabs.kos/kos-config-yaml@0.1.0?classifier=sources
+- pkg:maven/io.skullabs.kos/kos-config-yaml@0.2.0
+- pkg:maven/io.skullabs.kos/kos-config-yaml@0.2.0?classifier=sources
+- pkg:maven/io.skullabs.kos/kos-config-yaml@0.3.0
+- pkg:maven/io.skullabs.kos/kos-config-yaml@0.3.0?classifier=sources

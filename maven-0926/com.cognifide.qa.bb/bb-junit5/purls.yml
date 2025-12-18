@@ -12,3 +12,5 @@
 - pkg:maven/com.cognifide.qa.bb/bb-junit5@2.0.3?classifier=sources
 - pkg:maven/com.cognifide.qa.bb/bb-junit5@2.1.0
 - pkg:maven/com.cognifide.qa.bb/bb-junit5@2.1.0?classifier=sources
+- pkg:maven/com.cognifide.qa.bb/bb-junit5@2.2.0
+- pkg:maven/com.cognifide.qa.bb/bb-junit5@2.2.0?classifier=sources

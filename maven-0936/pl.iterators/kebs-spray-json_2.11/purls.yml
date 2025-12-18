@@ -20,3 +20,5 @@
 - pkg:maven/pl.iterators/kebs-spray-json_2.11@1.6.2?classifier=sources
 - pkg:maven/pl.iterators/kebs-spray-json_2.11@1.6.3
 - pkg:maven/pl.iterators/kebs-spray-json_2.11@1.6.3?classifier=sources
+- pkg:maven/pl.iterators/kebs-spray-json_2.11@1.7.1
+- pkg:maven/pl.iterators/kebs-spray-json_2.11@1.7.1?classifier=sources

@@ -31,6 +31,7 @@
 - pkg:maven/org.seedstack/domain-archetype@18.4?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@18.7.1?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@18.7?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@19.11?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@19.4?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@19.7.1?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@19.7.2?classifier=sources

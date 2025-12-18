@@ -2,6 +2,7 @@
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-cdi@10.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-cdi@10.2.0?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-cdi@10.3.0?classifier=sources
+- pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-cdi@11.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-cdi@2.3.0.redhat-621084?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-cdi@2.3.0.redhat-621090?classifier=sources
 - pkg:maven/org.wildfly.camel.archetypes/wildfly-camel-archetype-cdi@2.3.0.redhat-621107?classifier=sources

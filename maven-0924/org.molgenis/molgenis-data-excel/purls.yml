@@ -182,3 +182,5 @@
 - pkg:maven/org.molgenis/molgenis-data-excel@8.2.3?classifier=sources
 - pkg:maven/org.molgenis/molgenis-data-excel@8.2.4
 - pkg:maven/org.molgenis/molgenis-data-excel@8.2.4?classifier=sources
+- pkg:maven/org.molgenis/molgenis-data-excel@8.3.4
+- pkg:maven/org.molgenis/molgenis-data-excel@8.3.4?classifier=sources

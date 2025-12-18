@@ -1,0 +1,8 @@
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.15
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.15?classifier=sources
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.16
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.16?classifier=sources
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.17
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.17?classifier=sources
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.18
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.18?classifier=sources

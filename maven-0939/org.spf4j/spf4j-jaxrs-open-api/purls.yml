@@ -1,0 +1,4 @@
+- pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.26
+- pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.26?classifier=sources
+- pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.28
+- pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.28?classifier=sources

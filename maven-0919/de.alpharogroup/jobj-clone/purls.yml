@@ -1,2 +1,4 @@
 - pkg:maven/de.alpharogroup/jobj-clone@3.2
 - pkg:maven/de.alpharogroup/jobj-clone@3.2?classifier=sources
+- pkg:maven/de.alpharogroup/jobj-clone@3.3
+- pkg:maven/de.alpharogroup/jobj-clone@3.3?classifier=sources

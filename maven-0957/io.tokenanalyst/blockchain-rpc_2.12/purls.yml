@@ -1,0 +1,6 @@
+- pkg:maven/io.tokenanalyst/blockchain-rpc_2.12@2.5.0
+- pkg:maven/io.tokenanalyst/blockchain-rpc_2.12@2.5.0?classifier=sources
+- pkg:maven/io.tokenanalyst/blockchain-rpc_2.12@2.5.1
+- pkg:maven/io.tokenanalyst/blockchain-rpc_2.12@2.5.1?classifier=sources
+- pkg:maven/io.tokenanalyst/blockchain-rpc_2.12@2.5.2
+- pkg:maven/io.tokenanalyst/blockchain-rpc_2.12@2.5.2?classifier=sources

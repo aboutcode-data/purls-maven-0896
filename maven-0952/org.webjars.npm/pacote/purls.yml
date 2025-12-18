@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/pacote@10.3.2
+- pkg:maven/org.webjars.npm/pacote@10.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/pacote@2.7.34
 - pkg:maven/org.webjars.npm/pacote@2.7.34?classifier=sources
 - pkg:maven/org.webjars.npm/pacote@7.3.0
@@ -16,3 +18,5 @@
 - pkg:maven/org.webjars.npm/pacote@9.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/pacote@9.5.8
 - pkg:maven/org.webjars.npm/pacote@9.5.8?classifier=sources
+- pkg:maven/org.webjars.npm/pacote@9.5.9
+- pkg:maven/org.webjars.npm/pacote@9.5.9?classifier=sources

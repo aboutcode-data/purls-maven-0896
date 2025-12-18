@@ -56,3 +56,5 @@
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.2?classifier=sources
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.4
 - pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.4?classifier=sources
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.5
+- pkg:maven/org.eurekaclinical/eurekaclinical-user-client@1.5?classifier=sources

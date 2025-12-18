@@ -2,3 +2,5 @@
 - pkg:maven/com.github.fracpete/fastrandomforest-weka-package@2016.12.7?classifier=sources
 - pkg:maven/com.github.fracpete/fastrandomforest-weka-package@2019.11.10
 - pkg:maven/com.github.fracpete/fastrandomforest-weka-package@2019.11.10?classifier=sources
+- pkg:maven/com.github.fracpete/fastrandomforest-weka-package@2019.12.3
+- pkg:maven/com.github.fracpete/fastrandomforest-weka-package@2019.12.3?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.autostyle/autostyle-testlib@3.0
+- pkg:maven/com.github.autostyle/autostyle-testlib@3.0?classifier=sources
+- pkg:maven/com.github.autostyle/autostyle-testlib@3.1
+- pkg:maven/com.github.autostyle/autostyle-testlib@3.1?classifier=sources

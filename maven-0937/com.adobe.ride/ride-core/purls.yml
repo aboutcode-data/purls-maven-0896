@@ -10,3 +10,5 @@
 - pkg:maven/com.adobe.ride/ride-core@1.0.7?classifier=sources
 - pkg:maven/com.adobe.ride/ride-core@1.0.8
 - pkg:maven/com.adobe.ride/ride-core@1.0.8?classifier=sources
+- pkg:maven/com.adobe.ride/ride-core@2.0.0
+- pkg:maven/com.adobe.ride/ride-core@2.0.0?classifier=sources

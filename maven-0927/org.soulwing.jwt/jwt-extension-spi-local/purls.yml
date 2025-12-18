@@ -8,3 +8,5 @@
 - pkg:maven/org.soulwing.jwt/jwt-extension-spi-local@1.2.0?classifier=sources
 - pkg:maven/org.soulwing.jwt/jwt-extension-spi-local@1.2.4
 - pkg:maven/org.soulwing.jwt/jwt-extension-spi-local@1.2.4?classifier=sources
+- pkg:maven/org.soulwing.jwt/jwt-extension-spi-local@1.2.5
+- pkg:maven/org.soulwing.jwt/jwt-extension-spi-local@1.2.5?classifier=sources

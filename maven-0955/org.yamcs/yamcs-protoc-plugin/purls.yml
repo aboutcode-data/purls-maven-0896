@@ -2,3 +2,5 @@
 - pkg:maven/org.yamcs/yamcs-protoc-plugin@4.10.3?classifier=sources
 - pkg:maven/org.yamcs/yamcs-protoc-plugin@5.0.0
 - pkg:maven/org.yamcs/yamcs-protoc-plugin@5.0.0?classifier=sources
+- pkg:maven/org.yamcs/yamcs-protoc-plugin@5.1.0
+- pkg:maven/org.yamcs/yamcs-protoc-plugin@5.1.0?classifier=sources

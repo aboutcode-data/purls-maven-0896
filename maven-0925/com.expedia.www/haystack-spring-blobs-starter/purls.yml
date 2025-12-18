@@ -1,0 +1,4 @@
+- pkg:maven/com.expedia.www/haystack-spring-blobs-starter@0.3.0
+- pkg:maven/com.expedia.www/haystack-spring-blobs-starter@0.3.0?classifier=sources
+- pkg:maven/com.expedia.www/haystack-spring-blobs-starter@0.3.1
+- pkg:maven/com.expedia.www/haystack-spring-blobs-starter@0.3.1?classifier=sources

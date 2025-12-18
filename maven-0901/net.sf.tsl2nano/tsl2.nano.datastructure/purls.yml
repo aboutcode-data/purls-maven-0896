@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.datastructure@2.3.0
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.datastructure@2.3.0?classifier=sources
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.datastructure@2.3.1
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.datastructure@2.3.1?classifier=sources

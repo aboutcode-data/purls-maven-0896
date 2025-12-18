@@ -1,0 +1,4 @@
+- pkg:maven/com.kasinf/ks-boot-gt3@1.0.10.RELEASE
+- pkg:maven/com.kasinf/ks-boot-gt3@1.0.10.RELEASE?classifier=sources
+- pkg:maven/com.kasinf/ks-boot-gt3@1.0.9.RELEASE
+- pkg:maven/com.kasinf/ks-boot-gt3@1.0.9.RELEASE?classifier=sources

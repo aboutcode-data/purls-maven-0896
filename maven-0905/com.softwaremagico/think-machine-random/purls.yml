@@ -4,3 +4,9 @@
 - pkg:maven/com.softwaremagico/think-machine-random@0.5.1?classifier=sources
 - pkg:maven/com.softwaremagico/think-machine-random@0.6.0
 - pkg:maven/com.softwaremagico/think-machine-random@0.6.0?classifier=sources
+- pkg:maven/com.softwaremagico/think-machine-random@0.6.1
+- pkg:maven/com.softwaremagico/think-machine-random@0.6.1?classifier=sources
+- pkg:maven/com.softwaremagico/think-machine-random@0.7.0
+- pkg:maven/com.softwaremagico/think-machine-random@0.7.0?classifier=sources
+- pkg:maven/com.softwaremagico/think-machine-random@0.7.1
+- pkg:maven/com.softwaremagico/think-machine-random@0.7.1?classifier=sources

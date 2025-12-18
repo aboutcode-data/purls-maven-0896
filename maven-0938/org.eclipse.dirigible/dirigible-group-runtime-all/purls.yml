@@ -15,3 +15,6 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@3.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@3.5.1
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@3.5.2
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@4.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@4.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@4.2.0

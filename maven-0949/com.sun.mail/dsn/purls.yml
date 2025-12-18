@@ -50,3 +50,5 @@
 - pkg:maven/com.sun.mail/dsn@1.6.3?classifier=sources
 - pkg:maven/com.sun.mail/dsn@1.6.4
 - pkg:maven/com.sun.mail/dsn@1.6.4?classifier=sources
+- pkg:maven/com.sun.mail/dsn@2.0.0-RC1
+- pkg:maven/com.sun.mail/dsn@2.0.0-RC1?classifier=sources

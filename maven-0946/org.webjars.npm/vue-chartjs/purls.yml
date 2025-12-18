@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/vue-chartjs@3.3.2
 - pkg:maven/org.webjars.npm/vue-chartjs@3.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/vue-chartjs@3.5.0
+- pkg:maven/org.webjars.npm/vue-chartjs@3.5.0?classifier=sources

@@ -52,6 +52,8 @@
 - pkg:maven/com.squareup/connect@2.20190925.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.20191023.0
 - pkg:maven/com.squareup/connect@2.20191023.0?classifier=sources
+- pkg:maven/com.squareup/connect@2.20191120.0
+- pkg:maven/com.squareup/connect@2.20191120.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.3.0
 - pkg:maven/com.squareup/connect@2.3.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.3.1

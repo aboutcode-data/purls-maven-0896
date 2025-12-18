@@ -1,0 +1,2 @@
+- pkg:maven/org.japprove/japprove-gradle-plugin@1.2.0
+- pkg:maven/org.japprove/japprove-gradle-plugin@1.2.0?classifier=sources

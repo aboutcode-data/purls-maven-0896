@@ -9,6 +9,8 @@
 - pkg:maven/com.yarhrn/loco-core_2.12@0.1.4
 - pkg:maven/com.yarhrn/loco-core_2.12@0.1.4?classifier=sources
 - pkg:maven/com.yarhrn/loco-core_2.12@0.2.1
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.10
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.10?classifier=sources
 - pkg:maven/com.yarhrn/loco-core_2.12@0.2.1?classifier=sources
 - pkg:maven/com.yarhrn/loco-core_2.12@0.2.2
 - pkg:maven/com.yarhrn/loco-core_2.12@0.2.2?classifier=sources
@@ -20,3 +22,9 @@
 - pkg:maven/com.yarhrn/loco-core_2.12@0.2.5?classifier=sources
 - pkg:maven/com.yarhrn/loco-core_2.12@0.2.6
 - pkg:maven/com.yarhrn/loco-core_2.12@0.2.6?classifier=sources
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.7
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.7?classifier=sources
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.8
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.8?classifier=sources
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.9
+- pkg:maven/com.yarhrn/loco-core_2.12@0.2.9?classifier=sources

@@ -20,6 +20,10 @@
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.19?classifier=sources
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.20
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.20?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.21
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.21?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.22
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.22?classifier=sources
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.4
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.4?classifier=sources
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.5

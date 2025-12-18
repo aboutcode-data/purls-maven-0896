@@ -20,3 +20,7 @@
 - pkg:maven/org.mycore/mycore-classeditor@2019.05?classifier=sources
 - pkg:maven/org.mycore/mycore-classeditor@2019.06.1
 - pkg:maven/org.mycore/mycore-classeditor@2019.06.1?classifier=sources
+- pkg:maven/org.mycore/mycore-classeditor@2019.06.2
+- pkg:maven/org.mycore/mycore-classeditor@2019.06.2?classifier=sources
+- pkg:maven/org.mycore/mycore-classeditor@2019.11
+- pkg:maven/org.mycore/mycore-classeditor@2019.11?classifier=sources

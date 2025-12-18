@@ -12,3 +12,5 @@
 - pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.12@2.0.0-M2
 - pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.12@2.0.0-M2?classifier=sources
 - pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.12@2.0.0?classifier=sources
+- pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.12@2.0.1
+- pkg:maven/org.typelevel/algebra-laws_sjs0.6_2.12@2.0.1?classifier=sources

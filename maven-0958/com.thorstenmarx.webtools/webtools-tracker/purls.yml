@@ -2,3 +2,11 @@
 - pkg:maven/com.thorstenmarx.webtools/webtools-tracker@3.2.0?type=war
 - pkg:maven/com.thorstenmarx.webtools/webtools-tracker@3.3.0?classifier=sources
 - pkg:maven/com.thorstenmarx.webtools/webtools-tracker@3.3.0?type=war
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@3.3.2?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@3.3.2?type=war
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@4.0.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@4.0.0?type=war
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@4.1.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@4.1.0?type=war
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@4.2.0?classifier=sources
+- pkg:maven/com.thorstenmarx.webtools/webtools-tracker@4.2.0?type=war

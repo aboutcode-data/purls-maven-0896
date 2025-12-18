@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/babel-plugin-macros@2.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel-plugin-macros@2.6.1
 - pkg:maven/org.webjars.npm/babel-plugin-macros@2.6.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel-plugin-macros@2.8.0
+- pkg:maven/org.webjars.npm/babel-plugin-macros@2.8.0?classifier=sources

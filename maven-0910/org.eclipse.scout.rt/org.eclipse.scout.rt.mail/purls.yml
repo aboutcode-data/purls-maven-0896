@@ -1,3 +1,9 @@
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@10.0.2
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@10.0.2-alpha.1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@10.0.2-alpha.1?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@10.0.2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@10.0.3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@10.0.3?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@8.0.0.014
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@8.0.0.014?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@8.0.0.016_Simrel_2018_09_M2
@@ -52,3 +58,11 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.028_Simrel_2019_12_M1?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.030_Simrel_2019_12_M2
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.030_Simrel_2019_12_M2?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.031_Simrel_2019_12_M3
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.031_Simrel_2019_12_M3?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.032_Simrel_2019_12_RC1
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.032_Simrel_2019_12_RC1?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.033_Simrel_2019_12
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.033_Simrel_2019_12?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.034
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@9.0.0.034?classifier=sources

@@ -34,3 +34,9 @@
 - pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.1.8?classifier=sources
 - pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.1.9
 - pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.1.9?classifier=sources
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.2.0
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.2.0?classifier=sources
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.2.1
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.2.1?classifier=sources
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.3.0
+- pkg:maven/net.apexes.wsonrpc/wsonrpc-server-support@2.3.0?classifier=sources

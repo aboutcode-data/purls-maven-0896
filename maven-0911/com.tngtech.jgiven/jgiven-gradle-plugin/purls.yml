@@ -36,3 +36,11 @@
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.18.1?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.18.2
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@0.18.2?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC1
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC1?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC2
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC2?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC3
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC3?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC4
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.0.0-RC4?classifier=sources

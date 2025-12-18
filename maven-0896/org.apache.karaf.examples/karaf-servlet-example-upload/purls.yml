@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.8
+- pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.8?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.3.0.RC1
+- pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.3.0.RC1?classifier=sources

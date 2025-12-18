@@ -10,3 +10,5 @@
 - pkg:maven/org.mymmsc/hotwheel-cluster@5.6.4
 - pkg:maven/org.mymmsc/hotwheel-cluster@5.6.4?classifier=sources
 - pkg:maven/org.mymmsc/hotwheel-cluster@5.6.5
+- pkg:maven/org.mymmsc/hotwheel-cluster@5.6.8
+- pkg:maven/org.mymmsc/hotwheel-cluster@5.6.9

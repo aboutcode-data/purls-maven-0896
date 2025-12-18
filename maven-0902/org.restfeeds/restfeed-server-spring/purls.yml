@@ -1,0 +1,2 @@
+- pkg:maven/org.restfeeds/restfeed-server-spring@0.0.1
+- pkg:maven/org.restfeeds/restfeed-server-spring@0.0.1?classifier=sources

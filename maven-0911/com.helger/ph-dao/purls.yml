@@ -48,3 +48,5 @@
 - pkg:maven/com.helger/ph-dao@9.3.7?classifier=sources
 - pkg:maven/com.helger/ph-dao@9.3.8
 - pkg:maven/com.helger/ph-dao@9.3.8?classifier=sources
+- pkg:maven/com.helger/ph-dao@9.3.9
+- pkg:maven/com.helger/ph-dao@9.3.9?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.10?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.11
 - pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.11?classifier=sources
+- pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.12
+- pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.12?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.7
 - pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.7?classifier=sources
 - pkg:maven/pl.touk.nussknacker/nussknacker-standalone-engine_2.11@0.0.8

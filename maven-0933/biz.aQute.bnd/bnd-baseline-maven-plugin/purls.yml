@@ -16,3 +16,7 @@
 - pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@4.2.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@4.3.0
 - pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@4.3.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@4.3.1
+- pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@4.3.1?classifier=sources
+- pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@5.0.0
+- pkg:maven/biz.aQute.bnd/bnd-baseline-maven-plugin@5.0.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/br.com.objectos.code/code@0.26.0
+- pkg:maven/br.com.objectos.code/code@0.26.0?classifier=sources
+- pkg:maven/br.com.objectos.code/code@0.27.0
+- pkg:maven/br.com.objectos.code/code@0.27.0?classifier=sources
+- pkg:maven/br.com.objectos.code/code@0.28.0
+- pkg:maven/br.com.objectos.code/code@0.28.0?classifier=sources
+- pkg:maven/br.com.objectos.code/code@0.29.0
+- pkg:maven/br.com.objectos.code/code@0.29.0?classifier=sources
+- pkg:maven/br.com.objectos.code/code@0.29.1
+- pkg:maven/br.com.objectos.code/code@0.29.1?classifier=sources

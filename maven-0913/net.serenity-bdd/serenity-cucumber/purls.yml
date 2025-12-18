@@ -167,8 +167,16 @@
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.44?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.45
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.45?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.48
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.48?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.49
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.49?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.4?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.5
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.50
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.50?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.51
+- pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.51?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.5?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.7
 - pkg:maven/net.serenity-bdd/serenity-cucumber@1.9.7?classifier=sources

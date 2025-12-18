@@ -142,3 +142,5 @@
 - pkg:maven/net.morimekta.providence/providence-maven-plugin@2.4.0?classifier=sources
 - pkg:maven/net.morimekta.providence/providence-maven-plugin@2.5.0
 - pkg:maven/net.morimekta.providence/providence-maven-plugin@2.5.0?classifier=sources
+- pkg:maven/net.morimekta.providence/providence-maven-plugin@2.6.0
+- pkg:maven/net.morimekta.providence/providence-maven-plugin@2.6.0?classifier=sources

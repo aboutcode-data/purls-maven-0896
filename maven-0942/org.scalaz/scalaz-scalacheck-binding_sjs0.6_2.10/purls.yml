@@ -83,6 +83,10 @@
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.29-scalacheck-1.14?classifier=sources
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.2?classifier=sources
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.3
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.30-scalacheck-1.13
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.30-scalacheck-1.13?classifier=sources
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.30-scalacheck-1.14
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.30-scalacheck-1.14?classifier=sources
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.3?classifier=sources
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.4
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs0.6_2.10@7.2.4?classifier=sources

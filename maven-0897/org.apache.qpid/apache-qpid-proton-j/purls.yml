@@ -21,3 +21,4 @@
 - pkg:maven/org.apache.qpid/apache-qpid-proton-j@0.33.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-proton-j@0.33.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.qpid/apache-qpid-proton-j@0.33.2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.qpid/apache-qpid-proton-j@0.33.3?classifier=src&type=tar.gz

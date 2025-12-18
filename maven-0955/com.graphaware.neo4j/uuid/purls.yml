@@ -126,6 +126,10 @@
 - pkg:maven/com.graphaware.neo4j/uuid@3.5.11.54.19?classifier=sources
 - pkg:maven/com.graphaware.neo4j/uuid@3.5.12.55.19
 - pkg:maven/com.graphaware.neo4j/uuid@3.5.12.55.19?classifier=sources
+- pkg:maven/com.graphaware.neo4j/uuid@3.5.13.55.19
+- pkg:maven/com.graphaware.neo4j/uuid@3.5.13.55.19?classifier=sources
+- pkg:maven/com.graphaware.neo4j/uuid@3.5.14.55.19
+- pkg:maven/com.graphaware.neo4j/uuid@3.5.14.55.19?classifier=sources
 - pkg:maven/com.graphaware.neo4j/uuid@3.5.2.53.17
 - pkg:maven/com.graphaware.neo4j/uuid@3.5.2.53.17?classifier=sources
 - pkg:maven/com.graphaware.neo4j/uuid@3.5.3.53.17

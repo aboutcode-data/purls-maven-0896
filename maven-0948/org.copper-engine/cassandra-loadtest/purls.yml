@@ -18,3 +18,4 @@
 - pkg:maven/org.copper-engine/cassandra-loadtest@5.0.0?classifier=sources
 - pkg:maven/org.copper-engine/cassandra-loadtest@5.0.1?classifier=sources
 - pkg:maven/org.copper-engine/cassandra-loadtest@5.0.2?classifier=sources
+- pkg:maven/org.copper-engine/cassandra-loadtest@5.1.0?classifier=sources

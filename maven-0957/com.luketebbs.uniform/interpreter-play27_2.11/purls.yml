@@ -20,3 +20,7 @@
 - pkg:maven/com.luketebbs.uniform/interpreter-play27_2.11@4.6.0?classifier=sources
 - pkg:maven/com.luketebbs.uniform/interpreter-play27_2.11@4.7.0
 - pkg:maven/com.luketebbs.uniform/interpreter-play27_2.11@4.7.0?classifier=sources
+- pkg:maven/com.luketebbs.uniform/interpreter-play27_2.11@4.8.0
+- pkg:maven/com.luketebbs.uniform/interpreter-play27_2.11@4.8.0?classifier=sources
+- pkg:maven/com.luketebbs.uniform/interpreter-play27_2.11@4.8.1
+- pkg:maven/com.luketebbs.uniform/interpreter-play27_2.11@4.8.1?classifier=sources

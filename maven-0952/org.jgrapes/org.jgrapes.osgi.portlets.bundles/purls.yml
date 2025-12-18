@@ -21,6 +21,8 @@
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.21?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.23
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.23?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.24
+- pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.24?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.3.ga
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.3.ga?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.osgi.portlets.bundles@0.9.4.ga

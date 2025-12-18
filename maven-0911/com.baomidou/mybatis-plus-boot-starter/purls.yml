@@ -50,3 +50,9 @@
 - pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.1.2?classifier=sources
 - pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.2.0
 - pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.2.0?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.3.0
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.3.0?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.3.1
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.3.1.tmp
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.3.1.tmp?classifier=sources
+- pkg:maven/com.baomidou/mybatis-plus-boot-starter@3.3.1?classifier=sources

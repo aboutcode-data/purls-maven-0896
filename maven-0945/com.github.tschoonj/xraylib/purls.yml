@@ -1,2 +1,4 @@
 - pkg:maven/com.github.tschoonj/xraylib@3.99.2
 - pkg:maven/com.github.tschoonj/xraylib@3.99.2?classifier=sources
+- pkg:maven/com.github.tschoonj/xraylib@4.0.0
+- pkg:maven/com.github.tschoonj/xraylib@4.0.0?classifier=sources

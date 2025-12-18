@@ -42,3 +42,7 @@
 - pkg:maven/com.luketebbs.uniform/interpreter-cli_2.12@4.6.0?classifier=sources
 - pkg:maven/com.luketebbs.uniform/interpreter-cli_2.12@4.7.0
 - pkg:maven/com.luketebbs.uniform/interpreter-cli_2.12@4.7.0?classifier=sources
+- pkg:maven/com.luketebbs.uniform/interpreter-cli_2.12@4.8.0
+- pkg:maven/com.luketebbs.uniform/interpreter-cli_2.12@4.8.0?classifier=sources
+- pkg:maven/com.luketebbs.uniform/interpreter-cli_2.12@4.8.1
+- pkg:maven/com.luketebbs.uniform/interpreter-cli_2.12@4.8.1?classifier=sources

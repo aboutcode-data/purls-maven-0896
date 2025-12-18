@@ -1,0 +1,4 @@
+- pkg:maven/dev.paseto/jpaseto-jackson@0.1.0
+- pkg:maven/dev.paseto/jpaseto-jackson@0.1.0?classifier=sources
+- pkg:maven/dev.paseto/jpaseto-jackson@0.2.0
+- pkg:maven/dev.paseto/jpaseto-jackson@0.2.0?classifier=sources

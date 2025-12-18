@@ -1,2 +1,4 @@
 - pkg:maven/com.walterjwhite.java.modules.serialization.modules.jackson-databind.providers/guice@0.0.17
 - pkg:maven/com.walterjwhite.java.modules.serialization.modules.jackson-databind.providers/guice@0.0.17?classifier=sources
+- pkg:maven/com.walterjwhite.java.modules.serialization.modules.jackson-databind.providers/guice@0.0.18
+- pkg:maven/com.walterjwhite.java.modules.serialization.modules.jackson-databind.providers/guice@0.0.18?classifier=sources

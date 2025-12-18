@@ -2,3 +2,17 @@
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.31?classifier=sources
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.33
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.33?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.34
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.34?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.35
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.35?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.36
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.36?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.37
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.37?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.38
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.38?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.39
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.39?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.40
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.40?classifier=sources

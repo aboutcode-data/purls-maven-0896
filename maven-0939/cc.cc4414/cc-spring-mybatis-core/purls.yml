@@ -1,1 +1,11 @@
 - pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.3.0
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.4.0
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.4.0?classifier=sources
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.5.0
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.5.0?classifier=sources
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.5.1
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.5.1?classifier=sources
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.5.2
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.5.2?classifier=sources
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.6.0
+- pkg:maven/cc.cc4414/cc-spring-mybatis-core@0.6.0?classifier=sources

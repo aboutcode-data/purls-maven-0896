@@ -1,2 +1,4 @@
 - pkg:maven/ru.spb.devclub.utils/db-utils@0.1.0
 - pkg:maven/ru.spb.devclub.utils/db-utils@0.1.0?classifier=sources
+- pkg:maven/ru.spb.devclub.utils/db-utils@0.2.0
+- pkg:maven/ru.spb.devclub.utils/db-utils@0.2.0?classifier=sources

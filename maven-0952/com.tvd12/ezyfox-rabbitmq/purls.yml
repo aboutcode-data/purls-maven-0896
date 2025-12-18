@@ -1,2 +1,4 @@
 - pkg:maven/com.tvd12/ezyfox-rabbitmq@0.0.3
 - pkg:maven/com.tvd12/ezyfox-rabbitmq@0.0.3?classifier=sources
+- pkg:maven/com.tvd12/ezyfox-rabbitmq@1.0.0
+- pkg:maven/com.tvd12/ezyfox-rabbitmq@1.0.0?classifier=sources

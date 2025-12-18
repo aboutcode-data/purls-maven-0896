@@ -4,3 +4,7 @@
 - pkg:maven/com.github.mingchuno/etcd4s-akka-stream_2.12@0.1.4?classifier=sources
 - pkg:maven/com.github.mingchuno/etcd4s-akka-stream_2.12@0.2.0
 - pkg:maven/com.github.mingchuno/etcd4s-akka-stream_2.12@0.2.0?classifier=sources
+- pkg:maven/com.github.mingchuno/etcd4s-akka-stream_2.12@0.3.0
+- pkg:maven/com.github.mingchuno/etcd4s-akka-stream_2.12@0.3.0-snapshot
+- pkg:maven/com.github.mingchuno/etcd4s-akka-stream_2.12@0.3.0-snapshot?classifier=sources
+- pkg:maven/com.github.mingchuno/etcd4s-akka-stream_2.12@0.3.0?classifier=sources

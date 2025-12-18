@@ -50,3 +50,7 @@
 - pkg:maven/com.ifengxue/http-client@1.5.5?classifier=sources
 - pkg:maven/com.ifengxue/http-client@1.6.0
 - pkg:maven/com.ifengxue/http-client@1.6.0?classifier=sources
+- pkg:maven/com.ifengxue/http-client@1.6.1
+- pkg:maven/com.ifengxue/http-client@1.6.1?classifier=sources
+- pkg:maven/com.ifengxue/http-client@1.6.2
+- pkg:maven/com.ifengxue/http-client@1.6.2?classifier=sources

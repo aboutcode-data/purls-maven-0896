@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shepherdviolet.thistle20/thistle-crypto-plus@20.0.0
+- pkg:maven/com.github.shepherdviolet.thistle20/thistle-crypto-plus@20.0.0?classifier=sources
+- pkg:maven/com.github.shepherdviolet.thistle20/thistle-crypto-plus@20.0.1
+- pkg:maven/com.github.shepherdviolet.thistle20/thistle-crypto-plus@20.0.1?classifier=sources

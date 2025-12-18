@@ -1,0 +1,6 @@
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@0.88.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@0.88.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@0.89.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@0.89.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@0.90.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@0.90.0?classifier=sources

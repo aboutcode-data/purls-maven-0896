@@ -2,3 +2,7 @@
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha1?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha2
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha2?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha3
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha3?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha4
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha4?classifier=sources

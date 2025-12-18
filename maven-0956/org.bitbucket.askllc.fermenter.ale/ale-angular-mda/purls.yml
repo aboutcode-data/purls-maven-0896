@@ -14,3 +14,9 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.CR18?classifier=sources
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.CR19
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.CR19?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.RC20
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.RC20?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.RC21
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.RC21?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.RC22
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.0.0.RC22?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@2.3
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@2.3-RC2
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@2.3-RC2?classifier=sources
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@2.3?classifier=sources

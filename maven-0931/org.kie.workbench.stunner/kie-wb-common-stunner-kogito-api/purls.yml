@@ -1,2 +1,10 @@
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.29.0.Final
 - pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.29.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.30.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.30.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.31.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.31.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.32.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.32.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.33.0.Final
+- pkg:maven/org.kie.workbench.stunner/kie-wb-common-stunner-kogito-api@7.33.0.Final?classifier=sources

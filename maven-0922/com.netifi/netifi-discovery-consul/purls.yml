@@ -1,3 +1,5 @@
+- pkg:maven/com.netifi/netifi-discovery-consul@1.6.10
+- pkg:maven/com.netifi/netifi-discovery-consul@1.6.10?classifier=sources
 - pkg:maven/com.netifi/netifi-discovery-consul@1.6.2
 - pkg:maven/com.netifi/netifi-discovery-consul@1.6.2?classifier=sources
 - pkg:maven/com.netifi/netifi-discovery-consul@1.6.3

@@ -25,6 +25,8 @@
 - pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.21?classifier=sources
 - pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.23
 - pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.23?classifier=sources
+- pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.26
+- pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.26?classifier=sources
 - pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.2?classifier=sources
 - pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.4
 - pkg:maven/org.akka-js/akkajsactorstream_sjs0.6_2.11@1.2.5.4?classifier=sources

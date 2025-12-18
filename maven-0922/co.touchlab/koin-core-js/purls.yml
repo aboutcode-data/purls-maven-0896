@@ -2,3 +2,5 @@
 - pkg:maven/co.touchlab/koin-core-js@2.1.4-mp?classifier=sources
 - pkg:maven/co.touchlab/koin-core-js@2.1.5-mp?classifier=sources
 - pkg:maven/co.touchlab/koin-core-js@2.1.6-mp?classifier=sources
+- pkg:maven/co.touchlab/koin-core-js@2.1.7-mp?classifier=sources
+- pkg:maven/co.touchlab/koin-core-js@3.0.2-khan?classifier=sources

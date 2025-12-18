@@ -1,3 +1,4 @@
+- pkg:maven/com.netifi/netifi-bom@1.6.10?classifier=sources
 - pkg:maven/com.netifi/netifi-bom@1.6.2?classifier=sources
 - pkg:maven/com.netifi/netifi-bom@1.6.3?classifier=sources
 - pkg:maven/com.netifi/netifi-bom@1.6.4?classifier=sources

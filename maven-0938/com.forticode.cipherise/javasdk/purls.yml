@@ -1,0 +1,4 @@
+- pkg:maven/com.forticode.cipherise/javasdk@6.2.0
+- pkg:maven/com.forticode.cipherise/javasdk@6.2.0?classifier=sources
+- pkg:maven/com.forticode.cipherise/javasdk@6.2.1
+- pkg:maven/com.forticode.cipherise/javasdk@6.2.1?classifier=sources

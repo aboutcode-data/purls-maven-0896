@@ -8,3 +8,5 @@
 - pkg:maven/io.rest-assured/rest-assured-all@4.1.1?classifier=sources
 - pkg:maven/io.rest-assured/rest-assured-all@4.1.2
 - pkg:maven/io.rest-assured/rest-assured-all@4.1.2?classifier=sources
+- pkg:maven/io.rest-assured/rest-assured-all@4.2.0
+- pkg:maven/io.rest-assured/rest-assured-all@4.2.0?classifier=sources

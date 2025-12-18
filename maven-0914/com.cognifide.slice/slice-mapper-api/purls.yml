@@ -28,3 +28,5 @@
 - pkg:maven/com.cognifide.slice/slice-mapper-api@4.3.2?classifier=sources
 - pkg:maven/com.cognifide.slice/slice-mapper-api@4.4.0
 - pkg:maven/com.cognifide.slice/slice-mapper-api@4.4.0?classifier=sources
+- pkg:maven/com.cognifide.slice/slice-mapper-api@4.5.0
+- pkg:maven/com.cognifide.slice/slice-mapper-api@4.5.0?classifier=sources

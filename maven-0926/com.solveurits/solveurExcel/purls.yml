@@ -1,0 +1,10 @@
+- pkg:maven/com.solveurits/solveurExcel@0.1beta
+- pkg:maven/com.solveurits/solveurExcel@0.1beta?classifier=sources
+- pkg:maven/com.solveurits/solveurExcel@0.2beta
+- pkg:maven/com.solveurits/solveurExcel@0.2beta?classifier=sources
+- pkg:maven/com.solveurits/solveurExcel@0.3beta
+- pkg:maven/com.solveurits/solveurExcel@0.3beta?classifier=sources
+- pkg:maven/com.solveurits/solveurExcel@1.0
+- pkg:maven/com.solveurits/solveurExcel@1.0?classifier=sources
+- pkg:maven/com.solveurits/solveurExcel@1.0beta
+- pkg:maven/com.solveurits/solveurExcel@1.0beta?classifier=sources

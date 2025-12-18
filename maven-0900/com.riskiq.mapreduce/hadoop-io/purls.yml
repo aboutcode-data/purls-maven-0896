@@ -1,0 +1,4 @@
+- pkg:maven/com.riskiq.mapreduce/hadoop-io@1.0.0
+- pkg:maven/com.riskiq.mapreduce/hadoop-io@1.0.0?classifier=sources
+- pkg:maven/com.riskiq.mapreduce/hadoop-io@y
+- pkg:maven/com.riskiq.mapreduce/hadoop-io@y?classifier=sources

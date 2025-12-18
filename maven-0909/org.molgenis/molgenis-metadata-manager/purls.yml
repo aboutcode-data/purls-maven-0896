@@ -72,3 +72,5 @@
 - pkg:maven/org.molgenis/molgenis-metadata-manager@8.2.3?classifier=sources
 - pkg:maven/org.molgenis/molgenis-metadata-manager@8.2.4
 - pkg:maven/org.molgenis/molgenis-metadata-manager@8.2.4?classifier=sources
+- pkg:maven/org.molgenis/molgenis-metadata-manager@8.3.4
+- pkg:maven/org.molgenis/molgenis-metadata-manager@8.3.4?classifier=sources

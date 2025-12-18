@@ -6,3 +6,5 @@
 - pkg:maven/com.pep1.jira/jira-spring-boot-client-example@0.3?classifier=sources
 - pkg:maven/com.pep1.jira/jira-spring-boot-client-example@0.4
 - pkg:maven/com.pep1.jira/jira-spring-boot-client-example@0.4?classifier=sources
+- pkg:maven/com.pep1.jira/jira-spring-boot-client-example@0.5
+- pkg:maven/com.pep1.jira/jira-spring-boot-client-example@0.5?classifier=sources

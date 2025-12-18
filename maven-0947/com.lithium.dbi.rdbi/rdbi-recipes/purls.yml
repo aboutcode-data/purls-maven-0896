@@ -74,3 +74,7 @@
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.96?classifier=sources
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.97
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.97?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.98
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.98?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.99
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.99?classifier=sources

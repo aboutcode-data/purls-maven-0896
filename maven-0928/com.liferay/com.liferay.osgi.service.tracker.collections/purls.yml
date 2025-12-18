@@ -18,6 +18,9 @@
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.14
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.15
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.2
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@2.0.2?classifier=sources
@@ -58,6 +61,9 @@
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.13
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.14
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@3.0.2
@@ -105,3 +111,9 @@
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@4.0.7
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@4.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@4.0.8
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@4.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@4.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@5.0.1
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@5.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.osgi.service.tracker.collections@5.0.1?classifier=sources-commercial

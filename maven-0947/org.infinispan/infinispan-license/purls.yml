@@ -1,6 +1,7 @@
 - pkg:maven/org.infinispan/infinispan-license@1
 - pkg:maven/org.infinispan/infinispan-license@8.2.10.Final
 - pkg:maven/org.infinispan/infinispan-license@8.2.11.Final
+- pkg:maven/org.infinispan/infinispan-license@8.2.12.Final
 - pkg:maven/org.infinispan/infinispan-license@8.2.7.Final
 - pkg:maven/org.infinispan/infinispan-license@8.2.8.Final
 - pkg:maven/org.infinispan/infinispan-license@8.2.9.Final
@@ -45,6 +46,7 @@
 - pkg:maven/org.infinispan/infinispan-license@9.3.4.Final
 - pkg:maven/org.infinispan/infinispan-license@9.3.5.Final
 - pkg:maven/org.infinispan/infinispan-license@9.3.6.Final
+- pkg:maven/org.infinispan/infinispan-license@9.3.8.Final
 - pkg:maven/org.infinispan/infinispan-license@9.4.0.Alpha1
 - pkg:maven/org.infinispan/infinispan-license@9.4.0.Beta1
 - pkg:maven/org.infinispan/infinispan-license@9.4.0.CR1

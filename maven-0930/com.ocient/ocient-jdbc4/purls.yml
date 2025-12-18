@@ -1,0 +1,2 @@
+- pkg:maven/com.ocient/ocient-jdbc4@1.6
+- pkg:maven/com.ocient/ocient-jdbc4@1.6?classifier=sources

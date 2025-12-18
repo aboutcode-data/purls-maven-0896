@@ -110,3 +110,5 @@
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@5.2.1552?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@5.3.1558
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@5.3.1558?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@5.3.1565
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@5.3.1565?classifier=sources

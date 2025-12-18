@@ -144,6 +144,12 @@
 - pkg:maven/org.craftercms/crafter-security-provider@3.1.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-security-provider@3.1.3
 - pkg:maven/org.craftercms/crafter-security-provider@3.1.3?classifier=sources
+- pkg:maven/org.craftercms/crafter-security-provider@3.1.4
+- pkg:maven/org.craftercms/crafter-security-provider@3.1.4?classifier=sources
+- pkg:maven/org.craftercms/crafter-security-provider@3.1.5
+- pkg:maven/org.craftercms/crafter-security-provider@3.1.5?classifier=sources
+- pkg:maven/org.craftercms/crafter-security-provider@3.1.5E
+- pkg:maven/org.craftercms/crafter-security-provider@3.1.5E?classifier=sources
 - pkg:maven/org.craftercms/crafter-security-provider@v2.4.1-RC2
 - pkg:maven/org.craftercms/crafter-security-provider@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-security-provider@v2.4.1-RC3

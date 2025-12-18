@@ -13,6 +13,16 @@
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.21?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.22
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.22?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.23
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.23?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.29
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.29?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.2?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.3
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.30
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.30?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.31
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.31?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.34
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.34?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.3?classifier=sources

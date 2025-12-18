@@ -1,0 +1,4 @@
+- pkg:maven/cn.topviewclub/topview-utils@2.0
+- pkg:maven/cn.topviewclub/topview-utils@2.0?classifier=sources
+- pkg:maven/cn.topviewclub/topview-utils@2.1
+- pkg:maven/cn.topviewclub/topview-utils@2.1?classifier=sources

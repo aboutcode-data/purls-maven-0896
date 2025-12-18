@@ -1,2 +1,6 @@
+- pkg:maven/com.squareup.misk/misk-launchdarkly@0.10.0
+- pkg:maven/com.squareup.misk/misk-launchdarkly@0.10.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-launchdarkly@0.8.0
 - pkg:maven/com.squareup.misk/misk-launchdarkly@0.8.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-launchdarkly@0.9.0
+- pkg:maven/com.squareup.misk/misk-launchdarkly@0.9.0?classifier=sources

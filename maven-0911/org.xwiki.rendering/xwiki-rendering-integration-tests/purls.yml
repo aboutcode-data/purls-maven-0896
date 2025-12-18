@@ -11,6 +11,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.10
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.10?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.11
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.11?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@10.11.2?classifier=sources
@@ -77,6 +79,14 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.1-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10.1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10.1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10.2
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10.2?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10.3
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10.3?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.10?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.2-rc-1
@@ -97,6 +107,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.3.5?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.3.6
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.3.6?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.3.7
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.3.7?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.3?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.4
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.4-rc-1
@@ -124,3 +136,11 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.8?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.9
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@11.9?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.0
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.0-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.1-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@12.1?classifier=sources

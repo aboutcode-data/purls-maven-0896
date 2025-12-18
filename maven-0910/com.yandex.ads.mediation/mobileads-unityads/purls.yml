@@ -2,3 +2,5 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-unityads@1.0.0?type=aar
 - pkg:maven/com.yandex.ads.mediation/mobileads-unityads@1.1.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-unityads@1.1.0?type=aar
+- pkg:maven/com.yandex.ads.mediation/mobileads-unityads@1.2.0?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-unityads@1.2.0?type=aar

@@ -1,0 +1,8 @@
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.30.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.30.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.31.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.31.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.32.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.32.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.33.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.33.0.Final?classifier=sources

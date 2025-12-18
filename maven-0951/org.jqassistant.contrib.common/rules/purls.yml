@@ -16,3 +16,11 @@
 - pkg:maven/org.jqassistant.contrib.common/rules@1.7.0?classifier=sources
 - pkg:maven/org.jqassistant.contrib.common/rules@1.7.1
 - pkg:maven/org.jqassistant.contrib.common/rules@1.7.1?classifier=sources
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.0
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.0-MS1
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.0-MS1?classifier=sources
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.0?classifier=sources
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.1
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.1?classifier=sources
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.2
+- pkg:maven/org.jqassistant.contrib.common/rules@1.8.2?classifier=sources

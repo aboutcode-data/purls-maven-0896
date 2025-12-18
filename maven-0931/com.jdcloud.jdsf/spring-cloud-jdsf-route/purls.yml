@@ -1,0 +1,16 @@
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Edgware
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Edgware?classifier=sources
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Finchley
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Finchley?classifier=sources
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Greenwich
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Greenwich?classifier=sources
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Hoxton
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.1-Hoxton?classifier=sources
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Edgware
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Edgware?classifier=sources
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Finchley
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Finchley?classifier=sources
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Greenwich
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Greenwich?classifier=sources
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Hoxton
+- pkg:maven/com.jdcloud.jdsf/spring-cloud-jdsf-route@1.1.2-Hoxton?classifier=sources

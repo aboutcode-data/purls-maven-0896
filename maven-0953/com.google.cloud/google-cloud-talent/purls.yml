@@ -50,6 +50,12 @@
 - pkg:maven/com.google.cloud/google-cloud-talent@0.33.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-talent@0.34.0-beta
 - pkg:maven/com.google.cloud/google-cloud-talent@0.34.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-talent@0.35.0-beta
+- pkg:maven/com.google.cloud/google-cloud-talent@0.35.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-talent@0.35.1-beta
+- pkg:maven/com.google.cloud/google-cloud-talent@0.35.1-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-talent@0.35.2-beta
+- pkg:maven/com.google.cloud/google-cloud-talent@0.35.2-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-talent@0.4.0-beta
 - pkg:maven/com.google.cloud/google-cloud-talent@0.4.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-talent@0.5.0-beta

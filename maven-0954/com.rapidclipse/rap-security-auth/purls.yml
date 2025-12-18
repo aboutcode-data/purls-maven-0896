@@ -2,3 +2,5 @@
 - pkg:maven/com.rapidclipse/rap-security-auth@10.00.00-RAP-GA?classifier=sources
 - pkg:maven/com.rapidclipse/rap-security-auth@10.00.01-RAP-GA
 - pkg:maven/com.rapidclipse/rap-security-auth@10.00.01-RAP-GA?classifier=sources
+- pkg:maven/com.rapidclipse/rap-security-auth@10.01.00-RAP-GA
+- pkg:maven/com.rapidclipse/rap-security-auth@10.01.00-RAP-GA?classifier=sources

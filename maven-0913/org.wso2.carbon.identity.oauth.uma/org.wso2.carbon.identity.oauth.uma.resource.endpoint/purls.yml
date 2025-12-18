@@ -36,3 +36,7 @@
 - pkg:maven/org.wso2.carbon.identity.oauth.uma/org.wso2.carbon.identity.oauth.uma.resource.endpoint@1.0.8?type=war
 - pkg:maven/org.wso2.carbon.identity.oauth.uma/org.wso2.carbon.identity.oauth.uma.resource.endpoint@1.0.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.oauth.uma/org.wso2.carbon.identity.oauth.uma.resource.endpoint@1.0.9?type=war
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/org.wso2.carbon.identity.oauth.uma.resource.endpoint@1.1.10?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/org.wso2.carbon.identity.oauth.uma.resource.endpoint@1.1.10?type=war
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/org.wso2.carbon.identity.oauth.uma.resource.endpoint@1.1.11?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.oauth.uma/org.wso2.carbon.identity.oauth.uma.resource.endpoint@1.1.11?type=war

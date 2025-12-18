@@ -2,6 +2,8 @@
 - pkg:maven/com.tridion/cd_preview_content_common@10.0.0-1015?classifier=sources
 - pkg:maven/com.tridion/cd_preview_content_common@10.1.0-1019
 - pkg:maven/com.tridion/cd_preview_content_common@10.1.0-1019?classifier=sources
+- pkg:maven/com.tridion/cd_preview_content_common@10.1.1-1014
+- pkg:maven/com.tridion/cd_preview_content_common@10.1.1-1014?classifier=sources
 - pkg:maven/com.tridion/cd_preview_content_common@8.1.1-1008
 - pkg:maven/com.tridion/cd_preview_content_common@8.1.1-1008?classifier=sources
 - pkg:maven/com.tridion/cd_preview_content_common@8.2.0-1009
@@ -14,3 +16,5 @@
 - pkg:maven/com.tridion/cd_preview_content_common@8.5.0-1042?classifier=sources
 - pkg:maven/com.tridion/cd_preview_content_common@8.5.0-1116
 - pkg:maven/com.tridion/cd_preview_content_common@8.5.0-1116?classifier=sources
+- pkg:maven/com.tridion/cd_preview_content_common@8.5.0-1145
+- pkg:maven/com.tridion/cd_preview_content_common@8.5.0-1145?classifier=sources

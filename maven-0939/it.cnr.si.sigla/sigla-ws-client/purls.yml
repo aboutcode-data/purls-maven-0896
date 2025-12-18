@@ -1,2 +1,4 @@
 - pkg:maven/it.cnr.si.sigla/sigla-ws-client@0.0.1
 - pkg:maven/it.cnr.si.sigla/sigla-ws-client@0.0.1?classifier=sources
+- pkg:maven/it.cnr.si.sigla/sigla-ws-client@0.0.2
+- pkg:maven/it.cnr.si.sigla/sigla-ws-client@0.0.2?classifier=sources

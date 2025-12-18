@@ -16,3 +16,4 @@
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.6.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.7.Final
 - pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.8.Final
+- pkg:maven/org.wildfly.openssl/wildfly-openssl-solaris-x86_64@1.0.9.Final

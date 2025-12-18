@@ -1,3 +1,5 @@
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.100
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.100?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.69
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.69?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.70
@@ -40,6 +42,8 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.94?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.96
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.96?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.99
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.99?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.41
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.41?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.0.42
@@ -128,6 +132,12 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.46?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.47
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.47?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.49
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.49?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.50
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.50?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.51
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.51?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.1
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.10
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.10?classifier=sources
@@ -159,7 +169,13 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.26?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.27
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.27?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.29
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.29?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.2?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.30
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.30?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.31
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.31?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.4
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.4?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.5

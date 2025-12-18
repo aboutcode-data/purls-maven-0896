@@ -110,3 +110,7 @@
 - pkg:maven/org.pac4j/pac4j-openid@3.8.3?classifier=sources
 - pkg:maven/org.pac4j/pac4j-openid@4.0.0-RC1
 - pkg:maven/org.pac4j/pac4j-openid@4.0.0-RC1?classifier=sources
+- pkg:maven/org.pac4j/pac4j-openid@4.0.0-RC2
+- pkg:maven/org.pac4j/pac4j-openid@4.0.0-RC2?classifier=sources
+- pkg:maven/org.pac4j/pac4j-openid@4.0.0-RC3
+- pkg:maven/org.pac4j/pac4j-openid@4.0.0-RC3?classifier=sources

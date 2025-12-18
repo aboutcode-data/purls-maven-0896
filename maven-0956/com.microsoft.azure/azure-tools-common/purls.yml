@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/azure-tools-common@0.1.0
+- pkg:maven/com.microsoft.azure/azure-tools-common@0.1.0?classifier=sources

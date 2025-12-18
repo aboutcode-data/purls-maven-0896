@@ -1,2 +1,4 @@
 - pkg:maven/com.vertispan.rpc/endpoint-server-vertx@1.0-alpha-4
 - pkg:maven/com.vertispan.rpc/endpoint-server-vertx@1.0-alpha-4?classifier=sources
+- pkg:maven/com.vertispan.rpc/endpoint-server-vertx@1.0-alpha-5
+- pkg:maven/com.vertispan.rpc/endpoint-server-vertx@1.0-alpha-5?classifier=sources

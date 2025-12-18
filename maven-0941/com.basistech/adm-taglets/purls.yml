@@ -40,3 +40,7 @@
 - pkg:maven/com.basistech/adm-taglets@2.5.2?classifier=sources
 - pkg:maven/com.basistech/adm-taglets@2.5.3
 - pkg:maven/com.basistech/adm-taglets@2.5.3?classifier=sources
+- pkg:maven/com.basistech/adm-taglets@2.6.0
+- pkg:maven/com.basistech/adm-taglets@2.6.0?classifier=sources
+- pkg:maven/com.basistech/adm-taglets@2.7.0
+- pkg:maven/com.basistech/adm-taglets@2.7.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@3.1.1
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@3.1.1-RC3
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@3.1.1-RC3?classifier=sources
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@3.1.1?classifier=sources
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@3.1.2
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@3.1.2?classifier=sources

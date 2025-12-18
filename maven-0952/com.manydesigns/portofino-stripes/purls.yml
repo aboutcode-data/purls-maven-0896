@@ -27,4 +27,6 @@
 - pkg:maven/com.manydesigns/portofino-stripes@4.2.7?classifier=sources
 - pkg:maven/com.manydesigns/portofino-stripes@4.2.8
 - pkg:maven/com.manydesigns/portofino-stripes@4.2.8?classifier=sources
+- pkg:maven/com.manydesigns/portofino-stripes@4.2.9
+- pkg:maven/com.manydesigns/portofino-stripes@4.2.9?classifier=sources
 - pkg:maven/com.manydesigns/portofino-stripes@4.2?classifier=sources

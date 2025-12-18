@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/algebird-test_2.13@0.13.6
+- pkg:maven/com.twitter/algebird-test_2.13@0.13.6?classifier=sources

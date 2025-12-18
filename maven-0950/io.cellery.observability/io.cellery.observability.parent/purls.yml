@@ -2,3 +2,5 @@
 - pkg:maven/io.cellery.observability/io.cellery.observability.parent@0.2.2?classifier=source-release&type=zip
 - pkg:maven/io.cellery.observability/io.cellery.observability.parent@0.4.0?classifier=source-release&type=zip
 - pkg:maven/io.cellery.observability/io.cellery.observability.parent@0.4.1?classifier=source-release&type=zip
+- pkg:maven/io.cellery.observability/io.cellery.observability.parent@0.6.0?classifier=source-release&type=zip
+- pkg:maven/io.cellery.observability/io.cellery.observability.parent@0.6.1?classifier=source-release&type=zip

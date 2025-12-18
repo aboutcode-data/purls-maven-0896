@@ -12,3 +12,5 @@
 - pkg:maven/org.microbean/microbean-main@7?classifier=sources
 - pkg:maven/org.microbean/microbean-main@8
 - pkg:maven/org.microbean/microbean-main@8?classifier=sources
+- pkg:maven/org.microbean/microbean-main@9
+- pkg:maven/org.microbean/microbean-main@9?classifier=sources

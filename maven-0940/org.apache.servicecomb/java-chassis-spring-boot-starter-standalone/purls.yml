@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicecomb/java-chassis-spring-boot-starter-standalone@2.0.0
+- pkg:maven/org.apache.servicecomb/java-chassis-spring-boot-starter-standalone@2.0.0?classifier=sources

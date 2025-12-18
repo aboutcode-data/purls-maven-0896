@@ -1,2 +1,4 @@
 - pkg:maven/one.xcorp.widget/swipe-picker@1.1.0?classifier=sources
 - pkg:maven/one.xcorp.widget/swipe-picker@1.1.0?type=aar
+- pkg:maven/one.xcorp.widget/swipe-picker@1.2.0?classifier=sources
+- pkg:maven/one.xcorp.widget/swipe-picker@1.2.0?type=aar

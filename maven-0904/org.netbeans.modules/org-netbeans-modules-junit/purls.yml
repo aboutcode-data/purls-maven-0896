@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-junit@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-junit@RELEASE90?classifier=sources

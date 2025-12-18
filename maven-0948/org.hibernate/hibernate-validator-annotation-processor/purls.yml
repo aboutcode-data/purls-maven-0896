@@ -145,3 +145,5 @@
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.1.0.Alpha5
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.1.0.Alpha6
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.1.0.Final
+- pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.1.1.Final
+- pkg:maven/org.hibernate/hibernate-validator-annotation-processor@6.1.2.Final

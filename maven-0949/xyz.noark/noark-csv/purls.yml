@@ -32,3 +32,7 @@
 - pkg:maven/xyz.noark/noark-csv@3.3.5.Final?classifier=sources
 - pkg:maven/xyz.noark/noark-csv@3.3.6.Final
 - pkg:maven/xyz.noark/noark-csv@3.3.6.Final?classifier=sources
+- pkg:maven/xyz.noark/noark-csv@3.3.7.Final
+- pkg:maven/xyz.noark/noark-csv@3.3.7.Final?classifier=sources
+- pkg:maven/xyz.noark/noark-csv@3.3.8.Final
+- pkg:maven/xyz.noark/noark-csv@3.3.8.Final?classifier=sources

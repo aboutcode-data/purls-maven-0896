@@ -1,0 +1,4 @@
+- pkg:maven/com.rickbusarow.dispatcherprovider/dispatcher-provider-test@1.0.0-beta01
+- pkg:maven/com.rickbusarow.dispatcherprovider/dispatcher-provider-test@1.0.0-beta01?classifier=sources
+- pkg:maven/com.rickbusarow.dispatcherprovider/dispatcher-provider-test@1.0.0-beta02
+- pkg:maven/com.rickbusarow.dispatcherprovider/dispatcher-provider-test@1.0.0-beta02?classifier=sources

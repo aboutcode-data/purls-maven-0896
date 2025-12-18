@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.swt.theme@0.12.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.swt.theme@0.12.400
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.swt.theme@0.12.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.swt.theme@0.12.500
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.css.swt.theme@0.12.500?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/org.smarti18n/smarti18n-editor@1.0-PRE5?type=war
 - pkg:maven/org.smarti18n/smarti18n-editor@1.0-PRE6?classifier=sources
 - pkg:maven/org.smarti18n/smarti18n-editor@1.0-PRE6?type=war
+- pkg:maven/org.smarti18n/smarti18n-editor@1.0-PRE7?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-editor@1.0-PRE7?type=war
+- pkg:maven/org.smarti18n/smarti18n-editor@1.0.0?classifier=sources
+- pkg:maven/org.smarti18n/smarti18n-editor@1.0.0?type=war

@@ -1,0 +1,6 @@
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.230
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.230?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.231
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.231.1
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.231.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.231?classifier=sources

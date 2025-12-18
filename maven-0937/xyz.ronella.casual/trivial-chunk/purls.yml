@@ -1,0 +1,4 @@
+- pkg:maven/xyz.ronella.casual/trivial-chunk@1.0.0
+- pkg:maven/xyz.ronella.casual/trivial-chunk@1.0.0?classifier=sources
+- pkg:maven/xyz.ronella.casual/trivial-chunk@1.1.0
+- pkg:maven/xyz.ronella.casual/trivial-chunk@1.1.0?classifier=sources
