@@ -58,3 +58,7 @@
 - pkg:maven/org.json4s/json4s-xml_2.12@3.7.0-M8?classifier=sources
 - pkg:maven/org.json4s/json4s-xml_2.12@3.7.0-M9
 - pkg:maven/org.json4s/json4s-xml_2.12@3.7.0-M9?classifier=sources
+- pkg:maven/org.json4s/json4s-xml_2.12@3.7.0-RC1
+- pkg:maven/org.json4s/json4s-xml_2.12@3.7.0-RC1?classifier=sources
+- pkg:maven/org.json4s/json4s-xml_2.12@4.0.0
+- pkg:maven/org.json4s/json4s-xml_2.12@4.0.0?classifier=sources

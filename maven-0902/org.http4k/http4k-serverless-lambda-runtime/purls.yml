@@ -1,0 +1,5 @@
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.5.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.6.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.7.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.8.0?classifier=sources

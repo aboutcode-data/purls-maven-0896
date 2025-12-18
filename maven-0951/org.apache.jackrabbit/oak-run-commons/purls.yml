@@ -56,6 +56,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.36?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.38.0
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.38.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-run-commons@1.40.0
+- pkg:maven/org.apache.jackrabbit/oak-run-commons@1.40.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.7.0
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.7.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.7.1

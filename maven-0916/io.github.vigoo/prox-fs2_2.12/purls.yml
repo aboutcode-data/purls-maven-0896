@@ -1,2 +1,6 @@
 - pkg:maven/io.github.vigoo/prox-fs2_2.12@0.6.0
 - pkg:maven/io.github.vigoo/prox-fs2_2.12@0.6.0?classifier=sources
+- pkg:maven/io.github.vigoo/prox-fs2_2.12@0.7.0
+- pkg:maven/io.github.vigoo/prox-fs2_2.12@0.7.0?classifier=sources
+- pkg:maven/io.github.vigoo/prox-fs2_2.12@0.7.1
+- pkg:maven/io.github.vigoo/prox-fs2_2.12@0.7.1?classifier=sources

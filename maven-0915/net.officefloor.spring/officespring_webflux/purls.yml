@@ -28,3 +28,5 @@
 - pkg:maven/net.officefloor.spring/officespring_webflux@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring_webflux@3.35.0
 - pkg:maven/net.officefloor.spring/officespring_webflux@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring_webflux@3.36.0
+- pkg:maven/net.officefloor.spring/officespring_webflux@3.36.0?classifier=sources

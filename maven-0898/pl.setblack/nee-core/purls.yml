@@ -17,3 +17,5 @@
 - pkg:maven/pl.setblack/nee-core@0.6.7?classifier=sources
 - pkg:maven/pl.setblack/nee-core@0.6.8?classifier=sources
 - pkg:maven/pl.setblack/nee-core@0.7.0?classifier=sources
+- pkg:maven/pl.setblack/nee-core@0.7.1?classifier=sources
+- pkg:maven/pl.setblack/nee-core@0.7.3?classifier=sources

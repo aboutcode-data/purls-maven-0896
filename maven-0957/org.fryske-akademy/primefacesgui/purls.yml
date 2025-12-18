@@ -76,3 +76,5 @@
 - pkg:maven/org.fryske-akademy/primefacesgui@16.4?classifier=sources
 - pkg:maven/org.fryske-akademy/primefacesgui@17.0
 - pkg:maven/org.fryske-akademy/primefacesgui@17.0?classifier=sources
+- pkg:maven/org.fryske-akademy/primefacesgui@17.2
+- pkg:maven/org.fryske-akademy/primefacesgui@17.2?classifier=sources

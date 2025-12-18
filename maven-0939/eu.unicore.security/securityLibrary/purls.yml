@@ -8,3 +8,5 @@
 - pkg:maven/eu.unicore.security/securityLibrary@5.2.0?classifier=sources
 - pkg:maven/eu.unicore.security/securityLibrary@5.3.0
 - pkg:maven/eu.unicore.security/securityLibrary@5.3.0?classifier=sources
+- pkg:maven/eu.unicore.security/securityLibrary@5.3.1
+- pkg:maven/eu.unicore.security/securityLibrary@5.3.1?classifier=sources

@@ -34,6 +34,7 @@
 - pkg:maven/net.officefloor.eclipse/update.site@3.33.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/update.site@3.36.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.5.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.5.1?classifier=sources

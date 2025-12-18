@@ -279,6 +279,8 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.26
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.260
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.260?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.261
+- pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.261?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.26?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.3
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.30
@@ -390,3 +392,5 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.98
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.98?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-cli@1.0.9?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-cli@2.0.0
+- pkg:maven/io.cloudslang.lang/cloudslang-cli@2.0.0?classifier=sources

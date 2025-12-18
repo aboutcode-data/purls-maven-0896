@@ -1,3 +1,7 @@
+- pkg:maven/org.apache.camel.springboot/camel-atlasmap-starter@3.10.0
+- pkg:maven/org.apache.camel.springboot/camel-atlasmap-starter@3.10.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-atlasmap-starter@3.11.0
+- pkg:maven/org.apache.camel.springboot/camel-atlasmap-starter@3.11.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-atlasmap-starter@3.7.0
 - pkg:maven/org.apache.camel.springboot/camel-atlasmap-starter@3.7.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-atlasmap-starter@3.7.1

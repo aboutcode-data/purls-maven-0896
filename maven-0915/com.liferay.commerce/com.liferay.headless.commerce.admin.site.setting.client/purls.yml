@@ -29,6 +29,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.18
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.18?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.19
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.19?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@1.0.2
@@ -59,6 +62,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.1
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.10
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.10?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.2
@@ -79,6 +85,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.8
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.9
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.9?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@2.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.0?classifier=sources-commercial
@@ -95,6 +104,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.14
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.14?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.15
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.15?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.2
@@ -124,3 +136,6 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.1
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.2
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.2?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.2?classifier=sources-commercial

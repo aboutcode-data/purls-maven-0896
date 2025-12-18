@@ -40,3 +40,5 @@
 - pkg:maven/net.officefloor.scala/officescala@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.scala/officescala@3.35.0
 - pkg:maven/net.officefloor.scala/officescala@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.scala/officescala@3.36.0
+- pkg:maven/net.officefloor.scala/officescala@3.36.0?classifier=sources

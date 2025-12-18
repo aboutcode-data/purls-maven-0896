@@ -243,6 +243,8 @@
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.0
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.1
+- pkg:maven/org.springframework.data/spring-data-solr@4.3.10
+- pkg:maven/org.springframework.data/spring-data-solr@4.3.10?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.2
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.2?classifier=sources
@@ -258,3 +260,5 @@
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.7?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.8
 - pkg:maven/org.springframework.data/spring-data-solr@4.3.8?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-solr@4.3.9
+- pkg:maven/org.springframework.data/spring-data-solr@4.3.9?classifier=sources

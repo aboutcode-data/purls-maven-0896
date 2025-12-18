@@ -5,6 +5,10 @@
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.1
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.10
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.10?classifier=sources
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.11
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.11?classifier=sources
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.12
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.12?classifier=sources
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.1?classifier=sources
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.2
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.3.2?classifier=sources
@@ -32,3 +36,9 @@
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.4.4?classifier=sources
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.4.5
 - pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.4.5?classifier=sources
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.4.6
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.4.6?classifier=sources
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.5.0
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.5.0?classifier=sources
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.5.1
+- pkg:maven/cn.hiboot.mcn/jersey-swagger2-ui@2.5.1?classifier=sources

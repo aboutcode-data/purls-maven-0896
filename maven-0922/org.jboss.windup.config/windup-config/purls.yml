@@ -126,3 +126,5 @@
 - pkg:maven/org.jboss.windup.config/windup-config@5.1.3.Final?classifier=sources
 - pkg:maven/org.jboss.windup.config/windup-config@5.1.4.Alpha1
 - pkg:maven/org.jboss.windup.config/windup-config@5.1.4.Alpha1?classifier=sources
+- pkg:maven/org.jboss.windup.config/windup-config@5.1.4.Final
+- pkg:maven/org.jboss.windup.config/windup-config@5.1.4.Final?classifier=sources

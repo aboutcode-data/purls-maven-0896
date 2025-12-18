@@ -3,3 +3,5 @@
 - pkg:maven/ro.dragossusi.sevens/ai-js@1.0.6?classifier=sources
 - pkg:maven/ro.dragossusi.sevens/ai-js@1.0.8?classifier=sources
 - pkg:maven/ro.dragossusi.sevens/ai-js@1.0.9?classifier=sources
+- pkg:maven/ro.dragossusi.sevens/ai-js@1.2.0?classifier=sources
+- pkg:maven/ro.dragossusi.sevens/ai-js@1.2.1?classifier=sources

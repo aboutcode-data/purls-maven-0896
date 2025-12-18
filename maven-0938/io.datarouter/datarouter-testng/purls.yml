@@ -98,3 +98,15 @@
 - pkg:maven/io.datarouter/datarouter-testng@0.0.71?classifier=sources
 - pkg:maven/io.datarouter/datarouter-testng@0.0.72
 - pkg:maven/io.datarouter/datarouter-testng@0.0.72?classifier=sources
+- pkg:maven/io.datarouter/datarouter-testng@0.0.73
+- pkg:maven/io.datarouter/datarouter-testng@0.0.73?classifier=sources
+- pkg:maven/io.datarouter/datarouter-testng@0.0.74
+- pkg:maven/io.datarouter/datarouter-testng@0.0.74?classifier=sources
+- pkg:maven/io.datarouter/datarouter-testng@0.0.75
+- pkg:maven/io.datarouter/datarouter-testng@0.0.75?classifier=sources
+- pkg:maven/io.datarouter/datarouter-testng@0.0.76
+- pkg:maven/io.datarouter/datarouter-testng@0.0.76?classifier=sources
+- pkg:maven/io.datarouter/datarouter-testng@0.0.77
+- pkg:maven/io.datarouter/datarouter-testng@0.0.77?classifier=sources
+- pkg:maven/io.datarouter/datarouter-testng@0.0.78
+- pkg:maven/io.datarouter/datarouter-testng@0.0.78?classifier=sources

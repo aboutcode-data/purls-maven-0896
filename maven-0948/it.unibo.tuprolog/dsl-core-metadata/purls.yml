@@ -22,4 +22,9 @@
 - pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.1-dev0w%2B54dd0dd0?classifier=sources
 - pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.1-dev0z%2B70805b63?classifier=sources
 - pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.1-dev18%2B089dd410?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.1-dev1o%2B35e72985?classifier=sources
 - pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.1?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.2-dev03%2B43981b51?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.2?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.3?classifier=sources
+- pkg:maven/it.unibo.tuprolog/dsl-core-metadata@0.17.4?classifier=sources

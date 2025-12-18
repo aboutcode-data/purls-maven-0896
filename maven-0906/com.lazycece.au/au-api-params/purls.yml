@@ -1,2 +1,4 @@
 - pkg:maven/com.lazycece.au/au-api-params@1.0.0
 - pkg:maven/com.lazycece.au/au-api-params@1.0.0?classifier=sources
+- pkg:maven/com.lazycece.au/au-api-params@1.0.1
+- pkg:maven/com.lazycece.au/au-api-params@1.0.1?classifier=sources

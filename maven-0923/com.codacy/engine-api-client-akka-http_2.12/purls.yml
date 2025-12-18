@@ -80,6 +80,16 @@
 - pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.1.2_akka25Circe08?classifier=sources
 - pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.10.0_akka25Circe08
 - pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.10.0_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.10.1_akka25Circe08
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.10.1_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.10.2_akka25Circe08
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.10.2_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.11.0_akka25Circe08
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.11.0_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.12.0_akka25Circe08
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.12.0_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.13.0_akka25Circe08
+- pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.13.0_akka25Circe08?classifier=sources
 - pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.2.0_akka25Circe08
 - pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.2.0_akka25Circe08?classifier=sources
 - pkg:maven/com.codacy/engine-api-client-akka-http_2.12@9.3.0_akka25Circe08

@@ -27,6 +27,7 @@
 - pkg:maven/com.netflix.spectator/spectator-ext-ipcservlet@0.128.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipcservlet@0.129.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipcservlet@0.130.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-ext-ipcservlet@0.131.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipcservlet@0.74.0
 - pkg:maven/com.netflix.spectator/spectator-ext-ipcservlet@0.74.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-ext-ipcservlet@0.74.1

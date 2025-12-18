@@ -80,3 +80,5 @@
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-jetty@2.0.8?classifier=sources
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-jetty@3.0.0
 - pkg:maven/com.playtika.reactivefeign/feign-reactor-jetty@3.0.0?classifier=sources
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-jetty@3.0.3
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-jetty@3.0.3?classifier=sources

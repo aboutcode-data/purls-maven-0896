@@ -5,3 +5,4 @@
 - pkg:maven/com.github.eliekarouz.feedbacktree/core-metadata@0.11?classifier=sources
 - pkg:maven/com.github.eliekarouz.feedbacktree/core-metadata@0.12.0?classifier=sources
 - pkg:maven/com.github.eliekarouz.feedbacktree/core-metadata@0.13.0?classifier=sources
+- pkg:maven/com.github.eliekarouz.feedbacktree/core-metadata@0.13.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.github.andriydruk/dnssd@0.9.14?classifier=sources
+- pkg:maven/com.github.andriydruk/dnssd@0.9.15?classifier=sources
+- pkg:maven/com.github.andriydruk/dnssd@0.9.16?classifier=sources

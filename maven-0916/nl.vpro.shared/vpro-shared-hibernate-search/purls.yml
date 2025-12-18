@@ -62,6 +62,12 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.24.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.25.0
 - pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.25.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.26.0
+- pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.26.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.27.0
+- pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.27.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.27.1
+- pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.27.1?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.6.0
 - pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.6.0?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-hibernate-search@2.6.2

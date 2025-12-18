@@ -7,3 +7,4 @@
 - pkg:maven/io.ktor/ktor-client-cio-watchosarm32@1.5.2?classifier=sources
 - pkg:maven/io.ktor/ktor-client-cio-watchosarm32@1.5.3?classifier=sources
 - pkg:maven/io.ktor/ktor-client-cio-watchosarm32@1.5.4?classifier=sources
+- pkg:maven/io.ktor/ktor-client-cio-watchosarm32@1.6.0?classifier=sources

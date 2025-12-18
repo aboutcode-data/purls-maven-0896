@@ -22,3 +22,5 @@
 - pkg:maven/br.com.anteros/Anteros-RestDoc-Maven-Plugin@1.0.7?classifier=sources
 - pkg:maven/br.com.anteros/Anteros-RestDoc-Maven-Plugin@1.0.8
 - pkg:maven/br.com.anteros/Anteros-RestDoc-Maven-Plugin@1.0.8?classifier=sources
+- pkg:maven/br.com.anteros/Anteros-RestDoc-Maven-Plugin@2.0.0
+- pkg:maven/br.com.anteros/Anteros-RestDoc-Maven-Plugin@2.0.0?classifier=sources

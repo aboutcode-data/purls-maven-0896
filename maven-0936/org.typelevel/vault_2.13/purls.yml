@@ -8,6 +8,10 @@
 - pkg:maven/org.typelevel/vault_2.13@2.1.0?classifier=sources
 - pkg:maven/org.typelevel/vault_2.13@2.1.10
 - pkg:maven/org.typelevel/vault_2.13@2.1.10?classifier=sources
+- pkg:maven/org.typelevel/vault_2.13@2.1.11
+- pkg:maven/org.typelevel/vault_2.13@2.1.11?classifier=sources
+- pkg:maven/org.typelevel/vault_2.13@2.1.13
+- pkg:maven/org.typelevel/vault_2.13@2.1.13?classifier=sources
 - pkg:maven/org.typelevel/vault_2.13@2.1.7
 - pkg:maven/org.typelevel/vault_2.13@2.1.7?classifier=sources
 - pkg:maven/org.typelevel/vault_2.13@2.1.8
@@ -32,3 +36,5 @@
 - pkg:maven/org.typelevel/vault_2.13@3.0.1?classifier=sources
 - pkg:maven/org.typelevel/vault_2.13@3.0.2
 - pkg:maven/org.typelevel/vault_2.13@3.0.2?classifier=sources
+- pkg:maven/org.typelevel/vault_2.13@3.0.3
+- pkg:maven/org.typelevel/vault_2.13@3.0.3?classifier=sources

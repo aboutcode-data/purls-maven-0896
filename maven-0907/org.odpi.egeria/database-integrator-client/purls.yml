@@ -1,3 +1,5 @@
+- pkg:maven/org.odpi.egeria/database-integrator-client@2.10
+- pkg:maven/org.odpi.egeria/database-integrator-client@2.10?classifier=sources
 - pkg:maven/org.odpi.egeria/database-integrator-client@2.7
 - pkg:maven/org.odpi.egeria/database-integrator-client@2.7?classifier=sources
 - pkg:maven/org.odpi.egeria/database-integrator-client@2.8

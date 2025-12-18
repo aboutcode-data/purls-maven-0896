@@ -24,3 +24,5 @@
 - pkg:maven/com.merakianalytics.orianna/orianna@4.0.0-rc6?classifier=sources
 - pkg:maven/com.merakianalytics.orianna/orianna@4.0.0-rc7
 - pkg:maven/com.merakianalytics.orianna/orianna@4.0.0-rc7?classifier=sources
+- pkg:maven/com.merakianalytics.orianna/orianna@4.0.0-rc8
+- pkg:maven/com.merakianalytics.orianna/orianna@4.0.0-rc8?classifier=sources

@@ -24,6 +24,8 @@
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.12.2?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.12.3
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.12.3?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.12.4
+- pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.12.4?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.0
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.1

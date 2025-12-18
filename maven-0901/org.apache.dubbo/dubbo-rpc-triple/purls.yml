@@ -1,2 +1,4 @@
+- pkg:maven/org.apache.dubbo/dubbo-rpc-triple@3.0.0
 - pkg:maven/org.apache.dubbo/dubbo-rpc-triple@3.0.0.preview
 - pkg:maven/org.apache.dubbo/dubbo-rpc-triple@3.0.0.preview?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-rpc-triple@3.0.0?classifier=sources

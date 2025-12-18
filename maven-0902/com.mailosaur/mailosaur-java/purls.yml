@@ -50,3 +50,7 @@
 - pkg:maven/com.mailosaur/mailosaur-java@7.2.0?classifier=sources
 - pkg:maven/com.mailosaur/mailosaur-java@7.2.1
 - pkg:maven/com.mailosaur/mailosaur-java@7.2.1?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@7.3.0
+- pkg:maven/com.mailosaur/mailosaur-java@7.3.0?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@7.3.1
+- pkg:maven/com.mailosaur/mailosaur-java@7.3.1?classifier=sources

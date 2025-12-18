@@ -12,3 +12,4 @@
 - pkg:maven/com.adamratzman/spotify-api-kotlin-macosx64@3.6.03?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin-macosx64@3.6.0?classifier=sources
 - pkg:maven/com.adamratzman/spotify-api-kotlin-macosx64@3.7.0?classifier=sources
+- pkg:maven/com.adamratzman/spotify-api-kotlin-macosx64@3.8.0?classifier=sources

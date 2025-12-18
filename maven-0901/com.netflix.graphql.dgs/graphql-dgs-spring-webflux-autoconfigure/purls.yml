@@ -1,0 +1,5 @@
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webflux-autoconfigure@4.0.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webflux-autoconfigure@4.0.1?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webflux-autoconfigure@4.1.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webflux-autoconfigure@4.2.0?classifier=sources
+- pkg:maven/com.netflix.graphql.dgs/graphql-dgs-spring-webflux-autoconfigure@4.3.0?classifier=sources

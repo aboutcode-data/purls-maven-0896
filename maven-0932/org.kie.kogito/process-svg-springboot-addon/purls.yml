@@ -1,2 +1,4 @@
 - pkg:maven/org.kie.kogito/process-svg-springboot-addon@1.6.0.Final
 - pkg:maven/org.kie.kogito/process-svg-springboot-addon@1.6.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/process-svg-springboot-addon@1.7.0.Final
+- pkg:maven/org.kie.kogito/process-svg-springboot-addon@1.7.0.Final?classifier=sources

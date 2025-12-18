@@ -10,3 +10,5 @@
 - pkg:maven/in.jlibs/jlibs-visitor@2.2?classifier=sources
 - pkg:maven/in.jlibs/jlibs-visitor@3.0.0
 - pkg:maven/in.jlibs/jlibs-visitor@3.0.0?classifier=sources
+- pkg:maven/in.jlibs/jlibs-visitor@3.0.1
+- pkg:maven/in.jlibs/jlibs-visitor@3.0.1?classifier=sources

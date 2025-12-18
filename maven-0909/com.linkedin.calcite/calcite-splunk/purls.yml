@@ -4,3 +4,11 @@
 - pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.140?classifier=sources
 - pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.142razhang-test
 - pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.142razhang-test?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.144
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.144?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.146
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.146?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.148
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.148?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.149
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.149?classifier=sources

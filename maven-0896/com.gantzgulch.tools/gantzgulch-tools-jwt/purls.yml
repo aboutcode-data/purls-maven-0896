@@ -12,3 +12,7 @@
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-jwt@1.0.19?classifier=sources
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-jwt@1.0.20
 - pkg:maven/com.gantzgulch.tools/gantzgulch-tools-jwt@1.0.20?classifier=sources
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-jwt@1.0.21
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-jwt@1.0.21?classifier=sources
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-jwt@1.0.22
+- pkg:maven/com.gantzgulch.tools/gantzgulch-tools-jwt@1.0.22?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/in.jlibs/jlibs-wamp4j-netty@2.2.3?classifier=sources
 - pkg:maven/in.jlibs/jlibs-wamp4j-netty@3.0.0
 - pkg:maven/in.jlibs/jlibs-wamp4j-netty@3.0.0?classifier=sources
+- pkg:maven/in.jlibs/jlibs-wamp4j-netty@3.0.1
+- pkg:maven/in.jlibs/jlibs-wamp4j-netty@3.0.1?classifier=sources

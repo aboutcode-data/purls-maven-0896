@@ -8,3 +8,5 @@
 - pkg:maven/org.typelevel/cats-effect-testing-utest_2.12@1.0.1?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-testing-utest_2.12@1.1.0
 - pkg:maven/org.typelevel/cats-effect-testing-utest_2.12@1.1.0?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-testing-utest_2.12@1.1.1
+- pkg:maven/org.typelevel/cats-effect-testing-utest_2.12@1.1.1?classifier=sources

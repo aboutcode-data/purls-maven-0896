@@ -1,1 +1,2 @@
 - pkg:maven/dev.icerock.moko/test-roboelectric-android@0.3.0?classifier=sources
+- pkg:maven/dev.icerock.moko/test-roboelectric-android@0.4.0?classifier=sources

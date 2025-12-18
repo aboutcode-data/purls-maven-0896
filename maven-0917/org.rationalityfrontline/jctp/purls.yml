@@ -1,2 +1,7 @@
 - pkg:maven/org.rationalityfrontline/jctp@6.3.19-1.0.0?classifier=sources
 - pkg:maven/org.rationalityfrontline/jctp@6.3.19-1.0.1?classifier=sources
+- pkg:maven/org.rationalityfrontline/jctp@6.3.19-1.0.2?classifier=sources
+- pkg:maven/org.rationalityfrontline/jctp@6.3.19_P1-1.0.0?classifier=sources
+- pkg:maven/org.rationalityfrontline/jctp@6.3.19_T1-1.0.0?classifier=sources
+- pkg:maven/org.rationalityfrontline/jctp@6.6.1_P1-1.0.0?classifier=sources
+- pkg:maven/org.rationalityfrontline/jctp@6.6.1_P1_CP-1.0.0?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.soento/soento-maven-plugin@1.2.7-RELEASE?classifier=sources
 - pkg:maven/com.soento/soento-maven-plugin@1.2.8-RELEASE
 - pkg:maven/com.soento/soento-maven-plugin@1.2.8-RELEASE?classifier=sources
+- pkg:maven/com.soento/soento-maven-plugin@1.2.9-RELEASE
+- pkg:maven/com.soento/soento-maven-plugin@1.2.9-RELEASE?classifier=sources

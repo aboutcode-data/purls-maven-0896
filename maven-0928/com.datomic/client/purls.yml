@@ -6,6 +6,7 @@
 - pkg:maven/com.datomic/client@0.8.11
 - pkg:maven/com.datomic/client@0.8.111
 - pkg:maven/com.datomic/client@0.8.114
+- pkg:maven/com.datomic/client@0.8.122
 - pkg:maven/com.datomic/client@0.8.16
 - pkg:maven/com.datomic/client@0.8.17
 - pkg:maven/com.datomic/client@0.8.26

@@ -1,4 +1,8 @@
 - pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.1
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.10
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.10-1
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.10-1?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.10?classifier=sources
 - pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.1?classifier=sources
 - pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.2
 - pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.2?classifier=sources
@@ -8,3 +12,11 @@
 - pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.4?classifier=sources
 - pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.5
 - pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.5?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.6
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.6?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.7
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.7?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.8
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.8?classifier=sources
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.9
+- pkg:maven/com.akkaserverless/akkaserverless-java-sdk@0.7.0-beta.9?classifier=sources

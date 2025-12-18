@@ -27,6 +27,8 @@
 - pkg:maven/cn.linham/beecloud-service-springboot@5.5.7
 - pkg:maven/cn.linham/beecloud-service-springboot@5.5.7?classifier=sources
 - pkg:maven/cn.linham/beecloud-service-springboot@5.6.1
+- pkg:maven/cn.linham/beecloud-service-springboot@5.6.12
+- pkg:maven/cn.linham/beecloud-service-springboot@5.6.12?classifier=sources
 - pkg:maven/cn.linham/beecloud-service-springboot@5.6.1?classifier=sources
 - pkg:maven/cn.linham/beecloud-service-springboot@5.6.2
 - pkg:maven/cn.linham/beecloud-service-springboot@5.6.2?classifier=sources
@@ -34,3 +36,5 @@
 - pkg:maven/cn.linham/beecloud-service-springboot@5.6.3?classifier=sources
 - pkg:maven/cn.linham/beecloud-service-springboot@5.6.4
 - pkg:maven/cn.linham/beecloud-service-springboot@5.6.4?classifier=sources
+- pkg:maven/cn.linham/beecloud-service-springboot@5.6.5
+- pkg:maven/cn.linham/beecloud-service-springboot@5.6.5?classifier=sources

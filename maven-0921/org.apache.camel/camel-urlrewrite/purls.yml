@@ -166,3 +166,5 @@
 - pkg:maven/org.apache.camel/camel-urlrewrite@2.25.2?classifier=sources
 - pkg:maven/org.apache.camel/camel-urlrewrite@2.25.3
 - pkg:maven/org.apache.camel/camel-urlrewrite@2.25.3?classifier=sources
+- pkg:maven/org.apache.camel/camel-urlrewrite@2.25.4
+- pkg:maven/org.apache.camel/camel-urlrewrite@2.25.4?classifier=sources

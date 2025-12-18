@@ -116,6 +116,8 @@
 - pkg:maven/net.officefloor.core/officecompiler@3.34.0?classifier=sources
 - pkg:maven/net.officefloor.core/officecompiler@3.35.0
 - pkg:maven/net.officefloor.core/officecompiler@3.35.0?classifier=sources
+- pkg:maven/net.officefloor.core/officecompiler@3.36.0
+- pkg:maven/net.officefloor.core/officecompiler@3.36.0?classifier=sources
 - pkg:maven/net.officefloor.core/officecompiler@3.4.0
 - pkg:maven/net.officefloor.core/officecompiler@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.core/officecompiler@3.5.0

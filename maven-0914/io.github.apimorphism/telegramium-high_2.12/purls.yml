@@ -16,3 +16,7 @@
 - pkg:maven/io.github.apimorphism/telegramium-high_2.12@4.51.1?classifier=sources
 - pkg:maven/io.github.apimorphism/telegramium-high_2.12@4.52.0
 - pkg:maven/io.github.apimorphism/telegramium-high_2.12@4.52.0?classifier=sources
+- pkg:maven/io.github.apimorphism/telegramium-high_2.12@4.52.1
+- pkg:maven/io.github.apimorphism/telegramium-high_2.12@4.52.1?classifier=sources
+- pkg:maven/io.github.apimorphism/telegramium-high_2.12@4.52.2
+- pkg:maven/io.github.apimorphism/telegramium-high_2.12@4.52.2?classifier=sources

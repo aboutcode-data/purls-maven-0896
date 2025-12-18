@@ -8,6 +8,8 @@
 - pkg:maven/org.webjars.npm/pacote@11.1.14?classifier=sources
 - pkg:maven/org.webjars.npm/pacote@11.1.6
 - pkg:maven/org.webjars.npm/pacote@11.1.6?classifier=sources
+- pkg:maven/org.webjars.npm/pacote@11.3.4
+- pkg:maven/org.webjars.npm/pacote@11.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/pacote@2.7.34
 - pkg:maven/org.webjars.npm/pacote@2.7.34?classifier=sources
 - pkg:maven/org.webjars.npm/pacote@7.3.0

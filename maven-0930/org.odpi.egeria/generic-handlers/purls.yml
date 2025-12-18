@@ -1,3 +1,5 @@
+- pkg:maven/org.odpi.egeria/generic-handlers@2.10
+- pkg:maven/org.odpi.egeria/generic-handlers@2.10?classifier=sources
 - pkg:maven/org.odpi.egeria/generic-handlers@2.4
 - pkg:maven/org.odpi.egeria/generic-handlers@2.4?classifier=sources
 - pkg:maven/org.odpi.egeria/generic-handlers@2.5

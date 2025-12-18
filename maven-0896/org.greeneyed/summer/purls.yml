@@ -21,6 +21,8 @@
 - pkg:maven/org.greeneyed/summer@0.10.9
 - pkg:maven/org.greeneyed/summer@0.10.9?classifier=sources
 - pkg:maven/org.greeneyed/summer@0.10?classifier=sources
+- pkg:maven/org.greeneyed/summer@0.11.4
+- pkg:maven/org.greeneyed/summer@0.11.4?classifier=sources
 - pkg:maven/org.greeneyed/summer@0.1?classifier=sources
 - pkg:maven/org.greeneyed/summer@0.3
 - pkg:maven/org.greeneyed/summer@0.3?classifier=sources

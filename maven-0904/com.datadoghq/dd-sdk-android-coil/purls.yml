@@ -1,2 +1,5 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@1.9.0-alpha2?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@1.9.0-beta1?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-coil@1.9.0-rc1?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-coil@1.9.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-coil@1.9.1?classifier=sources

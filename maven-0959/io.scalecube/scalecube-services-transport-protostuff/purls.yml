@@ -44,6 +44,8 @@
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.18-test-RC1
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.18-test-RC1?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.18?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.19
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.19?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.2
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.3

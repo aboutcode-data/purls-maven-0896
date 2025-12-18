@@ -118,6 +118,8 @@
 - pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev20200829-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev20200829-1.31.0
 - pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev20200829-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev20200829-1.31.5
+- pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev20200829-1.31.5?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev21-1.22.0
 - pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev21-1.22.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-digitalassetlinks@v1-rev21-1.23.0

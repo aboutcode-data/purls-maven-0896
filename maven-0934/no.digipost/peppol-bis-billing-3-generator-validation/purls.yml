@@ -1,0 +1,4 @@
+- pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.1-billing-3.0.10
+- pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.1-billing-3.0.10?classifier=sources
+- pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.2-billing-3.0.10
+- pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.2-billing-3.0.10?classifier=sources

@@ -88,6 +88,10 @@
 - pkg:maven/com.twitter/finagle-tunable_2.12@21.3.0?classifier=sources
 - pkg:maven/com.twitter/finagle-tunable_2.12@21.4.0
 - pkg:maven/com.twitter/finagle-tunable_2.12@21.4.0?classifier=sources
+- pkg:maven/com.twitter/finagle-tunable_2.12@21.5.0
+- pkg:maven/com.twitter/finagle-tunable_2.12@21.5.0?classifier=sources
+- pkg:maven/com.twitter/finagle-tunable_2.12@21.6.0
+- pkg:maven/com.twitter/finagle-tunable_2.12@21.6.0?classifier=sources
 - pkg:maven/com.twitter/finagle-tunable_2.12@6.44.0
 - pkg:maven/com.twitter/finagle-tunable_2.12@6.44.0?classifier=sources
 - pkg:maven/com.twitter/finagle-tunable_2.12@6.45.0

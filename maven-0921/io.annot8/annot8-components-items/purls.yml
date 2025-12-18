@@ -4,3 +4,5 @@
 - pkg:maven/io.annot8/annot8-components-items@1.0.0?classifier=sources
 - pkg:maven/io.annot8/annot8-components-items@1.1.0
 - pkg:maven/io.annot8/annot8-components-items@1.1.0?classifier=sources
+- pkg:maven/io.annot8/annot8-components-items@1.2.0
+- pkg:maven/io.annot8/annot8-components-items@1.2.0?classifier=sources

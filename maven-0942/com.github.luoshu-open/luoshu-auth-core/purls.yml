@@ -1,0 +1,6 @@
+- pkg:maven/com.github.luoshu-open/luoshu-auth-core@0.01
+- pkg:maven/com.github.luoshu-open/luoshu-auth-core@0.01?classifier=sources
+- pkg:maven/com.github.luoshu-open/luoshu-auth-core@0.1
+- pkg:maven/com.github.luoshu-open/luoshu-auth-core@0.11
+- pkg:maven/com.github.luoshu-open/luoshu-auth-core@0.11?classifier=sources
+- pkg:maven/com.github.luoshu-open/luoshu-auth-core@0.1?classifier=sources

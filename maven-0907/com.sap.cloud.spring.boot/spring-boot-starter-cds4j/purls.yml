@@ -18,3 +18,7 @@
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-starter-cds4j@1.7.0?classifier=sources
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-starter-cds4j@1.8.0
 - pkg:maven/com.sap.cloud.spring.boot/spring-boot-starter-cds4j@1.8.0?classifier=sources
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-starter-cds4j@1.9.0
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-starter-cds4j@1.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-starter-cds4j@1.9.2
+- pkg:maven/com.sap.cloud.spring.boot/spring-boot-starter-cds4j@1.9.2?classifier=sources

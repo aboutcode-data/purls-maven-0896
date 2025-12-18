@@ -13,4 +13,6 @@
 - pkg:maven/io.openliberty.tools/liberty-ant-tasks@1.9.6?classifier=sources
 - pkg:maven/io.openliberty.tools/liberty-ant-tasks@1.9.7
 - pkg:maven/io.openliberty.tools/liberty-ant-tasks@1.9.7?classifier=sources
+- pkg:maven/io.openliberty.tools/liberty-ant-tasks@1.9.8
+- pkg:maven/io.openliberty.tools/liberty-ant-tasks@1.9.8?classifier=sources
 - pkg:maven/io.openliberty.tools/liberty-ant-tasks@1.9?classifier=sources

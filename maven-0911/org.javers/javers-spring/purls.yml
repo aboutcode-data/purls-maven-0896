@@ -497,3 +497,7 @@
 - pkg:maven/org.javers/javers-spring@6.0.0?classifier=sources
 - pkg:maven/org.javers/javers-spring@6.0.1?classifier=sources
 - pkg:maven/org.javers/javers-spring@6.1.0?classifier=sources
+- pkg:maven/org.javers/javers-spring@6.1.1?classifier=sources
+- pkg:maven/org.javers/javers-spring@6.2.0?classifier=sources
+- pkg:maven/org.javers/javers-spring@6.2.1?classifier=sources
+- pkg:maven/org.javers/javers-spring@6.2.2?classifier=sources

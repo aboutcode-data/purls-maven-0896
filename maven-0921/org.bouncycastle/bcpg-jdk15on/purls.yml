@@ -39,3 +39,4 @@
 - pkg:maven/org.bouncycastle/bcpg-jdk15on@1.66?classifier=sources
 - pkg:maven/org.bouncycastle/bcpg-jdk15on@1.67?classifier=sources
 - pkg:maven/org.bouncycastle/bcpg-jdk15on@1.68?classifier=sources
+- pkg:maven/org.bouncycastle/bcpg-jdk15on@1.69?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.0-1106?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.0-1121
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.0-1121?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.0-1122
+- pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.0-1122?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.1-1020
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.1-1020?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.1.0-1063

@@ -1,3 +1,5 @@
+- pkg:maven/com.github.ngeor/yak4j-xml@0.10.0
+- pkg:maven/com.github.ngeor/yak4j-xml@0.10.0?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-xml@0.6.0
 - pkg:maven/com.github.ngeor/yak4j-xml@0.6.0?classifier=sources
 - pkg:maven/com.github.ngeor/yak4j-xml@0.7.0

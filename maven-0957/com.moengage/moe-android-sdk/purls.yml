@@ -11,6 +11,7 @@
 - pkg:maven/com.moengage/moe-android-sdk@11.0.05?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@11.1.00?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@11.2.00?classifier=sources
+- pkg:maven/com.moengage/moe-android-sdk@11.2.01?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@5.0.9?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@5.0.9?type=aar
 - pkg:maven/com.moengage/moe-android-sdk@5.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.ververica/ververica-connector-phoenix-4.14.2-HBase-1.4@1.12-vvr-3.0.2
+- pkg:maven/com.alibaba.ververica/ververica-connector-phoenix-4.14.2-HBase-1.4@1.12-vvr-3.0.2?classifier=sources

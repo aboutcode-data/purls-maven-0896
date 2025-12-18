@@ -1,0 +1,2 @@
+- pkg:maven/io.shulie.tro/tro-cloud-k8s@release-opensource-1.0.0
+- pkg:maven/io.shulie.tro/tro-cloud-k8s@release-opensource-1.0.0?classifier=sources

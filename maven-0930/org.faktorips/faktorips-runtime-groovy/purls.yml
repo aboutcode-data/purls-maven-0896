@@ -16,6 +16,10 @@
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.12.2?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.12.3
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.12.3?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@20.12.4
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@20.12.4?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@20.12.5
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@20.12.5?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.6.0
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.6.0-m02
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.6.0-m02?classifier=sources
@@ -32,6 +36,7 @@
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.6.1-PRODUCTINFODB-m03
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.6.1-PRODUCTINFODB-m03?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@20.6.1?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-m01
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-m01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-m02
@@ -48,6 +53,15 @@
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc03?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc05
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc05?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc06
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc06?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc07
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc07?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc08
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0-rc08?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.0?classifier=sources
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.1
+- pkg:maven/org.faktorips/faktorips-runtime-groovy@21.6.1?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@3.14.0
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@3.14.0?classifier=sources
 - pkg:maven/org.faktorips/faktorips-runtime-groovy@3.15.0

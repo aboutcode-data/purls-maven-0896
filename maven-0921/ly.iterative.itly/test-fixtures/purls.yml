@@ -8,3 +8,5 @@
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.3?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.4?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.5?classifier=sources
+- pkg:maven/ly.iterative.itly/test-fixtures@1.2.6?classifier=sources
+- pkg:maven/ly.iterative.itly/test-fixtures@1.2.7?classifier=sources

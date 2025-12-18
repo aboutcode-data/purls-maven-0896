@@ -1,0 +1,4 @@
+- pkg:maven/com.yahoo.maha/maha-job-service@6.53
+- pkg:maven/com.yahoo.maha/maha-job-service@6.53?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.54
+- pkg:maven/com.yahoo.maha/maha-job-service@6.54?classifier=sources

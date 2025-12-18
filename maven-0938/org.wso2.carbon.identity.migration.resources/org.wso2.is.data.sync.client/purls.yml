@@ -113,6 +113,16 @@
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.153?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.154
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.154?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.155
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.155?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.156
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.156?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.157
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.157?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.158
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.158?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.159
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.159?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.15?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.16
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.is.data.sync.client@1.0.16?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.epam.deltix/gflog-slf4j@3.0.0?classifier=sources
+- pkg:maven/com.epam.deltix/gflog-slf4j@3.0.1?classifier=sources

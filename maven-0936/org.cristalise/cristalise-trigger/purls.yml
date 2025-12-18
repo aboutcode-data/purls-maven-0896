@@ -54,3 +54,5 @@
 - pkg:maven/org.cristalise/cristalise-trigger@5.3.3?classifier=sources
 - pkg:maven/org.cristalise/cristalise-trigger@5.3.4
 - pkg:maven/org.cristalise/cristalise-trigger@5.3.4?classifier=sources
+- pkg:maven/org.cristalise/cristalise-trigger@5.4.0
+- pkg:maven/org.cristalise/cristalise-trigger@5.4.0?classifier=sources

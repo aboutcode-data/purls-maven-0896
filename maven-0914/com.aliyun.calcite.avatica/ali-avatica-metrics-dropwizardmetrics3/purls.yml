@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics-dropwizardmetrics3@1.13.4
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics-dropwizardmetrics3@1.13.4?classifier=sources
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics-dropwizardmetrics3@1.13.5
+- pkg:maven/com.aliyun.calcite.avatica/ali-avatica-metrics-dropwizardmetrics3@1.13.5?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.github.kahlkn/artoria@1.0.0.20191022.beta?classifier=sources
 - pkg:maven/com.github.kahlkn/artoria@1.0.0.20191023.beta
 - pkg:maven/com.github.kahlkn/artoria@1.0.0.20191023.beta?classifier=sources
+- pkg:maven/com.github.kahlkn/artoria@1.0.0.20191024.beta
+- pkg:maven/com.github.kahlkn/artoria@1.0.0.20191024.beta?classifier=sources

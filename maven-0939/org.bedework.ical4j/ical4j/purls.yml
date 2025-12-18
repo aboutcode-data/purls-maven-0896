@@ -11,3 +11,7 @@
 - pkg:maven/org.bedework.ical4j/ical4j@2.0.8?classifier=sources
 - pkg:maven/org.bedework.ical4j/ical4j@2.0.9?classifier=sources
 - pkg:maven/org.bedework.ical4j/ical4j@3.0.12?classifier=sources
+- pkg:maven/org.bedework.ical4j/ical4j@3.0.13
+- pkg:maven/org.bedework.ical4j/ical4j@3.0.13?classifier=sources
+- pkg:maven/org.bedework.ical4j/ical4j@3.0.14
+- pkg:maven/org.bedework.ical4j/ical4j@3.0.14?classifier=sources

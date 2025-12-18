@@ -1,0 +1,4 @@
+- pkg:maven/de.protubero/beanstore@0.8.1
+- pkg:maven/de.protubero/beanstore@0.8.1?classifier=sources
+- pkg:maven/de.protubero/beanstore@0.8.2
+- pkg:maven/de.protubero/beanstore@0.8.2?classifier=sources

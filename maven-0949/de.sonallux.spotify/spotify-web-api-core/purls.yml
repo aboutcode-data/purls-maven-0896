@@ -14,3 +14,11 @@
 - pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.5?classifier=sources
 - pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.5.1
 - pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.5.1?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.17
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.17?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.18
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.18?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.4
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.4?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.8-beta.0
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.6.8-beta.0?classifier=sources

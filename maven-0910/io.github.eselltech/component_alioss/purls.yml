@@ -1,2 +1,4 @@
 - pkg:maven/io.github.eselltech/component_alioss@1.0.0?classifier=sources
 - pkg:maven/io.github.eselltech/component_alioss@1.0.0?type=aar
+- pkg:maven/io.github.eselltech/component_alioss@legacy-1x?classifier=sources
+- pkg:maven/io.github.eselltech/component_alioss@legacy-1x?type=aar

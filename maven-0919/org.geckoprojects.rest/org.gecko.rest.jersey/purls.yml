@@ -1,3 +1,5 @@
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.10
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.10?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.4
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.4?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.5
@@ -8,3 +10,5 @@
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.7?classifier=sources
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.8
 - pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.8?classifier=sources
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.9
+- pkg:maven/org.geckoprojects.rest/org.gecko.rest.jersey@4.0.9?classifier=sources

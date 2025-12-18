@@ -1,6 +1,14 @@
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.185.1?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.186.1?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.187.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.188.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.189.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.189.1?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.190.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.191.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.191.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.192.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.194.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.195.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.195.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-ec2-plugin@0.196.0?classifier=sources

@@ -114,3 +114,11 @@
 - pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.62.1?classifier=sources
 - pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.63.0
 - pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.63.0?classifier=sources
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.0
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.0?classifier=sources
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.1
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.1?classifier=sources
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.2
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.2?classifier=sources
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.3
+- pkg:maven/com.rasterfoundry/backsplash-core_2.12@1.64.3?classifier=sources

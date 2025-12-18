@@ -3,3 +3,5 @@
 - pkg:maven/io.insert-koin/koin-androidx-compose@3.0.1-beta-1?classifier=sources
 - pkg:maven/io.insert-koin/koin-androidx-compose@3.0.1-beta-2?classifier=sources
 - pkg:maven/io.insert-koin/koin-androidx-compose@3.0.1?classifier=sources
+- pkg:maven/io.insert-koin/koin-androidx-compose@3.1.0?classifier=sources
+- pkg:maven/io.insert-koin/koin-androidx-compose@3.1.1?classifier=sources

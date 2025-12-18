@@ -1,4 +1,12 @@
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@10.0
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@10.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-metrics-exporter@9.2
 - pkg:maven/org.opencastproject/opencast-metrics-exporter@9.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-metrics-exporter@9.3
 - pkg:maven/org.opencastproject/opencast-metrics-exporter@9.3?classifier=sources
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.4
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.5
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.5?classifier=sources
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.6
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.6?classifier=sources

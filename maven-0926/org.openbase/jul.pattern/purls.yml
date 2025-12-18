@@ -102,3 +102,5 @@
 - pkg:maven/org.openbase/jul.pattern@1.6.8?classifier=sources
 - pkg:maven/org.openbase/jul.pattern@1.6.9
 - pkg:maven/org.openbase/jul.pattern@1.6.9?classifier=sources
+- pkg:maven/org.openbase/jul.pattern@2.0.0
+- pkg:maven/org.openbase/jul.pattern@2.0.0?classifier=sources

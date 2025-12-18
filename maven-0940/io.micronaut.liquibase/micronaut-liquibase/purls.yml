@@ -12,3 +12,4 @@
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@3.2.0?classifier=sources
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@3.3.0?classifier=sources
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@3.3.1?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@3.4.0?classifier=sources

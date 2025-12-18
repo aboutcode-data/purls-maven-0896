@@ -38,3 +38,5 @@
 - pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@3.0.0-M4?classifier=sources
 - pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@3.0.0-M5
 - pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@3.0.0-M5?classifier=sources
+- pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@3.0.0-M6
+- pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@3.0.0-M6?classifier=sources

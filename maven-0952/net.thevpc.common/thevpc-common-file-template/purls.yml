@@ -1,2 +1,4 @@
 - pkg:maven/net.thevpc.common/thevpc-common-file-template@1.0.0
 - pkg:maven/net.thevpc.common/thevpc-common-file-template@1.0.0?classifier=sources
+- pkg:maven/net.thevpc.common/thevpc-common-file-template@1.1.0
+- pkg:maven/net.thevpc.common/thevpc-common-file-template@1.1.0?classifier=sources

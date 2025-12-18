@@ -42,6 +42,8 @@
 - pkg:maven/org.scalatestplus/testng-6-7_2.10@3.2.7.0?classifier=sources
 - pkg:maven/org.scalatestplus/testng-6-7_2.10@3.2.8.0
 - pkg:maven/org.scalatestplus/testng-6-7_2.10@3.2.8.0?classifier=sources
+- pkg:maven/org.scalatestplus/testng-6-7_2.10@3.2.9.0
+- pkg:maven/org.scalatestplus/testng-6-7_2.10@3.2.9.0?classifier=sources
 - pkg:maven/org.scalatestplus/testng-6-7_2.10@3.3.0.0-SNAP2
 - pkg:maven/org.scalatestplus/testng-6-7_2.10@3.3.0.0-SNAP2?classifier=sources
 - pkg:maven/org.scalatestplus/testng-6-7_2.10@3.3.0.0-SNAP3

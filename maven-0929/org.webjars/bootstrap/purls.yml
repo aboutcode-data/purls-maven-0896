@@ -128,3 +128,5 @@
 - pkg:maven/org.webjars/bootstrap@5.0.0-beta3
 - pkg:maven/org.webjars/bootstrap@5.0.0-beta3?classifier=sources
 - pkg:maven/org.webjars/bootstrap@5.0.0?classifier=sources
+- pkg:maven/org.webjars/bootstrap@5.0.1
+- pkg:maven/org.webjars/bootstrap@5.0.1?classifier=sources

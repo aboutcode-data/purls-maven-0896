@@ -208,6 +208,9 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.18
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.19
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@4.0.2
@@ -240,3 +243,9 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.1
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.2
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.3
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.layout.set.prototype@5.0.3?classifier=sources-commercial

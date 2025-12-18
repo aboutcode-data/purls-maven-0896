@@ -24,3 +24,5 @@
 - pkg:maven/id.unify.sdk/sdk-core@1.4.4?type=aar
 - pkg:maven/id.unify.sdk/sdk-core@1.4.5?classifier=sources
 - pkg:maven/id.unify.sdk/sdk-core@1.4.5?type=aar
+- pkg:maven/id.unify.sdk/sdk-core@1.6.0?classifier=sources
+- pkg:maven/id.unify.sdk/sdk-core@1.6.0?type=aar

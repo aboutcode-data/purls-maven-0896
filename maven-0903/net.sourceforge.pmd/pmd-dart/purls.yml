@@ -40,3 +40,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-dart@6.33.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-dart@6.34.0
 - pkg:maven/net.sourceforge.pmd/pmd-dart@6.34.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.35.0
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.35.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.36.0
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.36.0?classifier=sources

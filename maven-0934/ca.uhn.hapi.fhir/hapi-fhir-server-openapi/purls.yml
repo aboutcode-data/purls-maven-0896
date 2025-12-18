@@ -1,0 +1,4 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-server-openapi@5.4.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-server-openapi@5.4.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-server-openapi@5.4.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-server-openapi@5.4.1?classifier=sources

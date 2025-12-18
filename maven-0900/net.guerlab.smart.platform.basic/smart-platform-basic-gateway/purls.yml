@@ -4,3 +4,7 @@
 - pkg:maven/net.guerlab.smart.platform.basic/smart-platform-basic-gateway@21.0.0?classifier=sources
 - pkg:maven/net.guerlab.smart.platform.basic/smart-platform-basic-gateway@21.2.0
 - pkg:maven/net.guerlab.smart.platform.basic/smart-platform-basic-gateway@21.2.0?classifier=sources
+- pkg:maven/net.guerlab.smart.platform.basic/smart-platform-basic-gateway@21.3.2
+- pkg:maven/net.guerlab.smart.platform.basic/smart-platform-basic-gateway@21.3.2?classifier=sources
+- pkg:maven/net.guerlab.smart.platform.basic/smart-platform-basic-gateway@21.4.0
+- pkg:maven/net.guerlab.smart.platform.basic/smart-platform-basic-gateway@21.4.0?classifier=sources

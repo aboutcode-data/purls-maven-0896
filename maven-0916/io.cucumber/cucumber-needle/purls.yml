@@ -130,6 +130,8 @@
 - pkg:maven/io.cucumber/cucumber-needle@6.10.2?classifier=sources
 - pkg:maven/io.cucumber/cucumber-needle@6.10.3
 - pkg:maven/io.cucumber/cucumber-needle@6.10.3?classifier=sources
+- pkg:maven/io.cucumber/cucumber-needle@6.10.4
+- pkg:maven/io.cucumber/cucumber-needle@6.10.4?classifier=sources
 - pkg:maven/io.cucumber/cucumber-needle@6.2.0
 - pkg:maven/io.cucumber/cucumber-needle@6.2.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-needle@6.2.1

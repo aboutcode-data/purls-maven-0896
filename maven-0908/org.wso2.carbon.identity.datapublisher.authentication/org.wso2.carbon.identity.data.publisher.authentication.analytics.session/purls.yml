@@ -22,6 +22,10 @@
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.18?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.19
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.19?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.20
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.20?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.21
+- pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.21?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.4
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.4?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.datapublisher.authentication/org.wso2.carbon.identity.data.publisher.authentication.analytics.session@5.3.5

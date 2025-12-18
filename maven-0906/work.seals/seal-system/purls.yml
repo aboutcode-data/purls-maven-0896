@@ -1,2 +1,4 @@
 - pkg:maven/work.seals/seal-system@3.5.0
 - pkg:maven/work.seals/seal-system@3.5.0?classifier=sources
+- pkg:maven/work.seals/seal-system@3.5.4
+- pkg:maven/work.seals/seal-system@3.5.4?classifier=sources

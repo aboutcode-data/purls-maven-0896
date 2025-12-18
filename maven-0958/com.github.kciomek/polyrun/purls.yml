@@ -6,3 +6,5 @@
 - pkg:maven/com.github.kciomek/polyrun@0.3.1?classifier=sources
 - pkg:maven/com.github.kciomek/polyrun@1.0.0
 - pkg:maven/com.github.kciomek/polyrun@1.0.0?classifier=sources
+- pkg:maven/com.github.kciomek/polyrun@1.1.0
+- pkg:maven/com.github.kciomek/polyrun@1.1.0?classifier=sources

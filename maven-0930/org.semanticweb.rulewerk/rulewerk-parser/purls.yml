@@ -1,2 +1,3 @@
 - pkg:maven/org.semanticweb.rulewerk/rulewerk-parser@0.6.0?classifier=sources
 - pkg:maven/org.semanticweb.rulewerk/rulewerk-parser@0.7.0?classifier=sources
+- pkg:maven/org.semanticweb.rulewerk/rulewerk-parser@0.8.0?classifier=sources

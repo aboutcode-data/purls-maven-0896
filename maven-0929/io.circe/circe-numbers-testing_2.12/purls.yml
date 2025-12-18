@@ -44,6 +44,7 @@
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.13.0-RC1
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.13.0-RC1?classifier=sources
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.13.0?classifier=sources
+- pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M1
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M1?classifier=sources
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M2
@@ -56,6 +57,11 @@
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M5?classifier=sources
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M6
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M6?classifier=sources
+- pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M7
+- pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0-M7?classifier=sources
+- pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.0?classifier=sources
+- pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.1
+- pkg:maven/io.circe/circe-numbers-testing_2.12@0.14.1?classifier=sources
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.9.0
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.9.0-M1
 - pkg:maven/io.circe/circe-numbers-testing_2.12@0.9.0-M1?classifier=sources

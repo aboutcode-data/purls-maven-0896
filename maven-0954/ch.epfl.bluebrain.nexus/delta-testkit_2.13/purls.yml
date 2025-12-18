@@ -1,0 +1,6 @@
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.5.0
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.5.0-RC4
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.5.0-RC4?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.5.0?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.5.1
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.5.1?classifier=sources

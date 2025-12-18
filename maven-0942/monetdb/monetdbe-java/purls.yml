@@ -1,2 +1,4 @@
 - pkg:maven/monetdb/monetdbe-java@1.0
 - pkg:maven/monetdb/monetdbe-java@1.0?classifier=sources
+- pkg:maven/monetdb/monetdbe-java@1.10
+- pkg:maven/monetdb/monetdbe-java@1.10?classifier=sources

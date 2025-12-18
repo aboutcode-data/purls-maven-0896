@@ -1,2 +1,4 @@
 - pkg:maven/me.zalo/sdk-core@2.6.0510?classifier=sources
 - pkg:maven/me.zalo/sdk-core@2.6.0510?type=aar
+- pkg:maven/me.zalo/sdk-core@2.6.0513?classifier=sources
+- pkg:maven/me.zalo/sdk-core@2.6.0513?type=aar

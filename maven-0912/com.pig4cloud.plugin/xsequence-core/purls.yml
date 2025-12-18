@@ -1,2 +1,4 @@
 - pkg:maven/com.pig4cloud.plugin/xsequence-core@1.0
+- pkg:maven/com.pig4cloud.plugin/xsequence-core@1.0.DB2
+- pkg:maven/com.pig4cloud.plugin/xsequence-core@1.0.DB2?classifier=sources
 - pkg:maven/com.pig4cloud.plugin/xsequence-core@1.0?classifier=sources

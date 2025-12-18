@@ -12,3 +12,5 @@
 - pkg:maven/com.codeages/framework@1.0.5-RELEASE?classifier=sources
 - pkg:maven/com.codeages/framework@1.0.6-RELEASE
 - pkg:maven/com.codeages/framework@1.0.6-RELEASE?classifier=sources
+- pkg:maven/com.codeages/framework@1.0.7-RELEASE
+- pkg:maven/com.codeages/framework@1.0.7-RELEASE?classifier=sources

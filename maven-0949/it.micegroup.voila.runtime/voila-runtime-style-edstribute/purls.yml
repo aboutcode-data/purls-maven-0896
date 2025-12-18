@@ -10,3 +10,5 @@
 - pkg:maven/it.micegroup.voila.runtime/voila-runtime-style-edstribute@1.7?classifier=sources
 - pkg:maven/it.micegroup.voila.runtime/voila-runtime-style-edstribute@1.8
 - pkg:maven/it.micegroup.voila.runtime/voila-runtime-style-edstribute@1.8?classifier=sources
+- pkg:maven/it.micegroup.voila.runtime/voila-runtime-style-edstribute@1.9
+- pkg:maven/it.micegroup.voila.runtime/voila-runtime-style-edstribute@1.9?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.jena/jena-dboe-trans-data@3.9.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-dboe-trans-data@4.0.0
 - pkg:maven/org.apache.jena/jena-dboe-trans-data@4.0.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-dboe-trans-data@4.1.0
+- pkg:maven/org.apache.jena/jena-dboe-trans-data@4.1.0?classifier=sources

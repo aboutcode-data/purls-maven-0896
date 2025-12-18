@@ -44,3 +44,5 @@
 - pkg:maven/com.github.tkrs/orcus-twitter-util_2.13@0.25.3?classifier=sources
 - pkg:maven/com.github.tkrs/orcus-twitter-util_2.13@0.25.4
 - pkg:maven/com.github.tkrs/orcus-twitter-util_2.13@0.25.4?classifier=sources
+- pkg:maven/com.github.tkrs/orcus-twitter-util_2.13@0.25.5
+- pkg:maven/com.github.tkrs/orcus-twitter-util_2.13@0.25.5?classifier=sources

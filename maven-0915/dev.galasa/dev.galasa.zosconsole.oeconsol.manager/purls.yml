@@ -1,2 +1,3 @@
 - pkg:maven/dev.galasa/dev.galasa.zosconsole.oeconsol.manager@0.14.0
 - pkg:maven/dev.galasa/dev.galasa.zosconsole.oeconsol.manager@0.14.0?classifier=sources
+- pkg:maven/dev.galasa/dev.galasa.zosconsole.oeconsol.manager@0.15.0?classifier=sources

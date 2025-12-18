@@ -1,0 +1,4 @@
+- pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.5.0
+- pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.5.0?classifier=sources
+- pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.5.1
+- pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.5.1?classifier=sources

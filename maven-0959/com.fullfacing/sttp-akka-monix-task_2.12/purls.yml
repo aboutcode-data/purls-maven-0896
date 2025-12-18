@@ -8,3 +8,7 @@
 - pkg:maven/com.fullfacing/sttp-akka-monix-task_2.12@1.5.0?classifier=sources
 - pkg:maven/com.fullfacing/sttp-akka-monix-task_2.12@1.6.0
 - pkg:maven/com.fullfacing/sttp-akka-monix-task_2.12@1.6.0?classifier=sources
+- pkg:maven/com.fullfacing/sttp-akka-monix-task_2.12@2.0.0
+- pkg:maven/com.fullfacing/sttp-akka-monix-task_2.12@2.0.0?classifier=sources
+- pkg:maven/com.fullfacing/sttp-akka-monix-task_2.12@2.0.1
+- pkg:maven/com.fullfacing/sttp-akka-monix-task_2.12@2.0.1?classifier=sources

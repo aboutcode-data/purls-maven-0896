@@ -1,2 +1,6 @@
 - pkg:maven/cn.ipokerface/spring-component@2.3.0
 - pkg:maven/cn.ipokerface/spring-component@2.3.0?classifier=sources
+- pkg:maven/cn.ipokerface/spring-component@2.4.0
+- pkg:maven/cn.ipokerface/spring-component@2.4.0?classifier=sources
+- pkg:maven/cn.ipokerface/spring-component@2.5.0
+- pkg:maven/cn.ipokerface/spring-component@2.5.0?classifier=sources
