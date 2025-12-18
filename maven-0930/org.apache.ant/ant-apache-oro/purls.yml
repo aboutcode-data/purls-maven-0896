@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.ant/ant-apache-oro@1.10.7?classifier=sources
 - pkg:maven/org.apache.ant/ant-apache-oro@1.10.8
 - pkg:maven/org.apache.ant/ant-apache-oro@1.10.8?classifier=sources
+- pkg:maven/org.apache.ant/ant-apache-oro@1.10.9
+- pkg:maven/org.apache.ant/ant-apache-oro@1.10.9?classifier=sources
 - pkg:maven/org.apache.ant/ant-apache-oro@1.8.2
 - pkg:maven/org.apache.ant/ant-apache-oro@1.8.3
 - pkg:maven/org.apache.ant/ant-apache-oro@1.8.3?classifier=sources

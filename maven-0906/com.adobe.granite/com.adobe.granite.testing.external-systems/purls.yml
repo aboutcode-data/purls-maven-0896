@@ -1,0 +1,4 @@
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.external-systems@0.0.3
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.external-systems@0.0.3?classifier=sources
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.external-systems@0.0.8
+- pkg:maven/com.adobe.granite/com.adobe.granite.testing.external-systems@0.0.8?classifier=sources

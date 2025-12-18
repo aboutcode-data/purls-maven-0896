@@ -18,3 +18,9 @@
 - pkg:maven/org.web3j/web3j-unit@4.5.9?classifier=sources
 - pkg:maven/org.web3j/web3j-unit@4.6.0
 - pkg:maven/org.web3j/web3j-unit@4.6.0?classifier=sources
+- pkg:maven/org.web3j/web3j-unit@4.6.3
+- pkg:maven/org.web3j/web3j-unit@4.6.3?classifier=sources
+- pkg:maven/org.web3j/web3j-unit@4.6.4
+- pkg:maven/org.web3j/web3j-unit@4.6.4?classifier=sources
+- pkg:maven/org.web3j/web3j-unit@4.7.0
+- pkg:maven/org.web3j/web3j-unit@4.7.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/se.idsec.signservice.commons/signservice-commons@1.0.2?classifier=sources
 - pkg:maven/se.idsec.signservice.commons/signservice-commons@1.0.3
 - pkg:maven/se.idsec.signservice.commons/signservice-commons@1.0.3?classifier=sources
+- pkg:maven/se.idsec.signservice.commons/signservice-commons@1.1.0
+- pkg:maven/se.idsec.signservice.commons/signservice-commons@1.1.0?classifier=sources

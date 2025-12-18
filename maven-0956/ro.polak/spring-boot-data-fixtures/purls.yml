@@ -1,0 +1,4 @@
+- pkg:maven/ro.polak/spring-boot-data-fixtures@0.0.1
+- pkg:maven/ro.polak/spring-boot-data-fixtures@0.0.1?classifier=sources
+- pkg:maven/ro.polak/spring-boot-data-fixtures@0.1.0
+- pkg:maven/ro.polak/spring-boot-data-fixtures@0.1.0?classifier=sources

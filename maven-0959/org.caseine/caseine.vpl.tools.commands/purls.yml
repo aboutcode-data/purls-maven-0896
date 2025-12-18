@@ -32,3 +32,5 @@
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.38
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.38?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.3?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.41
+- pkg:maven/org.caseine/caseine.vpl.tools.commands@0.0.41?classifier=sources

@@ -10,3 +10,9 @@
 - pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.21.1?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.21.2
 - pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.21.2?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.21.3
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.21.3?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.22.0
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.22.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.22.1
+- pkg:maven/io.zipkin.aws/zipkin-module-collector-sqs@0.22.1?classifier=sources

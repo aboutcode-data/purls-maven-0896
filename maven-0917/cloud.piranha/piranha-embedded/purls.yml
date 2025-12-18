@@ -2,6 +2,8 @@
 - pkg:maven/cloud.piranha/piranha-embedded@19.12.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-embedded@20.1.2
 - pkg:maven/cloud.piranha/piranha-embedded@20.1.2?classifier=sources
+- pkg:maven/cloud.piranha/piranha-embedded@20.10.0
+- pkg:maven/cloud.piranha/piranha-embedded@20.10.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-embedded@20.2.0
 - pkg:maven/cloud.piranha/piranha-embedded@20.2.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-embedded@20.3.0
@@ -14,3 +16,7 @@
 - pkg:maven/cloud.piranha/piranha-embedded@20.6.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-embedded@20.7.0
 - pkg:maven/cloud.piranha/piranha-embedded@20.7.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-embedded@20.8.0
+- pkg:maven/cloud.piranha/piranha-embedded@20.8.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-embedded@20.9.0
+- pkg:maven/cloud.piranha/piranha-embedded@20.9.0?classifier=sources

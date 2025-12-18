@@ -1,0 +1,2 @@
+- pkg:maven/com.newmotion/akka-statsd_2.13@3.2.2
+- pkg:maven/com.newmotion/akka-statsd_2.13@3.2.2?classifier=sources

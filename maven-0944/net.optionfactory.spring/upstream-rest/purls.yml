@@ -1,2 +1,4 @@
 - pkg:maven/net.optionfactory.spring/upstream-rest@3.0
 - pkg:maven/net.optionfactory.spring/upstream-rest@3.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/upstream-rest@4.0
+- pkg:maven/net.optionfactory.spring/upstream-rest@4.0?classifier=sources

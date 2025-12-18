@@ -28,6 +28,8 @@
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.7?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8.1
+- pkg:maven/org.ff4j/ff4j-store-jcache@1.8.10
+- pkg:maven/org.ff4j/ff4j-store-jcache@1.8.10?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8.1?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8.2
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8.2?classifier=sources
@@ -43,4 +45,6 @@
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8.7?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8.8
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8.8?classifier=sources
+- pkg:maven/org.ff4j/ff4j-store-jcache@1.8.9
+- pkg:maven/org.ff4j/ff4j-store-jcache@1.8.9?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-jcache@1.8?classifier=sources

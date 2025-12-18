@@ -2,3 +2,5 @@
 - pkg:maven/com.github.cafdataprocessing/staging-service-contract@1.0.0-212?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/staging-service-contract@1.0.1-340
 - pkg:maven/com.github.cafdataprocessing/staging-service-contract@1.0.1-340?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/staging-service-contract@1.1.0-409
+- pkg:maven/com.github.cafdataprocessing/staging-service-contract@1.1.0-409?classifier=sources

@@ -59,4 +59,6 @@
 - pkg:maven/org.codehaus.plexus/plexus-compiler-api@2.8.6?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-api@2.8.7
 - pkg:maven/org.codehaus.plexus/plexus-compiler-api@2.8.7?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-compiler-api@2.8.8
+- pkg:maven/org.codehaus.plexus/plexus-compiler-api@2.8.8?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-compiler-api@2.8?classifier=sources

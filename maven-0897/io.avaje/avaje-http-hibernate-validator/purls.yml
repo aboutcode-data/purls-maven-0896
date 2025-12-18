@@ -1,0 +1,4 @@
+- pkg:maven/io.avaje/avaje-http-hibernate-validator@0.9
+- pkg:maven/io.avaje/avaje-http-hibernate-validator@0.9?classifier=sources
+- pkg:maven/io.avaje/avaje-http-hibernate-validator@1.0
+- pkg:maven/io.avaje/avaje-http-hibernate-validator@1.0?classifier=sources

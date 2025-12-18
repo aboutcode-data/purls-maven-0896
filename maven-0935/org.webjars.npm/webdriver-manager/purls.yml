@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webdriver-manager@13.0.0-beta
+- pkg:maven/org.webjars.npm/webdriver-manager@13.0.0-beta?classifier=sources

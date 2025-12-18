@@ -18,3 +18,15 @@
 - pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.4.0?classifier=sources
 - pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.4.1
 - pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.4.1?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.5.0
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.5.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.6.0
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.6.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.7.0
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@3.7.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@4.0.0
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@4.0.0?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@4.0.1
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@4.0.1?classifier=sources
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@4.1.0
+- pkg:maven/de.digitalcollections.cudami/template-website-springboot@4.1.0?classifier=sources

@@ -58,6 +58,12 @@
 - pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.14.7?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.14.8
 - pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.14.8?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.15.0
+- pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.15.0?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.15.1
+- pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.15.1?classifier=sources
+- pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.16.0
+- pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.16.0?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.4.0-beta.4
 - pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.4.0-beta.4?classifier=sources
 - pkg:maven/org.mockito/mockito-scala-specs2_2.11@1.4.0-beta.5

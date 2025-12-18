@@ -16,6 +16,10 @@
 - pkg:maven/org.morphir/morphir-cli_2.13@0.1.4?classifier=sources
 - pkg:maven/org.morphir/morphir-cli_2.13@0.1.5
 - pkg:maven/org.morphir/morphir-cli_2.13@0.1.5?classifier=sources
+- pkg:maven/org.morphir/morphir-cli_2.13@0.1.7
+- pkg:maven/org.morphir/morphir-cli_2.13@0.1.7?classifier=sources
+- pkg:maven/org.morphir/morphir-cli_2.13@0.1.8
+- pkg:maven/org.morphir/morphir-cli_2.13@0.1.8?classifier=sources
 - pkg:maven/org.morphir/morphir-cli_2.13@14965d2
 - pkg:maven/org.morphir/morphir-cli_2.13@14965d2?classifier=sources
 - pkg:maven/org.morphir/morphir-cli_2.13@3356918
@@ -32,6 +36,8 @@
 - pkg:maven/org.morphir/morphir-cli_2.13@7258ac5?classifier=sources
 - pkg:maven/org.morphir/morphir-cli_2.13@87b14c9
 - pkg:maven/org.morphir/morphir-cli_2.13@87b14c9?classifier=sources
+- pkg:maven/org.morphir/morphir-cli_2.13@8b7907a
+- pkg:maven/org.morphir/morphir-cli_2.13@8b7907a?classifier=sources
 - pkg:maven/org.morphir/morphir-cli_2.13@90f1100
 - pkg:maven/org.morphir/morphir-cli_2.13@90f1100?classifier=sources
 - pkg:maven/org.morphir/morphir-cli_2.13@9d6ae6a

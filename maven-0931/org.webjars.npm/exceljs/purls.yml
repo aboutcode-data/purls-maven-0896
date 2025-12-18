@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/exceljs@0.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/exceljs@1.15.0
 - pkg:maven/org.webjars.npm/exceljs@1.15.0?classifier=sources
+- pkg:maven/org.webjars.npm/exceljs@3.8.0
+- pkg:maven/org.webjars.npm/exceljs@3.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/exceljs@4.0.0
 - pkg:maven/org.webjars.npm/exceljs@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/exceljs@4.0.1

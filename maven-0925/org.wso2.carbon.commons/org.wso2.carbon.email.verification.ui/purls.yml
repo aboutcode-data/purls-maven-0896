@@ -299,3 +299,9 @@
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.32
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.32?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.32?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.33
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.33?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.33?classifier=sources
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.34
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.34?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/org.wso2.carbon.email.verification.ui@4.7.34?classifier=sources

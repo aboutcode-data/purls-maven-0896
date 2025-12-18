@@ -16,3 +16,5 @@
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-http-test@0.0.9?classifier=sources
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-http-test@1.0.0
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-http-test@1.0.0?classifier=sources
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-http-test@1.1.0
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-http-test@1.1.0?classifier=sources

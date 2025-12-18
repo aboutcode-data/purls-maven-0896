@@ -11,6 +11,8 @@
 - pkg:maven/org.btrplace/split@1.10.2?classifier=sources
 - pkg:maven/org.btrplace/split@1.11.0
 - pkg:maven/org.btrplace/split@1.11.0?classifier=sources
+- pkg:maven/org.btrplace/split@1.11.1
+- pkg:maven/org.btrplace/split@1.11.1?classifier=sources
 - pkg:maven/org.btrplace/split@1.1?classifier=sources
 - pkg:maven/org.btrplace/split@1.2
 - pkg:maven/org.btrplace/split@1.2?classifier=sources

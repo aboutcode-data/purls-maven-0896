@@ -5,6 +5,8 @@
 - pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M13?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M14?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M15?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M16?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M17?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M4
 - pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M4?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-cache@3.0.0.M5

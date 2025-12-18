@@ -2,3 +2,11 @@
 - pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.13.0?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.13.1
 - pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.13.1?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.14.0
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.14.0?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.15.0
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.15.0?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.16.0
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.16.0?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.17.0
+- pkg:maven/org.kie.kogito/data-index-storage-mongodb@0.17.0?classifier=sources

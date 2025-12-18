@@ -113,3 +113,4 @@
 - pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.7.0.Alpha2
 - pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.7.0.Alpha2?classifier=sources
 - pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.7.0.Alpha3?classifier=sources
+- pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.7.0.Alpha4?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-spring3-test@6.3.3?classifier=sources
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-spring3-test@6.4.0
 - pkg:maven/org.flywaydb.flyway-test-extensions/flyway-spring3-test@6.4.0?classifier=sources
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-spring3-test@7.0.0
+- pkg:maven/org.flywaydb.flyway-test-extensions/flyway-spring3-test@7.0.0?classifier=sources

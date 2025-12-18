@@ -4,3 +4,6 @@
 - pkg:maven/org.apache.beam/beam-runners-flink-1.10@2.22.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-flink-1.10@2.23.0
 - pkg:maven/org.apache.beam/beam-runners-flink-1.10@2.23.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.10@2.24.0
+- pkg:maven/org.apache.beam/beam-runners-flink-1.10@2.24.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-flink-1.10@2.25.0?classifier=sources

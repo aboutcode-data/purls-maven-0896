@@ -6,4 +6,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE120-1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE90?classifier=sources

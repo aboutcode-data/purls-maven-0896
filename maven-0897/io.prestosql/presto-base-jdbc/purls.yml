@@ -80,3 +80,13 @@
 - pkg:maven/io.prestosql/presto-base-jdbc@339?classifier=sources
 - pkg:maven/io.prestosql/presto-base-jdbc@340
 - pkg:maven/io.prestosql/presto-base-jdbc@340?classifier=sources
+- pkg:maven/io.prestosql/presto-base-jdbc@341
+- pkg:maven/io.prestosql/presto-base-jdbc@341?classifier=sources
+- pkg:maven/io.prestosql/presto-base-jdbc@342
+- pkg:maven/io.prestosql/presto-base-jdbc@342?classifier=sources
+- pkg:maven/io.prestosql/presto-base-jdbc@343
+- pkg:maven/io.prestosql/presto-base-jdbc@343?classifier=sources
+- pkg:maven/io.prestosql/presto-base-jdbc@344
+- pkg:maven/io.prestosql/presto-base-jdbc@344?classifier=sources
+- pkg:maven/io.prestosql/presto-base-jdbc@345
+- pkg:maven/io.prestosql/presto-base-jdbc@345?classifier=sources

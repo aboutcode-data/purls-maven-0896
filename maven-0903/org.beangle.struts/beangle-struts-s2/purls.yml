@@ -54,3 +54,7 @@
 - pkg:maven/org.beangle.struts/beangle-struts-s2@3.7.0?classifier=sources
 - pkg:maven/org.beangle.struts/beangle-struts-s2@3.7.1
 - pkg:maven/org.beangle.struts/beangle-struts-s2@3.7.1?classifier=sources
+- pkg:maven/org.beangle.struts/beangle-struts-s2@3.8.0
+- pkg:maven/org.beangle.struts/beangle-struts-s2@3.8.0?classifier=sources
+- pkg:maven/org.beangle.struts/beangle-struts-s2@3.8.1
+- pkg:maven/org.beangle.struts/beangle-struts-s2@3.8.1?classifier=sources

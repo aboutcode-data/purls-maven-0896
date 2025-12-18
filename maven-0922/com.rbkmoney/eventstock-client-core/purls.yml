@@ -1,0 +1,4 @@
+- pkg:maven/com.rbkmoney/eventstock-client-core@1.2.11
+- pkg:maven/com.rbkmoney/eventstock-client-core@1.2.11?classifier=sources
+- pkg:maven/com.rbkmoney/eventstock-client-core@1.2.12
+- pkg:maven/com.rbkmoney/eventstock-client-core@1.2.12?classifier=sources

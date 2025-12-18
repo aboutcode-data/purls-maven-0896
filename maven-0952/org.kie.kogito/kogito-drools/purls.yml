@@ -5,6 +5,10 @@
 - pkg:maven/org.kie.kogito/kogito-drools@0.12.0
 - pkg:maven/org.kie.kogito/kogito-drools@0.13.0
 - pkg:maven/org.kie.kogito/kogito-drools@0.13.1
+- pkg:maven/org.kie.kogito/kogito-drools@0.14.0
+- pkg:maven/org.kie.kogito/kogito-drools@0.15.0
+- pkg:maven/org.kie.kogito/kogito-drools@0.16.0
+- pkg:maven/org.kie.kogito/kogito-drools@0.17.0
 - pkg:maven/org.kie.kogito/kogito-drools@0.7.0
 - pkg:maven/org.kie.kogito/kogito-drools@0.7.1
 - pkg:maven/org.kie.kogito/kogito-drools@0.8.0

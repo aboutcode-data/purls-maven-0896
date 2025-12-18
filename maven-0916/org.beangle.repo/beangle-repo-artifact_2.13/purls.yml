@@ -10,3 +10,7 @@
 - pkg:maven/org.beangle.repo/beangle-repo-artifact_2.13@0.0.16?classifier=sources
 - pkg:maven/org.beangle.repo/beangle-repo-artifact_2.13@0.0.17
 - pkg:maven/org.beangle.repo/beangle-repo-artifact_2.13@0.0.17?classifier=sources
+- pkg:maven/org.beangle.repo/beangle-repo-artifact_2.13@0.0.18
+- pkg:maven/org.beangle.repo/beangle-repo-artifact_2.13@0.0.18?classifier=sources
+- pkg:maven/org.beangle.repo/beangle-repo-artifact_2.13@0.0.19
+- pkg:maven/org.beangle.repo/beangle-repo-artifact_2.13@0.0.19?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.1.0-alpha2
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.1.0-alpha2?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.1.0?classifier=sources
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.10.0
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.10.0?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.2.0
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.2.0?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.2.1

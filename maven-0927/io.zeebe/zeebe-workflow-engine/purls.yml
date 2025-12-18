@@ -62,6 +62,10 @@
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.23.4?classifier=sources
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.23.5
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.23.5?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.23.6
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.23.6?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.23.7
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.23.7?classifier=sources
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.0
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.0-alpha1
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.0-alpha1?classifier=sources
@@ -72,5 +76,15 @@
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.1?classifier=sources
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.2
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.2?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.3
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.3?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.4
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.24.4?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0-alpha1
 - pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0-alpha1?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0-alpha2
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0-alpha2?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0-rc1
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0-rc1?classifier=sources
+- pkg:maven/io.zeebe/zeebe-workflow-engine@0.25.0?classifier=sources

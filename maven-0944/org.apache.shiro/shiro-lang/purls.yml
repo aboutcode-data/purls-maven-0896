@@ -14,3 +14,7 @@
 - pkg:maven/org.apache.shiro/shiro-lang@1.5.2?classifier=sources
 - pkg:maven/org.apache.shiro/shiro-lang@1.5.3
 - pkg:maven/org.apache.shiro/shiro-lang@1.5.3?classifier=sources
+- pkg:maven/org.apache.shiro/shiro-lang@1.6.0
+- pkg:maven/org.apache.shiro/shiro-lang@1.6.0?classifier=sources
+- pkg:maven/org.apache.shiro/shiro-lang@1.7.0
+- pkg:maven/org.apache.shiro/shiro-lang@1.7.0?classifier=sources

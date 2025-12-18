@@ -14,6 +14,10 @@
 - pkg:maven/com.github.cafapi.codec/codec-json@1.16.0-118?classifier=sources
 - pkg:maven/com.github.cafapi.codec/codec-json@1.17.0-201
 - pkg:maven/com.github.cafapi.codec/codec-json@1.17.0-201?classifier=sources
+- pkg:maven/com.github.cafapi.codec/codec-json@1.18.0-257
+- pkg:maven/com.github.cafapi.codec/codec-json@1.18.0-257?classifier=sources
+- pkg:maven/com.github.cafapi.codec/codec-json@1.19.0-269
+- pkg:maven/com.github.cafapi.codec/codec-json@1.19.0-269?classifier=sources
 - pkg:maven/com.github.cafapi.codec/codec-json@1.2.0-109
 - pkg:maven/com.github.cafapi.codec/codec-json@1.2.0-109?classifier=sources
 - pkg:maven/com.github.cafapi.codec/codec-json@1.3.0-110

@@ -36,3 +36,5 @@
 - pkg:maven/org.simplejavamail/batch-module@6.4.2?classifier=sources
 - pkg:maven/org.simplejavamail/batch-module@6.4.3
 - pkg:maven/org.simplejavamail/batch-module@6.4.3?classifier=sources
+- pkg:maven/org.simplejavamail/batch-module@6.4.4
+- pkg:maven/org.simplejavamail/batch-module@6.4.4?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.jeramtough/jtcomponent@1.1.0-RELEASE?classifier=sources
 - pkg:maven/com.jeramtough/jtcomponent@1.3.0-RELEASE
 - pkg:maven/com.jeramtough/jtcomponent@1.3.0-RELEASE?classifier=sources
+- pkg:maven/com.jeramtough/jtcomponent@1.3.6-RELEASE
+- pkg:maven/com.jeramtough/jtcomponent@1.3.6-RELEASE?classifier=sources
+- pkg:maven/com.jeramtough/jtcomponent@1.4.0-RELEASE
+- pkg:maven/com.jeramtough/jtcomponent@1.4.0-RELEASE?classifier=sources

@@ -38,3 +38,9 @@
 - pkg:maven/com.codacy/events_2.12@3.1.1_circe_0.8.0?classifier=sources
 - pkg:maven/com.codacy/events_2.12@3.1.1_circe_0.9.1
 - pkg:maven/com.codacy/events_2.12@3.1.1_circe_0.9.1?classifier=sources
+- pkg:maven/com.codacy/events_2.12@3.1.2_circe_0.11.1
+- pkg:maven/com.codacy/events_2.12@3.1.2_circe_0.11.1?classifier=sources
+- pkg:maven/com.codacy/events_2.12@3.1.2_circe_0.8.0
+- pkg:maven/com.codacy/events_2.12@3.1.2_circe_0.8.0?classifier=sources
+- pkg:maven/com.codacy/events_2.12@3.1.2_circe_0.9.1
+- pkg:maven/com.codacy/events_2.12@3.1.2_circe_0.9.1?classifier=sources

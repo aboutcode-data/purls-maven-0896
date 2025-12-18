@@ -1,0 +1,4 @@
+- pkg:maven/org.librarysimplified/org.librarysimplified.crashlytics@6.1.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.crashlytics@6.2.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.crashlytics@6.3.0?classifier=sources
+- pkg:maven/org.librarysimplified/org.librarysimplified.crashlytics@6.3.1?classifier=sources

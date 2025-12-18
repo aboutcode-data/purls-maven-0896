@@ -8,3 +8,5 @@
 - pkg:maven/ru.iopump.kotest/kotest-allure@0.2.3?classifier=sources
 - pkg:maven/ru.iopump.kotest/kotest-allure@0.2.4
 - pkg:maven/ru.iopump.kotest/kotest-allure@0.2.4?classifier=sources
+- pkg:maven/ru.iopump.kotest/kotest-allure@0.3.0
+- pkg:maven/ru.iopump.kotest/kotest-allure@0.3.0?classifier=sources

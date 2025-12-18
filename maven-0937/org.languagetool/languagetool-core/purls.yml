@@ -59,4 +59,8 @@
 - pkg:maven/org.languagetool/languagetool-core@4.9
 - pkg:maven/org.languagetool/languagetool-core@4.9?classifier=sources
 - pkg:maven/org.languagetool/languagetool-core@5.0
+- pkg:maven/org.languagetool/languagetool-core@5.0.2
+- pkg:maven/org.languagetool/languagetool-core@5.0.2?classifier=sources
 - pkg:maven/org.languagetool/languagetool-core@5.0?classifier=sources
+- pkg:maven/org.languagetool/languagetool-core@5.1
+- pkg:maven/org.languagetool/languagetool-core@5.1?classifier=sources

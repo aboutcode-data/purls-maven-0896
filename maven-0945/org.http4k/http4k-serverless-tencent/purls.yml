@@ -1,0 +1,6 @@
+- pkg:maven/org.http4k/http4k-serverless-tencent@3.270.0
+- pkg:maven/org.http4k/http4k-serverless-tencent@3.270.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-tencent@3.271.0
+- pkg:maven/org.http4k/http4k-serverless-tencent@3.271.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-tencent@3.272.0
+- pkg:maven/org.http4k/http4k-serverless-tencent@3.272.0?classifier=sources

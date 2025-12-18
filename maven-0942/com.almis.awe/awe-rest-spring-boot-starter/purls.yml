@@ -42,3 +42,5 @@
 - pkg:maven/com.almis.awe/awe-rest-spring-boot-starter@4.2.6?classifier=sources
 - pkg:maven/com.almis.awe/awe-rest-spring-boot-starter@4.2.7
 - pkg:maven/com.almis.awe/awe-rest-spring-boot-starter@4.2.7?classifier=sources
+- pkg:maven/com.almis.awe/awe-rest-spring-boot-starter@4.2.8
+- pkg:maven/com.almis.awe/awe-rest-spring-boot-starter@4.2.8?classifier=sources

@@ -106,5 +106,13 @@
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.3.0-dev1
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.3.0-dev1?classifier=sources
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.3.0?classifier=sources
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.3.1
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.3.1?classifier=sources
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.4.0
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.4.0-rc1
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.4.0-rc1?classifier=sources
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.4.0-rc2
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.4.0-rc2?classifier=sources
+- pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@2.4.0?classifier=sources
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@dev
 - pkg:maven/io.hydrosphere/serving-grpc-scala_2.12@dev?classifier=sources

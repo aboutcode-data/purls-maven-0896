@@ -12,3 +12,7 @@
 - pkg:maven/com.busymachines/pureharm-aws-sns_2.13@0.0.5-M2?classifier=sources
 - pkg:maven/com.busymachines/pureharm-aws-sns_2.13@0.0.5-M3
 - pkg:maven/com.busymachines/pureharm-aws-sns_2.13@0.0.5-M3?classifier=sources
+- pkg:maven/com.busymachines/pureharm-aws-sns_2.13@0.0.5-M4
+- pkg:maven/com.busymachines/pureharm-aws-sns_2.13@0.0.5-M4?classifier=sources
+- pkg:maven/com.busymachines/pureharm-aws-sns_2.13@0.0.5-RC1
+- pkg:maven/com.busymachines/pureharm-aws-sns_2.13@0.0.5-RC1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.jerryxia/devhelper-spring-boot-starter@1.0.26?classifier=sources
 - pkg:maven/com.github.jerryxia/devhelper-spring-boot-starter@1.0.27
 - pkg:maven/com.github.jerryxia/devhelper-spring-boot-starter@1.0.27?classifier=sources
+- pkg:maven/com.github.jerryxia/devhelper-spring-boot-starter@1.1.0
+- pkg:maven/com.github.jerryxia/devhelper-spring-boot-starter@1.1.0?classifier=sources

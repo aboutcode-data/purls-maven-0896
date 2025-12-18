@@ -58,3 +58,5 @@
 - pkg:maven/org.languagetool/language-br@4.9?classifier=sources
 - pkg:maven/org.languagetool/language-br@5.0
 - pkg:maven/org.languagetool/language-br@5.0?classifier=sources
+- pkg:maven/org.languagetool/language-br@5.1
+- pkg:maven/org.languagetool/language-br@5.1?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.day.commons/day-commons-ldapclient@1.1.6?classifier=sources
+- pkg:maven/com.day.commons/day-commons-ldapclient@1.1.7?classifier=sources
+- pkg:maven/com.day.commons/day-commons-ldapclient@1.1.9?classifier=sources

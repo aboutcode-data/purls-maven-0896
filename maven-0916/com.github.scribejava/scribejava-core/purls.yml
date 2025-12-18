@@ -96,3 +96,5 @@
 - pkg:maven/com.github.scribejava/scribejava-core@6.9.0?classifier=sources
 - pkg:maven/com.github.scribejava/scribejava-core@7.0.0
 - pkg:maven/com.github.scribejava/scribejava-core@7.0.0?classifier=sources
+- pkg:maven/com.github.scribejava/scribejava-core@7.1.1
+- pkg:maven/com.github.scribejava/scribejava-core@7.1.1?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.24?classifier=sources
 - pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.25
 - pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.25?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.26
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.26?classifier=sources

@@ -143,6 +143,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.15?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.16
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.16?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.17
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.17?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@3.0.2?classifier=sources
@@ -200,3 +202,11 @@
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@5.0.4?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@5.0.5
 - pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@5.0.5?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@5.0.6
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@5.0.6?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@5.0.7
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@5.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@6.0.0
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@6.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@6.0.1
+- pkg:maven/org.opendaylight.yangtools/yang-data-codec-xml@6.0.1?classifier=sources

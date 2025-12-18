@@ -50,3 +50,7 @@
 - pkg:maven/com.flowlogix/flowlogix-datamodel@2.3.1
 - pkg:maven/com.flowlogix/flowlogix-datamodel@2.3.1?classifier=sources
 - pkg:maven/com.flowlogix/flowlogix-datamodel@2.3?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-datamodel@3.0
+- pkg:maven/com.flowlogix/flowlogix-datamodel@3.0?classifier=sources
+- pkg:maven/com.flowlogix/flowlogix-datamodel@4.0
+- pkg:maven/com.flowlogix/flowlogix-datamodel@4.0?classifier=sources

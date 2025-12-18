@@ -3,6 +3,8 @@
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.0-http4s-0.20?classifier=sources
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.0?classifier=sources
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.1
+- pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.10
+- pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.10?classifier=sources
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.1?classifier=sources
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.2
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.2?classifier=sources
@@ -18,3 +20,5 @@
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.7?classifier=sources
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.8
 - pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.8?classifier=sources
+- pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.9
+- pkg:maven/pl.datart/http4s-timer-newrelic_2.12@0.1.9?classifier=sources

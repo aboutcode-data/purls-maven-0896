@@ -8,3 +8,4 @@
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.64?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.65
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.65?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.67?classifier=sources

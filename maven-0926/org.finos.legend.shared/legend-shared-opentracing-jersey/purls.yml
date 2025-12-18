@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.0.8
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.0.8?classifier=sources

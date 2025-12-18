@@ -40,3 +40,7 @@
 - pkg:maven/com.approvaltests/CounterDisplay@9.0.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@9.1.0
 - pkg:maven/com.approvaltests/CounterDisplay@9.1.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@9.2.0
+- pkg:maven/com.approvaltests/CounterDisplay@9.2.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@9.3.0
+- pkg:maven/com.approvaltests/CounterDisplay@9.3.0?classifier=sources

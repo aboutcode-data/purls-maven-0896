@@ -4,3 +4,7 @@
 - pkg:maven/net.officefloor.spring/officespring_webflux@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.spring/officespring_webflux@3.26.0
 - pkg:maven/net.officefloor.spring/officespring_webflux@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring_webflux@3.27.0
+- pkg:maven/net.officefloor.spring/officespring_webflux@3.27.0?classifier=sources
+- pkg:maven/net.officefloor.spring/officespring_webflux@3.28.0
+- pkg:maven/net.officefloor.spring/officespring_webflux@3.28.0?classifier=sources

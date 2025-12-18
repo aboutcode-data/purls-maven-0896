@@ -1,0 +1,10 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.10-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.10-beta?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.11-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.11-beta?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.12-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.12-beta?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.13-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.13-beta?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.9-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-testhub@3.0.9-beta?classifier=sources

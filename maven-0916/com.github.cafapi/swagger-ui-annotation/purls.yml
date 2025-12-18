@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafapi/swagger-ui-annotation@1.0.0-28
 - pkg:maven/com.github.cafapi/swagger-ui-annotation@1.0.0-28?classifier=sources
+- pkg:maven/com.github.cafapi/swagger-ui-annotation@1.0.1-60
+- pkg:maven/com.github.cafapi/swagger-ui-annotation@1.0.1-60?classifier=sources

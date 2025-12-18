@@ -16,3 +16,5 @@
 - pkg:maven/org.appng/appng-upngizr@1.20.2?type=war
 - pkg:maven/org.appng/appng-upngizr@1.21.0?classifier=sources
 - pkg:maven/org.appng/appng-upngizr@1.21.0?type=war
+- pkg:maven/org.appng/appng-upngizr@1.22.0?classifier=sources
+- pkg:maven/org.appng/appng-upngizr@1.22.0?type=war

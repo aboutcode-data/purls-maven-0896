@@ -1,0 +1,4 @@
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-dwr@3.0.2-RELEASE
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-dwr@3.0.2-RELEASE?classifier=sources
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-dwr@3.0.3-RELEASE
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-dwr@3.0.3-RELEASE?classifier=sources

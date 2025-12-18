@@ -8,3 +8,7 @@
 - pkg:maven/com.github.japgolly.microlibs/stdlib-ext_sjs0.6_2.13@2.2?classifier=sources
 - pkg:maven/com.github.japgolly.microlibs/stdlib-ext_sjs0.6_2.13@2.3
 - pkg:maven/com.github.japgolly.microlibs/stdlib-ext_sjs0.6_2.13@2.3?classifier=sources
+- pkg:maven/com.github.japgolly.microlibs/stdlib-ext_sjs0.6_2.13@2.4
+- pkg:maven/com.github.japgolly.microlibs/stdlib-ext_sjs0.6_2.13@2.4?classifier=sources
+- pkg:maven/com.github.japgolly.microlibs/stdlib-ext_sjs0.6_2.13@2.5
+- pkg:maven/com.github.japgolly.microlibs/stdlib-ext_sjs0.6_2.13@2.5?classifier=sources

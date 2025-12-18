@@ -64,6 +64,12 @@
 - pkg:maven/com.github.losizm/scamper_2.13@17.0.0?classifier=sources
 - pkg:maven/com.github.losizm/scamper_2.13@18.0.0
 - pkg:maven/com.github.losizm/scamper_2.13@18.0.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_2.13@19.0.0
+- pkg:maven/com.github.losizm/scamper_2.13@19.0.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_2.13@19.1.0
+- pkg:maven/com.github.losizm/scamper_2.13@19.1.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_2.13@19.2.0
+- pkg:maven/com.github.losizm/scamper_2.13@19.2.0?classifier=sources
 - pkg:maven/com.github.losizm/scamper_2.13@7.1.0
 - pkg:maven/com.github.losizm/scamper_2.13@7.1.0?classifier=sources
 - pkg:maven/com.github.losizm/scamper_2.13@8.0.0

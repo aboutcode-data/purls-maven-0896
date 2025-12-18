@@ -12,3 +12,5 @@
 - pkg:maven/uk.offtopica/monerorpc@0.2.4?classifier=sources
 - pkg:maven/uk.offtopica/monerorpc@0.2.5
 - pkg:maven/uk.offtopica/monerorpc@0.2.5?classifier=sources
+- pkg:maven/uk.offtopica/monerorpc@0.3.0
+- pkg:maven/uk.offtopica/monerorpc@0.3.0?classifier=sources

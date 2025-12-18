@@ -6,6 +6,8 @@
 - pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.10.2?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.10.3
 - pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.10.3?classifier=sources
+- pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.10.4
+- pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.10.4?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.2.0-Beryllium
 - pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.2.0-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.sfc/sfc-scf-openflow@0.2.1-Beryllium-SR1

@@ -1,0 +1,2 @@
+- pkg:maven/ch.cern.hbase/hbase-hbtop@2.2.4
+- pkg:maven/ch.cern.hbase/hbase-hbtop@2.2.4?classifier=sources

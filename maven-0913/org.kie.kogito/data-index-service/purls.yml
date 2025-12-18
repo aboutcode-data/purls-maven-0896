@@ -12,6 +12,8 @@
 - pkg:maven/org.kie.kogito/data-index-service@0.13.0?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-service@0.13.1
 - pkg:maven/org.kie.kogito/data-index-service@0.13.1?classifier=sources
+- pkg:maven/org.kie.kogito/data-index-service@0.14.0
+- pkg:maven/org.kie.kogito/data-index-service@0.14.0?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-service@0.3.0
 - pkg:maven/org.kie.kogito/data-index-service@0.3.0?classifier=sources
 - pkg:maven/org.kie.kogito/data-index-service@0.4.0

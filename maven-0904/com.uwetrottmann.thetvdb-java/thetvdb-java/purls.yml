@@ -34,3 +34,5 @@
 - pkg:maven/com.uwetrottmann.thetvdb-java/thetvdb-java@2.2.0?classifier=sources
 - pkg:maven/com.uwetrottmann.thetvdb-java/thetvdb-java@2.3.0
 - pkg:maven/com.uwetrottmann.thetvdb-java/thetvdb-java@2.3.0?classifier=sources
+- pkg:maven/com.uwetrottmann.thetvdb-java/thetvdb-java@2.4.0
+- pkg:maven/com.uwetrottmann.thetvdb-java/thetvdb-java@2.4.0?classifier=sources

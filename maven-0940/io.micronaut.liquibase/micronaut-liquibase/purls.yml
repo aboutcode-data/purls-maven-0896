@@ -2,3 +2,6 @@
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@2.0.0.M2?classifier=sources
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@2.0.0.RC1?classifier=sources
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@2.0.0?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@2.0.1?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@2.1.0?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@2.1.1?classifier=sources

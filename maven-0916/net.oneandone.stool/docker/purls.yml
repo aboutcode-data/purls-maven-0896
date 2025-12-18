@@ -1,0 +1,2 @@
+- pkg:maven/net.oneandone.stool/docker@6.0.0
+- pkg:maven/net.oneandone.stool/docker@6.0.0?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.ant/ant-antlr@1.10.7?classifier=sources
 - pkg:maven/org.apache.ant/ant-antlr@1.10.8
 - pkg:maven/org.apache.ant/ant-antlr@1.10.8?classifier=sources
+- pkg:maven/org.apache.ant/ant-antlr@1.10.9
+- pkg:maven/org.apache.ant/ant-antlr@1.10.9?classifier=sources
 - pkg:maven/org.apache.ant/ant-antlr@1.7.0
 - pkg:maven/org.apache.ant/ant-antlr@1.7.1
 - pkg:maven/org.apache.ant/ant-antlr@1.8.1

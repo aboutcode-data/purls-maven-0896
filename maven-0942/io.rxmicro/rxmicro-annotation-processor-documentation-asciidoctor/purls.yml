@@ -12,3 +12,5 @@
 - pkg:maven/io.rxmicro/rxmicro-annotation-processor-documentation-asciidoctor@0.4?classifier=sources
 - pkg:maven/io.rxmicro/rxmicro-annotation-processor-documentation-asciidoctor@0.5
 - pkg:maven/io.rxmicro/rxmicro-annotation-processor-documentation-asciidoctor@0.5?classifier=sources
+- pkg:maven/io.rxmicro/rxmicro-annotation-processor-documentation-asciidoctor@0.6
+- pkg:maven/io.rxmicro/rxmicro-annotation-processor-documentation-asciidoctor@0.6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/discipline-core_3.0.0-M1@1.1.0
+- pkg:maven/org.typelevel/discipline-core_3.0.0-M1@1.1.0?classifier=sources
+- pkg:maven/org.typelevel/discipline-core_3.0.0-M1@1.1.1
+- pkg:maven/org.typelevel/discipline-core_3.0.0-M1@1.1.1?classifier=sources

@@ -96,3 +96,7 @@
 - pkg:maven/com.itxiaoer.commons/commons-jpa@2.2.8?classifier=sources
 - pkg:maven/com.itxiaoer.commons/commons-jpa@2.2.9
 - pkg:maven/com.itxiaoer.commons/commons-jpa@2.2.9?classifier=sources
+- pkg:maven/com.itxiaoer.commons/commons-jpa@2.3.3
+- pkg:maven/com.itxiaoer.commons/commons-jpa@2.3.3?classifier=sources
+- pkg:maven/com.itxiaoer.commons/commons-jpa@2.3.4
+- pkg:maven/com.itxiaoer.commons/commons-jpa@2.3.4?classifier=sources

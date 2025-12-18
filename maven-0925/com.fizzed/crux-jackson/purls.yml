@@ -38,6 +38,10 @@
 - pkg:maven/com.fizzed/crux-jackson@1.0.30?classifier=sources
 - pkg:maven/com.fizzed/crux-jackson@1.0.31
 - pkg:maven/com.fizzed/crux-jackson@1.0.31?classifier=sources
+- pkg:maven/com.fizzed/crux-jackson@1.0.32
+- pkg:maven/com.fizzed/crux-jackson@1.0.32?classifier=sources
+- pkg:maven/com.fizzed/crux-jackson@1.0.33
+- pkg:maven/com.fizzed/crux-jackson@1.0.33?classifier=sources
 - pkg:maven/com.fizzed/crux-jackson@1.0.7
 - pkg:maven/com.fizzed/crux-jackson@1.0.7?classifier=sources
 - pkg:maven/com.fizzed/crux-jackson@1.0.8

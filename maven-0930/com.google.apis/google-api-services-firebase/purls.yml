@@ -96,6 +96,14 @@
 - pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200727-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200803-1.30.10
 - pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200803-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200819-1.30.10
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200819-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200822-1.30.10
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200822-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200911-1.30.10
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20200911-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20201027-1.30.10
+- pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev20201027-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev63-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev63-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-firebase@v1beta1-rev63-1.25.0

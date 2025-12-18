@@ -13,6 +13,12 @@
 - pkg:maven/io.fabric8/maven-model-helper@14
 - pkg:maven/io.fabric8/maven-model-helper@14?classifier=source-release&type=zip
 - pkg:maven/io.fabric8/maven-model-helper@14?classifier=sources
+- pkg:maven/io.fabric8/maven-model-helper@15
+- pkg:maven/io.fabric8/maven-model-helper@15?classifier=source-release&type=zip
+- pkg:maven/io.fabric8/maven-model-helper@15?classifier=sources
+- pkg:maven/io.fabric8/maven-model-helper@16
+- pkg:maven/io.fabric8/maven-model-helper@16?classifier=source-release&type=zip
+- pkg:maven/io.fabric8/maven-model-helper@16?classifier=sources
 - pkg:maven/io.fabric8/maven-model-helper@5
 - pkg:maven/io.fabric8/maven-model-helper@5?classifier=source-release&type=zip
 - pkg:maven/io.fabric8/maven-model-helper@5?classifier=sources

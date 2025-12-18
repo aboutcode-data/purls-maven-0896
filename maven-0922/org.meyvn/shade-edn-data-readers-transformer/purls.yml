@@ -1,0 +1,2 @@
+- pkg:maven/org.meyvn/shade-edn-data-readers-transformer@1.0.0
+- pkg:maven/org.meyvn/shade-edn-data-readers-transformer@1.0.0?classifier=sources

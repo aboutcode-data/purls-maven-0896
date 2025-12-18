@@ -45,8 +45,16 @@
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.27?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.28
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.28?classifier=sources
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.29
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.29?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.2?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.3
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.30
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.30?classifier=sources
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.31
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.31?classifier=sources
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.33
+- pkg:maven/com.linkedin.tony/tony-mini@0.3.33?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.3?classifier=sources
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.4
 - pkg:maven/com.linkedin.tony/tony-mini@0.3.4?classifier=sources

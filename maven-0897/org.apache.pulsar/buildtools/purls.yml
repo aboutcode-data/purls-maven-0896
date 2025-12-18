@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.pulsar/buildtools@2.5.2?classifier=sources
 - pkg:maven/org.apache.pulsar/buildtools@2.6.0
 - pkg:maven/org.apache.pulsar/buildtools@2.6.0?classifier=sources
+- pkg:maven/org.apache.pulsar/buildtools@2.6.1
+- pkg:maven/org.apache.pulsar/buildtools@2.6.1?classifier=sources

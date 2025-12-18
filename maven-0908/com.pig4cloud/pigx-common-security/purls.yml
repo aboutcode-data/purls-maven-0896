@@ -1,0 +1,6 @@
+- pkg:maven/com.pig4cloud/pigx-common-security@3.10.0
+- pkg:maven/com.pig4cloud/pigx-common-security@3.10.0?classifier=sources
+- pkg:maven/com.pig4cloud/pigx-common-security@3.8.0
+- pkg:maven/com.pig4cloud/pigx-common-security@3.8.0?classifier=sources
+- pkg:maven/com.pig4cloud/pigx-common-security@3.9.0
+- pkg:maven/com.pig4cloud/pigx-common-security@3.9.0?classifier=sources

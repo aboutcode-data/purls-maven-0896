@@ -14,3 +14,7 @@
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.2?type=war
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.3?classifier=sources
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.3?type=war
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.4?classifier=sources
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.4?type=war
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.5?classifier=sources
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.5?type=war

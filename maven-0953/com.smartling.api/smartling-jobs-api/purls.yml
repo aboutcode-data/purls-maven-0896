@@ -14,6 +14,14 @@
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.13.2?classifier=sources
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.13.4
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.13.4?classifier=sources
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.14.0
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.14.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.14.2
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.14.2?classifier=sources
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.15.0
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.15.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.15.2
+- pkg:maven/com.smartling.api/smartling-jobs-api@0.15.2?classifier=sources
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.4.0
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.4.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.4.6

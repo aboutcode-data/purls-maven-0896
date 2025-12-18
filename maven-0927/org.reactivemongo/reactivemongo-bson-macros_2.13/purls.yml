@@ -59,6 +59,10 @@
 - pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.12-noshaded-fix1?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.12-noshaded?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.12?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.13
+- pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.13-noshaded
+- pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.13-noshaded?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.13?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.1?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.2
 - pkg:maven/org.reactivemongo/reactivemongo-bson-macros_2.13@0.20.2-noshaded

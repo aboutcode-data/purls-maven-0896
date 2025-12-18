@@ -6,3 +6,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE120-1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE120?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE121?classifier=sources

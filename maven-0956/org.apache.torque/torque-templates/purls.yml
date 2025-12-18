@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.torque/torque-templates@4.0-beta1?type=zip
 - pkg:maven/org.apache.torque/torque-templates@4.0?classifier=sources
 - pkg:maven/org.apache.torque/torque-templates@4.0?type=zip
+- pkg:maven/org.apache.torque/torque-templates@5.0?classifier=sources
+- pkg:maven/org.apache.torque/torque-templates@5.0?type=zip

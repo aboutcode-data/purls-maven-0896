@@ -16,3 +16,5 @@
 - pkg:maven/com.github.japgolly.scalajs-react/ext-monocle-cats_sjs0.6_2.13@1.7.3?classifier=sources
 - pkg:maven/com.github.japgolly.scalajs-react/ext-monocle-cats_sjs0.6_2.13@1.7.4
 - pkg:maven/com.github.japgolly.scalajs-react/ext-monocle-cats_sjs0.6_2.13@1.7.4?classifier=sources
+- pkg:maven/com.github.japgolly.scalajs-react/ext-monocle-cats_sjs0.6_2.13@1.7.5
+- pkg:maven/com.github.japgolly.scalajs-react/ext-monocle-cats_sjs0.6_2.13@1.7.5?classifier=sources

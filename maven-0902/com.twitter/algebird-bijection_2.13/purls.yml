@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/algebird-bijection_2.13@0.13.7
 - pkg:maven/com.twitter/algebird-bijection_2.13@0.13.7?classifier=sources
+- pkg:maven/com.twitter/algebird-bijection_2.13@0.13.8-M1
+- pkg:maven/com.twitter/algebird-bijection_2.13@0.13.8-M1?classifier=sources

@@ -35,4 +35,6 @@
 - pkg:maven/commons-io/commons-io@2.6?classifier=sources
 - pkg:maven/commons-io/commons-io@2.7
 - pkg:maven/commons-io/commons-io@2.7?classifier=sources
+- pkg:maven/commons-io/commons-io@2.8.0
+- pkg:maven/commons-io/commons-io@2.8.0?classifier=sources
 - pkg:maven/commons-io/commons-io@20030203.000550

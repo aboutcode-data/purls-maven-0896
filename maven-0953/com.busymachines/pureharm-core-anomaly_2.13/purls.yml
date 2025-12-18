@@ -36,3 +36,5 @@
 - pkg:maven/com.busymachines/pureharm-core-anomaly_2.13@0.0.6-M6?classifier=sources
 - pkg:maven/com.busymachines/pureharm-core-anomaly_2.13@0.0.6-M7
 - pkg:maven/com.busymachines/pureharm-core-anomaly_2.13@0.0.6-M7?classifier=sources
+- pkg:maven/com.busymachines/pureharm-core-anomaly_2.13@0.0.6-RC1
+- pkg:maven/com.busymachines/pureharm-core-anomaly_2.13@0.0.6-RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tekingb.testapp/tekingb-testapp@0.1.0-Alpha
+- pkg:maven/com.tekingb.testapp/tekingb-testapp@0.1.0-Alpha?classifier=sources

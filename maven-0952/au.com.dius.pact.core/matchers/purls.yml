@@ -6,3 +6,6 @@
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.5?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.6?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.7?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.1.8?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.1.9?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.2.0-beta.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.inugami.maven.plugin.analysis/inugami-project-analysis-maven-plugin-api@1.0.0
+- pkg:maven/io.inugami.maven.plugin.analysis/inugami-project-analysis-maven-plugin-api@1.0.0?classifier=sources
+- pkg:maven/io.inugami.maven.plugin.analysis/inugami-project-analysis-maven-plugin-api@1.0.1
+- pkg:maven/io.inugami.maven.plugin.analysis/inugami-project-analysis-maven-plugin-api@1.0.1?classifier=sources

@@ -43,6 +43,10 @@
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.40.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.41.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.41.0.t20200723
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.42.0.Final
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.43.0.Final
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.43.1.Final
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.44.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.5.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.6.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-test-suite@7.6.0.t022

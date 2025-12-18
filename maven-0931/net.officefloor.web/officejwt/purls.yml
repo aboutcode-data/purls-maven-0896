@@ -38,6 +38,10 @@
 - pkg:maven/net.officefloor.web/officejwt@3.25.0?classifier=sources
 - pkg:maven/net.officefloor.web/officejwt@3.26.0
 - pkg:maven/net.officefloor.web/officejwt@3.26.0?classifier=sources
+- pkg:maven/net.officefloor.web/officejwt@3.27.0
+- pkg:maven/net.officefloor.web/officejwt@3.27.0?classifier=sources
+- pkg:maven/net.officefloor.web/officejwt@3.28.0
+- pkg:maven/net.officefloor.web/officejwt@3.28.0?classifier=sources
 - pkg:maven/net.officefloor.web/officejwt@3.6.0
 - pkg:maven/net.officefloor.web/officejwt@3.6.0?classifier=sources
 - pkg:maven/net.officefloor.web/officejwt@3.6.1

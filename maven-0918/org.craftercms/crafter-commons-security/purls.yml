@@ -123,6 +123,10 @@
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.0
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.0?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.1
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.10
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.10?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.10E
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.10E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.1?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.2
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.2?classifier=sources
@@ -148,6 +152,10 @@
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.8?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.8E
 - pkg:maven/org.craftercms/crafter-commons-security@3.1.8E?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.9
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.9?classifier=sources
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.9E
+- pkg:maven/org.craftercms/crafter-commons-security@3.1.9E?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-security@v2.4.1-RC2
 - pkg:maven/org.craftercms/crafter-commons-security@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-commons-security@v2.4.1-RC3

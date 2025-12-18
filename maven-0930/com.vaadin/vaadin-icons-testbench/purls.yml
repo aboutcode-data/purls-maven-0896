@@ -12,3 +12,5 @@
 - pkg:maven/com.vaadin/vaadin-icons-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-testbench@3.1.0
 - pkg:maven/com.vaadin/vaadin-icons-testbench@3.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@4.0.0
+- pkg:maven/com.vaadin/vaadin-icons-testbench@4.0.0?classifier=sources

@@ -6,3 +6,8 @@
 - pkg:maven/com.urbanairship.android/urbanairship-automation@13.3.0?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-automation@13.3.1?type=aar
 - pkg:maven/com.urbanairship.android/urbanairship-automation@13.3.2?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-automation@13.3.3?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-automation@13.3.4?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-automation@13.3.5?type=aar
+- pkg:maven/com.urbanairship.android/urbanairship-automation@14.0.2?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-automation@14.0.2?type=aar

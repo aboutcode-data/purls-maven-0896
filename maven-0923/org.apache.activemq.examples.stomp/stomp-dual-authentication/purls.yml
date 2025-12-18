@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.13.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.14.0
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.14.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.15.0
+- pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.15.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.5.0
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.5.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.stomp/stomp-dual-authentication@2.6.0

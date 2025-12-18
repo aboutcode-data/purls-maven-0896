@@ -1,0 +1,4 @@
+- pkg:maven/io.github.ing-vesper/vesper-safelogging_sjs1_2.12@0.0.2
+- pkg:maven/io.github.ing-vesper/vesper-safelogging_sjs1_2.12@0.0.2?classifier=sources
+- pkg:maven/io.github.ing-vesper/vesper-safelogging_sjs1_2.12@0.0.3
+- pkg:maven/io.github.ing-vesper/vesper-safelogging_sjs1_2.12@0.0.3?classifier=sources

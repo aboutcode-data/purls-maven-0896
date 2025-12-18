@@ -44,6 +44,10 @@
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.12.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.13.0.Final
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.13.0.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.13.1.Final
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.13.1.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.13.2.Final
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.13.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.5.0.CR1
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.5.0.CR1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@3.5.0.CR2
@@ -154,3 +158,7 @@
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.5.5.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.5.6.Final
 - pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.5.6.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.5.7.Final
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.5.7.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.5.8.Final
+- pkg:maven/org.jboss.resteasy/resteasy-wadl-undertow-connector@4.5.8.Final?classifier=sources

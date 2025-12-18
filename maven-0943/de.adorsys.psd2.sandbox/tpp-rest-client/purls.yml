@@ -65,4 +65,6 @@
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-rest-client@4.3.1?classifier=sources
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-rest-client@4.3?classifier=sources
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-rest-client@4.4
+- pkg:maven/de.adorsys.psd2.sandbox/tpp-rest-client@4.4.1
+- pkg:maven/de.adorsys.psd2.sandbox/tpp-rest-client@4.4.1?classifier=sources
 - pkg:maven/de.adorsys.psd2.sandbox/tpp-rest-client@4.4?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/de.sciss/audiowidgets-swing_2.13@1.14.3?classifier=sources
 - pkg:maven/de.sciss/audiowidgets-swing_2.13@1.14.4
 - pkg:maven/de.sciss/audiowidgets-swing_2.13@1.14.4?classifier=sources
+- pkg:maven/de.sciss/audiowidgets-swing_2.13@2.0.0
+- pkg:maven/de.sciss/audiowidgets-swing_2.13@2.0.0?classifier=sources

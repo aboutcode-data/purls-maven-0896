@@ -46,3 +46,5 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons@3.6?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons@3.7
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons@3.7?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons@3.8
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-commons@3.8?classifier=sources

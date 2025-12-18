@@ -1,0 +1,4 @@
+- pkg:maven/com.twitter/finagle-scribe_2.11@20.10.0
+- pkg:maven/com.twitter/finagle-scribe_2.11@20.10.0?classifier=sources
+- pkg:maven/com.twitter/finagle-scribe_2.11@20.9.0
+- pkg:maven/com.twitter/finagle-scribe_2.11@20.9.0?classifier=sources

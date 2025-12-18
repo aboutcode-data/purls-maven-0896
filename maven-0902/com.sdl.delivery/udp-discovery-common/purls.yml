@@ -14,3 +14,5 @@
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.0.0-1079?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.1.0-1063
 - pkg:maven/com.sdl.delivery/udp-discovery-common@11.1.0-1063?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-discovery-common@11.5.0-1086
+- pkg:maven/com.sdl.delivery/udp-discovery-common@11.5.0-1086?classifier=sources

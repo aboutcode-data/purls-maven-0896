@@ -4,3 +4,5 @@
 - pkg:maven/com.gitee.zhibi/fast-mybatis@2.1.0?classifier=sources
 - pkg:maven/com.gitee.zhibi/fast-mybatis@2.3
 - pkg:maven/com.gitee.zhibi/fast-mybatis@2.3?classifier=sources
+- pkg:maven/com.gitee.zhibi/fast-mybatis@2.5
+- pkg:maven/com.gitee.zhibi/fast-mybatis@2.5?classifier=sources

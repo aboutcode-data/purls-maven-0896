@@ -7,6 +7,14 @@
 - pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.13?classifier=sources
 - pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.15
 - pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.15?classifier=sources
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.16
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.16?classifier=sources
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.17
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.17?classifier=sources
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.18
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.18?classifier=sources
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.19
+- pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.19?classifier=sources
 - pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.4
 - pkg:maven/io.smallrye/smallrye-context-propagation-propagators-rxjava1@1.0.4?classifier=sources

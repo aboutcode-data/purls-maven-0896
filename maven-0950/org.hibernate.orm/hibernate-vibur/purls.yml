@@ -8,3 +8,5 @@
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.0.0.Alpha4?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.0.0.Alpha5
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.0.0.Alpha5?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.0.0.Alpha6
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.0.0.Alpha6?classifier=sources
