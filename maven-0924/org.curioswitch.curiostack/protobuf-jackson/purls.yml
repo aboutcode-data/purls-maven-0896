@@ -14,3 +14,5 @@
 - pkg:maven/org.curioswitch.curiostack/protobuf-jackson@0.4.0?classifier=sources
 - pkg:maven/org.curioswitch.curiostack/protobuf-jackson@1.0.0
 - pkg:maven/org.curioswitch.curiostack/protobuf-jackson@1.0.0?classifier=sources
+- pkg:maven/org.curioswitch.curiostack/protobuf-jackson@1.1.0
+- pkg:maven/org.curioswitch.curiostack/protobuf-jackson@1.1.0?classifier=sources

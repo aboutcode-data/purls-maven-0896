@@ -1,2 +1,4 @@
 - pkg:maven/org.nlp4j/nlp4j-core@1.2.0.0
 - pkg:maven/org.nlp4j/nlp4j-core@1.2.0.0?classifier=sources
+- pkg:maven/org.nlp4j/nlp4j-core@1.3.0.0
+- pkg:maven/org.nlp4j/nlp4j-core@1.3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.acidmanic/commandline-base@1.0.1
+- pkg:maven/com.acidmanic/commandline-base@1.0.1?classifier=sources

@@ -1,3 +1,15 @@
+- pkg:maven/de.retest/recheck-testng-extension@1.10.0
+- pkg:maven/de.retest/recheck-testng-extension@1.10.0-beta.1
+- pkg:maven/de.retest/recheck-testng-extension@1.10.0-beta.1?classifier=sources
+- pkg:maven/de.retest/recheck-testng-extension@1.10.0?classifier=sources
+- pkg:maven/de.retest/recheck-testng-extension@1.10.1
+- pkg:maven/de.retest/recheck-testng-extension@1.10.1?classifier=sources
+- pkg:maven/de.retest/recheck-testng-extension@1.10.2
+- pkg:maven/de.retest/recheck-testng-extension@1.10.2?classifier=sources
+- pkg:maven/de.retest/recheck-testng-extension@1.11.0
+- pkg:maven/de.retest/recheck-testng-extension@1.11.0-beta.1
+- pkg:maven/de.retest/recheck-testng-extension@1.11.0-beta.1?classifier=sources
+- pkg:maven/de.retest/recheck-testng-extension@1.11.0?classifier=sources
 - pkg:maven/de.retest/recheck-testng-extension@1.7.0
 - pkg:maven/de.retest/recheck-testng-extension@1.7.0-beta.1
 - pkg:maven/de.retest/recheck-testng-extension@1.7.0-beta.1?classifier=sources

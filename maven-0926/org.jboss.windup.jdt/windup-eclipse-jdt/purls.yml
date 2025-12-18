@@ -66,3 +66,5 @@
 - pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.3.1.Alpha1?classifier=sources
 - pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.3.1.Beta1
 - pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.3.1.Beta1?classifier=sources
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.3.1.Final
+- pkg:maven/org.jboss.windup.jdt/windup-eclipse-jdt@4.3.1.Final?classifier=sources

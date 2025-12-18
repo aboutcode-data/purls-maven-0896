@@ -1,3 +1,7 @@
+- pkg:maven/es.bsc.dataclay/dataclay@1.4
+- pkg:maven/es.bsc.dataclay/dataclay@1.4?classifier=sources
+- pkg:maven/es.bsc.dataclay/dataclay@1.8
+- pkg:maven/es.bsc.dataclay/dataclay@1.8?classifier=sources
 - pkg:maven/es.bsc.dataclay/dataclay@2.0
 - pkg:maven/es.bsc.dataclay/dataclay@2.0?classifier=sources
 - pkg:maven/es.bsc.dataclay/dataclay@2.1

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.xmlgraphics/fop-core@2.4
 - pkg:maven/org.apache.xmlgraphics/fop-core@2.4?classifier=sources
+- pkg:maven/org.apache.xmlgraphics/fop-core@2.5
+- pkg:maven/org.apache.xmlgraphics/fop-core@2.5?classifier=sources

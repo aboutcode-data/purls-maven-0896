@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.bowergithub.webrtc/adapter@6.0.3?classifier=sources
 - pkg:maven/org.webjars.bowergithub.webrtc/adapter@6.4.0
 - pkg:maven/org.webjars.bowergithub.webrtc/adapter@6.4.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.webrtc/adapter@6.4.8
+- pkg:maven/org.webjars.bowergithub.webrtc/adapter@6.4.8?classifier=sources
 - pkg:maven/org.webjars.bowergithub.webrtc/adapter@7.2.8
 - pkg:maven/org.webjars.bowergithub.webrtc/adapter@7.2.8?classifier=sources

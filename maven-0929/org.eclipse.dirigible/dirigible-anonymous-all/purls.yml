@@ -22,3 +22,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.1.0?type=war
 - pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.2.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.3.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.4.0?type=war
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@4.5.0?type=war

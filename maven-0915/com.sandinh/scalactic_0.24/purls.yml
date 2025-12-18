@@ -1,0 +1,8 @@
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200324-6cd3a9d-NIGHTLY
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200324-6cd3a9d-NIGHTLY?classifier=sources
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200406-eff5496-NIGHTLY
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200406-eff5496-NIGHTLY?classifier=sources
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200407-2352d90-NIGHTLY
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200407-2352d90-NIGHTLY?classifier=sources
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200408-4cc224b-NIGHTLY
+- pkg:maven/com.sandinh/scalactic_0.24@3.1.1-dotty-20200408-4cc224b-NIGHTLY?classifier=sources

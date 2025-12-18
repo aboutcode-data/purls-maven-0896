@@ -99,4 +99,10 @@
 - pkg:maven/org.axonframework/axon-spring@4.2.2?classifier=sources
 - pkg:maven/org.axonframework/axon-spring@4.2?classifier=sources
 - pkg:maven/org.axonframework/axon-spring@4.3
+- pkg:maven/org.axonframework/axon-spring@4.3.1
+- pkg:maven/org.axonframework/axon-spring@4.3.1?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@4.3.2
+- pkg:maven/org.axonframework/axon-spring@4.3.2?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@4.3.3
+- pkg:maven/org.axonframework/axon-spring@4.3.3?classifier=sources
 - pkg:maven/org.axonframework/axon-spring@4.3?classifier=sources

@@ -42,3 +42,7 @@
 - pkg:maven/org.patterntesting/patterntesting-concurrent@1.8.0?classifier=sources
 - pkg:maven/org.patterntesting/patterntesting-concurrent@2.0.0
 - pkg:maven/org.patterntesting/patterntesting-concurrent@2.0.0?classifier=sources
+- pkg:maven/org.patterntesting/patterntesting-concurrent@2.0.1
+- pkg:maven/org.patterntesting/patterntesting-concurrent@2.0.1?classifier=sources
+- pkg:maven/org.patterntesting/patterntesting-concurrent@2.0.2
+- pkg:maven/org.patterntesting/patterntesting-concurrent@2.0.2?classifier=sources

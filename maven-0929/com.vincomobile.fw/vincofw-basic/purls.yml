@@ -1,0 +1,6 @@
+- pkg:maven/com.vincomobile.fw/vincofw-basic@5.0.0-RELEASE
+- pkg:maven/com.vincomobile.fw/vincofw-basic@5.0.0-RELEASE?classifier=sources
+- pkg:maven/com.vincomobile.fw/vincofw-basic@5.0.2-RELEASE
+- pkg:maven/com.vincomobile.fw/vincofw-basic@5.0.2-RELEASE?classifier=sources
+- pkg:maven/com.vincomobile.fw/vincofw-basic@5.0.3-RELEASE
+- pkg:maven/com.vincomobile.fw/vincofw-basic@5.0.3-RELEASE?classifier=sources

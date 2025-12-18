@@ -13,6 +13,10 @@
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.1.3-Lithium-SR3?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.1.4-Lithium-SR4
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.1.4-Lithium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/utils.config@1.10.0
+- pkg:maven/org.opendaylight.ovsdb/utils.config@1.10.0?classifier=sources
+- pkg:maven/org.opendaylight.ovsdb/utils.config@1.10.1
+- pkg:maven/org.opendaylight.ovsdb/utils.config@1.10.1?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.2.1-Beryllium
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.2.1-Beryllium?classifier=sources
 - pkg:maven/org.opendaylight.ovsdb/utils.config@1.2.2-Beryllium-SR1

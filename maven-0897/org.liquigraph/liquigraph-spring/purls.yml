@@ -4,3 +4,11 @@
 - pkg:maven/org.liquigraph/liquigraph-spring@3.0.3?classifier=sources
 - pkg:maven/org.liquigraph/liquigraph-spring@3.1.0
 - pkg:maven/org.liquigraph/liquigraph-spring@3.1.0?classifier=sources
+- pkg:maven/org.liquigraph/liquigraph-spring@3.1.1
+- pkg:maven/org.liquigraph/liquigraph-spring@3.1.1?classifier=sources
+- pkg:maven/org.liquigraph/liquigraph-spring@3.1.2
+- pkg:maven/org.liquigraph/liquigraph-spring@3.1.2?classifier=sources
+- pkg:maven/org.liquigraph/liquigraph-spring@4.0.0
+- pkg:maven/org.liquigraph/liquigraph-spring@4.0.0?classifier=sources
+- pkg:maven/org.liquigraph/liquigraph-spring@4.0.1
+- pkg:maven/org.liquigraph/liquigraph-spring@4.0.1?classifier=sources

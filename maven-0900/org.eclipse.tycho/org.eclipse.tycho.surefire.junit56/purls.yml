@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit56@1.7.0
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit56@1.7.0?classifier=sources

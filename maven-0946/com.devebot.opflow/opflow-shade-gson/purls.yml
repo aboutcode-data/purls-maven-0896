@@ -1,0 +1,4 @@
+- pkg:maven/com.devebot.opflow/opflow-shade-gson@2.8.6
+- pkg:maven/com.devebot.opflow/opflow-shade-gson@2.8.6-final
+- pkg:maven/com.devebot.opflow/opflow-shade-gson@2.8.6-final?classifier=sources
+- pkg:maven/com.devebot.opflow/opflow-shade-gson@2.8.6?classifier=sources

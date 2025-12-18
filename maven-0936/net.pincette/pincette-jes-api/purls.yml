@@ -14,3 +14,5 @@
 - pkg:maven/net.pincette/pincette-jes-api@1.0.7
 - pkg:maven/net.pincette/pincette-jes-api@1.0.7?classifier=sources
 - pkg:maven/net.pincette/pincette-jes-api@1.0?classifier=sources
+- pkg:maven/net.pincette/pincette-jes-api@1.1
+- pkg:maven/net.pincette/pincette-jes-api@1.1?classifier=sources

@@ -6,9 +6,15 @@
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.0.0.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.0.1.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.0.2.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.0.2.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.1.0.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.1.0.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.1.1.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.1.1.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.1.2.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.1.2.RELEASE?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.2.0.RELEASE
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.2.0.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.2.1.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2.2.1.RELEASE?classifier=sources

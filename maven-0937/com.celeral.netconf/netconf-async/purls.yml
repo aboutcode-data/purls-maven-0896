@@ -1,0 +1,4 @@
+- pkg:maven/com.celeral.netconf/netconf-async@1.0.0
+- pkg:maven/com.celeral.netconf/netconf-async@1.0.0?classifier=sources
+- pkg:maven/com.celeral.netconf/netconf-async@1.0.1
+- pkg:maven/com.celeral.netconf/netconf-async@1.0.1?classifier=sources

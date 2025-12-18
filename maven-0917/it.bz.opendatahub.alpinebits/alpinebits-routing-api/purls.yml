@@ -2,3 +2,9 @@
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@0.8.0?classifier=sources
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@0.9.0
 - pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@0.9.0?classifier=sources
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@1.0.0
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@1.0.0?classifier=sources
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@1.0.1
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@1.0.1?classifier=sources
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@1.0.2
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-routing-api@1.0.2?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-foas@2.3.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-foas@2.3.4
 - pkg:maven/com.aliyun/aliyun-java-sdk-foas@2.3.4?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-foas@2.6.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-foas@2.6.0?classifier=sources

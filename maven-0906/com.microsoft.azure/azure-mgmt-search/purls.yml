@@ -63,6 +63,16 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-search@1.30.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-search@1.31.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-search@1.31.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.31.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.31.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.32.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.32.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.32.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.32.1?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.33.0
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.33.0?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.33.1
+- pkg:maven/com.microsoft.azure/azure-mgmt-search@1.33.1?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-search@1.4.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-search@1.4.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-search@1.5.0

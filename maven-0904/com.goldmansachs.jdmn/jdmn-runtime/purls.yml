@@ -1,0 +1,8 @@
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.6.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.6.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.7.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.7.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.8.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.8.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.8.1
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@3.8.1?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.7.5?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.8.0
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.8.0?classifier=sources
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.9.0
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.9.0?classifier=sources

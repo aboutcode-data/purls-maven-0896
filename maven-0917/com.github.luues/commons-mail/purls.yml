@@ -4,5 +4,13 @@
 - pkg:maven/com.github.luues/commons-mail@1.0.1.RELEASE?classifier=sources
 - pkg:maven/com.github.luues/commons-mail@1.0.2.RELEASE
 - pkg:maven/com.github.luues/commons-mail@1.0.2.RELEASE?classifier=sources
+- pkg:maven/com.github.luues/commons-mail@1.0.5.RELEASE
+- pkg:maven/com.github.luues/commons-mail@1.0.5.RELEASE?classifier=sources
+- pkg:maven/com.github.luues/commons-mail@1.0.6.RELEASE
+- pkg:maven/com.github.luues/commons-mail@1.0.6.RELEASE?classifier=sources
 - pkg:maven/com.github.luues/commons-mail@1.1.0.RELEASE
 - pkg:maven/com.github.luues/commons-mail@1.1.0.RELEASE?classifier=sources
+- pkg:maven/com.github.luues/commons-mail@1.2.0.RELEASE
+- pkg:maven/com.github.luues/commons-mail@1.2.0.RELEASE?classifier=sources
+- pkg:maven/com.github.luues/commons-mail@1.2.1.RELEASE
+- pkg:maven/com.github.luues/commons-mail@1.2.1.RELEASE?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/pro.javatar.security/secret-storage-redis-impl@0.0.26
+- pkg:maven/pro.javatar.security/secret-storage-redis-impl@0.0.26?classifier=sources
+- pkg:maven/pro.javatar.security/secret-storage-redis-impl@0.0.28
+- pkg:maven/pro.javatar.security/secret-storage-redis-impl@0.0.28?classifier=sources

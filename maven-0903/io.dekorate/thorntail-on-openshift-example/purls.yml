@@ -1,0 +1,4 @@
+- pkg:maven/io.dekorate/thorntail-on-openshift-example@0.11.9?classifier=sources
+- pkg:maven/io.dekorate/thorntail-on-openshift-example@0.11.9?type=war
+- pkg:maven/io.dekorate/thorntail-on-openshift-example@1.0.0?classifier=sources
+- pkg:maven/io.dekorate/thorntail-on-openshift-example@1.0.0?type=war

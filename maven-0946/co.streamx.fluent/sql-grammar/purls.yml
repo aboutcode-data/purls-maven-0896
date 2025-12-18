@@ -6,6 +6,8 @@
 - pkg:maven/co.streamx.fluent/sql-grammar@1.0.12?classifier=sources
 - pkg:maven/co.streamx.fluent/sql-grammar@1.0.14
 - pkg:maven/co.streamx.fluent/sql-grammar@1.0.14?classifier=sources
+- pkg:maven/co.streamx.fluent/sql-grammar@1.0.15
+- pkg:maven/co.streamx.fluent/sql-grammar@1.0.15?classifier=sources
 - pkg:maven/co.streamx.fluent/sql-grammar@1.0.2
 - pkg:maven/co.streamx.fluent/sql-grammar@1.0.2?classifier=sources
 - pkg:maven/co.streamx.fluent/sql-grammar@1.0.3

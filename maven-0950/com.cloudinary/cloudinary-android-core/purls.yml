@@ -1,0 +1,8 @@
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.27.0-beta.1?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.27.0-beta.1?type=aar
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.27.0-beta.2?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.27.0-beta.2?type=aar
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.27.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.27.0?type=aar
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.28.2?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-android-core@1.28.2?type=aar

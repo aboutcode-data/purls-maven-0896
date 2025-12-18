@@ -26,3 +26,7 @@
 - pkg:maven/io.smallrye/smallrye-metrics@2.3.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-metrics@2.4.0
 - pkg:maven/io.smallrye/smallrye-metrics@2.4.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-metrics@2.4.1
+- pkg:maven/io.smallrye/smallrye-metrics@2.4.1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-metrics@2.4.2
+- pkg:maven/io.smallrye/smallrye-metrics@2.4.2?classifier=sources

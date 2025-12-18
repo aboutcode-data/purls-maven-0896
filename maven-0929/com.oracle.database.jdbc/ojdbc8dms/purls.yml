@@ -1,0 +1,8 @@
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@12.2.0.1
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@12.2.0.1?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@18.3.0.0
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@18.3.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@19.3.0.0
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@19.3.0.0?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@19.6.0.0
+- pkg:maven/com.oracle.database.jdbc/ojdbc8dms@19.6.0.0?classifier=sources

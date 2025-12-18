@@ -1,0 +1,4 @@
+- pkg:maven/com.gu/spy_2.13@0.1.0
+- pkg:maven/com.gu/spy_2.13@0.1.0?classifier=sources
+- pkg:maven/com.gu/spy_2.13@0.1.1
+- pkg:maven/com.gu/spy_2.13@0.1.1?classifier=sources

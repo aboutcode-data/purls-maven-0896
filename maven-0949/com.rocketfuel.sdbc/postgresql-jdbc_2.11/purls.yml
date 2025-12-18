@@ -6,3 +6,5 @@
 - pkg:maven/com.rocketfuel.sdbc/postgresql-jdbc_2.11@2.0?classifier=sources
 - pkg:maven/com.rocketfuel.sdbc/postgresql-jdbc_2.11@3.0.0
 - pkg:maven/com.rocketfuel.sdbc/postgresql-jdbc_2.11@3.0.0?classifier=sources
+- pkg:maven/com.rocketfuel.sdbc/postgresql-jdbc_2.11@4.0.0
+- pkg:maven/com.rocketfuel.sdbc/postgresql-jdbc_2.11@4.0.0?classifier=sources

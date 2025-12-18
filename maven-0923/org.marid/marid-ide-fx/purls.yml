@@ -1,2 +1,4 @@
+- pkg:maven/org.marid/marid-ide-fx@0.9.8.10
+- pkg:maven/org.marid/marid-ide-fx@0.9.8.10?classifier=sources
 - pkg:maven/org.marid/marid-ide-fx@0.9.8.9
 - pkg:maven/org.marid/marid-ide-fx@0.9.8.9?classifier=sources

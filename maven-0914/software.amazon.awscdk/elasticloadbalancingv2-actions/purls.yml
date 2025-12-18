@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.40.0
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.40.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.41.0
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.41.0?classifier=sources

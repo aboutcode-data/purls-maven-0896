@@ -2,3 +2,13 @@
 - pkg:maven/za.co.absa.enceladus/dao@2.0.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.1.0
 - pkg:maven/za.co.absa.enceladus/dao@2.1.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.2.0
+- pkg:maven/za.co.absa.enceladus/dao@2.2.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.3.0
+- pkg:maven/za.co.absa.enceladus/dao@2.3.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.3.1
+- pkg:maven/za.co.absa.enceladus/dao@2.3.1?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.4.0
+- pkg:maven/za.co.absa.enceladus/dao@2.4.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.5.0
+- pkg:maven/za.co.absa.enceladus/dao@2.5.0?classifier=sources

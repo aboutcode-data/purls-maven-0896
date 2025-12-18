@@ -40,3 +40,11 @@
 - pkg:maven/com.datadoghq/jmxfetch@0.33.1?classifier=sources
 - pkg:maven/com.datadoghq/jmxfetch@0.34.0
 - pkg:maven/com.datadoghq/jmxfetch@0.34.0?classifier=sources
+- pkg:maven/com.datadoghq/jmxfetch@0.35.0
+- pkg:maven/com.datadoghq/jmxfetch@0.35.0?classifier=sources
+- pkg:maven/com.datadoghq/jmxfetch@0.36.0
+- pkg:maven/com.datadoghq/jmxfetch@0.36.0?classifier=sources
+- pkg:maven/com.datadoghq/jmxfetch@0.36.1
+- pkg:maven/com.datadoghq/jmxfetch@0.36.1?classifier=sources
+- pkg:maven/com.datadoghq/jmxfetch@0.36.2
+- pkg:maven/com.datadoghq/jmxfetch@0.36.2?classifier=sources

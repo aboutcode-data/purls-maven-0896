@@ -1,2 +1,8 @@
 - pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.0
 - pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.0?classifier=sources
+- pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.3
+- pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.3?classifier=sources
+- pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.4
+- pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.4?classifier=sources
+- pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.6
+- pkg:maven/net.csdn/serviceframework-mongo_2.12@2.0.6?classifier=sources

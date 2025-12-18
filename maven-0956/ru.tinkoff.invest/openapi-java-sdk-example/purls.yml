@@ -1,0 +1,4 @@
+- pkg:maven/ru.tinkoff.invest/openapi-java-sdk-example@0.4
+- pkg:maven/ru.tinkoff.invest/openapi-java-sdk-example@0.4.1
+- pkg:maven/ru.tinkoff.invest/openapi-java-sdk-example@0.4.1?classifier=sources
+- pkg:maven/ru.tinkoff.invest/openapi-java-sdk-example@0.4?classifier=sources

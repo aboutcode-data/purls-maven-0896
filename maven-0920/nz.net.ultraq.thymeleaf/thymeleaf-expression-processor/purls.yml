@@ -8,3 +8,6 @@
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@1.1.2?classifier=sources
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@1.1.3
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@1.1.3?classifier=sources
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@1.2.0
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@1.2.0?classifier=sources
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@2.0.0?classifier=sources

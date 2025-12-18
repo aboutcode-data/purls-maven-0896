@@ -21,6 +21,12 @@
 - pkg:maven/org.web3j/hosted-providers@4.5.14?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.5.15
 - pkg:maven/org.web3j/hosted-providers@4.5.15?classifier=sources
+- pkg:maven/org.web3j/hosted-providers@4.5.16
+- pkg:maven/org.web3j/hosted-providers@4.5.16?classifier=sources
+- pkg:maven/org.web3j/hosted-providers@4.5.17
+- pkg:maven/org.web3j/hosted-providers@4.5.17?classifier=sources
+- pkg:maven/org.web3j/hosted-providers@4.5.18
+- pkg:maven/org.web3j/hosted-providers@4.5.18?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.5.1?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.5.2
 - pkg:maven/org.web3j/hosted-providers@4.5.2?classifier=sources
@@ -38,3 +44,5 @@
 - pkg:maven/org.web3j/hosted-providers@4.5.8?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.5.9
 - pkg:maven/org.web3j/hosted-providers@4.5.9?classifier=sources
+- pkg:maven/org.web3j/hosted-providers@5.0.0
+- pkg:maven/org.web3j/hosted-providers@5.0.0?classifier=sources

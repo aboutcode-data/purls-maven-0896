@@ -30,3 +30,5 @@
 - pkg:maven/org.wso2.msf4j/msf4j-swagger@2.6.4?classifier=sources
 - pkg:maven/org.wso2.msf4j/msf4j-swagger@2.7.0
 - pkg:maven/org.wso2.msf4j/msf4j-swagger@2.7.0?classifier=sources
+- pkg:maven/org.wso2.msf4j/msf4j-swagger@2.7.7
+- pkg:maven/org.wso2.msf4j/msf4j-swagger@2.7.7?classifier=sources

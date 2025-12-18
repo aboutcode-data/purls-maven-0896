@@ -20,3 +20,9 @@
 - pkg:maven/com.aoindustries/aoserv-client@1.82.1?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-client@1.83.1
 - pkg:maven/com.aoindustries/aoserv-client@1.83.1?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.84.0
+- pkg:maven/com.aoindustries/aoserv-client@1.84.0?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.84.1
+- pkg:maven/com.aoindustries/aoserv-client@1.84.1?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.84.2
+- pkg:maven/com.aoindustries/aoserv-client@1.84.2?classifier=sources

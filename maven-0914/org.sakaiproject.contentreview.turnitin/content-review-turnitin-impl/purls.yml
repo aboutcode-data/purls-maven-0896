@@ -22,3 +22,7 @@
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@19.2?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@19.3
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@19.3?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@19.4
+- pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@19.4?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@20.0
+- pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@20.0?classifier=sources

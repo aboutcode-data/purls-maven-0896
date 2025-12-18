@@ -16,3 +16,7 @@
 - pkg:maven/com.mastfrog/jackson-jodatime@2.6.6?classifier=sources
 - pkg:maven/com.mastfrog/jackson-jodatime@2.6.7
 - pkg:maven/com.mastfrog/jackson-jodatime@2.6.7?classifier=sources
+- pkg:maven/com.mastfrog/jackson-jodatime@2.6.8
+- pkg:maven/com.mastfrog/jackson-jodatime@2.6.8?classifier=sources
+- pkg:maven/com.mastfrog/jackson-jodatime@2.6.9
+- pkg:maven/com.mastfrog/jackson-jodatime@2.6.9?classifier=sources

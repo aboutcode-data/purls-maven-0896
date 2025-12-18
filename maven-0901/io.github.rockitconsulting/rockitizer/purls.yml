@@ -10,3 +10,5 @@
 - pkg:maven/io.github.rockitconsulting/rockitizer@0.0.8-mq9.1?classifier=sources
 - pkg:maven/io.github.rockitconsulting/rockitizer@0.0.8-mq9?classifier=sources
 - pkg:maven/io.github.rockitconsulting/rockitizer@0.0.8?classifier=sources
+- pkg:maven/io.github.rockitconsulting/rockitizer@0.0.9
+- pkg:maven/io.github.rockitconsulting/rockitizer@0.0.9?classifier=sources

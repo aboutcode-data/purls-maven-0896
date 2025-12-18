@@ -1,2 +1,8 @@
+- pkg:maven/org.kie.kogito/kogito-drools@0.10.0
+- pkg:maven/org.kie.kogito/kogito-drools@0.10.1
 - pkg:maven/org.kie.kogito/kogito-drools@0.7.0
 - pkg:maven/org.kie.kogito/kogito-drools@0.7.1
+- pkg:maven/org.kie.kogito/kogito-drools@0.8.0
+- pkg:maven/org.kie.kogito/kogito-drools@0.8.1
+- pkg:maven/org.kie.kogito/kogito-drools@0.9.0
+- pkg:maven/org.kie.kogito/kogito-drools@0.9.1

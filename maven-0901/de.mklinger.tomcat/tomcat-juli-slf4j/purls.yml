@@ -1,5 +1,7 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.100
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.100?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.103
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.103?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.69
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.69?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@7.0.70
@@ -138,6 +140,12 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.50?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.51
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.51?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.53
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.53?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.54
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.54?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.55
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@8.5.55?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.1
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.10
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.10?classifier=sources
@@ -176,6 +184,12 @@
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.30?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.31
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.31?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.33
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.33?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.34
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.34?classifier=sources
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.35
+- pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.35?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.4
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.4?classifier=sources
 - pkg:maven/de.mklinger.tomcat/tomcat-juli-slf4j@9.0.5

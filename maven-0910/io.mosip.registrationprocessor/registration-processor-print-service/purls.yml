@@ -1,2 +1,4 @@
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-print-service@1.0.6
 - pkg:maven/io.mosip.registrationprocessor/registration-processor-print-service@1.0.6?classifier=sources
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-print-service@1.0.9
+- pkg:maven/io.mosip.registrationprocessor/registration-processor-print-service@1.0.9?classifier=sources

@@ -45,6 +45,11 @@
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.21.6?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.22.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.22.1?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-badge@5.22.2?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-badge@5.22.3?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-badge@5.22.4?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-badge@5.22.5?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-badge@5.22.6?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.4.0?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.4.1?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.4.2?type=aar
@@ -85,3 +90,4 @@
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.9.2?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.9.3?type=aar
 - pkg:maven/com.pushwoosh/pushwoosh-badge@5.9.4?type=aar
+- pkg:maven/com.pushwoosh/pushwoosh-badge@6.0.0?type=aar

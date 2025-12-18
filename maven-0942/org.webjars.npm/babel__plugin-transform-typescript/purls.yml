@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/babel__plugin-transform-typescript@7.9.4
+- pkg:maven/org.webjars.npm/babel__plugin-transform-typescript@7.9.4?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-transform-typescript@7.9.6
+- pkg:maven/org.webjars.npm/babel__plugin-transform-typescript@7.9.6?classifier=sources

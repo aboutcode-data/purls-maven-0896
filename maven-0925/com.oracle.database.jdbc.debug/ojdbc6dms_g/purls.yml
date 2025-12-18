@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc6dms_g@11.2.0.4
+- pkg:maven/com.oracle.database.jdbc.debug/ojdbc6dms_g@11.2.0.4?classifier=sources

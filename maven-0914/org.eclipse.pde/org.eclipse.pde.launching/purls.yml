@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.7.700?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.8.0
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.8.0?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.8.100
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.8.100?classifier=sources

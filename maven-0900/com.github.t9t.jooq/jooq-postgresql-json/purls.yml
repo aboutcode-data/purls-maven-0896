@@ -10,3 +10,7 @@
 - pkg:maven/com.github.t9t.jooq/jooq-postgresql-json@0.4.0?classifier=sources
 - pkg:maven/com.github.t9t.jooq/jooq-postgresql-json@1.0.0
 - pkg:maven/com.github.t9t.jooq/jooq-postgresql-json@1.0.0?classifier=sources
+- pkg:maven/com.github.t9t.jooq/jooq-postgresql-json@1.1.0
+- pkg:maven/com.github.t9t.jooq/jooq-postgresql-json@1.1.0?classifier=sources
+- pkg:maven/com.github.t9t.jooq/jooq-postgresql-json@1.1.1
+- pkg:maven/com.github.t9t.jooq/jooq-postgresql-json@1.1.1?classifier=sources

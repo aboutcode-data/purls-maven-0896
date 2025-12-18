@@ -1,3 +1,7 @@
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@10.0.14
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@10.0.2
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@10.0.2-alpha.1
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@10.0.3
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@10.0.6
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@10.0.7
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@10.0.8

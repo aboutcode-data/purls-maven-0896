@@ -2,3 +2,5 @@
 - pkg:maven/com.azavea.stac4s/core_2.12@0.0.2?classifier=sources
 - pkg:maven/com.azavea.stac4s/core_2.12@0.0.3
 - pkg:maven/com.azavea.stac4s/core_2.12@0.0.3?classifier=sources
+- pkg:maven/com.azavea.stac4s/core_2.12@0.0.7-bugfix2
+- pkg:maven/com.azavea.stac4s/core_2.12@0.0.7-bugfix2?classifier=sources

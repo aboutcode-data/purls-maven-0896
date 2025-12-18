@@ -1,0 +1,2 @@
+- pkg:maven/org.zkovari.mermaid/gradle-mermaid-plugin@0.0.1
+- pkg:maven/org.zkovari.mermaid/gradle-mermaid-plugin@0.0.1?classifier=sources

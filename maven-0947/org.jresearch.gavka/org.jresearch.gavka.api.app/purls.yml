@@ -84,3 +84,13 @@
 - pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.58?type=war
 - pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.59?classifier=sources
 - pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.59?type=war
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.60?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.60?type=war
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.61?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.61?type=war
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.62?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.62?type=war
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.63?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.63?type=war
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.64?classifier=sources
+- pkg:maven/org.jresearch.gavka/org.jresearch.gavka.api.app@1.0.64?type=war

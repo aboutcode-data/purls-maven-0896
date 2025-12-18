@@ -1,4 +1,6 @@
 - pkg:maven/com.citahub.cita/codegen@1.0.0
 - pkg:maven/com.citahub.cita/codegen@1.0.0?classifier=sources
+- pkg:maven/com.citahub.cita/codegen@1.2.0
+- pkg:maven/com.citahub.cita/codegen@1.2.0?classifier=sources
 - pkg:maven/com.citahub.cita/codegen@20.2.0
 - pkg:maven/com.citahub.cita/codegen@20.2.0?classifier=sources

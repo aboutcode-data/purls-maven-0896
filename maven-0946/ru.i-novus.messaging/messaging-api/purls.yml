@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.messaging/messaging-api@3.33
+- pkg:maven/ru.i-novus.messaging/messaging-api@3.33?classifier=sources

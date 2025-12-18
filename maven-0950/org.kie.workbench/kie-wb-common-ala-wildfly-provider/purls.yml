@@ -46,6 +46,16 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.32.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.33.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.33.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.34.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.34.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.35.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.35.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.36.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.36.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.36.1.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.36.1.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.37.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.37.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.5.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-ala-wildfly-provider@7.6.0.Final

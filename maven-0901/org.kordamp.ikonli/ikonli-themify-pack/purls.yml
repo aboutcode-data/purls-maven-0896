@@ -18,7 +18,15 @@
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@11.3.4?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@11.3.5
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@11.3.5?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@11.4.0
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@11.4.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@11.5.0
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@11.5.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.3.0
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.3.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.4.0
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.4.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.5.0
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.5.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.6.0
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.6.0?classifier=sources

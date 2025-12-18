@@ -22,6 +22,8 @@
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.14?classifier=sources
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.15
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.15?classifier=sources
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.16
+- pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.16?classifier=sources
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.2
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.2?classifier=sources
 - pkg:maven/com.oracle.bedrock/bedrock-runtime-vagrant@5.0.4

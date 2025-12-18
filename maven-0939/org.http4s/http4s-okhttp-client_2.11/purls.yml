@@ -26,6 +26,8 @@
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.18.24?classifier=sources
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.18.25
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.18.25?classifier=sources
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.18.26
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.18.26?classifier=sources
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.19.0
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.19.0-M1
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.19.0-M1?classifier=sources
@@ -77,6 +79,14 @@
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.19?classifier=sources
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.1?classifier=sources
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.2
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.20
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.20?classifier=sources
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.21
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.21?classifier=sources
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.22
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.22?classifier=sources
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.23
+- pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.23?classifier=sources
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.2?classifier=sources
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.3
 - pkg:maven/org.http4s/http4s-okhttp-client_2.11@0.20.3?classifier=sources

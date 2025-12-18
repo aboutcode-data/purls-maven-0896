@@ -39,6 +39,13 @@
 - pkg:maven/com.github.shepherdviolet/slate-common@14.8
 - pkg:maven/com.github.shepherdviolet/slate-common@14.8?classifier=sources
 - pkg:maven/com.github.shepherdviolet/slate-common@14.9?classifier=sources
+- pkg:maven/com.github.shepherdviolet/slate-common@20.0.0?classifier=sources
+- pkg:maven/com.github.shepherdviolet/slate-common@20.0.1?classifier=sources
+- pkg:maven/com.github.shepherdviolet/slate-common@20.1.0?classifier=sources
+- pkg:maven/com.github.shepherdviolet/slate-common@20.1.1
+- pkg:maven/com.github.shepherdviolet/slate-common@20.1.1?classifier=sources
+- pkg:maven/com.github.shepherdviolet/slate-common@20.1.2
+- pkg:maven/com.github.shepherdviolet/slate-common@20.1.2?classifier=sources
 - pkg:maven/com.github.shepherdviolet/slate-common@7.1
 - pkg:maven/com.github.shepherdviolet/slate-common@7.1?classifier=sources
 - pkg:maven/com.github.shepherdviolet/slate-common@7.2

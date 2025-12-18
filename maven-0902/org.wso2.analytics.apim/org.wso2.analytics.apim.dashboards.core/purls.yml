@@ -1,2 +1,4 @@
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.dashboards.core@3.1.0
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.dashboards.core@3.1.0-beta
 - pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.dashboards.core@3.1.0-beta?classifier=sources
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.dashboards.core@3.1.0?classifier=sources

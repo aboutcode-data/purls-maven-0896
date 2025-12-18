@@ -6,3 +6,5 @@
 - pkg:maven/com.github.rebue.mbgx/mbgx@1.0.7?classifier=sources
 - pkg:maven/com.github.rebue.mbgx/mbgx@1.0.8
 - pkg:maven/com.github.rebue.mbgx/mbgx@1.0.8?classifier=sources
+- pkg:maven/com.github.rebue.mbgx/mbgx@1.1.0
+- pkg:maven/com.github.rebue.mbgx/mbgx@1.1.0?classifier=sources

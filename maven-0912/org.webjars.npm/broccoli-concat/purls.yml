@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/broccoli-concat@2.2.0
 - pkg:maven/org.webjars.npm/broccoli-concat@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/broccoli-concat@3.7.5
+- pkg:maven/org.webjars.npm/broccoli-concat@3.7.5?classifier=sources

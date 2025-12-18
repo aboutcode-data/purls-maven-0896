@@ -4,6 +4,10 @@
 - pkg:maven/com.webauthn4j/webauthn4j-util@0.10.1.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-util@0.10.2.RELEASE
 - pkg:maven/com.webauthn4j/webauthn4j-util@0.10.2.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-util@0.11.0.RELEASE
+- pkg:maven/com.webauthn4j/webauthn4j-util@0.11.0.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-util@0.11.1.RELEASE
+- pkg:maven/com.webauthn4j/webauthn4j-util@0.11.1.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-util@0.3.4.RELEASE
 - pkg:maven/com.webauthn4j/webauthn4j-util@0.3.4.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-util@0.5.3.RELEASE

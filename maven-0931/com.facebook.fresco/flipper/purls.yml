@@ -8,3 +8,5 @@
 - pkg:maven/com.facebook.fresco/flipper@1.14.2?type=aar
 - pkg:maven/com.facebook.fresco/flipper@2.0.0?classifier=sources
 - pkg:maven/com.facebook.fresco/flipper@2.0.0?type=aar
+- pkg:maven/com.facebook.fresco/flipper@2.2.0?classifier=sources
+- pkg:maven/com.facebook.fresco/flipper@2.2.0?type=aar

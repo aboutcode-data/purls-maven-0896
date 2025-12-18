@@ -18,5 +18,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-rabbitmq@2.18.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-rabbitmq@2.19.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-rabbitmq@2.19.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-rabbitmq@2.20.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-rabbitmq@2.20.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-rabbitmq@2.9.0
 - pkg:maven/org.apache.beam/beam-sdks-java-io-rabbitmq@2.9.0?classifier=sources

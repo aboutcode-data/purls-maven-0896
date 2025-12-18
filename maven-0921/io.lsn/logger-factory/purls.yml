@@ -20,3 +20,5 @@
 - pkg:maven/io.lsn/logger-factory@2.1.8?classifier=sources
 - pkg:maven/io.lsn/logger-factory@2.1.9
 - pkg:maven/io.lsn/logger-factory@2.1.9?classifier=sources
+- pkg:maven/io.lsn/logger-factory@2.2.0
+- pkg:maven/io.lsn/logger-factory@2.2.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.dreamlu/mica-jobs@2.0.0
+- pkg:maven/net.dreamlu/mica-jobs@2.0.0?classifier=sources
+- pkg:maven/net.dreamlu/mica-jobs@2.0.1.20200510
+- pkg:maven/net.dreamlu/mica-jobs@2.0.1.20200510?classifier=sources

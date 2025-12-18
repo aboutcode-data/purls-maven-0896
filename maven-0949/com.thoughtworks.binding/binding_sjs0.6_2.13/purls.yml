@@ -7,8 +7,18 @@
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B12-5edd0c77?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B13-a76cb04f
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B13-a76cb04f?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B17-6fe5ab4f
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B17-6fe5ab4f?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B2-2c1f22ab
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B2-2c1f22ab?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B21-fdd4920b
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B21-fdd4920b?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B25-5f79326c
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B25-5f79326c?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B27-b9c161c1
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B27-b9c161c1?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B30-d76398c9
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B30-d76398c9?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B5-360570c8
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B5-360570c8?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B6-50ba0e5a
@@ -16,3 +26,7 @@
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B7-649658cf
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0%2B7-649658cf?classifier=sources
 - pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M0?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M1
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M1%2B2-1be47d1d
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M1%2B2-1be47d1d?classifier=sources
+- pkg:maven/com.thoughtworks.binding/binding_sjs0.6_2.13@12.0.0-M1?classifier=sources

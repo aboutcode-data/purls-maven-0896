@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-common@0.20.0
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-cbor-common@0.20.0?classifier=sources

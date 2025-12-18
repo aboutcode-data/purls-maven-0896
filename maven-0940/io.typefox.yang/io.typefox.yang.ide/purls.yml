@@ -1,0 +1,4 @@
+- pkg:maven/io.typefox.yang/io.typefox.yang.ide@0.1.0
+- pkg:maven/io.typefox.yang/io.typefox.yang.ide@0.1.0?classifier=sources
+- pkg:maven/io.typefox.yang/io.typefox.yang.ide@0.2.0
+- pkg:maven/io.typefox.yang/io.typefox.yang.ide@0.2.0?classifier=sources

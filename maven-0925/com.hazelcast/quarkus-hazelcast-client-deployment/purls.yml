@@ -1,0 +1,6 @@
+- pkg:maven/com.hazelcast/quarkus-hazelcast-client-deployment@1.0.0-RC2
+- pkg:maven/com.hazelcast/quarkus-hazelcast-client-deployment@1.0.0-RC2?classifier=sources
+- pkg:maven/com.hazelcast/quarkus-hazelcast-client-deployment@1.0.0-RC3
+- pkg:maven/com.hazelcast/quarkus-hazelcast-client-deployment@1.0.0-RC3?classifier=sources
+- pkg:maven/com.hazelcast/quarkus-hazelcast-client-deployment@1.0.0-RC4
+- pkg:maven/com.hazelcast/quarkus-hazelcast-client-deployment@1.0.0-RC4?classifier=sources

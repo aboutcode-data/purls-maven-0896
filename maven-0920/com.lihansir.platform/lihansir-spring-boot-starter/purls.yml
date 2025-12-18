@@ -1,0 +1,8 @@
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.0.0
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.0.0-RELEASE
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.1.0
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.1.0-RELEASE
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.lihansir.platform/lihansir-spring-boot-starter@1.1.0?classifier=sources

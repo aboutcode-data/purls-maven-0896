@@ -12,3 +12,7 @@
 - pkg:maven/org.scalatest/scalatest-matchers-core_sjs0.6_2.11@3.2.0-M2?classifier=sources
 - pkg:maven/org.scalatest/scalatest-matchers-core_sjs0.6_2.11@3.2.0-M3
 - pkg:maven/org.scalatest/scalatest-matchers-core_sjs0.6_2.11@3.2.0-M3?classifier=sources
+- pkg:maven/org.scalatest/scalatest-matchers-core_sjs0.6_2.11@3.2.0-M4
+- pkg:maven/org.scalatest/scalatest-matchers-core_sjs0.6_2.11@3.2.0-M4?classifier=sources
+- pkg:maven/org.scalatest/scalatest-matchers-core_sjs0.6_2.11@3.3.0-SNAP2
+- pkg:maven/org.scalatest/scalatest-matchers-core_sjs0.6_2.11@3.3.0-SNAP2?classifier=sources

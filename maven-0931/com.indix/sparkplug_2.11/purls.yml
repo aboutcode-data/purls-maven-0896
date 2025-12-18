@@ -12,3 +12,5 @@
 - pkg:maven/com.indix/sparkplug_2.11@v0.5.0?classifier=sources
 - pkg:maven/com.indix/sparkplug_2.11@v0.5.1
 - pkg:maven/com.indix/sparkplug_2.11@v0.5.1?classifier=sources
+- pkg:maven/com.indix/sparkplug_2.11@v0.6.0
+- pkg:maven/com.indix/sparkplug_2.11@v0.6.0?classifier=sources

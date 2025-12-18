@@ -10,3 +10,7 @@
 - pkg:maven/me.xethh.utils/DateUtils@6.0.0.RC1-RELEASE?classifier=sources
 - pkg:maven/me.xethh.utils/DateUtils@6.0.0.RC2-RELASE
 - pkg:maven/me.xethh.utils/DateUtils@6.0.0.RC2-RELASE?classifier=sources
+- pkg:maven/me.xethh.utils/DateUtils@6.0.0.RC4-RELEASE
+- pkg:maven/me.xethh.utils/DateUtils@6.0.0.RC4-RELEASE?classifier=sources
+- pkg:maven/me.xethh.utils/DateUtils@6.0.0.RC5-RELEASE
+- pkg:maven/me.xethh.utils/DateUtils@6.0.0.RC5-RELEASE?classifier=sources

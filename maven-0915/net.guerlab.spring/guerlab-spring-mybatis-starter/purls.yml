@@ -14,3 +14,9 @@
 - pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@2.3.5?classifier=sources
 - pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@2.4.0
 - pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@2.4.0?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@3.0.0
+- pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@3.0.0?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@3.1.0
+- pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@3.1.0?classifier=sources
+- pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@3.1.1
+- pkg:maven/net.guerlab.spring/guerlab-spring-mybatis-starter@3.1.1?classifier=sources

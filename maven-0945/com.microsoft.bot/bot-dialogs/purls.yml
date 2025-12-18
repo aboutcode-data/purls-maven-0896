@@ -2,3 +2,5 @@
 - pkg:maven/com.microsoft.bot/bot-dialogs@4.6.0-preview2?classifier=sources
 - pkg:maven/com.microsoft.bot/bot-dialogs@4.6.0-preview3
 - pkg:maven/com.microsoft.bot/bot-dialogs@4.6.0-preview3?classifier=sources
+- pkg:maven/com.microsoft.bot/bot-dialogs@4.6.0-preview4
+- pkg:maven/com.microsoft.bot/bot-dialogs@4.6.0-preview4?classifier=sources

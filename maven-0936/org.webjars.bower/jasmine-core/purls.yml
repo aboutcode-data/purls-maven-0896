@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.bower/jasmine-core@2.8.0?classifier=sources
 - pkg:maven/org.webjars.bower/jasmine-core@3.0.0
 - pkg:maven/org.webjars.bower/jasmine-core@3.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/jasmine-core@3.5.0
+- pkg:maven/org.webjars.bower/jasmine-core@3.5.0?classifier=sources

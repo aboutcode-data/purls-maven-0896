@@ -1,2 +1,4 @@
 - pkg:maven/org.opengis.cite/ets-gmljpx20@0.2
 - pkg:maven/org.opengis.cite/ets-gmljpx20@0.2?classifier=sources
+- pkg:maven/org.opengis.cite/ets-gmljpx20@1.0
+- pkg:maven/org.opengis.cite/ets-gmljpx20@1.0?classifier=sources

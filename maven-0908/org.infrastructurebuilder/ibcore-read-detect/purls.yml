@@ -18,3 +18,7 @@
 - pkg:maven/org.infrastructurebuilder/ibcore-read-detect@0.15.1?classifier=sources
 - pkg:maven/org.infrastructurebuilder/ibcore-read-detect@0.16.0
 - pkg:maven/org.infrastructurebuilder/ibcore-read-detect@0.16.0?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibcore-read-detect@0.17.0
+- pkg:maven/org.infrastructurebuilder/ibcore-read-detect@0.17.0?classifier=sources
+- pkg:maven/org.infrastructurebuilder/ibcore-read-detect@0.17.1
+- pkg:maven/org.infrastructurebuilder/ibcore-read-detect@0.17.1?classifier=sources

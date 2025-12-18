@@ -1,2 +1,4 @@
 - pkg:maven/io.github.bweng20/jProfilingAgent@1.01
 - pkg:maven/io.github.bweng20/jProfilingAgent@1.01?classifier=sources
+- pkg:maven/io.github.bweng20/jProfilingAgent@1.03
+- pkg:maven/io.github.bweng20/jProfilingAgent@1.03?classifier=sources

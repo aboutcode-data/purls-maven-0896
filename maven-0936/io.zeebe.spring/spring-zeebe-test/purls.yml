@@ -1,5 +1,7 @@
 - pkg:maven/io.zeebe.spring/spring-zeebe-test@0.22.0
 - pkg:maven/io.zeebe.spring/spring-zeebe-test@0.22.0?classifier=sources
+- pkg:maven/io.zeebe.spring/spring-zeebe-test@0.23.0
+- pkg:maven/io.zeebe.spring/spring-zeebe-test@0.23.0?classifier=sources
 - pkg:maven/io.zeebe.spring/spring-zeebe-test@0.3.0
 - pkg:maven/io.zeebe.spring/spring-zeebe-test@0.3.0?classifier=sources
 - pkg:maven/io.zeebe.spring/spring-zeebe-test@0.4.0

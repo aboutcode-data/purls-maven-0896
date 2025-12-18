@@ -158,3 +158,15 @@
 - pkg:maven/com.github.robozonky/robozonky-test@5.7.1?classifier=sources
 - pkg:maven/com.github.robozonky/robozonky-test@5.7.2
 - pkg:maven/com.github.robozonky/robozonky-test@5.7.2?classifier=sources
+- pkg:maven/com.github.robozonky/robozonky-test@5.7.3
+- pkg:maven/com.github.robozonky/robozonky-test@5.7.3?classifier=sources
+- pkg:maven/com.github.robozonky/robozonky-test@5.7.4
+- pkg:maven/com.github.robozonky/robozonky-test@5.7.4?classifier=sources
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.0
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.0-cr-2
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.0-cr-2?classifier=sources
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.0?classifier=sources
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.1
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.1?classifier=sources
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.2
+- pkg:maven/com.github.robozonky/robozonky-test@5.8.2?classifier=sources

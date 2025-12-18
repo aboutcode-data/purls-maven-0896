@@ -48,3 +48,7 @@
 - pkg:maven/io.udash/udash-bootstrap4_sjs0.6_2.11@0.8.2?classifier=sources
 - pkg:maven/io.udash/udash-bootstrap4_sjs0.6_2.11@0.8.3
 - pkg:maven/io.udash/udash-bootstrap4_sjs0.6_2.11@0.8.3?classifier=sources
+- pkg:maven/io.udash/udash-bootstrap4_sjs0.6_2.11@0.8.4
+- pkg:maven/io.udash/udash-bootstrap4_sjs0.6_2.11@0.8.4?classifier=sources
+- pkg:maven/io.udash/udash-bootstrap4_sjs0.6_2.11@0.8.5
+- pkg:maven/io.udash/udash-bootstrap4_sjs0.6_2.11@0.8.5?classifier=sources

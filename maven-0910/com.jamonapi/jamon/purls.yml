@@ -17,3 +17,5 @@
 - pkg:maven/com.jamonapi/jamon@2.80?classifier=sources
 - pkg:maven/com.jamonapi/jamon@2.81
 - pkg:maven/com.jamonapi/jamon@2.81?classifier=sources
+- pkg:maven/com.jamonapi/jamon@2.82
+- pkg:maven/com.jamonapi/jamon@2.82?classifier=sources

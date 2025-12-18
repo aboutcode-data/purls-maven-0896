@@ -1,2 +1,4 @@
 - pkg:maven/net.sf.jkniv/jkniv-whinstone-couchdb@0.6.0
 - pkg:maven/net.sf.jkniv/jkniv-whinstone-couchdb@0.6.0?classifier=sources
+- pkg:maven/net.sf.jkniv/jkniv-whinstone-couchdb@0.6.2
+- pkg:maven/net.sf.jkniv/jkniv-whinstone-couchdb@0.6.2?classifier=sources

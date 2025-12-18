@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/docdb@757.2.540.0?classifier=sources
 - pkg:maven/com.cognitect.aws/docdb@770.2.568.0
 - pkg:maven/com.cognitect.aws/docdb@770.2.568.0?classifier=sources
+- pkg:maven/com.cognitect.aws/docdb@793.2.625.0
+- pkg:maven/com.cognitect.aws/docdb@793.2.625.0?classifier=sources

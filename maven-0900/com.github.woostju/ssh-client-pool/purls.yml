@@ -1,0 +1,8 @@
+- pkg:maven/com.github.woostju/ssh-client-pool@0.9.0-RELEASE
+- pkg:maven/com.github.woostju/ssh-client-pool@0.9.0-RELEASE?classifier=sources
+- pkg:maven/com.github.woostju/ssh-client-pool@0.9.1-RELEASE
+- pkg:maven/com.github.woostju/ssh-client-pool@0.9.1-RELEASE?classifier=sources
+- pkg:maven/com.github.woostju/ssh-client-pool@1.0.0-RELEASE
+- pkg:maven/com.github.woostju/ssh-client-pool@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.woostju/ssh-client-pool@1.0.1-RELEASE
+- pkg:maven/com.github.woostju/ssh-client-pool@1.0.1-RELEASE?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/com.twitter/finagle-netty4_2.13@19.9.0?classifier=sources
 - pkg:maven/com.twitter/finagle-netty4_2.13@20.1.0
 - pkg:maven/com.twitter/finagle-netty4_2.13@20.1.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.13@20.3.0
+- pkg:maven/com.twitter/finagle-netty4_2.13@20.3.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.13@20.4.0
+- pkg:maven/com.twitter/finagle-netty4_2.13@20.4.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.13@20.4.1
+- pkg:maven/com.twitter/finagle-netty4_2.13@20.4.1?classifier=sources

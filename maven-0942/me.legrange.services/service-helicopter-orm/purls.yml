@@ -1,0 +1,6 @@
+- pkg:maven/me.legrange.services/service-helicopter-orm@3.0.1
+- pkg:maven/me.legrange.services/service-helicopter-orm@3.0.1?classifier=sources
+- pkg:maven/me.legrange.services/service-helicopter-orm@3.1.14
+- pkg:maven/me.legrange.services/service-helicopter-orm@3.1.14?classifier=sources
+- pkg:maven/me.legrange.services/service-helicopter-orm@3.1.9
+- pkg:maven/me.legrange.services/service-helicopter-orm@3.1.9?classifier=sources

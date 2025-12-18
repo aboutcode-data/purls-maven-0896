@@ -1,5 +1,6 @@
 - pkg:maven/org.swimos/swim-deflate@3.10.0
 - pkg:maven/org.swimos/swim-deflate@3.10.0?classifier=sources
+- pkg:maven/org.swimos/swim-deflate@3.10.2?classifier=sources
 - pkg:maven/org.swimos/swim-deflate@3.9.0
 - pkg:maven/org.swimos/swim-deflate@3.9.0?classifier=sources
 - pkg:maven/org.swimos/swim-deflate@3.9.1

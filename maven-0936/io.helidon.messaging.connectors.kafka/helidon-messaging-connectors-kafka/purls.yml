@@ -1,0 +1,2 @@
+- pkg:maven/io.helidon.messaging.connectors.kafka/helidon-messaging-connectors-kafka@2.0.0-M3
+- pkg:maven/io.helidon.messaging.connectors.kafka/helidon-messaging-connectors-kafka@2.0.0-M3?classifier=sources

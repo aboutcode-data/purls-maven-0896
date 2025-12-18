@@ -1,6 +1,10 @@
 - pkg:maven/com.netflix.spectator/spectator-agent@0.101.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-agent@0.102.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-agent@0.103.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-agent@0.104.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-agent@0.105.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-agent@0.106.0?classifier=sources
+- pkg:maven/com.netflix.spectator/spectator-agent@0.107.0?classifier=sources
 - pkg:maven/com.netflix.spectator/spectator-agent@0.42.0
 - pkg:maven/com.netflix.spectator/spectator-agent@0.42.0-rc.1
 - pkg:maven/com.netflix.spectator/spectator-agent@0.42.0-rc.1?classifier=sources

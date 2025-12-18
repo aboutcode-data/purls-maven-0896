@@ -29,3 +29,6 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.classloading@1.4.35
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.classloading@1.4.36
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.classloading@1.4.37
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.classloading@1.4.38
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.classloading@1.4.39
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.classloading@1.4.40

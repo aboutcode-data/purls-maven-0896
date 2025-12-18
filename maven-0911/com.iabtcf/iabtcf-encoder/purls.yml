@@ -1,0 +1,8 @@
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.5-alpha.0
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.5-alpha.0?classifier=sources
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.6
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.6-RC1.0
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.6-RC1.0?classifier=sources
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.6?classifier=sources
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.7
+- pkg:maven/com.iabtcf/iabtcf-encoder@2.0.7?classifier=sources

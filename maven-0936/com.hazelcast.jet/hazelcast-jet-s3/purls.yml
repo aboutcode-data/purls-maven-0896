@@ -4,3 +4,7 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@3.2.2
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@3.2.2?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@3.2?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@4.0
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@4.0?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@4.1
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@4.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/org.j-im/jim-server@2.3.0.v20180830-RELEASE?classifier=sources
 - pkg:maven/org.j-im/jim-server@2.5.0.v20181115-RELEASE
 - pkg:maven/org.j-im/jim-server@2.5.0.v20181115-RELEASE?classifier=sources
+- pkg:maven/org.j-im/jim-server@3.0.0.v20200501-RELEASE
+- pkg:maven/org.j-im/jim-server@3.0.0.v20200501-RELEASE?classifier=sources

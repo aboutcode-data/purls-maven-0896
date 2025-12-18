@@ -52,3 +52,9 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.2.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.3.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.3.2.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.3.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.4.0.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.4.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.4.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-skipper-autoconfigure@2.4.1.RELEASE?classifier=sources

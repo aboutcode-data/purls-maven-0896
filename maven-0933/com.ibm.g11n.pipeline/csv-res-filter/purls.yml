@@ -1,3 +1,5 @@
+- pkg:maven/com.ibm.g11n.pipeline/csv-res-filter@1.2.10
+- pkg:maven/com.ibm.g11n.pipeline/csv-res-filter@1.2.10?classifier=sources
 - pkg:maven/com.ibm.g11n.pipeline/csv-res-filter@1.2.7
 - pkg:maven/com.ibm.g11n.pipeline/csv-res-filter@1.2.7?classifier=sources
 - pkg:maven/com.ibm.g11n.pipeline/csv-res-filter@1.2.8

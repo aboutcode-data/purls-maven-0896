@@ -1,0 +1,4 @@
+- pkg:maven/com.fanxuankai.zeus/common-xxl-job@0.0.4
+- pkg:maven/com.fanxuankai.zeus/common-xxl-job@0.0.4?classifier=sources
+- pkg:maven/com.fanxuankai.zeus/common-xxl-job@1.0.0
+- pkg:maven/com.fanxuankai.zeus/common-xxl-job@1.0.0?classifier=sources

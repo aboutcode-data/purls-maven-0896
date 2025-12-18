@@ -4,3 +4,7 @@
 - pkg:maven/uk.offtopica/monerorpc@0.2.0?classifier=sources
 - pkg:maven/uk.offtopica/monerorpc@0.2.1
 - pkg:maven/uk.offtopica/monerorpc@0.2.1?classifier=sources
+- pkg:maven/uk.offtopica/monerorpc@0.2.2
+- pkg:maven/uk.offtopica/monerorpc@0.2.2?classifier=sources
+- pkg:maven/uk.offtopica/monerorpc@0.2.3
+- pkg:maven/uk.offtopica/monerorpc@0.2.3?classifier=sources

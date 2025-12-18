@@ -1,3 +1,5 @@
 - pkg:maven/com.github.materna-se.fegen/fegen-web-gradle-plugin@1.0-RC1?classifier=sources
 - pkg:maven/com.github.materna-se.fegen/fegen-web-gradle-plugin@1.0-RC2?classifier=sources
 - pkg:maven/com.github.materna-se.fegen/fegen-web-gradle-plugin@1.0-RC3?classifier=sources
+- pkg:maven/com.github.materna-se.fegen/fegen-web-gradle-plugin@1.0-RC4?classifier=sources
+- pkg:maven/com.github.materna-se.fegen/fegen-web-gradle-plugin@1.0-RC5?classifier=sources

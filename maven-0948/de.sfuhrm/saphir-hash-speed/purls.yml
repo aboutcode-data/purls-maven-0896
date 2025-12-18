@@ -1,2 +1,4 @@
 - pkg:maven/de.sfuhrm/saphir-hash-speed@3.0.5
 - pkg:maven/de.sfuhrm/saphir-hash-speed@3.0.5?classifier=sources
+- pkg:maven/de.sfuhrm/saphir-hash-speed@3.0.6
+- pkg:maven/de.sfuhrm/saphir-hash-speed@3.0.6?classifier=sources

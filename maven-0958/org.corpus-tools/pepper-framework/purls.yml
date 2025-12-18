@@ -13,3 +13,4 @@
 - pkg:maven/org.corpus-tools/pepper-framework@3.3.2?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-framework@3.3.3?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-framework@3.3.4?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-framework@3.4.0?classifier=sources

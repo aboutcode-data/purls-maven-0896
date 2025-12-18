@@ -3,4 +3,6 @@
 - pkg:maven/com.github.cico216/mnt-algorithm@1.1
 - pkg:maven/com.github.cico216/mnt-algorithm@1.1.1
 - pkg:maven/com.github.cico216/mnt-algorithm@1.1.1?classifier=sources
+- pkg:maven/com.github.cico216/mnt-algorithm@1.1.2
+- pkg:maven/com.github.cico216/mnt-algorithm@1.1.2?classifier=sources
 - pkg:maven/com.github.cico216/mnt-algorithm@1.1?classifier=sources

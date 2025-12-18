@@ -1,2 +1,4 @@
 - pkg:maven/com.github.sammyvimes/spring-cloud-hazelcast-registration-consul@2.2.2.RELEASE
 - pkg:maven/com.github.sammyvimes/spring-cloud-hazelcast-registration-consul@2.2.2.RELEASE?classifier=sources
+- pkg:maven/com.github.sammyvimes/spring-cloud-hazelcast-registration-consul@2.2.3.RELEASE
+- pkg:maven/com.github.sammyvimes/spring-cloud-hazelcast-registration-consul@2.2.3.RELEASE?classifier=sources

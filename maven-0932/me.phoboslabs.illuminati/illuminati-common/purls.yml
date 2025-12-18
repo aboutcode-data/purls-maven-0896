@@ -1,0 +1,6 @@
+- pkg:maven/me.phoboslabs.illuminati/illuminati-common@1.4.10
+- pkg:maven/me.phoboslabs.illuminati/illuminati-common@1.4.10?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-common@1.4.11
+- pkg:maven/me.phoboslabs.illuminati/illuminati-common@1.4.11?classifier=sources
+- pkg:maven/me.phoboslabs.illuminati/illuminati-common@1.4.12
+- pkg:maven/me.phoboslabs.illuminati/illuminati-common@1.4.12?classifier=sources

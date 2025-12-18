@@ -1,0 +1,4 @@
+- pkg:maven/com.mariocairone/log4j2-prop-lookup@1.0.0
+- pkg:maven/com.mariocairone/log4j2-prop-lookup@1.0.0?classifier=sources
+- pkg:maven/com.mariocairone/log4j2-prop-lookup@1.0.1
+- pkg:maven/com.mariocairone/log4j2-prop-lookup@1.0.1?classifier=sources

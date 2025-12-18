@@ -14,3 +14,5 @@
 - pkg:maven/de.julielab/jcore-elasticsearch-consumer@2.3.8?classifier=sources
 - pkg:maven/de.julielab/jcore-elasticsearch-consumer@2.4.0
 - pkg:maven/de.julielab/jcore-elasticsearch-consumer@2.4.0?classifier=sources
+- pkg:maven/de.julielab/jcore-elasticsearch-consumer@2.5.0
+- pkg:maven/de.julielab/jcore-elasticsearch-consumer@2.5.0?classifier=sources

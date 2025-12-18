@@ -1,0 +1,5 @@
+- pkg:maven/org.neo4j.gds/proc-similarity@1.1.0?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-similarity@1.1.1?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-similarity@1.2.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-similarity@1.2.0?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-similarity@1.2.1?classifier=sources

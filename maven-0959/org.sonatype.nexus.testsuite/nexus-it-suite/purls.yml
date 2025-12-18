@@ -2,6 +2,8 @@
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.17.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.17.1-01
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.17.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.17.2-03
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.17.2-03?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.18.0-01
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.18.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.18.1-01
@@ -16,6 +18,10 @@
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.20.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.20.1-01
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.20.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.20.2-01
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.20.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.20.3-01
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.20.3-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.0-01
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.0-02
@@ -24,3 +30,17 @@
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.0-05?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.1-01
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.2-03
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.21.2-03?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.0-01
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.0-02
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.0-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.1-01
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.1-02
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.22.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.23.0-01
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.23.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.23.0-03
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.23.0-03?classifier=sources

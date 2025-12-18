@@ -20,3 +20,5 @@
 - pkg:maven/com.simiacryptus/java-analysis@1.7.2?classifier=sources
 - pkg:maven/com.simiacryptus/java-analysis@1.8.0
 - pkg:maven/com.simiacryptus/java-analysis@1.8.0?classifier=sources
+- pkg:maven/com.simiacryptus/java-analysis@2.0.0
+- pkg:maven/com.simiacryptus/java-analysis@2.0.0?classifier=sources

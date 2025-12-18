@@ -56,3 +56,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-consul-config@2.1.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-consul-config@2.2.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-consul-config@2.2.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-consul-config@2.2.2.RELEASE

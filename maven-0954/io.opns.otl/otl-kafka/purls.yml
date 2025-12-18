@@ -1,0 +1,2 @@
+- pkg:maven/io.opns.otl/otl-kafka@0.2.16-alpha
+- pkg:maven/io.opns.otl/otl-kafka@0.2.16-alpha?classifier=sources

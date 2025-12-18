@@ -1,0 +1,8 @@
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@2.5.0
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@2.5.0?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@3.0-alpha
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@3.0-alpha?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@3.0.0-alpha2
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@3.0.0-alpha2?classifier=sources
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@v3.0.0-alpha2
+- pkg:maven/com.datastax.spark/spark-cassandra-connector-test-support_2.12@v3.0.0-alpha2?classifier=sources

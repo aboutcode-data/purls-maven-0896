@@ -6,3 +6,5 @@
 - pkg:maven/com.beachape/enumeratum-scalacheck_sjs0.6_2.11@1.5.15?classifier=sources
 - pkg:maven/com.beachape/enumeratum-scalacheck_sjs0.6_2.11@1.5.16
 - pkg:maven/com.beachape/enumeratum-scalacheck_sjs0.6_2.11@1.5.16?classifier=sources
+- pkg:maven/com.beachape/enumeratum-scalacheck_sjs0.6_2.11@1.6.0
+- pkg:maven/com.beachape/enumeratum-scalacheck_sjs0.6_2.11@1.6.0?classifier=sources

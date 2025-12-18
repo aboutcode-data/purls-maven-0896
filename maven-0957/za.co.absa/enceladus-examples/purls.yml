@@ -40,3 +40,5 @@
 - pkg:maven/za.co.absa/enceladus-examples@1.6.3?classifier=sources
 - pkg:maven/za.co.absa/enceladus-examples@1.7.0
 - pkg:maven/za.co.absa/enceladus-examples@1.7.0?classifier=sources
+- pkg:maven/za.co.absa/enceladus-examples@1.7.1
+- pkg:maven/za.co.absa/enceladus-examples@1.7.1?classifier=sources

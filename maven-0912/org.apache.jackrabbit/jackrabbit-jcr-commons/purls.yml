@@ -181,6 +181,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.16.4?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.16.5
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.16.5?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.16.6
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.16.6?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.17.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.17.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.17.1
@@ -207,6 +209,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.18.3?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.18.4
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.18.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.18.5
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.18.5?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.19.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.19.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.19.1
@@ -249,6 +253,8 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.20.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.1
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.1?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.3.0
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.3.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.3.2

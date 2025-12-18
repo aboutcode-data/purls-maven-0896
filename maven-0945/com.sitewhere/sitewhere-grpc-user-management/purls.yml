@@ -44,3 +44,5 @@
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha6?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha7
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha7?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha8
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha8?classifier=sources

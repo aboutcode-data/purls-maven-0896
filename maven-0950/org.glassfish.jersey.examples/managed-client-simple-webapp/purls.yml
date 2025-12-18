@@ -183,3 +183,5 @@
 - pkg:maven/org.glassfish.jersey.examples/managed-client-simple-webapp@2.9?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/managed-client-simple-webapp@2.9?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/managed-client-simple-webapp@2.9?type=war
+- pkg:maven/org.glassfish.jersey.examples/managed-client-simple-webapp@3.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/managed-client-simple-webapp@3.0.0-M1?type=war

@@ -1,4 +1,8 @@
+- pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.0
 - pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.0-alpha03
 - pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.0-beta01
 - pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.0-beta02
 - pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.0-beta03
+- pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.0-beta04
+- pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.0-rc01
+- pkg:maven/org.neo4j.springframework.data/spring-data-neo4j-rx-spring-boot-starter@1.0.1

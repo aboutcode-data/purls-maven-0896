@@ -6,3 +6,5 @@
 - pkg:maven/io.seata/seata-saga-statelang@1.0.0?classifier=sources
 - pkg:maven/io.seata/seata-saga-statelang@1.1.0
 - pkg:maven/io.seata/seata-saga-statelang@1.1.0?classifier=sources
+- pkg:maven/io.seata/seata-saga-statelang@1.2.0
+- pkg:maven/io.seata/seata-saga-statelang@1.2.0?classifier=sources

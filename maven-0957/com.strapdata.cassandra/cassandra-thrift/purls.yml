@@ -49,4 +49,8 @@
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.5.1?classifier=sources
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.5.2
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.5.2?classifier=sources
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.5.3
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.5.3?classifier=sources
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.5?classifier=sources
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.6.1
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.6.1?classifier=sources

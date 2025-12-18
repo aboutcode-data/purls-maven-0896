@@ -1,0 +1,10 @@
+- pkg:maven/com.quicko/api-client@3.0.0
+- pkg:maven/com.quicko/api-client@3.0.0-BUILD-RELEASE
+- pkg:maven/com.quicko/api-client@3.0.0-BUILD-RELEASE?classifier=sources
+- pkg:maven/com.quicko/api-client@3.0.0?classifier=sources
+- pkg:maven/com.quicko/api-client@3.0.1-BUILD-RELEASE
+- pkg:maven/com.quicko/api-client@3.0.1-BUILD-RELEASE?classifier=sources
+- pkg:maven/com.quicko/api-client@3.0.2-BUILD-RELEASE
+- pkg:maven/com.quicko/api-client@3.0.2-BUILD-RELEASE?classifier=sources
+- pkg:maven/com.quicko/api-client@3.0.3-BUILD-RELEASE
+- pkg:maven/com.quicko/api-client@3.0.3-BUILD-RELEASE?classifier=sources

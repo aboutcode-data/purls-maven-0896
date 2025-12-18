@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.eventbridge/eventbridge-client@1.0.0
+- pkg:maven/com.aliyun.eventbridge/eventbridge-client@1.0.0?classifier=sources

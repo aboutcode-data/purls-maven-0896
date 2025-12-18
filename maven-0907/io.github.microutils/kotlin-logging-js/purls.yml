@@ -38,3 +38,5 @@
 - pkg:maven/io.github.microutils/kotlin-logging-js@1.7.7?classifier=sources
 - pkg:maven/io.github.microutils/kotlin-logging-js@1.7.8
 - pkg:maven/io.github.microutils/kotlin-logging-js@1.7.8?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.9
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.9?classifier=sources

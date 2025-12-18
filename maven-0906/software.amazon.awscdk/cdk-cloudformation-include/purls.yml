@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.39.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.39.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.40.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.40.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.41.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.41.0?classifier=sources

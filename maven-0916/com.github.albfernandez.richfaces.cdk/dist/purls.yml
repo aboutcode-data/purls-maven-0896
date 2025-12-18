@@ -1,2 +1,4 @@
 - pkg:maven/com.github.albfernandez.richfaces.cdk/dist@4.6.0.ayg
 - pkg:maven/com.github.albfernandez.richfaces.cdk/dist@4.6.0.ayg?classifier=sources
+- pkg:maven/com.github.albfernandez.richfaces.cdk/dist@4.6.1.ayg
+- pkg:maven/com.github.albfernandez.richfaces.cdk/dist@4.6.1.ayg?classifier=sources

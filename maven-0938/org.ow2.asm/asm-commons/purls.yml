@@ -56,3 +56,7 @@
 - pkg:maven/org.ow2.asm/asm-commons@7.3.1
 - pkg:maven/org.ow2.asm/asm-commons@7.3.1?classifier=sources
 - pkg:maven/org.ow2.asm/asm-commons@7.3?classifier=sources
+- pkg:maven/org.ow2.asm/asm-commons@8.0
+- pkg:maven/org.ow2.asm/asm-commons@8.0.1
+- pkg:maven/org.ow2.asm/asm-commons@8.0.1?classifier=sources
+- pkg:maven/org.ow2.asm/asm-commons@8.0?classifier=sources

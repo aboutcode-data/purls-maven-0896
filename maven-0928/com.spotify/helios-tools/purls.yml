@@ -705,6 +705,16 @@
 - pkg:maven/com.spotify/helios-tools@0.9.270?classifier=sources
 - pkg:maven/com.spotify/helios-tools@0.9.271
 - pkg:maven/com.spotify/helios-tools@0.9.271?classifier=sources
+- pkg:maven/com.spotify/helios-tools@0.9.272
+- pkg:maven/com.spotify/helios-tools@0.9.272?classifier=sources
+- pkg:maven/com.spotify/helios-tools@0.9.274
+- pkg:maven/com.spotify/helios-tools@0.9.274?classifier=sources
+- pkg:maven/com.spotify/helios-tools@0.9.275
+- pkg:maven/com.spotify/helios-tools@0.9.275?classifier=sources
+- pkg:maven/com.spotify/helios-tools@0.9.276
+- pkg:maven/com.spotify/helios-tools@0.9.276?classifier=sources
+- pkg:maven/com.spotify/helios-tools@0.9.277
+- pkg:maven/com.spotify/helios-tools@0.9.277?classifier=sources
 - pkg:maven/com.spotify/helios-tools@0.9.2?classifier=sources
 - pkg:maven/com.spotify/helios-tools@0.9.3
 - pkg:maven/com.spotify/helios-tools@0.9.3?classifier=sources

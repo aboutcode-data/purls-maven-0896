@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.daffodil/daffodil-io_2.11@2.4.0?classifier=sources
 - pkg:maven/org.apache.daffodil/daffodil-io_2.11@2.5.0
 - pkg:maven/org.apache.daffodil/daffodil-io_2.11@2.5.0?classifier=sources
+- pkg:maven/org.apache.daffodil/daffodil-io_2.11@2.6.0
+- pkg:maven/org.apache.daffodil/daffodil-io_2.11@2.6.0?classifier=sources

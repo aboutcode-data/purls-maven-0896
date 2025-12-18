@@ -15,6 +15,10 @@
 - pkg:maven/net.officefloor.eclipse/update.site@3.19.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.2.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.20.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/update.site@3.21.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/update.site@3.22.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/update.site@3.23.0?classifier=sources
+- pkg:maven/net.officefloor.eclipse/update.site@3.24.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.3.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.4.0?classifier=sources
 - pkg:maven/net.officefloor.eclipse/update.site@3.5.0?classifier=sources

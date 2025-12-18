@@ -38,3 +38,5 @@
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@6.1.17?classifier=sources
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@6.1.18
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@6.1.18?classifier=sources
+- pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@6.1.19
+- pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@6.1.19?classifier=sources
