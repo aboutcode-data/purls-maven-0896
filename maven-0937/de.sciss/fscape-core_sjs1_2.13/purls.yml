@@ -10,3 +10,5 @@
 - pkg:maven/de.sciss/fscape-core_sjs1_2.13@3.4.0?classifier=sources
 - pkg:maven/de.sciss/fscape-core_sjs1_2.13@3.5.0
 - pkg:maven/de.sciss/fscape-core_sjs1_2.13@3.5.0?classifier=sources
+- pkg:maven/de.sciss/fscape-core_sjs1_2.13@3.6.0
+- pkg:maven/de.sciss/fscape-core_sjs1_2.13@3.6.0?classifier=sources

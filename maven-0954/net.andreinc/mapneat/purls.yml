@@ -1,0 +1,8 @@
+- pkg:maven/net.andreinc/mapneat@0.9.4
+- pkg:maven/net.andreinc/mapneat@0.9.4?classifier=sources
+- pkg:maven/net.andreinc/mapneat@0.9.5
+- pkg:maven/net.andreinc/mapneat@0.9.5-prototype
+- pkg:maven/net.andreinc/mapneat@0.9.5-prototype?classifier=sources
+- pkg:maven/net.andreinc/mapneat@0.9.5?classifier=sources
+- pkg:maven/net.andreinc/mapneat@0.9.6
+- pkg:maven/net.andreinc/mapneat@0.9.6?classifier=sources

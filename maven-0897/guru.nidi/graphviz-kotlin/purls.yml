@@ -38,6 +38,8 @@
 - pkg:maven/guru.nidi/graphviz-kotlin@0.17.1?classifier=sources
 - pkg:maven/guru.nidi/graphviz-kotlin@0.18.0
 - pkg:maven/guru.nidi/graphviz-kotlin@0.18.0?classifier=sources
+- pkg:maven/guru.nidi/graphviz-kotlin@0.18.1
+- pkg:maven/guru.nidi/graphviz-kotlin@0.18.1?classifier=sources
 - pkg:maven/guru.nidi/graphviz-kotlin@0.6.0
 - pkg:maven/guru.nidi/graphviz-kotlin@0.6.0?classifier=sources
 - pkg:maven/guru.nidi/graphviz-kotlin@0.7.0

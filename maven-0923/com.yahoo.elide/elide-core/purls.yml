@@ -287,6 +287,10 @@
 - pkg:maven/com.yahoo.elide/elide-core@4.6.0
 - pkg:maven/com.yahoo.elide/elide-core@4.6.0?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-core@4.6.1
+- pkg:maven/com.yahoo.elide/elide-core@4.6.10
+- pkg:maven/com.yahoo.elide/elide-core@4.6.10?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@4.6.11
+- pkg:maven/com.yahoo.elide/elide-core@4.6.11?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-core@4.6.1?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-core@4.6.2
 - pkg:maven/com.yahoo.elide/elide-core@4.6.2?classifier=sources
@@ -304,5 +308,13 @@
 - pkg:maven/com.yahoo.elide/elide-core@4.6.8?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-core@4.6.9
 - pkg:maven/com.yahoo.elide/elide-core@4.6.9?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@4.7.0
+- pkg:maven/com.yahoo.elide/elide-core@4.7.0?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr29
 - pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr29?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr30
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr30?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr31
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr31?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr32
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr32?classifier=sources

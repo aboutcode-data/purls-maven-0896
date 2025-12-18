@@ -1,2 +1,4 @@
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.servicedeskcloud@1.0.0-202004021433
 - pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.servicedeskcloud@1.0.0-202004021433?classifier=sources
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.servicedeskcloud@1.0.1-202004021433
+- pkg:maven/org.everit.atlassian/org.everit.atlassian.restclient.servicedeskcloud@1.0.1-202004021433?classifier=sources

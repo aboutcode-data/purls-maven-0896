@@ -18,3 +18,5 @@
 - pkg:maven/io.helidon.microprofile.metrics/helidon-microprofile-metrics2@1.4.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.metrics/helidon-microprofile-metrics2@1.4.7
 - pkg:maven/io.helidon.microprofile.metrics/helidon-microprofile-metrics2@1.4.7?classifier=sources
+- pkg:maven/io.helidon.microprofile.metrics/helidon-microprofile-metrics2@1.4.8
+- pkg:maven/io.helidon.microprofile.metrics/helidon-microprofile-metrics2@1.4.8?classifier=sources

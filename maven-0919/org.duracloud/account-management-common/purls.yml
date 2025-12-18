@@ -36,3 +36,5 @@
 - pkg:maven/org.duracloud/account-management-common@5.1.0?classifier=sources
 - pkg:maven/org.duracloud/account-management-common@6.0.0
 - pkg:maven/org.duracloud/account-management-common@6.0.0?classifier=sources
+- pkg:maven/org.duracloud/account-management-common@7.0.0
+- pkg:maven/org.duracloud/account-management-common@7.0.0?classifier=sources

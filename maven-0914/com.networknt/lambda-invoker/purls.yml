@@ -1,0 +1,4 @@
+- pkg:maven/com.networknt/lambda-invoker@2.0.23
+- pkg:maven/com.networknt/lambda-invoker@2.0.23?classifier=sources
+- pkg:maven/com.networknt/lambda-invoker@2.0.24
+- pkg:maven/com.networknt/lambda-invoker@2.0.24?classifier=sources

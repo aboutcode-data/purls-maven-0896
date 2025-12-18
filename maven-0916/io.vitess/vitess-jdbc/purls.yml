@@ -22,3 +22,5 @@
 - pkg:maven/io.vitess/vitess-jdbc@7.0.0?classifier=sources
 - pkg:maven/io.vitess/vitess-jdbc@8.0.0
 - pkg:maven/io.vitess/vitess-jdbc@8.0.0?classifier=sources
+- pkg:maven/io.vitess/vitess-jdbc@9.0.0
+- pkg:maven/io.vitess/vitess-jdbc@9.0.0?classifier=sources

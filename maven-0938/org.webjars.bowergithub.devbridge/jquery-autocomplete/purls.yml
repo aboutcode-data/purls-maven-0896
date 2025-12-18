@@ -1,4 +1,6 @@
 - pkg:maven/org.webjars.bowergithub.devbridge/jquery-autocomplete@1.4.10
 - pkg:maven/org.webjars.bowergithub.devbridge/jquery-autocomplete@1.4.10?classifier=sources
+- pkg:maven/org.webjars.bowergithub.devbridge/jquery-autocomplete@1.4.11
+- pkg:maven/org.webjars.bowergithub.devbridge/jquery-autocomplete@1.4.11?classifier=sources
 - pkg:maven/org.webjars.bowergithub.devbridge/jquery-autocomplete@1.4.8
 - pkg:maven/org.webjars.bowergithub.devbridge/jquery-autocomplete@1.4.8?classifier=sources

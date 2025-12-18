@@ -1,0 +1,4 @@
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support@1.10
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support@1.10?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support@1.9
+- pkg:maven/no.entur.mapstruct.spi/protobuf-support@1.9?classifier=sources

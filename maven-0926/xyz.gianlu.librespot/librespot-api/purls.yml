@@ -48,3 +48,5 @@
 - pkg:maven/xyz.gianlu.librespot/librespot-api@1.5.3?classifier=sources
 - pkg:maven/xyz.gianlu.librespot/librespot-api@1.5.4
 - pkg:maven/xyz.gianlu.librespot/librespot-api@1.5.4?classifier=sources
+- pkg:maven/xyz.gianlu.librespot/librespot-api@1.5.5
+- pkg:maven/xyz.gianlu.librespot/librespot-api@1.5.5?classifier=sources

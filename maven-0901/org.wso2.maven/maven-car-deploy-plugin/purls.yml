@@ -45,6 +45,12 @@
 - pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.31?classifier=sources
 - pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.32
 - pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.32?classifier=sources
+- pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.33
+- pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.33?classifier=sources
+- pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.34
+- pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.34?classifier=sources
+- pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.35
+- pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.35?classifier=sources
 - pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.3?classifier=sources
 - pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.7
 - pkg:maven/org.wso2.maven/maven-car-deploy-plugin@5.2.7?classifier=sources

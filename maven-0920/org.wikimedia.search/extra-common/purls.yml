@@ -21,6 +21,8 @@
 - pkg:maven/org.wikimedia.search/extra-common@6.5.4
 - pkg:maven/org.wikimedia.search/extra-common@6.5.4-wmf11
 - pkg:maven/org.wikimedia.search/extra-common@6.5.4-wmf11?classifier=sources
+- pkg:maven/org.wikimedia.search/extra-common@6.5.4-wmf13
+- pkg:maven/org.wikimedia.search/extra-common@6.5.4-wmf13?classifier=sources
 - pkg:maven/org.wikimedia.search/extra-common@6.5.4-wmf9
 - pkg:maven/org.wikimedia.search/extra-common@6.5.4-wmf9?classifier=sources
 - pkg:maven/org.wikimedia.search/extra-common@6.5.4?classifier=sources

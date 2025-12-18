@@ -78,6 +78,10 @@
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.3.RELEASE
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.3.RELEASE?classifier=sources
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.4.RELEASE
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.5.RELEASE
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.0
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.0?classifier=sources
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.1
@@ -86,3 +90,7 @@
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.2?classifier=sources
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.3
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.3?classifier=sources
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.4
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.4?classifier=sources
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.5
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.2.5?classifier=sources

@@ -10,6 +10,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@3.20.3?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@3.21.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@3.21.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@3.22.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@3.23.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@3.23.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.2.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.2.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.3.0
@@ -22,3 +26,7 @@
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.3.3?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.5.0
 - pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.5.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.6.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.7.0
+- pkg:maven/com.nepxion/discovery-plugin-register-center-starter-consul@6.7.0?classifier=sources

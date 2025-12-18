@@ -1,2 +1,4 @@
 - pkg:maven/de.sciss/lucre-expr_3.0.0-M2@4.3.0
 - pkg:maven/de.sciss/lucre-expr_3.0.0-M2@4.3.0?classifier=sources
+- pkg:maven/de.sciss/lucre-expr_3.0.0-M2@4.4.0
+- pkg:maven/de.sciss/lucre-expr_3.0.0-M2@4.4.0?classifier=sources

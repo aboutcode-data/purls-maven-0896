@@ -1,2 +1,8 @@
 - pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.3-derivation
 - pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.3-derivation?classifier=sources
+- pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.5-generate-view
+- pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.5-generate-view?classifier=sources
+- pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.5-pre-release
+- pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.5-pre-release?classifier=sources
+- pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.5-view-generator
+- pkg:maven/io.github.irevive/caliban-cats_2.13@0.9.5-view-generator?classifier=sources

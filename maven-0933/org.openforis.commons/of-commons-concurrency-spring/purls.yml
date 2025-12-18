@@ -4,3 +4,5 @@
 - pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.25?classifier=sources
 - pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.26
 - pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.26?classifier=sources
+- pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.27
+- pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.27?classifier=sources

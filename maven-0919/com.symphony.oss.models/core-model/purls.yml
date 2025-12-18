@@ -26,3 +26,5 @@
 - pkg:maven/com.symphony.oss.models/core-model@0.6.0?classifier=sources
 - pkg:maven/com.symphony.oss.models/core-model@0.7.0
 - pkg:maven/com.symphony.oss.models/core-model@0.7.0?classifier=sources
+- pkg:maven/com.symphony.oss.models/core-model@0.8.0
+- pkg:maven/com.symphony.oss.models/core-model@0.8.0?classifier=sources

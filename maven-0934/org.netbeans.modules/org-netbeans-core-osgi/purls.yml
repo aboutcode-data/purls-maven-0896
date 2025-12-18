@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-osgi@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-osgi@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-osgi@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-osgi@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-osgi@RELEASE90?classifier=sources

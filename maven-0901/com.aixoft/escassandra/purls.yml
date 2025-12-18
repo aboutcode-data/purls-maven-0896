@@ -1,0 +1,2 @@
+- pkg:maven/com.aixoft/escassandra@0.8
+- pkg:maven/com.aixoft/escassandra@0.8?classifier=sources

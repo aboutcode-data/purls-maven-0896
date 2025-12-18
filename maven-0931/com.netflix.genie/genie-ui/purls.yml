@@ -104,6 +104,11 @@
 - pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.82?classifier=sources
 - pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.83?classifier=sources
 - pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.85?classifier=sources
+- pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.86?classifier=sources
+- pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.87?classifier=sources
+- pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.88?classifier=sources
 - pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.8?classifier=sources
 - pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.9
+- pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.90?classifier=sources
+- pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.91?classifier=sources
 - pkg:maven/com.netflix.genie/genie-ui@4.0.0-rc.9?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/net.gotev/recycleradapter@1.5?type=aar
 - pkg:maven/net.gotev/recycleradapter@2.10.1?classifier=sources
 - pkg:maven/net.gotev/recycleradapter@2.10.1?type=aar
+- pkg:maven/net.gotev/recycleradapter@3.0.0?classifier=sources
+- pkg:maven/net.gotev/recycleradapter@3.0.0?type=aar

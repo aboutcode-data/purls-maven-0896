@@ -4,3 +4,7 @@
 - pkg:maven/org.keycloak.example.demo/database-service@12.0.1?type=war
 - pkg:maven/org.keycloak.example.demo/database-service@12.0.2?classifier=sources
 - pkg:maven/org.keycloak.example.demo/database-service@12.0.2?type=war
+- pkg:maven/org.keycloak.example.demo/database-service@12.0.3?classifier=sources
+- pkg:maven/org.keycloak.example.demo/database-service@12.0.3?type=war
+- pkg:maven/org.keycloak.example.demo/database-service@12.0.4?classifier=sources
+- pkg:maven/org.keycloak.example.demo/database-service@12.0.4?type=war

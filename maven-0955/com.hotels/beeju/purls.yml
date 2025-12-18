@@ -32,3 +32,7 @@
 - pkg:maven/com.hotels/beeju@3.2.0?classifier=sources
 - pkg:maven/com.hotels/beeju@3.3.0
 - pkg:maven/com.hotels/beeju@3.3.0?classifier=sources
+- pkg:maven/com.hotels/beeju@4.0.0
+- pkg:maven/com.hotels/beeju@4.0.0?classifier=sources
+- pkg:maven/com.hotels/beeju@5.0.0
+- pkg:maven/com.hotels/beeju@5.0.0?classifier=sources

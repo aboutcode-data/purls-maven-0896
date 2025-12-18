@@ -18,3 +18,5 @@
 - pkg:maven/com.github.alexmojaki/s3-stream-upload@2.2.0?classifier=sources
 - pkg:maven/com.github.alexmojaki/s3-stream-upload@2.2.1
 - pkg:maven/com.github.alexmojaki/s3-stream-upload@2.2.1?classifier=sources
+- pkg:maven/com.github.alexmojaki/s3-stream-upload@2.2.2
+- pkg:maven/com.github.alexmojaki/s3-stream-upload@2.2.2?classifier=sources

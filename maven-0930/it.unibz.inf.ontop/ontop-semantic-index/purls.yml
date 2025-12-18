@@ -16,3 +16,5 @@
 - pkg:maven/it.unibz.inf.ontop/ontop-semantic-index@4.0.2?classifier=sources
 - pkg:maven/it.unibz.inf.ontop/ontop-semantic-index@4.0.3
 - pkg:maven/it.unibz.inf.ontop/ontop-semantic-index@4.0.3?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-semantic-index@4.1.0
+- pkg:maven/it.unibz.inf.ontop/ontop-semantic-index@4.1.0?classifier=sources

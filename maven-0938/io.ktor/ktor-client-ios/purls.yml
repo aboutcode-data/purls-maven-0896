@@ -1,3 +1,4 @@
 - pkg:maven/io.ktor/ktor-client-ios@1.0.0-rc?classifier=sources
 - pkg:maven/io.ktor/ktor-client-ios@1.0.0?classifier=sources
 - pkg:maven/io.ktor/ktor-client-ios@1.0.1?classifier=sources
+- pkg:maven/io.ktor/ktor-client-ios@1.5.2?classifier=sources

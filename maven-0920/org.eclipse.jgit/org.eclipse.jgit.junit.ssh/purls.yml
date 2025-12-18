@@ -1,5 +1,7 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@5.10.0.202012080955-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@5.10.0.202012080955-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@5.11.0.202103091610-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@5.11.0.202103091610-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@5.2.0.201812061821-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@5.2.0.201812061821-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@5.2.1.201812262042-r

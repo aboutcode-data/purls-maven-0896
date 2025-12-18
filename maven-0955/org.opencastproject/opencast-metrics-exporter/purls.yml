@@ -1,0 +1,2 @@
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.2
+- pkg:maven/org.opencastproject/opencast-metrics-exporter@9.2?classifier=sources

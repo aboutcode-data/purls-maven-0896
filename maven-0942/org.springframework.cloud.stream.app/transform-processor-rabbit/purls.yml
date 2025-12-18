@@ -30,3 +30,5 @@
 - pkg:maven/org.springframework.cloud.stream.app/transform-processor-rabbit@2.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud.stream.app/transform-processor-rabbit@3.0.0
 - pkg:maven/org.springframework.cloud.stream.app/transform-processor-rabbit@3.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud.stream.app/transform-processor-rabbit@3.0.1
+- pkg:maven/org.springframework.cloud.stream.app/transform-processor-rabbit@3.0.1?classifier=sources

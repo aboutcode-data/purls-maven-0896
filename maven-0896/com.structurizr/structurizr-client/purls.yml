@@ -52,3 +52,11 @@
 - pkg:maven/com.structurizr/structurizr-client@1.6.3?classifier=sources
 - pkg:maven/com.structurizr/structurizr-client@1.7.0
 - pkg:maven/com.structurizr/structurizr-client@1.7.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-client@1.7.1
+- pkg:maven/com.structurizr/structurizr-client@1.7.1?classifier=sources
+- pkg:maven/com.structurizr/structurizr-client@1.7.2
+- pkg:maven/com.structurizr/structurizr-client@1.7.2?classifier=sources
+- pkg:maven/com.structurizr/structurizr-client@1.8.0
+- pkg:maven/com.structurizr/structurizr-client@1.8.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-client@1.9.0
+- pkg:maven/com.structurizr/structurizr-client@1.9.0?classifier=sources

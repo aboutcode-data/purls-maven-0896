@@ -1,2 +1,4 @@
 - pkg:maven/org.pdfsam/pdfsam-injector@2.0.0
 - pkg:maven/org.pdfsam/pdfsam-injector@2.0.0?classifier=sources
+- pkg:maven/org.pdfsam/pdfsam-injector@3.0.0
+- pkg:maven/org.pdfsam/pdfsam-injector@3.0.0?classifier=sources

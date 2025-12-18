@@ -4,3 +4,7 @@
 - pkg:maven/one.lfa/one.lfa.epubsquash.cmdline@0.0.4?classifier=sources
 - pkg:maven/one.lfa/one.lfa.epubsquash.cmdline@0.0.5
 - pkg:maven/one.lfa/one.lfa.epubsquash.cmdline@0.0.5?classifier=sources
+- pkg:maven/one.lfa/one.lfa.epubsquash.cmdline@1.0.0
+- pkg:maven/one.lfa/one.lfa.epubsquash.cmdline@1.0.0?classifier=sources
+- pkg:maven/one.lfa/one.lfa.epubsquash.cmdline@1.0.1
+- pkg:maven/one.lfa/one.lfa.epubsquash.cmdline@1.0.1?classifier=sources

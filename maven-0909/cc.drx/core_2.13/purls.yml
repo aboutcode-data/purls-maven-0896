@@ -2,3 +2,5 @@
 - pkg:maven/cc.drx/core_2.13@e3
 - pkg:maven/cc.drx/core_2.13@e3?classifier=sources
 - pkg:maven/cc.drx/core_2.13@e?classifier=sources
+- pkg:maven/cc.drx/core_2.13@ee
+- pkg:maven/cc.drx/core_2.13@ee?classifier=sources

@@ -1,6 +1,16 @@
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0
 - pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0-M11
 - pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0-M11?classifier=sources
 - pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0-M13
 - pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0-M13?classifier=sources
 - pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0-M14
 - pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0-M14?classifier=sources
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@2.1.0?classifier=sources
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-M1
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-M1?classifier=sources
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-M2
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-M2?classifier=sources
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-M4
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-M4?classifier=sources
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-RC1
+- pkg:maven/org.typelevel/vault_sjs1_3.0.0-M2@3.0.0-RC1?classifier=sources

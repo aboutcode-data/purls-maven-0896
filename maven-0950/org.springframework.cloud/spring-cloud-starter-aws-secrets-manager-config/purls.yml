@@ -26,3 +26,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-secrets-manager-config@2.2.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-secrets-manager-config@2.2.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-secrets-manager-config@2.2.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-secrets-manager-config@2.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-aws-secrets-manager-config@2.2.6.RELEASE?classifier=sources

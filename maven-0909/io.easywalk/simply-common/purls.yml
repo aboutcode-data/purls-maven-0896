@@ -1,0 +1,4 @@
+- pkg:maven/io.easywalk/simply-common@0.0.1.RELEASE
+- pkg:maven/io.easywalk/simply-common@0.0.1.RELEASE?classifier=sources
+- pkg:maven/io.easywalk/simply-common@0.0.3.RELEASE
+- pkg:maven/io.easywalk/simply-common@0.0.3.RELEASE?classifier=sources

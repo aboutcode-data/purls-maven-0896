@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.7.0
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.7.0?classifier=sources

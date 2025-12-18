@@ -14,9 +14,13 @@
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.0-1061?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.0-1091
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.0-1091?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.1-1020
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.1-1020?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.1.0-1050
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.1.0-1050?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.1.0-1097
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.1.0-1097?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@11.1.0-1110
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@11.1.0-1110?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.5.0-1065
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.5.0-1065?classifier=sources

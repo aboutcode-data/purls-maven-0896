@@ -172,3 +172,5 @@
 - pkg:maven/org.mockito/mockito-android@3.7.0?classifier=sources
 - pkg:maven/org.mockito/mockito-android@3.7.7
 - pkg:maven/org.mockito/mockito-android@3.7.7?classifier=sources
+- pkg:maven/org.mockito/mockito-android@3.8.0
+- pkg:maven/org.mockito/mockito-android@3.8.0?classifier=sources

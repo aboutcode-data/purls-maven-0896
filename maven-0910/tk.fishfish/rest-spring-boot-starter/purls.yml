@@ -1,2 +1,4 @@
 - pkg:maven/tk.fishfish/rest-spring-boot-starter@1.0.0.RELEASE
 - pkg:maven/tk.fishfish/rest-spring-boot-starter@1.0.0.RELEASE?classifier=sources
+- pkg:maven/tk.fishfish/rest-spring-boot-starter@1.1.0.RELEASE
+- pkg:maven/tk.fishfish/rest-spring-boot-starter@1.1.0.RELEASE?classifier=sources

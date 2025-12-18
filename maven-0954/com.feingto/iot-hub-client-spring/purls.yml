@@ -68,3 +68,5 @@
 - pkg:maven/com.feingto/iot-hub-client-spring@2.3.0.RELEASE?classifier=sources
 - pkg:maven/com.feingto/iot-hub-client-spring@2.3.1.RELEASE
 - pkg:maven/com.feingto/iot-hub-client-spring@2.3.1.RELEASE?classifier=sources
+- pkg:maven/com.feingto/iot-hub-client-spring@2.3.3.RELEASE
+- pkg:maven/com.feingto/iot-hub-client-spring@2.3.3.RELEASE?classifier=sources

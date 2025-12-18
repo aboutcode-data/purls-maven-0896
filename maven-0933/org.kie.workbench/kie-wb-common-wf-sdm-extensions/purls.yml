@@ -86,6 +86,12 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.47.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.48.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.49.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.49.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.50.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.50.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.51.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.51.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.7.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-wf-sdm-extensions@7.8.0.Final

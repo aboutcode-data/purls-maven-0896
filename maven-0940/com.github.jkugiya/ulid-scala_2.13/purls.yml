@@ -2,3 +2,7 @@
 - pkg:maven/com.github.jkugiya/ulid-scala_2.13@0.1.0?classifier=sources
 - pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.0
 - pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.0?classifier=sources
+- pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.1
+- pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.1?classifier=sources
+- pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.2
+- pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.2?classifier=sources

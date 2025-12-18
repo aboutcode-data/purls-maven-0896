@@ -1,0 +1,4 @@
+- pkg:maven/io.holixon.axon/axon-framework-bom@4.4.6
+- pkg:maven/io.holixon.axon/axon-framework-bom@4.4.6?classifier=sources
+- pkg:maven/io.holixon.axon/axon-framework-bom@4.4.7
+- pkg:maven/io.holixon.axon/axon-framework-bom@4.4.7?classifier=sources

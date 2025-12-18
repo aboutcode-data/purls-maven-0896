@@ -8,3 +8,4 @@
 - pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.5.0?classifier=sources
 - pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.6.0?classifier=sources
 - pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.6.1?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.8.0?classifier=sources

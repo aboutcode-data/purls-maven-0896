@@ -1,0 +1,8 @@
+- pkg:maven/com.foilen/jl-incubator@1.3.2
+- pkg:maven/com.foilen/jl-incubator@1.3.2?classifier=sources
+- pkg:maven/com.foilen/jl-incubator@1.4.0
+- pkg:maven/com.foilen/jl-incubator@1.4.0?classifier=sources
+- pkg:maven/com.foilen/jl-incubator@1.5.0
+- pkg:maven/com.foilen/jl-incubator@1.5.0?classifier=sources
+- pkg:maven/com.foilen/jl-incubator@1.5.1
+- pkg:maven/com.foilen/jl-incubator@1.5.1?classifier=sources

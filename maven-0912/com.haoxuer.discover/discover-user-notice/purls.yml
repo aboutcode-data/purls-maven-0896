@@ -19,3 +19,7 @@
 - pkg:maven/com.haoxuer.discover/discover-user-notice@2.1.0?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-user-notice@3.1.4-20201031
 - pkg:maven/com.haoxuer.discover/discover-user-notice@3.1.4-20201031?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-user-notice@3.2.5-20210225
+- pkg:maven/com.haoxuer.discover/discover-user-notice@3.2.5-20210225?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-user-notice@3.2.6-20210222
+- pkg:maven/com.haoxuer.discover/discover-user-notice@3.2.6-20210222?classifier=sources

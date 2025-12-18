@@ -2,3 +2,5 @@
 - pkg:maven/com.github.liaomengge/base-spring-cloud-framework@2.0.1-RELEASE?classifier=sources
 - pkg:maven/com.github.liaomengge/base-spring-cloud-framework@2.0.5-RELEASE
 - pkg:maven/com.github.liaomengge/base-spring-cloud-framework@2.0.5-RELEASE?classifier=sources
+- pkg:maven/com.github.liaomengge/base-spring-cloud-framework@3.0.0.RELEASE
+- pkg:maven/com.github.liaomengge/base-spring-cloud-framework@3.0.0.RELEASE?classifier=sources

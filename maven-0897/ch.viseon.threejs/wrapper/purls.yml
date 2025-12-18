@@ -6,3 +6,5 @@
 - pkg:maven/ch.viseon.threejs/wrapper@113.0.0?classifier=sources
 - pkg:maven/ch.viseon.threejs/wrapper@115.0.0
 - pkg:maven/ch.viseon.threejs/wrapper@115.0.0?classifier=sources
+- pkg:maven/ch.viseon.threejs/wrapper@126.0.0
+- pkg:maven/ch.viseon.threejs/wrapper@126.0.0?classifier=sources

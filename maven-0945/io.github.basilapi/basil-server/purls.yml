@@ -1,0 +1,2 @@
+- pkg:maven/io.github.basilapi/basil-server@0.8.0
+- pkg:maven/io.github.basilapi/basil-server@0.8.0?classifier=sources

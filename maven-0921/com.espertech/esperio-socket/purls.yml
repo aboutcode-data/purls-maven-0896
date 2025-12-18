@@ -68,3 +68,5 @@
 - pkg:maven/com.espertech/esperio-socket@8.5.0?classifier=sources
 - pkg:maven/com.espertech/esperio-socket@8.6.0
 - pkg:maven/com.espertech/esperio-socket@8.6.0?classifier=sources
+- pkg:maven/com.espertech/esperio-socket@8.7.0
+- pkg:maven/com.espertech/esperio-socket@8.7.0?classifier=sources

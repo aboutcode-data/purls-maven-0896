@@ -38,3 +38,5 @@
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.50?classifier=sources
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.51
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.51?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.52
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-common-test@0.52?classifier=sources

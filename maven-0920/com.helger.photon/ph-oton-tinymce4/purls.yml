@@ -8,3 +8,5 @@
 - pkg:maven/com.helger.photon/ph-oton-tinymce4@8.2.8?classifier=sources
 - pkg:maven/com.helger.photon/ph-oton-tinymce4@8.2.9
 - pkg:maven/com.helger.photon/ph-oton-tinymce4@8.2.9?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-tinymce4@8.3.0
+- pkg:maven/com.helger.photon/ph-oton-tinymce4@8.3.0?classifier=sources

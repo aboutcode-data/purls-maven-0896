@@ -125,4 +125,5 @@
 - pkg:maven/org.zkoss.zk/zhtml@9.0.0?classifier=sources
 - pkg:maven/org.zkoss.zk/zhtml@9.5.0.1?classifier=sources
 - pkg:maven/org.zkoss.zk/zhtml@9.5.0.2?classifier=sources
+- pkg:maven/org.zkoss.zk/zhtml@9.5.0.3?classifier=sources
 - pkg:maven/org.zkoss.zk/zhtml@9.5.0?classifier=sources

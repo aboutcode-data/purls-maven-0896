@@ -1,2 +1,4 @@
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv8
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv8?classifier=sources
+- pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv9
+- pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv9?classifier=sources

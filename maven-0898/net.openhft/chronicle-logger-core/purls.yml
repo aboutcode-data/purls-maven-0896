@@ -16,3 +16,5 @@
 - pkg:maven/net.openhft/chronicle-logger-core@4.20ea2?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea1
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea1?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-core@4.21ea40
+- pkg:maven/net.openhft/chronicle-logger-core@4.21ea40?classifier=sources

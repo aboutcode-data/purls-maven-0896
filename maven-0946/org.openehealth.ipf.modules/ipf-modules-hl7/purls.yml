@@ -90,6 +90,8 @@
 - pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@3.7.2?classifier=sources
 - pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@3.7.3
 - pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@3.7.3?classifier=sources
+- pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@3.7.4
+- pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@3.7.4?classifier=sources
 - pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@4.0-20200713
 - pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@4.0-20200713?classifier=sources
 - pkg:maven/org.openehealth.ipf.modules/ipf-modules-hl7@4.0.0

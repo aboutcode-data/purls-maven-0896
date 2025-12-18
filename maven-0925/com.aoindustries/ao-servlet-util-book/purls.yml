@@ -22,3 +22,9 @@
 - pkg:maven/com.aoindustries/ao-servlet-util-book@3.3.0?classifier=sources
 - pkg:maven/com.aoindustries/ao-servlet-util-book@3.3.1
 - pkg:maven/com.aoindustries/ao-servlet-util-book@3.3.1?classifier=sources
+- pkg:maven/com.aoindustries/ao-servlet-util-book@3.4.0
+- pkg:maven/com.aoindustries/ao-servlet-util-book@3.4.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-servlet-util-book@3.5.0
+- pkg:maven/com.aoindustries/ao-servlet-util-book@3.5.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-servlet-util-book@3.5.1
+- pkg:maven/com.aoindustries/ao-servlet-util-book@3.5.1?classifier=sources

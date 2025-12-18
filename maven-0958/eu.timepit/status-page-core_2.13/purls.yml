@@ -1,2 +1,6 @@
 - pkg:maven/eu.timepit/status-page-core_2.13@0.2.7
 - pkg:maven/eu.timepit/status-page-core_2.13@0.2.7?classifier=sources
+- pkg:maven/eu.timepit/status-page-core_2.13@0.2.8
+- pkg:maven/eu.timepit/status-page-core_2.13@0.2.8?classifier=sources
+- pkg:maven/eu.timepit/status-page-core_2.13@0.3.0
+- pkg:maven/eu.timepit/status-page-core_2.13@0.3.0?classifier=sources

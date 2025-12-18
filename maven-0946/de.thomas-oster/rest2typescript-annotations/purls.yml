@@ -2,3 +2,11 @@
 - pkg:maven/de.thomas-oster/rest2typescript-annotations@1.0?classifier=sources
 - pkg:maven/de.thomas-oster/rest2typescript-annotations@1.1
 - pkg:maven/de.thomas-oster/rest2typescript-annotations@1.1?classifier=sources
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.2
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.2?classifier=sources
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.3
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.3.1
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.3.1?classifier=sources
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.3.2
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.3.2?classifier=sources
+- pkg:maven/de.thomas-oster/rest2typescript-annotations@1.3?classifier=sources

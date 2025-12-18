@@ -1,0 +1,3 @@
+- pkg:maven/one.leftshift.pdfscript/pdfscript@1.1.0
+- pkg:maven/one.leftshift.pdfscript/pdfscript@1.1.0?classifier=sources
+- pkg:maven/one.leftshift.pdfscript/pdfscript@1.2.0?classifier=sources

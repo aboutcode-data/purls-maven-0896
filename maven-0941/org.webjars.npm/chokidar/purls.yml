@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.npm/chokidar@3.4.2?classifier=sources
 - pkg:maven/org.webjars.npm/chokidar@3.4.3
 - pkg:maven/org.webjars.npm/chokidar@3.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/chokidar@3.5.1
+- pkg:maven/org.webjars.npm/chokidar@3.5.1?classifier=sources

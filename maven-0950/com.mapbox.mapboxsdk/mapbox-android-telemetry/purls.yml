@@ -138,3 +138,7 @@
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@6.2.1?type=aar
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@6.2.2?classifier=sources
 - pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@6.2.2?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@6.3.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@6.3.0?type=aar
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@7.0.0?classifier=sources
+- pkg:maven/com.mapbox.mapboxsdk/mapbox-android-telemetry@7.0.0?type=aar

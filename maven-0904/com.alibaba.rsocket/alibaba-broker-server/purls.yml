@@ -5,3 +5,4 @@
 - pkg:maven/com.alibaba.rsocket/alibaba-broker-server@1.0.0.RC2?classifier=sources
 - pkg:maven/com.alibaba.rsocket/alibaba-broker-server@1.0.0.RC3?classifier=sources
 - pkg:maven/com.alibaba.rsocket/alibaba-broker-server@1.0.0.RC4?classifier=sources
+- pkg:maven/com.alibaba.rsocket/alibaba-broker-server@1.0.0?classifier=sources

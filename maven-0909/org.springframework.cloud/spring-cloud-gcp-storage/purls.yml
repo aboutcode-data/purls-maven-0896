@@ -26,3 +26,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-gcp-storage@1.2.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gcp-storage@1.2.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-gcp-storage@1.2.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-storage@1.2.7.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gcp-storage@1.2.7.RELEASE?classifier=sources

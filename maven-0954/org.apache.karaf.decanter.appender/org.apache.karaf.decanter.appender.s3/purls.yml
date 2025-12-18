@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.s3@2.7.0
+- pkg:maven/org.apache.karaf.decanter.appender/org.apache.karaf.decanter.appender.s3@2.7.0?classifier=sources

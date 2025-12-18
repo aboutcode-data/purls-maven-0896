@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.paddlepaddle/paddlepaddle-engine@0.10.0
+- pkg:maven/ai.djl.paddlepaddle/paddlepaddle-engine@0.10.0?classifier=sources

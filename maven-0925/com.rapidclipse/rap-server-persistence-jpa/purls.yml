@@ -10,3 +10,5 @@
 - pkg:maven/com.rapidclipse/rap-server-persistence-jpa@10.02.01-RAP-GA?classifier=sources
 - pkg:maven/com.rapidclipse/rap-server-persistence-jpa@10.02.02-RAP-GA
 - pkg:maven/com.rapidclipse/rap-server-persistence-jpa@10.02.02-RAP-GA?classifier=sources
+- pkg:maven/com.rapidclipse/rap-server-persistence-jpa@10.03.00-RAP-GA
+- pkg:maven/com.rapidclipse/rap-server-persistence-jpa@10.03.00-RAP-GA?classifier=sources

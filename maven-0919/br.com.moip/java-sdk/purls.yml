@@ -74,3 +74,9 @@
 - pkg:maven/br.com.moip/java-sdk@4.5.1?classifier=sources
 - pkg:maven/br.com.moip/java-sdk@4.6.0
 - pkg:maven/br.com.moip/java-sdk@4.6.0?classifier=sources
+- pkg:maven/br.com.moip/java-sdk@4.7.0
+- pkg:maven/br.com.moip/java-sdk@4.7.0?classifier=sources
+- pkg:maven/br.com.moip/java-sdk@4.7.1
+- pkg:maven/br.com.moip/java-sdk@4.7.1?classifier=sources
+- pkg:maven/br.com.moip/java-sdk@4.7.2
+- pkg:maven/br.com.moip/java-sdk@4.7.2?classifier=sources

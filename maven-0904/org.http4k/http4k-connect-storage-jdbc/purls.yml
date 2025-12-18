@@ -1,0 +1,8 @@
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.15.0.0
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.15.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.15.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.15.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.15.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.15.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.15.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-jdbc@2.16.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/id.unify.sdk/sdk-behaviorprint@1.0.0?classifier=sources
+- pkg:maven/id.unify.sdk/sdk-behaviorprint@1.0.0?type=aar
+- pkg:maven/id.unify.sdk/sdk-behaviorprint@1.0.2?classifier=sources
+- pkg:maven/id.unify.sdk/sdk-behaviorprint@1.0.2?type=aar

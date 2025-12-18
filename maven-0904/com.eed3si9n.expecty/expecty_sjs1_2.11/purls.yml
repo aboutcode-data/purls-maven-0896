@@ -6,3 +6,9 @@
 - pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.14.1?classifier=sources
 - pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.0
 - pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.0?classifier=sources
+- pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.1
+- pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.1-M1
+- pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.1-M1?classifier=sources
+- pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.1-M2
+- pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.1-M2?classifier=sources
+- pkg:maven/com.eed3si9n.expecty/expecty_sjs1_2.11@0.15.1?classifier=sources

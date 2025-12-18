@@ -1,0 +1,4 @@
+- pkg:maven/com.github.hexffff0/Eggs@1.0.0?classifier=sources
+- pkg:maven/com.github.hexffff0/Eggs@1.0.2?classifier=sources
+- pkg:maven/com.github.hexffff0/Eggs@1.0.3?classifier=sources
+- pkg:maven/com.github.hexffff0/Eggs@1.0.4?classifier=sources

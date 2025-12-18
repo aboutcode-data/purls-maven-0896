@@ -42,5 +42,8 @@
 - pkg:maven/org.jbpm.contrib/google-translate-workitem@7.46.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/google-translate-workitem@7.47.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/google-translate-workitem@7.48.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/google-translate-workitem@7.49.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/google-translate-workitem@7.50.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/google-translate-workitem@7.51.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/google-translate-workitem@7.8.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/google-translate-workitem@7.9.0.Final?classifier=sources

@@ -38,6 +38,8 @@
 - pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M2
 - pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M20?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M21?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M22?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M23?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M2?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M3
 - pkg:maven/org.hawaiiframework/hawaii-logging@3.0.0.M3?classifier=sources

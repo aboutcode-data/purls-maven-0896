@@ -1,2 +1,6 @@
 - pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@1.0.1%2Bjdk-8
 - pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@1.0.1%2Bjdk-8?classifier=sources
+- pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@1.1.0-jdk-11
+- pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@1.1.0-jdk-11?classifier=sources
+- pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@1.1.1-jdk-11
+- pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@1.1.1-jdk-11?classifier=sources

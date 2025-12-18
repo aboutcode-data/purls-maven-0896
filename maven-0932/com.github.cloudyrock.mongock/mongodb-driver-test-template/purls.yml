@@ -28,3 +28,12 @@
 - pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.2.6.BETA
 - pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.2.7.BETA
 - pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.2.8.BETA
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.2.9.BETA
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.0
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.2
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.3
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.4
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.5
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.5?classifier=sources
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.7
+- pkg:maven/com.github.cloudyrock.mongock/mongodb-driver-test-template@4.3.7?classifier=sources

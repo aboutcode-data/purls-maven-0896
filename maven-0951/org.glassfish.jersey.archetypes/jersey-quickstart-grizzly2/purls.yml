@@ -161,3 +161,4 @@
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@3.0.0-M6?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@3.0.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@3.0.0?classifier=sources
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@3.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.tink/rest@0.6.1?classifier=sources
+- pkg:maven/com.tink/rest@0.6.2?classifier=sources

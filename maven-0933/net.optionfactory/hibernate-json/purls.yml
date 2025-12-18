@@ -6,3 +6,5 @@
 - pkg:maven/net.optionfactory/hibernate-json@2.0?classifier=sources
 - pkg:maven/net.optionfactory/hibernate-json@3.0
 - pkg:maven/net.optionfactory/hibernate-json@3.0?classifier=sources
+- pkg:maven/net.optionfactory/hibernate-json@3.1
+- pkg:maven/net.optionfactory/hibernate-json@3.1?classifier=sources

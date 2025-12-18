@@ -1,0 +1,4 @@
+- pkg:maven/com.arthenica/ffmpeg-kit-audio@4.4.LTS?classifier=sources
+- pkg:maven/com.arthenica/ffmpeg-kit-audio@4.4.LTS?type=aar
+- pkg:maven/com.arthenica/ffmpeg-kit-audio@4.4?classifier=sources
+- pkg:maven/com.arthenica/ffmpeg-kit-audio@4.4?type=aar

@@ -190,3 +190,5 @@
 - pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-testing-data@0.4.164?classifier=sources
 - pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-testing-data@0.5.166
 - pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-testing-data@0.5.166?classifier=sources
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-testing-data@0.6.167
+- pkg:maven/com.github.jcustenborder.kafka.connect/connect-utils-testing-data@0.6.167?classifier=sources

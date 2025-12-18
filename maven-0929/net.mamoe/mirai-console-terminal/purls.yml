@@ -1,0 +1,15 @@
+- pkg:maven/net.mamoe/mirai-console-terminal@2.4-M1-dev-publish-3?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.4-RC?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.4.0-dev-publish-2?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.4.0?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.4.1?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.4.2?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5-M1?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5-M2-dev-2?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5-M2?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5-RC-dev-1?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5-RC-dev-2?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5-RC?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5.0-dev-1?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5.0-dev-2?classifier=sources
+- pkg:maven/net.mamoe/mirai-console-terminal@2.5.0-dev-android-1?classifier=sources

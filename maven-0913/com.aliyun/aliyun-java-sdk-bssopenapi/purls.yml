@@ -76,3 +76,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-bssopenapi@1.6.2?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-bssopenapi@1.6.5
 - pkg:maven/com.aliyun/aliyun-java-sdk-bssopenapi@1.6.5?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-bssopenapi@1.6.6
+- pkg:maven/com.aliyun/aliyun-java-sdk-bssopenapi@1.6.6?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.devonfw.java.modules/devon4j-http-client-rest@2020.08.001?classifier=sources
 - pkg:maven/com.devonfw.java.modules/devon4j-http-client-rest@2020.12.001
 - pkg:maven/com.devonfw.java.modules/devon4j-http-client-rest@2020.12.001?classifier=sources
+- pkg:maven/com.devonfw.java.modules/devon4j-http-client-rest@2020.12.002
+- pkg:maven/com.devonfw.java.modules/devon4j-http-client-rest@2020.12.002?classifier=sources

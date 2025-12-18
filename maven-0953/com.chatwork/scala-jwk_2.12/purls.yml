@@ -10,3 +10,5 @@
 - pkg:maven/com.chatwork/scala-jwk_2.12@1.0.4?classifier=sources
 - pkg:maven/com.chatwork/scala-jwk_2.12@1.0.5
 - pkg:maven/com.chatwork/scala-jwk_2.12@1.0.5?classifier=sources
+- pkg:maven/com.chatwork/scala-jwk_2.12@1.1.0
+- pkg:maven/com.chatwork/scala-jwk_2.12@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.rsocket.rpc/rsocket-ipc-graphql@0.3.0
+- pkg:maven/io.rsocket.rpc/rsocket-ipc-graphql@0.3.0?classifier=sources

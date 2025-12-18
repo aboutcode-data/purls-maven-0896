@@ -1,2 +1,6 @@
 - pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.2.0
 - pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.2.0?classifier=sources
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.3.0
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.3.0?classifier=sources
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.4.1
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.4.1?classifier=sources

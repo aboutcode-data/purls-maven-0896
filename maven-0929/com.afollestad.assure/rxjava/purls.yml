@@ -1,0 +1,4 @@
+- pkg:maven/com.afollestad.assure/rxjava@0.1.0?classifier=sources
+- pkg:maven/com.afollestad.assure/rxjava@0.1.0?type=aar
+- pkg:maven/com.afollestad.assure/rxjava@0.2.0?classifier=sources
+- pkg:maven/com.afollestad.assure/rxjava@0.2.0?type=aar

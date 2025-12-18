@@ -144,3 +144,7 @@
 - pkg:maven/com.netease.nimlib/lucene@8.1.4?type=aar
 - pkg:maven/com.netease.nimlib/lucene@8.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@8.2.0?type=aar
+- pkg:maven/com.netease.nimlib/lucene@8.2.2?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@8.2.2?type=aar
+- pkg:maven/com.netease.nimlib/lucene@8.3.0?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@8.3.0?type=aar

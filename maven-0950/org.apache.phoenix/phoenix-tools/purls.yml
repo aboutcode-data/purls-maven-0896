@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.phoenix/phoenix-tools@4.16.0
+- pkg:maven/org.apache.phoenix/phoenix-tools@4.16.0?classifier=sources
+- pkg:maven/org.apache.phoenix/phoenix-tools@5.1.0
+- pkg:maven/org.apache.phoenix/phoenix-tools@5.1.0?classifier=sources

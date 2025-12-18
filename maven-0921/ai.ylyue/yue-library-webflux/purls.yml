@@ -4,7 +4,11 @@
 - pkg:maven/ai.ylyue/yue-library-webflux@j11.2.2.0?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-webflux@j11.2.3.0
 - pkg:maven/ai.ylyue/yue-library-webflux@j11.2.3.0?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-webflux@j11.2.3.1
+- pkg:maven/ai.ylyue/yue-library-webflux@j11.2.3.1?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-webflux@j8.2.2.0
 - pkg:maven/ai.ylyue/yue-library-webflux@j8.2.2.0?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-webflux@j8.2.3.0
 - pkg:maven/ai.ylyue/yue-library-webflux@j8.2.3.0?classifier=sources
+- pkg:maven/ai.ylyue/yue-library-webflux@j8.2.3.1
+- pkg:maven/ai.ylyue/yue-library-webflux@j8.2.3.1?classifier=sources

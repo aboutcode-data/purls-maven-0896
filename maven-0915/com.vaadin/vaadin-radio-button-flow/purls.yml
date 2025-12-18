@@ -30,6 +30,16 @@
 - pkg:maven/com.vaadin/vaadin-radio-button-flow@18.0.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-radio-button-flow@18.0.5
 - pkg:maven/com.vaadin/vaadin-radio-button-flow@18.0.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@18.0.6
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@18.0.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@18.0.7
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@18.0.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@19.0.0
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@19.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@19.0.1
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@19.0.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@19.0.2
+- pkg:maven/com.vaadin/vaadin-radio-button-flow@19.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-radio-button-flow@2.0.0
 - pkg:maven/com.vaadin/vaadin-radio-button-flow@2.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-radio-button-flow@2.0.1

@@ -70,3 +70,5 @@
 - pkg:maven/com.datadoghq/jmxfetch@0.40.3?classifier=sources
 - pkg:maven/com.datadoghq/jmxfetch@0.41.0
 - pkg:maven/com.datadoghq/jmxfetch@0.41.0?classifier=sources
+- pkg:maven/com.datadoghq/jmxfetch@0.42.0
+- pkg:maven/com.datadoghq/jmxfetch@0.42.0?classifier=sources

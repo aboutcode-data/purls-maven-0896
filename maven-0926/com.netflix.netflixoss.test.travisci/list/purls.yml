@@ -1,0 +1,5 @@
+- pkg:maven/com.netflix.netflixoss.test.travisci/list@0.1.0?classifier=sources
+- pkg:maven/com.netflix.netflixoss.test.travisci/list@0.2.0?classifier=sources
+- pkg:maven/com.netflix.netflixoss.test.travisci/list@0.3.0?classifier=sources
+- pkg:maven/com.netflix.netflixoss.test.travisci/list@9999.0.1?classifier=sources
+- pkg:maven/com.netflix.netflixoss.test.travisci/list@9999.0.2?classifier=sources

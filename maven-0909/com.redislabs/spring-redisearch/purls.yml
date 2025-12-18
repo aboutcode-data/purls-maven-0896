@@ -68,3 +68,5 @@
 - pkg:maven/com.redislabs/spring-redisearch@2.4.4?classifier=sources
 - pkg:maven/com.redislabs/spring-redisearch@2.5.0
 - pkg:maven/com.redislabs/spring-redisearch@2.5.0?classifier=sources
+- pkg:maven/com.redislabs/spring-redisearch@3.0.1
+- pkg:maven/com.redislabs/spring-redisearch@3.0.1?classifier=sources

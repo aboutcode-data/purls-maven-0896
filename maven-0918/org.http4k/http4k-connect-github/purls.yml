@@ -1,0 +1,3 @@
+- pkg:maven/org.http4k/http4k-connect-github@2.15.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-github@2.15.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-github@2.16.0.0?classifier=sources

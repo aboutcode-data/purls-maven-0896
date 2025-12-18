@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.kotlinx/dataframe@0.7.2-dev-188?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@0.7.2-dev-190?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@0.7.2-dev-192?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@0.7.2-dev-198-0.8.3.306?classifier=sources

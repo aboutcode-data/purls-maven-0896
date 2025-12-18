@@ -1,0 +1,4 @@
+- pkg:maven/io.github.jinlongliao/loadagent@1.0.0.release
+- pkg:maven/io.github.jinlongliao/loadagent@1.0.0.release?classifier=sources
+- pkg:maven/io.github.jinlongliao/loadagent@1.0.1.release
+- pkg:maven/io.github.jinlongliao/loadagent@1.0.1.release?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/com.coralogix/leader-example_2.13@0.1.5
 - pkg:maven/com.coralogix/leader-example_2.13@0.1.5?classifier=sources
+- pkg:maven/com.coralogix/leader-example_2.13@0.2.0
+- pkg:maven/com.coralogix/leader-example_2.13@0.2.0?classifier=sources
+- pkg:maven/com.coralogix/leader-example_2.13@0.3.0
+- pkg:maven/com.coralogix/leader-example_2.13@0.3.0?classifier=sources
+- pkg:maven/com.coralogix/leader-example_2.13@0.4.0
+- pkg:maven/com.coralogix/leader-example_2.13@0.4.0?classifier=sources
+- pkg:maven/com.coralogix/leader-example_2.13@0.5.0
+- pkg:maven/com.coralogix/leader-example_2.13@0.5.0?classifier=sources

@@ -38,3 +38,6 @@
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.0-RC2?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.0?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.0?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.1
+- pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.1?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/com.townmc/townmc-mp@3.2.1
+- pkg:maven/com.townmc/townmc-mp@3.2.1?classifier=sources
 - pkg:maven/com.townmc/townmc-mp@3.25
 - pkg:maven/com.townmc/townmc-mp@3.25?classifier=sources

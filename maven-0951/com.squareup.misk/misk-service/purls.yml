@@ -13,6 +13,10 @@
 - pkg:maven/com.squareup.misk/misk-service@0.15.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-service@0.16.0
 - pkg:maven/com.squareup.misk/misk-service@0.16.0?classifier=sources
+- pkg:maven/com.squareup.misk/misk-service@0.17.0-20210128.0016-d60234a
+- pkg:maven/com.squareup.misk/misk-service@0.17.0-20210128.0016-d60234a?classifier=sources
+- pkg:maven/com.squareup.misk/misk-service@0.17.0-20210210.0438-e43f047
+- pkg:maven/com.squareup.misk/misk-service@0.17.0-20210210.0438-e43f047?classifier=sources
 - pkg:maven/com.squareup.misk/misk-service@0.8.0
 - pkg:maven/com.squareup.misk/misk-service@0.8.0?classifier=sources
 - pkg:maven/com.squareup.misk/misk-service@0.9.0

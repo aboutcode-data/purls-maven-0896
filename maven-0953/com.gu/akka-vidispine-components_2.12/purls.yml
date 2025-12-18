@@ -16,3 +16,5 @@
 - pkg:maven/com.gu/akka-vidispine-components_2.12@0.8?classifier=sources
 - pkg:maven/com.gu/akka-vidispine-components_2.12@0.9
 - pkg:maven/com.gu/akka-vidispine-components_2.12@0.9?classifier=sources
+- pkg:maven/com.gu/akka-vidispine-components_2.12@1.0.0-RC1
+- pkg:maven/com.gu/akka-vidispine-components_2.12@1.0.0-RC1?classifier=sources

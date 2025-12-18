@@ -56,3 +56,5 @@
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.3.0?classifier=sources
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.4.0
 - pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@2.4.0?classifier=sources
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@3.0.0
+- pkg:maven/org.springframework.statemachine/spring-statemachine-data-mongodb@3.0.0?classifier=sources

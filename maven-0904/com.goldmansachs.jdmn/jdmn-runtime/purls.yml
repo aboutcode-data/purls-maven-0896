@@ -26,3 +26,7 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.1?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.2
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.2?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.3
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.3?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.4
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.4?classifier=sources

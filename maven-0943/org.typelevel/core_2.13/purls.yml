@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/core_2.13@1.0.0-M2
+- pkg:maven/org.typelevel/core_2.13@1.0.0-M2?classifier=sources
+- pkg:maven/org.typelevel/core_2.13@1.0.0-M3
+- pkg:maven/org.typelevel/core_2.13@1.0.0-M3?classifier=sources

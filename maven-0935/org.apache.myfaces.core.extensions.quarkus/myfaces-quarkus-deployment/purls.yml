@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.myfaces.core.extensions.quarkus/myfaces-quarkus-deployment@2.3-next-M3?classifier=sources
 - pkg:maven/org.apache.myfaces.core.extensions.quarkus/myfaces-quarkus-deployment@2.3-next-M4
 - pkg:maven/org.apache.myfaces.core.extensions.quarkus/myfaces-quarkus-deployment@2.3-next-M4?classifier=sources
+- pkg:maven/org.apache.myfaces.core.extensions.quarkus/myfaces-quarkus-deployment@2.3-next-M5
+- pkg:maven/org.apache.myfaces.core.extensions.quarkus/myfaces-quarkus-deployment@2.3-next-M5?classifier=sources

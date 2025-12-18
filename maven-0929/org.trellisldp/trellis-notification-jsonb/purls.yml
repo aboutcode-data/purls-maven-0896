@@ -1,0 +1,3 @@
+- pkg:maven/org.trellisldp/trellis-notification-jsonb@0.17.0?classifier=sources
+- pkg:maven/org.trellisldp/trellis-notification-jsonb@0.17.1?classifier=sources
+- pkg:maven/org.trellisldp/trellis-notification-jsonb@0.17.2?classifier=sources

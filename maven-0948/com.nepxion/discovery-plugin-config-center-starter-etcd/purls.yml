@@ -1,0 +1,8 @@
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@3.22.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@3.23.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@3.23.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@6.6.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@6.7.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-etcd@6.7.0?classifier=sources
