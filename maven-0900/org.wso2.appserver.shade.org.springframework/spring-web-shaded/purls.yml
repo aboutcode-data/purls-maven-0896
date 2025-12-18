@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.appserver.shade.org.springframework/spring-web-shaded@4.2.5.wso2v1-m3
+- pkg:maven/org.wso2.appserver.shade.org.springframework/spring-web-shaded@4.2.5.wso2v1-m3?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.5.0
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.5.0?classifier=sources
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.5.1
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.5.1-beta
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.5.1-beta?classifier=sources
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.5.1?classifier=sources
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.6.0-alpha
+- pkg:maven/org.wso2.bps/org.wso2.bps.integration.common.clients@3.6.0-alpha?classifier=sources

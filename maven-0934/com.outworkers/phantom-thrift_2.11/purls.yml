@@ -146,6 +146,10 @@
 - pkg:maven/com.outworkers/phantom-thrift_2.11@2.4.0?classifier=sources
 - pkg:maven/com.outworkers/phantom-thrift_2.11@2.40.0
 - pkg:maven/com.outworkers/phantom-thrift_2.11@2.40.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-thrift_2.11@2.41.0
+- pkg:maven/com.outworkers/phantom-thrift_2.11@2.41.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-thrift_2.11@2.42.0
+- pkg:maven/com.outworkers/phantom-thrift_2.11@2.42.0?classifier=sources
 - pkg:maven/com.outworkers/phantom-thrift_2.11@2.5.0
 - pkg:maven/com.outworkers/phantom-thrift_2.11@2.5.0?classifier=sources
 - pkg:maven/com.outworkers/phantom-thrift_2.11@2.6.1

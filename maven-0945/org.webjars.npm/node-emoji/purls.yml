@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/node-emoji@1.10.0
+- pkg:maven/org.webjars.npm/node-emoji@1.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/node-emoji@1.8.1
 - pkg:maven/org.webjars.npm/node-emoji@1.8.1?classifier=sources

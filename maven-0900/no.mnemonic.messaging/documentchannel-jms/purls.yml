@@ -1,5 +1,17 @@
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.10
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.10?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.11
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.11?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.12
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.12?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.13
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.13?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.14
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.14?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.15
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.15?classifier=sources
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.16
+- pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.16?classifier=sources
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.4
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.4?classifier=sources
 - pkg:maven/no.mnemonic.messaging/documentchannel-jms@1.2.5

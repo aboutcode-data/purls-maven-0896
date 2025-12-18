@@ -1,0 +1,2 @@
+- pkg:maven/org.touchbit.buggy/buggy-feign@0.3.7-alpha
+- pkg:maven/org.touchbit.buggy/buggy-feign@0.3.7-alpha?classifier=sources

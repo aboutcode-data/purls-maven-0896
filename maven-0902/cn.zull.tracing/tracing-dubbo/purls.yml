@@ -24,3 +24,15 @@
 - pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.0-RELEASE?classifier=sources
 - pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.1-RELEASE
 - pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.1-RELEASE?classifier=sources
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.10-RELEASE
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.10-RELEASE?classifier=sources
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.11-RELEASE
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.11-RELEASE?classifier=sources
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.2-RELEASE
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.2-RELEASE?classifier=sources
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.4-RELEASE
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.4-RELEASE?classifier=sources
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.5-RELEASE
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.5-RELEASE?classifier=sources
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.9-RELEASE
+- pkg:maven/cn.zull.tracing/tracing-dubbo@0.5.9-RELEASE?classifier=sources

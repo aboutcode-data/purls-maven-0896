@@ -20,3 +20,5 @@
 - pkg:maven/com.naver.android.helloyako/imagecropview@1.2.1?type=aar
 - pkg:maven/com.naver.android.helloyako/imagecropview@1.2.2?classifier=sources
 - pkg:maven/com.naver.android.helloyako/imagecropview@1.2.2?type=aar
+- pkg:maven/com.naver.android.helloyako/imagecropview@1.2.3?classifier=sources
+- pkg:maven/com.naver.android.helloyako/imagecropview@1.2.3?type=aar

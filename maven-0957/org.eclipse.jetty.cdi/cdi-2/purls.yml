@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@10.0.0-alpha0
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@10.0.0-alpha0?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.RC0
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.RC0?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.10.RC1
@@ -22,6 +24,12 @@
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.15.v20190215?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.16.v20190411
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.16.v20190411?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.17.v20190418
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.17.v20190418?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.18.v20190429
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.18.v20190429?classifier=sources
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.19.v20190610
+- pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.19.v20190610?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.8.v20171121
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.8.v20171121?classifier=sources
 - pkg:maven/org.eclipse.jetty.cdi/cdi-2@9.4.8.v20180619

@@ -2,3 +2,5 @@
 - pkg:maven/org.scodec/scodec-core-testkit_sjs0.6_2.11@1.11.2?classifier=sources
 - pkg:maven/org.scodec/scodec-core-testkit_sjs0.6_2.11@1.11.3
 - pkg:maven/org.scodec/scodec-core-testkit_sjs0.6_2.11@1.11.3?classifier=sources
+- pkg:maven/org.scodec/scodec-core-testkit_sjs0.6_2.11@1.11.4
+- pkg:maven/org.scodec/scodec-core-testkit_sjs0.6_2.11@1.11.4?classifier=sources

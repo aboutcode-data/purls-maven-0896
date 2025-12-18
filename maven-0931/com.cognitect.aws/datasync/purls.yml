@@ -2,3 +2,7 @@
 - pkg:maven/com.cognitect.aws/datasync@668.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/datasync@697.2.391.0
 - pkg:maven/com.cognitect.aws/datasync@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/datasync@718.2.454.0
+- pkg:maven/com.cognitect.aws/datasync@718.2.454.0?classifier=sources
+- pkg:maven/com.cognitect.aws/datasync@719.2.460.0
+- pkg:maven/com.cognitect.aws/datasync@719.2.460.0?classifier=sources

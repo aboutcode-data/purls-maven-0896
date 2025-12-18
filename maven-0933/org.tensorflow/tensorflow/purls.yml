@@ -17,6 +17,7 @@
 - pkg:maven/org.tensorflow/tensorflow@1.13.0-rc0
 - pkg:maven/org.tensorflow/tensorflow@1.13.0-rc2
 - pkg:maven/org.tensorflow/tensorflow@1.13.1
+- pkg:maven/org.tensorflow/tensorflow@1.14.0
 - pkg:maven/org.tensorflow/tensorflow@1.2.0
 - pkg:maven/org.tensorflow/tensorflow@1.2.0-rc0
 - pkg:maven/org.tensorflow/tensorflow@1.2.0-rc1

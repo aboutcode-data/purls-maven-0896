@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.4.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.4.600
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.4.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.5.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.5.0?classifier=sources

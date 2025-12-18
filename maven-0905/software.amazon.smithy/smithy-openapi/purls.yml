@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.smithy/smithy-openapi@0.8.0
+- pkg:maven/software.amazon.smithy/smithy-openapi@0.8.0?classifier=sources

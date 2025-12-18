@@ -1,0 +1,2 @@
+- pkg:maven/io.jshift/jshift-maven-generator-wildfly-swarm@0.1.0
+- pkg:maven/io.jshift/jshift-maven-generator-wildfly-swarm@0.1.0?classifier=sources

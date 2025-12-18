@@ -1,0 +1,6 @@
+- pkg:maven/rocks.waffle.telekt/telekt@0.1.0
+- pkg:maven/rocks.waffle.telekt/telekt@0.1.0?classifier=sources
+- pkg:maven/rocks.waffle.telekt/telekt@0.2.0
+- pkg:maven/rocks.waffle.telekt/telekt@0.2.0?classifier=sources
+- pkg:maven/rocks.waffle.telekt/telekt@0.6.7
+- pkg:maven/rocks.waffle.telekt/telekt@0.6.7?classifier=sources

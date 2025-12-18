@@ -1,0 +1,6 @@
+- pkg:maven/dev.boby.elmo/elmo@1.0.0
+- pkg:maven/dev.boby.elmo/elmo@1.0.0?classifier=sources
+- pkg:maven/dev.boby.elmo/elmo@2.0.0
+- pkg:maven/dev.boby.elmo/elmo@2.0.0?classifier=sources
+- pkg:maven/dev.boby.elmo/elmo@2.1.0
+- pkg:maven/dev.boby.elmo/elmo@2.1.0?classifier=sources

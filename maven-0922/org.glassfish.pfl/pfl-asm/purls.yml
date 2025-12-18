@@ -18,3 +18,5 @@
 - pkg:maven/org.glassfish.pfl/pfl-asm@4.0.1-b003
 - pkg:maven/org.glassfish.pfl/pfl-asm@4.0.1-b003?classifier=sources
 - pkg:maven/org.glassfish.pfl/pfl-asm@4.0.1?classifier=sources
+- pkg:maven/org.glassfish.pfl/pfl-asm@4.1.0
+- pkg:maven/org.glassfish.pfl/pfl-asm@4.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.locationtech.geowave/geowave-service-4676@1.0.0-RC1?classifier=sources
+- pkg:maven/org.locationtech.geowave/geowave-service-4676@1.0.0-RC1?type=war

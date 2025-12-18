@@ -8,6 +8,8 @@
 - pkg:maven/info.folone/poi-scala_2.10@0.17?classifier=sources
 - pkg:maven/info.folone/poi-scala_2.10@0.18
 - pkg:maven/info.folone/poi-scala_2.10@0.18?classifier=sources
+- pkg:maven/info.folone/poi-scala_2.10@0.19
+- pkg:maven/info.folone/poi-scala_2.10@0.19?classifier=sources
 - pkg:maven/info.folone/poi-scala_2.10@0.7
 - pkg:maven/info.folone/poi-scala_2.10@0.7?classifier=sources
 - pkg:maven/info.folone/poi-scala_2.10@0.8

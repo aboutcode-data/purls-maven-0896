@@ -10,3 +10,7 @@
 - pkg:maven/io.gs2/gs2-java-sdk-schedule@0.5.4?classifier=sources
 - pkg:maven/io.gs2/gs2-java-sdk-schedule@0.6.10
 - pkg:maven/io.gs2/gs2-java-sdk-schedule@0.6.10?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@2.0.0
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@2.0.0?classifier=sources
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@2.0.1
+- pkg:maven/io.gs2/gs2-java-sdk-schedule@2.0.1?classifier=sources

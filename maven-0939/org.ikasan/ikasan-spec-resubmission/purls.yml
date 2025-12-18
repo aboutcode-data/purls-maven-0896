@@ -78,3 +78,7 @@
 - pkg:maven/org.ikasan/ikasan-spec-resubmission@2.0.3?classifier=sources
 - pkg:maven/org.ikasan/ikasan-spec-resubmission@2.0.4
 - pkg:maven/org.ikasan/ikasan-spec-resubmission@2.0.4?classifier=sources
+- pkg:maven/org.ikasan/ikasan-spec-resubmission@2.1.0
+- pkg:maven/org.ikasan/ikasan-spec-resubmission@2.1.0?classifier=sources
+- pkg:maven/org.ikasan/ikasan-spec-resubmission@2.1.1
+- pkg:maven/org.ikasan/ikasan-spec-resubmission@2.1.1?classifier=sources

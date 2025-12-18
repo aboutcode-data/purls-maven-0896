@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.5
+- pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.5?classifier=sources

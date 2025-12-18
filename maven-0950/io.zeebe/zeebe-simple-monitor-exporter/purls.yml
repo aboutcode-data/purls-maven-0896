@@ -1,0 +1,2 @@
+- pkg:maven/io.zeebe/zeebe-simple-monitor-exporter@0.14.0
+- pkg:maven/io.zeebe/zeebe-simple-monitor-exporter@0.14.0?classifier=sources

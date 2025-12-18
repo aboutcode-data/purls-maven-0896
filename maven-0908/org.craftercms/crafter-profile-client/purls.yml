@@ -113,6 +113,12 @@
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.2
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.20
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.20?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-client@3.0.21
+- pkg:maven/org.craftercms/crafter-profile-client@3.0.21?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-client@3.0.22
+- pkg:maven/org.craftercms/crafter-profile-client@3.0.22?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-client@3.0.23
+- pkg:maven/org.craftercms/crafter-profile-client@3.0.23?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.2?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.3
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.3?classifier=sources
@@ -128,6 +134,8 @@
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.8?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.9
 - pkg:maven/org.craftercms/crafter-profile-client@3.0.9?classifier=sources
+- pkg:maven/org.craftercms/crafter-profile-client@3.1.0
+- pkg:maven/org.craftercms/crafter-profile-client@3.1.0?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-client@v2.4.1-RC2
 - pkg:maven/org.craftercms/crafter-profile-client@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-client@v2.4.1-RC3

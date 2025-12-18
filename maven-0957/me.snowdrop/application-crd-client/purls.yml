@@ -12,3 +12,5 @@
 - pkg:maven/me.snowdrop/application-crd-client@1.0.9?classifier=sources
 - pkg:maven/me.snowdrop/application-crd-client@1.1.0
 - pkg:maven/me.snowdrop/application-crd-client@1.1.0?classifier=sources
+- pkg:maven/me.snowdrop/application-crd-client@1.1.1
+- pkg:maven/me.snowdrop/application-crd-client@1.1.1?classifier=sources

@@ -24,3 +24,7 @@
 - pkg:maven/org.sakaiproject/sakai-allhands-provider@12.6?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-allhands-provider@19.0
 - pkg:maven/org.sakaiproject/sakai-allhands-provider@19.0?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-allhands-provider@19.1
+- pkg:maven/org.sakaiproject/sakai-allhands-provider@19.1?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-allhands-provider@19.2
+- pkg:maven/org.sakaiproject/sakai-allhands-provider@19.2?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.1.4?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.1.5
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.1.5?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.10.0.pr1
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.10.0.pr1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.2.0
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.2.0-rc1
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.2.0-rc1?classifier=sources
@@ -194,3 +196,5 @@
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.7?classifier=sources
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.8
 - pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.8?classifier=sources
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.9
+- pkg:maven/com.fasterxml.jackson.dataformat/jackson-dataformat-xml@2.9.9?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.whitesource/maven-dependency-tree-parser@1.0.4?classifier=sources
 - pkg:maven/org.whitesource/maven-dependency-tree-parser@1.0.5
 - pkg:maven/org.whitesource/maven-dependency-tree-parser@1.0.5?classifier=sources
+- pkg:maven/org.whitesource/maven-dependency-tree-parser@1.0.6
+- pkg:maven/org.whitesource/maven-dependency-tree-parser@1.0.6?classifier=sources

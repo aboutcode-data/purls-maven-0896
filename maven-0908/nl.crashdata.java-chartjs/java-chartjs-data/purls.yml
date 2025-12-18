@@ -4,3 +4,11 @@
 - pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.80?classifier=sources
 - pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.90
 - pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.90?classifier=sources
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.91
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.91?classifier=sources
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.92
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.92?classifier=sources
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.93
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.93?classifier=sources
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@1.0.0
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@1.0.0?classifier=sources

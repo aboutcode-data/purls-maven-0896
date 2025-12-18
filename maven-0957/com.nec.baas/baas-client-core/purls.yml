@@ -2,3 +2,5 @@
 - pkg:maven/com.nec.baas/baas-client-core@7.0.0?classifier=sources
 - pkg:maven/com.nec.baas/baas-client-core@7.5.0
 - pkg:maven/com.nec.baas/baas-client-core@7.5.0?classifier=sources
+- pkg:maven/com.nec.baas/baas-client-core@7.5.1
+- pkg:maven/com.nec.baas/baas-client-core@7.5.1?classifier=sources

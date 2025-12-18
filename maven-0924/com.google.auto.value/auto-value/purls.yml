@@ -53,6 +53,8 @@
 - pkg:maven/com.google.auto.value/auto-value@1.6.3rc2?classifier=sources
 - pkg:maven/com.google.auto.value/auto-value@1.6.4
 - pkg:maven/com.google.auto.value/auto-value@1.6.4?classifier=sources
+- pkg:maven/com.google.auto.value/auto-value@1.6.5
+- pkg:maven/com.google.auto.value/auto-value@1.6.5?classifier=sources
 - pkg:maven/com.google.auto.value/auto-value@1.6?classifier=sources
 - pkg:maven/com.google.auto.value/auto-value@1.6rc1
 - pkg:maven/com.google.auto.value/auto-value@1.6rc1?classifier=sources

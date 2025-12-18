@@ -1,2 +1,4 @@
 - pkg:maven/io.github.wilson-he/web-boot-validation@1.0.0.RELEASE
 - pkg:maven/io.github.wilson-he/web-boot-validation@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.wilson-he/web-boot-validation@1.0.1
+- pkg:maven/io.github.wilson-he/web-boot-validation@1.0.1?classifier=sources

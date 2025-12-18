@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.ignite/ignite-kubernetes@2.6.0?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-kubernetes@2.7.0
 - pkg:maven/org.apache.ignite/ignite-kubernetes@2.7.0?classifier=sources
+- pkg:maven/org.apache.ignite/ignite-kubernetes@2.7.5
+- pkg:maven/org.apache.ignite/ignite-kubernetes@2.7.5?classifier=sources

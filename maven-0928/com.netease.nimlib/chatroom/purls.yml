@@ -86,3 +86,15 @@
 - pkg:maven/com.netease.nimlib/chatroom@6.1.2?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@6.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/chatroom@6.2.0?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@6.4.0?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@6.4.0?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@6.5.0?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@6.5.0?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@6.5.5?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@6.5.5?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@6.6.0?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@6.6.0?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@6.6.7?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@6.6.7?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@6.7.0?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@6.7.0?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/io.rest-assured/rest-assured-all@3.3.0
 - pkg:maven/io.rest-assured/rest-assured-all@3.3.0?classifier=sources
+- pkg:maven/io.rest-assured/rest-assured-all@4.0.0
+- pkg:maven/io.rest-assured/rest-assured-all@4.0.0?classifier=sources

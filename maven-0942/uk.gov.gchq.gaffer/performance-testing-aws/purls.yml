@@ -24,6 +24,8 @@
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.1.1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.1.2
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.1.2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.10.0-RC2
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.10.0-RC2?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.2.0
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.2.0-RC1
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.2.0-RC1?classifier=sources
@@ -80,7 +82,13 @@
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.8.2?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.8.3
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.8.3?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.0
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.0-RC1
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.0-RC1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.0-RC2
 - pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.0-RC2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.1
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.2
+- pkg:maven/uk.gov.gchq.gaffer/performance-testing-aws@1.9.2?classifier=sources

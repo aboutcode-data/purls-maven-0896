@@ -26,3 +26,5 @@
 - pkg:maven/org.plotly-scala/plotly-core_sjs0.6_2.11@0.5.3?classifier=sources
 - pkg:maven/org.plotly-scala/plotly-core_sjs0.6_2.11@0.5.4
 - pkg:maven/org.plotly-scala/plotly-core_sjs0.6_2.11@0.5.4?classifier=sources
+- pkg:maven/org.plotly-scala/plotly-core_sjs0.6_2.11@0.7.0
+- pkg:maven/org.plotly-scala/plotly-core_sjs0.6_2.11@0.7.0?classifier=sources

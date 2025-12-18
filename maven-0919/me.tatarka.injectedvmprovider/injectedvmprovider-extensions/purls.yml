@@ -4,3 +4,7 @@
 - pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-extensions@2.0?type=aar
 - pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-extensions@2.1.0?classifier=sources
 - pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-extensions@2.1.0?type=aar
+- pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-extensions@2.1.1?classifier=sources
+- pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-extensions@2.1.1?type=aar
+- pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-extensions@2.2.0?classifier=sources
+- pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-extensions@2.2.0?type=aar

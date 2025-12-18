@@ -82,3 +82,9 @@
 - pkg:maven/com.actelion.research/openchemlib@2019.3.0?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2019.4.0
 - pkg:maven/com.actelion.research/openchemlib@2019.4.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2019.5.0
+- pkg:maven/com.actelion.research/openchemlib@2019.5.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2019.6.0
+- pkg:maven/com.actelion.research/openchemlib@2019.6.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2019.7.0
+- pkg:maven/com.actelion.research/openchemlib@2019.7.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.xiaper/xiaper-spring-boot-security@2.1.5.RELEASE
+- pkg:maven/io.xiaper/xiaper-spring-boot-security@2.1.5.RELEASE?classifier=sources
+- pkg:maven/io.xiaper/xiaper-spring-boot-security@2.1.6.RELEASE
+- pkg:maven/io.xiaper/xiaper-spring-boot-security@2.1.6.RELEASE?classifier=sources

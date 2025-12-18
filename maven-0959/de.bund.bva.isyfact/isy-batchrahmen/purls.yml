@@ -1,2 +1,6 @@
+- pkg:maven/de.bund.bva.isyfact/isy-batchrahmen@1.10.0
+- pkg:maven/de.bund.bva.isyfact/isy-batchrahmen@1.10.0?classifier=sources
 - pkg:maven/de.bund.bva.isyfact/isy-batchrahmen@1.9.1
 - pkg:maven/de.bund.bva.isyfact/isy-batchrahmen@1.9.1?classifier=sources
+- pkg:maven/de.bund.bva.isyfact/isy-batchrahmen@2.0.1
+- pkg:maven/de.bund.bva.isyfact/isy-batchrahmen@2.0.1?classifier=sources

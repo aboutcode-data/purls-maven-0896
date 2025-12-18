@@ -140,3 +140,15 @@
 - pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.217?classifier=sources
 - pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.218
 - pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.218?classifier=sources
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.219
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.219?classifier=sources
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.220
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.220?classifier=sources
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.221
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.221?classifier=sources
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.222
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.222?classifier=sources
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.223
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.223.1
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.223.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-plugin-toolkit@0.223?classifier=sources

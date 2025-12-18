@@ -1,0 +1,4 @@
+- pkg:maven/com.d3xsystems/d3x-core-util@1.0.77
+- pkg:maven/com.d3xsystems/d3x-core-util@1.0.77?classifier=sources
+- pkg:maven/com.d3xsystems/d3x-core-util@1.0.82
+- pkg:maven/com.d3xsystems/d3x-core-util@1.0.82?classifier=sources

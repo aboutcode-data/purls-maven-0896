@@ -1,2 +1,4 @@
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.0-1023
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.0-1023?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.0-1042
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@11.0.0-1042?classifier=sources

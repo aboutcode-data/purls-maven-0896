@@ -1,0 +1,6 @@
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.ui.feature@5.0.12-alpha2?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.ui.feature@5.0.12-alpha?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.ui.feature@5.0.12-beta2?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.ui.feature@5.0.12-beta?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.ui.feature@5.1.0-alpha?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.execution.manager.ui.feature@5.1.0-beta?classifier=sources

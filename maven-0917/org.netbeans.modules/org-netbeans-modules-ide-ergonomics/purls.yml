@@ -1,0 +1,3 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-ergonomics@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-ergonomics@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-ergonomics@RELEASE111?classifier=sources

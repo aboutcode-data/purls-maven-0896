@@ -2,3 +2,5 @@
 - pkg:maven/de.golfgl.gdxpushmessages/gdx-pushmessages-android-fcm@0.0.1?type=aar
 - pkg:maven/de.golfgl.gdxpushmessages/gdx-pushmessages-android-fcm@0.1.0?classifier=sources
 - pkg:maven/de.golfgl.gdxpushmessages/gdx-pushmessages-android-fcm@0.1.0?type=aar
+- pkg:maven/de.golfgl.gdxpushmessages/gdx-pushmessages-android-fcm@1.0.0?classifier=sources
+- pkg:maven/de.golfgl.gdxpushmessages/gdx-pushmessages-android-fcm@1.0.0?type=aar

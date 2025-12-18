@@ -1,0 +1,2 @@
+- pkg:maven/com.elastisys/autoscaler.metricstreamers.opentsdb@5.2.2
+- pkg:maven/com.elastisys/autoscaler.metricstreamers.opentsdb@5.2.2?classifier=sources

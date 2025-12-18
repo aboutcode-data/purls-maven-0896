@@ -1,4 +1,6 @@
 - pkg:maven/io.github.pityka/flatjoin-jsoniter_2.12@0.0.12
 - pkg:maven/io.github.pityka/flatjoin-jsoniter_2.12@0.0.12?classifier=sources
+- pkg:maven/io.github.pityka/flatjoin-jsoniter_2.12@0.0.14
+- pkg:maven/io.github.pityka/flatjoin-jsoniter_2.12@0.0.14?classifier=sources
 - pkg:maven/io.github.pityka/flatjoin-jsoniter_2.12@0.0.9
 - pkg:maven/io.github.pityka/flatjoin-jsoniter_2.12@0.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.smartthings.sdk/smartapp-contextstore-dynamodb@0.0.3-PREVIEW
+- pkg:maven/com.smartthings.sdk/smartapp-contextstore-dynamodb@0.0.3-PREVIEW?classifier=sources

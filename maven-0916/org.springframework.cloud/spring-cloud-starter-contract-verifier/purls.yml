@@ -17,9 +17,12 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@1.2.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@1.2.5.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@1.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@1.2.7.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.2.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.3.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.0.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.1.0.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.1.1.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@2.1.2.RELEASE

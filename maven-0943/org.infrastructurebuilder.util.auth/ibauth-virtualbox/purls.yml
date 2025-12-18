@@ -1,0 +1,2 @@
+- pkg:maven/org.infrastructurebuilder.util.auth/ibauth-virtualbox@0.9.0
+- pkg:maven/org.infrastructurebuilder.util.auth/ibauth-virtualbox@0.9.0?classifier=sources

@@ -12,3 +12,11 @@
 - pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.17?classifier=sources
 - pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.18
 - pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.18?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.19
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.19?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.20
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.20?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.21
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.21?classifier=sources
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.22
+- pkg:maven/com.github.cormoran-io.pepper/pepper-server-jmh@1.22?classifier=sources

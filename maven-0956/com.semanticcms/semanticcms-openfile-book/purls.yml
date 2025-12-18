@@ -2,3 +2,7 @@
 - pkg:maven/com.semanticcms/semanticcms-openfile-book@1.3.2?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-openfile-book@1.3.3
 - pkg:maven/com.semanticcms/semanticcms-openfile-book@1.3.3?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-openfile-book@1.4.0
+- pkg:maven/com.semanticcms/semanticcms-openfile-book@1.4.0?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-openfile-book@1.5.0
+- pkg:maven/com.semanticcms/semanticcms-openfile-book@1.5.0?classifier=sources

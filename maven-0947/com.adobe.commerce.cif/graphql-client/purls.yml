@@ -1,0 +1,6 @@
+- pkg:maven/com.adobe.commerce.cif/graphql-client@0.1.4
+- pkg:maven/com.adobe.commerce.cif/graphql-client@0.1.4?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/graphql-client@1.0.0
+- pkg:maven/com.adobe.commerce.cif/graphql-client@1.0.0?classifier=sources
+- pkg:maven/com.adobe.commerce.cif/graphql-client@1.1.0
+- pkg:maven/com.adobe.commerce.cif/graphql-client@1.1.0?classifier=sources

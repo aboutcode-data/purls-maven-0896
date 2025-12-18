@@ -65,6 +65,8 @@
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B1-0a8f90f4
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B1-0a8f90f4?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B10-16853548
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B10-16853548?classifier=sources
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B2-80371ce9
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B2-80371ce9?classifier=sources
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B3-70dfd8ca
@@ -79,4 +81,14 @@
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B7-a9878721?classifier=sources
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B8-9642da17
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B8-9642da17?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B9-7cbb79b5
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0%2B9-7cbb79b5?classifier=sources
 - pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.0?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1%2B2-5ebe3226
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1%2B2-5ebe3226?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1%2B3-29e60c22
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1%2B3-29e60c22?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1%2B4-3f17927d
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1%2B4-3f17927d?classifier=sources
+- pkg:maven/me.shadaj/slinky-readwrite_sjs0.6_2.13.0-M5@0.6.1?classifier=sources

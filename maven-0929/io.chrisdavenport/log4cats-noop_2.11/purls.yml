@@ -14,3 +14,5 @@
 - pkg:maven/io.chrisdavenport/log4cats-noop_2.11@0.3.0-M2
 - pkg:maven/io.chrisdavenport/log4cats-noop_2.11@0.3.0-M2?classifier=sources
 - pkg:maven/io.chrisdavenport/log4cats-noop_2.11@0.3.0?classifier=sources
+- pkg:maven/io.chrisdavenport/log4cats-noop_2.11@0.4.0-M1
+- pkg:maven/io.chrisdavenport/log4cats-noop_2.11@0.4.0-M1?classifier=sources

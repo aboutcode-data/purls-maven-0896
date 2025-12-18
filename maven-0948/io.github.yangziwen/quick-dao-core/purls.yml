@@ -19,4 +19,8 @@
 - pkg:maven/io.github.yangziwen/quick-dao-core@0.0.4.6?classifier=sources
 - pkg:maven/io.github.yangziwen/quick-dao-core@0.0.4.7
 - pkg:maven/io.github.yangziwen/quick-dao-core@0.0.4.7?classifier=sources
+- pkg:maven/io.github.yangziwen/quick-dao-core@0.0.4.8
+- pkg:maven/io.github.yangziwen/quick-dao-core@0.0.4.8?classifier=sources
 - pkg:maven/io.github.yangziwen/quick-dao-core@0.0.4?classifier=sources
+- pkg:maven/io.github.yangziwen/quick-dao-core@0.0.5
+- pkg:maven/io.github.yangziwen/quick-dao-core@0.0.5?classifier=sources

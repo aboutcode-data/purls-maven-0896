@@ -1,0 +1,10 @@
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.10
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.10?classifier=sources
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.11
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.11?classifier=sources
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.12
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.12?classifier=sources
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.8
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.8?classifier=sources
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.9
+- pkg:maven/fi.metatavu.metamind.client/metamind-api-client@2.0.9?classifier=sources

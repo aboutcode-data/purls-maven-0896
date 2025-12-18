@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.appserver/context-reload-test-webapp@1.0.0?classifier=sources
+- pkg:maven/org.wso2.appserver/context-reload-test-webapp@1.0.0?type=war
+- pkg:maven/org.wso2.appserver/context-reload-test-webapp@1.0.1?classifier=sources
+- pkg:maven/org.wso2.appserver/context-reload-test-webapp@1.0.1?type=war

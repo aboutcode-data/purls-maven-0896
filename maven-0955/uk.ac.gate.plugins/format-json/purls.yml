@@ -1,0 +1,4 @@
+- pkg:maven/uk.ac.gate.plugins/format-json@8.6
+- pkg:maven/uk.ac.gate.plugins/format-json@8.6?classifier=sources
+- pkg:maven/uk.ac.gate.plugins/format-json@8.7
+- pkg:maven/uk.ac.gate.plugins/format-json@8.7?classifier=sources

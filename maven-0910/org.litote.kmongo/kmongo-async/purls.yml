@@ -6,6 +6,7 @@
 - pkg:maven/org.litote.kmongo/kmongo-async@0.2.1?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-async@3.10.0
 - pkg:maven/org.litote.kmongo/kmongo-async@3.10.1
+- pkg:maven/org.litote.kmongo/kmongo-async@3.10.2
 - pkg:maven/org.litote.kmongo/kmongo-async@3.3.0
 - pkg:maven/org.litote.kmongo/kmongo-async@3.3.0?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-async@3.3.1

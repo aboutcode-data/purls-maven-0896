@@ -22,3 +22,5 @@
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.api@2.5.0?classifier=sources
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.api@2.6.0
 - pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.api@2.6.0?classifier=sources
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.api@2.6.1
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.api@2.6.1?classifier=sources

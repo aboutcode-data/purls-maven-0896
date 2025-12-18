@@ -22,3 +22,9 @@
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.1.RELEASE?classifier=sources
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.2.RELEASE
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.2.RELEASE?classifier=sources
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.3.RELEASE
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.3.RELEASE?classifier=sources
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.4.RELEASE
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.4.RELEASE?classifier=sources
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.5.RELEASE
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-cache@2.1.5.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.drift/drift-transport-spi@1.19
+- pkg:maven/com.facebook.drift/drift-transport-spi@1.19?classifier=sources

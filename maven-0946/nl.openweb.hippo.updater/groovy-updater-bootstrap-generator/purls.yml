@@ -1,4 +1,8 @@
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.11
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.11?classifier=sources
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.12
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.12?classifier=sources
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.13
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.13?classifier=sources
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.9
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.9?classifier=sources

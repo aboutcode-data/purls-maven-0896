@@ -2,3 +2,5 @@
 - pkg:maven/com.outr/pica-scala-js_sjs0.6_2.12@3.0.4?classifier=sources
 - pkg:maven/com.outr/pica-scala-js_sjs0.6_2.12@3.0.5
 - pkg:maven/com.outr/pica-scala-js_sjs0.6_2.12@3.0.5?classifier=sources
+- pkg:maven/com.outr/pica-scala-js_sjs0.6_2.12@3.0.5_1
+- pkg:maven/com.outr/pica-scala-js_sjs0.6_2.12@3.0.5_1?classifier=sources

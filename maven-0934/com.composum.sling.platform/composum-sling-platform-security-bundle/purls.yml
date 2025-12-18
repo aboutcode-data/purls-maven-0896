@@ -1,0 +1,4 @@
+- pkg:maven/com.composum.sling.platform/composum-sling-platform-security-bundle@1.0.0
+- pkg:maven/com.composum.sling.platform/composum-sling-platform-security-bundle@1.0.0?classifier=sources
+- pkg:maven/com.composum.sling.platform/composum-sling-platform-security-bundle@1.0.1
+- pkg:maven/com.composum.sling.platform/composum-sling-platform-security-bundle@1.0.1?classifier=sources

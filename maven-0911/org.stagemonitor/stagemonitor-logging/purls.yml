@@ -125,6 +125,8 @@
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.14?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.15
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.15?classifier=sources
+- pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.16
+- pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.16?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.1?classifier=sources
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.2
 - pkg:maven/org.stagemonitor/stagemonitor-logging@0.87.2?classifier=sources

@@ -5,3 +5,6 @@
 - pkg:maven/org.wso2.extension.siddhi.store.elasticsearch/siddhi-store-elasticsearch-parent@1.0.4?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.elasticsearch/siddhi-store-elasticsearch-parent@1.0.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.store.elasticsearch/siddhi-store-elasticsearch-parent@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.elasticsearch/siddhi-store-elasticsearch-parent@1.1.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.elasticsearch/siddhi-store-elasticsearch-parent@2.0.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.store.elasticsearch/siddhi-store-elasticsearch-parent@2.1.0?classifier=source-release&type=zip

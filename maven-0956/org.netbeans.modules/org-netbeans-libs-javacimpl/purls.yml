@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE90?classifier=sources

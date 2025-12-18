@@ -1,0 +1,6 @@
+- pkg:maven/com.aliyun.apsaradb/maxcompute-spark@0.28.4-public_2.3.2-1.0.2
+- pkg:maven/com.aliyun.apsaradb/maxcompute-spark@0.28.4-public_2.3.2-1.0.2?classifier=sources
+- pkg:maven/com.aliyun.apsaradb/maxcompute-spark@0.28.4-public_2.3.2-1.0.3
+- pkg:maven/com.aliyun.apsaradb/maxcompute-spark@0.28.4-public_2.3.2-1.0.3?classifier=sources
+- pkg:maven/com.aliyun.apsaradb/maxcompute-spark@0.28.4-public_2.4.3-1.0.4
+- pkg:maven/com.aliyun.apsaradb/maxcompute-spark@0.28.4-public_2.4.3-1.0.4?classifier=sources

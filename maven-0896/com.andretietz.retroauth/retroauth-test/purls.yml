@@ -1,0 +1,4 @@
+- pkg:maven/com.andretietz.retroauth/retroauth-test@3.0.0-beta12
+- pkg:maven/com.andretietz.retroauth/retroauth-test@3.0.0-beta12?classifier=sources
+- pkg:maven/com.andretietz.retroauth/retroauth-test@3.0.0-beta14
+- pkg:maven/com.andretietz.retroauth/retroauth-test@3.0.0-beta14?classifier=sources

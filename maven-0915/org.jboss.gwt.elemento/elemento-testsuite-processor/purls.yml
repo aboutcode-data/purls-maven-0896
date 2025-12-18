@@ -2,3 +2,5 @@
 - pkg:maven/org.jboss.gwt.elemento/elemento-testsuite-processor@0.8.7?classifier=sources
 - pkg:maven/org.jboss.gwt.elemento/elemento-testsuite-processor@0.9.0
 - pkg:maven/org.jboss.gwt.elemento/elemento-testsuite-processor@0.9.0?classifier=sources
+- pkg:maven/org.jboss.gwt.elemento/elemento-testsuite-processor@0.9.1
+- pkg:maven/org.jboss.gwt.elemento/elemento-testsuite-processor@0.9.1?classifier=sources

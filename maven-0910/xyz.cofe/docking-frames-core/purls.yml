@@ -1,4 +1,6 @@
 - pkg:maven/xyz.cofe/docking-frames-core@1.1.2p20a
 - pkg:maven/xyz.cofe/docking-frames-core@1.1.2p20a?classifier=sources
 - pkg:maven/xyz.cofe/docking-frames-core@1.1.2p20b
+- pkg:maven/xyz.cofe/docking-frames-core@1.1.2p20b.fix-1
+- pkg:maven/xyz.cofe/docking-frames-core@1.1.2p20b.fix-1?classifier=sources
 - pkg:maven/xyz.cofe/docking-frames-core@1.1.2p20b?classifier=sources

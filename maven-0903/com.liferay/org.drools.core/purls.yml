@@ -1,2 +1,5 @@
 - pkg:maven/com.liferay/org.drools.core@5.4.0.Final.LIFERAY-PATCHED-1
 - pkg:maven/com.liferay/org.drools.core@5.4.0.Final.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/org.drools.core@5.4.0.Final.LIFERAY-PATCHED-2
+- pkg:maven/com.liferay/org.drools.core@5.4.0.Final.LIFERAY-PATCHED-2?classifier=sources
+- pkg:maven/com.liferay/org.drools.core@5.4.0.Final.LIFERAY-PATCHED-2?classifier=sources-commercial

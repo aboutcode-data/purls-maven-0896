@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE90?classifier=sources

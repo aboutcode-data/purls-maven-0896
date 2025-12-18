@@ -14,3 +14,4 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.graph/siddhi-execution-graph-parent@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.graph/siddhi-execution-graph-parent@1.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.execution.graph/siddhi-execution-graph-parent@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.execution.graph/siddhi-execution-graph-parent@2.0.0?classifier=source-release&type=zip

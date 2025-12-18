@@ -18,3 +18,9 @@
 - pkg:maven/org.parboiled/parboiled_2.11@2.1.4?classifier=sources
 - pkg:maven/org.parboiled/parboiled_2.11@2.1.5
 - pkg:maven/org.parboiled/parboiled_2.11@2.1.5?classifier=sources
+- pkg:maven/org.parboiled/parboiled_2.11@2.1.6
+- pkg:maven/org.parboiled/parboiled_2.11@2.1.6?classifier=sources
+- pkg:maven/org.parboiled/parboiled_2.11@2.1.7
+- pkg:maven/org.parboiled/parboiled_2.11@2.1.7?classifier=sources
+- pkg:maven/org.parboiled/parboiled_2.11@2.1.8
+- pkg:maven/org.parboiled/parboiled_2.11@2.1.8?classifier=sources

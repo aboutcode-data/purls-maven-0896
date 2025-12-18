@@ -1,0 +1,2 @@
+- pkg:maven/dev.nullzwo/maven-processor-plugin@3.3.4
+- pkg:maven/dev.nullzwo/maven-processor-plugin@3.3.4?classifier=sources

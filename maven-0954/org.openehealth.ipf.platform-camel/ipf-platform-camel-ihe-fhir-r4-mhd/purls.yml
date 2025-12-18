@@ -2,3 +2,5 @@
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@3.6-20190124?classifier=sources
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@3.6.0
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@3.6.0?classifier=sources
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@3.6.1
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@3.6.1?classifier=sources

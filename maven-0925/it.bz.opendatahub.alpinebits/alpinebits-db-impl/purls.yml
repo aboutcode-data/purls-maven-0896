@@ -1,0 +1,2 @@
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-db-impl@0.8.0
+- pkg:maven/it.bz.opendatahub.alpinebits/alpinebits-db-impl@0.8.0?classifier=sources

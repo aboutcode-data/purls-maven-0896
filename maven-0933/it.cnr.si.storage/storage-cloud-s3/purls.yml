@@ -1,0 +1,4 @@
+- pkg:maven/it.cnr.si.storage/storage-cloud-s3@1.0.3
+- pkg:maven/it.cnr.si.storage/storage-cloud-s3@1.0.3?classifier=sources
+- pkg:maven/it.cnr.si.storage/storage-cloud-s3@1.0.4
+- pkg:maven/it.cnr.si.storage/storage-cloud-s3@1.0.4?classifier=sources

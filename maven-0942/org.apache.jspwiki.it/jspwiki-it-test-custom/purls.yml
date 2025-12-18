@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.0.M2?type=war
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.0.M3?classifier=sources
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.0.M3?type=war
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.0.M4?classifier=sources
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.0.M4?type=war

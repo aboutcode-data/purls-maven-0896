@@ -1,0 +1,4 @@
+- pkg:maven/it.cnr.si/cool-jconon-oiv@2.0.47?classifier=sources
+- pkg:maven/it.cnr.si/cool-jconon-oiv@2.0.47?type=war
+- pkg:maven/it.cnr.si/cool-jconon-oiv@2.0.48?classifier=sources
+- pkg:maven/it.cnr.si/cool-jconon-oiv@2.0.48?type=war

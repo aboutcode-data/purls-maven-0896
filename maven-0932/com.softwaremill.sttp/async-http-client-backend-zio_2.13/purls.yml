@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio_2.13@1.6.3
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio_2.13@1.6.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio_2.13@1.6.4
+- pkg:maven/com.softwaremill.sttp/async-http-client-backend-zio_2.13@1.6.4?classifier=sources

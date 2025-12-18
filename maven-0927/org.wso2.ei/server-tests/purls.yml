@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/server-tests@6.5.0
+- pkg:maven/org.wso2.ei/server-tests@6.5.0?classifier=sources

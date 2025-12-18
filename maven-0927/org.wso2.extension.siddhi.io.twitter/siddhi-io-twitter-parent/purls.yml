@@ -12,3 +12,4 @@
 - pkg:maven/org.wso2.extension.siddhi.io.twitter/siddhi-io-twitter-parent@1.0.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.twitter/siddhi-io-twitter-parent@1.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.extension.siddhi.io.twitter/siddhi-io-twitter-parent@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.extension.siddhi.io.twitter/siddhi-io-twitter-parent@2.0.0?classifier=source-release&type=zip

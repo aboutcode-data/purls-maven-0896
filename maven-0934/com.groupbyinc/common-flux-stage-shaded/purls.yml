@@ -98,3 +98,5 @@
 - pkg:maven/com.groupbyinc/common-flux-stage-shaded@186?classifier=sources
 - pkg:maven/com.groupbyinc/common-flux-stage-shaded@187
 - pkg:maven/com.groupbyinc/common-flux-stage-shaded@187?classifier=sources
+- pkg:maven/com.groupbyinc/common-flux-stage-shaded@188
+- pkg:maven/com.groupbyinc/common-flux-stage-shaded@188?classifier=sources

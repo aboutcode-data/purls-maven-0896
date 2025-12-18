@@ -1,0 +1,2 @@
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata@3.0.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/s4hana-api-odata@3.0.0?classifier=sources

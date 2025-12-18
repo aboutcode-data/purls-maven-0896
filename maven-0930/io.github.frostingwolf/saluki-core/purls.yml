@@ -2,3 +2,5 @@
 - pkg:maven/io.github.frostingwolf/saluki-core@1.5.7.RELEASE?classifier=sources
 - pkg:maven/io.github.frostingwolf/saluki-core@1.5.8.RELEASE
 - pkg:maven/io.github.frostingwolf/saluki-core@1.5.8.RELEASE?classifier=sources
+- pkg:maven/io.github.frostingwolf/saluki-core@1.5.9.RELEASE
+- pkg:maven/io.github.frostingwolf/saluki-core@1.5.9.RELEASE?classifier=sources

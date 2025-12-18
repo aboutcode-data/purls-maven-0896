@@ -68,7 +68,11 @@
 - pkg:maven/com.slickqa/slick-webdriver-java@1.0.0-9?classifier=sources
 - pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-1
 - pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-1?classifier=sources
+- pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-37
+- pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-37?classifier=sources
 - pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-5
 - pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-5?classifier=sources
 - pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-6
 - pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-6?classifier=sources
+- pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-7
+- pkg:maven/com.slickqa/slick-webdriver-java@1.0.1-7?classifier=sources

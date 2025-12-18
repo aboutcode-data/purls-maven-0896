@@ -61,3 +61,5 @@
 - pkg:maven/in.norbor/yoda-orm_2.12@3.3.8?classifier=sources
 - pkg:maven/in.norbor/yoda-orm_2.12@3.3.9
 - pkg:maven/in.norbor/yoda-orm_2.12@3.3.9?classifier=sources
+- pkg:maven/in.norbor/yoda-orm_2.12@4.0.1
+- pkg:maven/in.norbor/yoda-orm_2.12@4.0.1?classifier=sources

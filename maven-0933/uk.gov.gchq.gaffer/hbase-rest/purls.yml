@@ -32,6 +32,8 @@
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.1.1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.1.2?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.1.2?type=war
+- pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.10.0-RC1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.10.0-RC1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.2.0-RC1?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.2.0-RC1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.2.0?classifier=sources
@@ -98,3 +100,7 @@
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.9.0-RC1?type=war
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.9.0-RC2?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.9.0-RC2?type=war
+- pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.9.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.9.0?type=war
+- pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.9.1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/hbase-rest@1.9.1?type=war

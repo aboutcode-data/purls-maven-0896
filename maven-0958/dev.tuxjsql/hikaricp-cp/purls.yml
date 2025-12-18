@@ -1,0 +1,2 @@
+- pkg:maven/dev.tuxjsql/hikaricp-cp@2.0
+- pkg:maven/dev.tuxjsql/hikaricp-cp@2.0?classifier=sources

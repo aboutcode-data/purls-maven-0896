@@ -1,3 +1,5 @@
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.commons.feature@1.0.0?classifier=sources
+- pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.commons.feature@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.commons.feature@2.0.10?classifier=sources
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.commons.feature@2.0.11?classifier=sources
 - pkg:maven/org.wso2.carbon.coordination/org.wso2.carbon.cluster.coordinator.commons.feature@2.0.12?classifier=sources

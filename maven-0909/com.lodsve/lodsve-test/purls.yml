@@ -20,3 +20,5 @@
 - pkg:maven/com.lodsve/lodsve-test@2.7.1-RELEASE?classifier=sources
 - pkg:maven/com.lodsve/lodsve-test@2.7.2-RELEASE
 - pkg:maven/com.lodsve/lodsve-test@2.7.2-RELEASE?classifier=sources
+- pkg:maven/com.lodsve/lodsve-test@2.7.4-RELEASE
+- pkg:maven/com.lodsve/lodsve-test@2.7.4-RELEASE?classifier=sources

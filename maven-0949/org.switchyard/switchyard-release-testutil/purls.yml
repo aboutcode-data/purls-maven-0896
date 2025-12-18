@@ -20,3 +20,5 @@
 - pkg:maven/org.switchyard/switchyard-release-testutil@2.0.1.redhat-621211?classifier=sources
 - pkg:maven/org.switchyard/switchyard-release-testutil@2.0.1.redhat-621216
 - pkg:maven/org.switchyard/switchyard-release-testutil@2.0.1.redhat-621216?classifier=sources
+- pkg:maven/org.switchyard/switchyard-release-testutil@2.0.1.redhat-621222
+- pkg:maven/org.switchyard/switchyard-release-testutil@2.0.1.redhat-621222?classifier=sources

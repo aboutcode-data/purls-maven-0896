@@ -12,3 +12,5 @@
 - pkg:maven/mobi.stos/httplib@6?type=aar
 - pkg:maven/mobi.stos/httplib@7?classifier=sources
 - pkg:maven/mobi.stos/httplib@7?type=aar
+- pkg:maven/mobi.stos/httplib@8?classifier=sources
+- pkg:maven/mobi.stos/httplib@8?type=aar

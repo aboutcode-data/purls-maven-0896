@@ -8,3 +8,5 @@
 - pkg:maven/com.twitter/rsc-check_2.11@0.0.0-432-20928bbd?classifier=sources
 - pkg:maven/com.twitter/rsc-check_2.11@0.0.0-446-c64e6937
 - pkg:maven/com.twitter/rsc-check_2.11@0.0.0-446-c64e6937?classifier=sources
+- pkg:maven/com.twitter/rsc-check_2.11@0.0.0-758-7ae5dd31
+- pkg:maven/com.twitter/rsc-check_2.11@0.0.0-758-7ae5dd31?classifier=sources

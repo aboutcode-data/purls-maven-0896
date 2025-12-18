@@ -1,0 +1,2 @@
+- pkg:maven/org.jeecf/jeecf-module-engine-mysql@2.0.0-RELEASE
+- pkg:maven/org.jeecf/jeecf-module-engine-mysql@2.0.0-RELEASE?classifier=sources

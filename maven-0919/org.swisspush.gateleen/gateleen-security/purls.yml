@@ -99,6 +99,10 @@
 - pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.43?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.44
 - pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.44?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.45
+- pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.45?classifier=sources
+- pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.46
+- pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.46?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.4?classifier=sources
 - pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.5
 - pkg:maven/org.swisspush.gateleen/gateleen-security@1.1.5?classifier=sources

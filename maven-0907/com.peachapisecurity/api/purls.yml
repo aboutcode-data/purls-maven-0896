@@ -114,5 +114,7 @@
 - pkg:maven/com.peachapisecurity/api@1.5.39?classifier=sources
 - pkg:maven/com.peachapisecurity/api@1.5.40
 - pkg:maven/com.peachapisecurity/api@1.5.40?classifier=sources
+- pkg:maven/com.peachapisecurity/api@1.5.41
+- pkg:maven/com.peachapisecurity/api@1.5.41?classifier=sources
 - pkg:maven/com.peachapisecurity/api@1.5.9
 - pkg:maven/com.peachapisecurity/api@1.5.9?classifier=sources

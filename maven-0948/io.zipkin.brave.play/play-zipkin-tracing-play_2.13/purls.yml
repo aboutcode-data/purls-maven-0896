@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.brave.play/play-zipkin-tracing-play_2.13@3.0.1
+- pkg:maven/io.zipkin.brave.play/play-zipkin-tracing-play_2.13@3.0.1?classifier=sources

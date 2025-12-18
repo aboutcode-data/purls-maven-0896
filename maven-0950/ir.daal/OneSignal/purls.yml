@@ -10,3 +10,5 @@
 - pkg:maven/ir.daal/OneSignal@3.10.7.2?type=aar
 - pkg:maven/ir.daal/OneSignal@3.10.7.3?classifier=sources
 - pkg:maven/ir.daal/OneSignal@3.10.7.3?type=aar
+- pkg:maven/ir.daal/OneSignal@3.10.7.4?classifier=sources
+- pkg:maven/ir.daal/OneSignal@3.10.7.4?type=aar

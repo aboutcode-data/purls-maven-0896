@@ -1,0 +1,4 @@
+- pkg:maven/tech.navicore/navipath_2.13@2.20
+- pkg:maven/tech.navicore/navipath_2.13@2.20?classifier=sources
+- pkg:maven/tech.navicore/navipath_2.13@3.0.2
+- pkg:maven/tech.navicore/navipath_2.13@3.0.2?classifier=sources

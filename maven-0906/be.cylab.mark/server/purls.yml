@@ -6,3 +6,9 @@
 - pkg:maven/be.cylab.mark/server@0.0.12?classifier=sources
 - pkg:maven/be.cylab.mark/server@0.0.13
 - pkg:maven/be.cylab.mark/server@0.0.13?classifier=sources
+- pkg:maven/be.cylab.mark/server@0.0.14
+- pkg:maven/be.cylab.mark/server@0.0.14?classifier=sources
+- pkg:maven/be.cylab.mark/server@0.0.15
+- pkg:maven/be.cylab.mark/server@0.0.15?classifier=sources
+- pkg:maven/be.cylab.mark/server@0.0.17
+- pkg:maven/be.cylab.mark/server@0.0.17?classifier=sources

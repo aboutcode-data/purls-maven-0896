@@ -8,6 +8,8 @@
 - pkg:maven/org.ligoj.plugin/plugin-bt@0.0.4?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.0.0
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.0.0?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-bt@1.0.10
+- pkg:maven/org.ligoj.plugin/plugin-bt@1.0.10?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.0.2
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.0.2?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.0.3

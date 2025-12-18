@@ -1,0 +1,4 @@
+- pkg:maven/ws.schild/jave-nativebin-linux64@2.5.0
+- pkg:maven/ws.schild/jave-nativebin-linux64@2.5.0?classifier=sources
+- pkg:maven/ws.schild/jave-nativebin-linux64@2.5.1
+- pkg:maven/ws.schild/jave-nativebin-linux64@2.5.1?classifier=sources

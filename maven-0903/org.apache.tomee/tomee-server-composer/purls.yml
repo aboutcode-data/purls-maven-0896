@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tomee/tomee-server-composer@8.0.0-M3
+- pkg:maven/org.apache.tomee/tomee-server-composer@8.0.0-M3?classifier=sources

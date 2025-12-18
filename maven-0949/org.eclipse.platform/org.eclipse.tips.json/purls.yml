@@ -4,3 +4,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.200?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.300
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.300?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.400
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.400?classifier=sources

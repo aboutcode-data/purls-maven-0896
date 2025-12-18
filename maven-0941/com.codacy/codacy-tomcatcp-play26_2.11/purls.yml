@@ -8,3 +8,7 @@
 - pkg:maven/com.codacy/codacy-tomcatcp-play26_2.11@5.0.3?classifier=sources
 - pkg:maven/com.codacy/codacy-tomcatcp-play26_2.11@5.0.4
 - pkg:maven/com.codacy/codacy-tomcatcp-play26_2.11@5.0.4?classifier=sources
+- pkg:maven/com.codacy/codacy-tomcatcp-play26_2.11@5.1.0-publishinci.9c4eec7
+- pkg:maven/com.codacy/codacy-tomcatcp-play26_2.11@5.1.0-publishinci.9c4eec7?classifier=sources
+- pkg:maven/com.codacy/codacy-tomcatcp-play26_2.11@5.1.0-publishinci.fc6f58f
+- pkg:maven/com.codacy/codacy-tomcatcp-play26_2.11@5.1.0-publishinci.fc6f58f?classifier=sources

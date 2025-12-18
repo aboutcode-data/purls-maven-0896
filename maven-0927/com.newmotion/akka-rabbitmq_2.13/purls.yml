@@ -1,0 +1,4 @@
+- pkg:maven/com.newmotion/akka-rabbitmq_2.13@5.1.0
+- pkg:maven/com.newmotion/akka-rabbitmq_2.13@5.1.0?classifier=sources
+- pkg:maven/com.newmotion/akka-rabbitmq_2.13@5.1.1
+- pkg:maven/com.newmotion/akka-rabbitmq_2.13@5.1.1?classifier=sources

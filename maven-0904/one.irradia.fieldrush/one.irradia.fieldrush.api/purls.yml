@@ -6,3 +6,5 @@
 - pkg:maven/one.irradia.fieldrush/one.irradia.fieldrush.api@0.0.3?type=aar
 - pkg:maven/one.irradia.fieldrush/one.irradia.fieldrush.api@0.0.4?classifier=sources
 - pkg:maven/one.irradia.fieldrush/one.irradia.fieldrush.api@0.0.4?type=aar
+- pkg:maven/one.irradia.fieldrush/one.irradia.fieldrush.api@0.0.5
+- pkg:maven/one.irradia.fieldrush/one.irradia.fieldrush.api@0.0.5?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/org.apache.geode/geode-protobuf@1.7.0
 - pkg:maven/org.apache.geode/geode-protobuf@1.7.0?classifier=sources
 - pkg:maven/org.apache.geode/geode-protobuf@1.8.0
+- pkg:maven/org.apache.geode/geode-protobuf@1.9.0
+- pkg:maven/org.apache.geode/geode-protobuf@1.9.0?classifier=sources

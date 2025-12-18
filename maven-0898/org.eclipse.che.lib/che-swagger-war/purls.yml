@@ -8,6 +8,13 @@
 - pkg:maven/org.eclipse.che.lib/che-swagger-war@6.17.0?type=war
 - pkg:maven/org.eclipse.che.lib/che-swagger-war@6.18.0?type=war
 - pkg:maven/org.eclipse.che.lib/che-swagger-war@6.19.0?type=war
+- pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-RC-1.0?type=war
+- pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-RC-1.1?type=war
+- pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-RC-2.0?type=war
 - pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-beta-1.0?type=war
 - pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-beta-2.0?type=war
 - pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-beta-3.0?type=war
+- pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-beta-4.0?type=war
+- pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-beta-5.0?type=war
+- pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-rc-3.0?type=war
+- pkg:maven/org.eclipse.che.lib/che-swagger-war@7.0.0-rc-4.0?type=war

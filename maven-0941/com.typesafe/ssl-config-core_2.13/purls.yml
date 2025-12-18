@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe/ssl-config-core_2.13@0.3.8
+- pkg:maven/com.typesafe/ssl-config-core_2.13@0.3.8?classifier=sources
+- pkg:maven/com.typesafe/ssl-config-core_2.13@0.4.0
+- pkg:maven/com.typesafe/ssl-config-core_2.13@0.4.0?classifier=sources

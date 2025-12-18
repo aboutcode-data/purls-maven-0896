@@ -6,3 +6,7 @@
 - pkg:maven/com.puresoltechnologies.graphs/graph@1.0.0?classifier=sources
 - pkg:maven/com.puresoltechnologies.graphs/graph@1.0.1
 - pkg:maven/com.puresoltechnologies.graphs/graph@1.0.1?classifier=sources
+- pkg:maven/com.puresoltechnologies.graphs/graph@2.0.0
+- pkg:maven/com.puresoltechnologies.graphs/graph@2.0.0?classifier=sources
+- pkg:maven/com.puresoltechnologies.graphs/graph@2.0.1
+- pkg:maven/com.puresoltechnologies.graphs/graph@2.0.1?classifier=sources

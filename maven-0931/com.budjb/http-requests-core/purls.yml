@@ -14,3 +14,5 @@
 - pkg:maven/com.budjb/http-requests-core@2.0.3.BETA
 - pkg:maven/com.budjb/http-requests-core@2.0.3.BETA?classifier=sources
 - pkg:maven/com.budjb/http-requests-core@2.0.3?classifier=sources
+- pkg:maven/com.budjb/http-requests-core@2.0.4
+- pkg:maven/com.budjb/http-requests-core@2.0.4?classifier=sources

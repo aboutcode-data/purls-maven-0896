@@ -1,3 +1,5 @@
+- pkg:maven/com.github.jnthnclt/os.lab.nn@1.10
+- pkg:maven/com.github.jnthnclt/os.lab.nn@1.10?classifier=sources
 - pkg:maven/com.github.jnthnclt/os.lab.nn@1.3
 - pkg:maven/com.github.jnthnclt/os.lab.nn@1.3?classifier=sources
 - pkg:maven/com.github.jnthnclt/os.lab.nn@1.4

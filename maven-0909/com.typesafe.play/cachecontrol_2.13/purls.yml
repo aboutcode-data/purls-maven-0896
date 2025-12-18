@@ -1,0 +1,4 @@
+- pkg:maven/com.typesafe.play/cachecontrol_2.13@1.1.7
+- pkg:maven/com.typesafe.play/cachecontrol_2.13@1.1.7?classifier=sources
+- pkg:maven/com.typesafe.play/cachecontrol_2.13@2.0.0-M2
+- pkg:maven/com.typesafe.play/cachecontrol_2.13@2.0.0-M2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.archetypes/opendaylight-startup-archetype@1.1.0?classifier=sources
+- pkg:maven/org.opendaylight.archetypes/opendaylight-startup-archetype@1.1.1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-alluxio@3.3?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-alluxio@3.4
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-alluxio@3.4?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-alluxio@3.5
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-alluxio@3.5?classifier=sources

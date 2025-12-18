@@ -1,4 +1,8 @@
 - pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v1
+- pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v11
+- pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v11?classifier=sources
+- pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v12
+- pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v12?classifier=sources
 - pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v1?classifier=sources
 - pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v2
 - pkg:maven/org.wso2.org.apache.shindig/shindig-common@2.5.2-wso2v2?classifier=sources

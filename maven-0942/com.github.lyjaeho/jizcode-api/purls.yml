@@ -1,0 +1,16 @@
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.10-BETA
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.10-BETA?classifier=sources
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.11-BETA
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.11-BETA?classifier=sources
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.12-BETA
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.12-BETA?classifier=sources
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.14-BETA
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.14-BETA?classifier=sources
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.5
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.5?classifier=sources
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.7
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.7?classifier=sources
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.8
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.8?classifier=sources
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.9-BETA
+- pkg:maven/com.github.lyjaeho/jizcode-api@1.0.9-BETA?classifier=sources

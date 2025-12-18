@@ -20,3 +20,9 @@
 - pkg:maven/io.github.microutils/kotlin-logging-js@1.6.25?classifier=sources
 - pkg:maven/io.github.microutils/kotlin-logging-js@1.6.26
 - pkg:maven/io.github.microutils/kotlin-logging-js@1.6.26?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.0-mpp
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.0-mpp?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.1
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.1?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.2
+- pkg:maven/io.github.microutils/kotlin-logging-js@1.7.2?classifier=sources

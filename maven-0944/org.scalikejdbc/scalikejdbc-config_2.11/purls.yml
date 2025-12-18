@@ -142,3 +142,7 @@
 - pkg:maven/org.scalikejdbc/scalikejdbc-config_2.11@3.3.3?classifier=sources
 - pkg:maven/org.scalikejdbc/scalikejdbc-config_2.11@3.3.4
 - pkg:maven/org.scalikejdbc/scalikejdbc-config_2.11@3.3.4?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.11@3.3.5
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.11@3.3.5?classifier=sources
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.11@3.4.0-RC1
+- pkg:maven/org.scalikejdbc/scalikejdbc-config_2.11@3.4.0-RC1?classifier=sources

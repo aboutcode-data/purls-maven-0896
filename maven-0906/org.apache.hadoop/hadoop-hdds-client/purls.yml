@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hadoop/hadoop-hdds-client@0.4.0-alpha
+- pkg:maven/org.apache.hadoop/hadoop-hdds-client@0.4.0-alpha?classifier=sources

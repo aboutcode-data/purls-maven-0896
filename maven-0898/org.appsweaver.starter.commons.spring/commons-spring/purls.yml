@@ -1,0 +1,4 @@
+- pkg:maven/org.appsweaver.starter.commons.spring/commons-spring@1.0.14
+- pkg:maven/org.appsweaver.starter.commons.spring/commons-spring@1.0.14?classifier=sources
+- pkg:maven/org.appsweaver.starter.commons.spring/commons-spring@1.0.15
+- pkg:maven/org.appsweaver.starter.commons.spring/commons-spring@1.0.15?classifier=sources

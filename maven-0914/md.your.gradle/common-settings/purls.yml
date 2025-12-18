@@ -36,3 +36,5 @@
 - pkg:maven/md.your.gradle/common-settings@0.0.8?classifier=sources
 - pkg:maven/md.your.gradle/common-settings@0.0.9
 - pkg:maven/md.your.gradle/common-settings@0.0.9?classifier=sources
+- pkg:maven/md.your.gradle/common-settings@0.1.0
+- pkg:maven/md.your.gradle/common-settings@0.1.0?classifier=sources

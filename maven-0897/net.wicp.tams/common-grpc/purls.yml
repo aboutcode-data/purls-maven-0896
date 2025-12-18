@@ -1,4 +1,8 @@
 - pkg:maven/net.wicp.tams/common-grpc@3.5.1
+- pkg:maven/net.wicp.tams/common-grpc@3.5.15
+- pkg:maven/net.wicp.tams/common-grpc@3.5.15?classifier=sources
 - pkg:maven/net.wicp.tams/common-grpc@3.5.1?classifier=sources
 - pkg:maven/net.wicp.tams/common-grpc@3.5.4
 - pkg:maven/net.wicp.tams/common-grpc@3.5.4?classifier=sources
+- pkg:maven/net.wicp.tams/common-grpc@3.6.0
+- pkg:maven/net.wicp.tams/common-grpc@3.6.0?classifier=sources

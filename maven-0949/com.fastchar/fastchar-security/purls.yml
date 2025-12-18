@@ -1,0 +1,4 @@
+- pkg:maven/com.fastchar/fastchar-security@1.0
+- pkg:maven/com.fastchar/fastchar-security@1.01
+- pkg:maven/com.fastchar/fastchar-security@1.01?classifier=sources
+- pkg:maven/com.fastchar/fastchar-security@1.0?classifier=sources

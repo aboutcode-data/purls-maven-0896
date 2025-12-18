@@ -38,6 +38,8 @@
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.28?classifier=sources
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.29
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.29?classifier=sources
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.30
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.30?classifier=sources
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.8
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.8?classifier=sources
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.9

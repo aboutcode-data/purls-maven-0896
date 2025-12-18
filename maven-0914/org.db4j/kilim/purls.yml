@@ -92,3 +92,7 @@
 - pkg:maven/org.db4j/kilim@2.0.1-jdk7
 - pkg:maven/org.db4j/kilim@2.0.1-jdk7?classifier=sources
 - pkg:maven/org.db4j/kilim@2.0.1?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.2
+- pkg:maven/org.db4j/kilim@2.0.2-jdk7
+- pkg:maven/org.db4j/kilim@2.0.2-jdk7?classifier=sources
+- pkg:maven/org.db4j/kilim@2.0.2?classifier=sources

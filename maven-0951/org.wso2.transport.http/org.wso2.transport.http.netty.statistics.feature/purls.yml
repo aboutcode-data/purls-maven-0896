@@ -171,6 +171,11 @@
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.273?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.274?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.275?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.290?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.291?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.292?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.293?classifier=sources
+- pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.294?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.50?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.51?classifier=sources
 - pkg:maven/org.wso2.transport.http/org.wso2.transport.http.netty.statistics.feature@6.0.52?classifier=sources

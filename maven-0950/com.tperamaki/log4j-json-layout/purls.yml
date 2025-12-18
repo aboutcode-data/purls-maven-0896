@@ -1,0 +1,4 @@
+- pkg:maven/com.tperamaki/log4j-json-layout@1.0.0
+- pkg:maven/com.tperamaki/log4j-json-layout@1.0.0?classifier=sources
+- pkg:maven/com.tperamaki/log4j-json-layout@2.0.0
+- pkg:maven/com.tperamaki/log4j-json-layout@2.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.media/openrtb3-adscert-verifier@1.0
+- pkg:maven/net.media/openrtb3-adscert-verifier@1.0?classifier=sources
+- pkg:maven/net.media/openrtb3-adscert-verifier@1.1
+- pkg:maven/net.media/openrtb3-adscert-verifier@1.1?classifier=sources

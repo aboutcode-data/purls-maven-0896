@@ -37,6 +37,12 @@
 - pkg:maven/fr.iscpif/mgo_2.12@3.25?classifier=sources
 - pkg:maven/fr.iscpif/mgo_2.12@3.26
 - pkg:maven/fr.iscpif/mgo_2.12@3.26?classifier=sources
+- pkg:maven/fr.iscpif/mgo_2.12@3.27
+- pkg:maven/fr.iscpif/mgo_2.12@3.27?classifier=sources
+- pkg:maven/fr.iscpif/mgo_2.12@3.28
+- pkg:maven/fr.iscpif/mgo_2.12@3.28?classifier=sources
+- pkg:maven/fr.iscpif/mgo_2.12@3.29
+- pkg:maven/fr.iscpif/mgo_2.12@3.29?classifier=sources
 - pkg:maven/fr.iscpif/mgo_2.12@3.2?classifier=sources
 - pkg:maven/fr.iscpif/mgo_2.12@3.3
 - pkg:maven/fr.iscpif/mgo_2.12@3.3?classifier=sources

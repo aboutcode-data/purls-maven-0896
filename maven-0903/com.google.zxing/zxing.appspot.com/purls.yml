@@ -20,3 +20,5 @@
 - pkg:maven/com.google.zxing/zxing.appspot.com@3.3.2?type=war
 - pkg:maven/com.google.zxing/zxing.appspot.com@3.3.3?classifier=sources
 - pkg:maven/com.google.zxing/zxing.appspot.com@3.3.3?type=war
+- pkg:maven/com.google.zxing/zxing.appspot.com@3.4.0?classifier=sources
+- pkg:maven/com.google.zxing/zxing.appspot.com@3.4.0?type=war

@@ -1,0 +1,8 @@
+- pkg:maven/com.spotify/styx-e2e-test@2.1.45
+- pkg:maven/com.spotify/styx-e2e-test@2.1.45?classifier=sources
+- pkg:maven/com.spotify/styx-e2e-test@2.1.46
+- pkg:maven/com.spotify/styx-e2e-test@2.1.46?classifier=sources
+- pkg:maven/com.spotify/styx-e2e-test@2.1.47
+- pkg:maven/com.spotify/styx-e2e-test@2.1.47?classifier=sources
+- pkg:maven/com.spotify/styx-e2e-test@2.1.48
+- pkg:maven/com.spotify/styx-e2e-test@2.1.48?classifier=sources

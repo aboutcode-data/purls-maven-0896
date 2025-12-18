@@ -1,0 +1,2 @@
+- pkg:maven/uno.anahata/mapacho-test-web@2.0.0?classifier=sources
+- pkg:maven/uno.anahata/mapacho-test-web@2.0.0?type=war

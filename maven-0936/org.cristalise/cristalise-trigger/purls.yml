@@ -14,3 +14,7 @@
 - pkg:maven/org.cristalise/cristalise-trigger@4.0.0-RC2
 - pkg:maven/org.cristalise/cristalise-trigger@4.0.0-RC2?classifier=sources
 - pkg:maven/org.cristalise/cristalise-trigger@4.0.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-trigger@4.1.0
+- pkg:maven/org.cristalise/cristalise-trigger@4.1.0?classifier=sources
+- pkg:maven/org.cristalise/cristalise-trigger@4.2.0
+- pkg:maven/org.cristalise/cristalise-trigger@4.2.0?classifier=sources

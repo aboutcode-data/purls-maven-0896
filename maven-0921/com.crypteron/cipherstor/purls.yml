@@ -26,3 +26,5 @@
 - pkg:maven/com.crypteron/cipherstor@2017.8.1.0?classifier=sources
 - pkg:maven/com.crypteron/cipherstor@2018.1.1.0
 - pkg:maven/com.crypteron/cipherstor@2018.1.1.0?classifier=sources
+- pkg:maven/com.crypteron/cipherstor@2019.6.1.0
+- pkg:maven/com.crypteron/cipherstor@2019.6.1.0?classifier=sources

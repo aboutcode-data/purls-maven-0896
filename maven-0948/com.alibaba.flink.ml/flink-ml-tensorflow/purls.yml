@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.flink.ml/flink-ml-tensorflow@0.1.0
+- pkg:maven/com.alibaba.flink.ml/flink-ml-tensorflow@0.1.0?classifier=sources

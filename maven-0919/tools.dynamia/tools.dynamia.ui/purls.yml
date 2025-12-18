@@ -1,0 +1,4 @@
+- pkg:maven/tools.dynamia/tools.dynamia.ui@3.6.0.Final
+- pkg:maven/tools.dynamia/tools.dynamia.ui@3.6.0.Final?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.ui@3.6.1.Final
+- pkg:maven/tools.dynamia/tools.dynamia.ui@3.6.1.Final?classifier=sources

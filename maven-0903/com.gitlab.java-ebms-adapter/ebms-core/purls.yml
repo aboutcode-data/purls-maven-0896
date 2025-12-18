@@ -1,0 +1,2 @@
+- pkg:maven/com.gitlab.java-ebms-adapter/ebms-core@2.15.2-mic
+- pkg:maven/com.gitlab.java-ebms-adapter/ebms-core@2.15.2-mic?classifier=sources

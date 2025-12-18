@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE90?classifier=sources

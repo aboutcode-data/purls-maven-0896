@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-servlet@0.0.2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-servlet@0.0.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.victorivri/library_2.12@0.4
+- pkg:maven/com.victorivri/library_2.12@0.4.2
+- pkg:maven/com.victorivri/library_2.12@0.4.2?classifier=sources
 - pkg:maven/com.victorivri/library_2.12@0.4?classifier=sources

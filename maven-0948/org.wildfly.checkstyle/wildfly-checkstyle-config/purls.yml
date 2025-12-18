@@ -18,3 +18,5 @@
 - pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.6.Final?classifier=sources
 - pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.7.Final
 - pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.7.Final?classifier=sources
+- pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.8.Final
+- pkg:maven/org.wildfly.checkstyle/wildfly-checkstyle-config@1.0.8.Final?classifier=sources

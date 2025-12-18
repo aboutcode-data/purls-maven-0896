@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@6.1.0
+- pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@6.1.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@6.2.0
+- pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@6.2.0?classifier=sources

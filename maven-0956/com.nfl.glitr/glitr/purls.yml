@@ -42,6 +42,10 @@
 - pkg:maven/com.nfl.glitr/glitr@1.11.0-2019-03-20T20-32-38?classifier=sources
 - pkg:maven/com.nfl.glitr/glitr@1.11.1-2019-03-20T21-42-01
 - pkg:maven/com.nfl.glitr/glitr@1.11.1-2019-03-20T21-42-01?classifier=sources
+- pkg:maven/com.nfl.glitr/glitr@1.11.2-2019-04-11T18-08-13
+- pkg:maven/com.nfl.glitr/glitr@1.11.2-2019-04-11T18-08-13?classifier=sources
+- pkg:maven/com.nfl.glitr/glitr@1.12.0-2019-08-05T17-49-02
+- pkg:maven/com.nfl.glitr/glitr@1.12.0-2019-08-05T17-49-02?classifier=sources
 - pkg:maven/com.nfl.glitr/glitr@1.2.1-2017-09-26T22-49-58
 - pkg:maven/com.nfl.glitr/glitr@1.2.1-2017-09-26T22-49-58?classifier=sources
 - pkg:maven/com.nfl.glitr/glitr@1.2.2-2017-09-29T00-16-03

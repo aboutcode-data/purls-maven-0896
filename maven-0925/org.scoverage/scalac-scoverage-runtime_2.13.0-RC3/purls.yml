@@ -1,0 +1,2 @@
+- pkg:maven/org.scoverage/scalac-scoverage-runtime_2.13.0-RC3@1.4.0-RC3
+- pkg:maven/org.scoverage/scalac-scoverage-runtime_2.13.0-RC3@1.4.0-RC3?classifier=sources
