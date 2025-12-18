@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.storm/multilang-python@1.2.3?classifier=sources
 - pkg:maven/org.apache.storm/multilang-python@2.0.0
 - pkg:maven/org.apache.storm/multilang-python@2.0.0?classifier=sources
+- pkg:maven/org.apache.storm/multilang-python@2.1.0
+- pkg:maven/org.apache.storm/multilang-python@2.1.0?classifier=sources

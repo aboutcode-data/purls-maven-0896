@@ -1,0 +1,4 @@
+- pkg:maven/org.spekframework.spek2/spek-runtime-jvm@2.0.7
+- pkg:maven/org.spekframework.spek2/spek-runtime-jvm@2.0.7?classifier=sources
+- pkg:maven/org.spekframework.spek2/spek-runtime-jvm@2.0.8
+- pkg:maven/org.spekframework.spek2/spek-runtime-jvm@2.0.8?classifier=sources

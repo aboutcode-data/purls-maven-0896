@@ -18,3 +18,5 @@
 - pkg:maven/com.jwebmp.plugins.iconsets/jwebmp-glyphicons@0.67.0.7?classifier=sources
 - pkg:maven/com.jwebmp.plugins.iconsets/jwebmp-glyphicons@0.67.0.9
 - pkg:maven/com.jwebmp.plugins.iconsets/jwebmp-glyphicons@0.67.0.9?classifier=sources
+- pkg:maven/com.jwebmp.plugins.iconsets/jwebmp-glyphicons@0.68.0.1
+- pkg:maven/com.jwebmp.plugins.iconsets/jwebmp-glyphicons@0.68.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/ai.rideos.sdk/sdk-android-rider@1.0.0?classifier=sources
+- pkg:maven/ai.rideos.sdk/sdk-android-rider@1.0.0?type=aar
+- pkg:maven/ai.rideos.sdk/sdk-android-rider@1.0.1?classifier=sources
+- pkg:maven/ai.rideos.sdk/sdk-android-rider@1.0.1?type=aar
+- pkg:maven/ai.rideos.sdk/sdk-android-rider@1.0.2?classifier=sources
+- pkg:maven/ai.rideos.sdk/sdk-android-rider@1.0.2?type=aar

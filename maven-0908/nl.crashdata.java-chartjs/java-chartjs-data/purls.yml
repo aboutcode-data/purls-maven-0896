@@ -12,3 +12,5 @@
 - pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@0.93?classifier=sources
 - pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@1.0.0
 - pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@1.0.0?classifier=sources
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@2.0.0
+- pkg:maven/nl.crashdata.java-chartjs/java-chartjs-data@2.0.0?classifier=sources

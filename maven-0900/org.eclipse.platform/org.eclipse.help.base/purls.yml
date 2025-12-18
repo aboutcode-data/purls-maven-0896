@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.600
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.700
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.2.700?classifier=sources

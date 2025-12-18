@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/consola@2.10.1
+- pkg:maven/org.webjars.npm/consola@2.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/consola@2.4.1
 - pkg:maven/org.webjars.npm/consola@2.4.1?classifier=sources
 - pkg:maven/org.webjars.npm/consola@2.5.8

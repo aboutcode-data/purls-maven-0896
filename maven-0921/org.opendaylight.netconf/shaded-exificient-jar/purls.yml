@@ -1,0 +1,8 @@
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.5.1
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.5.1?classifier=sources
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.5.2
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.5.2?classifier=sources
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.6.0
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.6.0?classifier=sources
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.6.1
+- pkg:maven/org.opendaylight.netconf/shaded-exificient-jar@1.6.1?classifier=sources

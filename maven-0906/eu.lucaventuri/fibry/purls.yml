@@ -3,4 +3,14 @@
 - pkg:maven/eu.lucaventuri/fibry@1.0.1?classifier=sources
 - pkg:maven/eu.lucaventuri/fibry@1.0.2
 - pkg:maven/eu.lucaventuri/fibry@1.0.2?classifier=sources
+- pkg:maven/eu.lucaventuri/fibry@1.0.3
+- pkg:maven/eu.lucaventuri/fibry@1.0.3?classifier=sources
+- pkg:maven/eu.lucaventuri/fibry@1.0.4
+- pkg:maven/eu.lucaventuri/fibry@1.0.4?classifier=sources
+- pkg:maven/eu.lucaventuri/fibry@1.0.5
+- pkg:maven/eu.lucaventuri/fibry@1.0.5?classifier=sources
 - pkg:maven/eu.lucaventuri/fibry@1.0?classifier=sources
+- pkg:maven/eu.lucaventuri/fibry@2.0.0
+- pkg:maven/eu.lucaventuri/fibry@2.0.0?classifier=sources
+- pkg:maven/eu.lucaventuri/fibry@2.1.0
+- pkg:maven/eu.lucaventuri/fibry@2.1.0?classifier=sources

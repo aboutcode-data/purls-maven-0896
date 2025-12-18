@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-j2seembedded@RELEASE90?classifier=sources

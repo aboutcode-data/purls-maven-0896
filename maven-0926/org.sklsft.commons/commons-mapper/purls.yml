@@ -44,3 +44,5 @@
 - pkg:maven/org.sklsft.commons/commons-mapper@3.0.0-M6
 - pkg:maven/org.sklsft.commons/commons-mapper@3.0.0-M6?classifier=sources
 - pkg:maven/org.sklsft.commons/commons-mapper@3.0.0?classifier=sources
+- pkg:maven/org.sklsft.commons/commons-mapper@3.0.1
+- pkg:maven/org.sklsft.commons/commons-mapper@3.0.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.yoloho.tair/tair-client@2.3.4.4
+- pkg:maven/com.yoloho.tair/tair-client@2.3.4.4?classifier=sources
+- pkg:maven/com.yoloho.tair/tair-client@2.3.4.5
+- pkg:maven/com.yoloho.tair/tair-client@2.3.4.5?classifier=sources

@@ -26,3 +26,7 @@
 - pkg:maven/com.phylage/scaladia-macro_2.13@1.5.2?classifier=sources
 - pkg:maven/com.phylage/scaladia-macro_2.13@1.5.4
 - pkg:maven/com.phylage/scaladia-macro_2.13@1.5.4?classifier=sources
+- pkg:maven/com.phylage/scaladia-macro_2.13@1.6.0
+- pkg:maven/com.phylage/scaladia-macro_2.13@1.6.0?classifier=sources
+- pkg:maven/com.phylage/scaladia-macro_2.13@2.0.0
+- pkg:maven/com.phylage/scaladia-macro_2.13@2.0.0?classifier=sources

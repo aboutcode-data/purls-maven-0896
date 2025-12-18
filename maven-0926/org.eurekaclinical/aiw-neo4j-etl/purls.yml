@@ -32,3 +32,5 @@
 - pkg:maven/org.eurekaclinical/aiw-neo4j-etl@4.0-Beta-3
 - pkg:maven/org.eurekaclinical/aiw-neo4j-etl@4.0-Beta-3?classifier=sources
 - pkg:maven/org.eurekaclinical/aiw-neo4j-etl@4.0?classifier=sources
+- pkg:maven/org.eurekaclinical/aiw-neo4j-etl@4.2
+- pkg:maven/org.eurekaclinical/aiw-neo4j-etl@4.2?classifier=sources

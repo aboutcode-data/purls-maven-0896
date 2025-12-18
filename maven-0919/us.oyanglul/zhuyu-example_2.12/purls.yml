@@ -1,0 +1,6 @@
+- pkg:maven/us.oyanglul/zhuyu-example_2.12@0.0.1%2B20191017-0425
+- pkg:maven/us.oyanglul/zhuyu-example_2.12@0.0.1%2B20191017-0425?classifier=sources
+- pkg:maven/us.oyanglul/zhuyu-example_2.12@0.0.2
+- pkg:maven/us.oyanglul/zhuyu-example_2.12@0.0.2?classifier=sources
+- pkg:maven/us.oyanglul/zhuyu-example_2.12@0.2.0
+- pkg:maven/us.oyanglul/zhuyu-example_2.12@0.2.0?classifier=sources

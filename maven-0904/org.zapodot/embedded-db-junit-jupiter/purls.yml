@@ -1,0 +1,2 @@
+- pkg:maven/org.zapodot/embedded-db-junit-jupiter@2.0-BETA1
+- pkg:maven/org.zapodot/embedded-db-junit-jupiter@2.0-BETA1?classifier=sources

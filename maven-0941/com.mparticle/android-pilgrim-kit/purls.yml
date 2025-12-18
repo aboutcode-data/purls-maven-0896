@@ -1,8 +1,19 @@
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.10.0?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.10.1?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.10.2?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.10.3?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.11.0?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.11.1?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.11.2?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.11.3?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.11.4?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.11.5?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.7.10?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.8.0?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.8.1?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.8.2?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.9.0?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.9.10?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.9.1?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.9.2?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.9.3?type=aar
@@ -10,3 +21,5 @@
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.9.5?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.9.6?type=aar
 - pkg:maven/com.mparticle/android-pilgrim-kit@5.9.7?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.9.8?type=aar
+- pkg:maven/com.mparticle/android-pilgrim-kit@5.9.9?type=aar

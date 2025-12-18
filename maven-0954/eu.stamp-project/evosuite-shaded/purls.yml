@@ -1,0 +1,2 @@
+- pkg:maven/eu.stamp-project/evosuite-shaded@1.1.0
+- pkg:maven/eu.stamp-project/evosuite-shaded@1.1.0?classifier=sources

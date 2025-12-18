@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bowergithub.starcounter-jack/json-patch@2.0.7?classifier=sources
 - pkg:maven/org.webjars.bowergithub.starcounter-jack/json-patch@2.1.0
 - pkg:maven/org.webjars.bowergithub.starcounter-jack/json-patch@2.1.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.starcounter-jack/json-patch@2.2.1
+- pkg:maven/org.webjars.bowergithub.starcounter-jack/json-patch@2.2.1?classifier=sources

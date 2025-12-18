@@ -16,3 +16,5 @@
 - pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@0.6.3?classifier=sources
 - pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@0.7.0
 - pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@0.7.0?classifier=sources
+- pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@0.7.1
+- pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@0.7.1?classifier=sources

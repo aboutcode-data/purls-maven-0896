@@ -1,0 +1,4 @@
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway-opentracing@4.13.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway-opentracing@4.13.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway-opentracing@5.5.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-gateway-opentracing@5.5.0?classifier=sources

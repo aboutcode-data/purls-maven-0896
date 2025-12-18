@@ -1,0 +1,10 @@
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.4.0-Carbon
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.4.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.4.1-Carbon
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.4.1-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.4.2-Carbon
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.4.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.5.0
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.5.0?classifier=sources
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.5.1
+- pkg:maven/org.opendaylight.netvirt/policyservice-api@0.5.1?classifier=sources

@@ -1,5 +1,9 @@
 - pkg:maven/com.codetaco/cli@6.1.2
 - pkg:maven/com.codetaco/cli@6.1.2?classifier=sources
+- pkg:maven/com.codetaco/cli@6.10.2
+- pkg:maven/com.codetaco/cli@6.10.2?classifier=sources
+- pkg:maven/com.codetaco/cli@6.10.4
+- pkg:maven/com.codetaco/cli@6.10.4?classifier=sources
 - pkg:maven/com.codetaco/cli@6.2.0
 - pkg:maven/com.codetaco/cli@6.2.0?classifier=sources
 - pkg:maven/com.codetaco/cli@6.2.2

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.beam/beam-sdks-java-io-bigquery-io-perf-tests@2.16.0
+- pkg:maven/org.apache.beam/beam-sdks-java-io-bigquery-io-perf-tests@2.16.0?classifier=sources

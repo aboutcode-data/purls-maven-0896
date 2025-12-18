@@ -11,6 +11,12 @@
 - pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@1.1.2
 - pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@1.1.2?classifier=sources
 - pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0
+- pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0%2B73-82738eb8
+- pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0%2B73-82738eb8?classifier=sources
+- pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0%2B76-7e01fc19
+- pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0%2B76-7e01fc19?classifier=sources
+- pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0%2B79-d27cb4f8
+- pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0%2B79-d27cb4f8?classifier=sources
 - pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0-M0
 - pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0-M0?classifier=sources
 - pkg:maven/com.thoughtworks.continuation/continuation_sjs0.6_2.11@2.0.0-M1

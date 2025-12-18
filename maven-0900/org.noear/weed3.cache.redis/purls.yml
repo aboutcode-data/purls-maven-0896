@@ -1,0 +1,6 @@
+- pkg:maven/org.noear/weed3.cache.redis@3.0.1.1
+- pkg:maven/org.noear/weed3.cache.redis@3.0.1.1?classifier=sources
+- pkg:maven/org.noear/weed3.cache.redis@3.0.1.2
+- pkg:maven/org.noear/weed3.cache.redis@3.0.1.2?classifier=sources
+- pkg:maven/org.noear/weed3.cache.redis@3.2.1.1
+- pkg:maven/org.noear/weed3.cache.redis@3.2.1.1?classifier=sources

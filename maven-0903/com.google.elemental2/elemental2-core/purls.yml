@@ -1,3 +1,4 @@
+- pkg:maven/com.google.elemental2/elemental2-core@1.0.0
 - pkg:maven/com.google.elemental2/elemental2-core@1.0.0-RC1
 - pkg:maven/com.google.elemental2/elemental2-core@1.0.0-RC1?classifier=sources
 - pkg:maven/com.google.elemental2/elemental2-core@1.0.0-beta-1
@@ -6,3 +7,4 @@
 - pkg:maven/com.google.elemental2/elemental2-core@1.0.0-beta-2?classifier=sources
 - pkg:maven/com.google.elemental2/elemental2-core@1.0.0-beta-3
 - pkg:maven/com.google.elemental2/elemental2-core@1.0.0-beta-3?classifier=sources
+- pkg:maven/com.google.elemental2/elemental2-core@1.0.0?classifier=sources

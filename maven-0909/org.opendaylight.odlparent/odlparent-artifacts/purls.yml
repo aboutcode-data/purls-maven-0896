@@ -1,0 +1,9 @@
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.6.1-Beryllium-SR1
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.6.2-Beryllium-SR2
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.6.3-Beryllium-SR3
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.6.4-Beryllium-SR4
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.7.0-Boron
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.7.1-Boron-SR1
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.7.2-Boron-SR2
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.7.3-Boron-SR3
+- pkg:maven/org.opendaylight.odlparent/odlparent-artifacts@1.7.4-Boron-SR4

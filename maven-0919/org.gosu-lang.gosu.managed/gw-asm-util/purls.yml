@@ -2,3 +2,5 @@
 - pkg:maven/org.gosu-lang.gosu.managed/gw-asm-util@5.0.4?classifier=sources
 - pkg:maven/org.gosu-lang.gosu.managed/gw-asm-util@7.0
 - pkg:maven/org.gosu-lang.gosu.managed/gw-asm-util@7.0?classifier=sources
+- pkg:maven/org.gosu-lang.gosu.managed/gw-asm-util@7.8
+- pkg:maven/org.gosu-lang.gosu.managed/gw-asm-util@7.8?classifier=sources

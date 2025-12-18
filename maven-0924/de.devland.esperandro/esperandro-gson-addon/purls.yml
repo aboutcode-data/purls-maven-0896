@@ -40,3 +40,5 @@
 - pkg:maven/de.devland.esperandro/esperandro-gson-addon@2.7.3?classifier=sources
 - pkg:maven/de.devland.esperandro/esperandro-gson-addon@3.0.0
 - pkg:maven/de.devland.esperandro/esperandro-gson-addon@3.0.0?classifier=sources
+- pkg:maven/de.devland.esperandro/esperandro-gson-addon@3.0.1
+- pkg:maven/de.devland.esperandro/esperandro-gson-addon@3.0.1?classifier=sources

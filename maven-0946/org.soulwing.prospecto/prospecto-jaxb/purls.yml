@@ -42,3 +42,7 @@
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.8?classifier=sources
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.9
 - pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.4.9?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.5.0
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.5.0?classifier=sources
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.5.2
+- pkg:maven/org.soulwing.prospecto/prospecto-jaxb@1.5.2?classifier=sources

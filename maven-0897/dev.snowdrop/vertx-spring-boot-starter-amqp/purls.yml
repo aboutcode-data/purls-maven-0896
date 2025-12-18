@@ -1,0 +1,2 @@
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@0.0.4
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@0.0.4?classifier=sources

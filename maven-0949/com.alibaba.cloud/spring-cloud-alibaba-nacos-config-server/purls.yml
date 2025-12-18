@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-nacos-config-server@2.0.0.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-nacos-config-server@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-nacos-config-server@2.1.0.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-nacos-config-server@2.1.0.RELEASE?classifier=sources

@@ -1,6 +1,14 @@
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0
 - pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC2
 - pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC3
 - pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC4
 - pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC5
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC6
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0-RC6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.1
+- pkg:maven/org.apereo.cas/cas-server-support-token-core-api@6.1.1?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/org.clulab/processors-odin_2.11@7.5.2?classifier=sources
 - pkg:maven/org.clulab/processors-odin_2.11@7.5.3
 - pkg:maven/org.clulab/processors-odin_2.11@7.5.3?classifier=sources
+- pkg:maven/org.clulab/processors-odin_2.11@7.5.4
+- pkg:maven/org.clulab/processors-odin_2.11@7.5.4?classifier=sources

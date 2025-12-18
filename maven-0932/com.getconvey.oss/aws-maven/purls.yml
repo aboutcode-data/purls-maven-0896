@@ -1,3 +1,9 @@
 - pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.1
 - pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.2
 - pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.2?classifier=sources
+- pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.3
+- pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.3?classifier=sources
+- pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.4
+- pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.4?classifier=sources
+- pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.5
+- pkg:maven/com.getconvey.oss/aws-maven@5.0.0.RELEASE.MSH.1.CONVEY.5?classifier=sources

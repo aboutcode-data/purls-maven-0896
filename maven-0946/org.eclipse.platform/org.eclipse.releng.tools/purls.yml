@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.releng.tools@4.0.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.releng.tools@4.0.400
 - pkg:maven/org.eclipse.platform/org.eclipse.releng.tools@4.0.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.releng.tools@4.0.500
+- pkg:maven/org.eclipse.platform/org.eclipse.releng.tools@4.0.500?classifier=sources

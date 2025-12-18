@@ -47,6 +47,8 @@
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.0
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.1
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.10
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.11
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.12
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.2
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.3
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.2.4
@@ -58,3 +60,4 @@
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.3.0
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.3.2
 - pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.3.3
+- pkg:maven/org.ops4j.pax.web.itest.container/pax-web-itest-container-tomcat@7.3.4

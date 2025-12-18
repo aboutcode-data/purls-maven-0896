@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/sentry__core@4.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/sentry__core@5.4.0
 - pkg:maven/org.webjars.npm/sentry__core@5.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/sentry__core@5.6.2
+- pkg:maven/org.webjars.npm/sentry__core@5.6.2?classifier=sources

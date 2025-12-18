@@ -14,3 +14,5 @@
 - pkg:maven/biz.aQute.bnd/biz.aQute.junit@4.1.0?classifier=sources
 - pkg:maven/biz.aQute.bnd/biz.aQute.junit@4.2.0
 - pkg:maven/biz.aQute.bnd/biz.aQute.junit@4.2.0?classifier=sources
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@4.3.0
+- pkg:maven/biz.aQute.bnd/biz.aQute.junit@4.3.0?classifier=sources

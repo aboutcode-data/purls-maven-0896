@@ -34,3 +34,5 @@
 - pkg:maven/net.liftweb/lift-markdown_2.12@3.3.0-RC1
 - pkg:maven/net.liftweb/lift-markdown_2.12@3.3.0-RC1?classifier=sources
 - pkg:maven/net.liftweb/lift-markdown_2.12@3.3.0?classifier=sources
+- pkg:maven/net.liftweb/lift-markdown_2.12@3.4.0
+- pkg:maven/net.liftweb/lift-markdown_2.12@3.4.0?classifier=sources

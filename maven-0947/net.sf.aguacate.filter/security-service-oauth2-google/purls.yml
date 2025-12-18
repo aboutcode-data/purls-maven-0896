@@ -1,2 +1,6 @@
 - pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.5
 - pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.5?classifier=sources
+- pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.6
+- pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.6?classifier=sources
+- pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.7
+- pkg:maven/net.sf.aguacate.filter/security-service-oauth2-google@0.0.7?classifier=sources

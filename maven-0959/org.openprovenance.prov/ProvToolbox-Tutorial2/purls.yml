@@ -16,3 +16,6 @@
 - pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial2@0.8.0
 - pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial2@0.8.0?classifier=sources
 - pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial2@0.8.0?classifier=src&type=zip
+- pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial2@0.9.0
+- pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial2@0.9.0?classifier=sources
+- pkg:maven/org.openprovenance.prov/ProvToolbox-Tutorial2@0.9.0?classifier=src&type=zip

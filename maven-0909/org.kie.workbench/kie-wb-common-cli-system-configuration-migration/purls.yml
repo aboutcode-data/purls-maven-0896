@@ -28,6 +28,16 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.23.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.24.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.24.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.25.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.25.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.26.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.26.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.27.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.27.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.28.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.28.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.29.0.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.29.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.7.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.7.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-cli-system-configuration-migration@7.8.0.Final

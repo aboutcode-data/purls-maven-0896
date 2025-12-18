@@ -1,0 +1,2 @@
+- pkg:maven/fr.shingle/shingle-maven-plugin@1.4
+- pkg:maven/fr.shingle/shingle-maven-plugin@1.4?classifier=sources

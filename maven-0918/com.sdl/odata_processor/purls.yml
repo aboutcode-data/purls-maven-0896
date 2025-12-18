@@ -29,6 +29,12 @@
 - pkg:maven/com.sdl/odata_processor@2.3.12?classifier=sources
 - pkg:maven/com.sdl/odata_processor@2.3.13
 - pkg:maven/com.sdl/odata_processor@2.3.13?classifier=sources
+- pkg:maven/com.sdl/odata_processor@2.3.14
+- pkg:maven/com.sdl/odata_processor@2.3.14?classifier=sources
+- pkg:maven/com.sdl/odata_processor@2.3.15
+- pkg:maven/com.sdl/odata_processor@2.3.15?classifier=sources
+- pkg:maven/com.sdl/odata_processor@2.3.16
+- pkg:maven/com.sdl/odata_processor@2.3.16?classifier=sources
 - pkg:maven/com.sdl/odata_processor@2.3.1?classifier=sources
 - pkg:maven/com.sdl/odata_processor@2.3.2
 - pkg:maven/com.sdl/odata_processor@2.3.2?classifier=sources
@@ -84,3 +90,7 @@
 - pkg:maven/com.sdl/odata_processor@2.7.4?classifier=sources
 - pkg:maven/com.sdl/odata_processor@2.7.5
 - pkg:maven/com.sdl/odata_processor@2.7.5?classifier=sources
+- pkg:maven/com.sdl/odata_processor@2.8.0
+- pkg:maven/com.sdl/odata_processor@2.8.0?classifier=sources
+- pkg:maven/com.sdl/odata_processor@2.8.1
+- pkg:maven/com.sdl/odata_processor@2.8.1?classifier=sources

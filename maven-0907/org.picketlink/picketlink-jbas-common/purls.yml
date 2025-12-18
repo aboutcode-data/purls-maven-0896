@@ -116,6 +116,8 @@
 - pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP11
 - pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP11?classifier=sources
 - pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP12
+- pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP12-redhat-00009-jbossorg-1
+- pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP12-redhat-00009-jbossorg-1?classifier=sources
 - pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP12?classifier=sources
 - pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP1?classifier=sources
 - pkg:maven/org.picketlink/picketlink-jbas-common@2.5.5.SP2

@@ -28,6 +28,8 @@
 - pkg:maven/commons-beanutils/commons-beanutils@1.9.3?classifier=sources
 - pkg:maven/commons-beanutils/commons-beanutils@1.9.3?classifier=src&type=tar.gz
 - pkg:maven/commons-beanutils/commons-beanutils@1.9.3?classifier=src&type=zip
+- pkg:maven/commons-beanutils/commons-beanutils@1.9.4
+- pkg:maven/commons-beanutils/commons-beanutils@1.9.4?classifier=sources
 - pkg:maven/commons-beanutils/commons-beanutils@20020520
 - pkg:maven/commons-beanutils/commons-beanutils@20021128.082114
 - pkg:maven/commons-beanutils/commons-beanutils@20030211.134440

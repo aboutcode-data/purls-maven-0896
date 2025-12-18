@@ -1,2 +1,4 @@
+- pkg:maven/cn.xnatural.enet/enet-demo@0.0.10
+- pkg:maven/cn.xnatural.enet/enet-demo@0.0.10?classifier=sources
 - pkg:maven/cn.xnatural.enet/enet-demo@0.0.9
 - pkg:maven/cn.xnatural.enet/enet-demo@0.0.9?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/io.aubay.fase/modules-datadriven@0.1.1?classifier=sources
 - pkg:maven/io.aubay.fase/modules-datadriven@0.2.0
 - pkg:maven/io.aubay.fase/modules-datadriven@0.2.0?classifier=sources
+- pkg:maven/io.aubay.fase/modules-datadriven@0.2.1
+- pkg:maven/io.aubay.fase/modules-datadriven@0.2.1?classifier=sources
+- pkg:maven/io.aubay.fase/modules-datadriven@0.3.0
+- pkg:maven/io.aubay.fase/modules-datadriven@0.3.0?classifier=sources

@@ -3,3 +3,6 @@
 - pkg:maven/com.solace.spring.boot/solace-jms-spring-boot-starter@2.0.0
 - pkg:maven/com.solace.spring.boot/solace-jms-spring-boot-starter@2.1.0
 - pkg:maven/com.solace.spring.boot/solace-jms-spring-boot-starter@3.0.0
+- pkg:maven/com.solace.spring.boot/solace-jms-spring-boot-starter@3.1.0
+- pkg:maven/com.solace.spring.boot/solace-jms-spring-boot-starter@3.2.0
+- pkg:maven/com.solace.spring.boot/solace-jms-spring-boot-starter@3.2.1

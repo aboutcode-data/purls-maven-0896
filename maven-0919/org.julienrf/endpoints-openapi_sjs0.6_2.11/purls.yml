@@ -1,5 +1,7 @@
 - pkg:maven/org.julienrf/endpoints-openapi_sjs0.6_2.11@0.10.0
 - pkg:maven/org.julienrf/endpoints-openapi_sjs0.6_2.11@0.10.0?classifier=sources
+- pkg:maven/org.julienrf/endpoints-openapi_sjs0.6_2.11@0.10.1
+- pkg:maven/org.julienrf/endpoints-openapi_sjs0.6_2.11@0.10.1?classifier=sources
 - pkg:maven/org.julienrf/endpoints-openapi_sjs0.6_2.11@0.3.0
 - pkg:maven/org.julienrf/endpoints-openapi_sjs0.6_2.11@0.3.0?classifier=sources
 - pkg:maven/org.julienrf/endpoints-openapi_sjs0.6_2.11@0.4.0

@@ -2,3 +2,5 @@
 - pkg:maven/io.github.derkrischan/jpdftest@0.1.0?classifier=sources
 - pkg:maven/io.github.derkrischan/jpdftest@0.3.0
 - pkg:maven/io.github.derkrischan/jpdftest@0.3.0?classifier=sources
+- pkg:maven/io.github.derkrischan/jpdftest@0.5.0
+- pkg:maven/io.github.derkrischan/jpdftest@0.5.0?classifier=sources

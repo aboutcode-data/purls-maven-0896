@@ -6,3 +6,5 @@
 - pkg:maven/org.pac4j.jax-rs/core@3.0.0-RC1
 - pkg:maven/org.pac4j.jax-rs/core@3.0.0-RC1?classifier=sources
 - pkg:maven/org.pac4j.jax-rs/core@3.0.0?classifier=sources
+- pkg:maven/org.pac4j.jax-rs/core@3.0.1
+- pkg:maven/org.pac4j.jax-rs/core@3.0.1?classifier=sources

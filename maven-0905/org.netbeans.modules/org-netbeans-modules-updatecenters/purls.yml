@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-updatecenters@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-updatecenters@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-updatecenters@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-updatecenters@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-updatecenters@RELEASE90?classifier=sources

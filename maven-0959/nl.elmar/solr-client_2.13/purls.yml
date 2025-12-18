@@ -1,0 +1,2 @@
+- pkg:maven/nl.elmar/solr-client_2.13@0.9.0
+- pkg:maven/nl.elmar/solr-client_2.13@0.9.0?classifier=sources

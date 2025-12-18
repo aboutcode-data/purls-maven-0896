@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-network@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-network@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-network@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-network@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-network@RELEASE90?classifier=sources

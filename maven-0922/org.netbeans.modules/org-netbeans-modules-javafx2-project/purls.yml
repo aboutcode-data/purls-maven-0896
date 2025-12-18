@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-project@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-project@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-project@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-project@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javafx2-project@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.cantor/cantor-http-server@0.0.3
+- pkg:maven/com.salesforce.cantor/cantor-http-server@0.0.3?classifier=sources

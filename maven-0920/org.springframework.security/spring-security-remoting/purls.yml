@@ -126,3 +126,11 @@
 - pkg:maven/org.springframework.security/spring-security-remoting@5.1.4.RELEASE?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-remoting@5.1.5.RELEASE
 - pkg:maven/org.springframework.security/spring-security-remoting@5.1.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-remoting@5.1.6.RELEASE
+- pkg:maven/org.springframework.security/spring-security-remoting@5.1.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-remoting@5.1.7.RELEASE
+- pkg:maven/org.springframework.security/spring-security-remoting@5.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-remoting@5.2.0.RELEASE
+- pkg:maven/org.springframework.security/spring-security-remoting@5.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-remoting@5.2.1.RELEASE
+- pkg:maven/org.springframework.security/spring-security-remoting@5.2.1.RELEASE?classifier=sources

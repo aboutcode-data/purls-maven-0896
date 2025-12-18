@@ -1,0 +1,2 @@
+- pkg:maven/co.windly/ktx-account@1.0.0?classifier=sources
+- pkg:maven/co.windly/ktx-account@1.0.0?type=aar

@@ -15,4 +15,8 @@
 - pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1
 - pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1%2B2-da211c84
 - pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1%2B2-da211c84?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1%2B4-dd1a765d
+- pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1%2B4-dd1a765d?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1%2B6-446c1825
+- pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1%2B6-446c1825?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/invariant_2.10@2.1.1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.citrine/jpif@2.7.0?classifier=sources
 - pkg:maven/io.citrine/jpif@2.7.1
 - pkg:maven/io.citrine/jpif@2.7.1?classifier=sources
+- pkg:maven/io.citrine/jpif@2.7.2
+- pkg:maven/io.citrine/jpif@2.7.2?classifier=sources

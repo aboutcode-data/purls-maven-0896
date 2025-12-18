@@ -1,0 +1,7 @@
+- pkg:maven/org.opendaylight.integration/features-distribution@0.4.3-Beryllium-SR3?classifier=sources
+- pkg:maven/org.opendaylight.integration/features-distribution@0.4.4-Beryllium-SR4?classifier=sources
+- pkg:maven/org.opendaylight.integration/features-distribution@0.5.0-Boron?classifier=sources
+- pkg:maven/org.opendaylight.integration/features-distribution@0.5.1-Boron-SR1?classifier=sources
+- pkg:maven/org.opendaylight.integration/features-distribution@0.5.2-Boron-SR2?classifier=sources
+- pkg:maven/org.opendaylight.integration/features-distribution@0.5.3-Boron-SR3?classifier=sources
+- pkg:maven/org.opendaylight.integration/features-distribution@0.5.4-Boron-SR4?classifier=sources

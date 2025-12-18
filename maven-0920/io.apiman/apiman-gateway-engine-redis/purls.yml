@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman/apiman-gateway-engine-redis@1.5.2.Final
+- pkg:maven/io.apiman/apiman-gateway-engine-redis@1.5.2.Final?classifier=sources

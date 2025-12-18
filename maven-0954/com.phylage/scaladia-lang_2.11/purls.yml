@@ -34,3 +34,9 @@
 - pkg:maven/com.phylage/scaladia-lang_2.11@1.5.3?classifier=sources
 - pkg:maven/com.phylage/scaladia-lang_2.11@1.5.4
 - pkg:maven/com.phylage/scaladia-lang_2.11@1.5.4?classifier=sources
+- pkg:maven/com.phylage/scaladia-lang_2.11@1.6.0
+- pkg:maven/com.phylage/scaladia-lang_2.11@1.6.0?classifier=sources
+- pkg:maven/com.phylage/scaladia-lang_2.11@1.6.1
+- pkg:maven/com.phylage/scaladia-lang_2.11@1.6.1?classifier=sources
+- pkg:maven/com.phylage/scaladia-lang_2.11@1.7.0
+- pkg:maven/com.phylage/scaladia-lang_2.11@1.7.0?classifier=sources

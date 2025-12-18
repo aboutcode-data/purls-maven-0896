@@ -1,0 +1,4 @@
+- pkg:maven/com.hltech/judge-d-contract-publisher-core@0.1.2
+- pkg:maven/com.hltech/judge-d-contract-publisher-core@0.1.2?classifier=sources
+- pkg:maven/com.hltech/judge-d-contract-publisher-core@0.1.3
+- pkg:maven/com.hltech/judge-d-contract-publisher-core@0.1.3?classifier=sources

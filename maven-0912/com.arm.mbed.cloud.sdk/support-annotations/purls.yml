@@ -30,3 +30,5 @@
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.3.2?type=zip
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.4.0?classifier=sources
 - pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.4.0?type=zip
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.5.0?classifier=sources
+- pkg:maven/com.arm.mbed.cloud.sdk/support-annotations@2.5.0?type=zip

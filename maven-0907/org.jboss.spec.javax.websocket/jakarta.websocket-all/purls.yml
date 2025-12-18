@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.spec.javax.websocket/jakarta.websocket-all@2.0.0.CR1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.spec.javax.websocket/jakarta.websocket-all@2.0.0.Final?classifier=source-release&type=zip

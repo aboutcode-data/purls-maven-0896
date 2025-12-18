@@ -8,5 +8,7 @@
 - pkg:maven/com.loadcoder/loadcoder-testutilities@1.0.0?classifier=sources
 - pkg:maven/com.loadcoder/loadcoder-testutilities@1.0.1
 - pkg:maven/com.loadcoder/loadcoder-testutilities@1.0.1?classifier=sources
+- pkg:maven/com.loadcoder/loadcoder-testutilities@1.0.2-beta
+- pkg:maven/com.loadcoder/loadcoder-testutilities@1.0.2-beta?classifier=sources
 - pkg:maven/com.loadcoder/loadcoder-testutilities@2.0.0
 - pkg:maven/com.loadcoder/loadcoder-testutilities@2.0.0?classifier=sources

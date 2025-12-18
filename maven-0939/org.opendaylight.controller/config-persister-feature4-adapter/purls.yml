@@ -1,0 +1,10 @@
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.0-Carbon
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.0-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.1-Carbon
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.1-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.2-Carbon
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.2-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.3-Carbon
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.3-Carbon?classifier=sources
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.4-Carbon
+- pkg:maven/org.opendaylight.controller/config-persister-feature4-adapter@0.6.4-Carbon?classifier=sources

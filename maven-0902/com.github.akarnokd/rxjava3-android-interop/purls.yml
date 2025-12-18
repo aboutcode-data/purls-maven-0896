@@ -1,0 +1,6 @@
+- pkg:maven/com.github.akarnokd/rxjava3-android-interop@3.0.0-RC2?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-android-interop@3.0.0-RC2?type=aar
+- pkg:maven/com.github.akarnokd/rxjava3-android-interop@3.0.0-RC3?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-android-interop@3.0.0-RC3?type=aar
+- pkg:maven/com.github.akarnokd/rxjava3-android-interop@3.0.0-RC4?classifier=sources
+- pkg:maven/com.github.akarnokd/rxjava3-android-interop@3.0.0-RC4?type=aar

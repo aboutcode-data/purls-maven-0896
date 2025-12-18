@@ -18,3 +18,5 @@
 - pkg:maven/io.apiman.plugins/apiman-plugins-3scale-auth@1.5.0.Final?type=war
 - pkg:maven/io.apiman.plugins/apiman-plugins-3scale-auth@1.5.1.Final?classifier=sources
 - pkg:maven/io.apiman.plugins/apiman-plugins-3scale-auth@1.5.1.Final?type=war
+- pkg:maven/io.apiman.plugins/apiman-plugins-3scale-auth@1.5.2.Final?classifier=sources
+- pkg:maven/io.apiman.plugins/apiman-plugins-3scale-auth@1.5.2.Final?type=war

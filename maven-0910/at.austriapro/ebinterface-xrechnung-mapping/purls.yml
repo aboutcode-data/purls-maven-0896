@@ -1,0 +1,4 @@
+- pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.0.0
+- pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.0.0?classifier=sources
+- pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.0.1
+- pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.0.1?classifier=sources

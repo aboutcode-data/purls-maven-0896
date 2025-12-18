@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE90?classifier=sources

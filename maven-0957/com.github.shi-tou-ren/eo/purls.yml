@@ -1,2 +1,4 @@
 - pkg:maven/com.github.shi-tou-ren/eo@1.0.t
 - pkg:maven/com.github.shi-tou-ren/eo@1.0.t?classifier=sources
+- pkg:maven/com.github.shi-tou-ren/eo@1.1.t
+- pkg:maven/com.github.shi-tou-ren/eo@1.1.t?classifier=sources

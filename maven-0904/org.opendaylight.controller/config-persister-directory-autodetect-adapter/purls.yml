@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.controller/config-persister-directory-autodetect-adapter@0.2.3
+- pkg:maven/org.opendaylight.controller/config-persister-directory-autodetect-adapter@0.2.3?classifier=sources

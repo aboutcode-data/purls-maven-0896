@@ -1,2 +1,4 @@
+- pkg:maven/org.scala-js/scalajs-test-bridge_2.13@0.6.29
+- pkg:maven/org.scala-js/scalajs-test-bridge_2.13@0.6.29?classifier=sources
 - pkg:maven/org.scala-js/scalajs-test-bridge_2.13@1.0.0-M8
 - pkg:maven/org.scala-js/scalajs-test-bridge_2.13@1.0.0-M8?classifier=sources

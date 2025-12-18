@@ -44,6 +44,14 @@
 - pkg:maven/com.squareup/connect@2.20190612.1?classifier=sources
 - pkg:maven/com.squareup/connect@2.20190710.0
 - pkg:maven/com.squareup/connect@2.20190710.0?classifier=sources
+- pkg:maven/com.squareup/connect@2.20190814.1
+- pkg:maven/com.squareup/connect@2.20190814.1?classifier=sources
+- pkg:maven/com.squareup/connect@2.20190814.2
+- pkg:maven/com.squareup/connect@2.20190814.2?classifier=sources
+- pkg:maven/com.squareup/connect@2.20190925.0
+- pkg:maven/com.squareup/connect@2.20190925.0?classifier=sources
+- pkg:maven/com.squareup/connect@2.20191023.0
+- pkg:maven/com.squareup/connect@2.20191023.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.3.0
 - pkg:maven/com.squareup/connect@2.3.0?classifier=sources
 - pkg:maven/com.squareup/connect@2.3.1

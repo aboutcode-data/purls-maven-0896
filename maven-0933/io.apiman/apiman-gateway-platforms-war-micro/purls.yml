@@ -68,3 +68,5 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@1.5.0.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@1.5.1.Final
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@1.5.1.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@1.5.2.Final
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@1.5.2.Final?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.realityforge.dagger/dagger-gwt-lite@1.0.2?classifier=sources
 - pkg:maven/org.realityforge.dagger/dagger-gwt-lite@2.19-rf1
 - pkg:maven/org.realityforge.dagger/dagger-gwt-lite@2.19-rf1?classifier=sources
+- pkg:maven/org.realityforge.dagger/dagger-gwt-lite@2.25.2-rf1
+- pkg:maven/org.realityforge.dagger/dagger-gwt-lite@2.25.2-rf1?classifier=sources

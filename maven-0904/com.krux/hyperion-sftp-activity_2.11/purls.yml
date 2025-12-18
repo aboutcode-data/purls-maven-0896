@@ -288,3 +288,13 @@
 - pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.4.0?classifier=sources
 - pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.4.1
 - pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.4.1?classifier=sources
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.5.0
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.5.0?classifier=sources
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.6.0
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.6.0?classifier=sources
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.7.0
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.7.0?classifier=sources
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.7.1
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.7.1?classifier=sources
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.7.2
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.7.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.github.mholzer85.wicket-fullcalendar/wicket-fullcalendar-core@4.3
+- pkg:maven/io.github.mholzer85.wicket-fullcalendar/wicket-fullcalendar-core@4.3.1
+- pkg:maven/io.github.mholzer85.wicket-fullcalendar/wicket-fullcalendar-core@4.3.1?classifier=sources
+- pkg:maven/io.github.mholzer85.wicket-fullcalendar/wicket-fullcalendar-core@4.3.2
+- pkg:maven/io.github.mholzer85.wicket-fullcalendar/wicket-fullcalendar-core@4.3.2?classifier=sources
+- pkg:maven/io.github.mholzer85.wicket-fullcalendar/wicket-fullcalendar-core@4.3?classifier=sources

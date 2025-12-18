@@ -37,6 +37,12 @@
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.14-fixes.acfbcda
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.14-fixes.acfbcda?classifier=sources
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.14?classifier=sources
+- pkg:maven/com.codacy/coverage-parser_2.10@2.0.15
+- pkg:maven/com.codacy/coverage-parser_2.10@2.0.15?classifier=sources
+- pkg:maven/com.codacy/coverage-parser_2.10@2.0.16
+- pkg:maven/com.codacy/coverage-parser_2.10@2.0.16?classifier=sources
+- pkg:maven/com.codacy/coverage-parser_2.10@2.0.17
+- pkg:maven/com.codacy/coverage-parser_2.10@2.0.17?classifier=sources
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.1?classifier=sources
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.2
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.2?classifier=sources
@@ -54,3 +60,7 @@
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.8?classifier=sources
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.9
 - pkg:maven/com.codacy/coverage-parser_2.10@2.0.9?classifier=sources
+- pkg:maven/com.codacy/coverage-parser_2.10@2.1.0
+- pkg:maven/com.codacy/coverage-parser_2.10@2.1.0?classifier=sources
+- pkg:maven/com.codacy/coverage-parser_2.10@2.1.1
+- pkg:maven/com.codacy/coverage-parser_2.10@2.1.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/xyz.rogfam/littleproxy@2.0.0-beta-3?classifier=sources
 - pkg:maven/xyz.rogfam/littleproxy@2.0.0-beta-4
 - pkg:maven/xyz.rogfam/littleproxy@2.0.0-beta-4?classifier=sources
+- pkg:maven/xyz.rogfam/littleproxy@2.0.0-beta-5
+- pkg:maven/xyz.rogfam/littleproxy@2.0.0-beta-5?classifier=sources

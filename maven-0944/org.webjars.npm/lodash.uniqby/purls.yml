@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/lodash.uniqby@4.5.0
+- pkg:maven/org.webjars.npm/lodash.uniqby@4.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/lodash.uniqby@4.7.0
 - pkg:maven/org.webjars.npm/lodash.uniqby@4.7.0?classifier=sources

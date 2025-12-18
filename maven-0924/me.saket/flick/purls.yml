@@ -4,3 +4,9 @@
 - pkg:maven/me.saket/flick@1.3.0?type=aar
 - pkg:maven/me.saket/flick@1.4.0?classifier=sources
 - pkg:maven/me.saket/flick@1.4.0?type=aar
+- pkg:maven/me.saket/flick@1.5.0?classifier=sources
+- pkg:maven/me.saket/flick@1.5.0?type=aar
+- pkg:maven/me.saket/flick@1.6.0?classifier=sources
+- pkg:maven/me.saket/flick@1.6.0?type=aar
+- pkg:maven/me.saket/flick@1.7.0?classifier=sources
+- pkg:maven/me.saket/flick@1.7.0?type=aar

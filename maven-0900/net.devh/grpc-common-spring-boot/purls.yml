@@ -6,3 +6,9 @@
 - pkg:maven/net.devh/grpc-common-spring-boot@2.3.0.RELEASE?classifier=sources
 - pkg:maven/net.devh/grpc-common-spring-boot@2.4.0.RELEASE
 - pkg:maven/net.devh/grpc-common-spring-boot@2.4.0.RELEASE?classifier=sources
+- pkg:maven/net.devh/grpc-common-spring-boot@2.5.0.RELEASE
+- pkg:maven/net.devh/grpc-common-spring-boot@2.5.0.RELEASE?classifier=sources
+- pkg:maven/net.devh/grpc-common-spring-boot@2.5.1.RELEASE
+- pkg:maven/net.devh/grpc-common-spring-boot@2.5.1.RELEASE?classifier=sources
+- pkg:maven/net.devh/grpc-common-spring-boot@2.6.0.RELEASE
+- pkg:maven/net.devh/grpc-common-spring-boot@2.6.0.RELEASE?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/io.noties/tumbleweed-android@2.0.0?classifier=sources
 - pkg:maven/io.noties/tumbleweed-android@2.0.0?type=aar
+- pkg:maven/io.noties/tumbleweed-android@2.1.0?classifier=sources
+- pkg:maven/io.noties/tumbleweed-android@2.1.0?type=aar

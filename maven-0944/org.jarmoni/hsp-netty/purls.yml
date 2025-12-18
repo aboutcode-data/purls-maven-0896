@@ -2,3 +2,7 @@
 - pkg:maven/org.jarmoni/hsp-netty@0.1.0?classifier=sources
 - pkg:maven/org.jarmoni/hsp-netty@1.0.0
 - pkg:maven/org.jarmoni/hsp-netty@1.0.0?classifier=sources
+- pkg:maven/org.jarmoni/hsp-netty@1.1.0
+- pkg:maven/org.jarmoni/hsp-netty@1.1.0?classifier=sources
+- pkg:maven/org.jarmoni/hsp-netty@1.2.0
+- pkg:maven/org.jarmoni/hsp-netty@1.2.0?classifier=sources

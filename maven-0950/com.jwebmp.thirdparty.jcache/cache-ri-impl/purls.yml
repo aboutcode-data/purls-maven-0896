@@ -4,3 +4,5 @@
 - pkg:maven/com.jwebmp.thirdparty.jcache/cache-ri-impl@0.67.0.15?classifier=sources
 - pkg:maven/com.jwebmp.thirdparty.jcache/cache-ri-impl@0.67.0.16
 - pkg:maven/com.jwebmp.thirdparty.jcache/cache-ri-impl@0.67.0.16?classifier=sources
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-ri-impl@0.68.0.1
+- pkg:maven/com.jwebmp.thirdparty.jcache/cache-ri-impl@0.68.0.1?classifier=sources

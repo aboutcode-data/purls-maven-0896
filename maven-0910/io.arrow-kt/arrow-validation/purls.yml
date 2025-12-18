@@ -1,3 +1,9 @@
+- pkg:maven/io.arrow-kt/arrow-validation@0.10.0
+- pkg:maven/io.arrow-kt/arrow-validation@0.10.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-validation@0.10.1
+- pkg:maven/io.arrow-kt/arrow-validation@0.10.1?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-validation@0.10.2
+- pkg:maven/io.arrow-kt/arrow-validation@0.10.2?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-validation@0.8.0
 - pkg:maven/io.arrow-kt/arrow-validation@0.8.0?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-validation@0.8.1

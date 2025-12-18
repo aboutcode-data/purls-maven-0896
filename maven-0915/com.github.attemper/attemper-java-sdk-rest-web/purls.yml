@@ -1,0 +1,6 @@
+- pkg:maven/com.github.attemper/attemper-java-sdk-rest-web@0.9.4.1
+- pkg:maven/com.github.attemper/attemper-java-sdk-rest-web@0.9.4.1?classifier=sources
+- pkg:maven/com.github.attemper/attemper-java-sdk-rest-web@0.9.6
+- pkg:maven/com.github.attemper/attemper-java-sdk-rest-web@0.9.6?classifier=sources
+- pkg:maven/com.github.attemper/attemper-java-sdk-rest-web@0.9.7
+- pkg:maven/com.github.attemper/attemper-java-sdk-rest-web@0.9.7?classifier=sources

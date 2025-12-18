@@ -37,3 +37,5 @@
 - pkg:maven/org.javasimon/javasimon-core@4.1.3?classifier=sources
 - pkg:maven/org.javasimon/javasimon-core@4.1.4
 - pkg:maven/org.javasimon/javasimon-core@4.1.4?classifier=sources
+- pkg:maven/org.javasimon/javasimon-core@4.2.0
+- pkg:maven/org.javasimon/javasimon-core@4.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.yugabyte/jdbc-yugabytedb@42.2.7-yb-3
+- pkg:maven/com.yugabyte/jdbc-yugabytedb@42.2.7-yb-3?classifier=sources

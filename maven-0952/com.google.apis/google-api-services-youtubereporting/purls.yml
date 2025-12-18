@@ -2318,6 +2318,16 @@
 - pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev7-1.21.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev7-1.22.0
 - pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev7-1.22.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev708-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev708-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev708-1.25.0
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev708-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev709-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev709-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev709-1.25.0
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev709-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev710-1.18.0-rc
+- pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev710-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev8-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev8-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-youtubereporting@v1-rev8-1.20.0

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.acsgh.spark.scala/examples_2.12@1.0.12
+- pkg:maven/com.github.acsgh.spark.scala/examples_2.12@1.0.12?classifier=sources
+- pkg:maven/com.github.acsgh.spark.scala/examples_2.12@1.1.0
+- pkg:maven/com.github.acsgh.spark.scala/examples_2.12@1.1.0?classifier=sources

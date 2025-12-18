@@ -22,3 +22,5 @@
 - pkg:maven/org.langrid/jp.go.nict.langrid.service.language_1_2@1.0.8?classifier=sources
 - pkg:maven/org.langrid/jp.go.nict.langrid.service.language_1_2@1.0.9
 - pkg:maven/org.langrid/jp.go.nict.langrid.service.language_1_2@1.0.9?classifier=sources
+- pkg:maven/org.langrid/jp.go.nict.langrid.service.language_1_2@1.1.1
+- pkg:maven/org.langrid/jp.go.nict.langrid.service.language_1_2@1.1.1?classifier=sources

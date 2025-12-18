@@ -15,3 +15,7 @@
 - pkg:maven/org.beangle.sas/beangle-sas@0.5.1?type=zip
 - pkg:maven/org.beangle.sas/beangle-sas@0.5.2?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas@0.5.2?type=zip
+- pkg:maven/org.beangle.sas/beangle-sas@0.5.3?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas@0.5.3?type=zip
+- pkg:maven/org.beangle.sas/beangle-sas@0.5.4?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas@0.5.4?type=zip

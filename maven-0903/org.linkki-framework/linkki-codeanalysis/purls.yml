@@ -61,6 +61,16 @@
 - pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0-rc?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0.0-rc02
 - pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0.0-rc02?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0.1
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0.1?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0.2
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0.2?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-codeanalysis@1.0?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.1.0-ms01
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.1.0-ms01?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.1.0-ms02
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.1.0-ms02?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.1.0-ms03
+- pkg:maven/org.linkki-framework/linkki-codeanalysis@1.1.0-ms03?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-codeanalysis@linkki-0.9.20190528
 - pkg:maven/org.linkki-framework/linkki-codeanalysis@linkki-0.9.20190528?classifier=sources

@@ -64,3 +64,5 @@
 - pkg:maven/org.seedstack.seed/seed-rest-jersey2@3.8.4?classifier=sources
 - pkg:maven/org.seedstack.seed/seed-rest-jersey2@3.8.5
 - pkg:maven/org.seedstack.seed/seed-rest-jersey2@3.8.5?classifier=sources
+- pkg:maven/org.seedstack.seed/seed-rest-jersey2@3.9.0
+- pkg:maven/org.seedstack.seed/seed-rest-jersey2@3.9.0?classifier=sources

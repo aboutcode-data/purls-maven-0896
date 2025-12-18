@@ -176,6 +176,8 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.31.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.31.1.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.31.1.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.31.2.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.31.2.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.7.0.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.7.0.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-rx-java-driver@0.8.0.Final

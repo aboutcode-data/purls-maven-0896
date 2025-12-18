@@ -48,3 +48,5 @@
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth@6.0.7?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth@6.0.8
 - pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth@6.0.8?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth@6.2.5
+- pkg:maven/org.wso2.carbon.identity.application.auth.basic/org.wso2.carbon.identity.application.authenticator.basicauth@6.2.5?classifier=sources

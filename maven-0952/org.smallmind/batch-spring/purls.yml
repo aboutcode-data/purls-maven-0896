@@ -6,3 +6,11 @@
 - pkg:maven/org.smallmind/batch-spring@3.3.19?classifier=sources
 - pkg:maven/org.smallmind/batch-spring@3.3.20
 - pkg:maven/org.smallmind/batch-spring@3.3.20?classifier=sources
+- pkg:maven/org.smallmind/batch-spring@3.3.21
+- pkg:maven/org.smallmind/batch-spring@3.3.21?classifier=sources
+- pkg:maven/org.smallmind/batch-spring@3.3.22
+- pkg:maven/org.smallmind/batch-spring@3.3.22?classifier=sources
+- pkg:maven/org.smallmind/batch-spring@3.3.23
+- pkg:maven/org.smallmind/batch-spring@3.3.23?classifier=sources
+- pkg:maven/org.smallmind/batch-spring@3.3.24
+- pkg:maven/org.smallmind/batch-spring@3.3.24?classifier=sources

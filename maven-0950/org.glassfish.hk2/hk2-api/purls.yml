@@ -502,3 +502,5 @@
 - pkg:maven/org.glassfish.hk2/hk2-api@2.5.0?classifier=sources
 - pkg:maven/org.glassfish.hk2/hk2-api@2.6.0
 - pkg:maven/org.glassfish.hk2/hk2-api@2.6.0?classifier=sources
+- pkg:maven/org.glassfish.hk2/hk2-api@2.6.1
+- pkg:maven/org.glassfish.hk2/hk2-api@2.6.1?classifier=sources

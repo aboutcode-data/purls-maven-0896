@@ -36,6 +36,8 @@
 - pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta3_spark_2?classifier=sources
 - pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta4_spark_2
 - pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta4_spark_2?classifier=sources
+- pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta5
+- pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta5?classifier=sources
 - pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta_spark_1
 - pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta_spark_1?classifier=sources
 - pkg:maven/org.datavec/datavec-spark_2.11@1.0.0-beta_spark_2

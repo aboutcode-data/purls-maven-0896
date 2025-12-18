@@ -1,0 +1,4 @@
+- pkg:maven/com.pig4cloud.spring.boot/mybatis-spring-boot-autoconfigure@0.1.0
+- pkg:maven/com.pig4cloud.spring.boot/mybatis-spring-boot-autoconfigure@0.1.0?classifier=sources
+- pkg:maven/com.pig4cloud.spring.boot/mybatis-spring-boot-autoconfigure@0.1.1
+- pkg:maven/com.pig4cloud.spring.boot/mybatis-spring-boot-autoconfigure@0.1.1?classifier=sources

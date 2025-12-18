@@ -32,3 +32,13 @@
 - pkg:maven/io.bluebank.braid/braid-client@4.1.0-RC01
 - pkg:maven/io.bluebank.braid/braid-client@4.1.0-RC01?classifier=sources
 - pkg:maven/io.bluebank.braid/braid-client@4.1.0?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-client@4.1.1
+- pkg:maven/io.bluebank.braid/braid-client@4.1.1-patch-01
+- pkg:maven/io.bluebank.braid/braid-client@4.1.1-patch-01?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-client@4.1.1?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-client@4.1.2-RC06
+- pkg:maven/io.bluebank.braid/braid-client@4.1.2-RC06?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-client@4.1.2-RC07
+- pkg:maven/io.bluebank.braid/braid-client@4.1.2-RC07?classifier=sources
+- pkg:maven/io.bluebank.braid/braid-client@4.1.2-RC08
+- pkg:maven/io.bluebank.braid/braid-client@4.1.2-RC08?classifier=sources

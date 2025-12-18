@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE112?classifier=sources

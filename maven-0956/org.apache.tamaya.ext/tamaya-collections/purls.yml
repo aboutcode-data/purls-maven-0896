@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.tamaya.ext/tamaya-collections@0.2-incubating
 - pkg:maven/org.apache.tamaya.ext/tamaya-collections@0.2-incubating?classifier=sources
+- pkg:maven/org.apache.tamaya.ext/tamaya-collections@0.4-incubating
+- pkg:maven/org.apache.tamaya.ext/tamaya-collections@0.4-incubating?classifier=sources

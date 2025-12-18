@@ -1,0 +1,2 @@
+- pkg:maven/com.github.docker-java/docker-java-api@3.2.0-rc1
+- pkg:maven/com.github.docker-java/docker-java-api@3.2.0-rc1?classifier=sources

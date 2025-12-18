@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.epsilon.labs/emc-cellsheet-core@2.0.0
 - pkg:maven/org.eclipse.epsilon.labs/emc-cellsheet-core@2.0.0?classifier=sources
+- pkg:maven/org.eclipse.epsilon.labs/emc-cellsheet-core@3.0.0
+- pkg:maven/org.eclipse.epsilon.labs/emc-cellsheet-core@3.0.0?classifier=sources

@@ -95,4 +95,6 @@
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-core@6.3.1.2?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-core@6.3.1?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-core@6.5.4
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-core@6.5.4.1
+- pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-core@6.5.4.1?classifier=sources
 - pkg:maven/org.wikimedia.search.highlighter/experimental-highlighter-core@6.5.4?classifier=sources

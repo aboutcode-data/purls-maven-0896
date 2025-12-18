@@ -2,3 +2,5 @@
 - pkg:maven/com.hurence.logisland/logisland-service-ip-to-geo-maxmind@1.1.0?classifier=sources
 - pkg:maven/com.hurence.logisland/logisland-service-ip-to-geo-maxmind@1.1.2
 - pkg:maven/com.hurence.logisland/logisland-service-ip-to-geo-maxmind@1.1.2?classifier=sources
+- pkg:maven/com.hurence.logisland/logisland-service-ip-to-geo-maxmind@1.2.0
+- pkg:maven/com.hurence.logisland/logisland-service-ip-to-geo-maxmind@1.2.0?classifier=sources

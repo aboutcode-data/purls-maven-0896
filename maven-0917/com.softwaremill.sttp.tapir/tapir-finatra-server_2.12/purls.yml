@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-finatra-server_2.12@0.12.0
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-finatra-server_2.12@0.12.0?classifier=sources

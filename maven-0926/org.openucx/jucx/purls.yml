@@ -1,0 +1,2 @@
+- pkg:maven/org.openucx/jucx@1.7.0
+- pkg:maven/org.openucx/jucx@1.7.0?classifier=sources

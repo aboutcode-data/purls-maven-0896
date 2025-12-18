@@ -231,6 +231,8 @@
 - pkg:maven/org.webjars/angularjs@1.7.6?classifier=sources
 - pkg:maven/org.webjars/angularjs@1.7.7
 - pkg:maven/org.webjars/angularjs@1.7.7?classifier=sources
+- pkg:maven/org.webjars/angularjs@1.7.8
+- pkg:maven/org.webjars/angularjs@1.7.8?classifier=sources
 - pkg:maven/org.webjars/angularjs@2.0.0-alpha.19
 - pkg:maven/org.webjars/angularjs@2.0.0-alpha.19?classifier=sources
 - pkg:maven/org.webjars/angularjs@2.0.0-alpha.22

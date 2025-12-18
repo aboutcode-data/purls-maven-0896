@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE90?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.tomee/tomee-plus-webapp@8.0.0-M2?type=war
 - pkg:maven/org.apache.tomee/tomee-plus-webapp@8.0.0-M3?classifier=sources
 - pkg:maven/org.apache.tomee/tomee-plus-webapp@8.0.0-M3?type=war
+- pkg:maven/org.apache.tomee/tomee-plus-webapp@8.0.0?classifier=sources
+- pkg:maven/org.apache.tomee/tomee-plus-webapp@8.0.0?type=war

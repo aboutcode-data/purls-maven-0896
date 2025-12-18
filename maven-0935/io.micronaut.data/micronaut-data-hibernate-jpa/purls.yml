@@ -1,0 +1,8 @@
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M2
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M2?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M3
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M3?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M4
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M4?classifier=sources
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M5
+- pkg:maven/io.micronaut.data/micronaut-data-hibernate-jpa@1.0.0.M5?classifier=sources

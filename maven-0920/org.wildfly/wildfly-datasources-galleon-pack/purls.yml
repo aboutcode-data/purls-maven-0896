@@ -4,3 +4,8 @@
 - pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.3.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.4.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.5.CD.Alpha1?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.5.CD.Alpha2?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.5.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-datasources-galleon-pack@1.0.6.Final?classifier=source-release&type=zip

@@ -1,2 +1,8 @@
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.61
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.61?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.62
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.62?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.63
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.63?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.64
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.64?classifier=sources

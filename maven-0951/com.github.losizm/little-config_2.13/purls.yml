@@ -1,2 +1,6 @@
 - pkg:maven/com.github.losizm/little-config_2.13@0.4.0
 - pkg:maven/com.github.losizm/little-config_2.13@0.4.0?classifier=sources
+- pkg:maven/com.github.losizm/little-config_2.13@0.5.0
+- pkg:maven/com.github.losizm/little-config_2.13@0.5.0?classifier=sources
+- pkg:maven/com.github.losizm/little-config_2.13@0.6.0
+- pkg:maven/com.github.losizm/little-config_2.13@0.6.0?classifier=sources

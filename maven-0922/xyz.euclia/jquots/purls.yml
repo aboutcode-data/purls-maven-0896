@@ -1,0 +1,4 @@
+- pkg:maven/xyz.euclia/jquots@0.0.1
+- pkg:maven/xyz.euclia/jquots@0.0.1?classifier=sources
+- pkg:maven/xyz.euclia/jquots@0.0.4
+- pkg:maven/xyz.euclia/jquots@0.0.4?classifier=sources

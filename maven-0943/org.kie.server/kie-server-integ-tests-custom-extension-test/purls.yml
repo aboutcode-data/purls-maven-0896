@@ -16,6 +16,11 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.23.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.24.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.24.0.t043
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.25.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.26.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.27.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.28.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.29.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.3.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.4.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-custom-extension-test@7.4.1.Final

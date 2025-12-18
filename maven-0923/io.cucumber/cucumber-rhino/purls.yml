@@ -1,3 +1,5 @@
+- pkg:maven/io.cucumber/cucumber-rhino@1.2.6
+- pkg:maven/io.cucumber/cucumber-rhino@1.2.6?classifier=sources
 - pkg:maven/io.cucumber/cucumber-rhino@2.0.0
 - pkg:maven/io.cucumber/cucumber-rhino@2.0.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-rhino@2.0.1

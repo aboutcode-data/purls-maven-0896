@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.sis.storage/sis-xmlstore@0.8
 - pkg:maven/org.apache.sis.storage/sis-xmlstore@0.8?classifier=sources
+- pkg:maven/org.apache.sis.storage/sis-xmlstore@1.0
+- pkg:maven/org.apache.sis.storage/sis-xmlstore@1.0?classifier=sources

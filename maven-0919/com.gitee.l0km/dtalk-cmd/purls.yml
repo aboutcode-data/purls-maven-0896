@@ -23,6 +23,12 @@
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.19?classifier=sources
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.1?classifier=sources
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.2
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.20
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.20?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.21
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.21?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.22
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.22?classifier=sources
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.2?classifier=sources
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.3
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.3?classifier=sources
@@ -38,3 +44,13 @@
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.8?classifier=sources
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.9
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.2.9?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.0
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.0?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.1
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.1?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.2
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.2?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.3
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.3?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.4
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.3.4?classifier=sources
