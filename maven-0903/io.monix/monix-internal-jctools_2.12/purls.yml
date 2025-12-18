@@ -8,3 +8,5 @@
 - pkg:maven/io.monix/monix-internal-jctools_2.12@3.2.2%2B44-ab4c068c?classifier=sources
 - pkg:maven/io.monix/monix-internal-jctools_2.12@3.2.2%2B45-5c6c8b9e
 - pkg:maven/io.monix/monix-internal-jctools_2.12@3.2.2%2B45-5c6c8b9e?classifier=sources
+- pkg:maven/io.monix/monix-internal-jctools_2.12@3.3.0
+- pkg:maven/io.monix/monix-internal-jctools_2.12@3.3.0?classifier=sources

@@ -232,6 +232,12 @@
 - pkg:maven/org.gedcomx/gedcomx-atom@2.120.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-atom@2.121.0
 - pkg:maven/org.gedcomx/gedcomx-atom@2.121.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-atom@2.122.0
+- pkg:maven/org.gedcomx/gedcomx-atom@2.122.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-atom@2.123.0
+- pkg:maven/org.gedcomx/gedcomx-atom@2.123.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-atom@2.126.0
+- pkg:maven/org.gedcomx/gedcomx-atom@2.126.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-atom@2.14.0
 - pkg:maven/org.gedcomx/gedcomx-atom@2.14.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-atom@2.15.0

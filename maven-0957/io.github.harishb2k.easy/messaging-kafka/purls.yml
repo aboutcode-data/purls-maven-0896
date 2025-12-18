@@ -1,0 +1,10 @@
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.42
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.42?classifier=sources
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.43
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.43?classifier=sources
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.44
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.44?classifier=sources
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.45
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.45?classifier=sources
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.46
+- pkg:maven/io.github.harishb2k.easy/messaging-kafka@0.0.46?classifier=sources

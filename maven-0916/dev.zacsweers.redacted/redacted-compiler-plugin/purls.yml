@@ -4,3 +4,7 @@
 - pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.2.0-1.4-M3?classifier=sources
 - pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.2.0?classifier=sources
 - pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.3.0?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.4.0?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.5.0?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.6.0?classifier=sources
+- pkg:maven/dev.zacsweers.redacted/redacted-compiler-plugin@0.6.1?classifier=sources

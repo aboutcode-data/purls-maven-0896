@@ -96,6 +96,12 @@
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.153?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.154
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.154?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@3.12.155
+- pkg:maven/io.nosqlbench/nb-annotations@3.12.155?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@3.12.200
+- pkg:maven/io.nosqlbench/nb-annotations@3.12.200?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@3.12.201
+- pkg:maven/io.nosqlbench/nb-annotations@3.12.201?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.92
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.92?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.93

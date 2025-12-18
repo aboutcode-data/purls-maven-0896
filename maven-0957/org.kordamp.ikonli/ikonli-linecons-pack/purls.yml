@@ -4,6 +4,10 @@
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@11.4.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@11.5.0
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@11.5.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.0.0
+- pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.0.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.1.0
+- pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.1.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@2.5.0
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@2.5.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@2.6.0

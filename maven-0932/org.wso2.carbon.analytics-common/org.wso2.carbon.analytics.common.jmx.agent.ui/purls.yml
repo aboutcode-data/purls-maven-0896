@@ -74,6 +74,7 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.1.6
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.1.61
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.1.62
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.1.63
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.1.7
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.1.8
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.1.9
@@ -105,3 +106,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.2.31?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.2.32
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.2.32?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.2.33
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.analytics.common.jmx.agent.ui@5.2.33?classifier=sources

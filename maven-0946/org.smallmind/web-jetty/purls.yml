@@ -22,3 +22,5 @@
 - pkg:maven/org.smallmind/web-jetty@4.2.0?classifier=sources
 - pkg:maven/org.smallmind/web-jetty@4.3.0
 - pkg:maven/org.smallmind/web-jetty@4.3.0?classifier=sources
+- pkg:maven/org.smallmind/web-jetty@4.4.1
+- pkg:maven/org.smallmind/web-jetty@4.4.1?classifier=sources

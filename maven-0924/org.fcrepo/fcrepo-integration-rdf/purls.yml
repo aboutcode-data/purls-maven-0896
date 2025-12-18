@@ -21,3 +21,5 @@
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.0.2
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.1.0
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.1.1
+- pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.0.0-alpha-1
+- pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.0.0-alpha-2

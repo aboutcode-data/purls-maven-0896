@@ -1,2 +1,6 @@
 - pkg:maven/org.glassfish.shoal/shoal-cache@1.6.53
 - pkg:maven/org.glassfish.shoal/shoal-cache@1.6.53?classifier=sources
+- pkg:maven/org.glassfish.shoal/shoal-cache@2.0.0
+- pkg:maven/org.glassfish.shoal/shoal-cache@2.0.0-RC1
+- pkg:maven/org.glassfish.shoal/shoal-cache@2.0.0-RC1?classifier=sources
+- pkg:maven/org.glassfish.shoal/shoal-cache@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.pitest.copy/pitest-entry@0.42.16
+- pkg:maven/org.pitest.copy/pitest-entry@0.42.16?classifier=sources

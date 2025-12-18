@@ -1,0 +1,8 @@
+- pkg:maven/com.aeert/vfilter@1.0.0
+- pkg:maven/com.aeert/vfilter@1.0.0.RELEASE
+- pkg:maven/com.aeert/vfilter@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.aeert/vfilter@1.0.0?classifier=sources
+- pkg:maven/com.aeert/vfilter@2.0.0
+- pkg:maven/com.aeert/vfilter@2.0.0.RELEASE
+- pkg:maven/com.aeert/vfilter@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.aeert/vfilter@2.0.0?classifier=sources

@@ -30,6 +30,7 @@
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@2.2.0?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@2.2.1
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@2.2.1?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha1
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha1?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.alpha2
@@ -61,8 +62,16 @@
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta15?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta16
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta16?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta17
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta17?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta19
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta19?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta1?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta2
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta20
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta20?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta21
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta21?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta2?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta3
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta3?classifier=sources
@@ -76,3 +85,4 @@
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta8?classifier=sources
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta9
 - pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0.beta9?classifier=sources
+- pkg:maven/com.sitewhere/sitewhere-grpc-user-management@3.0.0?classifier=sources

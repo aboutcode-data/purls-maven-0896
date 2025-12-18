@@ -86,6 +86,12 @@
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.45.0.t20201009?classifier=sources
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.45.0.t20201014
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.45.0.t20201014?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.46.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.46.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.47.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.48.0.Final
+- pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.48.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.6.0.Final
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-server-spring-boot-autoconfiguration-jbpm@7.7.0.Final

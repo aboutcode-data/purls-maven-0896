@@ -1,1 +1,15 @@
 - pkg:maven/com.highgo/HgdbJdbc@5.0.0.jre6?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@5.0.0.jre7?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@5.0.0.jre8?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.0.jre6?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.0.jre7?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.0.jre8?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.1.jre6?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.1.jre7?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.1.jre8?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.2.jre6?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.2.jre7?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.2.jre8?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.3.jre6?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.3.jre7?classifier=sources
+- pkg:maven/com.highgo/HgdbJdbc@6.0.3.jre8?classifier=sources

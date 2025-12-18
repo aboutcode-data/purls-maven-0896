@@ -22,5 +22,15 @@
 - pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.45.0.t20201009?classifier=sources
 - pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.45.0.t20201014
 - pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.45.0.t20201014?classifier=sources
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.46.0.Beta1
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.46.0.Beta1?classifier=sources
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.46.0.Final
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.46.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.46.0.t20201030
 - pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.46.0.t20201030?classifier=sources
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.47.0.Final
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.48.0.Final
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.48.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.49.0.t20210118
+- pkg:maven/org.kie/kie-pmml-benchmarks-regression@7.49.0.t20210118?classifier=sources

@@ -378,6 +378,8 @@
 - pkg:maven/org.pustefixframework/pustefix-webservice@0.22.1?type=war
 - pkg:maven/org.pustefixframework/pustefix-webservice@0.22.20?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-webservice@0.22.20?type=war
+- pkg:maven/org.pustefixframework/pustefix-webservice@0.22.21?classifier=sources
+- pkg:maven/org.pustefixframework/pustefix-webservice@0.22.21?type=war
 - pkg:maven/org.pustefixframework/pustefix-webservice@0.22.2?classifier=sources
 - pkg:maven/org.pustefixframework/pustefix-webservice@0.22.2?type=war
 - pkg:maven/org.pustefixframework/pustefix-webservice@0.22.3?classifier=sources

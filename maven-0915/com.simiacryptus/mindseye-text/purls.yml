@@ -2,3 +2,5 @@
 - pkg:maven/com.simiacryptus/mindseye-text@1.7.2
 - pkg:maven/com.simiacryptus/mindseye-text@1.8.0
 - pkg:maven/com.simiacryptus/mindseye-text@2.0.0
+- pkg:maven/com.simiacryptus/mindseye-text@2.1.0
+- pkg:maven/com.simiacryptus/mindseye-text@2.1.0?classifier=sources

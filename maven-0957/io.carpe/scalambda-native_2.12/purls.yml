@@ -1,2 +1,6 @@
 - pkg:maven/io.carpe/scalambda-native_2.12@6.0.0
 - pkg:maven/io.carpe/scalambda-native_2.12@6.0.0?classifier=sources
+- pkg:maven/io.carpe/scalambda-native_2.12@6.1.0
+- pkg:maven/io.carpe/scalambda-native_2.12@6.1.0?classifier=sources
+- pkg:maven/io.carpe/scalambda-native_2.12@6.1.1
+- pkg:maven/io.carpe/scalambda-native_2.12@6.1.1?classifier=sources

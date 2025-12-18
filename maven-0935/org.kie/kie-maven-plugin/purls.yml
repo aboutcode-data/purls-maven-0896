@@ -155,6 +155,12 @@
 - pkg:maven/org.kie/kie-maven-plugin@7.45.0.t20201009?classifier=sources
 - pkg:maven/org.kie/kie-maven-plugin@7.45.0.t20201014
 - pkg:maven/org.kie/kie-maven-plugin@7.45.0.t20201014?classifier=sources
+- pkg:maven/org.kie/kie-maven-plugin@7.46.0.Final
+- pkg:maven/org.kie/kie-maven-plugin@7.46.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-maven-plugin@7.47.0.Final
+- pkg:maven/org.kie/kie-maven-plugin@7.47.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-maven-plugin@7.48.0.Final
+- pkg:maven/org.kie/kie-maven-plugin@7.48.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-maven-plugin@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-maven-plugin@7.5.0.t018?classifier=sources
 - pkg:maven/org.kie/kie-maven-plugin@7.6.0.Final?classifier=sources

@@ -16,6 +16,8 @@
 - pkg:maven/org.tentackle/tentackle-pdo@11.6.2.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-pdo@11.7.0.0
 - pkg:maven/org.tentackle/tentackle-pdo@11.7.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-pdo@11.7.1.0
+- pkg:maven/org.tentackle/tentackle-pdo@11.7.1.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-pdo@2.1.0
 - pkg:maven/org.tentackle/tentackle-pdo@2.1.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-pdo@2.1.1
@@ -46,3 +48,5 @@
 - pkg:maven/org.tentackle/tentackle-pdo@8.2.7.4?classifier=sources
 - pkg:maven/org.tentackle/tentackle-pdo@8.2.8.0
 - pkg:maven/org.tentackle/tentackle-pdo@8.2.8.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-pdo@8.3.0.0
+- pkg:maven/org.tentackle/tentackle-pdo@8.3.0.0?classifier=sources

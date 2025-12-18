@@ -1,0 +1,4 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@2.2.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@2.2.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.0.0?classifier=sources

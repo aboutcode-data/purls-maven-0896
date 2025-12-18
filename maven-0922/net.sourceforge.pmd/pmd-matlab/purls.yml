@@ -106,6 +106,8 @@
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.29.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.3.0
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.3.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-matlab@6.30.0
+- pkg:maven/net.sourceforge.pmd/pmd-matlab@6.30.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.4.0
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.4.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.5.0

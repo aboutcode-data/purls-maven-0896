@@ -7,3 +7,4 @@
 - pkg:maven/org.openapitools.empoa/empoa-jackson-serializer@1.2.0?classifier=sources
 - pkg:maven/org.openapitools.empoa/empoa-jackson-serializer@1.2.1
 - pkg:maven/org.openapitools.empoa/empoa-jackson-serializer@1.2.1?classifier=sources
+- pkg:maven/org.openapitools.empoa/empoa-jackson-serializer@2.0.0?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/com.lightbend.lagom/lagom-reloadable-server_2.12@1.6.3?classifier=sources
 - pkg:maven/com.lightbend.lagom/lagom-reloadable-server_2.12@1.6.4
 - pkg:maven/com.lightbend.lagom/lagom-reloadable-server_2.12@1.6.4?classifier=sources
+- pkg:maven/com.lightbend.lagom/lagom-reloadable-server_2.12@1.6.5-RC1
+- pkg:maven/com.lightbend.lagom/lagom-reloadable-server_2.12@1.6.5-RC1?classifier=sources

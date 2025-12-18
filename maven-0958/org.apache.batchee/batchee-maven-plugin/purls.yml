@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.batchee/batchee-maven-plugin@0.4-incubating?classifier=sources
 - pkg:maven/org.apache.batchee/batchee-maven-plugin@0.5-incubating
 - pkg:maven/org.apache.batchee/batchee-maven-plugin@0.5-incubating?classifier=sources
+- pkg:maven/org.apache.batchee/batchee-maven-plugin@0.6
+- pkg:maven/org.apache.batchee/batchee-maven-plugin@0.6?classifier=sources

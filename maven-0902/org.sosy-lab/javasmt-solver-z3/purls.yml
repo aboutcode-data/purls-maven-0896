@@ -1,2 +1,4 @@
+- pkg:maven/org.sosy-lab/javasmt-solver-z3@4.8.9-sosy1
+- pkg:maven/org.sosy-lab/javasmt-solver-z3@4.8.9-sosy1?classifier=sources
 - pkg:maven/org.sosy-lab/javasmt-solver-z3@z3-4.4.1-1558-gf96cfea
 - pkg:maven/org.sosy-lab/javasmt-solver-z3@z3-4.4.1-1558-gf96cfea?classifier=sources

@@ -4,6 +4,10 @@
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.10.1?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.10.2
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.10.2?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.11.1
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.11.1?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.12.1
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.12.1?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.3.0
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.3.0?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@20.3.1

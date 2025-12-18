@@ -34,6 +34,10 @@
 - pkg:maven/de.quinscape.domainql/automaton@0.2.12?classifier=sources
 - pkg:maven/de.quinscape.domainql/automaton@0.2.13
 - pkg:maven/de.quinscape.domainql/automaton@0.2.13?classifier=sources
+- pkg:maven/de.quinscape.domainql/automaton@0.2.15
+- pkg:maven/de.quinscape.domainql/automaton@0.2.15?classifier=sources
+- pkg:maven/de.quinscape.domainql/automaton@0.2.17
+- pkg:maven/de.quinscape.domainql/automaton@0.2.17?classifier=sources
 - pkg:maven/de.quinscape.domainql/automaton@0.2.2
 - pkg:maven/de.quinscape.domainql/automaton@0.2.2?classifier=sources
 - pkg:maven/de.quinscape.domainql/automaton@0.2.3

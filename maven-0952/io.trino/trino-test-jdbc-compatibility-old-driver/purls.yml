@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@351
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@351?classifier=sources

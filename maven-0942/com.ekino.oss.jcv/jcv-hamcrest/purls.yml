@@ -12,3 +12,4 @@
 - pkg:maven/com.ekino.oss.jcv/jcv-hamcrest@1.4.1?classifier=sources
 - pkg:maven/com.ekino.oss.jcv/jcv-hamcrest@1.4.2
 - pkg:maven/com.ekino.oss.jcv/jcv-hamcrest@1.4.2?classifier=sources
+- pkg:maven/com.ekino.oss.jcv/jcv-hamcrest@1.5.0?classifier=sources

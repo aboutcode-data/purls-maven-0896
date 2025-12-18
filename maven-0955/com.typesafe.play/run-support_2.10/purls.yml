@@ -130,6 +130,12 @@
 - pkg:maven/com.typesafe.play/run-support_2.10@2.7.5?classifier=sources
 - pkg:maven/com.typesafe.play/run-support_2.10@2.7.6
 - pkg:maven/com.typesafe.play/run-support_2.10@2.7.6?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.7.7
+- pkg:maven/com.typesafe.play/run-support_2.10@2.7.7?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.7.8
+- pkg:maven/com.typesafe.play/run-support_2.10@2.7.8?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.7.9
+- pkg:maven/com.typesafe.play/run-support_2.10@2.7.9?classifier=sources
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.0
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.0-M1
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.0-M1?classifier=sources
@@ -158,3 +164,11 @@
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.2?classifier=sources
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.3
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.3?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.4
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.4?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.5
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.5?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.6
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.6?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.7
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.7?classifier=sources

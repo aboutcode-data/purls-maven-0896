@@ -87,3 +87,4 @@
 - pkg:maven/org.wso2.carbon.commons/soap-tracer@4.7.32?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/soap-tracer@4.7.33?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.commons/soap-tracer@4.7.34?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.commons/soap-tracer@4.7.35?classifier=source-release&type=zip

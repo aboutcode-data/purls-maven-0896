@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/autoscaling-plans@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/autoscaling-plans@773.2.578.0
 - pkg:maven/com.cognitect.aws/autoscaling-plans@773.2.578.0?classifier=sources
+- pkg:maven/com.cognitect.aws/autoscaling-plans@811.2.824.0
+- pkg:maven/com.cognitect.aws/autoscaling-plans@811.2.824.0?classifier=sources

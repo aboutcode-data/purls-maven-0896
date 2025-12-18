@@ -1,4 +1,6 @@
 - pkg:maven/org.kurento.tutorial/kurento-platedetector@6.11.0?classifier=sources
 - pkg:maven/org.kurento.tutorial/kurento-platedetector@6.11.0?type=zip
+- pkg:maven/org.kurento.tutorial/kurento-platedetector@6.15.0?classifier=sources
+- pkg:maven/org.kurento.tutorial/kurento-platedetector@6.15.0?type=zip
 - pkg:maven/org.kurento.tutorial/kurento-platedetector@6.8.0?classifier=sources
 - pkg:maven/org.kurento.tutorial/kurento-platedetector@6.8.0?type=zip

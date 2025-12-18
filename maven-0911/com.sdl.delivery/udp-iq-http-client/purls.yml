@@ -12,7 +12,13 @@
 - pkg:maven/com.sdl.delivery/udp-iq-http-client@11.0.0-1071?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-http-client@11.0.0-1072
 - pkg:maven/com.sdl.delivery/udp-iq-http-client@11.0.0-1072?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-http-client@11.0.0-1075
+- pkg:maven/com.sdl.delivery/udp-iq-http-client@11.0.0-1075?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-http-client@11.0.0-1112
+- pkg:maven/com.sdl.delivery/udp-iq-http-client@11.0.0-1112?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-http-client@11.1.0-1054
 - pkg:maven/com.sdl.delivery/udp-iq-http-client@11.1.0-1054?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-http-client@11.1.0-1103
+- pkg:maven/com.sdl.delivery/udp-iq-http-client@11.1.0-1103?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-http-client@11.5.0-1084
 - pkg:maven/com.sdl.delivery/udp-iq-http-client@11.5.0-1084?classifier=sources

@@ -21,6 +21,7 @@
 - pkg:maven/com.sos-berlin/jobscheduler.engine@1.13.3?classifier=sources
 - pkg:maven/com.sos-berlin/jobscheduler.engine@1.13.4?classifier=sources
 - pkg:maven/com.sos-berlin/jobscheduler.engine@1.13.6?classifier=sources
+- pkg:maven/com.sos-berlin/jobscheduler.engine@1.13.8?classifier=sources
 - pkg:maven/com.sos-berlin/jobscheduler.engine@1.9.10?classifier=sources
 - pkg:maven/com.sos-berlin/jobscheduler.engine@1.9.11?classifier=sources
 - pkg:maven/com.sos-berlin/jobscheduler.engine@1.9.6?classifier=sources

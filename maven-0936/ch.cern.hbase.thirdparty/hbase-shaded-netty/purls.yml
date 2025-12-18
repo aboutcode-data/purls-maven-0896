@@ -1,0 +1,4 @@
+- pkg:maven/ch.cern.hbase.thirdparty/hbase-shaded-netty@2.1.0
+- pkg:maven/ch.cern.hbase.thirdparty/hbase-shaded-netty@2.1.0?classifier=sources
+- pkg:maven/ch.cern.hbase.thirdparty/hbase-shaded-netty@2.2.1
+- pkg:maven/ch.cern.hbase.thirdparty/hbase-shaded-netty@2.2.1?classifier=sources

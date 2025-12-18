@@ -6,3 +6,5 @@
 - pkg:maven/ai.djl.tensorflow/tensorflow-model-zoo@0.7.0?classifier=sources
 - pkg:maven/ai.djl.tensorflow/tensorflow-model-zoo@0.8.0
 - pkg:maven/ai.djl.tensorflow/tensorflow-model-zoo@0.8.0?classifier=sources
+- pkg:maven/ai.djl.tensorflow/tensorflow-model-zoo@0.9.0
+- pkg:maven/ai.djl.tensorflow/tensorflow-model-zoo@0.9.0?classifier=sources

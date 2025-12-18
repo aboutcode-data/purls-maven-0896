@@ -60,3 +60,7 @@
 - pkg:maven/org.gebish/geb-spock@3.4.1
 - pkg:maven/org.gebish/geb-spock@3.4.1?classifier=sources
 - pkg:maven/org.gebish/geb-spock@3.4?classifier=sources
+- pkg:maven/org.gebish/geb-spock@4.0
+- pkg:maven/org.gebish/geb-spock@4.0-rc-1
+- pkg:maven/org.gebish/geb-spock@4.0-rc-1?classifier=sources
+- pkg:maven/org.gebish/geb-spock@4.0?classifier=sources

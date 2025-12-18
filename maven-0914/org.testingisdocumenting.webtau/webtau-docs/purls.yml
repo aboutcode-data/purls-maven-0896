@@ -18,3 +18,11 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.29?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.33
 - pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.33?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.34
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.34?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.35
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.35?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.36.1
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.36.1?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.36.2
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.36.2?classifier=sources

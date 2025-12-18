@@ -1,0 +1,4 @@
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@20.12.0
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@20.12.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@21.1.0
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@21.1.0?classifier=sources

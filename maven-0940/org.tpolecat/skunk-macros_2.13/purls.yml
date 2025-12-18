@@ -22,6 +22,10 @@
 - pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.20?classifier=sources
 - pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.21
 - pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.21?classifier=sources
+- pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.22-M1
+- pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.22-M1?classifier=sources
+- pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.22-M2
+- pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.22-M2?classifier=sources
 - pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.4
 - pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.4?classifier=sources
 - pkg:maven/org.tpolecat/skunk-macros_2.13@0.0.5

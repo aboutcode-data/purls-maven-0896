@@ -1,2 +1,4 @@
 - pkg:maven/eu.unicore.security/securityLibrary@5.0.0
 - pkg:maven/eu.unicore.security/securityLibrary@5.0.0?classifier=sources
+- pkg:maven/eu.unicore.security/securityLibrary@5.1.0
+- pkg:maven/eu.unicore.security/securityLibrary@5.1.0?classifier=sources

@@ -10,6 +10,8 @@
 - pkg:maven/com.influxdb/influxdb-client-core@1.12.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-core@1.13.0
 - pkg:maven/com.influxdb/influxdb-client-core@1.13.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-core@1.14.0
+- pkg:maven/com.influxdb/influxdb-client-core@1.14.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-core@1.2.0
 - pkg:maven/com.influxdb/influxdb-client-core@1.2.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-core@1.3.0

@@ -1,4 +1,5 @@
 - pkg:maven/com.annimon/tgbots-module@0.1
+- pkg:maven/com.annimon/tgbots-module@0.10?classifier=sources
 - pkg:maven/com.annimon/tgbots-module@0.1?classifier=sources
 - pkg:maven/com.annimon/tgbots-module@0.2
 - pkg:maven/com.annimon/tgbots-module@0.2?classifier=sources

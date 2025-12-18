@@ -22,3 +22,5 @@
 - pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-webmvc-addons@2.3.4?classifier=sources
 - pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-webmvc-addons@2.4.0
 - pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-webmvc-addons@2.4.0?classifier=sources
+- pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-webmvc-addons@2.4.1
+- pkg:maven/com.c4-soft.springaddons/spring-security-oauth2-test-webmvc-addons@2.4.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.iussoft/iussoft-cache@3.1.1
 - pkg:maven/com.iussoft/iussoft-cache@3.1.1?classifier=sources
+- pkg:maven/com.iussoft/iussoft-cache@3.2.1
+- pkg:maven/com.iussoft/iussoft-cache@3.2.1?classifier=sources

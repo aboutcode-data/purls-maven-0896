@@ -4,3 +4,5 @@
 - pkg:maven/com.gframework.boot/gframework-boot-script@2.0.0-beta?classifier=sources
 - pkg:maven/com.gframework.boot/gframework-boot-script@2.1.0-beta
 - pkg:maven/com.gframework.boot/gframework-boot-script@2.1.0-beta?classifier=sources
+- pkg:maven/com.gframework.boot/gframework-boot-script@2.1.1-beta
+- pkg:maven/com.gframework.boot/gframework-boot-script@2.1.1-beta?classifier=sources

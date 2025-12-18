@@ -1,0 +1,12 @@
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@3.1.9
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@3.1.9?classifier=sources
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@3.2.0
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@3.2.0?classifier=sources
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@3.2.1
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@3.2.1?classifier=sources
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.0
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.0?classifier=sources
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.1
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.1?classifier=sources
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.2
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.2?classifier=sources

@@ -28,6 +28,16 @@
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.16?classifier=sources
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.18
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.18?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.19
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.19?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.20
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.20?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.21
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.21?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.23
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.23?classifier=sources
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.24
+- pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.24?classifier=sources
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.3
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.3?classifier=sources
 - pkg:maven/pl.fhframework.core.security.permission/permissionProvider-rest@4.6.4

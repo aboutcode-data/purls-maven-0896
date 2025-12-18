@@ -1,0 +1,4 @@
+- pkg:maven/com.noleme/noleme-store@1.7
+- pkg:maven/com.noleme/noleme-store@1.7.1
+- pkg:maven/com.noleme/noleme-store@1.7.1?classifier=sources
+- pkg:maven/com.noleme/noleme-store@1.7?classifier=sources

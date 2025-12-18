@@ -17,3 +17,5 @@
 - pkg:maven/com.google.android.filament/gltfio-android-lite@1.9.5?classifier=sources
 - pkg:maven/com.google.android.filament/gltfio-android-lite@1.9.6?classifier=sources
 - pkg:maven/com.google.android.filament/gltfio-android-lite@1.9.7?classifier=sources
+- pkg:maven/com.google.android.filament/gltfio-android-lite@1.9.8?classifier=sources
+- pkg:maven/com.google.android.filament/gltfio-android-lite@1.9.9?classifier=sources

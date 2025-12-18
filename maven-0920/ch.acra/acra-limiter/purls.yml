@@ -25,3 +25,5 @@
 - pkg:maven/ch.acra/acra-limiter@5.6.2?type=aar
 - pkg:maven/ch.acra/acra-limiter@5.7.0?classifier=sources
 - pkg:maven/ch.acra/acra-limiter@5.7.0?type=aar
+- pkg:maven/ch.acra/acra-limiter@5.8.0-alpha1?classifier=sources
+- pkg:maven/ch.acra/acra-limiter@5.8.0-alpha1?type=aar

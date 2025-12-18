@@ -16,3 +16,5 @@
 - pkg:maven/com.github.zuihou/zuihou-dozer-starter@2.5.2?classifier=sources
 - pkg:maven/com.github.zuihou/zuihou-dozer-starter@2.6.0
 - pkg:maven/com.github.zuihou/zuihou-dozer-starter@2.6.0?classifier=sources
+- pkg:maven/com.github.zuihou/zuihou-dozer-starter@2.7.0
+- pkg:maven/com.github.zuihou/zuihou-dozer-starter@2.7.0?classifier=sources

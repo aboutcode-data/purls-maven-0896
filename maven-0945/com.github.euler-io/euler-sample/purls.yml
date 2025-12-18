@@ -14,3 +14,5 @@
 - pkg:maven/com.github.euler-io/euler-sample@0.5.0?classifier=sources
 - pkg:maven/com.github.euler-io/euler-sample@0.5.1
 - pkg:maven/com.github.euler-io/euler-sample@0.5.1?classifier=sources
+- pkg:maven/com.github.euler-io/euler-sample@0.5.2
+- pkg:maven/com.github.euler-io/euler-sample@0.5.2?classifier=sources

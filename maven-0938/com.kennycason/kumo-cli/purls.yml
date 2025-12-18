@@ -12,5 +12,7 @@
 - pkg:maven/com.kennycason/kumo-cli@1.22?classifier=sources
 - pkg:maven/com.kennycason/kumo-cli@1.27
 - pkg:maven/com.kennycason/kumo-cli@1.27?classifier=sources
+- pkg:maven/com.kennycason/kumo-cli@1.28
+- pkg:maven/com.kennycason/kumo-cli@1.28?classifier=sources
 - pkg:maven/com.kennycason/kumo-cli@1.9
 - pkg:maven/com.kennycason/kumo-cli@1.9?classifier=sources

@@ -65,4 +65,10 @@
 - pkg:maven/org.bsc.maven/maven-processor-plugin@4.3
 - pkg:maven/org.bsc.maven/maven-processor-plugin@4.3?classifier=sources
 - pkg:maven/org.bsc.maven/maven-processor-plugin@4.4
+- pkg:maven/org.bsc.maven/maven-processor-plugin@4.4-jdk8
+- pkg:maven/org.bsc.maven/maven-processor-plugin@4.4-jdk8?classifier=sources
 - pkg:maven/org.bsc.maven/maven-processor-plugin@4.4?classifier=sources
+- pkg:maven/org.bsc.maven/maven-processor-plugin@4.5
+- pkg:maven/org.bsc.maven/maven-processor-plugin@4.5-jdk8
+- pkg:maven/org.bsc.maven/maven-processor-plugin@4.5-jdk8?classifier=sources
+- pkg:maven/org.bsc.maven/maven-processor-plugin@4.5?classifier=sources

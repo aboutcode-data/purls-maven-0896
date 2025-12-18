@@ -12,3 +12,5 @@
 - pkg:maven/com.github.kmood/officeexport-java@1.0.1.4-RELEASE?classifier=sources
 - pkg:maven/com.github.kmood/officeexport-java@1.0.1.5-RELEASE
 - pkg:maven/com.github.kmood/officeexport-java@1.0.1.5-RELEASE?classifier=sources
+- pkg:maven/com.github.kmood/officeexport-java@1.0.1.6-RELEASE
+- pkg:maven/com.github.kmood/officeexport-java@1.0.1.6-RELEASE?classifier=sources

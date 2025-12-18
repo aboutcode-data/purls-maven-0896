@@ -146,6 +146,10 @@
 - pkg:maven/org.codelibs.fess/fess-crawler-es@3.0.2?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-es@3.1.0
 - pkg:maven/org.codelibs.fess/fess-crawler-es@3.1.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-es@3.10.0
+- pkg:maven/org.codelibs.fess/fess-crawler-es@3.10.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-es@3.10.1
+- pkg:maven/org.codelibs.fess/fess-crawler-es@3.10.1?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-es@3.2.0
 - pkg:maven/org.codelibs.fess/fess-crawler-es@3.2.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-es@3.2.1

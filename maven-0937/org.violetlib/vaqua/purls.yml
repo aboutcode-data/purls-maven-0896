@@ -1,1 +1,2 @@
 - pkg:maven/org.violetlib/vaqua@8?classifier=sources
+- pkg:maven/org.violetlib/vaqua@9?classifier=sources

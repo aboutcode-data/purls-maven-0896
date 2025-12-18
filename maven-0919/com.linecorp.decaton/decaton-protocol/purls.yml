@@ -18,3 +18,5 @@
 - pkg:maven/com.linecorp.decaton/decaton-protocol@0.0.43?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-protocol@0.0.44
 - pkg:maven/com.linecorp.decaton/decaton-protocol@0.0.44?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-protocol@0.0.45
+- pkg:maven/com.linecorp.decaton/decaton-protocol@0.0.45?classifier=sources

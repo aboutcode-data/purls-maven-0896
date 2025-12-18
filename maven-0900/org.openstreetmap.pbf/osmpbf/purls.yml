@@ -1,2 +1,4 @@
 - pkg:maven/org.openstreetmap.pbf/osmpbf@1.4.0
 - pkg:maven/org.openstreetmap.pbf/osmpbf@1.4.0?classifier=sources
+- pkg:maven/org.openstreetmap.pbf/osmpbf@1.5.0
+- pkg:maven/org.openstreetmap.pbf/osmpbf@1.5.0?classifier=sources

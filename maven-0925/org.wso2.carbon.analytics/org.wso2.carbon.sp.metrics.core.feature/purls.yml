@@ -44,6 +44,7 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.sp.metrics.core.feature@2.1.34?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.sp.metrics.core.feature@2.1.35?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.sp.metrics.core.feature@2.1.36?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.sp.metrics.core.feature@2.1.37?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.sp.metrics.core.feature@2.1.3?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.sp.metrics.core.feature@2.1.4?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.sp.metrics.core.feature@2.1.5?classifier=sources

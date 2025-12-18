@@ -62,6 +62,14 @@
 - pkg:maven/net.ripe.rpki/rpki-commons@1.13?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-commons@1.14
 - pkg:maven/net.ripe.rpki/rpki-commons@1.14?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-commons@1.15
+- pkg:maven/net.ripe.rpki/rpki-commons@1.15?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-commons@1.16
+- pkg:maven/net.ripe.rpki/rpki-commons@1.16?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-commons@1.17
+- pkg:maven/net.ripe.rpki/rpki-commons@1.17?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-commons@1.18
+- pkg:maven/net.ripe.rpki/rpki-commons@1.18?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-commons@1.2
 - pkg:maven/net.ripe.rpki/rpki-commons@1.2?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-commons@1.3

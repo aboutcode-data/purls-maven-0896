@@ -1,0 +1,4 @@
+- pkg:maven/io.opentelemetry/opentelemetry-api-common@0.13.0
+- pkg:maven/io.opentelemetry/opentelemetry-api-common@0.13.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-api-common@0.13.1
+- pkg:maven/io.opentelemetry/opentelemetry-api-common@0.13.1?classifier=sources

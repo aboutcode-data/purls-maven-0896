@@ -2,3 +2,5 @@
 - pkg:maven/org.jqassistant.contrib.plugin/jqassistant-apoc-plugin@1.8.0?classifier=sources
 - pkg:maven/org.jqassistant.contrib.plugin/jqassistant-apoc-plugin@1.8.1
 - pkg:maven/org.jqassistant.contrib.plugin/jqassistant-apoc-plugin@1.8.1?classifier=sources
+- pkg:maven/org.jqassistant.contrib.plugin/jqassistant-apoc-plugin@1.9.0
+- pkg:maven/org.jqassistant.contrib.plugin/jqassistant-apoc-plugin@1.9.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.awspring.cloud/spring-cloud-aws-secrets-manager-config@2.3.0-RC1
+- pkg:maven/io.awspring.cloud/spring-cloud-aws-secrets-manager-config@2.3.0-RC1?classifier=sources

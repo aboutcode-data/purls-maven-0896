@@ -2,3 +2,7 @@
 - pkg:maven/org.openidentityplatform.openam/openam-scripting@14.5.2?classifier=sources
 - pkg:maven/org.openidentityplatform.openam/openam-scripting@14.5.3
 - pkg:maven/org.openidentityplatform.openam/openam-scripting@14.5.3?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-scripting@14.5.4
+- pkg:maven/org.openidentityplatform.openam/openam-scripting@14.5.4?classifier=sources
+- pkg:maven/org.openidentityplatform.openam/openam-scripting@14.6.1
+- pkg:maven/org.openidentityplatform.openam/openam-scripting@14.6.1?classifier=sources

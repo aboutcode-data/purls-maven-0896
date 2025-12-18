@@ -1,0 +1,2 @@
+- pkg:maven/io.keyko/secret-store-client@0.1.0
+- pkg:maven/io.keyko/secret-store-client@0.1.0?classifier=sources

@@ -2,3 +2,11 @@
 - pkg:maven/com.kttdevelopment/simplehttpserver@03.06.05?classifier=sources
 - pkg:maven/com.kttdevelopment/simplehttpserver@4.0.0
 - pkg:maven/com.kttdevelopment/simplehttpserver@4.0.0?classifier=sources
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.1.0
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.1.0?classifier=sources
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.2.0
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.2.0?classifier=sources
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.3.0
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.3.0?classifier=sources
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.4.0
+- pkg:maven/com.kttdevelopment/simplehttpserver@4.4.0?classifier=sources

@@ -228,8 +228,12 @@
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.17.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.18.Final
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.18.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.3.19.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.3.19.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.2.Final
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.2.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.3.20.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.3.20.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.3.Final
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.3.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.3.4.Final
@@ -282,6 +286,14 @@
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.22.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.23.Final
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.23.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.24.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.24.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.25.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.25.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.26.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.26.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.27.Final
+- pkg:maven/org.hibernate/hibernate-osgi@5.4.27.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.3.Final
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.3.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-osgi@5.4.4.Final

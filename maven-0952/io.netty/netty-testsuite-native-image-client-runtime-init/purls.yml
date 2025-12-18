@@ -1,0 +1,8 @@
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.55.Final
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.55.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.56.Final
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.56.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.57.Final
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.57.Final?classifier=sources
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.58.Final
+- pkg:maven/io.netty/netty-testsuite-native-image-client-runtime-init@4.1.58.Final?classifier=sources

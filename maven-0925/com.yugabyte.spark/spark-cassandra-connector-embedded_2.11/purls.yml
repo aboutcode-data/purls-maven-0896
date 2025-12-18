@@ -11,6 +11,12 @@
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.0.5-yb-7
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.0.5-yb-7?classifier=sources
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-1-1-gc88006f3
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-1-1-gc88006f3?classifier=sources
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-2
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-2?classifier=sources
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-3
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-3?classifier=sources
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-4
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb-4?classifier=sources
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-embedded_2.11@2.4-yb?classifier=sources

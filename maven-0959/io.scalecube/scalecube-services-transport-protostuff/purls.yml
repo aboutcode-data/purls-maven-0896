@@ -18,6 +18,8 @@
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.1-RC11-RC9-RC9?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.1-RC8
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.1-RC8?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.12
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.12?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.2
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.3

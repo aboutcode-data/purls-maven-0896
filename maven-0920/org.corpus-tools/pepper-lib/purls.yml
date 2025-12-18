@@ -36,3 +36,7 @@
 - pkg:maven/org.corpus-tools/pepper-lib@3.4.2?type=zip
 - pkg:maven/org.corpus-tools/pepper-lib@3.5.0?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-lib@3.5.0?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.5.2?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.5.2?type=zip
+- pkg:maven/org.corpus-tools/pepper-lib@3.5.3?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-lib@3.5.3?type=zip

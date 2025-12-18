@@ -10,3 +10,5 @@
 - pkg:maven/com.github.openstack4j.core.connectors/openstack4j-httpclient@3.7?classifier=sources
 - pkg:maven/com.github.openstack4j.core.connectors/openstack4j-httpclient@3.8
 - pkg:maven/com.github.openstack4j.core.connectors/openstack4j-httpclient@3.8?classifier=sources
+- pkg:maven/com.github.openstack4j.core.connectors/openstack4j-httpclient@3.9
+- pkg:maven/com.github.openstack4j.core.connectors/openstack4j-httpclient@3.9?classifier=sources

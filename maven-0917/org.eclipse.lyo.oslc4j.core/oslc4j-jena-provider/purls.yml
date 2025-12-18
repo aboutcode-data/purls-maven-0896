@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@4.0.0
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@4.0.0.RC
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@4.0.0.RC?classifier=sources
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@4.0.0?classifier=sources

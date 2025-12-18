@@ -1,3 +1,5 @@
+- pkg:maven/org.combinators/shapeless-feat_2.12@0.0.0%2B1-2ca529b0
+- pkg:maven/org.combinators/shapeless-feat_2.12@0.0.0%2B1-2ca529b0?classifier=sources
 - pkg:maven/org.combinators/shapeless-feat_2.12@0.2.1%2B18-b1e9ffcc
 - pkg:maven/org.combinators/shapeless-feat_2.12@0.2.1%2B18-b1e9ffcc?classifier=sources
 - pkg:maven/org.combinators/shapeless-feat_2.12@0.2.2
@@ -20,3 +22,5 @@
 - pkg:maven/org.combinators/shapeless-feat_2.12@0.2.4.1
 - pkg:maven/org.combinators/shapeless-feat_2.12@0.2.4.1?classifier=sources
 - pkg:maven/org.combinators/shapeless-feat_2.12@0.2.4?classifier=sources
+- pkg:maven/org.combinators/shapeless-feat_2.12@0.2.5
+- pkg:maven/org.combinators/shapeless-feat_2.12@0.2.5?classifier=sources

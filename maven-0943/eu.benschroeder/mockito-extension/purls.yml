@@ -34,3 +34,7 @@
 - pkg:maven/eu.benschroeder/mockito-extension@3.5.9?classifier=sources
 - pkg:maven/eu.benschroeder/mockito-extension@3.6.0
 - pkg:maven/eu.benschroeder/mockito-extension@3.6.0?classifier=sources
+- pkg:maven/eu.benschroeder/mockito-extension@3.6.28
+- pkg:maven/eu.benschroeder/mockito-extension@3.6.28?classifier=sources
+- pkg:maven/eu.benschroeder/mockito-extension@3.7.0
+- pkg:maven/eu.benschroeder/mockito-extension@3.7.0?classifier=sources

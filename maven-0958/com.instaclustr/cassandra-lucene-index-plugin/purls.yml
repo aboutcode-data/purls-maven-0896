@@ -1,0 +1,2 @@
+- pkg:maven/com.instaclustr/cassandra-lucene-index-plugin@3.11.8.1
+- pkg:maven/com.instaclustr/cassandra-lucene-index-plugin@3.11.8.1?classifier=sources

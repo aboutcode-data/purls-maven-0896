@@ -44,3 +44,5 @@
 - pkg:maven/org.cyclonedx/cyclonedx-maven-plugin@2.0.3?classifier=sources
 - pkg:maven/org.cyclonedx/cyclonedx-maven-plugin@2.1.0
 - pkg:maven/org.cyclonedx/cyclonedx-maven-plugin@2.1.0?classifier=sources
+- pkg:maven/org.cyclonedx/cyclonedx-maven-plugin@2.1.1
+- pkg:maven/org.cyclonedx/cyclonedx-maven-plugin@2.1.1?classifier=sources

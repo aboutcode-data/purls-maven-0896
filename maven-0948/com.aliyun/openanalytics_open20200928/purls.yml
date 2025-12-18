@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/openanalytics_open20200928@1.0.16?classifier=sources
 - pkg:maven/com.aliyun/openanalytics_open20200928@1.0.17
 - pkg:maven/com.aliyun/openanalytics_open20200928@1.0.17?classifier=sources
+- pkg:maven/com.aliyun/openanalytics_open20200928@20201227.0.0
+- pkg:maven/com.aliyun/openanalytics_open20200928@20201227.0.0?classifier=sources

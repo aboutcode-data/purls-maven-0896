@@ -3,4 +3,6 @@
 - pkg:maven/org.dishevelled/dsh-assembly-cytoscape3-app@0.9.1?classifier=sources
 - pkg:maven/org.dishevelled/dsh-assembly-cytoscape3-app@0.9.2
 - pkg:maven/org.dishevelled/dsh-assembly-cytoscape3-app@0.9.2?classifier=sources
+- pkg:maven/org.dishevelled/dsh-assembly-cytoscape3-app@0.9.3
+- pkg:maven/org.dishevelled/dsh-assembly-cytoscape3-app@0.9.3?classifier=sources
 - pkg:maven/org.dishevelled/dsh-assembly-cytoscape3-app@0.9?classifier=sources

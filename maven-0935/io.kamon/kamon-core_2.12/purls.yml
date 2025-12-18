@@ -66,3 +66,5 @@
 - pkg:maven/io.kamon/kamon-core_2.12@2.1.7?classifier=sources
 - pkg:maven/io.kamon/kamon-core_2.12@2.1.8
 - pkg:maven/io.kamon/kamon-core_2.12@2.1.8?classifier=sources
+- pkg:maven/io.kamon/kamon-core_2.12@2.1.9
+- pkg:maven/io.kamon/kamon-core_2.12@2.1.9?classifier=sources

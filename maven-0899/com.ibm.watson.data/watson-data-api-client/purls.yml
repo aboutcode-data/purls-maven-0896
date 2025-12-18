@@ -1,0 +1,2 @@
+- pkg:maven/com.ibm.watson.data/watson-data-api-client@0.1
+- pkg:maven/com.ibm.watson.data/watson-data-api-client@0.1?classifier=sources

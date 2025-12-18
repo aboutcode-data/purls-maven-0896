@@ -1,0 +1,4 @@
+- pkg:maven/com.izooto/android-sdk@1.1.0?classifier=sources
+- pkg:maven/com.izooto/android-sdk@1.1.0?type=aar
+- pkg:maven/com.izooto/android-sdk@1.1.2?classifier=sources
+- pkg:maven/com.izooto/android-sdk@1.1.2?type=aar

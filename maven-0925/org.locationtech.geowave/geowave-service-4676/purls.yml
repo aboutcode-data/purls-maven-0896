@@ -4,3 +4,5 @@
 - pkg:maven/org.locationtech.geowave/geowave-service-4676@1.0.0?type=war
 - pkg:maven/org.locationtech.geowave/geowave-service-4676@1.1.0?classifier=sources
 - pkg:maven/org.locationtech.geowave/geowave-service-4676@1.1.0?type=war
+- pkg:maven/org.locationtech.geowave/geowave-service-4676@1.2.0?classifier=sources
+- pkg:maven/org.locationtech.geowave/geowave-service-4676@1.2.0?type=war

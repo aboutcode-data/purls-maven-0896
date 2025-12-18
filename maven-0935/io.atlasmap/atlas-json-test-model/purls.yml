@@ -182,3 +182,5 @@
 - pkg:maven/io.atlasmap/atlas-json-test-model@2.1.0-M.6
 - pkg:maven/io.atlasmap/atlas-json-test-model@2.1.0-M.6?classifier=sources
 - pkg:maven/io.atlasmap/atlas-json-test-model@2.1.0?classifier=sources
+- pkg:maven/io.atlasmap/atlas-json-test-model@2.1.1
+- pkg:maven/io.atlasmap/atlas-json-test-model@2.1.1?classifier=sources

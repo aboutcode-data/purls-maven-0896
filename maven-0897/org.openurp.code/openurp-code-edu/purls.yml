@@ -66,6 +66,8 @@
 - pkg:maven/org.openurp.code/openurp-code-edu@0.17.1?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-edu@0.18.0
 - pkg:maven/org.openurp.code/openurp-code-edu@0.18.0?classifier=sources
+- pkg:maven/org.openurp.code/openurp-code-edu@0.18.1
+- pkg:maven/org.openurp.code/openurp-code-edu@0.18.1?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-edu@0.2.0
 - pkg:maven/org.openurp.code/openurp-code-edu@0.2.0?classifier=sources
 - pkg:maven/org.openurp.code/openurp-code-edu@0.3.0

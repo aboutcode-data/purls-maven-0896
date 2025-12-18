@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-store@1.0.0
 - pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-store@1.0.0?classifier=sources
+- pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-store@2.0.0
+- pkg:maven/com.oracle.coherence.hibernate/coherence-hibernate-cache-store@2.0.0?classifier=sources

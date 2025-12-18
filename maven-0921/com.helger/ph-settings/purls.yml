@@ -124,3 +124,5 @@
 - pkg:maven/com.helger/ph-settings@9.5.2?classifier=sources
 - pkg:maven/com.helger/ph-settings@9.5.3
 - pkg:maven/com.helger/ph-settings@9.5.3?classifier=sources
+- pkg:maven/com.helger/ph-settings@9.5.4
+- pkg:maven/com.helger/ph-settings@9.5.4?classifier=sources

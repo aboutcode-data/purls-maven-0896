@@ -2,3 +2,4 @@
 - pkg:maven/com.truthbean.debbie/debbie-undertow@0.0.1-RELEASE?classifier=sources
 - pkg:maven/com.truthbean.debbie/debbie-undertow@0.0.2-RELEASE?classifier=sources
 - pkg:maven/com.truthbean.debbie/debbie-undertow@0.1.0-RELEASE?classifier=sources
+- pkg:maven/com.truthbean.debbie/debbie-undertow@0.1.1-RELEASE?classifier=sources

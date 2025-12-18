@@ -2,3 +2,4 @@
 - pkg:maven/com.github.openstack4j.core/it-httpclient@3.6
 - pkg:maven/com.github.openstack4j.core/it-httpclient@3.7
 - pkg:maven/com.github.openstack4j.core/it-httpclient@3.8
+- pkg:maven/com.github.openstack4j.core/it-httpclient@3.9

@@ -56,3 +56,5 @@
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.6.1?classifier=sources
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.7.1
 - pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.7.1?classifier=sources
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.9.1
+- pkg:maven/com.strapdata.cassandra/cassandra-thrift@3.11.9.1?classifier=sources

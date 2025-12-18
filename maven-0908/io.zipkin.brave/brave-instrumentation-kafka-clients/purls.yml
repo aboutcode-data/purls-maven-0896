@@ -120,6 +120,12 @@
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.12.7?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.0?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.1
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.1?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.2
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.2?classifier=sources
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.3
+- pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.13.3?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.2.0
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.2.0?classifier=sources
 - pkg:maven/io.zipkin.brave/brave-instrumentation-kafka-clients@5.3.0

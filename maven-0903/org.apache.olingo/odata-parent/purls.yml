@@ -16,3 +16,4 @@
 - pkg:maven/org.apache.olingo/odata-parent@4.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.olingo/odata-parent@4.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.olingo/odata-parent@4.7.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.olingo/odata-parent@4.8.0?classifier=source-release&type=zip

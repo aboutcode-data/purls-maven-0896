@@ -7,4 +7,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE120-u1?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE121?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jvyamlb@RELEASE90?classifier=sources

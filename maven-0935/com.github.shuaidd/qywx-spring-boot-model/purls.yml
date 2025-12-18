@@ -2,3 +2,7 @@
 - pkg:maven/com.github.shuaidd/qywx-spring-boot-model@1.0.0?classifier=sources
 - pkg:maven/com.github.shuaidd/qywx-spring-boot-model@2.0.0
 - pkg:maven/com.github.shuaidd/qywx-spring-boot-model@2.0.0?classifier=sources
+- pkg:maven/com.github.shuaidd/qywx-spring-boot-model@2.0.2
+- pkg:maven/com.github.shuaidd/qywx-spring-boot-model@2.0.2?classifier=sources
+- pkg:maven/com.github.shuaidd/qywx-spring-boot-model@2.1.0
+- pkg:maven/com.github.shuaidd/qywx-spring-boot-model@2.1.0?classifier=sources

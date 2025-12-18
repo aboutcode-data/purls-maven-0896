@@ -14,6 +14,8 @@
 - pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.11.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.11.2
 - pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.11.2?classifier=sources
+- pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.11.3
+- pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.11.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.5.2-Carbon
 - pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.5.2-Carbon?classifier=sources
 - pkg:maven/org.opendaylight.controller/mdsal-trace-dom-impl@1.5.3-Carbon

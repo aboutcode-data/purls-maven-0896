@@ -10,3 +10,5 @@
 - pkg:maven/com.semanticcms/semanticcms-pagegraph-book@1.5.0?classifier=sources
 - pkg:maven/com.semanticcms/semanticcms-pagegraph-book@1.6.0
 - pkg:maven/com.semanticcms/semanticcms-pagegraph-book@1.6.0?classifier=sources
+- pkg:maven/com.semanticcms/semanticcms-pagegraph-book@1.6.1
+- pkg:maven/com.semanticcms/semanticcms-pagegraph-book@1.6.1?classifier=sources

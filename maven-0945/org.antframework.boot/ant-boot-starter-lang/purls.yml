@@ -12,3 +12,5 @@
 - pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.2.0.RELEASE?classifier=sources
 - pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.2.1.RELEASE
 - pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.4.0
+- pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.4.0?classifier=sources

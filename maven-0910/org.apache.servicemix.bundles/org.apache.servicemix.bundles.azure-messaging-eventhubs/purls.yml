@@ -2,3 +2,7 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-messaging-eventhubs@5.1.2_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-messaging-eventhubs@5.1.2_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-messaging-eventhubs@5.1.2_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-messaging-eventhubs@5.3.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-messaging-eventhubs@5.3.1_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-messaging-eventhubs@5.3.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.azure-messaging-eventhubs@5.3.1_1?classifier=src&type=zip

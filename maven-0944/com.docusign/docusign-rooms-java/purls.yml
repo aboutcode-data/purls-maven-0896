@@ -2,3 +2,5 @@
 - pkg:maven/com.docusign/docusign-rooms-java@1.0.0-BETA
 - pkg:maven/com.docusign/docusign-rooms-java@1.0.0-BETA?classifier=sources
 - pkg:maven/com.docusign/docusign-rooms-java@1.0.0?classifier=sources
+- pkg:maven/com.docusign/docusign-rooms-java@1.1.0-RC1
+- pkg:maven/com.docusign/docusign-rooms-java@1.1.0-RC1?classifier=sources

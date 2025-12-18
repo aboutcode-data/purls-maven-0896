@@ -2,6 +2,8 @@
 - pkg:maven/org.into-cps.fmi/fmi2@1.0.0?classifier=sources
 - pkg:maven/org.into-cps.fmi/fmi2@1.0.10
 - pkg:maven/org.into-cps.fmi/fmi2@1.0.10?classifier=sources
+- pkg:maven/org.into-cps.fmi/fmi2@1.0.12
+- pkg:maven/org.into-cps.fmi/fmi2@1.0.12?classifier=sources
 - pkg:maven/org.into-cps.fmi/fmi2@1.0.2
 - pkg:maven/org.into-cps.fmi/fmi2@1.0.2?classifier=sources
 - pkg:maven/org.into-cps.fmi/fmi2@1.0.4

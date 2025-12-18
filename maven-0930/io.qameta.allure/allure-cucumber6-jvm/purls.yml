@@ -1,2 +1,6 @@
 - pkg:maven/io.qameta.allure/allure-cucumber6-jvm@2.13.6
 - pkg:maven/io.qameta.allure/allure-cucumber6-jvm@2.13.6?classifier=sources
+- pkg:maven/io.qameta.allure/allure-cucumber6-jvm@2.13.7
+- pkg:maven/io.qameta.allure/allure-cucumber6-jvm@2.13.7?classifier=sources
+- pkg:maven/io.qameta.allure/allure-cucumber6-jvm@2.13.8
+- pkg:maven/io.qameta.allure/allure-cucumber6-jvm@2.13.8?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.surenpi.autotest/autotest.report@1.0.0-20170618?classifier=sources
 - pkg:maven/com.surenpi.autotest/autotest.report@1.0.0-20170722
 - pkg:maven/com.surenpi.autotest/autotest.report@1.0.0-20170722?classifier=sources
+- pkg:maven/com.surenpi.autotest/autotest.report@1.0.2
+- pkg:maven/com.surenpi.autotest/autotest.report@1.0.2?classifier=sources

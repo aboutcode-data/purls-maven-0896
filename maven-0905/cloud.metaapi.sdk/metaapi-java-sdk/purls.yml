@@ -1,3 +1,5 @@
+- pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@10.1.0
+- pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@10.1.0?classifier=sources
 - pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@7.1.0
 - pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@7.1.0?classifier=sources
 - pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@7.2.0
@@ -12,3 +14,5 @@
 - pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@8.0.3?classifier=sources
 - pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@9.0.0
 - pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@9.0.0?classifier=sources
+- pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@9.1.0
+- pkg:maven/cloud.metaapi.sdk/metaapi-java-sdk@9.1.0?classifier=sources

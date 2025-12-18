@@ -2,3 +2,7 @@
 - pkg:maven/cn.itlym/shoulder-cluster@0.1?classifier=sources
 - pkg:maven/cn.itlym/shoulder-cluster@0.3
 - pkg:maven/cn.itlym/shoulder-cluster@0.3?classifier=sources
+- pkg:maven/cn.itlym/shoulder-cluster@0.4
+- pkg:maven/cn.itlym/shoulder-cluster@0.4?classifier=sources
+- pkg:maven/cn.itlym/shoulder-cluster@0.5
+- pkg:maven/cn.itlym/shoulder-cluster@0.5?classifier=sources

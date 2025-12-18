@@ -126,3 +126,4 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@2.5.13?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@2.5.3?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@2.5.4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-all-api-pubsub@2.6.4?type=war

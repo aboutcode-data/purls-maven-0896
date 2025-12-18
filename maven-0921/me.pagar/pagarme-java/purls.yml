@@ -52,3 +52,5 @@
 - pkg:maven/me.pagar/pagarme-java@1.5.7?classifier=sources
 - pkg:maven/me.pagar/pagarme-java@1.5.9
 - pkg:maven/me.pagar/pagarme-java@1.5.9?classifier=sources
+- pkg:maven/me.pagar/pagarme-java@2.1.0
+- pkg:maven/me.pagar/pagarme-java@2.1.0?classifier=sources

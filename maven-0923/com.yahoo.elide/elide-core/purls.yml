@@ -302,3 +302,7 @@
 - pkg:maven/com.yahoo.elide/elide-core@4.6.7?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-core@4.6.8
 - pkg:maven/com.yahoo.elide/elide-core@4.6.8?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@4.6.9
+- pkg:maven/com.yahoo.elide/elide-core@4.6.9?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr29
+- pkg:maven/com.yahoo.elide/elide-core@5.0.0-pr29?classifier=sources

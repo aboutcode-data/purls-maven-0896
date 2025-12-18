@@ -1,2 +1,4 @@
 - pkg:maven/com.github.kittinunf.fuse/fuse-android@1.0.0-beta4?classifier=sources
 - pkg:maven/com.github.kittinunf.fuse/fuse-android@1.0.0-beta4?type=aar
+- pkg:maven/com.github.kittinunf.fuse/fuse-android@1.0.0?classifier=sources
+- pkg:maven/com.github.kittinunf.fuse/fuse-android@1.0.0?type=aar

@@ -36,3 +36,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation@5.0.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation@5.1.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation@5.1.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation@5.2.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation@5.2.0?classifier=sources

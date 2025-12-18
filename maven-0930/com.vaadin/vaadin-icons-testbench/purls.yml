@@ -1,3 +1,15 @@
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.0
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.1
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.2
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.3
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.4
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.5
+- pkg:maven/com.vaadin/vaadin-icons-testbench@18.0.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-testbench@2.0.0
 - pkg:maven/com.vaadin/vaadin-icons-testbench@2.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-testbench@2.0.1
@@ -8,6 +20,10 @@
 - pkg:maven/com.vaadin/vaadin-icons-testbench@2.0.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-testbench@2.1.0
 - pkg:maven/com.vaadin/vaadin-icons-testbench@2.1.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@2.1.1
+- pkg:maven/com.vaadin/vaadin-icons-testbench@2.1.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-icons-testbench@2.1.2
+- pkg:maven/com.vaadin/vaadin-icons-testbench@2.1.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-icons-testbench@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-icons-testbench@3.1.0

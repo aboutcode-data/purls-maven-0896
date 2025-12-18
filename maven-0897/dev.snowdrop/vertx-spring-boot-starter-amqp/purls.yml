@@ -12,5 +12,11 @@
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@0.0.9?classifier=sources
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.0.0
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.0.0?classifier=sources
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.0.1
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.0.1?classifier=sources
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.0.2
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.0.2?classifier=sources
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.1.0
 - pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.1.0?classifier=sources
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.1.1
+- pkg:maven/dev.snowdrop/vertx-spring-boot-starter-amqp@1.1.1?classifier=sources

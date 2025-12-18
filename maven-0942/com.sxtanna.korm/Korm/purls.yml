@@ -36,3 +36,5 @@
 - pkg:maven/com.sxtanna.korm/Korm@3.2?classifier=sources
 - pkg:maven/com.sxtanna.korm/Korm@3.3.0
 - pkg:maven/com.sxtanna.korm/Korm@3.3.0?classifier=sources
+- pkg:maven/com.sxtanna.korm/Korm@3.4.0
+- pkg:maven/com.sxtanna.korm/Korm@3.4.0?classifier=sources

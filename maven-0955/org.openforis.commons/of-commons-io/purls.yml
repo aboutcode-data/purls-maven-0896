@@ -1,2 +1,6 @@
 - pkg:maven/org.openforis.commons/of-commons-io@0.1.24
 - pkg:maven/org.openforis.commons/of-commons-io@0.1.24?classifier=sources
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.25
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.25?classifier=sources
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.26
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.26?classifier=sources

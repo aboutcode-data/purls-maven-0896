@@ -112,5 +112,11 @@
 - pkg:maven/org.teiid.connectors/translator-file@14.0.0?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-file@14.0.1
 - pkg:maven/org.teiid.connectors/translator-file@14.0.1?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-file@14.0.2
+- pkg:maven/org.teiid.connectors/translator-file@14.0.2?classifier=sources
 - pkg:maven/org.teiid.connectors/translator-file@15.0.0
 - pkg:maven/org.teiid.connectors/translator-file@15.0.0?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-file@15.0.1
+- pkg:maven/org.teiid.connectors/translator-file@15.0.1?classifier=sources
+- pkg:maven/org.teiid.connectors/translator-file@16.0.0
+- pkg:maven/org.teiid.connectors/translator-file@16.0.0?classifier=sources

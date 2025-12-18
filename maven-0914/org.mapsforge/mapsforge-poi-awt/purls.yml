@@ -8,6 +8,8 @@
 - pkg:maven/org.mapsforge/mapsforge-poi-awt@0.13.0?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-poi-awt@0.14.0
 - pkg:maven/org.mapsforge/mapsforge-poi-awt@0.14.0?classifier=sources
+- pkg:maven/org.mapsforge/mapsforge-poi-awt@0.15.0
+- pkg:maven/org.mapsforge/mapsforge-poi-awt@0.15.0?classifier=sources
 - pkg:maven/org.mapsforge/mapsforge-poi-awt@0.6.1
 - pkg:maven/org.mapsforge/mapsforge-poi-awt@0.6.1-rc1
 - pkg:maven/org.mapsforge/mapsforge-poi-awt@0.6.1-rc1?classifier=sources

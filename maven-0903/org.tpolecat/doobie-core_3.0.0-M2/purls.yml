@@ -1,0 +1,4 @@
+- pkg:maven/org.tpolecat/doobie-core_3.0.0-M2@0.10.0
+- pkg:maven/org.tpolecat/doobie-core_3.0.0-M2@0.10.0-M2
+- pkg:maven/org.tpolecat/doobie-core_3.0.0-M2@0.10.0-M2?classifier=sources
+- pkg:maven/org.tpolecat/doobie-core_3.0.0-M2@0.10.0?classifier=sources

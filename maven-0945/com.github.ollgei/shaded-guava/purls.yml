@@ -1,0 +1,2 @@
+- pkg:maven/com.github.ollgei/shaded-guava@30.0.jre
+- pkg:maven/com.github.ollgei/shaded-guava@30.0.jre?classifier=sources

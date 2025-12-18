@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs1_3.0.0-M2@2.3.0
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs1_3.0.0-M2@2.3.0?classifier=sources
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs1_3.0.0-M2@2.3.1
+- pkg:maven/org.typelevel/cats-kernel-laws_sjs1_3.0.0-M2@2.3.1?classifier=sources

@@ -2,6 +2,8 @@
 - pkg:maven/com.aoindustries/aoserv-master@1.84.10?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-master@1.84.11
 - pkg:maven/com.aoindustries/aoserv-master@1.84.11?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-master@1.84.12
+- pkg:maven/com.aoindustries/aoserv-master@1.84.12?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-master@1.84.2
 - pkg:maven/com.aoindustries/aoserv-master@1.84.2?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-master@1.84.6

@@ -12,3 +12,7 @@
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-rpc@0.48?classifier=sources
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-rpc@0.49
 - pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-rpc@0.49?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-rpc@0.50
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-rpc@0.50?classifier=sources
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-rpc@0.51
+- pkg:maven/com.github.manosbatsis.corbeans/corbeans-corda-rpc@0.51?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.herddb/herddb-mock@0.21.0
 - pkg:maven/org.herddb/herddb-mock@0.21.0?classifier=sources
+- pkg:maven/org.herddb/herddb-mock@0.22.0
+- pkg:maven/org.herddb/herddb-mock@0.22.0?classifier=sources

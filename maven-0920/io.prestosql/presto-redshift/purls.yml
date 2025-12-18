@@ -44,3 +44,8 @@
 - pkg:maven/io.prestosql/presto-redshift@343?classifier=sources
 - pkg:maven/io.prestosql/presto-redshift@344?classifier=sources
 - pkg:maven/io.prestosql/presto-redshift@345?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@346?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@347?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@348?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@349?classifier=sources
+- pkg:maven/io.prestosql/presto-redshift@350?classifier=sources

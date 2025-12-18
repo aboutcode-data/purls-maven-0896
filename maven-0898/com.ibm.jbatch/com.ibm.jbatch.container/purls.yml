@@ -18,6 +18,7 @@
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.2?classifier=sources
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.3
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@1.0.3?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0-M1
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0-M1?classifier=sources
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0-M2
@@ -30,3 +31,4 @@
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0-M6?classifier=sources
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0-M7
 - pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0-M7?classifier=sources
+- pkg:maven/com.ibm.jbatch/com.ibm.jbatch.container@2.0.0?classifier=sources

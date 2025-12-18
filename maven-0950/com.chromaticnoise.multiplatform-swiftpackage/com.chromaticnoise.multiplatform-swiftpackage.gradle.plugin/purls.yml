@@ -1,1 +1,6 @@
 - pkg:maven/com.chromaticnoise.multiplatform-swiftpackage/com.chromaticnoise.multiplatform-swiftpackage.gradle.plugin@1.0.1?classifier=sources
+- pkg:maven/com.chromaticnoise.multiplatform-swiftpackage/com.chromaticnoise.multiplatform-swiftpackage.gradle.plugin@1.0.2?classifier=sources
+- pkg:maven/com.chromaticnoise.multiplatform-swiftpackage/com.chromaticnoise.multiplatform-swiftpackage.gradle.plugin@2.0.0?classifier=sources
+- pkg:maven/com.chromaticnoise.multiplatform-swiftpackage/com.chromaticnoise.multiplatform-swiftpackage.gradle.plugin@2.0.1?classifier=sources
+- pkg:maven/com.chromaticnoise.multiplatform-swiftpackage/com.chromaticnoise.multiplatform-swiftpackage.gradle.plugin@2.0.2?classifier=sources
+- pkg:maven/com.chromaticnoise.multiplatform-swiftpackage/com.chromaticnoise.multiplatform-swiftpackage.gradle.plugin@2.0.3?classifier=sources

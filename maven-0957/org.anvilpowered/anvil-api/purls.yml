@@ -1,2 +1,3 @@
 - pkg:maven/org.anvilpowered/anvil-api@0.1?classifier=sources
 - pkg:maven/org.anvilpowered/anvil-api@0.2?classifier=sources
+- pkg:maven/org.anvilpowered/anvil-api@0.3?classifier=sources

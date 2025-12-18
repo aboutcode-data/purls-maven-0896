@@ -10,3 +10,5 @@
 - pkg:maven/org.julienrf/play-json-derived-codecs_2.12@6.0.0?classifier=sources
 - pkg:maven/org.julienrf/play-json-derived-codecs_2.12@7.0.0
 - pkg:maven/org.julienrf/play-json-derived-codecs_2.12@7.0.0?classifier=sources
+- pkg:maven/org.julienrf/play-json-derived-codecs_2.12@8.0.0
+- pkg:maven/org.julienrf/play-json-derived-codecs_2.12@8.0.0?classifier=sources

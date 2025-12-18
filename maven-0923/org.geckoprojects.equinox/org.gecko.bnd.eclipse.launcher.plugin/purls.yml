@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.eclipse.launcher.plugin@1.0.23
+- pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.eclipse.launcher.plugin@1.0.23?classifier=sources

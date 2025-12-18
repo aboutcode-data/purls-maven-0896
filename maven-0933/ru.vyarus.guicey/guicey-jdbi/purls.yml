@@ -24,3 +24,5 @@
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.1.0-1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.1.0-2
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.1.0-2?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.2.0-1
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.2.0-1?classifier=sources
