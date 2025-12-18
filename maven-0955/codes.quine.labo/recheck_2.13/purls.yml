@@ -6,3 +6,5 @@
 - pkg:maven/codes.quine.labo/recheck_2.13@2.0.2?classifier=sources
 - pkg:maven/codes.quine.labo/recheck_2.13@2.1.0
 - pkg:maven/codes.quine.labo/recheck_2.13@2.1.0?classifier=sources
+- pkg:maven/codes.quine.labo/recheck_2.13@3.0.0
+- pkg:maven/codes.quine.labo/recheck_2.13@3.0.0?classifier=sources

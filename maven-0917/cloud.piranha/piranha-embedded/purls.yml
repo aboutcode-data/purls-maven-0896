@@ -30,3 +30,5 @@
 - pkg:maven/cloud.piranha/piranha-embedded@21.2.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-embedded@21.3.0
 - pkg:maven/cloud.piranha/piranha-embedded@21.3.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-embedded@21.4.0
+- pkg:maven/cloud.piranha/piranha-embedded@21.4.0?classifier=sources

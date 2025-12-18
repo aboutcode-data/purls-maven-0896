@@ -5,3 +5,4 @@
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@0.17.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.0.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.1.0-alpha?classifier=sources

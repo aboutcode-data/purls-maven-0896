@@ -1,0 +1,4 @@
+- pkg:maven/com.github.alotuser/daemon-springboot-windows@0.0.1-RELEASE
+- pkg:maven/com.github.alotuser/daemon-springboot-windows@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.alotuser/daemon-springboot-windows@1.0.1
+- pkg:maven/com.github.alotuser/daemon-springboot-windows@1.0.1?classifier=sources

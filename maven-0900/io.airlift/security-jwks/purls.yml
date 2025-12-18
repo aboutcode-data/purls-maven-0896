@@ -1,0 +1,2 @@
+- pkg:maven/io.airlift/security-jwks@205
+- pkg:maven/io.airlift/security-jwks@205?classifier=sources

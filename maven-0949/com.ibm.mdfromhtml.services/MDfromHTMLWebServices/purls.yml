@@ -8,3 +8,5 @@
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@1.0.7?type=war
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@1.0.8?classifier=sources
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@1.0.8?type=war
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@1.0.9?classifier=sources
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@1.0.9?type=war

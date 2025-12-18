@@ -18,6 +18,8 @@
 - pkg:maven/com.github.almasb/fxgl-core@11.13?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-core@11.14
 - pkg:maven/com.github.almasb/fxgl-core@11.14?classifier=sources
+- pkg:maven/com.github.almasb/fxgl-core@11.15
+- pkg:maven/com.github.almasb/fxgl-core@11.15?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-core@11.2-beta
 - pkg:maven/com.github.almasb/fxgl-core@11.2-beta?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-core@11.3

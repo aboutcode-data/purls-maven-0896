@@ -1,0 +1,2 @@
+- pkg:maven/io.eventuate.util/eventuate-util-swagger-ui@0.10.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.util/eventuate-util-swagger-ui@0.9.0.RELEASE?classifier=sources

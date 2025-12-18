@@ -65,6 +65,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.30
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.31
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.4
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@1.0.4?classifier=sources
@@ -106,6 +109,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.17
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.18
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.brightness@2.0.2?classifier=sources

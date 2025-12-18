@@ -30,3 +30,7 @@
 - pkg:maven/com.github.eikek/emil-javamail_2.13@0.7.2?classifier=sources
 - pkg:maven/com.github.eikek/emil-javamail_2.13@0.7.3
 - pkg:maven/com.github.eikek/emil-javamail_2.13@0.7.3?classifier=sources
+- pkg:maven/com.github.eikek/emil-javamail_2.13@0.8.0
+- pkg:maven/com.github.eikek/emil-javamail_2.13@0.8.0?classifier=sources
+- pkg:maven/com.github.eikek/emil-javamail_2.13@0.9.1
+- pkg:maven/com.github.eikek/emil-javamail_2.13@0.9.1?classifier=sources

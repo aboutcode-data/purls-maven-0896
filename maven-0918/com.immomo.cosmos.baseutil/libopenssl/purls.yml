@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos.baseutil/libopenssl@1.0.0?classifier=sources
+- pkg:maven/com.immomo.cosmos.baseutil/libopenssl@1.0.0?type=aar

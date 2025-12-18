@@ -44,6 +44,8 @@
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.1.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.10.Final
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.10.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.11.Final
+- pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.11.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.2.Final
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.10.3.Final
@@ -80,6 +82,8 @@
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.11.7.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.11.8.Final
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.11.8.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.11.9.Final
+- pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.11.9.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.2.0.Beta1
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.2.0.Beta1?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-serialization-avro@5.2.0.Final

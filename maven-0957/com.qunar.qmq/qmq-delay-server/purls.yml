@@ -28,6 +28,10 @@
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.27?classifier=sources
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.28
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.28?classifier=sources
+- pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.29
+- pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.29?classifier=sources
+- pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.30
+- pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.30?classifier=sources
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.6
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.6?classifier=sources
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.7

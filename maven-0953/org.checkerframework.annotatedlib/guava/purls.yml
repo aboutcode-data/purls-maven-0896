@@ -24,3 +24,5 @@
 - pkg:maven/org.checkerframework.annotatedlib/guava@30.0-jre?classifier=sources
 - pkg:maven/org.checkerframework.annotatedlib/guava@30.1-jre
 - pkg:maven/org.checkerframework.annotatedlib/guava@30.1-jre?classifier=sources
+- pkg:maven/org.checkerframework.annotatedlib/guava@30.1.1-jre
+- pkg:maven/org.checkerframework.annotatedlib/guava@30.1.1-jre?classifier=sources

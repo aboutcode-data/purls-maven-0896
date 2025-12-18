@@ -24,5 +24,9 @@
 - pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.2.5.0?classifier=sources
 - pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.2.6.0
 - pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.2.6.0?classifier=sources
+- pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.2.7.0
+- pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.2.7.0?classifier=sources
+- pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.2.8.0
+- pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.2.8.0?classifier=sources
 - pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.3.0.0-SNAP3
 - pkg:maven/org.scalatestplus/selenium-3-141_2.10@3.3.0.0-SNAP3?classifier=sources

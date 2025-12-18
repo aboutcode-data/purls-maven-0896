@@ -172,6 +172,7 @@
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.4.3?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.4.4
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.4.4?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0-M1
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0-M1?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0-M2
@@ -182,3 +183,10 @@
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0-M4?classifier=sources
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0-M5
 - pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0-M5?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.0?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.1
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.1?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.2
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.2?classifier=sources
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.3
+- pkg:maven/org.scala-sbt/compiler-bridge_2.11@1.5.3?classifier=sources

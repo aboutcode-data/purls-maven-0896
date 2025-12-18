@@ -1,2 +1,4 @@
 - pkg:maven/com.github.jferard/fastods-crypto@0.7.3
 - pkg:maven/com.github.jferard/fastods-crypto@0.7.3?classifier=sources
+- pkg:maven/com.github.jferard/fastods-crypto@0.7.4
+- pkg:maven/com.github.jferard/fastods-crypto@0.7.4?classifier=sources

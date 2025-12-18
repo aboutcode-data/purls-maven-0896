@@ -6,3 +6,7 @@
 - pkg:maven/fr.maif/thoth-jooq-async_2.12@1.0.2-BETA3?classifier=sources
 - pkg:maven/fr.maif/thoth-jooq-async_2.12@1.0.2-BETA4
 - pkg:maven/fr.maif/thoth-jooq-async_2.12@1.0.2-BETA4?classifier=sources
+- pkg:maven/fr.maif/thoth-jooq-async_2.12@1.1.0
+- pkg:maven/fr.maif/thoth-jooq-async_2.12@1.1.0?classifier=sources
+- pkg:maven/fr.maif/thoth-jooq-async_2.12@1.1.1
+- pkg:maven/fr.maif/thoth-jooq-async_2.12@1.1.1?classifier=sources

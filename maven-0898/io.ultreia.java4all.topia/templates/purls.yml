@@ -111,6 +111,12 @@
 - pkg:maven/io.ultreia.java4all.topia/templates@1.43?classifier=sources
 - pkg:maven/io.ultreia.java4all.topia/templates@1.44
 - pkg:maven/io.ultreia.java4all.topia/templates@1.44?classifier=sources
+- pkg:maven/io.ultreia.java4all.topia/templates@1.45
+- pkg:maven/io.ultreia.java4all.topia/templates@1.45?classifier=sources
+- pkg:maven/io.ultreia.java4all.topia/templates@1.46
+- pkg:maven/io.ultreia.java4all.topia/templates@1.46?classifier=sources
+- pkg:maven/io.ultreia.java4all.topia/templates@1.47
+- pkg:maven/io.ultreia.java4all.topia/templates@1.47?classifier=sources
 - pkg:maven/io.ultreia.java4all.topia/templates@1.4?classifier=sources
 - pkg:maven/io.ultreia.java4all.topia/templates@1.5
 - pkg:maven/io.ultreia.java4all.topia/templates@1.5?classifier=sources

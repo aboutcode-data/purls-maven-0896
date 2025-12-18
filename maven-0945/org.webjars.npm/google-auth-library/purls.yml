@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/google-auth-library@1.6.1?classifier=sources
 - pkg:maven/org.webjars.npm/google-auth-library@3.0.0-pre2
 - pkg:maven/org.webjars.npm/google-auth-library@3.0.0-pre2?classifier=sources
+- pkg:maven/org.webjars.npm/google-auth-library@6.1.6
+- pkg:maven/org.webjars.npm/google-auth-library@6.1.6?classifier=sources

@@ -1,6 +1,8 @@
 - pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.1
 - pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.10
 - pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.10?classifier=sources
+- pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.11
+- pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.11?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.1?classifier=sources
 - pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.2
 - pkg:maven/org.cdk8s/cdk8s-plus-17@1.0.0-beta.2?classifier=sources

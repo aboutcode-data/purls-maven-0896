@@ -1,0 +1,6 @@
+- pkg:maven/com.katalon/testops-junit5@1.0.0
+- pkg:maven/com.katalon/testops-junit5@1.0.0-beta
+- pkg:maven/com.katalon/testops-junit5@1.0.0-beta?classifier=sources
+- pkg:maven/com.katalon/testops-junit5@1.0.0-meta
+- pkg:maven/com.katalon/testops-junit5@1.0.0-meta?classifier=sources
+- pkg:maven/com.katalon/testops-junit5@1.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-1-6e818b1
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-1-6e818b1?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-10-e801e85
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-10-e801e85?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-11-ef43374
@@ -14,6 +16,10 @@
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-16-011fe29?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-17-fe84424
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-17-fe84424?classifier=sources
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-18-371229c
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-18-371229c?classifier=sources
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-2-035acc0
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-2-035acc0?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-27-3fb62fc
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-27-3fb62fc?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-3-59723e4
@@ -30,3 +36,5 @@
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0-9-8834c91?classifier=sources
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0.0-RC1
 - pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0.0-RC1?classifier=sources
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0.0-RC2
+- pkg:maven/org.scodec/scodec-testkit_sjs1_3.0.0-RC1@2.0.0-RC2?classifier=sources

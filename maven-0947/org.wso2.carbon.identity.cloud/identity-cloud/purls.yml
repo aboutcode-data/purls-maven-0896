@@ -1,3 +1,4 @@
 - pkg:maven/org.wso2.carbon.identity.cloud/identity-cloud@3.0.21?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.cloud/identity-cloud@3.0.22?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.cloud/identity-cloud@3.0.24?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.cloud/identity-cloud@3.0.25?classifier=source-release&type=zip

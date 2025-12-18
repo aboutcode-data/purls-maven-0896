@@ -10,6 +10,8 @@
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.11.0?classifier=sources
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.12.0
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.12.0?classifier=sources
+- pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.13.0
+- pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.13.0?classifier=sources
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.9.1
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.9.10
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@0.9.10?classifier=sources

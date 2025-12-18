@@ -36,3 +36,5 @@
 - pkg:maven/io.jooby/jooby-gson@2.9.4?classifier=sources
 - pkg:maven/io.jooby/jooby-gson@2.9.5
 - pkg:maven/io.jooby/jooby-gson@2.9.5?classifier=sources
+- pkg:maven/io.jooby/jooby-gson@2.9.6
+- pkg:maven/io.jooby/jooby-gson@2.9.6?classifier=sources

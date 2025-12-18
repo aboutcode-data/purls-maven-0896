@@ -1,0 +1,6 @@
+- pkg:maven/com.ibm.cloud/findings_api@0.0.4
+- pkg:maven/com.ibm.cloud/findings_api@0.0.4?classifier=sources
+- pkg:maven/com.ibm.cloud/findings_api@1.2.2
+- pkg:maven/com.ibm.cloud/findings_api@1.2.2?classifier=sources
+- pkg:maven/com.ibm.cloud/findings_api@1.2.3
+- pkg:maven/com.ibm.cloud/findings_api@1.2.3?classifier=sources

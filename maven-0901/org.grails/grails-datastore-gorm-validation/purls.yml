@@ -68,3 +68,5 @@
 - pkg:maven/org.grails/grails-datastore-gorm-validation@7.0.3.RELEASE?classifier=sources
 - pkg:maven/org.grails/grails-datastore-gorm-validation@7.0.4.RELEASE
 - pkg:maven/org.grails/grails-datastore-gorm-validation@7.0.4.RELEASE?classifier=sources
+- pkg:maven/org.grails/grails-datastore-gorm-validation@7.1.0.M2
+- pkg:maven/org.grails/grails-datastore-gorm-validation@7.1.0.M2?classifier=sources

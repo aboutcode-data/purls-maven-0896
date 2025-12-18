@@ -58,3 +58,7 @@
 - pkg:maven/org.mdsplus/jdevices@7.126.0?classifier=sources
 - pkg:maven/org.mdsplus/jdevices@7.126.2
 - pkg:maven/org.mdsplus/jdevices@7.126.2?classifier=sources
+- pkg:maven/org.mdsplus/jdevices@7.127.0
+- pkg:maven/org.mdsplus/jdevices@7.127.0?classifier=sources
+- pkg:maven/org.mdsplus/jdevices@7.130.0
+- pkg:maven/org.mdsplus/jdevices@7.130.0?classifier=sources

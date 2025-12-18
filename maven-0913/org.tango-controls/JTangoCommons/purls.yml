@@ -14,3 +14,5 @@
 - pkg:maven/org.tango-controls/JTangoCommons@9.5.9?classifier=sources
 - pkg:maven/org.tango-controls/JTangoCommons@9.6.0
 - pkg:maven/org.tango-controls/JTangoCommons@9.6.0?classifier=sources
+- pkg:maven/org.tango-controls/JTangoCommons@9.6.7
+- pkg:maven/org.tango-controls/JTangoCommons@9.6.7?classifier=sources

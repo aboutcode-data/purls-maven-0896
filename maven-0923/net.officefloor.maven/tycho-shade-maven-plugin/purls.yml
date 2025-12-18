@@ -48,3 +48,7 @@
 - pkg:maven/net.officefloor.maven/tycho-shade-maven-plugin@3.32.0?classifier=sources
 - pkg:maven/net.officefloor.maven/tycho-shade-maven-plugin@3.33.0
 - pkg:maven/net.officefloor.maven/tycho-shade-maven-plugin@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.maven/tycho-shade-maven-plugin@3.34.0
+- pkg:maven/net.officefloor.maven/tycho-shade-maven-plugin@3.34.0?classifier=sources
+- pkg:maven/net.officefloor.maven/tycho-shade-maven-plugin@3.35.0
+- pkg:maven/net.officefloor.maven/tycho-shade-maven-plugin@3.35.0?classifier=sources

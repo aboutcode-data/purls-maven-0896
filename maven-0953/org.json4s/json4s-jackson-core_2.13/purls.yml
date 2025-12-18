@@ -1,0 +1,8 @@
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M13
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M13?classifier=sources
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M14
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M14?classifier=sources
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M15
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M15?classifier=sources
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M16
+- pkg:maven/org.json4s/json4s-jackson-core_2.13@3.7.0-M16?classifier=sources

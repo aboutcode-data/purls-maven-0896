@@ -37,6 +37,10 @@
 - pkg:maven/net.maizegenetics/phg@0.0.26?classifier=sources
 - pkg:maven/net.maizegenetics/phg@0.0.27
 - pkg:maven/net.maizegenetics/phg@0.0.27?classifier=sources
+- pkg:maven/net.maizegenetics/phg@0.0.28
+- pkg:maven/net.maizegenetics/phg@0.0.28?classifier=sources
+- pkg:maven/net.maizegenetics/phg@0.0.29
+- pkg:maven/net.maizegenetics/phg@0.0.29?classifier=sources
 - pkg:maven/net.maizegenetics/phg@0.0.2?classifier=sources
 - pkg:maven/net.maizegenetics/phg@0.0.4
 - pkg:maven/net.maizegenetics/phg@0.0.4?classifier=sources

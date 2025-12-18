@@ -1,0 +1,2 @@
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-base@3.0.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-base@3.0.0?classifier=sources

@@ -62,10 +62,16 @@
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.17.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.18.0
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.18.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.18.1
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.18.1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.19.0
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.19.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.2.0
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.2.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.2.1
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.2.1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.20.0
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.20.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.3.0
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.3.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.4.0

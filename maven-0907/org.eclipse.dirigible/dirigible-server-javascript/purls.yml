@@ -52,6 +52,12 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.0.0?type=war
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.1.0
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.10.0
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.10.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.10.1
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.10.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.10.2
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.10.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.3.0
@@ -76,3 +82,11 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.8.3?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.8.4
 - pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.8.4?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.0
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.1
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.2
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.2?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.3
+- pkg:maven/org.eclipse.dirigible/dirigible-server-javascript@5.9.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/br.com.esign/google-geocode@2.0.2
 - pkg:maven/br.com.esign/google-geocode@2.0.2?classifier=sources
 - pkg:maven/br.com.esign/google-geocode@2.0?classifier=sources
+- pkg:maven/br.com.esign/google-geocode@3.0.0
+- pkg:maven/br.com.esign/google-geocode@3.0.0?classifier=sources

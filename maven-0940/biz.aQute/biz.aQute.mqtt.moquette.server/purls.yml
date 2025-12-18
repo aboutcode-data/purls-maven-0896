@@ -1,0 +1,4 @@
+- pkg:maven/biz.aQute/biz.aQute.mqtt.moquette.server@1.6.0
+- pkg:maven/biz.aQute/biz.aQute.mqtt.moquette.server@1.6.0?classifier=sources
+- pkg:maven/biz.aQute/biz.aQute.mqtt.moquette.server@1.7.0
+- pkg:maven/biz.aQute/biz.aQute.mqtt.moquette.server@1.7.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.7?classifier=sources
 - pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.8
 - pkg:maven/com.roubsite/RoubSiteSmarty4j@4.0.8?classifier=sources
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.1.0
+- pkg:maven/com.roubsite/RoubSiteSmarty4j@4.1.0?classifier=sources

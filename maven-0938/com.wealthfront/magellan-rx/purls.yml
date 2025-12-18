@@ -6,3 +6,6 @@
 - pkg:maven/com.wealthfront/magellan-rx@1.1.0?type=aar
 - pkg:maven/com.wealthfront/magellan-rx@2.0.0-beta?classifier=sources
 - pkg:maven/com.wealthfront/magellan-rx@2.0.0-development?classifier=sources
+- pkg:maven/com.wealthfront/magellan-rx@2.0.1-beta?classifier=sources
+- pkg:maven/com.wealthfront/magellan-rx@2.0.2-beta?classifier=sources
+- pkg:maven/com.wealthfront/magellan-rx@2.1.0?classifier=sources

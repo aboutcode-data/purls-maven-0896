@@ -20,3 +20,5 @@
 - pkg:maven/net.guerlab.smart.banner/smart-banner-web@20.3.0?classifier=sources
 - pkg:maven/net.guerlab.smart.banner/smart-banner-web@20.3.1
 - pkg:maven/net.guerlab.smart.banner/smart-banner-web@20.3.1?classifier=sources
+- pkg:maven/net.guerlab.smart.banner/smart-banner-web@21.0.0
+- pkg:maven/net.guerlab.smart.banner/smart-banner-web@21.0.0?classifier=sources

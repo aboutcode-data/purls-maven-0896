@@ -34,3 +34,5 @@
 - pkg:maven/com.malliina/play-social_2.13@5.9.0?classifier=sources
 - pkg:maven/com.malliina/play-social_2.13@6.0.0
 - pkg:maven/com.malliina/play-social_2.13@6.0.0?classifier=sources
+- pkg:maven/com.malliina/play-social_2.13@6.0.1
+- pkg:maven/com.malliina/play-social_2.13@6.0.1?classifier=sources

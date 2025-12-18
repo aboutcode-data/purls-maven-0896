@@ -52,3 +52,6 @@
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.resources@2.0.5
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.resources@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.entry.processor.resources@2.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.resources@3.0.0
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.resources@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.entry.processor.resources@3.0.0?classifier=sources-commercial

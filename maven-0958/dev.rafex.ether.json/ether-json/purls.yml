@@ -6,6 +6,8 @@
 - pkg:maven/dev.rafex.ether.json/ether-json@2.0-v20201126?classifier=sources
 - pkg:maven/dev.rafex.ether.json/ether-json@2.0-v20201127
 - pkg:maven/dev.rafex.ether.json/ether-json@2.0-v20201127?classifier=sources
+- pkg:maven/dev.rafex.ether.json/ether-json@2.0-v20210220
+- pkg:maven/dev.rafex.ether.json/ether-json@2.0-v20210220?classifier=sources
 - pkg:maven/dev.rafex.ether.json/ether-json@2.0.0-v20201007
 - pkg:maven/dev.rafex.ether.json/ether-json@2.0.0-v20201007?classifier=sources
 - pkg:maven/dev.rafex.ether.json/ether-json@2.0.0-v20201009

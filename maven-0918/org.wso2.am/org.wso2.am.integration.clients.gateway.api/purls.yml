@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.0.0
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.0.0-beta
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.0.0-beta?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.0.0?classifier=sources

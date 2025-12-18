@@ -18,3 +18,5 @@
 - pkg:maven/ws.schild/jave-nativebin-linux64@3.0.0?classifier=sources
 - pkg:maven/ws.schild/jave-nativebin-linux64@3.0.1
 - pkg:maven/ws.schild/jave-nativebin-linux64@3.0.1?classifier=sources
+- pkg:maven/ws.schild/jave-nativebin-linux64@3.1.1
+- pkg:maven/ws.schild/jave-nativebin-linux64@3.1.1?classifier=sources

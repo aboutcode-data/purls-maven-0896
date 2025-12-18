@@ -36,3 +36,5 @@
 - pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@1.0.3?classifier=sources
 - pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@1.0.4
 - pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@1.0.4?classifier=sources
+- pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@1.0.5?classifier=sources
+- pkg:maven/com.github.mvysny.karibudsl/karibu-dsl-v8compat7@1.0.6?classifier=sources

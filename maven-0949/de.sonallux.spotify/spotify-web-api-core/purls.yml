@@ -1,0 +1,16 @@
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.3.31
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.3.31?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.10
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.10?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.14
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.14?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.19
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.19?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.2
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.28
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.28?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.2?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.5
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.4.5?classifier=sources
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.5.1
+- pkg:maven/de.sonallux.spotify/spotify-web-api-core@2021.5.1?classifier=sources

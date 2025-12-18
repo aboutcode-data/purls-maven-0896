@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.hadoop/hadoop-hdds-client@0.4.1-alpha
 - pkg:maven/org.apache.hadoop/hadoop-hdds-client@0.5.0-beta
 - pkg:maven/org.apache.hadoop/hadoop-hdds-client@1.0.0
+- pkg:maven/org.apache.hadoop/hadoop-hdds-client@1.1.0

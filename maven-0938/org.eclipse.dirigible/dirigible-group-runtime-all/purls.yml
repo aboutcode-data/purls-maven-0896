@@ -25,6 +25,9 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@4.6.0
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.0.0
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.10.0
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.10.1
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.10.2
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.2.0
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.4.0
@@ -37,3 +40,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.8.2
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.8.3
 - pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.8.4
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.9.0
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.9.1
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.9.2
+- pkg:maven/org.eclipse.dirigible/dirigible-group-runtime-all@5.9.3

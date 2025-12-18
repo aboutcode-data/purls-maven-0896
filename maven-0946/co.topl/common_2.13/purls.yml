@@ -1,0 +1,4 @@
+- pkg:maven/co.topl/common_2.13@1.4.2
+- pkg:maven/co.topl/common_2.13@1.4.2?classifier=sources
+- pkg:maven/co.topl/common_2.13@1.4.3
+- pkg:maven/co.topl/common_2.13@1.4.3?classifier=sources

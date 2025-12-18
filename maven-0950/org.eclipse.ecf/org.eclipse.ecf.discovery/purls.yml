@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.discovery@5.0.300?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.discovery@5.0.301?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.discovery@5.0.400?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.discovery@5.1.1?classifier=sources

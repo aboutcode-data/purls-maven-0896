@@ -8,3 +8,4 @@
 - pkg:maven/com.willowtreeapps.assertk/assertk-metadata@0.22?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-metadata@0.23.1?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-metadata@0.23?classifier=sources
+- pkg:maven/com.willowtreeapps.assertk/assertk-metadata@0.24?classifier=sources

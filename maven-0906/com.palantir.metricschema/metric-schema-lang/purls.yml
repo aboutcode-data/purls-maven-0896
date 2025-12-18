@@ -1,0 +1,6 @@
+- pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.17
+- pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.17?classifier=sources
+- pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.19?classifier=sources
+- pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.20?classifier=sources
+- pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.21?classifier=sources
+- pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.22?classifier=sources

@@ -30,6 +30,8 @@
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.1?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.2
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.2?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.3
+- pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.13.3?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.4.0-Boron
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.4.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.4.1-Boron-SR1

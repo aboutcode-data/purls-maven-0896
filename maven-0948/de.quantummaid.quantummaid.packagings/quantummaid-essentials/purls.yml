@@ -1,4 +1,9 @@
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.10
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.100
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.101
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.102
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.103
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.104
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.11
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.12
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.13
@@ -88,3 +93,4 @@
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.96
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.97
 - pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.98
+- pkg:maven/de.quantummaid.quantummaid.packagings/quantummaid-essentials@1.0.99

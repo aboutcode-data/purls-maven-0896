@@ -270,5 +270,9 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5.2?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5.3
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5.3?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.4
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.4?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.5
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.5?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@3.0.0-M5
 - pkg:maven/co.fs2/fs2-experimental_2.13@3.0.0-M5?classifier=sources

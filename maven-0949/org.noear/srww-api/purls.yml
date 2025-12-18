@@ -1,5 +1,8 @@
 - pkg:maven/org.noear/srww-api@1.0
 - pkg:maven/org.noear/srww-api@1.0.1
+- pkg:maven/org.noear/srww-api@1.0.10
+- pkg:maven/org.noear/srww-api@1.0.11
+- pkg:maven/org.noear/srww-api@1.0.11-r1
 - pkg:maven/org.noear/srww-api@1.0.2
 - pkg:maven/org.noear/srww-api@1.0.3
 - pkg:maven/org.noear/srww-api@1.0.4
@@ -11,3 +14,6 @@
 - pkg:maven/org.noear/srww-api@1.0.6-m4
 - pkg:maven/org.noear/srww-api@1.0.6-m5
 - pkg:maven/org.noear/srww-api@1.0.6-m6
+- pkg:maven/org.noear/srww-api@1.0.7
+- pkg:maven/org.noear/srww-api@1.0.8
+- pkg:maven/org.noear/srww-api@1.0.9

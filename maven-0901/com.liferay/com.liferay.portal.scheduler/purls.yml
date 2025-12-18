@@ -158,6 +158,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.2
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.20
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@5.0.3
@@ -263,6 +266,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.13
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.13?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.14
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.14?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.2
@@ -289,3 +295,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.9
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.0
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.1
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.1?classifier=sources-commercial

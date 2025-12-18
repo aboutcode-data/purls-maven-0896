@@ -18,6 +18,10 @@
 - pkg:maven/com.instabug.library/instabug-features-request@10.4.1?type=aar
 - pkg:maven/com.instabug.library/instabug-features-request@10.4.2?classifier=sources
 - pkg:maven/com.instabug.library/instabug-features-request@10.4.2?type=aar
+- pkg:maven/com.instabug.library/instabug-features-request@10.4.3?classifier=sources
+- pkg:maven/com.instabug.library/instabug-features-request@10.4.3?type=aar
+- pkg:maven/com.instabug.library/instabug-features-request@10.5.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-features-request@10.5.0?type=aar
 - pkg:maven/com.instabug.library/instabug-features-request@4.13.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-features-request@4.13.0?type=aar
 - pkg:maven/com.instabug.library/instabug-features-request@4.13.1?classifier=sources

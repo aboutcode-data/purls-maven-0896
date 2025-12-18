@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@8.3.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@8.4.0
 - pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@8.4.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@8.5.0
+- pkg:maven/org.apache.skywalking/apm-zookeeper-3.4.x-plugin@8.5.0?classifier=sources

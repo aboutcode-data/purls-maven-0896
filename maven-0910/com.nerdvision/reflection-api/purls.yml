@@ -10,3 +10,7 @@
 - pkg:maven/com.nerdvision/reflection-api@2.1.0?classifier=sources
 - pkg:maven/com.nerdvision/reflection-api@2.2.0
 - pkg:maven/com.nerdvision/reflection-api@2.2.0?classifier=sources
+- pkg:maven/com.nerdvision/reflection-api@2.2.3
+- pkg:maven/com.nerdvision/reflection-api@2.2.3?classifier=sources
+- pkg:maven/com.nerdvision/reflection-api@2.2.4
+- pkg:maven/com.nerdvision/reflection-api@2.2.4?classifier=sources

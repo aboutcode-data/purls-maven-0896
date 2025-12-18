@@ -1,0 +1,2 @@
+- pkg:maven/com.github.varivoda/test_filter_testng@1.0
+- pkg:maven/com.github.varivoda/test_filter_testng@1.0?classifier=sources

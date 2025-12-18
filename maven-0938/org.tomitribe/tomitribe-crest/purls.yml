@@ -10,6 +10,8 @@
 - pkg:maven/org.tomitribe/tomitribe-crest@0.13?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest@0.14
 - pkg:maven/org.tomitribe/tomitribe-crest@0.14?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest@0.15
+- pkg:maven/org.tomitribe/tomitribe-crest@0.15?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest@0.3
 - pkg:maven/org.tomitribe/tomitribe-crest@0.3?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest@0.4

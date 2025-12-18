@@ -53,3 +53,7 @@
 - pkg:maven/org.wso2.am/org.wso2.stratos.apimgt.styles@3.2.0-alpha
 - pkg:maven/org.wso2.am/org.wso2.stratos.apimgt.styles@3.2.0-alpha?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.stratos.apimgt.styles@3.2.0?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.stratos.apimgt.styles@4.0.0
+- pkg:maven/org.wso2.am/org.wso2.stratos.apimgt.styles@4.0.0-beta
+- pkg:maven/org.wso2.am/org.wso2.stratos.apimgt.styles@4.0.0-beta?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.stratos.apimgt.styles@4.0.0?classifier=sources

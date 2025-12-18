@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.config.crypto/encrypted-config-value-bundle-dropwizard1@2.2.0?classifier=sources
+- pkg:maven/com.palantir.config.crypto/encrypted-config-value-bundle-dropwizard1@3.0.0?classifier=sources

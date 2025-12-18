@@ -10,3 +10,4 @@
 - pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-ktx@2.2.0?type=aar
 - pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-ktx@2.2.1?classifier=sources
 - pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-ktx@2.2.1?type=aar
+- pkg:maven/me.tatarka.injectedvmprovider/injectedvmprovider-ktx@3.0.0?classifier=sources

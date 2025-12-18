@@ -16,3 +16,7 @@
 - pkg:maven/ru.iopump.kotest/kotest-allure@0.4.1?classifier=sources
 - pkg:maven/ru.iopump.kotest/kotest-allure@0.5.0
 - pkg:maven/ru.iopump.kotest/kotest-allure@0.5.0?classifier=sources
+- pkg:maven/ru.iopump.kotest/kotest-allure@1.0.0
+- pkg:maven/ru.iopump.kotest/kotest-allure@1.0.0?classifier=sources
+- pkg:maven/ru.iopump.kotest/kotest-allure@1.0.1
+- pkg:maven/ru.iopump.kotest/kotest-allure@1.0.1?classifier=sources

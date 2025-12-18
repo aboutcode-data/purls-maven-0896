@@ -1,0 +1,2 @@
+- pkg:maven/org.decsync/libdecsync-metadata@1.8.3?classifier=sources
+- pkg:maven/org.decsync/libdecsync-metadata@1.9.0?classifier=sources

@@ -78,6 +78,10 @@
 - pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.30?classifier=sources
 - pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.32
 - pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.32?classifier=sources
+- pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.33
+- pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.33?classifier=sources
+- pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.34
+- pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.34?classifier=sources
 - pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.4
 - pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.4?classifier=sources
 - pkg:maven/com.networknt/eventuate-cdc-connector-test-util@1.6.5

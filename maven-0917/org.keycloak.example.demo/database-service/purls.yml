@@ -8,3 +8,5 @@
 - pkg:maven/org.keycloak.example.demo/database-service@12.0.3?type=war
 - pkg:maven/org.keycloak.example.demo/database-service@12.0.4?classifier=sources
 - pkg:maven/org.keycloak.example.demo/database-service@12.0.4?type=war
+- pkg:maven/org.keycloak.example.demo/database-service@13.0.0?classifier=sources
+- pkg:maven/org.keycloak.example.demo/database-service@13.0.0?type=war

@@ -60,3 +60,5 @@
 - pkg:maven/com.force.api/force-apex-api@51.1.0?classifier=sources
 - pkg:maven/com.force.api/force-apex-api@51.2.0
 - pkg:maven/com.force.api/force-apex-api@51.2.0?classifier=sources
+- pkg:maven/com.force.api/force-apex-api@52.0.0?classifier=sources
+- pkg:maven/com.force.api/force-apex-api@52.1.0?classifier=sources

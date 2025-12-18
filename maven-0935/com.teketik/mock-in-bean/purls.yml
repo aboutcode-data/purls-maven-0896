@@ -1,2 +1,4 @@
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.0
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.0?classifier=sources
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.1
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.1?classifier=sources

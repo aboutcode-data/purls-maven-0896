@@ -1,2 +1,4 @@
 - pkg:maven/io.sniffy/sniffy-integration-tests-spring-boot-2@3.1.10
 - pkg:maven/io.sniffy/sniffy-integration-tests-spring-boot-2@3.1.10?classifier=sources
+- pkg:maven/io.sniffy/sniffy-integration-tests-spring-boot-2@3.1.11
+- pkg:maven/io.sniffy/sniffy-integration-tests-spring-boot-2@3.1.11?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/com.github.omottec/logger@0.1.0?classifier=sources
+- pkg:maven/com.github.omottec/logger@0.1.2?classifier=sources
+- pkg:maven/com.github.omottec/logger@0.1.3?classifier=sources
+- pkg:maven/com.github.omottec/logger@0.1.4?classifier=sources
+- pkg:maven/com.github.omottec/logger@0.1.5?classifier=sources

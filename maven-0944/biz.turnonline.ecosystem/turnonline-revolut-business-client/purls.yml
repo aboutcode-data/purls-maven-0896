@@ -1,2 +1,4 @@
 - pkg:maven/biz.turnonline.ecosystem/turnonline-revolut-business-client@1.0
+- pkg:maven/biz.turnonline.ecosystem/turnonline-revolut-business-client@1.0.1
+- pkg:maven/biz.turnonline.ecosystem/turnonline-revolut-business-client@1.0.1?classifier=sources
 - pkg:maven/biz.turnonline.ecosystem/turnonline-revolut-business-client@1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nl.vroste/zio-amqp_2.13@0.1.5
+- pkg:maven/nl.vroste/zio-amqp_2.13@0.1.5?classifier=sources
+- pkg:maven/nl.vroste/zio-amqp_2.13@0.2.0
+- pkg:maven/nl.vroste/zio-amqp_2.13@0.2.0?classifier=sources

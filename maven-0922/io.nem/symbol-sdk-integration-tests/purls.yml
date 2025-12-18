@@ -28,3 +28,5 @@
 - pkg:maven/io.nem/symbol-sdk-integration-tests@0.23.2?classifier=sources
 - pkg:maven/io.nem/symbol-sdk-integration-tests@1.0.0
 - pkg:maven/io.nem/symbol-sdk-integration-tests@1.0.0?classifier=sources
+- pkg:maven/io.nem/symbol-sdk-integration-tests@1.0.1
+- pkg:maven/io.nem/symbol-sdk-integration-tests@1.0.1?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/org.opendaylight.serviceutils/tools-api@0.6.2?classifier=sources
 - pkg:maven/org.opendaylight.serviceutils/tools-api@0.6.3
 - pkg:maven/org.opendaylight.serviceutils/tools-api@0.6.3?classifier=sources
+- pkg:maven/org.opendaylight.serviceutils/tools-api@0.7.0
+- pkg:maven/org.opendaylight.serviceutils/tools-api@0.7.0?classifier=sources

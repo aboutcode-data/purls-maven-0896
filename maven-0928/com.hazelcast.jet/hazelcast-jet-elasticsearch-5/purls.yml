@@ -6,3 +6,5 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-elasticsearch-5@4.3?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-elasticsearch-5@4.4
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-elasticsearch-5@4.4?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-elasticsearch-5@4.5
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-elasticsearch-5@4.5?classifier=sources

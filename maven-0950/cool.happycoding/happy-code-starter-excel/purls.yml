@@ -1,2 +1,4 @@
 - pkg:maven/cool.happycoding/happy-code-starter-excel@1.0.1.RELEASE
 - pkg:maven/cool.happycoding/happy-code-starter-excel@1.0.1.RELEASE?classifier=sources
+- pkg:maven/cool.happycoding/happy-code-starter-excel@1.0.2.RELEASE
+- pkg:maven/cool.happycoding/happy-code-starter-excel@1.0.2.RELEASE?classifier=sources

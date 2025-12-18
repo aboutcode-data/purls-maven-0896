@@ -52,3 +52,7 @@
 - pkg:maven/com.lihaoyi/utest_sjs0.6_2.11@0.7.6?classifier=sources
 - pkg:maven/com.lihaoyi/utest_sjs0.6_2.11@0.7.7
 - pkg:maven/com.lihaoyi/utest_sjs0.6_2.11@0.7.7?classifier=sources
+- pkg:maven/com.lihaoyi/utest_sjs0.6_2.11@0.7.8
+- pkg:maven/com.lihaoyi/utest_sjs0.6_2.11@0.7.8?classifier=sources
+- pkg:maven/com.lihaoyi/utest_sjs0.6_2.11@0.7.9
+- pkg:maven/com.lihaoyi/utest_sjs0.6_2.11@0.7.9?classifier=sources

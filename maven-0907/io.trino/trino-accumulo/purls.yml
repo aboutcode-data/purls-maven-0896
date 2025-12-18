@@ -2,3 +2,5 @@
 - pkg:maven/io.trino/trino-accumulo@352?classifier=sources
 - pkg:maven/io.trino/trino-accumulo@353?classifier=sources
 - pkg:maven/io.trino/trino-accumulo@354?classifier=sources
+- pkg:maven/io.trino/trino-accumulo@355?classifier=sources
+- pkg:maven/io.trino/trino-accumulo@356?classifier=sources

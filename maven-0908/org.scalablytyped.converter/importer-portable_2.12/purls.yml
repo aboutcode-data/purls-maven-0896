@@ -1,2 +1,4 @@
 - pkg:maven/org.scalablytyped.converter/importer-portable_2.12@1.0.0-beta31
 - pkg:maven/org.scalablytyped.converter/importer-portable_2.12@1.0.0-beta31?classifier=sources
+- pkg:maven/org.scalablytyped.converter/importer-portable_2.12@1.0.0-beta32
+- pkg:maven/org.scalablytyped.converter/importer-portable_2.12@1.0.0-beta32?classifier=sources

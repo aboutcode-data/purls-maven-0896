@@ -1,0 +1,12 @@
+- pkg:maven/io.github.altimedia-cloud/clientSDK@1.26-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@1.26-uhdRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.21-tvgDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.21-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.22-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.22-uhdRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.23-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.24-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.25-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.25-uhdRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.26-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.26-uhdRelease?classifier=sources

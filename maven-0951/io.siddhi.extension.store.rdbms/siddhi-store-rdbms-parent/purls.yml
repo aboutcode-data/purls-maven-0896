@@ -3,9 +3,13 @@
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@6.0.3?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@6.0.4?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.0?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.10?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.11?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.1?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.2?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.3?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.5?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.6?classifier=source-release&type=zip
 - pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.7?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.8?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.store.rdbms/siddhi-store-rdbms-parent@7.0.9?classifier=source-release&type=zip

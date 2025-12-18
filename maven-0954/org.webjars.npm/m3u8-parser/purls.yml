@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/m3u8-parser@4.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/m3u8-parser@4.5.0
 - pkg:maven/org.webjars.npm/m3u8-parser@4.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/m3u8-parser@4.6.0
+- pkg:maven/org.webjars.npm/m3u8-parser@4.6.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.linux.x86_64@1.1.0
+- pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.linux.x86_64@1.1.0?classifier=sources
 - pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.linux.x86_64@3.8.301
 - pkg:maven/org.geckoprojects.equinox/org.gecko.bnd.equinox.executable.linux.x86_64@3.8.301?classifier=sources

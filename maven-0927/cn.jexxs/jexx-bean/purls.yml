@@ -6,5 +6,11 @@
 - pkg:maven/cn.jexxs/jexx-bean@1.0.12-RELEASE?classifier=sources
 - pkg:maven/cn.jexxs/jexx-bean@1.0.13-RELEASE
 - pkg:maven/cn.jexxs/jexx-bean@1.0.13-RELEASE?classifier=sources
+- pkg:maven/cn.jexxs/jexx-bean@1.0.14-RELEASE
+- pkg:maven/cn.jexxs/jexx-bean@1.0.14-RELEASE?classifier=sources
 - pkg:maven/cn.jexxs/jexx-bean@1.0.6-RELEASE
 - pkg:maven/cn.jexxs/jexx-bean@1.0.6-RELEASE?classifier=sources
+- pkg:maven/cn.jexxs/jexx-bean@1.1.0-RELEASE
+- pkg:maven/cn.jexxs/jexx-bean@1.1.0-RELEASE?classifier=sources
+- pkg:maven/cn.jexxs/jexx-bean@1.1.1-RELEASE
+- pkg:maven/cn.jexxs/jexx-bean@1.1.1-RELEASE?classifier=sources

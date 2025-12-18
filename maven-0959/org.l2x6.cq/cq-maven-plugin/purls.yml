@@ -55,5 +55,11 @@
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@0.30.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@0.31.0
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@0.31.0?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-maven-plugin@0.32.0
+- pkg:maven/org.l2x6.cq/cq-maven-plugin@0.32.0?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-maven-plugin@0.33.0
+- pkg:maven/org.l2x6.cq/cq-maven-plugin@0.33.0?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-maven-plugin@0.34.0
+- pkg:maven/org.l2x6.cq/cq-maven-plugin@0.34.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@0.9.0
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@0.9.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-2?classifier=sources
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-3
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-3?classifier=sources
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-4
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-4?classifier=sources
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-alpha-1
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-alpha-1?classifier=sources
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector-driver_2.12@3.0-yb-beta-1

@@ -18,3 +18,9 @@
 - pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.4-rc1
 - pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.4-rc1?classifier=sources
 - pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.4?classifier=sources
+- pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.5
+- pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.5-rc1
+- pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.5-rc1?classifier=sources
+- pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.5.1
+- pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.5.1?classifier=sources
+- pkg:maven/io.mosip.kernel/kernel-ridgenerator-service@1.1.5?classifier=sources

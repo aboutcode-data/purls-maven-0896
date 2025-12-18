@@ -8,3 +8,9 @@
 - pkg:maven/vip.mate/mate-starter-common@2.2.8?classifier=sources
 - pkg:maven/vip.mate/mate-starter-common@2.3.8
 - pkg:maven/vip.mate/mate-starter-common@2.3.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-common@2.5.8
+- pkg:maven/vip.mate/mate-starter-common@2.5.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-common@3.0.8
+- pkg:maven/vip.mate/mate-starter-common@3.0.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-common@3.1.8
+- pkg:maven/vip.mate/mate-starter-common@3.1.8?classifier=sources

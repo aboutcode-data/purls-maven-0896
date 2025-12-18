@@ -63,3 +63,6 @@
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.help@5.0.5
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.help@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.help@5.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.help@6.0.0
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.help@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portlet.configuration.icon.help@6.0.0?classifier=sources-commercial

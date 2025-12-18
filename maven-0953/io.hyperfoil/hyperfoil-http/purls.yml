@@ -1,2 +1,4 @@
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.14
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.14?classifier=sources
+- pkg:maven/io.hyperfoil/hyperfoil-http@0.15
+- pkg:maven/io.hyperfoil/hyperfoil-http@0.15?classifier=sources

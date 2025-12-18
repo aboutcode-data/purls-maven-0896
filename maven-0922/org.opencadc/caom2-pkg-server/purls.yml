@@ -1,0 +1,2 @@
+- pkg:maven/org.opencadc/caom2-pkg-server@1.7.0?classifier=sources
+- pkg:maven/org.opencadc/caom2-pkg-server@1.7.1?classifier=sources

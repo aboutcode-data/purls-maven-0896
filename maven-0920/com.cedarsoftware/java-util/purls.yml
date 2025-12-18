@@ -150,6 +150,8 @@
 - pkg:maven/com.cedarsoftware/java-util@1.62.0?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@1.63.0
 - pkg:maven/com.cedarsoftware/java-util@1.63.0?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@1.64.0
+- pkg:maven/com.cedarsoftware/java-util@1.64.0?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@1.7.0
 - pkg:maven/com.cedarsoftware/java-util@1.7.0?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@1.7.1

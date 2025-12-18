@@ -1,0 +1,2 @@
+- pkg:maven/one.microstream/microstream-source-maven-plugin@02.00.00-MS-GA
+- pkg:maven/one.microstream/microstream-source-maven-plugin@02.00.00-MS-GA?classifier=sources

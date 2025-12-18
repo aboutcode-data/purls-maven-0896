@@ -6,3 +6,7 @@
 - pkg:maven/com.softwaremill.sttp.client3/armeria-backend-cats_3.0.0-RC1@3.1.7?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/armeria-backend-cats_3.0.0-RC1@3.1.9
 - pkg:maven/com.softwaremill.sttp.client3/armeria-backend-cats_3.0.0-RC1@3.1.9?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/armeria-backend-cats_3.0.0-RC1@3.2.0
+- pkg:maven/com.softwaremill.sttp.client3/armeria-backend-cats_3.0.0-RC1@3.2.0?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/armeria-backend-cats_3.0.0-RC1@3.2.3
+- pkg:maven/com.softwaremill.sttp.client3/armeria-backend-cats_3.0.0-RC1@3.2.3?classifier=sources

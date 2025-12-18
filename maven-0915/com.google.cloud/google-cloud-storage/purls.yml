@@ -110,6 +110,10 @@
 - pkg:maven/com.google.cloud/google-cloud-storage@1.113.13?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-storage@1.113.14
 - pkg:maven/com.google.cloud/google-cloud-storage@1.113.14?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-storage@1.113.15
+- pkg:maven/com.google.cloud/google-cloud-storage@1.113.15?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-storage@1.113.16
+- pkg:maven/com.google.cloud/google-cloud-storage@1.113.16?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-storage@1.113.1?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-storage@1.113.2
 - pkg:maven/com.google.cloud/google-cloud-storage@1.113.2?classifier=sources

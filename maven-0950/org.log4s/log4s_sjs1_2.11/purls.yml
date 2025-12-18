@@ -8,5 +8,9 @@
 - pkg:maven/org.log4s/log4s_sjs1_2.11@1.10.0-M4?classifier=sources
 - pkg:maven/org.log4s/log4s_sjs1_2.11@1.10.0-M5
 - pkg:maven/org.log4s/log4s_sjs1_2.11@1.10.0-M5?classifier=sources
+- pkg:maven/org.log4s/log4s_sjs1_2.11@1.10.0-M6
+- pkg:maven/org.log4s/log4s_sjs1_2.11@1.10.0-M6?classifier=sources
+- pkg:maven/org.log4s/log4s_sjs1_2.11@1.10.0-M7
+- pkg:maven/org.log4s/log4s_sjs1_2.11@1.10.0-M7?classifier=sources
 - pkg:maven/org.log4s/log4s_sjs1_2.11@1.9.0
 - pkg:maven/org.log4s/log4s_sjs1_2.11@1.9.0?classifier=sources

@@ -44,6 +44,8 @@
 - pkg:maven/io.qameta.allure/allure-assertj@2.13.7?classifier=sources
 - pkg:maven/io.qameta.allure/allure-assertj@2.13.8
 - pkg:maven/io.qameta.allure/allure-assertj@2.13.8?classifier=sources
+- pkg:maven/io.qameta.allure/allure-assertj@2.13.9
+- pkg:maven/io.qameta.allure/allure-assertj@2.13.9?classifier=sources
 - pkg:maven/io.qameta.allure/allure-assertj@2.6.0
 - pkg:maven/io.qameta.allure/allure-assertj@2.6.0?classifier=sources
 - pkg:maven/io.qameta.allure/allure-assertj@2.7.0

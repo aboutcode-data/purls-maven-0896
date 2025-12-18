@@ -26,3 +26,4 @@
 - pkg:maven/com.github.sonus21/rqueue-spring@2.6.1-RC2?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-spring@2.6.1-RC?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-spring@2.6.1-RELEASE?classifier=sources
+- pkg:maven/com.github.sonus21/rqueue-spring@2.7.0-RELEASE?classifier=sources

@@ -44,3 +44,5 @@
 - pkg:maven/io.aboutcode.stage/web@3.0.8?classifier=sources
 - pkg:maven/io.aboutcode.stage/web@3.0.9
 - pkg:maven/io.aboutcode.stage/web@3.0.9?classifier=sources
+- pkg:maven/io.aboutcode.stage/web@4.0.0
+- pkg:maven/io.aboutcode.stage/web@4.0.0?classifier=sources

@@ -338,7 +338,13 @@
 - pkg:maven/com.yahoo.vespa/messagebus-disc@7.374.52?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus-disc@7.375.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus-disc@7.376.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus-disc@7.378.53?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus-disc@7.379.1?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus-disc@7.38.38?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus-disc@7.380.25?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus-disc@7.381.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus-disc@7.382.45?classifier=sources
+- pkg:maven/com.yahoo.vespa/messagebus-disc@7.383.13?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus-disc@7.39.5?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus-disc@7.40.41?classifier=sources
 - pkg:maven/com.yahoo.vespa/messagebus-disc@7.41.15?classifier=sources

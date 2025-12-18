@@ -11,3 +11,4 @@
 - pkg:maven/io.qameta.allure.plugins/custom-logo-plugin@2.13.6?classifier=sources
 - pkg:maven/io.qameta.allure.plugins/custom-logo-plugin@2.13.7?classifier=sources
 - pkg:maven/io.qameta.allure.plugins/custom-logo-plugin@2.13.8?classifier=sources
+- pkg:maven/io.qameta.allure.plugins/custom-logo-plugin@2.13.9?classifier=sources

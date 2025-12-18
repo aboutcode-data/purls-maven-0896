@@ -4,3 +4,5 @@
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.13@2.2.3?classifier=sources
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.13@2.2.4
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.13@2.2.4?classifier=sources
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.13@2.2.5
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-scribe_2.13@2.2.5?classifier=sources

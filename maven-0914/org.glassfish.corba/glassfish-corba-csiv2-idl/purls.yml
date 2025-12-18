@@ -90,3 +90,5 @@
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.2.3-RC2
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.2.3-RC2?classifier=sources
 - pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.2.3?classifier=sources
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.2.4
+- pkg:maven/org.glassfish.corba/glassfish-corba-csiv2-idl@4.2.4?classifier=sources

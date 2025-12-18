@@ -1,0 +1,2 @@
+- pkg:maven/com.github.rchargel.build/build-reports@0.9
+- pkg:maven/com.github.rchargel.build/build-reports@0.9?classifier=sources

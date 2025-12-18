@@ -2,3 +2,5 @@
 - pkg:maven/io.crowdcode.sormas.lbds/lbds-android-messaging@1.0.0?type=aar
 - pkg:maven/io.crowdcode.sormas.lbds/lbds-android-messaging@1.2.0?classifier=sources
 - pkg:maven/io.crowdcode.sormas.lbds/lbds-android-messaging@1.2.0?type=aar
+- pkg:maven/io.crowdcode.sormas.lbds/lbds-android-messaging@1.4.3?classifier=sources
+- pkg:maven/io.crowdcode.sormas.lbds/lbds-android-messaging@1.4.3?type=aar

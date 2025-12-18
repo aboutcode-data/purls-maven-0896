@@ -26,3 +26,5 @@
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webflux@2.1.9.RELEASE?classifier=sources
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webflux@2.3.0.RELEASE
 - pkg:maven/app.myoss.cloud.boot/myoss-starter-webflux@2.3.0.RELEASE?classifier=sources
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-webflux@2.3.1.RELEASE
+- pkg:maven/app.myoss.cloud.boot/myoss-starter-webflux@2.3.1.RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.nethibernate/protostuff-generator@1
+- pkg:maven/io.github.nethibernate/protostuff-generator@1?classifier=sources
