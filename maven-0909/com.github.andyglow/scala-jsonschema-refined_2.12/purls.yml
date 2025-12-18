@@ -1,0 +1,4 @@
+- pkg:maven/com.github.andyglow/scala-jsonschema-refined_2.12@0.2.7-M2
+- pkg:maven/com.github.andyglow/scala-jsonschema-refined_2.12@0.2.7-M2?classifier=sources
+- pkg:maven/com.github.andyglow/scala-jsonschema-refined_2.12@0.2.8
+- pkg:maven/com.github.andyglow/scala-jsonschema-refined_2.12@0.2.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.spring.ge/gradle-enterprise-conventions-maven-extension@0.0.4
+- pkg:maven/io.spring.ge/gradle-enterprise-conventions-maven-extension@0.0.4?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/org.eclipse.tycho.extras/tycho-custom-bundle-plugin@1.6.0?classifier=sources
 - pkg:maven/org.eclipse.tycho.extras/tycho-custom-bundle-plugin@1.7.0
 - pkg:maven/org.eclipse.tycho.extras/tycho-custom-bundle-plugin@1.7.0?classifier=sources
+- pkg:maven/org.eclipse.tycho.extras/tycho-custom-bundle-plugin@2.0.0
+- pkg:maven/org.eclipse.tycho.extras/tycho-custom-bundle-plugin@2.0.0?classifier=sources

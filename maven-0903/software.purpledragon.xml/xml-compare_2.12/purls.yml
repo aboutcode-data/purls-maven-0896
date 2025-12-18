@@ -8,3 +8,5 @@
 - pkg:maven/software.purpledragon.xml/xml-compare_2.12@1.0.2?classifier=sources
 - pkg:maven/software.purpledragon.xml/xml-compare_2.12@1.2.0
 - pkg:maven/software.purpledragon.xml/xml-compare_2.12@1.2.0?classifier=sources
+- pkg:maven/software.purpledragon.xml/xml-compare_2.12@2.0.0
+- pkg:maven/software.purpledragon.xml/xml-compare_2.12@2.0.0?classifier=sources

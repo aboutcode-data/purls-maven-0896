@@ -28,3 +28,5 @@
 - pkg:maven/com.gu/kinesis-logback-appender@1.4.4?classifier=sources
 - pkg:maven/com.gu/kinesis-logback-appender@2.0.0
 - pkg:maven/com.gu/kinesis-logback-appender@2.0.0?classifier=sources
+- pkg:maven/com.gu/kinesis-logback-appender@2.0.1
+- pkg:maven/com.gu/kinesis-logback-appender@2.0.1?classifier=sources

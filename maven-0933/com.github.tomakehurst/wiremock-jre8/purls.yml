@@ -11,3 +11,5 @@
 - pkg:maven/com.github.tomakehurst/wiremock-jre8@2.26.1?classifier=sources
 - pkg:maven/com.github.tomakehurst/wiremock-jre8@2.26.2?classifier=sources
 - pkg:maven/com.github.tomakehurst/wiremock-jre8@2.26.3?classifier=sources
+- pkg:maven/com.github.tomakehurst/wiremock-jre8@2.27.0?classifier=sources
+- pkg:maven/com.github.tomakehurst/wiremock-jre8@2.27.1?classifier=sources

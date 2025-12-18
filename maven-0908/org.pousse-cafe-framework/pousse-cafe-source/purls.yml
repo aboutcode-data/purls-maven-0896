@@ -1,0 +1,4 @@
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.21.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.21.0?classifier=sources
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.22.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.22.0?classifier=sources

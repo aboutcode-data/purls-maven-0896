@@ -1,0 +1,6 @@
+- pkg:maven/io.github.careem/converter-annotation-processor@0.6.19
+- pkg:maven/io.github.careem/converter-annotation-processor@0.6.19?classifier=sources
+- pkg:maven/io.github.careem/converter-annotation-processor@0.6.20
+- pkg:maven/io.github.careem/converter-annotation-processor@0.6.20?classifier=sources
+- pkg:maven/io.github.careem/converter-annotation-processor@0.7.0
+- pkg:maven/io.github.careem/converter-annotation-processor@0.7.0?classifier=sources

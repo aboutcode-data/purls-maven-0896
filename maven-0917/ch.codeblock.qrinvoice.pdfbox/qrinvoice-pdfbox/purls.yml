@@ -1,2 +1,8 @@
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.10
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.10?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.7
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.7?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.8
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.8?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.9
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.9?classifier=sources

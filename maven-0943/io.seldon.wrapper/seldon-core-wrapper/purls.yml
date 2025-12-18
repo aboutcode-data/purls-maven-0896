@@ -10,3 +10,5 @@
 - pkg:maven/io.seldon.wrapper/seldon-core-wrapper@0.1.4?classifier=sources
 - pkg:maven/io.seldon.wrapper/seldon-core-wrapper@0.1.5
 - pkg:maven/io.seldon.wrapper/seldon-core-wrapper@0.1.5?classifier=sources
+- pkg:maven/io.seldon.wrapper/seldon-core-wrapper@0.2.0
+- pkg:maven/io.seldon.wrapper/seldon-core-wrapper@0.2.0?classifier=sources

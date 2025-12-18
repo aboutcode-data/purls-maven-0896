@@ -22,3 +22,7 @@
 - pkg:maven/org.codelibs.fess/fess-ds-slack@13.5.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-slack@13.6.0
 - pkg:maven/org.codelibs.fess/fess-ds-slack@13.6.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-slack@13.7.0
+- pkg:maven/org.codelibs.fess/fess-ds-slack@13.7.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-slack@13.8.0
+- pkg:maven/org.codelibs.fess/fess-ds-slack@13.8.0?classifier=sources

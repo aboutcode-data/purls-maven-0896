@@ -34,3 +34,7 @@
 - pkg:maven/io.wcm/io.wcm.wcm.ui.granite@1.5.2?classifier=sources
 - pkg:maven/io.wcm/io.wcm.wcm.ui.granite@1.6.0
 - pkg:maven/io.wcm/io.wcm.wcm.ui.granite@1.6.0?classifier=sources
+- pkg:maven/io.wcm/io.wcm.wcm.ui.granite@1.6.2
+- pkg:maven/io.wcm/io.wcm.wcm.ui.granite@1.6.2?classifier=sources
+- pkg:maven/io.wcm/io.wcm.wcm.ui.granite@1.6.4
+- pkg:maven/io.wcm/io.wcm.wcm.ui.granite@1.6.4?classifier=sources

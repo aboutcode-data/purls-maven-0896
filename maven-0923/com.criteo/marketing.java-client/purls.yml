@@ -24,6 +24,10 @@
 - pkg:maven/com.criteo/marketing.java-client@1.0.22?classifier=sources
 - pkg:maven/com.criteo/marketing.java-client@1.0.23
 - pkg:maven/com.criteo/marketing.java-client@1.0.23?classifier=sources
+- pkg:maven/com.criteo/marketing.java-client@1.0.25
+- pkg:maven/com.criteo/marketing.java-client@1.0.25?classifier=sources
+- pkg:maven/com.criteo/marketing.java-client@1.0.26
+- pkg:maven/com.criteo/marketing.java-client@1.0.26?classifier=sources
 - pkg:maven/com.criteo/marketing.java-client@1.0.4
 - pkg:maven/com.criteo/marketing.java-client@1.0.4?classifier=sources
 - pkg:maven/com.criteo/marketing.java-client@1.0.5

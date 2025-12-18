@@ -1,0 +1,2 @@
+- pkg:maven/com.scylladb/java-driver-test-infra@4.8.0-scylla-0
+- pkg:maven/com.scylladb/java-driver-test-infra@4.8.0-scylla-0?classifier=sources

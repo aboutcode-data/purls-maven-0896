@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-ide-services@1.4.0
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-ide-services@1.4.0-rc
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-ide-services@1.4.0-rc?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-ide-services@1.4.0?classifier=sources

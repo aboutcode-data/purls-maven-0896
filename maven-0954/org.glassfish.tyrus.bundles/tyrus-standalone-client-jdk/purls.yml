@@ -34,3 +34,7 @@
 - pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@1.9?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.0.0-M1
 - pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.0.0-M2
+- pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.0.0-M2?classifier=sources
+- pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.0.0-M3
+- pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.0.0-M3?classifier=sources

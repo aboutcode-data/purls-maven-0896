@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE90?classifier=sources

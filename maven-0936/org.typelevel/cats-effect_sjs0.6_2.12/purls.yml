@@ -124,3 +124,5 @@
 - pkg:maven/org.typelevel/cats-effect_sjs0.6_2.12@2.1.2?classifier=sources
 - pkg:maven/org.typelevel/cats-effect_sjs0.6_2.12@2.1.3
 - pkg:maven/org.typelevel/cats-effect_sjs0.6_2.12@2.1.3?classifier=sources
+- pkg:maven/org.typelevel/cats-effect_sjs0.6_2.12@2.1.4
+- pkg:maven/org.typelevel/cats-effect_sjs0.6_2.12@2.1.4?classifier=sources

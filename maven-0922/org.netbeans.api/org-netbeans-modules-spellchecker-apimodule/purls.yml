@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-spellchecker-apimodule@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-spellchecker-apimodule@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-spellchecker-apimodule@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-spellchecker-apimodule@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-spellchecker-apimodule@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-spellchecker-apimodule@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-spellchecker-apimodule@RELEASE90?classifier=sources

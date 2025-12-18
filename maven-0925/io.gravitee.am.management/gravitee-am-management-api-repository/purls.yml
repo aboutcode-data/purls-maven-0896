@@ -25,6 +25,14 @@
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.12?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.13
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.13?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.14
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.14?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.15
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.15?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.16
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.16?classifier=sources
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.17
+- pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.17?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.1?classifier=sources
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.2
 - pkg:maven/io.gravitee.am.management/gravitee-am-management-api-repository@2.10.2?classifier=sources

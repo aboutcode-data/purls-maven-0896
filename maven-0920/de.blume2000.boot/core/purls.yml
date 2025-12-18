@@ -1,0 +1,4 @@
+- pkg:maven/de.blume2000.boot/core@2.2.7.RELEASE?classifier=sources
+- pkg:maven/de.blume2000.boot/core@2.2.8.RELEASE?classifier=sources
+- pkg:maven/de.blume2000.boot/core@2.2.9.RELEASE?classifier=sources
+- pkg:maven/de.blume2000.boot/core@2.3.1.RELEASE?classifier=sources

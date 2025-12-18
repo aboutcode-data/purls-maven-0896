@@ -1,0 +1,4 @@
+- pkg:maven/io.apicurio/apicurio-registry-storage-asyncmem@1.2.2.Final
+- pkg:maven/io.apicurio/apicurio-registry-storage-asyncmem@1.2.2.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-storage-asyncmem@1.2.3.Final
+- pkg:maven/io.apicurio/apicurio-registry-storage-asyncmem@1.2.3.Final?classifier=sources

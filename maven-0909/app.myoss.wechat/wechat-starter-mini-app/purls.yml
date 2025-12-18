@@ -4,3 +4,7 @@
 - pkg:maven/app.myoss.wechat/wechat-starter-mini-app@1.1.1.RELEASE?classifier=sources
 - pkg:maven/app.myoss.wechat/wechat-starter-mini-app@1.1.2.RELEASE
 - pkg:maven/app.myoss.wechat/wechat-starter-mini-app@1.1.2.RELEASE?classifier=sources
+- pkg:maven/app.myoss.wechat/wechat-starter-mini-app@1.1.3.RELEASE
+- pkg:maven/app.myoss.wechat/wechat-starter-mini-app@1.1.3.RELEASE?classifier=sources
+- pkg:maven/app.myoss.wechat/wechat-starter-mini-app@1.1.4.RELEASE
+- pkg:maven/app.myoss.wechat/wechat-starter-mini-app@1.1.4.RELEASE?classifier=sources

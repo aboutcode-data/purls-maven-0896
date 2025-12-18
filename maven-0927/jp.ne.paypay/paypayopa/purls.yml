@@ -1,0 +1,4 @@
+- pkg:maven/jp.ne.paypay/paypayopa@0.1
+- pkg:maven/jp.ne.paypay/paypayopa@0.1?classifier=sources
+- pkg:maven/jp.ne.paypay/paypayopa@0.3.0
+- pkg:maven/jp.ne.paypay/paypayopa@0.3.0?classifier=sources

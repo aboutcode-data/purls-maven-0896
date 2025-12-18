@@ -302,3 +302,5 @@
 - pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.8.0?classifier=sources
 - pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.8.1
 - pkg:maven/com.krux/hyperion-sftp-activity_2.11@5.8.1?classifier=sources
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@6.0.0
+- pkg:maven/com.krux/hyperion-sftp-activity_2.11@6.0.0?classifier=sources

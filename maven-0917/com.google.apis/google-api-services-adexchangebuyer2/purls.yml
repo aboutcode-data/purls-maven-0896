@@ -384,6 +384,12 @@
 - pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200430-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200506-1.30.9
 - pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200506-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200520-1.30.10
+- pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200520-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200520-1.30.9
+- pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200520-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200803-1.30.10
+- pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev20200803-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-adexchangebuyer2@v2beta1-rev21-1.19.1

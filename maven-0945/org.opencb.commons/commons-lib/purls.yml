@@ -36,3 +36,7 @@
 - pkg:maven/org.opencb.commons/commons-lib@3.7.3?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@3.7.4
 - pkg:maven/org.opencb.commons/commons-lib@3.7.4?classifier=sources
+- pkg:maven/org.opencb.commons/commons-lib@4.0.0
+- pkg:maven/org.opencb.commons/commons-lib@4.0.0?classifier=sources
+- pkg:maven/org.opencb.commons/commons-lib@4.0.1
+- pkg:maven/org.opencb.commons/commons-lib@4.0.1?classifier=sources

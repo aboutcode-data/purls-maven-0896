@@ -1,3 +1,8 @@
+- pkg:maven/cc.voox/publisher@0.1.0.Beta
+- pkg:maven/cc.voox/publisher@0.1.0.Beta?classifier=sources
+- pkg:maven/cc.voox/publisher@0.1.2.GA
+- pkg:maven/cc.voox/publisher@0.1.2.GA?classifier=sources
+- pkg:maven/cc.voox/publisher@0.1.3.Beta?classifier=sources
 - pkg:maven/cc.voox/publisher@0.2.0
 - pkg:maven/cc.voox/publisher@0.2.0?classifier=sources
 - pkg:maven/cc.voox/publisher@0.2.1
@@ -8,3 +13,5 @@
 - pkg:maven/cc.voox/publisher@0.4.0?classifier=sources
 - pkg:maven/cc.voox/publisher@0.5.0
 - pkg:maven/cc.voox/publisher@0.5.0?classifier=sources
+- pkg:maven/cc.voox/publisher@1.0.0
+- pkg:maven/cc.voox/publisher@1.0.0?classifier=sources

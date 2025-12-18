@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.observability@1.2.0-beta
+- pkg:maven/org.wso2.ei/org.wso2.micro.integrator.observability@1.2.0-beta?classifier=sources

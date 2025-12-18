@@ -16,6 +16,12 @@
 - pkg:maven/io.github.mightguy/symspell-solr@6.6.123?classifier=sources
 - pkg:maven/io.github.mightguy/symspell-solr@6.6.124
 - pkg:maven/io.github.mightguy/symspell-solr@6.6.124?classifier=sources
+- pkg:maven/io.github.mightguy/symspell-solr@6.6.127
+- pkg:maven/io.github.mightguy/symspell-solr@6.6.127?classifier=sources
+- pkg:maven/io.github.mightguy/symspell-solr@6.6.129
+- pkg:maven/io.github.mightguy/symspell-solr@6.6.129?classifier=sources
+- pkg:maven/io.github.mightguy/symspell-solr@6.6.130
+- pkg:maven/io.github.mightguy/symspell-solr@6.6.130?classifier=sources
 - pkg:maven/io.github.mightguy/symspell-solr@6.6.77
 - pkg:maven/io.github.mightguy/symspell-solr@6.6.77?classifier=sources
 - pkg:maven/io.github.mightguy/symspell-solr@6.6.79

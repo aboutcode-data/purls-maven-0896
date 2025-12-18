@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.iotdb/iotdb-server@0.10.0?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-server@0.8.0?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-server@0.8.1?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-server@0.8.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.rongji.dfish/dfish-demo@5.0.1.RELEASE?classifier=sources
+- pkg:maven/com.rongji.dfish/dfish-demo@5.0.1.RELEASE?type=war

@@ -22,3 +22,9 @@
 - pkg:maven/org.webjars.npm/rc-menu@7.4.5?classifier=sources
 - pkg:maven/org.webjars.npm/rc-menu@8.0.0-alpha.5
 - pkg:maven/org.webjars.npm/rc-menu@8.0.0-alpha.5?classifier=sources
+- pkg:maven/org.webjars.npm/rc-menu@8.3.1
+- pkg:maven/org.webjars.npm/rc-menu@8.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/rc-menu@8.5.0
+- pkg:maven/org.webjars.npm/rc-menu@8.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-menu@8.5.1
+- pkg:maven/org.webjars.npm/rc-menu@8.5.1?classifier=sources

@@ -1,3 +1,8 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-CR2
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-CR2?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-CR3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-CR3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-M1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-M1?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-M2
@@ -12,3 +17,4 @@
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-M6?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-M7
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0-M7?classifier=sources
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-commons-logging@1.0.0?classifier=sources

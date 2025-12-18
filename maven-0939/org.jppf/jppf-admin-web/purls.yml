@@ -36,3 +36,5 @@
 - pkg:maven/org.jppf/jppf-admin-web@6.2-beta?type=war
 - pkg:maven/org.jppf/jppf-admin-web@6.2?classifier=sources
 - pkg:maven/org.jppf/jppf-admin-web@6.2?type=war
+- pkg:maven/org.jppf/jppf-admin-web@6.3-alpha?classifier=sources
+- pkg:maven/org.jppf/jppf-admin-web@6.3-alpha?type=war

@@ -6,3 +6,5 @@
 - pkg:maven/com.centit.framework/centit-ip-module@1.1.1809?classifier=sources
 - pkg:maven/com.centit.framework/centit-ip-module@1.2.1812
 - pkg:maven/com.centit.framework/centit-ip-module@1.2.1812?classifier=sources
+- pkg:maven/com.centit.framework/centit-ip-module@2.1.2007
+- pkg:maven/com.centit.framework/centit-ip-module@2.1.2007?classifier=sources

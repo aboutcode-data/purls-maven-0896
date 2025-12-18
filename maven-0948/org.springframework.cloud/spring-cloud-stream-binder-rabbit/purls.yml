@@ -62,3 +62,9 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.4.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.4.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.5.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.5.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.6.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.6.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.7.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-stream-binder-rabbit@3.0.7.RELEASE?classifier=sources

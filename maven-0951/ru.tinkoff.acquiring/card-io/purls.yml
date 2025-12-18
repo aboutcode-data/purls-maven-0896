@@ -52,3 +52,5 @@
 - pkg:maven/ru.tinkoff.acquiring/card-io@1.7.1?type=aar
 - pkg:maven/ru.tinkoff.acquiring/card-io@1.7.2?classifier=sources
 - pkg:maven/ru.tinkoff.acquiring/card-io@1.7.2?type=aar
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.7.3?classifier=sources
+- pkg:maven/ru.tinkoff.acquiring/card-io@1.7.3?type=aar

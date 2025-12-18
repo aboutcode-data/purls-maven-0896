@@ -1,0 +1,4 @@
+- pkg:maven/com.github.houbb/async-spring@0.0.3
+- pkg:maven/com.github.houbb/async-spring@0.0.3?classifier=sources
+- pkg:maven/com.github.houbb/async-spring@0.0.4
+- pkg:maven/com.github.houbb/async-spring@0.0.4?classifier=sources

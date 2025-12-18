@@ -32,3 +32,5 @@
 - pkg:maven/jp.pay/payjp-android@1.2.0?type=aar
 - pkg:maven/jp.pay/payjp-android@1.2.1?classifier=sources
 - pkg:maven/jp.pay/payjp-android@1.2.1?type=aar
+- pkg:maven/jp.pay/payjp-android@1.2.2?classifier=sources
+- pkg:maven/jp.pay/payjp-android@1.2.2?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/org.morphir/morphir-sdk-core_0.23@0.0.3
 - pkg:maven/org.morphir/morphir-sdk-core_0.23@0.0.3?classifier=sources
+- pkg:maven/org.morphir/morphir-sdk-core_0.23@0.0.7
+- pkg:maven/org.morphir/morphir-sdk-core_0.23@0.0.7?classifier=sources

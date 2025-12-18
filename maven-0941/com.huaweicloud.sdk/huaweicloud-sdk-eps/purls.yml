@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-eps@3.0.6-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-eps@3.0.6-beta?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-eps@3.0.7-beta
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-eps@3.0.7-beta?classifier=sources

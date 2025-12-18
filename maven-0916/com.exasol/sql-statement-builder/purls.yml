@@ -10,3 +10,7 @@
 - pkg:maven/com.exasol/sql-statement-builder@3.0.0?classifier=sources
 - pkg:maven/com.exasol/sql-statement-builder@3.1.0
 - pkg:maven/com.exasol/sql-statement-builder@3.1.0?classifier=sources
+- pkg:maven/com.exasol/sql-statement-builder@3.3.0
+- pkg:maven/com.exasol/sql-statement-builder@3.3.0?classifier=sources
+- pkg:maven/com.exasol/sql-statement-builder@4.0.0
+- pkg:maven/com.exasol/sql-statement-builder@4.0.0?classifier=sources

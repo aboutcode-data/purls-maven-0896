@@ -60,3 +60,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.3.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.3.1.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.3.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.4.0
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.4.0?classifier=sources

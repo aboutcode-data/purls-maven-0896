@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.coherence.ce/pof-maven-plugin@20.06
+- pkg:maven/com.oracle.coherence.ce/pof-maven-plugin@20.06?classifier=sources

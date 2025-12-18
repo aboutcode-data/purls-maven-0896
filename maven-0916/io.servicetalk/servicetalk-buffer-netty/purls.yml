@@ -6,3 +6,7 @@
 - pkg:maven/io.servicetalk/servicetalk-buffer-netty@0.25.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-buffer-netty@0.26.0?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-buffer-netty@0.27.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-buffer-netty@0.28.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-buffer-netty@0.29.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-buffer-netty@0.30.0?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-buffer-netty@0.31.0?classifier=sources

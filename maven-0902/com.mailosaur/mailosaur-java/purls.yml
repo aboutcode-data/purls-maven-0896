@@ -30,3 +30,9 @@
 - pkg:maven/com.mailosaur/mailosaur-java@5.0.4?classifier=sources
 - pkg:maven/com.mailosaur/mailosaur-java@6.0.0
 - pkg:maven/com.mailosaur/mailosaur-java@6.0.0?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@6.0.2
+- pkg:maven/com.mailosaur/mailosaur-java@6.0.2?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@6.0.5
+- pkg:maven/com.mailosaur/mailosaur-java@6.0.5?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@6.0.6
+- pkg:maven/com.mailosaur/mailosaur-java@6.0.6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.cryptomator/fuse-cloud-access-adapter@0.1.0-beta4
+- pkg:maven/org.cryptomator/fuse-cloud-access-adapter@0.1.0-beta4?classifier=sources
+- pkg:maven/org.cryptomator/fuse-cloud-access-adapter@0.1.0-beta5
+- pkg:maven/org.cryptomator/fuse-cloud-access-adapter@0.1.0-beta5?classifier=sources

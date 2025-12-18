@@ -1,2 +1,4 @@
 - pkg:maven/org.scorexfoundation/scrypto_2.13@2.1.8
 - pkg:maven/org.scorexfoundation/scrypto_2.13@2.1.8?classifier=sources
+- pkg:maven/org.scorexfoundation/scrypto_2.13@2.1.9
+- pkg:maven/org.scorexfoundation/scrypto_2.13@2.1.9?classifier=sources

@@ -10,3 +10,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-cms-database@4.4.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-cms-database@4.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-cms-database@4.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-cms-database@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-cms-database@4.6.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-cms-database@5.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-cms-database@5.0.0?classifier=sources

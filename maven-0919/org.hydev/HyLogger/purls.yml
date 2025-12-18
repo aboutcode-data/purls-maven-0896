@@ -1,0 +1,4 @@
+- pkg:maven/org.hydev/HyLogger@2.0.0.325
+- pkg:maven/org.hydev/HyLogger@2.0.0.325?classifier=sources
+- pkg:maven/org.hydev/HyLogger@2.1.0.378
+- pkg:maven/org.hydev/HyLogger@2.1.0.378?classifier=sources

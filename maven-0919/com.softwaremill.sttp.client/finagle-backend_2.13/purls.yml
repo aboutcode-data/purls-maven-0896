@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.13@2.2.3
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.13@2.2.3?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.13@2.2.4
+- pkg:maven/com.softwaremill.sttp.client/finagle-backend_2.13@2.2.4?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.github.EmergentOrder/onnx-scala-backends_0.23@0.3.0
 - pkg:maven/com.github.EmergentOrder/onnx-scala-backends_0.23@0.3.0?classifier=sources
+- pkg:maven/com.github.EmergentOrder/onnx-scala-backends_0.23@0.4.0
+- pkg:maven/com.github.EmergentOrder/onnx-scala-backends_0.23@0.4.0?classifier=sources
+- pkg:maven/com.github.EmergentOrder/onnx-scala-backends_0.23@0.5.0
+- pkg:maven/com.github.EmergentOrder/onnx-scala-backends_0.23@0.5.0?classifier=sources

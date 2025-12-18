@@ -2,3 +2,5 @@
 - pkg:maven/com.logonlabs/logonlabs-java@1.0?classifier=sources
 - pkg:maven/com.logonlabs/logonlabs-java@1.5.0
 - pkg:maven/com.logonlabs/logonlabs-java@1.5.0?classifier=sources
+- pkg:maven/com.logonlabs/logonlabs-java@1.7.0
+- pkg:maven/com.logonlabs/logonlabs-java@1.7.0?classifier=sources

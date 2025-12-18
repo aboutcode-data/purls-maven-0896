@@ -120,6 +120,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@7.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@7.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@7.3.0
@@ -174,3 +176,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@8.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@8.8.0
 - pkg:maven/org.wicketstuff/wicketstuff-jquery@8.8.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@8.9.0
+- pkg:maven/org.wicketstuff/wicketstuff-jquery@8.9.0?classifier=sources

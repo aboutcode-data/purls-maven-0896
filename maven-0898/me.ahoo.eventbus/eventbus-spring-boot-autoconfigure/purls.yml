@@ -12,3 +12,7 @@
 - pkg:maven/me.ahoo.eventbus/eventbus-spring-boot-autoconfigure@0.6.6?classifier=sources
 - pkg:maven/me.ahoo.eventbus/eventbus-spring-boot-autoconfigure@0.6.9
 - pkg:maven/me.ahoo.eventbus/eventbus-spring-boot-autoconfigure@0.6.9?classifier=sources
+- pkg:maven/me.ahoo.eventbus/eventbus-spring-boot-autoconfigure@0.8.0
+- pkg:maven/me.ahoo.eventbus/eventbus-spring-boot-autoconfigure@0.8.0?classifier=sources
+- pkg:maven/me.ahoo.eventbus/eventbus-spring-boot-autoconfigure@0.8.1
+- pkg:maven/me.ahoo.eventbus/eventbus-spring-boot-autoconfigure@0.8.1?classifier=sources

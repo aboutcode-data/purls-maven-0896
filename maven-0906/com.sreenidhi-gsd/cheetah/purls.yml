@@ -8,3 +8,7 @@
 - pkg:maven/com.sreenidhi-gsd/cheetah@1.1.25?classifier=sources
 - pkg:maven/com.sreenidhi-gsd/cheetah@1.1.26
 - pkg:maven/com.sreenidhi-gsd/cheetah@1.1.26?classifier=sources
+- pkg:maven/com.sreenidhi-gsd/cheetah@1.1.8
+- pkg:maven/com.sreenidhi-gsd/cheetah@1.1.8?classifier=sources
+- pkg:maven/com.sreenidhi-gsd/cheetah@1.2.9
+- pkg:maven/com.sreenidhi-gsd/cheetah@1.2.9?classifier=sources

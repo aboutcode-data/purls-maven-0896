@@ -22,3 +22,5 @@
 - pkg:maven/it.uniroma2.art.coda/coda-tests@1.6.3
 - pkg:maven/it.uniroma2.art.coda/coda-tests@1.6.3?classifier=sources
 - pkg:maven/it.uniroma2.art.coda/coda-tests@1.6?classifier=sources
+- pkg:maven/it.uniroma2.art.coda/coda-tests@1.7.0
+- pkg:maven/it.uniroma2.art.coda/coda-tests@1.7.0?classifier=sources

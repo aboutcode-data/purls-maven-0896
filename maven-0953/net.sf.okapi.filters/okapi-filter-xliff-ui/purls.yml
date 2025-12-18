@@ -6,3 +6,5 @@
 - pkg:maven/net.sf.okapi.filters/okapi-filter-xliff-ui@0.38?classifier=sources
 - pkg:maven/net.sf.okapi.filters/okapi-filter-xliff-ui@1.39.0
 - pkg:maven/net.sf.okapi.filters/okapi-filter-xliff-ui@1.39.0?classifier=sources
+- pkg:maven/net.sf.okapi.filters/okapi-filter-xliff-ui@1.40.0
+- pkg:maven/net.sf.okapi.filters/okapi-filter-xliff-ui@1.40.0?classifier=sources

@@ -218,3 +218,5 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-sor-client-common@6.1.4?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-sor-client-common@6.1.5
 - pkg:maven/com.bazaarvoice.emodb/emodb-sor-client-common@6.1.5?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-sor-client-common@6.2.0
+- pkg:maven/com.bazaarvoice.emodb/emodb-sor-client-common@6.2.0?classifier=sources

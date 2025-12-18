@@ -1,2 +1,4 @@
 - pkg:maven/net.named-data.jndn-extra/jndn-mock@1.1.1
 - pkg:maven/net.named-data.jndn-extra/jndn-mock@1.1.1?classifier=sources
+- pkg:maven/net.named-data.jndn-extra/jndn-mock@1.2.0
+- pkg:maven/net.named-data.jndn-extra/jndn-mock@1.2.0?classifier=sources

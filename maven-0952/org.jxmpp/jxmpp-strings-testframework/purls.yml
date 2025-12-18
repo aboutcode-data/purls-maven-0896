@@ -1,1 +1,2 @@
 - pkg:maven/org.jxmpp/jxmpp-strings-testframework@0.7.0-alpha6?classifier=sources
+- pkg:maven/org.jxmpp/jxmpp-strings-testframework@1.0.0?classifier=sources

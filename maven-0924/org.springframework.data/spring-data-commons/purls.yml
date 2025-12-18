@@ -186,6 +186,10 @@
 - pkg:maven/org.springframework.data/spring-data-commons@2.1.16.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.1.17.RELEASE
 - pkg:maven/org.springframework.data/spring-data-commons@2.1.17.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.1.18.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.1.18.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.1.19.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.1.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.1.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-commons@2.1.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.1.3.RELEASE
@@ -218,5 +222,15 @@
 - pkg:maven/org.springframework.data/spring-data-commons@2.2.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.2.7.RELEASE
 - pkg:maven/org.springframework.data/spring-data-commons@2.2.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.2.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.2.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.2.9.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.2.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.3.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-commons@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.3.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.3.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.3.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.3.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.3.3.RELEASE
+- pkg:maven/org.springframework.data/spring-data-commons@2.3.3.RELEASE?classifier=sources

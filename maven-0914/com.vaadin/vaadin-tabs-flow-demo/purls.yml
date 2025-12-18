@@ -4,4 +4,6 @@
 - pkg:maven/com.vaadin/vaadin-tabs-flow-demo@2.0.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-tabs-flow-demo@2.0.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-tabs-flow-demo@2.0.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-tabs-flow-demo@2.1.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-tabs-flow-demo@3.0.0?classifier=sources
+- pkg:maven/com.vaadin/vaadin-tabs-flow-demo@3.1.0?classifier=sources

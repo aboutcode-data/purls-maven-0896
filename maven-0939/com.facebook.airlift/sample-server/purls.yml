@@ -5,3 +5,6 @@
 - pkg:maven/com.facebook.airlift/sample-server@0.189?classifier=sources
 - pkg:maven/com.facebook.airlift/sample-server@0.190?classifier=sources
 - pkg:maven/com.facebook.airlift/sample-server@0.191?classifier=sources
+- pkg:maven/com.facebook.airlift/sample-server@0.192?classifier=sources
+- pkg:maven/com.facebook.airlift/sample-server@0.193?classifier=sources
+- pkg:maven/com.facebook.airlift/sample-server@0.194?classifier=sources

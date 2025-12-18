@@ -2,6 +2,10 @@
 - pkg:maven/com.playfab/server-sdk@0.100.191015?classifier=sources
 - pkg:maven/com.playfab/server-sdk@0.101.191029
 - pkg:maven/com.playfab/server-sdk@0.101.191029?classifier=sources
+- pkg:maven/com.playfab/server-sdk@0.113.200629
+- pkg:maven/com.playfab/server-sdk@0.113.200629?classifier=sources
+- pkg:maven/com.playfab/server-sdk@0.115.200730
+- pkg:maven/com.playfab/server-sdk@0.115.200730?classifier=sources
 - pkg:maven/com.playfab/server-sdk@0.62.180122
 - pkg:maven/com.playfab/server-sdk@0.62.180122?classifier=sources
 - pkg:maven/com.playfab/server-sdk@0.63.180131

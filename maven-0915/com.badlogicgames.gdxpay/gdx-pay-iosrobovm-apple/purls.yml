@@ -46,3 +46,5 @@
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosrobovm-apple@1.0.0?classifier=sources
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosrobovm-apple@1.1.0
 - pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosrobovm-apple@1.1.0?classifier=sources
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosrobovm-apple@1.2.0
+- pkg:maven/com.badlogicgames.gdxpay/gdx-pay-iosrobovm-apple@1.2.0?classifier=sources

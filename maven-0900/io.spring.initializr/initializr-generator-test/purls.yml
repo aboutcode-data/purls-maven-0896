@@ -1,2 +1,4 @@
 - pkg:maven/io.spring.initializr/initializr-generator-test@0.8.0.RELEASE
 - pkg:maven/io.spring.initializr/initializr-generator-test@0.8.0.RELEASE?classifier=sources
+- pkg:maven/io.spring.initializr/initializr-generator-test@0.9.0
+- pkg:maven/io.spring.initializr/initializr-generator-test@0.9.0?classifier=sources

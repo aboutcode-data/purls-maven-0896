@@ -2,3 +2,5 @@
 - pkg:maven/net.sf.tweety.logics/qbf@1.15?classifier=sources
 - pkg:maven/net.sf.tweety.logics/qbf@1.16
 - pkg:maven/net.sf.tweety.logics/qbf@1.16?classifier=sources
+- pkg:maven/net.sf.tweety.logics/qbf@1.17
+- pkg:maven/net.sf.tweety.logics/qbf@1.17?classifier=sources

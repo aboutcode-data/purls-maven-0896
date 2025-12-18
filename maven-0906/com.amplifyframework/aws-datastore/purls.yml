@@ -6,3 +6,11 @@
 - pkg:maven/com.amplifyframework/aws-datastore@0.9.0?type=aar
 - pkg:maven/com.amplifyframework/aws-datastore@0.9.1?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@0.9.1?type=aar
+- pkg:maven/com.amplifyframework/aws-datastore@1.0.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-datastore@1.0.0?type=aar
+- pkg:maven/com.amplifyframework/aws-datastore@1.1.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-datastore@1.1.0?type=aar
+- pkg:maven/com.amplifyframework/aws-datastore@1.1.1?classifier=sources
+- pkg:maven/com.amplifyframework/aws-datastore@1.1.1?type=aar
+- pkg:maven/com.amplifyframework/aws-datastore@1.1.2?classifier=sources
+- pkg:maven/com.amplifyframework/aws-datastore@1.1.2?type=aar

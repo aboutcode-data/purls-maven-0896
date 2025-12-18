@@ -54,3 +54,5 @@
 - pkg:maven/com.joliciel.talismane/talismane-machine-learning@5.2.0?classifier=sources
 - pkg:maven/com.joliciel.talismane/talismane-machine-learning@5.3.0
 - pkg:maven/com.joliciel.talismane/talismane-machine-learning@5.3.0?classifier=sources
+- pkg:maven/com.joliciel.talismane/talismane-machine-learning@6.0.0
+- pkg:maven/com.joliciel.talismane/talismane-machine-learning@6.0.0?classifier=sources

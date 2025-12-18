@@ -16,3 +16,7 @@
 - pkg:maven/org.webjars.npm/rc-cascader@0.17.4?classifier=sources
 - pkg:maven/org.webjars.npm/rc-cascader@1.0.0-alpha.0
 - pkg:maven/org.webjars.npm/rc-cascader@1.0.0-alpha.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-cascader@1.2.0
+- pkg:maven/org.webjars.npm/rc-cascader@1.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/rc-cascader@1.3.0
+- pkg:maven/org.webjars.npm/rc-cascader@1.3.0?classifier=sources

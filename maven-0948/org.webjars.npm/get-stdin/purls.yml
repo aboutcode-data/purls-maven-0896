@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/get-stdin@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/get-stdin@7.0.0
 - pkg:maven/org.webjars.npm/get-stdin@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/get-stdin@8.0.0
+- pkg:maven/org.webjars.npm/get-stdin@8.0.0?classifier=sources

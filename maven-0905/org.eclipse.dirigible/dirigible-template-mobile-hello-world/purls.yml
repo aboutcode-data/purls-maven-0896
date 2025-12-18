@@ -42,3 +42,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-template-mobile-hello-world@4.4.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-template-mobile-hello-world@4.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-template-mobile-hello-world@4.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-template-mobile-hello-world@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-template-mobile-hello-world@4.6.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-template-mobile-hello-world@5.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-template-mobile-hello-world@5.0.0?classifier=sources

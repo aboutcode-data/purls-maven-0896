@@ -100,6 +100,8 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.11?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.12?classifier=src&type=tar.gz
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.12?classifier=src&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.13?classifier=src&type=tar.gz
+- pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.13?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.1?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.2.2?classifier=src&type=tar.gz
@@ -122,6 +124,8 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3-next-M1?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3-next-M2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3-next-M2?classifier=src&type=zip
+- pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3-next-M3?classifier=src&type=tar.gz
+- pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3-next-M3?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3.0-beta?classifier=src&type=tar.gz
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3.0-beta?classifier=src&type=zip
 - pkg:maven/org.apache.myfaces.core/myfaces-core-assembly@2.3.0?classifier=src&type=tar.gz

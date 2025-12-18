@@ -1,0 +1,4 @@
+- pkg:maven/io.laserdisc/fs2-aws-ciris_2.12@2.29.0
+- pkg:maven/io.laserdisc/fs2-aws-ciris_2.12@2.29.0?classifier=sources
+- pkg:maven/io.laserdisc/fs2-aws-ciris_2.12@3.0.1
+- pkg:maven/io.laserdisc/fs2-aws-ciris_2.12@3.0.1?classifier=sources

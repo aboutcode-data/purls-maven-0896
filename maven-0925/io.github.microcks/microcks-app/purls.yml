@@ -1,0 +1,2 @@
+- pkg:maven/io.github.microcks/microcks-app@1.0.0-RC1
+- pkg:maven/io.github.microcks/microcks-app@1.0.0-RC1?classifier=sources

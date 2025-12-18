@@ -18,3 +18,5 @@
 - pkg:maven/com.tridion/cd_core@8.5.0-1056?classifier=sources
 - pkg:maven/com.tridion/cd_core@8.5.0-1079
 - pkg:maven/com.tridion/cd_core@8.5.0-1079?classifier=sources
+- pkg:maven/com.tridion/cd_core@8.5.0-1098
+- pkg:maven/com.tridion/cd_core@8.5.0-1098?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.500
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.600
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.1.600?classifier=sources

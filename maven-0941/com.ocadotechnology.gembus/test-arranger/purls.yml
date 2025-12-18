@@ -1,0 +1,6 @@
+- pkg:maven/com.ocadotechnology.gembus/test-arranger@0.12
+- pkg:maven/com.ocadotechnology.gembus/test-arranger@0.12?classifier=sources
+- pkg:maven/com.ocadotechnology.gembus/test-arranger@0.13
+- pkg:maven/com.ocadotechnology.gembus/test-arranger@0.13?classifier=sources
+- pkg:maven/com.ocadotechnology.gembus/test-arranger@1.0
+- pkg:maven/com.ocadotechnology.gembus/test-arranger@1.0?classifier=sources

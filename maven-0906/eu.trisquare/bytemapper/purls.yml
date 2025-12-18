@@ -1,8 +1,10 @@
 - pkg:maven/eu.trisquare/bytemapper@0.1-ALPHA
 - pkg:maven/eu.trisquare/bytemapper@0.1-ALPHA?classifier=sources
+- pkg:maven/eu.trisquare/bytemapper@1.0
 - pkg:maven/eu.trisquare/bytemapper@1.0-RC1
 - pkg:maven/eu.trisquare/bytemapper@1.0-RC1?classifier=sources
 - pkg:maven/eu.trisquare/bytemapper@1.0-RC2
 - pkg:maven/eu.trisquare/bytemapper@1.0-RC2?classifier=sources
 - pkg:maven/eu.trisquare/bytemapper@1.0-RC3
 - pkg:maven/eu.trisquare/bytemapper@1.0-RC3?classifier=sources
+- pkg:maven/eu.trisquare/bytemapper@1.0?classifier=sources

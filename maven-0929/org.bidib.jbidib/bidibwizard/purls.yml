@@ -24,6 +24,8 @@
 - pkg:maven/org.bidib.jbidib/bidibwizard@1.12.7?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard@1.12.8
 - pkg:maven/org.bidib.jbidib/bidibwizard@1.12.8?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard@1.12.9
+- pkg:maven/org.bidib.jbidib/bidibwizard@1.12.9?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard@1.3
 - pkg:maven/org.bidib.jbidib/bidibwizard@1.3?classifier=sources
 - pkg:maven/org.bidib.jbidib/bidibwizard@1.4

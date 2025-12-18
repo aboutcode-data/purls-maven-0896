@@ -38,3 +38,9 @@
 - pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.3.Final
 - pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.4.Final
+- pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.4.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.5.Final
+- pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.5.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.6.Final
+- pkg:maven/org.jboss.resteasy/resteasy-stats@4.5.6.Final?classifier=sources

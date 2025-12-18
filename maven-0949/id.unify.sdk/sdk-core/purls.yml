@@ -1,2 +1,6 @@
 - pkg:maven/id.unify.sdk/sdk-core@1.0.0?classifier=sources
 - pkg:maven/id.unify.sdk/sdk-core@1.0.0?type=aar
+- pkg:maven/id.unify.sdk/sdk-core@1.1.0?classifier=sources
+- pkg:maven/id.unify.sdk/sdk-core@1.1.0?type=aar
+- pkg:maven/id.unify.sdk/sdk-core@1.2.0?classifier=sources
+- pkg:maven/id.unify.sdk/sdk-core@1.2.0?type=aar

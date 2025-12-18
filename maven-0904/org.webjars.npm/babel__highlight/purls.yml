@@ -1,5 +1,11 @@
 - pkg:maven/org.webjars.npm/babel__highlight@7.0.0
 - pkg:maven/org.webjars.npm/babel__highlight@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel__highlight@7.10.1
+- pkg:maven/org.webjars.npm/babel__highlight@7.10.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel__highlight@7.10.3
+- pkg:maven/org.webjars.npm/babel__highlight@7.10.3?classifier=sources
+- pkg:maven/org.webjars.npm/babel__highlight@7.10.4
+- pkg:maven/org.webjars.npm/babel__highlight@7.10.4?classifier=sources
 - pkg:maven/org.webjars.npm/babel__highlight@7.5.0
 - pkg:maven/org.webjars.npm/babel__highlight@7.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__highlight@7.8.0

@@ -3,3 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE120?classifier=sources

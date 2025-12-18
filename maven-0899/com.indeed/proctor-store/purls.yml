@@ -333,6 +333,10 @@
 - pkg:maven/com.indeed/proctor-store@1.9.30?classifier=sources
 - pkg:maven/com.indeed/proctor-store@1.9.32
 - pkg:maven/com.indeed/proctor-store@1.9.32?classifier=sources
+- pkg:maven/com.indeed/proctor-store@1.9.33
+- pkg:maven/com.indeed/proctor-store@1.9.33?classifier=sources
+- pkg:maven/com.indeed/proctor-store@1.9.37
+- pkg:maven/com.indeed/proctor-store@1.9.37?classifier=sources
 - pkg:maven/com.indeed/proctor-store@1.9.3?classifier=sources
 - pkg:maven/com.indeed/proctor-store@1.9.4
 - pkg:maven/com.indeed/proctor-store@1.9.4?classifier=sources

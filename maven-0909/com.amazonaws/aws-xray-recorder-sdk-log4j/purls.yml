@@ -2,3 +2,7 @@
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-log4j@2.4.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-log4j@2.5.0
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-log4j@2.5.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-log4j@2.6.0
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-log4j@2.6.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-log4j@2.6.1
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-log4j@2.6.1?classifier=sources

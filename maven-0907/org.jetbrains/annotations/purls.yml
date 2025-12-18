@@ -14,3 +14,5 @@
 - pkg:maven/org.jetbrains/annotations@18.0.0?classifier=sources
 - pkg:maven/org.jetbrains/annotations@19.0.0
 - pkg:maven/org.jetbrains/annotations@19.0.0?classifier=sources
+- pkg:maven/org.jetbrains/annotations@20.0.0
+- pkg:maven/org.jetbrains/annotations@20.0.0?classifier=sources

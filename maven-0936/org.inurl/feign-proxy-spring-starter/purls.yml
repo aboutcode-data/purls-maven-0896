@@ -1,0 +1,6 @@
+- pkg:maven/org.inurl/feign-proxy-spring-starter@2.1.15.RELEASE
+- pkg:maven/org.inurl/feign-proxy-spring-starter@2.1.15.RELEASE?classifier=sources
+- pkg:maven/org.inurl/feign-proxy-spring-starter@2.1.5.RELEASE
+- pkg:maven/org.inurl/feign-proxy-spring-starter@2.1.5.RELEASE?classifier=sources
+- pkg:maven/org.inurl/feign-proxy-spring-starter@2.2.5.RELEASE
+- pkg:maven/org.inurl/feign-proxy-spring-starter@2.2.5.RELEASE?classifier=sources

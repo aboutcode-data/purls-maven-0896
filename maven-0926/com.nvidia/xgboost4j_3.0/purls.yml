@@ -1,0 +1,2 @@
+- pkg:maven/com.nvidia/xgboost4j_3.0@1.0.0-0.1.0
+- pkg:maven/com.nvidia/xgboost4j_3.0@1.0.0-0.1.0?classifier=sources

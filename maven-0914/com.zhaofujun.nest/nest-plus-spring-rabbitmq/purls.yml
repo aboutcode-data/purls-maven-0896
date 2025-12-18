@@ -12,6 +12,12 @@
 - pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.15
 - pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.15?classifier=sources
 - pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.1?classifier=sources
+- pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.20
+- pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.20?classifier=sources
+- pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.21
+- pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.21?classifier=sources
+- pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.22
+- pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.22?classifier=sources
 - pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.4
 - pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.4?classifier=sources
 - pkg:maven/com.zhaofujun.nest/nest-plus-spring-rabbitmq@2.0.5

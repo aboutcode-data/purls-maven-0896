@@ -1,0 +1,4 @@
+- pkg:maven/org.bndly.common.service/org.bndly.common.service.model-api@1.0.0
+- pkg:maven/org.bndly.common.service/org.bndly.common.service.model-api@1.0.0?classifier=sources
+- pkg:maven/org.bndly.common.service/org.bndly.common.service.model-api@1.0.1
+- pkg:maven/org.bndly.common.service/org.bndly.common.service.model-api@1.0.1?classifier=sources

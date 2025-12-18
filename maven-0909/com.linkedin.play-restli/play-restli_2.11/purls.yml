@@ -50,7 +50,11 @@
 - pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.15
 - pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.15?classifier=sources
 - pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.16
+- pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.16%2B1-9acb82ce
+- pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.16%2B1-9acb82ce?classifier=sources
 - pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.16?classifier=sources
+- pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.17
+- pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.17?classifier=sources
 - pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.1?classifier=sources
 - pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.2
 - pkg:maven/com.linkedin.play-restli/play-restli_2.11@0.1.2%2B1-36b75fdc

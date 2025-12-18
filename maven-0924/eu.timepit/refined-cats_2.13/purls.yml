@@ -6,3 +6,5 @@
 - pkg:maven/eu.timepit/refined-cats_2.13@0.9.13?classifier=sources
 - pkg:maven/eu.timepit/refined-cats_2.13@0.9.14
 - pkg:maven/eu.timepit/refined-cats_2.13@0.9.14?classifier=sources
+- pkg:maven/eu.timepit/refined-cats_2.13@0.9.15
+- pkg:maven/eu.timepit/refined-cats_2.13@0.9.15?classifier=sources

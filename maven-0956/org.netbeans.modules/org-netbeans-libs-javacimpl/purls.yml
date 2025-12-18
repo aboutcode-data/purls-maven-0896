@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-javacimpl@RELEASE90?classifier=sources

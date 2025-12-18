@@ -20,6 +20,10 @@
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev20200225-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev20200225-1.30.9
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev20200225-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev20200708-1.30.10
+- pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev20200708-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev20200726-1.30.10
+- pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev20200726-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1-rev3-1.25.0
@@ -118,6 +122,8 @@
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev20200225-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev20200225-1.30.9
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev20200225-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev20200708-1.30.10
+- pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev20200708-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev24-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev24-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-accessapproval@v1beta1-rev24-1.25.0

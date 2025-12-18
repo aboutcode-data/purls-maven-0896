@@ -4,3 +4,5 @@
 - pkg:maven/net.guerlab.smart.message/smart-message-core@20.0.0?classifier=sources
 - pkg:maven/net.guerlab.smart.message/smart-message-core@20.0.2
 - pkg:maven/net.guerlab.smart.message/smart-message-core@20.0.2?classifier=sources
+- pkg:maven/net.guerlab.smart.message/smart-message-core@20.2.0
+- pkg:maven/net.guerlab.smart.message/smart-message-core@20.2.0?classifier=sources

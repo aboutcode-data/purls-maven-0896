@@ -62,3 +62,5 @@
 - pkg:maven/org.modelmapper.extensions/modelmapper-jooq@2.3.6?classifier=sources
 - pkg:maven/org.modelmapper.extensions/modelmapper-jooq@2.3.7
 - pkg:maven/org.modelmapper.extensions/modelmapper-jooq@2.3.7?classifier=sources
+- pkg:maven/org.modelmapper.extensions/modelmapper-jooq@2.3.8
+- pkg:maven/org.modelmapper.extensions/modelmapper-jooq@2.3.8?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/vaadin__vaadin-themable-mixin@1.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/vaadin__vaadin-themable-mixin@1.5.0-alpha2
 - pkg:maven/org.webjars.npm/vaadin__vaadin-themable-mixin@1.5.0-alpha2?classifier=sources
+- pkg:maven/org.webjars.npm/vaadin__vaadin-themable-mixin@1.6.1
+- pkg:maven/org.webjars.npm/vaadin__vaadin-themable-mixin@1.6.1?classifier=sources

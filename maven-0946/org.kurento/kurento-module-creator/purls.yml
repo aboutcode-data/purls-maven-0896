@@ -26,6 +26,8 @@
 - pkg:maven/org.kurento/kurento-module-creator@6.12.0?classifier=sources
 - pkg:maven/org.kurento/kurento-module-creator@6.13.0
 - pkg:maven/org.kurento/kurento-module-creator@6.13.0?classifier=sources
+- pkg:maven/org.kurento/kurento-module-creator@6.14.0
+- pkg:maven/org.kurento/kurento-module-creator@6.14.0?classifier=sources
 - pkg:maven/org.kurento/kurento-module-creator@6.7.0
 - pkg:maven/org.kurento/kurento-module-creator@6.7.0?classifier=sources
 - pkg:maven/org.kurento/kurento-module-creator@6.8.0

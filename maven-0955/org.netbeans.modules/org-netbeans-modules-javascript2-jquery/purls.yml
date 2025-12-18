@@ -3,3 +3,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE120?classifier=sources

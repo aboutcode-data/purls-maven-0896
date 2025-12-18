@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/scope-analyzer@2.0.5
 - pkg:maven/org.webjars.npm/scope-analyzer@2.0.5?classifier=sources
+- pkg:maven/org.webjars.npm/scope-analyzer@2.1.1
+- pkg:maven/org.webjars.npm/scope-analyzer@2.1.1?classifier=sources

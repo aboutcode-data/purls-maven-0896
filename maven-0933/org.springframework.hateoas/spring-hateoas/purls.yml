@@ -66,3 +66,5 @@
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.0.5.RELEASE?classifier=sources
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.0.RELEASE
 - pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.1.RELEASE
+- pkg:maven/org.springframework.hateoas/spring-hateoas@1.1.1.RELEASE?classifier=sources

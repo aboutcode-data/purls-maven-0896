@@ -2,5 +2,7 @@
 - pkg:maven/ru.tinkoff.recyclerviewpager/recyclerviewpager@1.0.10?type=aar
 - pkg:maven/ru.tinkoff.recyclerviewpager/recyclerviewpager@1.0.11?classifier=sources
 - pkg:maven/ru.tinkoff.recyclerviewpager/recyclerviewpager@1.0.11?type=aar
+- pkg:maven/ru.tinkoff.recyclerviewpager/recyclerviewpager@1.0.12?classifier=sources
+- pkg:maven/ru.tinkoff.recyclerviewpager/recyclerviewpager@1.0.12?type=aar
 - pkg:maven/ru.tinkoff.recyclerviewpager/recyclerviewpager@1.0.6?classifier=sources
 - pkg:maven/ru.tinkoff.recyclerviewpager/recyclerviewpager@1.0.6?type=aar

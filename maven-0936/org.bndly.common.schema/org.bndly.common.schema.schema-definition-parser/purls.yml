@@ -1,0 +1,4 @@
+- pkg:maven/org.bndly.common.schema/org.bndly.common.schema.schema-definition-parser@1.0.0
+- pkg:maven/org.bndly.common.schema/org.bndly.common.schema.schema-definition-parser@1.0.0?classifier=sources
+- pkg:maven/org.bndly.common.schema/org.bndly.common.schema.schema-definition-parser@1.0.1
+- pkg:maven/org.bndly.common.schema/org.bndly.common.schema.schema-definition-parser@1.0.1?classifier=sources

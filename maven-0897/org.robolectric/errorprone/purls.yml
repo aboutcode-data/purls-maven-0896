@@ -46,3 +46,15 @@
 - pkg:maven/org.robolectric/errorprone@4.3.1
 - pkg:maven/org.robolectric/errorprone@4.3.1?classifier=sources
 - pkg:maven/org.robolectric/errorprone@4.3?classifier=sources
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-1
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-1?classifier=sources
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-2
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-2?classifier=sources
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-3
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-3?classifier=sources
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-4
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-4?classifier=sources
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-5
+- pkg:maven/org.robolectric/errorprone@4.4-alpha-5?classifier=sources
+- pkg:maven/org.robolectric/errorprone@4.4-beta-1
+- pkg:maven/org.robolectric/errorprone@4.4-beta-1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/github-com-yairEO-tagify@2.9.0
 - pkg:maven/org.webjars.npm/github-com-yairEO-tagify@2.9.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-yairEO-tagify@3.10.2
+- pkg:maven/org.webjars.npm/github-com-yairEO-tagify@3.10.2?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-yairEO-tagify@3.11.3
+- pkg:maven/org.webjars.npm/github-com-yairEO-tagify@3.11.3?classifier=sources

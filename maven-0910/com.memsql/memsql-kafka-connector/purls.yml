@@ -1,0 +1,2 @@
+- pkg:maven/com.memsql/memsql-kafka-connector@0.0.1-beta1
+- pkg:maven/com.memsql/memsql-kafka-connector@0.0.1-beta1?classifier=sources

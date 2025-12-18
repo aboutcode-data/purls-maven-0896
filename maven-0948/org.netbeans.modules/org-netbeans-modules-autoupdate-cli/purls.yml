@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-cli@RELEASE90?classifier=sources

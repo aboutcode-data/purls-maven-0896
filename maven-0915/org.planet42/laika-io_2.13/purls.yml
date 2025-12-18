@@ -6,3 +6,5 @@
 - pkg:maven/org.planet42/laika-io_2.13@0.13.0?classifier=sources
 - pkg:maven/org.planet42/laika-io_2.13@0.14.0
 - pkg:maven/org.planet42/laika-io_2.13@0.14.0?classifier=sources
+- pkg:maven/org.planet42/laika-io_2.13@0.15.0
+- pkg:maven/org.planet42/laika-io_2.13@0.15.0?classifier=sources

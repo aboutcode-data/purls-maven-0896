@@ -292,10 +292,16 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.27.v20200227?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.28.v20200408
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.28.v20200408?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.29.v20200521
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.29.v20200521?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.3.v20170317
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.3.v20170317?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.3.v20180619
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.3.v20180619?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.30.v20200611
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.30.v20200611?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.31.v20200723
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.31.v20200723?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.4.v20170414
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.4.v20170414?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.4.v20180619

@@ -24,6 +24,10 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.10
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.11
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.12
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.13
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.14
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.15
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.16
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.2
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.3
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.4
@@ -32,3 +36,4 @@
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.7
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.8
 - pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.7.9
+- pkg:maven/org.codehaus.cargo/cargo-sample-maven2-tomcat6x-embedded-test@1.8.0

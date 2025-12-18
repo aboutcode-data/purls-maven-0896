@@ -2,3 +2,5 @@
 - pkg:maven/io.github.neurodyne/zio-aws-s3_2.12@0.0.0%2B48-ab0d9e95?classifier=sources
 - pkg:maven/io.github.neurodyne/zio-aws-s3_2.12@0.4.12
 - pkg:maven/io.github.neurodyne/zio-aws-s3_2.12@0.4.12?classifier=sources
+- pkg:maven/io.github.neurodyne/zio-aws-s3_2.12@0.4.13
+- pkg:maven/io.github.neurodyne/zio-aws-s3_2.12@0.4.13?classifier=sources

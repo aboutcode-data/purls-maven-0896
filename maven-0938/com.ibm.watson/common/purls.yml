@@ -32,3 +32,5 @@
 - pkg:maven/com.ibm.watson/common@8.3.1?classifier=sources
 - pkg:maven/com.ibm.watson/common@8.4.0
 - pkg:maven/com.ibm.watson/common@8.4.0?classifier=sources
+- pkg:maven/com.ibm.watson/common@8.5.0
+- pkg:maven/com.ibm.watson/common@8.5.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.requirementsascode/streaming-spring@0.0.1
+- pkg:maven/org.requirementsascode/streaming-spring@0.0.1?classifier=sources

@@ -6,6 +6,10 @@
 - pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1050?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1054
 - pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1054?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1060
+- pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1060?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1062
+- pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1062?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1063
 - pkg:maven/com.sdl.delivery/udp-iq-query-model@11.0.0-1063?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-iq-query-model@11.1.0-1054

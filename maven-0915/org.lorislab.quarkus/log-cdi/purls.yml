@@ -1,0 +1,6 @@
+- pkg:maven/org.lorislab.quarkus/log-cdi@0.1.0
+- pkg:maven/org.lorislab.quarkus/log-cdi@0.1.0?classifier=sources
+- pkg:maven/org.lorislab.quarkus/log-cdi@0.2.0
+- pkg:maven/org.lorislab.quarkus/log-cdi@0.2.0?classifier=sources
+- pkg:maven/org.lorislab.quarkus/log-cdi@0.3.0
+- pkg:maven/org.lorislab.quarkus/log-cdi@0.3.0?classifier=sources

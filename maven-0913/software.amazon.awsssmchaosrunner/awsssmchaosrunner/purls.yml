@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awsssmchaosrunner/awsssmchaosrunner@1.0.0
+- pkg:maven/software.amazon.awsssmchaosrunner/awsssmchaosrunner@1.0.0?classifier=sources
+- pkg:maven/software.amazon.awsssmchaosrunner/awsssmchaosrunner@1.1.0
+- pkg:maven/software.amazon.awsssmchaosrunner/awsssmchaosrunner@1.1.0?classifier=sources
+- pkg:maven/software.amazon.awsssmchaosrunner/awsssmchaosrunner@1.2.0
+- pkg:maven/software.amazon.awsssmchaosrunner/awsssmchaosrunner@1.2.0?classifier=sources

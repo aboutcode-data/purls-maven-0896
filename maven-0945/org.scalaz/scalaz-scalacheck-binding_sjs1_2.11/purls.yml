@@ -4,3 +4,7 @@
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs1_2.11@7.3.0-M32
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs1_2.11@7.3.0-M32?classifier=sources
 - pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs1_2.11@7.3.0?classifier=sources
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs1_2.11@7.3.1
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs1_2.11@7.3.1?classifier=sources
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs1_2.11@7.3.2
+- pkg:maven/org.scalaz/scalaz-scalacheck-binding_sjs1_2.11@7.3.2?classifier=sources

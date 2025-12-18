@@ -6,3 +6,4 @@
 - pkg:maven/com.airbnb/deeplinkdispatch-base@5.0.0-beta01?classifier=sources
 - pkg:maven/com.airbnb/deeplinkdispatch-base@5.1.0
 - pkg:maven/com.airbnb/deeplinkdispatch-base@5.1.0?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch-base@5.2.0?classifier=sources

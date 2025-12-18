@@ -104,3 +104,5 @@
 - pkg:maven/org.jboss.errai/errai-security-picketlink@4.6.0.Final?classifier=sources
 - pkg:maven/org.jboss.errai/errai-security-picketlink@4.7.0.Final
 - pkg:maven/org.jboss.errai/errai-security-picketlink@4.7.0.Final?classifier=sources
+- pkg:maven/org.jboss.errai/errai-security-picketlink@4.8.0.Final
+- pkg:maven/org.jboss.errai/errai-security-picketlink@4.8.0.Final?classifier=sources

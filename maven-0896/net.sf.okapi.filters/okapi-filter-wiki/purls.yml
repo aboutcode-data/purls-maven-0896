@@ -8,3 +8,5 @@
 - pkg:maven/net.sf.okapi.filters/okapi-filter-wiki@0.38?classifier=sources
 - pkg:maven/net.sf.okapi.filters/okapi-filter-wiki@1.39.0
 - pkg:maven/net.sf.okapi.filters/okapi-filter-wiki@1.39.0?classifier=sources
+- pkg:maven/net.sf.okapi.filters/okapi-filter-wiki@1.40.0
+- pkg:maven/net.sf.okapi.filters/okapi-filter-wiki@1.40.0?classifier=sources

@@ -134,6 +134,8 @@
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.30.1
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.30.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.30?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.31
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.31?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.3?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.4
@@ -166,3 +168,5 @@
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.9.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.9?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@2.9?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@3.0.0-M6
+- pkg:maven/org.glassfish.jersey.examples/entity-filtering-security@3.0.0-M6?classifier=sources

@@ -256,6 +256,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20200411-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20200512-1.30.9
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20200512-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20200721-1.30.10
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20200721-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20200803-1.30.10
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev20200803-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1-rev21-1.21.0
@@ -1094,6 +1098,10 @@
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20200504-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20200512-1.30.9
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20200512-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20200721-1.30.10
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20200721-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20200803-1.30.10
+- pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev20200803-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudshell@v1alpha1-rev21-1.21.0

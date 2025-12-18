@@ -52,3 +52,5 @@
 - pkg:maven/org.eclipse.tycho/tycho-testing-harness@1.6.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-testing-harness@1.7.0
 - pkg:maven/org.eclipse.tycho/tycho-testing-harness@1.7.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-testing-harness@2.0.0
+- pkg:maven/org.eclipse.tycho/tycho-testing-harness@2.0.0?classifier=sources

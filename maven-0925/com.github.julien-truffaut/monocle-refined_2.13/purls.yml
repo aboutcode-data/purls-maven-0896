@@ -20,3 +20,5 @@
 - pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@2.0.3?classifier=sources
 - pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@2.0.4
 - pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@2.0.4?classifier=sources
+- pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@2.0.5
+- pkg:maven/com.github.julien-truffaut/monocle-refined_2.13@2.0.5?classifier=sources

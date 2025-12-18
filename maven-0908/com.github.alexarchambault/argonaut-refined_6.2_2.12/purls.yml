@@ -1,3 +1,4 @@
+- pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0
 - pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0-M10
 - pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0-M10?classifier=sources
 - pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0-M11
@@ -16,3 +17,4 @@
 - pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0-M8?classifier=sources
 - pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0-M9
 - pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0-M9?classifier=sources
+- pkg:maven/com.github.alexarchambault/argonaut-refined_6.2_2.12@1.2.0?classifier=sources

@@ -70,3 +70,11 @@
 - pkg:maven/com.feingto/feingto-rpc@2.4.2.RELEASE?classifier=sources
 - pkg:maven/com.feingto/feingto-rpc@2.4.3.RELEASE
 - pkg:maven/com.feingto/feingto-rpc@2.4.3.RELEASE?classifier=sources
+- pkg:maven/com.feingto/feingto-rpc@2.4.5.RELEASE
+- pkg:maven/com.feingto/feingto-rpc@2.4.5.RELEASE?classifier=sources
+- pkg:maven/com.feingto/feingto-rpc@2.4.6.RELEASE
+- pkg:maven/com.feingto/feingto-rpc@2.4.6.RELEASE?classifier=sources
+- pkg:maven/com.feingto/feingto-rpc@2.4.7.RELEASE
+- pkg:maven/com.feingto/feingto-rpc@2.4.7.RELEASE?classifier=sources
+- pkg:maven/com.feingto/feingto-rpc@2.4.8.RELEASE
+- pkg:maven/com.feingto/feingto-rpc@2.4.8.RELEASE?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/xyz.xiezc/xorm@1.0
 - pkg:maven/xyz.xiezc/xorm@1.0?classifier=sources
+- pkg:maven/xyz.xiezc/xorm@2.0
+- pkg:maven/xyz.xiezc/xorm@2.0?classifier=sources
+- pkg:maven/xyz.xiezc/xorm@2.1
+- pkg:maven/xyz.xiezc/xorm@2.1?classifier=sources
+- pkg:maven/xyz.xiezc/xorm@2.2
+- pkg:maven/xyz.xiezc/xorm@2.2?classifier=sources
+- pkg:maven/xyz.xiezc/xorm@2.3
+- pkg:maven/xyz.xiezc/xorm@2.3?classifier=sources

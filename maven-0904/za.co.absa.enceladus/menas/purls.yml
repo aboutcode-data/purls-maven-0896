@@ -2,6 +2,14 @@
 - pkg:maven/za.co.absa.enceladus/menas@2.0.0?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.1.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/menas@2.1.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.10.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.10.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.10.1?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.10.1?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.10.2?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.10.2?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.11.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.11.0?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.2.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/menas@2.2.0?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.3.0?classifier=sources
@@ -12,3 +20,11 @@
 - pkg:maven/za.co.absa.enceladus/menas@2.4.0?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.5.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/menas@2.5.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.6.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.6.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.7.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.7.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.8.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.8.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.9.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.9.0?type=war

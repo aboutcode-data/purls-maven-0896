@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.karaf.decanter.marshaller/org.apache.karaf.decanter.marshaller.raw@2.3.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.marshaller/org.apache.karaf.decanter.marshaller.raw@2.4.0
 - pkg:maven/org.apache.karaf.decanter.marshaller/org.apache.karaf.decanter.marshaller.raw@2.4.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.marshaller/org.apache.karaf.decanter.marshaller.raw@2.5.0
+- pkg:maven/org.apache.karaf.decanter.marshaller/org.apache.karaf.decanter.marshaller.raw@2.5.0?classifier=sources

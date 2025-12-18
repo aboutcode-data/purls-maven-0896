@@ -132,6 +132,9 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.51
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.51?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.service@2.0.52
+- pkg:maven/com.liferay/com.liferay.contacts.service@2.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@2.0.52?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.6
 - pkg:maven/com.liferay/com.liferay.contacts.service@2.0.6?classifier=sources
@@ -193,6 +196,9 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.25
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.service@3.0.26
+- pkg:maven/com.liferay/com.liferay.contacts.service@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@3.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.3
@@ -253,6 +259,9 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.2
+- pkg:maven/com.liferay/com.liferay.contacts.service@4.0.20
+- pkg:maven/com.liferay/com.liferay.contacts.service@4.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@4.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.3
@@ -277,6 +286,9 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@5.0.1
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.10
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@5.0.2
@@ -297,3 +309,9 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@5.0.7
 - pkg:maven/com.liferay/com.liferay.contacts.service@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@5.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.8
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.9
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@5.0.9?classifier=sources-commercial

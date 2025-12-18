@@ -38,6 +38,14 @@
 - pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.119.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.120.0
 - pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.120.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.122.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.122.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.123.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.123.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.124.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.124.0?classifier=sources
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.125.0
+- pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.125.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.60.0
 - pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.60.0?classifier=sources
 - pkg:maven/org.finra.herd/herd-retention-expiration-destroyer@0.61.0

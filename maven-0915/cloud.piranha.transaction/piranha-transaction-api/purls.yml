@@ -2,3 +2,7 @@
 - pkg:maven/cloud.piranha.transaction/piranha-transaction-api@20.4.0?classifier=sources
 - pkg:maven/cloud.piranha.transaction/piranha-transaction-api@20.5.0
 - pkg:maven/cloud.piranha.transaction/piranha-transaction-api@20.5.0?classifier=sources
+- pkg:maven/cloud.piranha.transaction/piranha-transaction-api@20.6.0
+- pkg:maven/cloud.piranha.transaction/piranha-transaction-api@20.6.0?classifier=sources
+- pkg:maven/cloud.piranha.transaction/piranha-transaction-api@20.7.0
+- pkg:maven/cloud.piranha.transaction/piranha-transaction-api@20.7.0?classifier=sources

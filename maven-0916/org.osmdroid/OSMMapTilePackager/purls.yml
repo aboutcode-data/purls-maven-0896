@@ -38,3 +38,7 @@
 - pkg:maven/org.osmdroid/OSMMapTilePackager@6.1.5?type=zip
 - pkg:maven/org.osmdroid/OSMMapTilePackager@6.1.6?classifier=sources
 - pkg:maven/org.osmdroid/OSMMapTilePackager@6.1.6?type=zip
+- pkg:maven/org.osmdroid/OSMMapTilePackager@6.1.7?classifier=sources
+- pkg:maven/org.osmdroid/OSMMapTilePackager@6.1.7?type=zip
+- pkg:maven/org.osmdroid/OSMMapTilePackager@6.1.8?classifier=sources
+- pkg:maven/org.osmdroid/OSMMapTilePackager@6.1.8?type=zip

@@ -16,6 +16,8 @@
 - pkg:maven/com.fizzed/ninja-rocker-module@0.15.0?classifier=sources
 - pkg:maven/com.fizzed/ninja-rocker-module@0.16.0
 - pkg:maven/com.fizzed/ninja-rocker-module@0.16.0?classifier=sources
+- pkg:maven/com.fizzed/ninja-rocker-module@0.20.0
+- pkg:maven/com.fizzed/ninja-rocker-module@0.20.0?classifier=sources
 - pkg:maven/com.fizzed/ninja-rocker-module@0.9.0
 - pkg:maven/com.fizzed/ninja-rocker-module@0.9.0?classifier=sources
 - pkg:maven/com.fizzed/ninja-rocker-module@0.9.1

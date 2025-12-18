@@ -8,3 +8,5 @@
 - pkg:maven/de.datasecs/hydra-server@1.5.0?classifier=sources
 - pkg:maven/de.datasecs/hydra-server@1.6.0
 - pkg:maven/de.datasecs/hydra-server@1.6.0?classifier=sources
+- pkg:maven/de.datasecs/hydra-server@1.6.5
+- pkg:maven/de.datasecs/hydra-server@1.6.5?classifier=sources

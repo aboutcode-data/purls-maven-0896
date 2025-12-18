@@ -1,5 +1,7 @@
 - pkg:maven/com.malliina/play-social_2.13@5.10.0
 - pkg:maven/com.malliina/play-social_2.13@5.10.0?classifier=sources
+- pkg:maven/com.malliina/play-social_2.13@5.11.0
+- pkg:maven/com.malliina/play-social_2.13@5.11.0?classifier=sources
 - pkg:maven/com.malliina/play-social_2.13@5.2.1
 - pkg:maven/com.malliina/play-social_2.13@5.2.1?classifier=sources
 - pkg:maven/com.malliina/play-social_2.13@5.2.3
