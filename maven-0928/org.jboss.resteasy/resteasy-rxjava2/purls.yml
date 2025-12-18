@@ -10,6 +10,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.11.3.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.11.4.Final
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.11.4.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.11.5.Final
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.11.5.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.12.0.Final
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.12.0.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.12.1.Final
@@ -28,6 +30,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.15.0.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.15.1.Final
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.15.1.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.15.2.Final
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.15.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.5.0.CR1
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.5.0.CR1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@3.5.0.CR2
@@ -194,5 +198,11 @@
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@4.7.0.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@4.7.1.Final
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@4.7.1.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@4.7.2.Final
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@4.7.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@5.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy/resteasy-rxjava2@5.0.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@5.0.0.Beta1
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@5.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@5.0.0.Beta2
+- pkg:maven/org.jboss.resteasy/resteasy-rxjava2@5.0.0.Beta2?classifier=sources

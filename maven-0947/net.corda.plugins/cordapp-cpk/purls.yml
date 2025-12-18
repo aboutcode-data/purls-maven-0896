@@ -1,0 +1,2 @@
+- pkg:maven/net.corda.plugins/cordapp-cpk@6.0.0-DevPreview
+- pkg:maven/net.corda.plugins/cordapp-cpk@6.0.0-DevPreview?classifier=sources

@@ -18,6 +18,10 @@
 - pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.12?classifier=sources
 - pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.13
 - pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.13?classifier=sources
+- pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.14
+- pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.14?classifier=sources
+- pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.15
+- pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.15?classifier=sources
 - pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.3
 - pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.3?classifier=sources
 - pkg:maven/com.chatwork/akka-guard-core_2.11@1.6.6

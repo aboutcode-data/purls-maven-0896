@@ -2,3 +2,5 @@
 - pkg:maven/com.wizzdi/product-service@3.4.0?classifier=sources
 - pkg:maven/com.wizzdi/product-service@3.4.1
 - pkg:maven/com.wizzdi/product-service@3.4.1?classifier=sources
+- pkg:maven/com.wizzdi/product-service@5.0.0
+- pkg:maven/com.wizzdi/product-service@5.0.0?classifier=sources

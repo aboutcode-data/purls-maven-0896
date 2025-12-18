@@ -1,2 +1,4 @@
 - pkg:maven/org.beangle.security/beangle-security-web_3@4.2.30
 - pkg:maven/org.beangle.security/beangle-security-web_3@4.2.30?classifier=sources
+- pkg:maven/org.beangle.security/beangle-security-web_3@4.2.31
+- pkg:maven/org.beangle.security/beangle-security-web_3@4.2.31?classifier=sources

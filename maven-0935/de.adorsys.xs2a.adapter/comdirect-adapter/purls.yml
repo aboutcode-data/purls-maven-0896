@@ -29,6 +29,10 @@
 - pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.13?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.14
 - pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.14?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.15
+- pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.15?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.16
+- pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.16?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.1?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.2
 - pkg:maven/de.adorsys.xs2a.adapter/comdirect-adapter@0.1.2?classifier=sources

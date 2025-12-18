@@ -1,3 +1,9 @@
+- pkg:maven/org.nasdanika.html/emf@2021.10.0
+- pkg:maven/org.nasdanika.html/emf@2021.10.0?classifier=sources
+- pkg:maven/org.nasdanika.html/emf@2021.10.1
+- pkg:maven/org.nasdanika.html/emf@2021.10.1?classifier=sources
+- pkg:maven/org.nasdanika.html/emf@2021.10.2
+- pkg:maven/org.nasdanika.html/emf@2021.10.2?classifier=sources
 - pkg:maven/org.nasdanika.html/emf@2021.2.0
 - pkg:maven/org.nasdanika.html/emf@2021.2.0?classifier=sources
 - pkg:maven/org.nasdanika.html/emf@2021.2.1
@@ -62,3 +68,5 @@
 - pkg:maven/org.nasdanika.html/emf@2021.7.2?classifier=sources
 - pkg:maven/org.nasdanika.html/emf@2021.7.3
 - pkg:maven/org.nasdanika.html/emf@2021.7.3?classifier=sources
+- pkg:maven/org.nasdanika.html/emf@2021.9.0
+- pkg:maven/org.nasdanika.html/emf@2021.9.0?classifier=sources

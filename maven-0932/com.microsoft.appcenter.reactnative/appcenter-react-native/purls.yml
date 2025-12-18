@@ -74,3 +74,5 @@
 - pkg:maven/com.microsoft.appcenter.reactnative/appcenter-react-native@4.1.0?type=aar
 - pkg:maven/com.microsoft.appcenter.reactnative/appcenter-react-native@4.2.0?classifier=sources
 - pkg:maven/com.microsoft.appcenter.reactnative/appcenter-react-native@4.2.0?type=aar
+- pkg:maven/com.microsoft.appcenter.reactnative/appcenter-react-native@4.3.1?classifier=sources
+- pkg:maven/com.microsoft.appcenter.reactnative/appcenter-react-native@4.3.1?type=aar

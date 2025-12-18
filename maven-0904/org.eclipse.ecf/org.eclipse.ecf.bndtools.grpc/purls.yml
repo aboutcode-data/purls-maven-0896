@@ -3,3 +3,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.bndtools.grpc@1.0.3?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.bndtools.grpc@1.0.4?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.bndtools.grpc@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.bndtools.grpc@1.2.1?classifier=sources

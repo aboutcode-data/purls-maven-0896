@@ -6,3 +6,5 @@
 - pkg:maven/fun.fengwk.convention/convention-spring-boot-starter-rest@0.0.3?classifier=sources
 - pkg:maven/fun.fengwk.convention/convention-spring-boot-starter-rest@0.0.4
 - pkg:maven/fun.fengwk.convention/convention-spring-boot-starter-rest@0.0.4?classifier=sources
+- pkg:maven/fun.fengwk.convention/convention-spring-boot-starter-rest@0.0.7
+- pkg:maven/fun.fengwk.convention/convention-spring-boot-starter-rest@0.0.7?classifier=sources

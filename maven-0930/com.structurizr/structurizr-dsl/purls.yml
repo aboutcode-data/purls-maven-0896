@@ -4,3 +4,11 @@
 - pkg:maven/com.structurizr/structurizr-dsl@1.11.0?classifier=sources
 - pkg:maven/com.structurizr/structurizr-dsl@1.12.0
 - pkg:maven/com.structurizr/structurizr-dsl@1.12.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-dsl@1.13.0
+- pkg:maven/com.structurizr/structurizr-dsl@1.13.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-dsl@1.13.1
+- pkg:maven/com.structurizr/structurizr-dsl@1.13.1?classifier=sources
+- pkg:maven/com.structurizr/structurizr-dsl@1.14.0
+- pkg:maven/com.structurizr/structurizr-dsl@1.14.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-dsl@1.15.0
+- pkg:maven/com.structurizr/structurizr-dsl@1.15.0?classifier=sources

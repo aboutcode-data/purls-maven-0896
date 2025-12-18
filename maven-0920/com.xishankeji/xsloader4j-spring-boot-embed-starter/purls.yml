@@ -35,6 +35,8 @@
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.0
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.0?classifier=sources
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.1
+- pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.108
+- pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.108?classifier=sources
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.19
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.19?classifier=sources
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.1?classifier=sources

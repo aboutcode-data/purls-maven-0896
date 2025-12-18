@@ -3,6 +3,8 @@
 - pkg:maven/com.sflpro.notifier/api-client-library@1.1
 - pkg:maven/com.sflpro.notifier/api-client-library@1.10.0
 - pkg:maven/com.sflpro.notifier/api-client-library@1.10.0?classifier=sources
+- pkg:maven/com.sflpro.notifier/api-client-library@1.10.1
+- pkg:maven/com.sflpro.notifier/api-client-library@1.10.1?classifier=sources
 - pkg:maven/com.sflpro.notifier/api-client-library@1.1?classifier=sources
 - pkg:maven/com.sflpro.notifier/api-client-library@1.2
 - pkg:maven/com.sflpro.notifier/api-client-library@1.2?classifier=sources

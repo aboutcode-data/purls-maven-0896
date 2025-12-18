@@ -20,3 +20,5 @@
 - pkg:maven/com.kasinf/ks-boot-gt3@1.2.5.RELEASE?classifier=sources
 - pkg:maven/com.kasinf/ks-boot-gt3@1.3.0
 - pkg:maven/com.kasinf/ks-boot-gt3@1.3.0?classifier=sources
+- pkg:maven/com.kasinf/ks-boot-gt3@1.4.0
+- pkg:maven/com.kasinf/ks-boot-gt3@1.4.0?classifier=sources

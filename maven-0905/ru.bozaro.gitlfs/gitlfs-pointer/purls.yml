@@ -27,6 +27,7 @@
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-pointer@0.16.0
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-pointer@0.16.0?classifier=sources
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-pointer@0.17.0?classifier=sources
+- pkg:maven/ru.bozaro.gitlfs/gitlfs-pointer@0.18.4?classifier=sources
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-pointer@0.2.0
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-pointer@0.2.0?classifier=sources
 - pkg:maven/ru.bozaro.gitlfs/gitlfs-pointer@0.3.0

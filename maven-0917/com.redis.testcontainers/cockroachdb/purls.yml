@@ -1,0 +1,1 @@
+- pkg:maven/com.redis.testcontainers/cockroachdb@1.15.3?classifier=sources

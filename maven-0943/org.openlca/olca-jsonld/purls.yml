@@ -1,0 +1,2 @@
+- pkg:maven/org.openlca/olca-jsonld@1.11.0
+- pkg:maven/org.openlca/olca-jsonld@1.11.0?classifier=sources

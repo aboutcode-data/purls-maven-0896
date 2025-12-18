@@ -1,0 +1,4 @@
+- pkg:maven/org.fomkin/korolev-zio-http_3@1.0.0
+- pkg:maven/org.fomkin/korolev-zio-http_3@1.0.0?classifier=sources
+- pkg:maven/org.fomkin/korolev-zio-http_3@1.0.1
+- pkg:maven/org.fomkin/korolev-zio-http_3@1.0.1?classifier=sources

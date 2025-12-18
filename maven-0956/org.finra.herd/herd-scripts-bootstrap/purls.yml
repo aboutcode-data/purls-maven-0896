@@ -36,6 +36,7 @@
 - pkg:maven/org.finra.herd/herd-scripts-bootstrap@0.150.0
 - pkg:maven/org.finra.herd/herd-scripts-bootstrap@0.152.0
 - pkg:maven/org.finra.herd/herd-scripts-bootstrap@0.154.0
+- pkg:maven/org.finra.herd/herd-scripts-bootstrap@0.155.0
 - pkg:maven/org.finra.herd/herd-scripts-bootstrap@0.20.0
 - pkg:maven/org.finra.herd/herd-scripts-bootstrap@0.21.0
 - pkg:maven/org.finra.herd/herd-scripts-bootstrap@0.22.0

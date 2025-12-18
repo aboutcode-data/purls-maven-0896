@@ -185,3 +185,4 @@
 - pkg:maven/org.mockito/mockito-android@3.8.0?classifier=sources
 - pkg:maven/org.mockito/mockito-android@3.9.0
 - pkg:maven/org.mockito/mockito-android@3.9.0?classifier=sources
+- pkg:maven/org.mockito/mockito-android@4.0.0?classifier=sources

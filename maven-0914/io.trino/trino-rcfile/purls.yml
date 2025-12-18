@@ -20,3 +20,7 @@
 - pkg:maven/io.trino/trino-rcfile@360?classifier=sources
 - pkg:maven/io.trino/trino-rcfile@361
 - pkg:maven/io.trino/trino-rcfile@361?classifier=sources
+- pkg:maven/io.trino/trino-rcfile@362
+- pkg:maven/io.trino/trino-rcfile@362?classifier=sources
+- pkg:maven/io.trino/trino-rcfile@363
+- pkg:maven/io.trino/trino-rcfile@363?classifier=sources

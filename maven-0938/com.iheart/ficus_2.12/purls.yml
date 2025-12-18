@@ -20,3 +20,5 @@
 - pkg:maven/com.iheart/ficus_2.12@1.4.7?classifier=sources
 - pkg:maven/com.iheart/ficus_2.12@1.5.0
 - pkg:maven/com.iheart/ficus_2.12@1.5.0?classifier=sources
+- pkg:maven/com.iheart/ficus_2.12@1.5.1
+- pkg:maven/com.iheart/ficus_2.12@1.5.1?classifier=sources

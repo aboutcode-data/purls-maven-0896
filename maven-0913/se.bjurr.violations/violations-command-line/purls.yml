@@ -3,6 +3,7 @@
 - pkg:maven/se.bjurr.violations/violations-command-line@1.17.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.18.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.18.1?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-command-line@1.19.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.5
 - pkg:maven/se.bjurr.violations/violations-command-line@1.5?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.7

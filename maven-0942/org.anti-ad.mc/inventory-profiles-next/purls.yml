@@ -1,0 +1,8 @@
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@fabric-1.16.5-1.1.0?classifier=sources
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@fabric-1.16.5-1.1.1?classifier=sources
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@fabric-1.17.1-1.1.0?classifier=sources
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@fabric-1.17.1-1.1.1?classifier=sources
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@forge-1.16.5-1.1.0?classifier=sources
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@forge-1.16.5-1.1.1?classifier=sources
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@forge-1.17.1-1.1.0?classifier=sources
+- pkg:maven/org.anti-ad.mc/inventory-profiles-next@forge-1.17.1-1.1.1?classifier=sources

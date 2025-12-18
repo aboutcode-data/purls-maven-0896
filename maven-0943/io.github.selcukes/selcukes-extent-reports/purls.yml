@@ -3,3 +3,7 @@
 - pkg:maven/io.github.selcukes/selcukes-extent-reports@0.0.7
 - pkg:maven/io.github.selcukes/selcukes-extent-reports@1.0.0
 - pkg:maven/io.github.selcukes/selcukes-extent-reports@1.1.0
+- pkg:maven/io.github.selcukes/selcukes-extent-reports@1.4.0
+- pkg:maven/io.github.selcukes/selcukes-extent-reports@1.4.0?classifier=sources
+- pkg:maven/io.github.selcukes/selcukes-extent-reports@1.4.1
+- pkg:maven/io.github.selcukes/selcukes-extent-reports@1.4.1?classifier=sources

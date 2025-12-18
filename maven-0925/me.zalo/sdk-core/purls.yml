@@ -12,3 +12,13 @@
 - pkg:maven/me.zalo/sdk-core@2.6.0808R?type=aar
 - pkg:maven/me.zalo/sdk-core@2.6.0809?classifier=sources
 - pkg:maven/me.zalo/sdk-core@2.6.0809?type=aar
+- pkg:maven/me.zalo/sdk-core@4.0.1014?classifier=sources
+- pkg:maven/me.zalo/sdk-core@4.0.1014?type=aar
+- pkg:maven/me.zalo/sdk-core@4.0.1014test1?classifier=sources
+- pkg:maven/me.zalo/sdk-core@4.0.1014test1?type=aar
+- pkg:maven/me.zalo/sdk-core@4.0.1014test2?classifier=sources
+- pkg:maven/me.zalo/sdk-core@4.0.1014test2?type=aar
+- pkg:maven/me.zalo/sdk-core@4.0.1014test3?classifier=sources
+- pkg:maven/me.zalo/sdk-core@4.0.1014test3?type=aar
+- pkg:maven/me.zalo/sdk-core@4.0.1015?classifier=sources
+- pkg:maven/me.zalo/sdk-core@4.0.1015?type=aar

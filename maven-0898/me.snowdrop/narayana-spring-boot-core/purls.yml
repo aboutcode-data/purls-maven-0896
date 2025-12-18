@@ -40,3 +40,9 @@
 - pkg:maven/me.snowdrop/narayana-spring-boot-core@2.5.3?classifier=sources
 - pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.0
 - pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.0?classifier=sources
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.1
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.1.Alpha2
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.1.Alpha2?classifier=sources
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.1.Beta4
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.1.Beta4?classifier=sources
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.1?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/com.netflix.genie/genie-swagger@4.0.0-rc.97?classifier=sources
 - pkg:maven/com.netflix.genie/genie-swagger@4.0.0-rc.98?classifier=sources
 - pkg:maven/com.netflix.genie/genie-swagger@4.0.0?classifier=sources
+- pkg:maven/com.netflix.genie/genie-swagger@4.0.1?classifier=sources
+- pkg:maven/com.netflix.genie/genie-swagger@4.0.2?classifier=sources

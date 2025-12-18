@@ -8,6 +8,8 @@
 - pkg:maven/eu.benschroeder/mockito-extension@3.11.2?classifier=sources
 - pkg:maven/eu.benschroeder/mockito-extension@3.12.0
 - pkg:maven/eu.benschroeder/mockito-extension@3.12.0?classifier=sources
+- pkg:maven/eu.benschroeder/mockito-extension@3.12.4
+- pkg:maven/eu.benschroeder/mockito-extension@3.12.4?classifier=sources
 - pkg:maven/eu.benschroeder/mockito-extension@3.2.4
 - pkg:maven/eu.benschroeder/mockito-extension@3.2.4?classifier=sources
 - pkg:maven/eu.benschroeder/mockito-extension@3.3.0

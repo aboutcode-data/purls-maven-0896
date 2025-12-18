@@ -82,3 +82,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-base@5.4.2?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-base@5.5.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-base@5.5.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-base@5.5.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-base@5.5.1?classifier=sources

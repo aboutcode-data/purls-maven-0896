@@ -4,3 +4,4 @@
 - pkg:maven/com.tink/rest@0.6.4?classifier=sources
 - pkg:maven/com.tink/rest@0.6.5?classifier=sources
 - pkg:maven/com.tink/rest@0.6.6?classifier=sources
+- pkg:maven/com.tink/rest@0.6.7?classifier=sources

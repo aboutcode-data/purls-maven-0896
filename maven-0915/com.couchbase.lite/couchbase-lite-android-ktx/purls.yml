@@ -1,0 +1,2 @@
+- pkg:maven/com.couchbase.lite/couchbase-lite-android-ktx@3.0.0-beta01?classifier=sources
+- pkg:maven/com.couchbase.lite/couchbase-lite-android-ktx@3.0.0-beta01?type=aar

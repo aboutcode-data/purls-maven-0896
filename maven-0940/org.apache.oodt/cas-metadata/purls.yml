@@ -39,4 +39,6 @@
 - pkg:maven/org.apache.oodt/cas-metadata@1.2.5?classifier=sources
 - pkg:maven/org.apache.oodt/cas-metadata@1.2?classifier=sources
 - pkg:maven/org.apache.oodt/cas-metadata@1.9
+- pkg:maven/org.apache.oodt/cas-metadata@1.9.1
+- pkg:maven/org.apache.oodt/cas-metadata@1.9.1?classifier=sources
 - pkg:maven/org.apache.oodt/cas-metadata@1.9?classifier=sources

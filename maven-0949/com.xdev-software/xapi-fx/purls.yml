@@ -1,0 +1,6 @@
+- pkg:maven/com.xdev-software/xapi-fx@6.0.1-java11
+- pkg:maven/com.xdev-software/xapi-fx@6.0.1-java11?classifier=sources
+- pkg:maven/com.xdev-software/xapi-fx@6.0.1-java17
+- pkg:maven/com.xdev-software/xapi-fx@6.0.1-java17?classifier=sources
+- pkg:maven/com.xdev-software/xapi-fx@6.0.1-java8
+- pkg:maven/com.xdev-software/xapi-fx@6.0.1-java8?classifier=sources

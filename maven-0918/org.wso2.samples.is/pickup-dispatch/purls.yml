@@ -20,3 +20,5 @@
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.5?type=war
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.6?classifier=sources
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.6?type=war
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.7?classifier=sources
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.7?type=war

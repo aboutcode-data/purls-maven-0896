@@ -1,0 +1,4 @@
+- pkg:maven/com.myadsget/mediation-facebook@6.5.1.0-alpha?classifier=sources
+- pkg:maven/com.myadsget/mediation-facebook@6.5.1.0-beta?classifier=sources
+- pkg:maven/com.myadsget/mediation-facebook@6.5.1.0?classifier=sources
+- pkg:maven/com.myadsget/mediation-facebook@6.5.1.1-beta?classifier=sources

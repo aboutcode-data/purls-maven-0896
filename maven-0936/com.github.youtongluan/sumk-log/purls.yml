@@ -122,3 +122,5 @@
 - pkg:maven/com.github.youtongluan/sumk-log@2.9.8?classifier=sources
 - pkg:maven/com.github.youtongluan/sumk-log@2.9.9
 - pkg:maven/com.github.youtongluan/sumk-log@2.9.9?classifier=sources
+- pkg:maven/com.github.youtongluan/sumk-log@3.0.0
+- pkg:maven/com.github.youtongluan/sumk-log@3.0.0?classifier=sources

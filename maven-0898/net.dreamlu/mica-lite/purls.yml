@@ -1,5 +1,6 @@
 - pkg:maven/net.dreamlu/mica-lite@2.4.10
 - pkg:maven/net.dreamlu/mica-lite@2.4.10?classifier=sources
+- pkg:maven/net.dreamlu/mica-lite@2.4.11?classifier=sources
 - pkg:maven/net.dreamlu/mica-lite@2.4.5
 - pkg:maven/net.dreamlu/mica-lite@2.4.5?classifier=sources
 - pkg:maven/net.dreamlu/mica-lite@2.4.6
@@ -24,3 +25,4 @@
 - pkg:maven/net.dreamlu/mica-lite@2.5.3?classifier=sources
 - pkg:maven/net.dreamlu/mica-lite@2.5.4
 - pkg:maven/net.dreamlu/mica-lite@2.5.4?classifier=sources
+- pkg:maven/net.dreamlu/mica-lite@2.5.5?classifier=sources

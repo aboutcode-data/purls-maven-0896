@@ -1,0 +1,2 @@
+- pkg:maven/pub.doric.extension/webview@0.1.2?classifier=sources
+- pkg:maven/pub.doric.extension/webview@0.1.2?type=aar

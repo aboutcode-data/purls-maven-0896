@@ -1,2 +1,7 @@
 - pkg:maven/com.juul.tuulbox/test-iosarm64@4.2.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/test-iosarm64@4.3.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm64@4.4.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm64@4.5.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm64@4.5.2?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm64@4.6.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm64@4.7.0?classifier=sources

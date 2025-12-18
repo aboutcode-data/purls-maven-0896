@@ -50,6 +50,8 @@
 - pkg:maven/za.co.absa.enceladus/menas@2.22.2?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.23.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/menas@2.23.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@2.24.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/menas@2.24.0?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.3.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/menas@2.3.0?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.3.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@0.0.1
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@0.0.1.SP1
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@0.0.1.SP1?classifier=sources
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@0.0.1?classifier=sources

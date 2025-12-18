@@ -1,2 +1,4 @@
 - pkg:maven/com.weaverplatform/sp4rql-parser@1.4.0
 - pkg:maven/com.weaverplatform/sp4rql-parser@1.4.0?classifier=sources
+- pkg:maven/com.weaverplatform/sp4rql-parser@1.6.0
+- pkg:maven/com.weaverplatform/sp4rql-parser@1.6.0?classifier=sources

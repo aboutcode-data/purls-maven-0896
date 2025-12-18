@@ -2,3 +2,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8-loadbalancer@2.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8-loadbalancer@2.0.2
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8-loadbalancer@2.0.3
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-kubernetes-fabric8-loadbalancer@2.0.4

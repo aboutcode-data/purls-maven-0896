@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/angular__router@12.1.0
+- pkg:maven/org.webjars.npm/angular__router@12.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/angular__router@2.0.0-rc.2
 - pkg:maven/org.webjars.npm/angular__router@2.0.0-rc.2?classifier=sources
 - pkg:maven/org.webjars.npm/angular__router@3.0.0

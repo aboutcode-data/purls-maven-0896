@@ -1,0 +1,4 @@
+- pkg:maven/io.github.xulinglin/space-mybatis-core@1.0.0
+- pkg:maven/io.github.xulinglin/space-mybatis-core@1.0.0.RELEASE
+- pkg:maven/io.github.xulinglin/space-mybatis-core@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.xulinglin/space-mybatis-core@1.0.0?classifier=sources

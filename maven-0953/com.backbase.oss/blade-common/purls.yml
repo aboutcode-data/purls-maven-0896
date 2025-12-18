@@ -1,2 +1,4 @@
 - pkg:maven/com.backbase.oss/blade-common@4.20.0
 - pkg:maven/com.backbase.oss/blade-common@4.20.0?classifier=sources
+- pkg:maven/com.backbase.oss/blade-common@4.21.0
+- pkg:maven/com.backbase.oss/blade-common@4.21.0?classifier=sources

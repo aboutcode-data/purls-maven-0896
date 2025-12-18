@@ -1,0 +1,2 @@
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@0.0.7
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@0.0.7?classifier=sources

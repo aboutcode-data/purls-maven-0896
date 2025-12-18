@@ -171,6 +171,10 @@
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.11.1
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.11.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0%2B39-4315fe94
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0%2B39-4315fe94?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0%2B50-19f0faec
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0%2B50-19f0faec?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0-RC1
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0-RC1%2B10-1acfba3a
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-common_2.12@0.12.0-RC1%2B10-1acfba3a?classifier=sources

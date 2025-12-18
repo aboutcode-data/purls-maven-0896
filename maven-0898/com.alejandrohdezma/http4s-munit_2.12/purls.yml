@@ -22,3 +22,7 @@
 - pkg:maven/com.alejandrohdezma/http4s-munit_2.12@0.6.3?classifier=sources
 - pkg:maven/com.alejandrohdezma/http4s-munit_2.12@0.7.0
 - pkg:maven/com.alejandrohdezma/http4s-munit_2.12@0.7.0?classifier=sources
+- pkg:maven/com.alejandrohdezma/http4s-munit_2.12@0.8.0
+- pkg:maven/com.alejandrohdezma/http4s-munit_2.12@0.8.0?classifier=sources
+- pkg:maven/com.alejandrohdezma/http4s-munit_2.12@0.9.0
+- pkg:maven/com.alejandrohdezma/http4s-munit_2.12@0.9.0?classifier=sources

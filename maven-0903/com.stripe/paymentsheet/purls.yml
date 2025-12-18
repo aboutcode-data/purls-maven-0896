@@ -1,3 +1,7 @@
 - pkg:maven/com.stripe/paymentsheet@17.0.0?classifier=sources
 - pkg:maven/com.stripe/paymentsheet@17.1.0?classifier=sources
 - pkg:maven/com.stripe/paymentsheet@17.1.1?classifier=sources
+- pkg:maven/com.stripe/paymentsheet@17.1.2?classifier=sources
+- pkg:maven/com.stripe/paymentsheet@17.2.0?classifier=sources
+- pkg:maven/com.stripe/paymentsheet@18.0.0?classifier=sources
+- pkg:maven/com.stripe/paymentsheet@18.1.0?classifier=sources

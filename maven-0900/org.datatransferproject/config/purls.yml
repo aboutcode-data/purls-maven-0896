@@ -6,3 +6,5 @@
 - pkg:maven/org.datatransferproject/config@0.1.9?classifier=sources
 - pkg:maven/org.datatransferproject/config@0.3.57
 - pkg:maven/org.datatransferproject/config@0.3.57?classifier=sources
+- pkg:maven/org.datatransferproject/config@0.3.58
+- pkg:maven/org.datatransferproject/config@0.3.58?classifier=sources

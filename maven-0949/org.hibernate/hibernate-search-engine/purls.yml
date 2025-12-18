@@ -120,6 +120,8 @@
 - pkg:maven/org.hibernate/hibernate-search-engine@5.10.10.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@5.10.11.Final
 - pkg:maven/org.hibernate/hibernate-search-engine@5.10.11.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-engine@5.10.12.Final
+- pkg:maven/org.hibernate/hibernate-search-engine@5.10.12.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@5.10.2.Final
 - pkg:maven/org.hibernate/hibernate-search-engine@5.10.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@5.10.3.Final
@@ -142,6 +144,8 @@
 - pkg:maven/org.hibernate/hibernate-search-engine@5.11.0.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@5.11.1.Final
 - pkg:maven/org.hibernate/hibernate-search-engine@5.11.1.Final?classifier=sources
+- pkg:maven/org.hibernate/hibernate-search-engine@5.11.10.Final
+- pkg:maven/org.hibernate/hibernate-search-engine@5.11.10.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@5.11.2.Final
 - pkg:maven/org.hibernate/hibernate-search-engine@5.11.2.Final?classifier=sources
 - pkg:maven/org.hibernate/hibernate-search-engine@5.11.3.Final

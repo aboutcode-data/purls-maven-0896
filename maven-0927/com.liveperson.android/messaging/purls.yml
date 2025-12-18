@@ -1,4 +1,7 @@
 - pkg:maven/com.liveperson.android/messaging@4.8.1?classifier=sources
 - pkg:maven/com.liveperson.android/messaging@4.9.0?classifier=sources
+- pkg:maven/com.liveperson.android/messaging@4.9.1?classifier=sources
 - pkg:maven/com.liveperson.android/messaging@5.6.0?classifier=sources
 - pkg:maven/com.liveperson.android/messaging@5.7.0?classifier=sources
+- pkg:maven/com.liveperson.android/messaging@5.7.1?classifier=sources
+- pkg:maven/com.liveperson.android/messaging@5.8.0?classifier=sources

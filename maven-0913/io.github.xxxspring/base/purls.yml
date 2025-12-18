@@ -10,4 +10,12 @@
 - pkg:maven/io.github.xxxspring/base@1.0.3
 - pkg:maven/io.github.xxxspring/base@1.0.3?classifier=sources
 - pkg:maven/io.github.xxxspring/base@1.0.4
+- pkg:maven/io.github.xxxspring/base@1.0.4.3
+- pkg:maven/io.github.xxxspring/base@1.0.4.3?classifier=sources
 - pkg:maven/io.github.xxxspring/base@1.0.4?classifier=sources
+- pkg:maven/io.github.xxxspring/base@1.1.0.RELEASE
+- pkg:maven/io.github.xxxspring/base@1.1.0.RELEASE?classifier=sources
+- pkg:maven/io.github.xxxspring/base@1.1.1.RELEASE
+- pkg:maven/io.github.xxxspring/base@1.1.1.RELEASE?classifier=sources
+- pkg:maven/io.github.xxxspring/base@1.2.0.RELEASE
+- pkg:maven/io.github.xxxspring/base@1.2.0.RELEASE?classifier=sources

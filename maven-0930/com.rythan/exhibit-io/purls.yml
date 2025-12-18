@@ -10,3 +10,11 @@
 - pkg:maven/com.rythan/exhibit-io@0.9.51
 - pkg:maven/com.rythan/exhibit-io@0.9.51?classifier=sources
 - pkg:maven/com.rythan/exhibit-io@0.9.5?classifier=sources
+- pkg:maven/com.rythan/exhibit-io@0.9.6
+- pkg:maven/com.rythan/exhibit-io@0.9.61
+- pkg:maven/com.rythan/exhibit-io@0.9.61?classifier=sources
+- pkg:maven/com.rythan/exhibit-io@0.9.62
+- pkg:maven/com.rythan/exhibit-io@0.9.62?classifier=sources
+- pkg:maven/com.rythan/exhibit-io@0.9.63
+- pkg:maven/com.rythan/exhibit-io@0.9.63?classifier=sources
+- pkg:maven/com.rythan/exhibit-io@0.9.6?classifier=sources

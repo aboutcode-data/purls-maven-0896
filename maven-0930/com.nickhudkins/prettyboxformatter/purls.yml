@@ -1,0 +1,3 @@
+- pkg:maven/com.nickhudkins/prettyboxformatter@0.0.11?classifier=sources
+- pkg:maven/com.nickhudkins/prettyboxformatter@0.0.12?classifier=sources
+- pkg:maven/com.nickhudkins/prettyboxformatter@1.4.0?classifier=sources

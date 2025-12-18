@@ -4,3 +4,5 @@
 - pkg:maven/ai.bleckwen/xgboost-predictor4j@1.0?classifier=sources
 - pkg:maven/ai.bleckwen/xgboost-predictor4j@1.1
 - pkg:maven/ai.bleckwen/xgboost-predictor4j@1.1?classifier=sources
+- pkg:maven/ai.bleckwen/xgboost-predictor4j@1.2
+- pkg:maven/ai.bleckwen/xgboost-predictor4j@1.2?classifier=sources

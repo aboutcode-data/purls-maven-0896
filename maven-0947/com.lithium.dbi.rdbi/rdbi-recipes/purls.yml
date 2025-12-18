@@ -4,6 +4,12 @@
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.101?classifier=sources
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.102
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.102?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.103
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.103?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.104
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.104?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.105
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.105?classifier=sources
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.56
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.56?classifier=sources
 - pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes@0.57

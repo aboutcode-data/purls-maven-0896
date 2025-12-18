@@ -10,3 +10,7 @@
 - pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.1?classifier=sources
 - pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.2
 - pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.2?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.3
+- pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.3?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.4
+- pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.4?classifier=sources

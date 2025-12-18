@@ -14,3 +14,4 @@
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha7?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha8?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Alpha9?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.0.0.Beta1?classifier=sources

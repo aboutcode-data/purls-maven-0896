@@ -72,6 +72,7 @@
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.15.0-alpha5
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.15.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.15.0?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha1
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha2
@@ -80,6 +81,9 @@
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha4
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha5
+- pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.16.0?classifier=sources
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.2.0
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.2.0-alpha2
 - pkg:maven/org.camunda.bpm.model/camunda-cmmn-model@7.2.0-alpha2?classifier=sources

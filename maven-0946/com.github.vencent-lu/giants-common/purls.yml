@@ -26,3 +26,5 @@
 - pkg:maven/com.github.vencent-lu/giants-common@1.0.9?classifier=sources
 - pkg:maven/com.github.vencent-lu/giants-common@1.1.0
 - pkg:maven/com.github.vencent-lu/giants-common@1.1.0?classifier=sources
+- pkg:maven/com.github.vencent-lu/giants-common@1.2.0
+- pkg:maven/com.github.vencent-lu/giants-common@1.2.0?classifier=sources

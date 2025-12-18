@@ -30,3 +30,5 @@
 - pkg:maven/org.wildfly.extras.creaper/creaper-commands@1.6.1?classifier=sources
 - pkg:maven/org.wildfly.extras.creaper/creaper-commands@1.6.2
 - pkg:maven/org.wildfly.extras.creaper/creaper-commands@1.6.2?classifier=sources
+- pkg:maven/org.wildfly.extras.creaper/creaper-commands@2.0.0-Alpha.1
+- pkg:maven/org.wildfly.extras.creaper/creaper-commands@2.0.0-Alpha.1?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.inmobi.monetization/inmobi-ads@10.0.0?type=aar
 - pkg:maven/com.inmobi.monetization/inmobi-ads@6.1.1
 - pkg:maven/com.inmobi.monetization/inmobi-ads@7.0.0
 - pkg:maven/com.inmobi.monetization/inmobi-ads@7.0.1
@@ -31,3 +32,4 @@
 - pkg:maven/com.inmobi.monetization/inmobi-ads@9.1.7?type=aar
 - pkg:maven/com.inmobi.monetization/inmobi-ads@9.1.9?type=aar
 - pkg:maven/com.inmobi.monetization/inmobi-ads@9.2.0?type=aar
+- pkg:maven/com.inmobi.monetization/inmobi-ads@9.2.1?type=aar

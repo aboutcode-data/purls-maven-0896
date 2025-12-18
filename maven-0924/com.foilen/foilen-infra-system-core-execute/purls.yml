@@ -2,3 +2,6 @@
 - pkg:maven/com.foilen/foilen-infra-system-core-execute@0.19.0?classifier=sources
 - pkg:maven/com.foilen/foilen-infra-system-core-execute@0.19.1
 - pkg:maven/com.foilen/foilen-infra-system-core-execute@0.19.1?classifier=sources
+- pkg:maven/com.foilen/foilen-infra-system-core-execute@0.20.0?classifier=sources
+- pkg:maven/com.foilen/foilen-infra-system-core-execute@0.20.1?classifier=sources
+- pkg:maven/com.foilen/foilen-infra-system-core-execute@0.20.2?classifier=sources

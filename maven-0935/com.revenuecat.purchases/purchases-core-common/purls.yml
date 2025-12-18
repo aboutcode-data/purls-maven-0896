@@ -24,8 +24,12 @@
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@4.2.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@4.3.0-beta.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@4.3.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-core-common@4.3.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-core-common@4.3.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-core-common@4.3.3?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0-amazon.alpha.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0-amazon.alpha.1?type=aar
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0-amazon.alpha.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0-amazon.alpha.3?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@AMAZON.RC1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@AMAZON.RC1?type=aar

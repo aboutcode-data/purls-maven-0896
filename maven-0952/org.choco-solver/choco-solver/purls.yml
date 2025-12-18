@@ -50,3 +50,5 @@
 - pkg:maven/org.choco-solver/choco-solver@4.10.5?classifier=sources
 - pkg:maven/org.choco-solver/choco-solver@4.10.6
 - pkg:maven/org.choco-solver/choco-solver@4.10.6?classifier=sources
+- pkg:maven/org.choco-solver/choco-solver@4.10.7
+- pkg:maven/org.choco-solver/choco-solver@4.10.7?classifier=sources

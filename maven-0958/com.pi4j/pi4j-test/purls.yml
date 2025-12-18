@@ -1,0 +1,2 @@
+- pkg:maven/com.pi4j/pi4j-test@2.0
+- pkg:maven/com.pi4j/pi4j-test@2.0?classifier=sources

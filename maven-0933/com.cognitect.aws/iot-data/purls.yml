@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/iot-data@770.2.568.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iot-data@801.2.695.0
 - pkg:maven/com.cognitect.aws/iot-data@801.2.695.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iot-data@814.2.977.0
+- pkg:maven/com.cognitect.aws/iot-data@814.2.977.0?classifier=sources

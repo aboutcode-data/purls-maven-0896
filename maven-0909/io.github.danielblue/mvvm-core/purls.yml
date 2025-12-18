@@ -3,3 +3,4 @@
 - pkg:maven/io.github.danielblue/mvvm-core@1.0.14?classifier=sources
 - pkg:maven/io.github.danielblue/mvvm-core@1.0.15?classifier=sources
 - pkg:maven/io.github.danielblue/mvvm-core@1.0.17?classifier=sources
+- pkg:maven/io.github.danielblue/mvvm-core@1.0.20?classifier=sources

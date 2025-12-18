@@ -31,6 +31,7 @@
 - pkg:maven/net.dreamlu/mica-swagger@2.4.1-GA?classifier=sources
 - pkg:maven/net.dreamlu/mica-swagger@2.4.10
 - pkg:maven/net.dreamlu/mica-swagger@2.4.10?classifier=sources
+- pkg:maven/net.dreamlu/mica-swagger@2.4.11?classifier=sources
 - pkg:maven/net.dreamlu/mica-swagger@2.4.2-GA
 - pkg:maven/net.dreamlu/mica-swagger@2.4.2-GA?classifier=sources
 - pkg:maven/net.dreamlu/mica-swagger@2.4.3-GA
@@ -61,3 +62,4 @@
 - pkg:maven/net.dreamlu/mica-swagger@2.5.3?classifier=sources
 - pkg:maven/net.dreamlu/mica-swagger@2.5.4
 - pkg:maven/net.dreamlu/mica-swagger@2.5.4?classifier=sources
+- pkg:maven/net.dreamlu/mica-swagger@2.5.5?classifier=sources

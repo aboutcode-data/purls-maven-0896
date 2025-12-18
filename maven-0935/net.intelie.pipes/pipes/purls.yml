@@ -32,3 +32,7 @@
 - pkg:maven/net.intelie.pipes/pipes@0.24.5
 - pkg:maven/net.intelie.pipes/pipes@0.24.5?classifier=sources
 - pkg:maven/net.intelie.pipes/pipes@0.24?classifier=sources
+- pkg:maven/net.intelie.pipes/pipes@0.25.0
+- pkg:maven/net.intelie.pipes/pipes@0.25.0?classifier=sources
+- pkg:maven/net.intelie.pipes/pipes@0.25.1
+- pkg:maven/net.intelie.pipes/pipes@0.25.1?classifier=sources

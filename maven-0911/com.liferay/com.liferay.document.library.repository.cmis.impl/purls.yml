@@ -135,6 +135,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.54
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.55
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.55?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.6
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@2.0.6?classifier=sources
@@ -229,6 +232,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.35
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.36
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@3.0.4
@@ -328,6 +334,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.32
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.32?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.33
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.33?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@4.0.4
@@ -394,6 +403,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.22
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.22?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.22?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.23
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.23?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.23?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@5.0.3
@@ -441,3 +453,9 @@
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.7
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.8
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.9
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.repository.cmis.impl@6.0.9?classifier=sources-commercial

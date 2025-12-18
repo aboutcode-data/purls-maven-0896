@@ -1,0 +1,2 @@
+- pkg:maven/org.ops4j.pax.web.samples/war-spring-wired@8.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-spring-wired@8.0.0?type=war

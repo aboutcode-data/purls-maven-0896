@@ -1,5 +1,7 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.10.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.10.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.11.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.11.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.7.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.7.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.7.1

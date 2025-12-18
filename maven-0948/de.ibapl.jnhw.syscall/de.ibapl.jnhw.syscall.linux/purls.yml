@@ -1,0 +1,2 @@
+- pkg:maven/de.ibapl.jnhw.syscall/de.ibapl.jnhw.syscall.linux@3.0.0
+- pkg:maven/de.ibapl.jnhw.syscall/de.ibapl.jnhw.syscall.linux@3.0.0?classifier=sources

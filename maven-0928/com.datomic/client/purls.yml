@@ -34,3 +34,4 @@
 - pkg:maven/com.datomic/client@0.8.87
 - pkg:maven/com.datomic/client@0.8.89
 - pkg:maven/com.datomic/client@0.8.97
+- pkg:maven/com.datomic/client@1.0.123

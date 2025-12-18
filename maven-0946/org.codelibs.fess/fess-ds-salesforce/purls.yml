@@ -8,6 +8,8 @@
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.13.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.14.0
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.14.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.15.0
+- pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.15.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.3.0
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.3.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.4.0

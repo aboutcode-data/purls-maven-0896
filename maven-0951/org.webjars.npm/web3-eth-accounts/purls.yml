@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/web3-eth-accounts@1.2.4
 - pkg:maven/org.webjars.npm/web3-eth-accounts@1.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/web3-eth-accounts@1.5.2
+- pkg:maven/org.webjars.npm/web3-eth-accounts@1.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/web3-eth-accounts@3.0.0-rc.5
+- pkg:maven/org.webjars.npm/web3-eth-accounts@3.0.0-rc.5?classifier=sources

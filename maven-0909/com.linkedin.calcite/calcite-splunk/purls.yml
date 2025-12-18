@@ -14,3 +14,5 @@
 - pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.149?classifier=sources
 - pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.150
 - pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.150?classifier=sources
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.151
+- pkg:maven/com.linkedin.calcite/calcite-splunk@1.21.0.151?classifier=sources

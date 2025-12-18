@@ -1,0 +1,2 @@
+- pkg:maven/io.runon.cryptocurrency/exchange-binance@1.0.1
+- pkg:maven/io.runon.cryptocurrency/exchange-binance@1.0.1?classifier=sources

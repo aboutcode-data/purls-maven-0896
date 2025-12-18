@@ -134,6 +134,14 @@
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.4.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.4.0_1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.4.0_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.40.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.40.1_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.40.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.40.1_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.41.0_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.41.0_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.41.0_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.41.0_1?classifier=src&type=zip
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.5.0_1
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.5.0_1?classifier=sources
 - pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.grpc@1.5.0_1?classifier=src&type=tar.gz

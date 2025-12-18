@@ -10,6 +10,10 @@
 - pkg:maven/net.rossonet/ar4k-activemq@0.9.1005?classifier=sources
 - pkg:maven/net.rossonet/ar4k-activemq@0.9.1006
 - pkg:maven/net.rossonet/ar4k-activemq@0.9.1006?classifier=sources
+- pkg:maven/net.rossonet/ar4k-activemq@0.9.1009
+- pkg:maven/net.rossonet/ar4k-activemq@0.9.1009?classifier=sources
+- pkg:maven/net.rossonet/ar4k-activemq@0.9.1014
+- pkg:maven/net.rossonet/ar4k-activemq@0.9.1014?classifier=sources
 - pkg:maven/net.rossonet/ar4k-activemq@0.9.3
 - pkg:maven/net.rossonet/ar4k-activemq@0.9.3?classifier=sources
 - pkg:maven/net.rossonet/ar4k-activemq@0.9.4

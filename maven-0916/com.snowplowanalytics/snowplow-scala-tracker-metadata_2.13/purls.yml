@@ -8,3 +8,5 @@
 - pkg:maven/com.snowplowanalytics/snowplow-scala-tracker-metadata_2.13@1.0.0-M2
 - pkg:maven/com.snowplowanalytics/snowplow-scala-tracker-metadata_2.13@1.0.0-M2?classifier=sources
 - pkg:maven/com.snowplowanalytics/snowplow-scala-tracker-metadata_2.13@1.0.0?classifier=sources
+- pkg:maven/com.snowplowanalytics/snowplow-scala-tracker-metadata_2.13@1.0.1
+- pkg:maven/com.snowplowanalytics/snowplow-scala-tracker-metadata_2.13@1.0.1?classifier=sources

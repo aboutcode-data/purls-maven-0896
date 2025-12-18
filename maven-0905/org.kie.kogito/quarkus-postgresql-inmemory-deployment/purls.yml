@@ -1,2 +1,8 @@
 - pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.10.0.Final
 - pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.10.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.11.0.Final
+- pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.11.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.11.1.Final
+- pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.11.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.12.0.Final
+- pkg:maven/org.kie.kogito/quarkus-postgresql-inmemory-deployment@1.12.0.Final?classifier=sources

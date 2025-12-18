@@ -2,6 +2,10 @@
 - pkg:maven/com.wepay.waltz/waltz-test@0.10.0?classifier=sources
 - pkg:maven/com.wepay.waltz/waltz-test@0.11.0
 - pkg:maven/com.wepay.waltz/waltz-test@0.11.0?classifier=sources
+- pkg:maven/com.wepay.waltz/waltz-test@0.11.1
+- pkg:maven/com.wepay.waltz/waltz-test@0.11.1?classifier=sources
+- pkg:maven/com.wepay.waltz/waltz-test@0.11.2
+- pkg:maven/com.wepay.waltz/waltz-test@0.11.2?classifier=sources
 - pkg:maven/com.wepay.waltz/waltz-test@0.4.0
 - pkg:maven/com.wepay.waltz/waltz-test@0.4.0?classifier=sources
 - pkg:maven/com.wepay.waltz/waltz-test@0.4.1

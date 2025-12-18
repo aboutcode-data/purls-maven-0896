@@ -1,5 +1,16 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.10.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.10.1?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.10.2?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.10.3?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.10.4?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.10.5?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.10.6?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.11.0?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.11.1?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.11.2?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.12.0?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.12.1?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.12.2?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.2.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.2.1?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.2.2?classifier=sources
@@ -24,6 +35,7 @@
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.5.6?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.5.7?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.5.8?classifier=sources
+- pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.5.9?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.6.0?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.6.1?classifier=sources
 - pkg:maven/io.gravitee.am.identityprovider/gravitee-am-identityprovider-azure-ad@3.6.2?classifier=sources

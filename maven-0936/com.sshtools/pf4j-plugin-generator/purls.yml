@@ -6,3 +6,5 @@
 - pkg:maven/com.sshtools/pf4j-plugin-generator@0.0.3?classifier=sources
 - pkg:maven/com.sshtools/pf4j-plugin-generator@0.0.4
 - pkg:maven/com.sshtools/pf4j-plugin-generator@0.0.4?classifier=sources
+- pkg:maven/com.sshtools/pf4j-plugin-generator@0.0.5
+- pkg:maven/com.sshtools/pf4j-plugin-generator@0.0.5?classifier=sources

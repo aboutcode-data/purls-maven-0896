@@ -1,0 +1,2 @@
+- pkg:maven/com.typesafe.akka/akka-actor-testkit-typed_3@2.6.17
+- pkg:maven/com.typesafe.akka/akka-actor-testkit-typed_3@2.6.17?classifier=sources

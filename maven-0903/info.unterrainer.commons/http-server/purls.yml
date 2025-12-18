@@ -81,6 +81,10 @@
 - pkg:maven/info.unterrainer.commons/http-server@0.2.32?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.2.33
 - pkg:maven/info.unterrainer.commons/http-server@0.2.33?classifier=sources
+- pkg:maven/info.unterrainer.commons/http-server@0.2.34
+- pkg:maven/info.unterrainer.commons/http-server@0.2.34?classifier=sources
+- pkg:maven/info.unterrainer.commons/http-server@0.2.35
+- pkg:maven/info.unterrainer.commons/http-server@0.2.35?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.2.3?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.2.4
 - pkg:maven/info.unterrainer.commons/http-server@0.2.4?classifier=sources

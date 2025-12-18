@@ -1,2 +1,4 @@
 - pkg:maven/net.cactusthorn.config/config-yaml@0.60
 - pkg:maven/net.cactusthorn.config/config-yaml@0.60?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-yaml@0.70
+- pkg:maven/net.cactusthorn.config/config-yaml@0.70?classifier=sources

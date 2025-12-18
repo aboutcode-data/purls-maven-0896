@@ -41,6 +41,9 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.12.1
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.12.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.12.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.12.2
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.12.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.12.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.2.0
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@3.3.0
@@ -432,6 +435,9 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.14.1
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.14.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.14.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.15.0
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.15.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.15.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.2.0
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@5.2.0?classifier=sources-commercial
@@ -669,3 +675,15 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.8.0
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.8.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.8.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.0
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.1
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.2
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.3
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.api@9.9.3?classifier=sources-commercial

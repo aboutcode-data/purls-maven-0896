@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-remoting@4.9.0?classifier=sources
 - pkg:maven/org.apache.rocketmq/rocketmq-remoting@4.9.1
 - pkg:maven/org.apache.rocketmq/rocketmq-remoting@4.9.1?classifier=sources
+- pkg:maven/org.apache.rocketmq/rocketmq-remoting@5.0.0-PREVIEW
+- pkg:maven/org.apache.rocketmq/rocketmq-remoting@5.0.0-PREVIEW?classifier=sources

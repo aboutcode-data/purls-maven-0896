@@ -188,6 +188,10 @@
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev20210624-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev20210813-1.32.1
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev20210813-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-redis@v1-rev20210909-1.32.1
+- pkg:maven/com.google.apis/google-api-services-redis@v1-rev20210909-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-redis@v1-rev20210930-1.32.1
+- pkg:maven/com.google.apis/google-api-services-redis@v1-rev20210930-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev27-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev27-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-redis@v1-rev27-1.25.0
@@ -384,6 +388,10 @@
 - pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20210624-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20210813-1.32.1
 - pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20210813-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20210909-1.32.1
+- pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20210909-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20210930-1.32.1
+- pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev20210930-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-redis@v1beta1-rev21-1.22.0

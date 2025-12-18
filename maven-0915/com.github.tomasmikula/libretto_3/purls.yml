@@ -2,3 +2,5 @@
 - pkg:maven/com.github.tomasmikula/libretto_3@0.1.4?classifier=sources
 - pkg:maven/com.github.tomasmikula/libretto_3@0.1.5
 - pkg:maven/com.github.tomasmikula/libretto_3@0.1.5?classifier=sources
+- pkg:maven/com.github.tomasmikula/libretto_3@0.2-M1
+- pkg:maven/com.github.tomasmikula/libretto_3@0.2-M1?classifier=sources

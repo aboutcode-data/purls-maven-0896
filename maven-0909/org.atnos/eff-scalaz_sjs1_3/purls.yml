@@ -4,3 +4,7 @@
 - pkg:maven/org.atnos/eff-scalaz_sjs1_3@5.18.0?classifier=sources
 - pkg:maven/org.atnos/eff-scalaz_sjs1_3@5.19.0
 - pkg:maven/org.atnos/eff-scalaz_sjs1_3@5.19.0?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_sjs1_3@5.20.0
+- pkg:maven/org.atnos/eff-scalaz_sjs1_3@5.20.0?classifier=sources
+- pkg:maven/org.atnos/eff-scalaz_sjs1_3@5.21.0
+- pkg:maven/org.atnos/eff-scalaz_sjs1_3@5.21.0?classifier=sources

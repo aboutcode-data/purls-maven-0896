@@ -1,3 +1,5 @@
+- pkg:maven/com.elmakers.mine.bukkit/MagicAPI@10.0
+- pkg:maven/com.elmakers.mine.bukkit/MagicAPI@10.0?classifier=sources
 - pkg:maven/com.elmakers.mine.bukkit/MagicAPI@8.2
 - pkg:maven/com.elmakers.mine.bukkit/MagicAPI@8.2?classifier=sources
 - pkg:maven/com.elmakers.mine.bukkit/MagicAPI@8.4

@@ -1,2 +1,4 @@
 - pkg:maven/ch.exense.step/step-framework-model@1.0.0
 - pkg:maven/ch.exense.step/step-framework-model@1.0.0?classifier=sources
+- pkg:maven/ch.exense.step/step-framework-model@1.0.1
+- pkg:maven/ch.exense.step/step-framework-model@1.0.1?classifier=sources

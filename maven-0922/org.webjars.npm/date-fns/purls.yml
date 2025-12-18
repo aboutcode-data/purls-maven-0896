@@ -30,6 +30,8 @@
 - pkg:maven/org.webjars.npm/date-fns@2.21.3?classifier=sources
 - pkg:maven/org.webjars.npm/date-fns@2.22.1
 - pkg:maven/org.webjars.npm/date-fns@2.22.1?classifier=sources
+- pkg:maven/org.webjars.npm/date-fns@2.23.0
+- pkg:maven/org.webjars.npm/date-fns@2.23.0?classifier=sources
 - pkg:maven/org.webjars.npm/date-fns@2.8.1
 - pkg:maven/org.webjars.npm/date-fns@2.8.1?classifier=sources
 - pkg:maven/org.webjars.npm/date-fns@2.9.0

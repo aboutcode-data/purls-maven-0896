@@ -10,3 +10,7 @@
 - pkg:maven/org.openforis.commons/of-commons-io@0.1.28?classifier=sources
 - pkg:maven/org.openforis.commons/of-commons-io@0.1.29
 - pkg:maven/org.openforis.commons/of-commons-io@0.1.29?classifier=sources
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.30
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.30?classifier=sources
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.31
+- pkg:maven/org.openforis.commons/of-commons-io@0.1.31?classifier=sources

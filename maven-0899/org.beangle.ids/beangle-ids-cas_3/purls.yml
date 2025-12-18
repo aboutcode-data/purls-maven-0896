@@ -1,2 +1,4 @@
 - pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.2.21
 - pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.2.21?classifier=sources
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.2.22
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.2.22?classifier=sources

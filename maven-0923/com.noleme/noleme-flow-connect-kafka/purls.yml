@@ -1,0 +1,2 @@
+- pkg:maven/com.noleme/noleme-flow-connect-kafka@0.5
+- pkg:maven/com.noleme/noleme-flow-connect-kafka@0.5?classifier=sources

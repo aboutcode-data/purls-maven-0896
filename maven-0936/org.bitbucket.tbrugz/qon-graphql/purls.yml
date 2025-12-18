@@ -1,0 +1,2 @@
+- pkg:maven/org.bitbucket.tbrugz/qon-graphql@0.7
+- pkg:maven/org.bitbucket.tbrugz/qon-graphql@0.7?classifier=sources

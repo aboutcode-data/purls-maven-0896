@@ -1,2 +1,4 @@
 - pkg:maven/com.twitter/util-registry_3@21.8.0
 - pkg:maven/com.twitter/util-registry_3@21.8.0?classifier=sources
+- pkg:maven/com.twitter/util-registry_3@21.9.0
+- pkg:maven/com.twitter/util-registry_3@21.9.0?classifier=sources

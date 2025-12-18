@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/node-addon-api@2.0.2
+- pkg:maven/org.webjars.npm/node-addon-api@2.0.2?classifier=sources

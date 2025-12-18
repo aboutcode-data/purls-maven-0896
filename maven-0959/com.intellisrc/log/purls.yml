@@ -1,1 +1,2 @@
 - pkg:maven/com.intellisrc/log@2.8.0?classifier=sources
+- pkg:maven/com.intellisrc/log@2.8.1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/software.amazon.awscdk/aps@1.124.0
+- pkg:maven/software.amazon.awscdk/aps@1.124.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.125.0
+- pkg:maven/software.amazon.awscdk/aps@1.125.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.126.0
+- pkg:maven/software.amazon.awscdk/aps@1.126.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.127.0
+- pkg:maven/software.amazon.awscdk/aps@1.127.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.128.0
+- pkg:maven/software.amazon.awscdk/aps@1.128.0?classifier=sources

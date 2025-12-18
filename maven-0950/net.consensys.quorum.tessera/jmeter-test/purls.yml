@@ -8,6 +8,7 @@
 - pkg:maven/net.consensys.quorum.tessera/jmeter-test@20.10.1-RC1
 - pkg:maven/net.consensys.quorum.tessera/jmeter-test@21.1.0
 - pkg:maven/net.consensys.quorum.tessera/jmeter-test@21.1.1
+- pkg:maven/net.consensys.quorum.tessera/jmeter-test@21.10.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/jmeter-test@21.4.0?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/jmeter-test@21.4.1?classifier=sources
 - pkg:maven/net.consensys.quorum.tessera/jmeter-test@21.7.0?classifier=sources

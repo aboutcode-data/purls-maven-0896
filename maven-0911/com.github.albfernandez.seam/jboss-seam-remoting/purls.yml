@@ -1,2 +1,4 @@
 - pkg:maven/com.github.albfernandez.seam/jboss-seam-remoting@2.3.24.ayg
 - pkg:maven/com.github.albfernandez.seam/jboss-seam-remoting@2.3.24.ayg?classifier=sources
+- pkg:maven/com.github.albfernandez.seam/jboss-seam-remoting@2.3.25.ayg
+- pkg:maven/com.github.albfernandez.seam/jboss-seam-remoting@2.3.25.ayg?classifier=sources

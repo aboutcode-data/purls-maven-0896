@@ -2,5 +2,7 @@
 - pkg:maven/com.datastax.astra/astra-spring-boot-autoconfigure@0.1.10?classifier=sources
 - pkg:maven/com.datastax.astra/astra-spring-boot-autoconfigure@0.1.13
 - pkg:maven/com.datastax.astra/astra-spring-boot-autoconfigure@0.1.13?classifier=sources
+- pkg:maven/com.datastax.astra/astra-spring-boot-autoconfigure@0.1.14
+- pkg:maven/com.datastax.astra/astra-spring-boot-autoconfigure@0.1.14?classifier=sources
 - pkg:maven/com.datastax.astra/astra-spring-boot-autoconfigure@0.1.8
 - pkg:maven/com.datastax.astra/astra-spring-boot-autoconfigure@0.1.8?classifier=sources

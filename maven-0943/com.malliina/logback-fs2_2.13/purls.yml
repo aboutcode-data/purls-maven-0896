@@ -1,4 +1,16 @@
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.10
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.10?classifier=sources
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.13
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.13?classifier=sources
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.8
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.8?classifier=sources
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.9
+- pkg:maven/com.malliina/logback-fs2_2.13@1.11.9?classifier=sources
 - pkg:maven/com.malliina/logback-fs2_2.13@1.9.7
 - pkg:maven/com.malliina/logback-fs2_2.13@1.9.7?classifier=sources
+- pkg:maven/com.malliina/logback-fs2_2.13@2.0.0
+- pkg:maven/com.malliina/logback-fs2_2.13@2.0.0?classifier=sources
 - pkg:maven/com.malliina/logback-fs2_2.13@2.0.1
 - pkg:maven/com.malliina/logback-fs2_2.13@2.0.1?classifier=sources
+- pkg:maven/com.malliina/logback-fs2_2.13@2.0.2
+- pkg:maven/com.malliina/logback-fs2_2.13@2.0.2?classifier=sources

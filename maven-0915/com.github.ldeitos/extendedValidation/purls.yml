@@ -39,6 +39,8 @@
 - pkg:maven/com.github.ldeitos/extendedValidation@1.0.01?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation@1.0.02
 - pkg:maven/com.github.ldeitos/extendedValidation@1.0.02?classifier=sources
+- pkg:maven/com.github.ldeitos/extendedValidation@1.0.03
+- pkg:maven/com.github.ldeitos/extendedValidation@1.0.03?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation@1.0.CR1
 - pkg:maven/com.github.ldeitos/extendedValidation@1.0.CR1?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation@1.0.CR2
@@ -58,7 +60,9 @@
 - pkg:maven/com.github.ldeitos/extendedValidation@1.1.CR3
 - pkg:maven/com.github.ldeitos/extendedValidation@1.1.CR3?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation@1.1?classifier=sources
+- pkg:maven/com.github.ldeitos/extendedValidation@2.0
 - pkg:maven/com.github.ldeitos/extendedValidation@2.0-RC1
 - pkg:maven/com.github.ldeitos/extendedValidation@2.0-RC1?classifier=sources
 - pkg:maven/com.github.ldeitos/extendedValidation@2.0-RC2
 - pkg:maven/com.github.ldeitos/extendedValidation@2.0-RC2?classifier=sources
+- pkg:maven/com.github.ldeitos/extendedValidation@2.0?classifier=sources

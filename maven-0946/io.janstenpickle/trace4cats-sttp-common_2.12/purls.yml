@@ -153,6 +153,8 @@
 - pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.11.1
 - pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.11.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.12.0
+- pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.12.0%2B29-d6222477
+- pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.12.0%2B29-d6222477?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.12.0-RC1
 - pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.12.0-RC1%2B10-1acfba3a
 - pkg:maven/io.janstenpickle/trace4cats-sttp-common_2.12@0.12.0-RC1%2B10-1acfba3a?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/dev.guardrail/guardrail-java-async-http_2.12@0.65.0
+- pkg:maven/dev.guardrail/guardrail-java-async-http_2.12@0.65.0?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-java-async-http_2.12@0.65.1
+- pkg:maven/dev.guardrail/guardrail-java-async-http_2.12@0.65.1?classifier=sources

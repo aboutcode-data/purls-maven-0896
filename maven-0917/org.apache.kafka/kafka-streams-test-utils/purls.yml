@@ -40,3 +40,6 @@
 - pkg:maven/org.apache.kafka/kafka-streams-test-utils@2.7.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams-test-utils@2.8.0
 - pkg:maven/org.apache.kafka/kafka-streams-test-utils@2.8.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams-test-utils@2.8.1
+- pkg:maven/org.apache.kafka/kafka-streams-test-utils@2.8.1?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams-test-utils@3.0.0?classifier=sources

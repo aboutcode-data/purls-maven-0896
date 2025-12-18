@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@2.2.2.CR1
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@2.2.2.CR2
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@2.2.3.CR1
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@2.2.3.Final
