@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.cxf/cxf-rt-rs-service-description-common-openapi@3.4.4?classifier=sources
 - pkg:maven/org.apache.cxf/cxf-rt-rs-service-description-common-openapi@3.4.5
 - pkg:maven/org.apache.cxf/cxf-rt-rs-service-description-common-openapi@3.4.5?classifier=sources
+- pkg:maven/org.apache.cxf/cxf-rt-rs-service-description-common-openapi@3.5.0
+- pkg:maven/org.apache.cxf/cxf-rt-rs-service-description-common-openapi@3.5.0?classifier=sources

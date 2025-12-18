@@ -76,6 +76,14 @@
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.282?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.285
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.285?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.295
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.295?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.305
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.305?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.308
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.308?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.311
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.311?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.37
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.37?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-sonarqube@3.1.64

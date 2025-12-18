@@ -2,3 +2,7 @@
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.0?classifier=sources
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.1
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.1?classifier=sources
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.2
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.2?classifier=sources
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.3
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.3?classifier=sources

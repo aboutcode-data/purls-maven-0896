@@ -14,3 +14,7 @@
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.23.2?classifier=sources
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.23.4
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.23.4?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.24.0
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.24.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.26.0
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.26.0?classifier=sources

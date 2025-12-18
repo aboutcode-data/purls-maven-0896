@@ -42,3 +42,5 @@
 - pkg:maven/net.optionfactory.spring/money-jaxb@5.8?classifier=sources
 - pkg:maven/net.optionfactory.spring/money-jaxb@5.9
 - pkg:maven/net.optionfactory.spring/money-jaxb@5.9?classifier=sources
+- pkg:maven/net.optionfactory.spring/money-jaxb@6.0
+- pkg:maven/net.optionfactory.spring/money-jaxb@6.0?classifier=sources

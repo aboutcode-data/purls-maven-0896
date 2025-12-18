@@ -9,3 +9,4 @@
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@2.0.0?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@2.0.4?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@2.0.7?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@2.0.8?classifier=sources

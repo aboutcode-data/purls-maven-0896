@@ -70,3 +70,7 @@
 - pkg:maven/com.gitee.l0km/mtfsdk-android-v2@4.0.3?classifier=sources
 - pkg:maven/com.gitee.l0km/mtfsdk-android-v2@4.0.4
 - pkg:maven/com.gitee.l0km/mtfsdk-android-v2@4.0.4?classifier=sources
+- pkg:maven/com.gitee.l0km/mtfsdk-android-v2@4.1.0
+- pkg:maven/com.gitee.l0km/mtfsdk-android-v2@4.1.0?classifier=sources
+- pkg:maven/com.gitee.l0km/mtfsdk-android-v2@4.1.1
+- pkg:maven/com.gitee.l0km/mtfsdk-android-v2@4.1.1?classifier=sources

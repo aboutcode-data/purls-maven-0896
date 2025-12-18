@@ -35,6 +35,10 @@
 - pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.15?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.16
 - pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.16?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.17
+- pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.17?classifier=sources
+- pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.18-alpha-release-candidate
+- pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.18-alpha-release-candidate?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.1?classifier=sources
 - pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.2
 - pkg:maven/de.adorsys.xs2a.adapter/commerzbank-adapter@0.1.2?classifier=sources

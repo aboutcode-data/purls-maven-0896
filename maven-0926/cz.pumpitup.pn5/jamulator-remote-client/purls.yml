@@ -26,3 +26,5 @@
 - pkg:maven/cz.pumpitup.pn5/jamulator-remote-client@0.4.32?classifier=sources
 - pkg:maven/cz.pumpitup.pn5/jamulator-remote-client@0.4.33
 - pkg:maven/cz.pumpitup.pn5/jamulator-remote-client@0.4.33?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/jamulator-remote-client@0.4.34
+- pkg:maven/cz.pumpitup.pn5/jamulator-remote-client@0.4.34?classifier=sources

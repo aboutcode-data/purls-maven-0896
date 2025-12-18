@@ -1,4 +1,8 @@
+- pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0
 - pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0-alpha13
 - pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0-alpha13?classifier=sources
 - pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0-alpha14
 - pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0-alpha14?classifier=sources
+- pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0-alpha15
+- pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0-alpha15?classifier=sources
+- pkg:maven/com.fireflysource/firefly-jni-helper@5.0.0?classifier=sources

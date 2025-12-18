@@ -1,0 +1,2 @@
+- pkg:maven/io.alapierre.crypto/digital-signature@1.0
+- pkg:maven/io.alapierre.crypto/digital-signature@1.0?classifier=sources

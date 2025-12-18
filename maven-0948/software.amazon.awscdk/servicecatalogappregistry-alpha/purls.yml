@@ -22,3 +22,17 @@
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.0.0-rc.24?classifier=sources
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.1.0-alpha.0
 - pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.1.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.2.0-alpha.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.2.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.3.0-alpha.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.3.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.4.0-alpha.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.4.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.5.0-alpha.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.5.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.6.0-alpha.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.6.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.7.0-alpha.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.7.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.8.0-alpha.0
+- pkg:maven/software.amazon.awscdk/servicecatalogappregistry-alpha@2.8.0-alpha.0?classifier=sources

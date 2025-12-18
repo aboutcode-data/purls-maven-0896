@@ -208,3 +208,5 @@
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-maven-plugin@3.0.6?classifier=sources
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-maven-plugin@3.0.7
 - pkg:maven/io.ultreia.java4all.jaxx/jaxx-maven-plugin@3.0.7?classifier=sources
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-maven-plugin@3.0.8
+- pkg:maven/io.ultreia.java4all.jaxx/jaxx-maven-plugin@3.0.8?classifier=sources

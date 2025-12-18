@@ -18,3 +18,5 @@
 - pkg:maven/com.xnx3.util/xnx3-util@1.5?classifier=sources
 - pkg:maven/com.xnx3.util/xnx3-util@1.6
 - pkg:maven/com.xnx3.util/xnx3-util@1.6?classifier=sources
+- pkg:maven/com.xnx3.util/xnx3-util@1.7
+- pkg:maven/com.xnx3.util/xnx3-util@1.7?classifier=sources

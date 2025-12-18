@@ -38,3 +38,4 @@
 - pkg:maven/org.duracloud/account-management-db-util@6.0.0?classifier=sources
 - pkg:maven/org.duracloud/account-management-db-util@7.0.0
 - pkg:maven/org.duracloud/account-management-db-util@7.0.0?classifier=sources
+- pkg:maven/org.duracloud/account-management-db-util@7.1.0?classifier=sources

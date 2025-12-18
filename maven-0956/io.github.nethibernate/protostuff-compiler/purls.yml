@@ -1,2 +1,4 @@
 - pkg:maven/io.github.nethibernate/protostuff-compiler@1.7.3
 - pkg:maven/io.github.nethibernate/protostuff-compiler@1.7.3?classifier=sources
+- pkg:maven/io.github.nethibernate/protostuff-compiler@1.7.4
+- pkg:maven/io.github.nethibernate/protostuff-compiler@1.7.4?classifier=sources

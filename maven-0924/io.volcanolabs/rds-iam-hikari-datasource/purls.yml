@@ -1,0 +1,4 @@
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@1.0.0
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@1.0.0?classifier=sources
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@1.0.1
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@1.0.1?classifier=sources

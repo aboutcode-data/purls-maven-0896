@@ -252,3 +252,5 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@1.5.2.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@1.5.3.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@1.5.3.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@1.5.4.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@1.5.4.Final?classifier=sources

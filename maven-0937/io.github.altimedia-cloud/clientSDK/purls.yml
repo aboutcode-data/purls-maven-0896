@@ -56,6 +56,10 @@
 - pkg:maven/io.github.altimedia-cloud/clientSDK@1.41-tvgRelease?classifier=sources
 - pkg:maven/io.github.altimedia-cloud/clientSDK@1.41-uhdDebug?classifier=sources
 - pkg:maven/io.github.altimedia-cloud/clientSDK@1.41-uhdRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@1.42-tvgDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@1.42-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@1.42-uhdDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@1.42-uhdRelease?classifier=sources
 - pkg:maven/io.github.altimedia-cloud/clientSDK@99.21-tvgDebug?classifier=sources
 - pkg:maven/io.github.altimedia-cloud/clientSDK@99.21-tvgRelease?classifier=sources
 - pkg:maven/io.github.altimedia-cloud/clientSDK@99.22-tvgRelease?classifier=sources
@@ -186,3 +190,15 @@
 - pkg:maven/io.github.altimedia-cloud/clientSDK@99.67-tvgRelease?classifier=sources
 - pkg:maven/io.github.altimedia-cloud/clientSDK@99.67-uhdDebug?classifier=sources
 - pkg:maven/io.github.altimedia-cloud/clientSDK@99.67-uhdRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.68-tvgDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.68-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.68-uhdDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.68-uhdRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.69-tvgDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.69-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.69-uhdDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.69-uhdRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.70-tvgDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.70-tvgRelease?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.70-uhdDebug?classifier=sources
+- pkg:maven/io.github.altimedia-cloud/clientSDK@99.70-uhdRelease?classifier=sources

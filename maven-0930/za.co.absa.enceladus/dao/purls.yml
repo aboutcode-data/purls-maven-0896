@@ -58,10 +58,14 @@
 - pkg:maven/za.co.absa.enceladus/dao@2.25.1?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.25.2
 - pkg:maven/za.co.absa.enceladus/dao@2.25.2?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.25.3
+- pkg:maven/za.co.absa.enceladus/dao@2.25.3?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.26.0
 - pkg:maven/za.co.absa.enceladus/dao@2.26.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.26.1
 - pkg:maven/za.co.absa.enceladus/dao@2.26.1?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.26.2
+- pkg:maven/za.co.absa.enceladus/dao@2.26.2?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.3.0
 - pkg:maven/za.co.absa.enceladus/dao@2.3.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.3.1

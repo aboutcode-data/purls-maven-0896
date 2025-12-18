@@ -1,2 +1,4 @@
 - pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.0.22?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.0.23?classifier=sources
+- pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.0.24?classifier=sources
+- pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.0.25?classifier=sources

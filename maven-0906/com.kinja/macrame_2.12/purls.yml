@@ -2,6 +2,8 @@
 - pkg:maven/com.kinja/macrame_2.12@1.2.10?classifier=sources
 - pkg:maven/com.kinja/macrame_2.12@1.2.11
 - pkg:maven/com.kinja/macrame_2.12@1.2.11?classifier=sources
+- pkg:maven/com.kinja/macrame_2.12@1.2.12
+- pkg:maven/com.kinja/macrame_2.12@1.2.12?classifier=sources
 - pkg:maven/com.kinja/macrame_2.12@1.2.7
 - pkg:maven/com.kinja/macrame_2.12@1.2.7?classifier=sources
 - pkg:maven/com.kinja/macrame_2.12@1.2.9

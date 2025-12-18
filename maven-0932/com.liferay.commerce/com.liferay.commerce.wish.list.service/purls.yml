@@ -143,6 +143,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.52
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.52?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.52?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.53
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.53?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.53?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@1.0.6
@@ -184,6 +187,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@2.0.8
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@2.0.8?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@2.0.9
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@2.0.9?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@2.0.9?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.0?classifier=sources-commercial
@@ -224,6 +230,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.21
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.21?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.22
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.22?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.wish.list.service@3.0.3

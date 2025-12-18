@@ -23,6 +23,10 @@
 - pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-2
 - pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-21
 - pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-21?classifier=sources
+- pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-22
+- pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-22?classifier=sources
+- pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-23
+- pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-23?classifier=sources
 - pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-2?classifier=sources
 - pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-3
 - pkg:maven/io.ultreia.java4all.i18n/i18n-spi@4.0-beta-3?classifier=sources

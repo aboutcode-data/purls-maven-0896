@@ -1,0 +1,12 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.13
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.13?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.14
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.14?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.15
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.15?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.16
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.16?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.17
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.17?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.18
+- pkg:maven/org.eclipse.dirigible/dirigible-server-picocli@6.1.18?classifier=sources

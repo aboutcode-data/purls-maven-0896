@@ -1,1 +1,4 @@
+- pkg:maven/com.soywiz.korlibs.krypto/krypto-macosarm64@2.4.10?classifier=sources
+- pkg:maven/com.soywiz.korlibs.krypto/krypto-macosarm64@2.4.12?classifier=sources
 - pkg:maven/com.soywiz.korlibs.krypto/krypto-macosarm64@2.4.8?classifier=sources
+- pkg:maven/com.soywiz.korlibs.krypto/krypto-macosarm64@2.4.9?classifier=sources

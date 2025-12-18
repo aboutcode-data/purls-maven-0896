@@ -16,3 +16,5 @@
 - pkg:maven/com.jeramtough/jtcomponent@1.5.3-RELEASE?classifier=sources
 - pkg:maven/com.jeramtough/jtcomponent@1.5.4-RELEASE
 - pkg:maven/com.jeramtough/jtcomponent@1.5.4-RELEASE?classifier=sources
+- pkg:maven/com.jeramtough/jtcomponent@1.5.8-RELEASE
+- pkg:maven/com.jeramtough/jtcomponent@1.5.8-RELEASE?classifier=sources

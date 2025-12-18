@@ -115,6 +115,8 @@
 - pkg:maven/com.riskified/riskified-sdk@v1.0.8
 - pkg:maven/com.riskified/riskified-sdk@v1.0.8?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v1.1.0
+- pkg:maven/com.riskified/riskified-sdk@v1.1.0-ch
+- pkg:maven/com.riskified/riskified-sdk@v1.1.0-ch?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v1.1.0?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v1.2.0
 - pkg:maven/com.riskified/riskified-sdk@v1.2.0?classifier=sources

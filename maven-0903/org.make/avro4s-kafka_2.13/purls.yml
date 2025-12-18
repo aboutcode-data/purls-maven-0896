@@ -1,0 +1,6 @@
+- pkg:maven/org.make/avro4s-kafka_2.13@3.0.5-make
+- pkg:maven/org.make/avro4s-kafka_2.13@3.0.5-make2
+- pkg:maven/org.make/avro4s-kafka_2.13@3.0.5-make2?classifier=sources
+- pkg:maven/org.make/avro4s-kafka_2.13@3.0.5-make3
+- pkg:maven/org.make/avro4s-kafka_2.13@3.0.5-make3?classifier=sources
+- pkg:maven/org.make/avro4s-kafka_2.13@3.0.5-make?classifier=sources

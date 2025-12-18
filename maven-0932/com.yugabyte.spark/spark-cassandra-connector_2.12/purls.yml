@@ -24,3 +24,5 @@
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector_2.12@3.0-yb-beta-1?classifier=sources
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector_2.12@3.0-yb-ga
 - pkg:maven/com.yugabyte.spark/spark-cassandra-connector_2.12@3.0-yb-ga?classifier=sources
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector_2.12@3.1-yb-1
+- pkg:maven/com.yugabyte.spark/spark-cassandra-connector_2.12@3.1-yb-1?classifier=sources

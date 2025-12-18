@@ -1,3 +1,7 @@
+- pkg:maven/com.huaweicloud/esdk-obs-java-bundle@3.21.11
+- pkg:maven/com.huaweicloud/esdk-obs-java-bundle@3.21.11?classifier=sources
+- pkg:maven/com.huaweicloud/esdk-obs-java-bundle@3.21.12
+- pkg:maven/com.huaweicloud/esdk-obs-java-bundle@3.21.12?classifier=sources
 - pkg:maven/com.huaweicloud/esdk-obs-java-bundle@3.21.4
 - pkg:maven/com.huaweicloud/esdk-obs-java-bundle@3.21.4?classifier=sources
 - pkg:maven/com.huaweicloud/esdk-obs-java-bundle@3.21.8

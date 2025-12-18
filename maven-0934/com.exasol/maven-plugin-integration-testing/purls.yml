@@ -2,3 +2,5 @@
 - pkg:maven/com.exasol/maven-plugin-integration-testing@0.1.0?classifier=sources
 - pkg:maven/com.exasol/maven-plugin-integration-testing@1.0.0
 - pkg:maven/com.exasol/maven-plugin-integration-testing@1.0.0?classifier=sources
+- pkg:maven/com.exasol/maven-plugin-integration-testing@1.1.0
+- pkg:maven/com.exasol/maven-plugin-integration-testing@1.1.0?classifier=sources

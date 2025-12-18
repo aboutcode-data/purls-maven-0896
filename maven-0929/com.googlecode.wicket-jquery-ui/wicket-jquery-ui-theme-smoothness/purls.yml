@@ -182,3 +182,7 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.3.2?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.5.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.5.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.6.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.6.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.7.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.7.0?classifier=sources

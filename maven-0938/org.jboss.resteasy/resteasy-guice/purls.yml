@@ -352,3 +352,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-guice@4.7.3.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-guice@4.7.4.Final
 - pkg:maven/org.jboss.resteasy/resteasy-guice@4.7.4.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-guice@4.7.5.Final
+- pkg:maven/org.jboss.resteasy/resteasy-guice@4.7.5.Final?classifier=sources

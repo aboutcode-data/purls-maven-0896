@@ -12,3 +12,5 @@
 - pkg:maven/biz.aQute/biz.aQute.openapi.oauth2.provider@1.5.0?classifier=sources
 - pkg:maven/biz.aQute/biz.aQute.openapi.oauth2.provider@1.6.0
 - pkg:maven/biz.aQute/biz.aQute.openapi.oauth2.provider@1.6.0?classifier=sources
+- pkg:maven/biz.aQute/biz.aQute.openapi.oauth2.provider@1.7.0
+- pkg:maven/biz.aQute/biz.aQute.openapi.oauth2.provider@1.7.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-square-retrofit-webclient@0.4.0
+- pkg:maven/org.springframework.cloud/spring-cloud-square-retrofit-webclient@0.4.0?classifier=sources

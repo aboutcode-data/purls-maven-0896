@@ -20,3 +20,5 @@
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.37.1?type=aar
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.37.2?classifier=sources
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.37.2?type=aar
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.38.0?classifier=sources
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.38.0?type=aar

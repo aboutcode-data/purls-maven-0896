@@ -14,3 +14,5 @@
 - pkg:maven/com.github.shuaidd/qywx-spring-boot-model@3.0.2?classifier=sources
 - pkg:maven/com.github.shuaidd/qywx-spring-boot-model@3.1.0
 - pkg:maven/com.github.shuaidd/qywx-spring-boot-model@3.1.0?classifier=sources
+- pkg:maven/com.github.shuaidd/qywx-spring-boot-model@3.1.1
+- pkg:maven/com.github.shuaidd/qywx-spring-boot-model@3.1.1?classifier=sources

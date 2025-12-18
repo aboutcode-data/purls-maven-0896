@@ -16,3 +16,5 @@
 - pkg:maven/org.flowable/flowable-spring-boot-sample-rest-1.5.x@6.7.0?classifier=sources
 - pkg:maven/org.flowable/flowable-spring-boot-sample-rest-1.5.x@6.7.1
 - pkg:maven/org.flowable/flowable-spring-boot-sample-rest-1.5.x@6.7.1?classifier=sources
+- pkg:maven/org.flowable/flowable-spring-boot-sample-rest-1.5.x@6.7.2
+- pkg:maven/org.flowable/flowable-spring-boot-sample-rest-1.5.x@6.7.2?classifier=sources

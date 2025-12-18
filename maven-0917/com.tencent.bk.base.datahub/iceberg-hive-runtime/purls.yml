@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.bk.base.datahub/iceberg-hive-runtime@0.12.1-bkbase.1
+- pkg:maven/com.tencent.bk.base.datahub/iceberg-hive-runtime@0.12.1-bkbase.1?classifier=sources

@@ -40,6 +40,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@10.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@10.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@10.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@10.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@10.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@10.1.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@2.0.0?classifier=sources-commercial
@@ -83,6 +86,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.10
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.10?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.10?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.11
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.11?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.11?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@3.2.2
@@ -121,6 +127,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@4.0.3
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@4.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@4.0.4
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@4.0.4?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@4.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@6.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@6.0.0?classifier=sources-commercial
@@ -160,6 +169,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@7.2.1
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@7.2.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@7.2.1?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@7.2.2
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@7.2.2?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@7.2.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@8.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@8.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.currency.api@8.0.0?classifier=sources-commercial

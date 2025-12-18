@@ -10,3 +10,7 @@
 - pkg:maven/com.impartus/app@2.0.1?type=aar
 - pkg:maven/com.impartus/app@2.0.2?classifier=sources
 - pkg:maven/com.impartus/app@2.0.2?type=aar
+- pkg:maven/com.impartus/app@2.0.3?classifier=sources
+- pkg:maven/com.impartus/app@2.0.3?type=aar
+- pkg:maven/com.impartus/app@2.0.4?classifier=sources
+- pkg:maven/com.impartus/app@2.0.4?type=aar

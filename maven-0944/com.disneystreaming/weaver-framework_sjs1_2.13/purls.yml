@@ -46,6 +46,10 @@
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.6.6?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.6.7
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.6.7?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.6.8
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.6.8?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.6.9
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.6.9?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.0
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.0-M2
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.0-M2?classifier=sources
@@ -74,3 +78,7 @@
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.6?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.7
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.7?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.8
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.8?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.9
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.9?classifier=sources

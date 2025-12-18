@@ -62,3 +62,5 @@
 - pkg:maven/com.ibm.watson/common@9.2.2?classifier=sources
 - pkg:maven/com.ibm.watson/common@9.3.0
 - pkg:maven/com.ibm.watson/common@9.3.0?classifier=sources
+- pkg:maven/com.ibm.watson/common@9.3.1
+- pkg:maven/com.ibm.watson/common@9.3.1?classifier=sources

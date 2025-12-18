@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.19.0
 - pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.19.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.20.0
+- pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.20.0?classifier=sources

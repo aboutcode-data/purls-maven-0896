@@ -34,6 +34,16 @@
 - pkg:maven/io.provenance.p8e/p8e-index-client@0.8.2-npe-2
 - pkg:maven/io.provenance.p8e/p8e-index-client@0.8.2-npe-2?classifier=sources
 - pkg:maven/io.provenance.p8e/p8e-index-client@0.8.2-npe?classifier=sources
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.20
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.20?classifier=sources
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.21
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.21?classifier=sources
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.22
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.22?classifier=sources
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.23
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.23?classifier=sources
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.24
+- pkg:maven/io.provenance.p8e/p8e-index-client@0.8.24?classifier=sources
 - pkg:maven/io.provenance.p8e/p8e-index-client@0.8.3
 - pkg:maven/io.provenance.p8e/p8e-index-client@0.8.3?classifier=sources
 - pkg:maven/io.provenance.p8e/p8e-index-client@0.8.5

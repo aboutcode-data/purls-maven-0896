@@ -1,0 +1,2 @@
+- pkg:maven/com.github.shoothzj/test-zookeeper@3.1.7
+- pkg:maven/com.github.shoothzj/test-zookeeper@3.1.7?classifier=sources

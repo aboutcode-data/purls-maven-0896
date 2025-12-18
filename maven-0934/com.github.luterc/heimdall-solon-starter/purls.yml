@@ -1,2 +1,4 @@
 - pkg:maven/com.github.luterc/heimdall-solon-starter@1.0.8
 - pkg:maven/com.github.luterc/heimdall-solon-starter@1.0.8?classifier=sources
+- pkg:maven/com.github.luterc/heimdall-solon-starter@1.0.9
+- pkg:maven/com.github.luterc/heimdall-solon-starter@1.0.9?classifier=sources

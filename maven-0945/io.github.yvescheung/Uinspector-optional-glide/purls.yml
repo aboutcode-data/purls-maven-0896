@@ -1,1 +1,3 @@
 - pkg:maven/io.github.yvescheung/Uinspector-optional-glide@1.0.18?classifier=sources
+- pkg:maven/io.github.yvescheung/Uinspector-optional-glide@2.0.10?classifier=sources
+- pkg:maven/io.github.yvescheung/Uinspector-optional-glide@2.0.9?classifier=sources

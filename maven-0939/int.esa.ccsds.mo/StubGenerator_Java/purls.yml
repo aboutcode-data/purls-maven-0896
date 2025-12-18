@@ -10,3 +10,5 @@
 - pkg:maven/int.esa.ccsds.mo/StubGenerator_Java@1.5?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/StubGenerator_Java@1.7
 - pkg:maven/int.esa.ccsds.mo/StubGenerator_Java@1.7?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/StubGenerator_Java@8.0
+- pkg:maven/int.esa.ccsds.mo/StubGenerator_Java@8.0?classifier=sources

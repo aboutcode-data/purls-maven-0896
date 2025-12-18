@@ -122,6 +122,8 @@
 - pkg:maven/org.slf4j/slf4j-jcl@1.7.31?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jcl@1.7.32
 - pkg:maven/org.slf4j/slf4j-jcl@1.7.32?classifier=sources
+- pkg:maven/org.slf4j/slf4j-jcl@1.7.33
+- pkg:maven/org.slf4j/slf4j-jcl@1.7.33?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jcl@1.7.3?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jcl@1.7.4
 - pkg:maven/org.slf4j/slf4j-jcl@1.7.4?classifier=sources

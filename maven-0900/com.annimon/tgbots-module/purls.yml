@@ -19,3 +19,5 @@
 - pkg:maven/com.annimon/tgbots-module@0.7?classifier=sources
 - pkg:maven/com.annimon/tgbots-module@0.8?classifier=sources
 - pkg:maven/com.annimon/tgbots-module@0.9?classifier=sources
+- pkg:maven/com.annimon/tgbots-module@5.4.0?classifier=sources
+- pkg:maven/com.annimon/tgbots-module@5.6.0?classifier=sources

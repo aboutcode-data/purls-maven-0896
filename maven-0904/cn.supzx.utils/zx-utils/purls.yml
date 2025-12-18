@@ -3,6 +3,8 @@
 - pkg:maven/cn.supzx.utils/zx-utils@1.0.1
 - pkg:maven/cn.supzx.utils/zx-utils@1.0.10
 - pkg:maven/cn.supzx.utils/zx-utils@1.0.10?classifier=sources
+- pkg:maven/cn.supzx.utils/zx-utils@1.0.11
+- pkg:maven/cn.supzx.utils/zx-utils@1.0.11?classifier=sources
 - pkg:maven/cn.supzx.utils/zx-utils@1.0.1?classifier=sources
 - pkg:maven/cn.supzx.utils/zx-utils@1.0.3
 - pkg:maven/cn.supzx.utils/zx-utils@1.0.3?classifier=sources

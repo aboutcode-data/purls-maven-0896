@@ -28,3 +28,5 @@
 - pkg:maven/com.expediagroup/beekeeper-path-cleanup@3.4.4?classifier=sources
 - pkg:maven/com.expediagroup/beekeeper-path-cleanup@3.4.5
 - pkg:maven/com.expediagroup/beekeeper-path-cleanup@3.4.5?classifier=sources
+- pkg:maven/com.expediagroup/beekeeper-path-cleanup@3.4.9
+- pkg:maven/com.expediagroup/beekeeper-path-cleanup@3.4.9?classifier=sources

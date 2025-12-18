@@ -44,3 +44,7 @@
 - pkg:maven/org.appenders.log4j/log4j2-elasticsearch2-bulkprocessor@1.5.2?classifier=sources
 - pkg:maven/org.appenders.log4j/log4j2-elasticsearch2-bulkprocessor@1.5.3
 - pkg:maven/org.appenders.log4j/log4j2-elasticsearch2-bulkprocessor@1.5.3?classifier=sources
+- pkg:maven/org.appenders.log4j/log4j2-elasticsearch2-bulkprocessor@1.5.4
+- pkg:maven/org.appenders.log4j/log4j2-elasticsearch2-bulkprocessor@1.5.4?classifier=sources
+- pkg:maven/org.appenders.log4j/log4j2-elasticsearch2-bulkprocessor@1.5.5
+- pkg:maven/org.appenders.log4j/log4j2-elasticsearch2-bulkprocessor@1.5.5?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.xliic/cicd-core@2.7?classifier=sources
 - pkg:maven/com.xliic/cicd-core@2.8
 - pkg:maven/com.xliic/cicd-core@2.8?classifier=sources
+- pkg:maven/com.xliic/cicd-core@3.0
+- pkg:maven/com.xliic/cicd-core@3.0?classifier=sources

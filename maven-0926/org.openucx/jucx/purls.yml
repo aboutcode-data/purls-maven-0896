@@ -63,6 +63,10 @@
 - pkg:maven/org.openucx/jucx@1.12-client-id
 - pkg:maven/org.openucx/jucx@1.12-client-id?classifier=sources
 - pkg:maven/org.openucx/jucx@1.12.0
+- pkg:maven/org.openucx/jucx@1.12.0-rc2
+- pkg:maven/org.openucx/jucx@1.12.0-rc2?classifier=sources
+- pkg:maven/org.openucx/jucx@1.12.0-rc3
+- pkg:maven/org.openucx/jucx@1.12.0-rc3?classifier=sources
 - pkg:maven/org.openucx/jucx@1.12.0?classifier=sources
 - pkg:maven/org.openucx/jucx@1.7.0
 - pkg:maven/org.openucx/jucx@1.7.0?classifier=sources

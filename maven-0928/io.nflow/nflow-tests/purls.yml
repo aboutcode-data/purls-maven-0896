@@ -54,3 +54,5 @@
 - pkg:maven/io.nflow/nflow-tests@7.3.0?classifier=sources
 - pkg:maven/io.nflow/nflow-tests@7.3.1
 - pkg:maven/io.nflow/nflow-tests@7.3.1?classifier=sources
+- pkg:maven/io.nflow/nflow-tests@7.4.0
+- pkg:maven/io.nflow/nflow-tests@7.4.0?classifier=sources

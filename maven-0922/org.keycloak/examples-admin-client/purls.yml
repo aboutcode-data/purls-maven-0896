@@ -9,3 +9,7 @@
 - pkg:maven/org.keycloak/examples-admin-client@15.0.0?type=war
 - pkg:maven/org.keycloak/examples-admin-client@15.0.1?type=war
 - pkg:maven/org.keycloak/examples-admin-client@15.0.2?type=war
+- pkg:maven/org.keycloak/examples-admin-client@15.1.0?type=war
+- pkg:maven/org.keycloak/examples-admin-client@15.1.1?type=war
+- pkg:maven/org.keycloak/examples-admin-client@16.0.0?type=war
+- pkg:maven/org.keycloak/examples-admin-client@16.1.0?type=war

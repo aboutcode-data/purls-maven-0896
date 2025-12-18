@@ -32,7 +32,11 @@
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.25?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.26?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.27?classifier=sources
+- pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.28?classifier=sources
+- pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.29?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.2?classifier=sources
+- pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.30?classifier=sources
+- pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.31?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.3?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.4?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.5?classifier=sources

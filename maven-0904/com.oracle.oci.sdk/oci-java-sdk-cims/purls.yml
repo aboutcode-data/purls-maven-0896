@@ -114,6 +114,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.10.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.11.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.11.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.11.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.11.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.12.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.12.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.13.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.13.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.2.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.2.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.3.0

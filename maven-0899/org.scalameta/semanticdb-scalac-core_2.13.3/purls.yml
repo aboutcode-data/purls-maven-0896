@@ -69,6 +69,8 @@
 - pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.30?classifier=sources
 - pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.31
 - pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.31?classifier=sources
+- pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.32
+- pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.32?classifier=sources
 - pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.3?classifier=sources
 - pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.4
 - pkg:maven/org.scalameta/semanticdb-scalac-core_2.13.3@4.4.4?classifier=sources

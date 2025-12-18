@@ -2,3 +2,5 @@
 - pkg:maven/com.softwaremill.sttp.client3/armeria-backend-monix_3@3.3.16?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client3/armeria-backend-monix_3@3.3.17
 - pkg:maven/com.softwaremill.sttp.client3/armeria-backend-monix_3@3.3.17?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client3/armeria-backend-monix_3@3.3.18
+- pkg:maven/com.softwaremill.sttp.client3/armeria-backend-monix_3@3.3.18?classifier=sources

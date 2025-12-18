@@ -20,6 +20,8 @@
 - pkg:maven/org.projectnessie/nessie-client-tests@0.16.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-client-tests@0.17.0
 - pkg:maven/org.projectnessie/nessie-client-tests@0.17.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-client-tests@0.18.0
+- pkg:maven/org.projectnessie/nessie-client-tests@0.18.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-client-tests@0.2.0
 - pkg:maven/org.projectnessie/nessie-client-tests@0.2.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-client-tests@0.2.1

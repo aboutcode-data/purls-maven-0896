@@ -1,0 +1,4 @@
+- pkg:maven/com.disneystreaming/weaver-monix-core_sjs1_3@0.6.8
+- pkg:maven/com.disneystreaming/weaver-monix-core_sjs1_3@0.6.8?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-monix-core_sjs1_3@0.6.9
+- pkg:maven/com.disneystreaming/weaver-monix-core_sjs1_3@0.6.9?classifier=sources

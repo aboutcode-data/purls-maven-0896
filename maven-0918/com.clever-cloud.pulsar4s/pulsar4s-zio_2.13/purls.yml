@@ -1,0 +1,4 @@
+- pkg:maven/com.clever-cloud.pulsar4s/pulsar4s-zio_2.13@2.8.0
+- pkg:maven/com.clever-cloud.pulsar4s/pulsar4s-zio_2.13@2.8.0?classifier=sources
+- pkg:maven/com.clever-cloud.pulsar4s/pulsar4s-zio_2.13@2.8.1
+- pkg:maven/com.clever-cloud.pulsar4s/pulsar4s-zio_2.13@2.8.1?classifier=sources

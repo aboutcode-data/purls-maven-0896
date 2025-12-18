@@ -248,6 +248,8 @@
 - pkg:maven/org.drools/drools-beliefs@7.61.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-beliefs@7.62.0.Final
 - pkg:maven/org.drools/drools-beliefs@7.62.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-beliefs@7.63.0.Final
+- pkg:maven/org.drools/drools-beliefs@7.63.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-beliefs@7.63.0.t20211129
 - pkg:maven/org.drools/drools-beliefs@7.63.0.t20211129?classifier=sources
 - pkg:maven/org.drools/drools-beliefs@7.7.0.Final
@@ -260,3 +262,7 @@
 - pkg:maven/org.drools/drools-beliefs@8.13.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-beliefs@8.14.0.Beta
 - pkg:maven/org.drools/drools-beliefs@8.14.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-beliefs@8.14.1.Beta
+- pkg:maven/org.drools/drools-beliefs@8.14.1.Beta?classifier=sources
+- pkg:maven/org.drools/drools-beliefs@8.15.0.Beta
+- pkg:maven/org.drools/drools-beliefs@8.15.0.Beta?classifier=sources

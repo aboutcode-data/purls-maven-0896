@@ -1,0 +1,10 @@
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.4
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.4?classifier=sources
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.5
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.5?classifier=sources
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.6
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.6?classifier=sources
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.7
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.7?classifier=sources
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.8
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.8?classifier=sources

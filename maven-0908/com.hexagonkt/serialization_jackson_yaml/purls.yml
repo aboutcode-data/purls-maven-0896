@@ -1,0 +1,4 @@
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@1.6.0?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.0-B1?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.0-B2?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.0-B3?classifier=sources

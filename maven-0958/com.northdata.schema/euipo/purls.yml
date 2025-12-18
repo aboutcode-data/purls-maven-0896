@@ -1,2 +1,4 @@
 - pkg:maven/com.northdata.schema/euipo@1.0.0
 - pkg:maven/com.northdata.schema/euipo@1.0.0?classifier=sources
+- pkg:maven/com.northdata.schema/euipo@2.0.0
+- pkg:maven/com.northdata.schema/euipo@2.0.0?classifier=sources

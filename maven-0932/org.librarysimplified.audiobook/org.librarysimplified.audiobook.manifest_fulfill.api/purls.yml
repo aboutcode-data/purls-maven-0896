@@ -23,3 +23,4 @@
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.manifest_fulfill.api@6.6.0?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.manifest_fulfill.api@6.7.1?classifier=sources
 - pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.manifest_fulfill.api@6.8.0?classifier=sources
+- pkg:maven/org.librarysimplified.audiobook/org.librarysimplified.audiobook.manifest_fulfill.api@7.0.0?classifier=sources

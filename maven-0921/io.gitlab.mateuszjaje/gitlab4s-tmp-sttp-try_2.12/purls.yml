@@ -1,0 +1,4 @@
+- pkg:maven/io.gitlab.mateuszjaje/gitlab4s-tmp-sttp-try_2.12@0.2.5.4
+- pkg:maven/io.gitlab.mateuszjaje/gitlab4s-tmp-sttp-try_2.12@0.2.5.4?classifier=sources
+- pkg:maven/io.gitlab.mateuszjaje/gitlab4s-tmp-sttp-try_2.12@0.2.5.5
+- pkg:maven/io.gitlab.mateuszjaje/gitlab4s-tmp-sttp-try_2.12@0.2.5.5?classifier=sources

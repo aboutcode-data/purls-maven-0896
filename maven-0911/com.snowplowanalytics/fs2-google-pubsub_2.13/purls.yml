@@ -11,4 +11,6 @@
 - pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0.1-M1?classifier=sources
 - pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0.1-M2
 - pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0.1-M2?classifier=sources
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0.1-M3
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0.1-M3?classifier=sources
 - pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0?classifier=sources

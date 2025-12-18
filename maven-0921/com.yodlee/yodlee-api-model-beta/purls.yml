@@ -6,3 +6,7 @@
 - pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.22.beta1?classifier=sources
 - pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.22.beta2
 - pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.22.beta2?classifier=sources
+- pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.22.beta3
+- pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.22.beta3?classifier=sources
+- pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.23.beta1
+- pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.23.beta1?classifier=sources

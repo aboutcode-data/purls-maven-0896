@@ -1,0 +1,6 @@
+- pkg:maven/ru.fusionsoft/unescaped-string@0.2
+- pkg:maven/ru.fusionsoft/unescaped-string@0.2?classifier=sources
+- pkg:maven/ru.fusionsoft/unescaped-string@0.3
+- pkg:maven/ru.fusionsoft/unescaped-string@0.3?classifier=sources
+- pkg:maven/ru.fusionsoft/unescaped-string@0.5
+- pkg:maven/ru.fusionsoft/unescaped-string@0.5?classifier=sources

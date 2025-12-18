@@ -170,6 +170,8 @@
 - pkg:maven/com.bladecoder.engine/blade-engine@2.0.7?classifier=sources
 - pkg:maven/com.bladecoder.engine/blade-engine@2.0.8
 - pkg:maven/com.bladecoder.engine/blade-engine@2.0.8?classifier=sources
+- pkg:maven/com.bladecoder.engine/blade-engine@2.0.9
+- pkg:maven/com.bladecoder.engine/blade-engine@2.0.9?classifier=sources
 - pkg:maven/com.bladecoder.engine/blade-engine@2.1.0
 - pkg:maven/com.bladecoder.engine/blade-engine@2.1.0?classifier=sources
 - pkg:maven/com.bladecoder.engine/blade-engine@2.1.1
@@ -212,3 +214,5 @@
 - pkg:maven/com.bladecoder.engine/blade-engine@4.0.1?classifier=sources
 - pkg:maven/com.bladecoder.engine/blade-engine@4.0.2
 - pkg:maven/com.bladecoder.engine/blade-engine@4.0.2?classifier=sources
+- pkg:maven/com.bladecoder.engine/blade-engine@4.1.0
+- pkg:maven/com.bladecoder.engine/blade-engine@4.1.0?classifier=sources

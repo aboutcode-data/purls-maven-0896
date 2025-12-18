@@ -1,3 +1,5 @@
+- pkg:maven/xyz.goioc/parakeet@0.10
+- pkg:maven/xyz.goioc/parakeet@0.10?classifier=sources
 - pkg:maven/xyz.goioc/parakeet@0.7
 - pkg:maven/xyz.goioc/parakeet@0.7?classifier=sources
 - pkg:maven/xyz.goioc/parakeet@0.8

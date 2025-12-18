@@ -26,3 +26,5 @@
 - pkg:maven/com.sdl.delivery/udp-common-spring-util@11.1.0-1100?classifier=sources
 - pkg:maven/com.sdl.delivery/udp-common-spring-util@11.5.0-1055
 - pkg:maven/com.sdl.delivery/udp-common-spring-util@11.5.0-1055?classifier=sources
+- pkg:maven/com.sdl.delivery/udp-common-spring-util@11.6.0-1201
+- pkg:maven/com.sdl.delivery/udp-common-spring-util@11.6.0-1201?classifier=sources

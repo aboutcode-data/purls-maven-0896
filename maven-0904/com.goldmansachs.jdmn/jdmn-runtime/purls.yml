@@ -36,3 +36,5 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.1.0?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.2.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.2.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.3.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.3.0?classifier=sources

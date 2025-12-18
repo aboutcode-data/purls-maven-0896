@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/css-vars-ponyfill@1.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/css-vars-ponyfill@2.3.1
 - pkg:maven/org.webjars.npm/css-vars-ponyfill@2.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/css-vars-ponyfill@2.4.7
+- pkg:maven/org.webjars.npm/css-vars-ponyfill@2.4.7?classifier=sources

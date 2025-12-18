@@ -14,3 +14,5 @@
 - pkg:maven/com.ibm.ta.sdk/ta-sdk-sample@0.6.0?classifier=sources
 - pkg:maven/com.ibm.ta.sdk/ta-sdk-sample@0.6.1
 - pkg:maven/com.ibm.ta.sdk/ta-sdk-sample@0.6.1?classifier=sources
+- pkg:maven/com.ibm.ta.sdk/ta-sdk-sample@0.6.3
+- pkg:maven/com.ibm.ta.sdk/ta-sdk-sample@0.6.3?classifier=sources

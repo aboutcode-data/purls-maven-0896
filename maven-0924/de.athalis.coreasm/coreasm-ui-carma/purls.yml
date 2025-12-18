@@ -1,2 +1,4 @@
 - pkg:maven/de.athalis.coreasm/coreasm-ui-carma@1.7.3-locke-4
 - pkg:maven/de.athalis.coreasm/coreasm-ui-carma@1.7.3-locke-4?classifier=sources
+- pkg:maven/de.athalis.coreasm/coreasm-ui-carma@1.7.3-locke-5
+- pkg:maven/de.athalis.coreasm/coreasm-ui-carma@1.7.3-locke-5?classifier=sources

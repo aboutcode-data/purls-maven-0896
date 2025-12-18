@@ -19,3 +19,8 @@
 - pkg:maven/org.jmonkeyengine/jme3-examples@3.4.1-stable
 - pkg:maven/org.jmonkeyengine/jme3-examples@3.4.1-stable?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-examples@3.5.0-alpha1?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-examples@3.5.0-beta4?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-examples@3.5.0-beta5?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-examples@3.5.0-beta6?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-examples@3.5.0-beta7?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-examples@3.5.0-beta9?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/net.ranides/assira.lambda@2.7.0?classifier=sources
 - pkg:maven/net.ranides/assira.lambda@2.7.2
 - pkg:maven/net.ranides/assira.lambda@2.7.2?classifier=sources
+- pkg:maven/net.ranides/assira.lambda@2.8.0
+- pkg:maven/net.ranides/assira.lambda@2.8.0?classifier=sources
+- pkg:maven/net.ranides/assira.lambda@2.8.1
+- pkg:maven/net.ranides/assira.lambda@2.8.1?classifier=sources

@@ -20,3 +20,9 @@
 - pkg:maven/org.pgpainless/sop-java@1.0.0-rc4?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@1.0.0-rc5?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@1.0.0-rc6?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@1.0.0-rc7?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@1.0.0-rc8?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@1.0.0-rc9?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@1.0.0?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@1.0.1?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@1.1.0?classifier=sources

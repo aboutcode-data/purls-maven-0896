@@ -6,3 +6,5 @@
 - pkg:maven/io.github.ezviz-open/streamctrl@1.2.3?type=aar
 - pkg:maven/io.github.ezviz-open/streamctrl@1.2.4?classifier=sources
 - pkg:maven/io.github.ezviz-open/streamctrl@1.2.4?type=aar
+- pkg:maven/io.github.ezviz-open/streamctrl@1.2.5?classifier=sources
+- pkg:maven/io.github.ezviz-open/streamctrl@1.2.5?type=aar

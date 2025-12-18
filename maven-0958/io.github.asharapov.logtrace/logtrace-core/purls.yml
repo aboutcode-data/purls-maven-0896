@@ -1,2 +1,4 @@
 - pkg:maven/io.github.asharapov.logtrace/logtrace-core@0.8.0
 - pkg:maven/io.github.asharapov.logtrace/logtrace-core@0.8.0?classifier=sources
+- pkg:maven/io.github.asharapov.logtrace/logtrace-core@0.8.1
+- pkg:maven/io.github.asharapov.logtrace/logtrace-core@0.8.1?classifier=sources

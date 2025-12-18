@@ -1,0 +1,2 @@
+- pkg:maven/com.jmuscles/jmuscles-datasource@1.1
+- pkg:maven/com.jmuscles/jmuscles-datasource@1.1?classifier=sources

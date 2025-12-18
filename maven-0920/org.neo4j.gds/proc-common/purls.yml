@@ -66,3 +66,6 @@
 - pkg:maven/org.neo4j.gds/proc-common@1.8.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.gds/proc-common@1.8.0-alpha04?classifier=sources
 - pkg:maven/org.neo4j.gds/proc-common@1.8.0?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-common@1.8.1?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-common@1.8.2?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-common@2.0.0-alpha01?classifier=sources

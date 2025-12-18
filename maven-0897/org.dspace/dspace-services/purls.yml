@@ -107,4 +107,6 @@
 - pkg:maven/org.dspace/dspace-services@7.0-preview-1?classifier=sources
 - pkg:maven/org.dspace/dspace-services@7.0?classifier=sources
 - pkg:maven/org.dspace/dspace-services@7.1
+- pkg:maven/org.dspace/dspace-services@7.1.1
+- pkg:maven/org.dspace/dspace-services@7.1.1?classifier=sources
 - pkg:maven/org.dspace/dspace-services@7.1?classifier=sources

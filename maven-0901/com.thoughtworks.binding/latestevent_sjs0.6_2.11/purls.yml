@@ -93,6 +93,8 @@
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B1-ab59002e
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B1-ab59002e?classifier=sources
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B10-dc2942f1
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B10-dc2942f1?classifier=sources
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B2-782c9903
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B2-782c9903?classifier=sources
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B3-43237f68
@@ -103,4 +105,10 @@
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B5-22e84ec8?classifier=sources
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B6-c855f8a9
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B6-c855f8a9?classifier=sources
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B7-eb81c2d9
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B7-eb81c2d9?classifier=sources
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B8-f9aa3035
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B8-f9aa3035?classifier=sources
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B9-76f0fa16
+- pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0%2B9-76f0fa16?classifier=sources
 - pkg:maven/com.thoughtworks.binding/latestevent_sjs0.6_2.11@1.0.0?classifier=sources

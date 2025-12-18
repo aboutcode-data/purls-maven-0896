@@ -6,3 +6,5 @@
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines-js@7.1.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines-js@8.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-coroutines-js@8.0.1?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-coroutines-js@9.0.0-RC?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-coroutines-js@9.0.0?classifier=sources
