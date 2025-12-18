@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.calcite/calcite-innodb@1.27.0
 - pkg:maven/org.apache.calcite/calcite-innodb@1.27.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-innodb@1.28.0
+- pkg:maven/org.apache.calcite/calcite-innodb@1.28.0?classifier=sources

@@ -70,6 +70,12 @@
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.272?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.274
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.274?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.278
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.278?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.282
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.282?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.285
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.285?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.37
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.37?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.64

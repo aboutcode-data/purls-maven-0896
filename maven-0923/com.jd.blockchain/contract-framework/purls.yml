@@ -18,3 +18,7 @@
 - pkg:maven/com.jd.blockchain/contract-framework@1.4.3.RELEASE?classifier=sources
 - pkg:maven/com.jd.blockchain/contract-framework@1.5.0.RELEASE
 - pkg:maven/com.jd.blockchain/contract-framework@1.5.0.RELEASE?classifier=sources
+- pkg:maven/com.jd.blockchain/contract-framework@1.6.0.RELEASE
+- pkg:maven/com.jd.blockchain/contract-framework@1.6.0.RELEASE?classifier=sources
+- pkg:maven/com.jd.blockchain/contract-framework@1.6.1.RELEASE
+- pkg:maven/com.jd.blockchain/contract-framework@1.6.1.RELEASE?classifier=sources

@@ -13,4 +13,8 @@
 - pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5.1?classifier=sources
 - pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5.2
 - pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5.2?classifier=sources
+- pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5.3
+- pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5.3?classifier=sources
+- pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5.4
+- pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5.4?classifier=sources
 - pkg:maven/net.jacobpeterson/iqfeed4j@6.2-1.5?classifier=sources

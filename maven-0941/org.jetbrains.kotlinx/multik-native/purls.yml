@@ -3,3 +3,4 @@
 - pkg:maven/org.jetbrains.kotlinx/multik-native@0.1.0-dev-2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/multik-native@0.1.0-dev-3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/multik-native@0.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/multik-native@0.1.1?classifier=sources

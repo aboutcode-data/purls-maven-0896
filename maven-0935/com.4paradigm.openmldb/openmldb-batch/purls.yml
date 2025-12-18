@@ -28,3 +28,15 @@
 - pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.2.3-macos
 - pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.2.3-macos?classifier=sources
 - pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.2.3?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.0
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.0-allinone
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.0-allinone?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.0-macos
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.0-macos?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.0?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.2
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.2-allinone
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.2-allinone?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.2-macos
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.2-macos?classifier=sources
+- pkg:maven/com.4paradigm.openmldb/openmldb-batch@0.3.2?classifier=sources

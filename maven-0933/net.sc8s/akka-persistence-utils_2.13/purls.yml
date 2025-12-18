@@ -1,0 +1,8 @@
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.40.0
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.40.0?classifier=sources
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.41.0
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.41.0?classifier=sources
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.42.0
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.42.0?classifier=sources
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.43.0
+- pkg:maven/net.sc8s/akka-persistence-utils_2.13@0.43.0?classifier=sources

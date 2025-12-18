@@ -1,0 +1,2 @@
+- pkg:maven/io.holixon.axon.testing/axon-server-testcontainer@0.0.1
+- pkg:maven/io.holixon.axon.testing/axon-server-testcontainer@0.0.1?classifier=sources

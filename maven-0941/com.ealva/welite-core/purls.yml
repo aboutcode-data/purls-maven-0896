@@ -4,3 +4,6 @@
 - pkg:maven/com.ealva/welite-core@0.1.0-0?classifier=sources
 - pkg:maven/com.ealva/welite-core@0.2.0-0?classifier=sources
 - pkg:maven/com.ealva/welite-core@0.2.1-0?classifier=sources
+- pkg:maven/com.ealva/welite-core@0.2.10-0?classifier=sources
+- pkg:maven/com.ealva/welite-core@0.2.11-0?classifier=sources
+- pkg:maven/com.ealva/welite-core@0.2.7-0?classifier=sources

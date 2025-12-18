@@ -1,3 +1,5 @@
+- pkg:maven/org.meeuw/mihxil-json-core@0.10
+- pkg:maven/org.meeuw/mihxil-json-core@0.10?classifier=sources
 - pkg:maven/org.meeuw/mihxil-json-core@0.7
 - pkg:maven/org.meeuw/mihxil-json-core@0.7?classifier=sources
 - pkg:maven/org.meeuw/mihxil-json-core@0.8

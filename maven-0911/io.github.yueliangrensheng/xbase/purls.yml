@@ -2,3 +2,5 @@
 - pkg:maven/io.github.yueliangrensheng/xbase@1.0.7.1?type=aar
 - pkg:maven/io.github.yueliangrensheng/xbase@1.0.7.2?classifier=sources
 - pkg:maven/io.github.yueliangrensheng/xbase@1.0.7.2?type=aar
+- pkg:maven/io.github.yueliangrensheng/xbase@1.0.8?classifier=sources
+- pkg:maven/io.github.yueliangrensheng/xbase@1.0.8?type=aar

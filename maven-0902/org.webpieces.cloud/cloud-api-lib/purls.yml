@@ -1,1 +1,14 @@
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.10?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.11?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.13?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.14?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.15?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.17?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.20?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.21.1?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.21.2?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.21?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.22?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.23?classifier=sources
 - pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.2?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.8?classifier=sources

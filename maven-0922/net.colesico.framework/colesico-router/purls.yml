@@ -94,3 +94,5 @@
 - pkg:maven/net.colesico.framework/colesico-router@4.6.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-router@5.0.0
 - pkg:maven/net.colesico.framework/colesico-router@5.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-router@5.1.0
+- pkg:maven/net.colesico.framework/colesico-router@5.1.0?classifier=sources

@@ -84,8 +84,12 @@
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.46.0?classifier=sources
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.47.0
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.47.0?classifier=sources
+- pkg:maven/com.bluenimble.serverless/bluenimble-server@2.49.0
+- pkg:maven/com.bluenimble.serverless/bluenimble-server@2.49.0?classifier=sources
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.5.0
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.5.0?classifier=sources
+- pkg:maven/com.bluenimble.serverless/bluenimble-server@2.50.0
+- pkg:maven/com.bluenimble.serverless/bluenimble-server@2.50.0?classifier=sources
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.6.0
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.6.0?classifier=sources
 - pkg:maven/com.bluenimble.serverless/bluenimble-server@2.7.0

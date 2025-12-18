@@ -2,3 +2,5 @@
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.2?classifier=sources
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.3
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.3?classifier=sources
+- pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.4
+- pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.4?classifier=sources

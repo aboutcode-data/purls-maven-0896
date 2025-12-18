@@ -232,3 +232,7 @@
 - pkg:maven/com.netease.nimlib/chatroom@8.7.2?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@8.7.3?classifier=sources
 - pkg:maven/com.netease.nimlib/chatroom@8.7.3?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@8.8.0?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@8.8.0?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@8.8.3?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@8.8.3?type=aar

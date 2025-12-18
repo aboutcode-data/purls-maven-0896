@@ -2,3 +2,4 @@
 - pkg:maven/com.bisnode.opa/opa-java-client@0.0.2?classifier=sources
 - pkg:maven/com.bisnode.opa/opa-java-client@0.1.0?classifier=sources
 - pkg:maven/com.bisnode.opa/opa-java-client@0.2.0?classifier=sources
+- pkg:maven/com.bisnode.opa/opa-java-client@0.3.0?classifier=sources

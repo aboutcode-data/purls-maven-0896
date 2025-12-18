@@ -10,3 +10,5 @@
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client@0.38?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client@0.39
 - pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client@0.39?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client@0.40
+- pkg:maven/de.fraunhofer.iosb.ilt/FROST-Client@0.40?classifier=sources

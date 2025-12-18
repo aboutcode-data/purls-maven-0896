@@ -1,2 +1,3 @@
 - pkg:maven/de.uni-bremen.informatik.st/libvcs4j-tools@1.7.0
 - pkg:maven/de.uni-bremen.informatik.st/libvcs4j-tools@1.7.0?classifier=sources
+- pkg:maven/de.uni-bremen.informatik.st/libvcs4j-tools@1.8.0?classifier=sources

@@ -85,3 +85,9 @@
 - pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.17.8?classifier=sources
 - pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.18.1
 - pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.18.1?classifier=sources
+- pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.19.0
+- pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.19.0?classifier=sources
+- pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.19.1
+- pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.19.1?classifier=sources
+- pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.19.2
+- pkg:maven/io.joynr.android/libjoynr-android-websocket-runtime@1.19.2?classifier=sources

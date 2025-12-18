@@ -1,4 +1,8 @@
 - pkg:maven/com.expediagroup.beans/bull-map-transformer@2.0.0-jdk11
 - pkg:maven/com.expediagroup.beans/bull-map-transformer@2.0.0-jdk11?classifier=sources
+- pkg:maven/com.expediagroup.beans/bull-map-transformer@2.0.1-jdk11
+- pkg:maven/com.expediagroup.beans/bull-map-transformer@2.0.1-jdk11?classifier=sources
 - pkg:maven/com.expediagroup.beans/bull-map-transformer@2.1.0
 - pkg:maven/com.expediagroup.beans/bull-map-transformer@2.1.0?classifier=sources
+- pkg:maven/com.expediagroup.beans/bull-map-transformer@2.1.1
+- pkg:maven/com.expediagroup.beans/bull-map-transformer@2.1.1?classifier=sources

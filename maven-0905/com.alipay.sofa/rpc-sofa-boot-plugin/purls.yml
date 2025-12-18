@@ -12,10 +12,12 @@
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.4.5
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.4.6
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.4.7
+- pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.4.8
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.6.0
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.7.0
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.8.0
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.9.0
+- pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@3.9.1
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@5.4.4
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@5.4.4?classifier=sources
 - pkg:maven/com.alipay.sofa/rpc-sofa-boot-plugin@5.4.5

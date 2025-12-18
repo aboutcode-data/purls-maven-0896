@@ -48,3 +48,7 @@
 - pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-impl@2.3.1?classifier=sources
 - pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-impl@2.3.2
 - pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-impl@2.3.2?classifier=sources
+- pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-impl@2.5.4
+- pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-impl@2.5.4?classifier=sources
+- pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-impl@3.0.0-alpha.1
+- pkg:maven/org.jboss.arquillian.graphene/graphene-webdriver-impl@3.0.0-alpha.1?classifier=sources

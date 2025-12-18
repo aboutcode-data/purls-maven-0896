@@ -56,6 +56,14 @@
 - pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.124.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.125.0
 - pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.125.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.126.0
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.126.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.127.0
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.127.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.128.0
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.128.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.129.0
+- pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.129.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.62.0
 - pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.62.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/eventsrulesns@1.63.0

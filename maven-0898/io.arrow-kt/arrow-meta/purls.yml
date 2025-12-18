@@ -20,3 +20,4 @@
 - pkg:maven/io.arrow-kt/arrow-meta@0.9.0
 - pkg:maven/io.arrow-kt/arrow-meta@0.9.0?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-meta@1.0.0?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-meta@1.0.1?classifier=sources

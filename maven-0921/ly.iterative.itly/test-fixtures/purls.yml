@@ -4,6 +4,7 @@
 - pkg:maven/ly.iterative.itly/test-fixtures@1.1.1?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.0?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.10?classifier=sources
+- pkg:maven/ly.iterative.itly/test-fixtures@1.2.11?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.1?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.2?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@1.2.3?classifier=sources
@@ -15,3 +16,4 @@
 - pkg:maven/ly.iterative.itly/test-fixtures@2.0-beta-1?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@2.0-beta-2?classifier=sources
 - pkg:maven/ly.iterative.itly/test-fixtures@2.0-beta-3?classifier=sources
+- pkg:maven/ly.iterative.itly/test-fixtures@2.0-beta-4?classifier=sources

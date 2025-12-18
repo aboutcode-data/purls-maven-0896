@@ -1,0 +1,4 @@
+- pkg:maven/tech.becoming/common@1.0.6
+- pkg:maven/tech.becoming/common@1.0.6?classifier=sources
+- pkg:maven/tech.becoming/common@1.0.7
+- pkg:maven/tech.becoming/common@1.0.7?classifier=sources

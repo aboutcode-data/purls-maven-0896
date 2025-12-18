@@ -239,6 +239,10 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.1-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.10
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.10-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.10?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.2-rc-1
@@ -257,6 +261,10 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4.2?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4.3
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4.3?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4.4
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4.4?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4.5
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4.5?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.4?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.5
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.5-rc-1
@@ -274,3 +282,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.8-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.8-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.8?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.9
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.9-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.9-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@13.9?classifier=sources

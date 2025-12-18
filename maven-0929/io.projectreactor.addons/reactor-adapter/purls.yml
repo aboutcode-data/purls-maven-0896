@@ -60,6 +60,8 @@
 - pkg:maven/io.projectreactor.addons/reactor-adapter@3.3.6.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-adapter@3.3.7.RELEASE
 - pkg:maven/io.projectreactor.addons/reactor-adapter@3.3.7.RELEASE?classifier=sources
+- pkg:maven/io.projectreactor.addons/reactor-adapter@3.3.8.RELEASE
+- pkg:maven/io.projectreactor.addons/reactor-adapter@3.3.8.RELEASE?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-adapter@3.4.0
 - pkg:maven/io.projectreactor.addons/reactor-adapter@3.4.0?classifier=sources
 - pkg:maven/io.projectreactor.addons/reactor-adapter@3.4.1

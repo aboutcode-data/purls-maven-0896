@@ -2,3 +2,5 @@
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.0.31?classifier=sources
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.0.36
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.0.36?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.0.45
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.0.45?classifier=sources

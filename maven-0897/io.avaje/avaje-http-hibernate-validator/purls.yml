@@ -6,3 +6,5 @@
 - pkg:maven/io.avaje/avaje-http-hibernate-validator@2.0?classifier=sources
 - pkg:maven/io.avaje/avaje-http-hibernate-validator@2.5
 - pkg:maven/io.avaje/avaje-http-hibernate-validator@2.5?classifier=sources
+- pkg:maven/io.avaje/avaje-http-hibernate-validator@2.6
+- pkg:maven/io.avaje/avaje-http-hibernate-validator@2.6?classifier=sources

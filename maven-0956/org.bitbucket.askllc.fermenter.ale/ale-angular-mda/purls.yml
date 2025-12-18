@@ -44,3 +44,5 @@
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.2.0?classifier=sources
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.3.0
 - pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.3.0?classifier=sources
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.4.0
+- pkg:maven/org.bitbucket.askllc.fermenter.ale/ale-angular-mda@2.4.0?classifier=sources

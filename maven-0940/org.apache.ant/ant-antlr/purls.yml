@@ -5,6 +5,8 @@
 - pkg:maven/org.apache.ant/ant-antlr@1.10.10?classifier=sources
 - pkg:maven/org.apache.ant/ant-antlr@1.10.11
 - pkg:maven/org.apache.ant/ant-antlr@1.10.11?classifier=sources
+- pkg:maven/org.apache.ant/ant-antlr@1.10.12
+- pkg:maven/org.apache.ant/ant-antlr@1.10.12?classifier=sources
 - pkg:maven/org.apache.ant/ant-antlr@1.10.1?classifier=sources
 - pkg:maven/org.apache.ant/ant-antlr@1.10.2
 - pkg:maven/org.apache.ant/ant-antlr@1.10.2?classifier=sources

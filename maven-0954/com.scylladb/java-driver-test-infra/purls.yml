@@ -1,5 +1,7 @@
 - pkg:maven/com.scylladb/java-driver-test-infra@4.11.1.0
 - pkg:maven/com.scylladb/java-driver-test-infra@4.11.1.0?classifier=sources
+- pkg:maven/com.scylladb/java-driver-test-infra@4.13.0.0
+- pkg:maven/com.scylladb/java-driver-test-infra@4.13.0.0?classifier=sources
 - pkg:maven/com.scylladb/java-driver-test-infra@4.7.2.0
 - pkg:maven/com.scylladb/java-driver-test-infra@4.7.2.0?classifier=sources
 - pkg:maven/com.scylladb/java-driver-test-infra@4.8.0-scylla-0

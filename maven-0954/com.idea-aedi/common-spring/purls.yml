@@ -24,3 +24,15 @@
 - pkg:maven/com.idea-aedi/common-spring@2022.06?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@2022.07
 - pkg:maven/com.idea-aedi/common-spring@2022.07?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2022.08
+- pkg:maven/com.idea-aedi/common-spring@2022.08?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2022.09
+- pkg:maven/com.idea-aedi/common-spring@2022.09?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2022.10
+- pkg:maven/com.idea-aedi/common-spring@2022.10?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2022.11
+- pkg:maven/com.idea-aedi/common-spring@2022.11?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2022.12
+- pkg:maven/com.idea-aedi/common-spring@2022.12?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2023.01
+- pkg:maven/com.idea-aedi/common-spring@2023.01?classifier=sources

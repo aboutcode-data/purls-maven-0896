@@ -1,3 +1,7 @@
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.10-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.7
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.7-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.7-rc-1?classifier=sources
@@ -6,3 +10,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.8-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.8-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.8?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.9
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.9-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.9-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@13.9?classifier=sources

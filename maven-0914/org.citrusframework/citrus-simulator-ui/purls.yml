@@ -1,0 +1,2 @@
+- pkg:maven/org.citrusframework/citrus-simulator-ui@2.0.0
+- pkg:maven/org.citrusframework/citrus-simulator-ui@2.0.0?classifier=sources

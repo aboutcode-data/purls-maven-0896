@@ -1,4 +1,6 @@
 - pkg:maven/org.anyline/anyline-alipay@8.3.1
+- pkg:maven/org.anyline/anyline-alipay@8.3.10
+- pkg:maven/org.anyline/anyline-alipay@8.3.10?classifier=sources
 - pkg:maven/org.anyline/anyline-alipay@8.3.1?classifier=sources
 - pkg:maven/org.anyline/anyline-alipay@8.3.2
 - pkg:maven/org.anyline/anyline-alipay@8.3.2?classifier=sources
@@ -14,3 +16,5 @@
 - pkg:maven/org.anyline/anyline-alipay@8.3.8?classifier=sources
 - pkg:maven/org.anyline/anyline-alipay@8.3.9
 - pkg:maven/org.anyline/anyline-alipay@8.3.9?classifier=sources
+- pkg:maven/org.anyline/anyline-alipay@8.5.0
+- pkg:maven/org.anyline/anyline-alipay@8.5.0?classifier=sources

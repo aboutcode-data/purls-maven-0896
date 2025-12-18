@@ -52,11 +52,17 @@
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@2.0.1-RC3
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@2.0.1-RC3?classifier=sources
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@2.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC1
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC2
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC3
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC3?classifier=sources
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC4
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC4?classifier=sources
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC5
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC5?classifier=sources
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-m1
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-m1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0?classifier=sources

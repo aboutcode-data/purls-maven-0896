@@ -8,6 +8,8 @@
 - pkg:maven/org.opencastproject/opencast-statistics-service-remote@10.3?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-service-remote@10.4
 - pkg:maven/org.opencastproject/opencast-statistics-service-remote@10.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-statistics-service-remote@10.5
+- pkg:maven/org.opencastproject/opencast-statistics-service-remote@10.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-service-remote@8.0
 - pkg:maven/org.opencastproject/opencast-statistics-service-remote@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-statistics-service-remote@8.1

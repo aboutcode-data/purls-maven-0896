@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.ranger/ranger-plugin-classloader@1.2.0
 - pkg:maven/org.apache.ranger/ranger-plugin-classloader@2.0.0
 - pkg:maven/org.apache.ranger/ranger-plugin-classloader@2.1.0
+- pkg:maven/org.apache.ranger/ranger-plugin-classloader@2.2.0

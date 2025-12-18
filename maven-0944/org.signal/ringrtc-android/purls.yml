@@ -48,6 +48,12 @@
 - pkg:maven/org.signal/ringrtc-android@2.13.3?type=aar
 - pkg:maven/org.signal/ringrtc-android@2.13.4?type=aar
 - pkg:maven/org.signal/ringrtc-android@2.13.5?type=aar
+- pkg:maven/org.signal/ringrtc-android@2.13.6?type=aar
+- pkg:maven/org.signal/ringrtc-android@2.14.0?type=aar
+- pkg:maven/org.signal/ringrtc-android@2.14.2?type=aar
+- pkg:maven/org.signal/ringrtc-android@2.14.3?type=aar
+- pkg:maven/org.signal/ringrtc-android@2.15.0?type=aar
+- pkg:maven/org.signal/ringrtc-android@2.16.0?type=aar
 - pkg:maven/org.signal/ringrtc-android@2.2.0?type=aar
 - pkg:maven/org.signal/ringrtc-android@2.3.0?type=aar
 - pkg:maven/org.signal/ringrtc-android@2.3.1?type=aar

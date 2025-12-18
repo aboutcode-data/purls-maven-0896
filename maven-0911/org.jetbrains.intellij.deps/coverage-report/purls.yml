@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.intellij.deps/coverage-report@1.0.11?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/coverage-report@1.0.12?classifier=sources

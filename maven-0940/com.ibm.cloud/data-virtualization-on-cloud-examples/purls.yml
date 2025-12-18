@@ -4,3 +4,5 @@
 - pkg:maven/com.ibm.cloud/data-virtualization-on-cloud-examples@0.0.7?classifier=sources
 - pkg:maven/com.ibm.cloud/data-virtualization-on-cloud-examples@0.0.8
 - pkg:maven/com.ibm.cloud/data-virtualization-on-cloud-examples@0.0.8?classifier=sources
+- pkg:maven/com.ibm.cloud/data-virtualization-on-cloud-examples@0.1.0
+- pkg:maven/com.ibm.cloud/data-virtualization-on-cloud-examples@0.1.0?classifier=sources

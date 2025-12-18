@@ -56,6 +56,14 @@
 - pkg:maven/net.polyv/polyv-java-sdk-common@1.1.12?classifier=sources
 - pkg:maven/net.polyv/polyv-java-sdk-common@1.1.13
 - pkg:maven/net.polyv/polyv-java-sdk-common@1.1.13?classifier=sources
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.14
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.14?classifier=sources
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.15
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.15?classifier=sources
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.16
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.16?classifier=sources
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.17
+- pkg:maven/net.polyv/polyv-java-sdk-common@1.1.17?classifier=sources
 - pkg:maven/net.polyv/polyv-java-sdk-common@1.1.2
 - pkg:maven/net.polyv/polyv-java-sdk-common@1.1.2?classifier=sources
 - pkg:maven/net.polyv/polyv-java-sdk-common@1.1.3

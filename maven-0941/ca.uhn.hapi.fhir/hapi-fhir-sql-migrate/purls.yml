@@ -1,0 +1,2 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-sql-migrate@5.6.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-sql-migrate@5.6.0?classifier=sources

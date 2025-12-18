@@ -1,0 +1,2 @@
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-bigquery-storage_2.13@3.0.4
+- pkg:maven/com.lightbend.akka/akka-stream-alpakka-google-cloud-bigquery-storage_2.13@3.0.4?classifier=sources

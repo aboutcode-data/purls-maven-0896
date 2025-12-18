@@ -1,3 +1,7 @@
 - pkg:maven/com.dua3.meja/meja-swing@3-BETA10?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@3-BETA11?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@3-BETA12?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@3-BETA13?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@3-BETA15?classifier=sources
 - pkg:maven/com.dua3.meja/meja-swing@3-BETA9?classifier=sources
 - pkg:maven/com.dua3.meja/meja-swing@3.0.0-beta3?classifier=sources

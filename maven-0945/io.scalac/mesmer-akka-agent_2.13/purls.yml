@@ -5,4 +5,6 @@
 - pkg:maven/io.scalac/mesmer-akka-agent_2.13@0.3-alpha.3?classifier=sources
 - pkg:maven/io.scalac/mesmer-akka-agent_2.13@0.3?classifier=sources
 - pkg:maven/io.scalac/mesmer-akka-agent_2.13@0.4
+- pkg:maven/io.scalac/mesmer-akka-agent_2.13@0.4.1
+- pkg:maven/io.scalac/mesmer-akka-agent_2.13@0.4.1?classifier=sources
 - pkg:maven/io.scalac/mesmer-akka-agent_2.13@0.4?classifier=sources

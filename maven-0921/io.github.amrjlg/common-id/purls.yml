@@ -1,2 +1,4 @@
 - pkg:maven/io.github.amrjlg/common-id@1.3-RELEASE
 - pkg:maven/io.github.amrjlg/common-id@1.3-RELEASE?classifier=sources
+- pkg:maven/io.github.amrjlg/common-id@1.4-RELEASE
+- pkg:maven/io.github.amrjlg/common-id@1.4-RELEASE?classifier=sources

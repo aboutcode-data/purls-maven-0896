@@ -28,3 +28,5 @@
 - pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.6.6?classifier=sources
 - pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.6.7
 - pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.6.7?classifier=sources
+- pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.6.8
+- pkg:maven/com.github.fangjinuo.agileway/agileway-vfs@2.6.8?classifier=sources

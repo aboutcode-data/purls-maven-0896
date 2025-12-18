@@ -1,3 +1,7 @@
+- pkg:maven/com.twitter/finatra-http-core_2.12@21.10.0
+- pkg:maven/com.twitter/finatra-http-core_2.12@21.10.0?classifier=sources
+- pkg:maven/com.twitter/finatra-http-core_2.12@21.11.0
+- pkg:maven/com.twitter/finatra-http-core_2.12@21.11.0?classifier=sources
 - pkg:maven/com.twitter/finatra-http-core_2.12@21.3.0
 - pkg:maven/com.twitter/finatra-http-core_2.12@21.3.0?classifier=sources
 - pkg:maven/com.twitter/finatra-http-core_2.12@21.4.0

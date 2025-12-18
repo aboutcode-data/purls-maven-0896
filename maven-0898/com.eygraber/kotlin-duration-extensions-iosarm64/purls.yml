@@ -1,2 +1,4 @@
 - pkg:maven/com.eygraber/kotlin-duration-extensions-iosarm64@1.0.0?classifier=sources
 - pkg:maven/com.eygraber/kotlin-duration-extensions-iosarm64@1.0.1?classifier=sources
+- pkg:maven/com.eygraber/kotlin-duration-extensions-iosarm64@1.1.0?classifier=sources
+- pkg:maven/com.eygraber/kotlin-duration-extensions-iosarm64@1.1.1?classifier=sources

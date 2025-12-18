@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly/wildfly-jsf-jakarta@26.0.0.Beta1
+- pkg:maven/org.wildfly/wildfly-jsf-jakarta@26.0.0.Beta1?classifier=sources

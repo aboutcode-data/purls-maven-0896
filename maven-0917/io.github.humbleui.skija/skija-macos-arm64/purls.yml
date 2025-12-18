@@ -1,0 +1,2 @@
+- pkg:maven/io.github.humbleui.skija/skija-macos-arm64@0.96.0
+- pkg:maven/io.github.humbleui.skija/skija-macos-arm64@0.96.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.basyx/basyx.components.lib@1.0.1
+- pkg:maven/org.eclipse.basyx/basyx.components.lib@1.0.1?classifier=sources

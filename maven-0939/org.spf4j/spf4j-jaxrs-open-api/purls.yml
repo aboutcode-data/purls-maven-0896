@@ -22,3 +22,5 @@
 - pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.37?classifier=sources
 - pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.38
 - pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.38?classifier=sources
+- pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.39
+- pkg:maven/org.spf4j/spf4j-jaxrs-open-api@2.1.39?classifier=sources

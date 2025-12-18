@@ -32,3 +32,5 @@
 - pkg:maven/eu.timepit/refined-cats_2.13@0.9.26?classifier=sources
 - pkg:maven/eu.timepit/refined-cats_2.13@0.9.27
 - pkg:maven/eu.timepit/refined-cats_2.13@0.9.27?classifier=sources
+- pkg:maven/eu.timepit/refined-cats_2.13@0.9.28
+- pkg:maven/eu.timepit/refined-cats_2.13@0.9.28?classifier=sources

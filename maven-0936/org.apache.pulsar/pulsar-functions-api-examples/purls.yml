@@ -50,3 +50,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@2.8.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@2.8.1
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@2.8.1?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@2.9.0
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@2.9.0?classifier=sources

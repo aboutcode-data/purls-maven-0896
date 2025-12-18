@@ -16,3 +16,5 @@
 - pkg:maven/com.github.davidmoten/rxjava2-http@0.1.22?classifier=sources
 - pkg:maven/com.github.davidmoten/rxjava2-http@0.1.23
 - pkg:maven/com.github.davidmoten/rxjava2-http@0.1.23?classifier=sources
+- pkg:maven/com.github.davidmoten/rxjava2-http@0.1.24
+- pkg:maven/com.github.davidmoten/rxjava2-http@0.1.24?classifier=sources

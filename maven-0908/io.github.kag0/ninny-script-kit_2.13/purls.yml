@@ -2,3 +2,7 @@
 - pkg:maven/io.github.kag0/ninny-script-kit_2.13@0.2.12?classifier=sources
 - pkg:maven/io.github.kag0/ninny-script-kit_2.13@0.3.0
 - pkg:maven/io.github.kag0/ninny-script-kit_2.13@0.3.0?classifier=sources
+- pkg:maven/io.github.kag0/ninny-script-kit_2.13@0.3.1
+- pkg:maven/io.github.kag0/ninny-script-kit_2.13@0.3.1?classifier=sources
+- pkg:maven/io.github.kag0/ninny-script-kit_2.13@0.4.0
+- pkg:maven/io.github.kag0/ninny-script-kit_2.13@0.4.0?classifier=sources

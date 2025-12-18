@@ -54,3 +54,17 @@
 - pkg:maven/software.amazon.awscdk/frauddetector@1.127.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/frauddetector@1.128.0
 - pkg:maven/software.amazon.awscdk/frauddetector@1.128.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/frauddetector@1.129.0
+- pkg:maven/software.amazon.awscdk/frauddetector@1.129.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/frauddetector@1.130.0
+- pkg:maven/software.amazon.awscdk/frauddetector@1.130.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/frauddetector@1.131.0
+- pkg:maven/software.amazon.awscdk/frauddetector@1.131.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/frauddetector@1.132.0
+- pkg:maven/software.amazon.awscdk/frauddetector@1.132.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/frauddetector@1.133.0
+- pkg:maven/software.amazon.awscdk/frauddetector@1.133.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/frauddetector@1.134.0
+- pkg:maven/software.amazon.awscdk/frauddetector@1.134.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/frauddetector@1.135.0
+- pkg:maven/software.amazon.awscdk/frauddetector@1.135.0?classifier=sources

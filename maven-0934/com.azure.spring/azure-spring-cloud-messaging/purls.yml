@@ -4,6 +4,10 @@
 - pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.0.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.1.0
 - pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.1.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.10.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.10.0?classifier=sources
+- pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.11.0
+- pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.11.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.2.0
 - pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.2.0?classifier=sources
 - pkg:maven/com.azure.spring/azure-spring-cloud-messaging@2.3.0

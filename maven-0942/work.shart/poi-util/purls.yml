@@ -1,0 +1,14 @@
+- pkg:maven/work.shart/poi-util@0.0.1
+- pkg:maven/work.shart/poi-util@0.0.1?classifier=sources
+- pkg:maven/work.shart/poi-util@0.0.2
+- pkg:maven/work.shart/poi-util@0.0.2-Beta
+- pkg:maven/work.shart/poi-util@0.0.2-Beta?classifier=sources
+- pkg:maven/work.shart/poi-util@0.0.2?classifier=sources
+- pkg:maven/work.shart/poi-util@0.0.3
+- pkg:maven/work.shart/poi-util@0.0.3-release
+- pkg:maven/work.shart/poi-util@0.0.3-release?classifier=sources
+- pkg:maven/work.shart/poi-util@0.0.3?classifier=sources
+- pkg:maven/work.shart/poi-util@0.0.4-release
+- pkg:maven/work.shart/poi-util@0.0.4-release?classifier=sources
+- pkg:maven/work.shart/poi-util@0.0.5-release
+- pkg:maven/work.shart/poi-util@0.0.5-release?classifier=sources

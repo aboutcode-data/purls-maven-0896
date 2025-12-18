@@ -34,3 +34,5 @@
 - pkg:maven/com.urbanairship.android/urbanairship-automation@14.6.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-automation@15.0.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-automation@15.1.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-automation@16.0.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-automation@16.1.0?classifier=sources

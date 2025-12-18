@@ -12,3 +12,5 @@
 - pkg:maven/xyz.migoo/simplehttp@1.0.6?classifier=sources
 - pkg:maven/xyz.migoo/simplehttp@1.1.0
 - pkg:maven/xyz.migoo/simplehttp@1.1.0?classifier=sources
+- pkg:maven/xyz.migoo/simplehttp@2.0.0
+- pkg:maven/xyz.migoo/simplehttp@2.0.0?classifier=sources

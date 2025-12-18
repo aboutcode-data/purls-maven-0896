@@ -1,0 +1,2 @@
+- pkg:maven/com.itmuch.redis/redis-jdbc-driver-core@0.0.1
+- pkg:maven/com.itmuch.redis/redis-jdbc-driver-core@0.0.1?classifier=sources

@@ -54,3 +54,13 @@
 - pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.27?classifier=sources
 - pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.28
 - pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.28?classifier=sources
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.29
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.29?classifier=sources
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.30
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.30?classifier=sources
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.31
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.31?classifier=sources
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.35
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.35?classifier=sources
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.36
+- pkg:maven/com.j2mvc/j2mvc-framework-web@2.1.36?classifier=sources

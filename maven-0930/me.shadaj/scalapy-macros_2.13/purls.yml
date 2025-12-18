@@ -161,8 +161,20 @@
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B16-39055df5?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B17-09797704
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B17-09797704?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B19-e2222cbd
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B19-e2222cbd?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B2-ffc526f3
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B2-ffc526f3?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B20-5ce1ed6a
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B20-5ce1ed6a?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B21-39c93789
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B21-39c93789?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B22-985b8ea1
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B22-985b8ea1?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B23-d387651a
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B23-d387651a?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B24-237a2d2d
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B24-237a2d2d?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B3-a0b0df1e
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B3-a0b0df1e?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B4-84909cf7
@@ -178,3 +190,5 @@
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B9-cc4b0863
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0%2B9-cc4b0863?classifier=sources
 - pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.0?classifier=sources
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.1
+- pkg:maven/me.shadaj/scalapy-macros_2.13@0.5.1?classifier=sources

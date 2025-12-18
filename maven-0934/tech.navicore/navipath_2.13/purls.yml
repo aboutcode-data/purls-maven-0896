@@ -5,6 +5,14 @@
 - pkg:maven/tech.navicore/navipath_2.13@3.1.0
 - pkg:maven/tech.navicore/navipath_2.13@3.1.0?classifier=sources
 - pkg:maven/tech.navicore/navipath_2.13@4.0.1
+- pkg:maven/tech.navicore/navipath_2.13@4.0.19
+- pkg:maven/tech.navicore/navipath_2.13@4.0.19?classifier=sources
 - pkg:maven/tech.navicore/navipath_2.13@4.0.1?classifier=sources
 - pkg:maven/tech.navicore/navipath_2.13@4.0.2
+- pkg:maven/tech.navicore/navipath_2.13@4.0.20
+- pkg:maven/tech.navicore/navipath_2.13@4.0.20?classifier=sources
+- pkg:maven/tech.navicore/navipath_2.13@4.0.21
+- pkg:maven/tech.navicore/navipath_2.13@4.0.21?classifier=sources
 - pkg:maven/tech.navicore/navipath_2.13@4.0.2?classifier=sources
+- pkg:maven/tech.navicore/navipath_2.13@4.1.0
+- pkg:maven/tech.navicore/navipath_2.13@4.1.0?classifier=sources

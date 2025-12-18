@@ -4,3 +4,6 @@
 - pkg:maven/com.epages/restdocs-api-spec-openapi3-generator@0.11.5?classifier=sources
 - pkg:maven/com.epages/restdocs-api-spec-openapi3-generator@0.12.0?classifier=sources
 - pkg:maven/com.epages/restdocs-api-spec-openapi3-generator@0.13.0?classifier=sources
+- pkg:maven/com.epages/restdocs-api-spec-openapi3-generator@0.14.0?classifier=sources
+- pkg:maven/com.epages/restdocs-api-spec-openapi3-generator@0.14.1?classifier=sources
+- pkg:maven/com.epages/restdocs-api-spec-openapi3-generator@0.15.1?classifier=sources

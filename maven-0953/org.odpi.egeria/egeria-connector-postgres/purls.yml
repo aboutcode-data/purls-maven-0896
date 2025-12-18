@@ -1,3 +1,5 @@
 - pkg:maven/org.odpi.egeria/egeria-connector-postgres@2.11?classifier=sources
 - pkg:maven/org.odpi.egeria/egeria-connector-postgres@3.1?classifier=sources
 - pkg:maven/org.odpi.egeria/egeria-connector-postgres@3.2?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-postgres@3.3?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-postgres@3.4?classifier=sources

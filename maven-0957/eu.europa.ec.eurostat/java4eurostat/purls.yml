@@ -18,3 +18,5 @@
 - pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.22?classifier=sources
 - pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.23
 - pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.23?classifier=sources
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.24
+- pkg:maven/eu.europa.ec.eurostat/java4eurostat@1.24?classifier=sources

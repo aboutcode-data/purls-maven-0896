@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito.examples/process-performance-quarkus@1.13.0.Final
+- pkg:maven/org.kie.kogito.examples/process-performance-quarkus@1.13.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito.examples/process-performance-quarkus@1.14.0.Final
+- pkg:maven/org.kie.kogito.examples/process-performance-quarkus@1.14.0.Final?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cpan-it@0.0.6?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cpan-it@0.0.7
 - pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cpan-it@0.0.7?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cpan-it@0.0.8
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cpan-it@0.0.8?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cpan-it@0.0.9
+- pkg:maven/org.sonatype.nexus.plugins/nexus-repository-cpan-it@0.0.9?classifier=sources

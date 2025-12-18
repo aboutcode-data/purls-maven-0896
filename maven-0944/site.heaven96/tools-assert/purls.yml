@@ -1,0 +1,6 @@
+- pkg:maven/site.heaven96/tools-assert@0.0.6
+- pkg:maven/site.heaven96/tools-assert@0.0.6?classifier=sources
+- pkg:maven/site.heaven96/tools-assert@0.0.7
+- pkg:maven/site.heaven96/tools-assert@0.0.7?classifier=sources
+- pkg:maven/site.heaven96/tools-assert@0.0.8
+- pkg:maven/site.heaven96/tools-assert@0.0.8?classifier=sources

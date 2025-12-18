@@ -1,2 +1,4 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@6.6.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@6.7.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@6.8.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@6.9.0?classifier=sources

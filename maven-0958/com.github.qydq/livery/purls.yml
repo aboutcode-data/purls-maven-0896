@@ -57,5 +57,10 @@
 - pkg:maven/com.github.qydq/livery@1.2.62?classifier=sources
 - pkg:maven/com.github.qydq/livery@1.2.63?classifier=sources
 - pkg:maven/com.github.qydq/livery@1.2.64?classifier=sources
+- pkg:maven/com.github.qydq/livery@1.2.65?classifier=sources
+- pkg:maven/com.github.qydq/livery@1.2.66?classifier=sources
+- pkg:maven/com.github.qydq/livery@1.2.67?classifier=sources
+- pkg:maven/com.github.qydq/livery@1.2.68?classifier=sources
+- pkg:maven/com.github.qydq/livery@1.2.69?classifier=sources
 - pkg:maven/com.github.qydq/livery@1.2.9?classifier=sources
 - pkg:maven/com.github.qydq/livery@1.2.9?type=aar

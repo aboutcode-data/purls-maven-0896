@@ -1,3 +1,5 @@
+- pkg:maven/org.scoverage/scalac-scoverage-runtime_sjs1_2.11@1.4.10
+- pkg:maven/org.scoverage/scalac-scoverage-runtime_sjs1_2.11@1.4.10?classifier=sources
 - pkg:maven/org.scoverage/scalac-scoverage-runtime_sjs1_2.11@1.4.7
 - pkg:maven/org.scoverage/scalac-scoverage-runtime_sjs1_2.11@1.4.7?classifier=sources
 - pkg:maven/org.scoverage/scalac-scoverage-runtime_sjs1_2.11@1.4.8

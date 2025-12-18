@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.bds/bds-metrics@3.2-opensource
+- pkg:maven/com.alibaba.bds/bds-metrics@3.2-opensource?classifier=sources

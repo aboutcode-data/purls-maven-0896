@@ -98,5 +98,9 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.6.2?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.6.3
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.6.3?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.6.4
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.6.4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.7.0
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.7.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.7.1
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.7.1?classifier=sources

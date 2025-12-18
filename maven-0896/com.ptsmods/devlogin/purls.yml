@@ -1,3 +1,5 @@
 - pkg:maven/com.ptsmods/devlogin@1.0.0?classifier=sources
 - pkg:maven/com.ptsmods/devlogin@1.1?classifier=sources
+- pkg:maven/com.ptsmods/devlogin@1.2.1?classifier=sources
 - pkg:maven/com.ptsmods/devlogin@1.2?classifier=sources
+- pkg:maven/com.ptsmods/devlogin@2.0?classifier=sources

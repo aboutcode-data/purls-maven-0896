@@ -18,3 +18,5 @@
 - pkg:maven/com.zengularity/benji-s3_2.11@2.1.7?classifier=sources
 - pkg:maven/com.zengularity/benji-s3_2.11@2.1.8
 - pkg:maven/com.zengularity/benji-s3_2.11@2.1.8?classifier=sources
+- pkg:maven/com.zengularity/benji-s3_2.11@2.1.9
+- pkg:maven/com.zengularity/benji-s3_2.11@2.1.9?classifier=sources

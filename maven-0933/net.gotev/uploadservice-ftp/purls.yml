@@ -22,3 +22,4 @@
 - pkg:maven/net.gotev/uploadservice-ftp@4.5.4?classifier=sources
 - pkg:maven/net.gotev/uploadservice-ftp@4.5.5?classifier=sources
 - pkg:maven/net.gotev/uploadservice-ftp@4.6.0?classifier=sources
+- pkg:maven/net.gotev/uploadservice-ftp@4.7.0?classifier=sources

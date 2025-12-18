@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.carbon.identity.outbound.auth.push/identity-outbound-auth-push@0.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.outbound.auth.push/identity-outbound-auth-push@0.1.1?classifier=source-release&type=zip

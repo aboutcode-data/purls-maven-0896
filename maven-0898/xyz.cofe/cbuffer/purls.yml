@@ -6,3 +6,5 @@
 - pkg:maven/xyz.cofe/cbuffer@1.2?classifier=sources
 - pkg:maven/xyz.cofe/cbuffer@1.3
 - pkg:maven/xyz.cofe/cbuffer@1.3?classifier=sources
+- pkg:maven/xyz.cofe/cbuffer@1.4
+- pkg:maven/xyz.cofe/cbuffer@1.4?classifier=sources

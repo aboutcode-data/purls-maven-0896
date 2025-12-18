@@ -32,3 +32,7 @@
 - pkg:maven/org.realityforge.akasha/akasha-gwt@0.26?classifier=sources
 - pkg:maven/org.realityforge.akasha/akasha-gwt@0.27
 - pkg:maven/org.realityforge.akasha/akasha-gwt@0.27?classifier=sources
+- pkg:maven/org.realityforge.akasha/akasha-gwt@0.28
+- pkg:maven/org.realityforge.akasha/akasha-gwt@0.28?classifier=sources
+- pkg:maven/org.realityforge.akasha/akasha-gwt@0.29
+- pkg:maven/org.realityforge.akasha/akasha-gwt@0.29?classifier=sources

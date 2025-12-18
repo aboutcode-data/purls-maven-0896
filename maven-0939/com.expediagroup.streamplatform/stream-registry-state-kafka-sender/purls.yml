@@ -48,3 +48,5 @@
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-state-kafka-sender@0.20.2?classifier=sources
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-state-kafka-sender@0.20.3
 - pkg:maven/com.expediagroup.streamplatform/stream-registry-state-kafka-sender@0.20.3?classifier=sources
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-state-kafka-sender@0.20.4
+- pkg:maven/com.expediagroup.streamplatform/stream-registry-state-kafka-sender@0.20.4?classifier=sources

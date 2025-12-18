@@ -4,3 +4,5 @@
 - pkg:maven/com.github.fracpete/missing-values-imputation-weka-package@2016.6.12?classifier=sources
 - pkg:maven/com.github.fracpete/missing-values-imputation-weka-package@2016.6.9
 - pkg:maven/com.github.fracpete/missing-values-imputation-weka-package@2016.6.9?classifier=sources
+- pkg:maven/com.github.fracpete/missing-values-imputation-weka-package@2021.10.28
+- pkg:maven/com.github.fracpete/missing-values-imputation-weka-package@2021.10.28?classifier=sources

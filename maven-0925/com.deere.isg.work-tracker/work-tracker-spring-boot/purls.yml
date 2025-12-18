@@ -44,3 +44,5 @@
 - pkg:maven/com.deere.isg.work-tracker/work-tracker-spring-boot@1.1.0?classifier=sources
 - pkg:maven/com.deere.isg.work-tracker/work-tracker-spring-boot@1.1.1
 - pkg:maven/com.deere.isg.work-tracker/work-tracker-spring-boot@1.1.1?classifier=sources
+- pkg:maven/com.deere.isg.work-tracker/work-tracker-spring-boot@1.1.2
+- pkg:maven/com.deere.isg.work-tracker/work-tracker-spring-boot@1.1.2?classifier=sources

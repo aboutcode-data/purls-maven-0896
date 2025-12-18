@@ -26,3 +26,5 @@
 - pkg:maven/org.webjars.npm/d3-time-format@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/d3-time-format@4.0.0
 - pkg:maven/org.webjars.npm/d3-time-format@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/d3-time-format@4.1.0
+- pkg:maven/org.webjars.npm/d3-time-format@4.1.0?classifier=sources

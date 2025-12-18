@@ -175,6 +175,8 @@
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0%2B39-4315fe94?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0%2B50-19f0faec
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0%2B50-19f0faec?classifier=sources
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0%2B91-95570dfa
+- pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0%2B91-95570dfa?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0-RC1
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0-RC1%2B10-1acfba3a
 - pkg:maven/io.janstenpickle/trace4cats-opentelemetry-otlp-http-exporter_2.12@0.12.0-RC1%2B10-1acfba3a?classifier=sources

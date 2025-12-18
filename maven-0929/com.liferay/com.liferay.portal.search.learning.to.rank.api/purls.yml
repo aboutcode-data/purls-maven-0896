@@ -80,6 +80,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.20
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.21
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.22
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@2.0.3
@@ -127,3 +133,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@3.0.7
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@3.0.8
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@3.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.learning.to.rank.api@3.0.8?classifier=sources-commercial

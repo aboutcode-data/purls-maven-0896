@@ -38,3 +38,5 @@
 - pkg:maven/net.colesico.framework/colesico-telehttp@4.6.0?classifier=sources
 - pkg:maven/net.colesico.framework/colesico-telehttp@5.0.0
 - pkg:maven/net.colesico.framework/colesico-telehttp@5.0.0?classifier=sources
+- pkg:maven/net.colesico.framework/colesico-telehttp@5.1.0
+- pkg:maven/net.colesico.framework/colesico-telehttp@5.1.0?classifier=sources

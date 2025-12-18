@@ -43,3 +43,7 @@
 - pkg:maven/com.composum.nodes/composum-nodes-commons@2.6.5?classifier=sources
 - pkg:maven/com.composum.nodes/composum-nodes-commons@2.6.6?classifier=sources
 - pkg:maven/com.composum.nodes/composum-nodes-commons@2.6.7?classifier=sources
+- pkg:maven/com.composum.nodes/composum-nodes-commons@2.7.0?classifier=sources
+- pkg:maven/com.composum.nodes/composum-nodes-commons@2.7.1?classifier=sources
+- pkg:maven/com.composum.nodes/composum-nodes-commons@3.0.0?classifier=sources
+- pkg:maven/com.composum.nodes/composum-nodes-commons@3.1.0?classifier=sources

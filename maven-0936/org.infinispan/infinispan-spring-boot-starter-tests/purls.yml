@@ -27,3 +27,5 @@
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-tests@13.0.0.Dev03
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-tests@13.0.0.Dev04
 - pkg:maven/org.infinispan/infinispan-spring-boot-starter-tests@13.0.0.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-tests@13.0.1.Final
+- pkg:maven/org.infinispan/infinispan-spring-boot-starter-tests@13.0.2.Final

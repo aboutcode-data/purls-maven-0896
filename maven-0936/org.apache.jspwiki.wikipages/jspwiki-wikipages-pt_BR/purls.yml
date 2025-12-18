@@ -12,3 +12,4 @@
 - pkg:maven/org.apache.jspwiki.wikipages/jspwiki-wikipages-pt_BR@2.11.0.M6?classifier=sources
 - pkg:maven/org.apache.jspwiki.wikipages/jspwiki-wikipages-pt_BR@2.11.0.M7?classifier=sources
 - pkg:maven/org.apache.jspwiki.wikipages/jspwiki-wikipages-pt_BR@2.11.0.M8?classifier=sources
+- pkg:maven/org.apache.jspwiki.wikipages/jspwiki-wikipages-pt_BR@2.11.0?classifier=sources

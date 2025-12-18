@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@6.1.0.Beta1
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@6.1.0.Beta1?classifier=sources

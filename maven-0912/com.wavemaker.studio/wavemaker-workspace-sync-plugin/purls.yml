@@ -1,3 +1,5 @@
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.10.0?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.10.1?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.6.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.6.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.6.1.ee?classifier=sources
@@ -24,6 +26,8 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.8.3.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.0?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.1?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@9.4.0.10?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@9.4.0.12?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@9.4.0.13?classifier=sources

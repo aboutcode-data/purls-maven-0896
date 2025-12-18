@@ -1,7 +1,11 @@
 - pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.0-RELEASE?classifier=sources
 - pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.1-RELEASE?classifier=sources
+- pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.10-RELEASE?classifier=sources
 - pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.2-RELEASE?classifier=sources
 - pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.3-RELEASE?classifier=sources
 - pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.4-RELEASE?classifier=sources
 - pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.5-RELEASE?classifier=sources
 - pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.6-RELEASE?classifier=sources
+- pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.7-RELEASE?classifier=sources
+- pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.8-RELEASE?classifier=sources
+- pkg:maven/io.github.sergkhram/ares-exec-plugin@1.2.9-RELEASE?classifier=sources

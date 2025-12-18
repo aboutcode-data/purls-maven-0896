@@ -37,6 +37,8 @@
 - pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.0
 - pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.0?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.1
+- pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.10
+- pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.10?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.1?classifier=sources
 - pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.2
 - pkg:maven/org.mini2Dx/miniscript-gradle-plugin@1.8.2?classifier=sources

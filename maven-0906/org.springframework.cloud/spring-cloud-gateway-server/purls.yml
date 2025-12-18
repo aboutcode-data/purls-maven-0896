@@ -1,3 +1,5 @@
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@2.2.10.RELEASE
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@2.2.10.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@2.2.6.RELEASE
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@2.2.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@2.2.7.RELEASE
@@ -16,3 +18,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.0.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.0.4
 - pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.0.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.0.5
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.0.5?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.1.0
+- pkg:maven/org.springframework.cloud/spring-cloud-gateway-server@3.1.0?classifier=sources

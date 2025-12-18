@@ -1,2 +1,3 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-contrib-samplers@1.5.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-contrib-samplers@1.6.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-contrib-samplers@1.7.0-alpha?classifier=sources

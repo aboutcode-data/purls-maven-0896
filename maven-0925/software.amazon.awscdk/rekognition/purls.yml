@@ -1,0 +1,10 @@
+- pkg:maven/software.amazon.awscdk/rekognition@1.131.0
+- pkg:maven/software.amazon.awscdk/rekognition@1.131.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rekognition@1.132.0
+- pkg:maven/software.amazon.awscdk/rekognition@1.132.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rekognition@1.133.0
+- pkg:maven/software.amazon.awscdk/rekognition@1.133.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rekognition@1.134.0
+- pkg:maven/software.amazon.awscdk/rekognition@1.134.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/rekognition@1.135.0
+- pkg:maven/software.amazon.awscdk/rekognition@1.135.0?classifier=sources

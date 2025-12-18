@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-3-2_2.12@1.4.0-incubating
+- pkg:maven/org.apache.kyuubi/kyuubi-extension-spark-3-2_2.12@1.4.0-incubating?classifier=sources

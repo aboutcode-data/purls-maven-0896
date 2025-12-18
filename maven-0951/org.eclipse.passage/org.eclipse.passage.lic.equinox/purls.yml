@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.passage/org.eclipse.passage.lic.equinox@2.0.1
 - pkg:maven/org.eclipse.passage/org.eclipse.passage.lic.equinox@2.0.1?classifier=sources
+- pkg:maven/org.eclipse.passage/org.eclipse.passage.lic.equinox@2.1.1
+- pkg:maven/org.eclipse.passage/org.eclipse.passage.lic.equinox@2.1.1?classifier=sources

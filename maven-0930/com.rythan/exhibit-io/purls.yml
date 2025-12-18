@@ -17,4 +17,6 @@
 - pkg:maven/com.rythan/exhibit-io@0.9.62?classifier=sources
 - pkg:maven/com.rythan/exhibit-io@0.9.63
 - pkg:maven/com.rythan/exhibit-io@0.9.63?classifier=sources
+- pkg:maven/com.rythan/exhibit-io@0.9.64
+- pkg:maven/com.rythan/exhibit-io@0.9.64?classifier=sources
 - pkg:maven/com.rythan/exhibit-io@0.9.6?classifier=sources

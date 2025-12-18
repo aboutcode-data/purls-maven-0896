@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zq2599/opencv-linux@0.0.3
+- pkg:maven/io.github.zq2599/opencv-linux@0.0.3?classifier=sources

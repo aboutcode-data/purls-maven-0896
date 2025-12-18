@@ -1,0 +1,2 @@
+- pkg:maven/io.qtjambi/qtjambi-dbus-jre8@5.15?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-dbus-jre8@6.2?classifier=sources

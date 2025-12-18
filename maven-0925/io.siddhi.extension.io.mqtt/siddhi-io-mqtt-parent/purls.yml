@@ -1,1 +1,2 @@
 - pkg:maven/io.siddhi.extension.io.mqtt/siddhi-io-mqtt-parent@3.0.0?classifier=source-release&type=zip
+- pkg:maven/io.siddhi.extension.io.mqtt/siddhi-io-mqtt-parent@3.0.1?classifier=source-release&type=zip
