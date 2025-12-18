@@ -76,6 +76,8 @@
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@1.6.0?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@1.7.0
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@1.7.0?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@1.7.1
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@1.7.1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.0.0
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.0.0-alpha-1?classifier=sources
@@ -152,6 +154,8 @@
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.3.4?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.3.5
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.3.5?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@2.3.6
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@2.3.6?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.0
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.0?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.1
@@ -162,3 +166,7 @@
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.4
 - pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.4?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.5
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@2.4.5?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@3.0.0-alpha-1
+- pkg:maven/org.apache.hbase/hbase-external-blockcache@3.0.0-alpha-1?classifier=sources

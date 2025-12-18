@@ -31,3 +31,5 @@
 - pkg:maven/com.palantir.sls.versions/sls-versions@0.9.0
 - pkg:maven/com.palantir.sls.versions/sls-versions@0.9.0?classifier=sources
 - pkg:maven/com.palantir.sls.versions/sls-versions@1.0.0?classifier=sources
+- pkg:maven/com.palantir.sls.versions/sls-versions@1.1.0?classifier=sources
+- pkg:maven/com.palantir.sls.versions/sls-versions@1.2.0?classifier=sources

@@ -1,2 +1,4 @@
+- pkg:maven/dev.optics/monocle-state_3@3.0.0
 - pkg:maven/dev.optics/monocle-state_3@3.0.0-RC2
 - pkg:maven/dev.optics/monocle-state_3@3.0.0-RC2?classifier=sources
+- pkg:maven/dev.optics/monocle-state_3@3.0.0?classifier=sources

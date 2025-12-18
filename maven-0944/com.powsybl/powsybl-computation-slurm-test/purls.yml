@@ -1,6 +1,8 @@
 - pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.10.0
 - pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.10.1
 - pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.11.0
+- pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.11.1
+- pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.12.0
 - pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.6.0
 - pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.6.1
 - pkg:maven/com.powsybl/powsybl-computation-slurm-test@2.7.0

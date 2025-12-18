@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.zeppelin/zeppelin-file@0.10.0
+- pkg:maven/org.apache.zeppelin/zeppelin-file@0.10.0?classifier=sources
 - pkg:maven/org.apache.zeppelin/zeppelin-file@0.6.0
 - pkg:maven/org.apache.zeppelin/zeppelin-file@0.6.0?classifier=sources
 - pkg:maven/org.apache.zeppelin/zeppelin-file@0.6.1

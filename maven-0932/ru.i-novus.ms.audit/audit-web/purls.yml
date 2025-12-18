@@ -6,3 +6,5 @@
 - pkg:maven/ru.i-novus.ms.audit/audit-web@2.4.25?classifier=sources
 - pkg:maven/ru.i-novus.ms.audit/audit-web@2.4.27
 - pkg:maven/ru.i-novus.ms.audit/audit-web@2.4.27?classifier=sources
+- pkg:maven/ru.i-novus.ms.audit/audit-web@2.4.28
+- pkg:maven/ru.i-novus.ms.audit/audit-web@2.4.28?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@3.27.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@3.27.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.11.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.11.0?classifier=sources

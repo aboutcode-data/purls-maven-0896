@@ -26,3 +26,5 @@
 - pkg:maven/us.codecraft/webmagic-scripts@0.7.3?classifier=sources
 - pkg:maven/us.codecraft/webmagic-scripts@0.7.4
 - pkg:maven/us.codecraft/webmagic-scripts@0.7.4?classifier=sources
+- pkg:maven/us.codecraft/webmagic-scripts@0.7.5
+- pkg:maven/us.codecraft/webmagic-scripts@0.7.5?classifier=sources

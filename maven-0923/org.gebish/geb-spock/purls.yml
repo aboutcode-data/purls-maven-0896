@@ -67,3 +67,4 @@
 - pkg:maven/org.gebish/geb-spock@4.1?classifier=sources
 - pkg:maven/org.gebish/geb-spock@5.0-milestone-1?classifier=sources
 - pkg:maven/org.gebish/geb-spock@5.0-milestone-2?classifier=sources
+- pkg:maven/org.gebish/geb-spock@5.0?classifier=sources

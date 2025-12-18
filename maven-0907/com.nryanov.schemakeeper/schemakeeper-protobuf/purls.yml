@@ -2,3 +2,5 @@
 - pkg:maven/com.nryanov.schemakeeper/schemakeeper-protobuf@0.1?classifier=sources
 - pkg:maven/com.nryanov.schemakeeper/schemakeeper-protobuf@0.2.0
 - pkg:maven/com.nryanov.schemakeeper/schemakeeper-protobuf@0.2.0?classifier=sources
+- pkg:maven/com.nryanov.schemakeeper/schemakeeper-protobuf@0.3.0-RC1
+- pkg:maven/com.nryanov.schemakeeper/schemakeeper-protobuf@0.3.0-RC1?classifier=sources

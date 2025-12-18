@@ -30,3 +30,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-flink@2.6.3?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-flink@2.6.4
 - pkg:maven/org.apache.pulsar/pulsar-flink@2.6.4?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-flink@2.8.0
+- pkg:maven/org.apache.pulsar/pulsar-flink@2.8.0?classifier=sources

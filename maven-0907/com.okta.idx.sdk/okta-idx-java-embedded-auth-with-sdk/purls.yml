@@ -2,3 +2,7 @@
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-auth-with-sdk@0.1.0-beta.6?classifier=sources
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-auth-with-sdk@0.1.0-beta.7
 - pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-auth-with-sdk@0.1.0-beta.7?classifier=sources
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-auth-with-sdk@0.1.0-beta.8
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-auth-with-sdk@0.1.0-beta.8?classifier=sources
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-auth-with-sdk@1.0.0
+- pkg:maven/com.okta.idx.sdk/okta-idx-java-embedded-auth-with-sdk@1.0.0?classifier=sources

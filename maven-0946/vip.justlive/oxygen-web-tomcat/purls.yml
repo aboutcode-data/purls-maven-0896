@@ -68,3 +68,7 @@
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.4?classifier=sources
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.5
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.5?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.6
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.6.0
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.6.0?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.6?classifier=sources

@@ -24,6 +24,10 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.10.6?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.10.7
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.10.7?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.10.8
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.10.8?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.10.9
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.10.9?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.11.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.11.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.11.1
@@ -42,6 +46,10 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.12.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.12.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.12.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.13.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.13.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.14.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.14.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.2.0
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.2.0?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.3.0
@@ -80,3 +88,5 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.1?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.2
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.2?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.3
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.3?classifier=sources

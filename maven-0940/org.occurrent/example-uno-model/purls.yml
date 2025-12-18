@@ -1,5 +1,7 @@
 - pkg:maven/org.occurrent/example-uno-model@0.10.0
 - pkg:maven/org.occurrent/example-uno-model@0.10.0?classifier=sources
+- pkg:maven/org.occurrent/example-uno-model@0.11.0
+- pkg:maven/org.occurrent/example-uno-model@0.11.0?classifier=sources
 - pkg:maven/org.occurrent/example-uno-model@0.4.0
 - pkg:maven/org.occurrent/example-uno-model@0.4.0?classifier=sources
 - pkg:maven/org.occurrent/example-uno-model@0.4.1

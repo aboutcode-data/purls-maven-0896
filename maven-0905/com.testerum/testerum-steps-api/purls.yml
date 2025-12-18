@@ -6,6 +6,10 @@
 - pkg:maven/com.testerum/testerum-steps-api@1.0.36?classifier=sources
 - pkg:maven/com.testerum/testerum-steps-api@1.0.37
 - pkg:maven/com.testerum/testerum-steps-api@1.0.37?classifier=sources
+- pkg:maven/com.testerum/testerum-steps-api@1.1-pre-alpha-1?classifier=sources
+- pkg:maven/com.testerum/testerum-steps-api@1.1-pre-alpha-25?classifier=sources
+- pkg:maven/com.testerum/testerum-steps-api@1.1-pre-alpha-2?classifier=sources
+- pkg:maven/com.testerum/testerum-steps-api@1.1-pre-alpha-3?classifier=sources
 - pkg:maven/com.testerum/testerum-steps-api@1.1-pre-alpha?classifier=sources
 - pkg:maven/com.testerum/testerum-steps-api@3.3.3
 - pkg:maven/com.testerum/testerum-steps-api@3.3.3?classifier=sources

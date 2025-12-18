@@ -4,6 +4,12 @@
 - pkg:maven/net.rossonet/ar4k-serial-comm@0.1?classifier=sources
 - pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1000
 - pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1000?classifier=sources
+- pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1003
+- pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1003?classifier=sources
+- pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1005
+- pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1005?classifier=sources
+- pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1006
+- pkg:maven/net.rossonet/ar4k-serial-comm@0.9.1006?classifier=sources
 - pkg:maven/net.rossonet/ar4k-serial-comm@0.9.3
 - pkg:maven/net.rossonet/ar4k-serial-comm@0.9.3?classifier=sources
 - pkg:maven/net.rossonet/ar4k-serial-comm@0.9.4

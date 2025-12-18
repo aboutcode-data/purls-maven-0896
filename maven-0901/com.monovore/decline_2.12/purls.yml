@@ -36,3 +36,5 @@
 - pkg:maven/com.monovore/decline_2.12@2.0.0-RC1
 - pkg:maven/com.monovore/decline_2.12@2.0.0-RC1?classifier=sources
 - pkg:maven/com.monovore/decline_2.12@2.0.0?classifier=sources
+- pkg:maven/com.monovore/decline_2.12@2.1.0
+- pkg:maven/com.monovore/decline_2.12@2.1.0?classifier=sources

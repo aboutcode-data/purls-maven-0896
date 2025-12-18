@@ -82,3 +82,5 @@
 - pkg:maven/com.feingto/feingto-cache@2.4.9.RELEASE?classifier=sources
 - pkg:maven/com.feingto/feingto-cache@2.5.1.RELEASE
 - pkg:maven/com.feingto/feingto-cache@2.5.1.RELEASE?classifier=sources
+- pkg:maven/com.feingto/feingto-cache@2.5.2.RELEASE
+- pkg:maven/com.feingto/feingto-cache@2.5.2.RELEASE?classifier=sources

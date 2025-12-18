@@ -1,0 +1,4 @@
+- pkg:maven/com.kubukoz/core_sjs1_3@1.4.0
+- pkg:maven/com.kubukoz/core_sjs1_3@1.4.0?classifier=sources
+- pkg:maven/com.kubukoz/core_sjs1_3@1.5.0
+- pkg:maven/com.kubukoz/core_sjs1_3@1.5.0?classifier=sources

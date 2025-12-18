@@ -6,3 +6,5 @@
 - pkg:maven/nz.ac.waikato.cms.moa/moa-kafka@2020.07.1?classifier=sources
 - pkg:maven/nz.ac.waikato.cms.moa/moa-kafka@2020.12.0
 - pkg:maven/nz.ac.waikato.cms.moa/moa-kafka@2020.12.0?classifier=sources
+- pkg:maven/nz.ac.waikato.cms.moa/moa-kafka@2021.07.0
+- pkg:maven/nz.ac.waikato.cms.moa/moa-kafka@2021.07.0?classifier=sources

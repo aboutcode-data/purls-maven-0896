@@ -14,3 +14,5 @@
 - pkg:maven/de.stklcode.jvault/jvault-connector@0.9.3?classifier=sources
 - pkg:maven/de.stklcode.jvault/jvault-connector@0.9.4
 - pkg:maven/de.stklcode.jvault/jvault-connector@0.9.4?classifier=sources
+- pkg:maven/de.stklcode.jvault/jvault-connector@0.9.5
+- pkg:maven/de.stklcode.jvault/jvault-connector@0.9.5?classifier=sources

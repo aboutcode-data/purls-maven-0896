@@ -34,5 +34,9 @@
 - pkg:maven/com.ocient/ocient-jdbc4@1.92?classifier=sources
 - pkg:maven/com.ocient/ocient-jdbc4@2.00
 - pkg:maven/com.ocient/ocient-jdbc4@2.00?classifier=sources
+- pkg:maven/com.ocient/ocient-jdbc4@2.10
+- pkg:maven/com.ocient/ocient-jdbc4@2.10?classifier=sources
 - pkg:maven/com.ocient/ocient-jdbc4@2.12
 - pkg:maven/com.ocient/ocient-jdbc4@2.12?classifier=sources
+- pkg:maven/com.ocient/ocient-jdbc4@2.24
+- pkg:maven/com.ocient/ocient-jdbc4@2.24?classifier=sources

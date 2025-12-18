@@ -1,0 +1,16 @@
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.0.1
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.0.1?classifier=sources
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.1.0
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.1.0?classifier=sources
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.0
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.0.RY
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.0.RY?classifier=sources
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.0?classifier=sources
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.1
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.1?classifier=sources
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.2
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.2?classifier=sources
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.3.1
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.3.1?classifier=sources
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.3.2
+- pkg:maven/xyz.wc1950/chis4cloud-common-core@3.2.3.2?classifier=sources

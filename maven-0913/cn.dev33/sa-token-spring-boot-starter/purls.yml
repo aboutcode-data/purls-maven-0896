@@ -28,6 +28,16 @@
 - pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.19.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.20.0
 - pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.20.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.21.0
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.21.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.22.0
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.22.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.23.0
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.23.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.24.0
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.24.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.25.0
+- pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.25.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.6.0
 - pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.6.0?classifier=sources
 - pkg:maven/cn.dev33/sa-token-spring-boot-starter@1.7.0

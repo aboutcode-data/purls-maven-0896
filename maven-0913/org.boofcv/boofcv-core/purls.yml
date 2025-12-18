@@ -23,3 +23,4 @@
 - pkg:maven/org.boofcv/boofcv-core@0.36.1?classifier=sources
 - pkg:maven/org.boofcv/boofcv-core@0.36?classifier=sources
 - pkg:maven/org.boofcv/boofcv-core@0.37?classifier=sources
+- pkg:maven/org.boofcv/boofcv-core@0.38?classifier=sources

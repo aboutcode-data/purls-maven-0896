@@ -132,6 +132,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.11.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.12.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.12.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.13.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.13.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@8.3.0
@@ -170,3 +172,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@9.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@9.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-jwicket-tooltip-beautytips@9.4.0?classifier=sources

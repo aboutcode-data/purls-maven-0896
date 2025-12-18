@@ -1,0 +1,12 @@
+- pkg:maven/us.careydevelopment.util/web-content-api@1.0.0-RELEASE
+- pkg:maven/us.careydevelopment.util/web-content-api@1.0.0-RELEASE?classifier=sources
+- pkg:maven/us.careydevelopment.util/web-content-api@1.1.0-RELEASE
+- pkg:maven/us.careydevelopment.util/web-content-api@1.1.0-RELEASE?classifier=sources
+- pkg:maven/us.careydevelopment.util/web-content-api@1.1.1-RELEASE
+- pkg:maven/us.careydevelopment.util/web-content-api@1.1.1-RELEASE?classifier=sources
+- pkg:maven/us.careydevelopment.util/web-content-api@1.2.0-RELEASE
+- pkg:maven/us.careydevelopment.util/web-content-api@1.2.0-RELEASE?classifier=sources
+- pkg:maven/us.careydevelopment.util/web-content-api@1.3.0-RELEASE
+- pkg:maven/us.careydevelopment.util/web-content-api@1.3.0-RELEASE?classifier=sources
+- pkg:maven/us.careydevelopment.util/web-content-api@1.4.0-RELEASE
+- pkg:maven/us.careydevelopment.util/web-content-api@1.4.0-RELEASE?classifier=sources

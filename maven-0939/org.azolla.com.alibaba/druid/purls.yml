@@ -1,0 +1,4 @@
+- pkg:maven/org.azolla.com.alibaba/druid@1.2.7_preview_05_Azolla01
+- pkg:maven/org.azolla.com.alibaba/druid@1.2.7_preview_05_Azolla01?classifier=sources
+- pkg:maven/org.azolla.com.alibaba/druid@1.2.7_preview_05_Azolla02
+- pkg:maven/org.azolla.com.alibaba/druid@1.2.7_preview_05_Azolla02?classifier=sources

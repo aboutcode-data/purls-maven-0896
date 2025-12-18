@@ -2,3 +2,4 @@
 - pkg:maven/com.uber.autodispose2/autodispose-android@2.0.0-RC1?type=aar
 - pkg:maven/com.uber.autodispose2/autodispose-android@2.0.0?classifier=sources
 - pkg:maven/com.uber.autodispose2/autodispose-android@2.0.0?type=aar
+- pkg:maven/com.uber.autodispose2/autodispose-android@2.1.0?classifier=sources

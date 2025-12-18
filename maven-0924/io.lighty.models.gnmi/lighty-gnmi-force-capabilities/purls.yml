@@ -1,0 +1,4 @@
+- pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@14.1.0
+- pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@14.1.0?classifier=sources
+- pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@14.2.0
+- pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@14.2.0?classifier=sources

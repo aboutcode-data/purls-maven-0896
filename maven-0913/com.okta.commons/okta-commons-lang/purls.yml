@@ -14,3 +14,5 @@
 - pkg:maven/com.okta.commons/okta-commons-lang@1.2.4?classifier=sources
 - pkg:maven/com.okta.commons/okta-commons-lang@1.2.5
 - pkg:maven/com.okta.commons/okta-commons-lang@1.2.5?classifier=sources
+- pkg:maven/com.okta.commons/okta-commons-lang@1.2.6
+- pkg:maven/com.okta.commons/okta-commons-lang@1.2.6?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/fr.janalyse/counters_2.13@0.1.0?classifier=sources
 - pkg:maven/fr.janalyse/counters_2.13@1.0.0
 - pkg:maven/fr.janalyse/counters_2.13@1.0.0?classifier=sources
+- pkg:maven/fr.janalyse/counters_2.13@1.0.1
+- pkg:maven/fr.janalyse/counters_2.13@1.0.1?classifier=sources

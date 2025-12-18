@@ -1,3 +1,4 @@
+- pkg:maven/uk.co.real-logic/artio-session-codecs@0.100?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-session-codecs@0.19
 - pkg:maven/uk.co.real-logic/artio-session-codecs@0.19?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-session-codecs@0.20
@@ -122,3 +123,5 @@
 - pkg:maven/uk.co.real-logic/artio-session-codecs@0.95?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-session-codecs@0.96?classifier=sources
 - pkg:maven/uk.co.real-logic/artio-session-codecs@0.97?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-codecs@0.98?classifier=sources
+- pkg:maven/uk.co.real-logic/artio-session-codecs@0.99?classifier=sources

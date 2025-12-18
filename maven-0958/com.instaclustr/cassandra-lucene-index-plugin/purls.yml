@@ -1,2 +1,4 @@
 - pkg:maven/com.instaclustr/cassandra-lucene-index-plugin@3.11.8.1
 - pkg:maven/com.instaclustr/cassandra-lucene-index-plugin@3.11.8.1?classifier=sources
+- pkg:maven/com.instaclustr/cassandra-lucene-index-plugin@4.0.0-1.0.0
+- pkg:maven/com.instaclustr/cassandra-lucene-index-plugin@4.0.0-1.0.0?classifier=sources

@@ -108,3 +108,5 @@
 - pkg:maven/com.github.collinalpert/java2db@6.0.0?classifier=sources
 - pkg:maven/com.github.collinalpert/java2db@6.0.1
 - pkg:maven/com.github.collinalpert/java2db@6.0.1?classifier=sources
+- pkg:maven/com.github.collinalpert/java2db@6.1.0
+- pkg:maven/com.github.collinalpert/java2db@6.1.0?classifier=sources

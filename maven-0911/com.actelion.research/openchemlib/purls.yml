@@ -218,3 +218,17 @@
 - pkg:maven/com.actelion.research/openchemlib@2021.6.0?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2021.6.1
 - pkg:maven/com.actelion.research/openchemlib@2021.6.1?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2021.6.2
+- pkg:maven/com.actelion.research/openchemlib@2021.6.2?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2021.7.0
+- pkg:maven/com.actelion.research/openchemlib@2021.7.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2021.7.1
+- pkg:maven/com.actelion.research/openchemlib@2021.7.1?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2021.8.0
+- pkg:maven/com.actelion.research/openchemlib@2021.8.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2021.8.1
+- pkg:maven/com.actelion.research/openchemlib@2021.8.1?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2021.8.2
+- pkg:maven/com.actelion.research/openchemlib@2021.8.2?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2021.8.3
+- pkg:maven/com.actelion.research/openchemlib@2021.8.3?classifier=sources

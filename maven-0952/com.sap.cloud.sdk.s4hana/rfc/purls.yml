@@ -88,8 +88,16 @@
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.46.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.47.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.47.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.48.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.48.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.49.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.49.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.5.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.5.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.50.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.50.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.51.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.51.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.6.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.6.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@3.7.0

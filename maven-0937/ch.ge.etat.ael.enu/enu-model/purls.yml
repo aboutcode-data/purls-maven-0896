@@ -1,0 +1,10 @@
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.13
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.13?classifier=sources
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.14
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.14?classifier=sources
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.15
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.15?classifier=sources
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.16
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.16?classifier=sources
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.17
+- pkg:maven/ch.ge.etat.ael.enu/enu-model@0.17?classifier=sources

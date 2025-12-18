@@ -24,3 +24,5 @@
 - pkg:maven/vip.mate/mate-starter-elasticsearch@3.6.8?classifier=sources
 - pkg:maven/vip.mate/mate-starter-elasticsearch@3.7.8
 - pkg:maven/vip.mate/mate-starter-elasticsearch@3.7.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-elasticsearch@3.8.8
+- pkg:maven/vip.mate/mate-starter-elasticsearch@3.8.8?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/org.apache.maven.enforcer/enforcer@3.0.0-M1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.enforcer/enforcer@3.0.0-M2?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.enforcer/enforcer@3.0.0-M3?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.enforcer/enforcer@3.0.0?classifier=source-release&type=zip

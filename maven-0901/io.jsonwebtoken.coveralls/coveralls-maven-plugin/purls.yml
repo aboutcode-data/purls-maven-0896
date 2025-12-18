@@ -1,0 +1,2 @@
+- pkg:maven/io.jsonwebtoken.coveralls/coveralls-maven-plugin@4.4.1
+- pkg:maven/io.jsonwebtoken.coveralls/coveralls-maven-plugin@4.4.1?classifier=sources

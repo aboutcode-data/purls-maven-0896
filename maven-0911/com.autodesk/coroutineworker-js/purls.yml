@@ -5,3 +5,4 @@
 - pkg:maven/com.autodesk/coroutineworker-js@0.6.3?classifier=sources
 - pkg:maven/com.autodesk/coroutineworker-js@0.6.4?classifier=sources
 - pkg:maven/com.autodesk/coroutineworker-js@0.7.0?classifier=sources
+- pkg:maven/com.autodesk/coroutineworker-js@0.7.1?classifier=sources

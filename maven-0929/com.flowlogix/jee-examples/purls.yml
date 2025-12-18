@@ -2,5 +2,7 @@
 - pkg:maven/com.flowlogix/jee-examples@4.0.1?type=war
 - pkg:maven/com.flowlogix/jee-examples@4.0.2?classifier=sources
 - pkg:maven/com.flowlogix/jee-examples@4.0.2?type=war
+- pkg:maven/com.flowlogix/jee-examples@4.0.3?classifier=sources
+- pkg:maven/com.flowlogix/jee-examples@4.0.3?type=war
 - pkg:maven/com.flowlogix/jee-examples@4.0?classifier=sources
 - pkg:maven/com.flowlogix/jee-examples@4.0?type=war

@@ -1,0 +1,6 @@
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-js@0.10.0?classifier=sources
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-js@0.12.0?classifier=sources
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-js@0.6.0?classifier=sources
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-js@0.7.0?classifier=sources
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-js@0.8.0?classifier=sources
+- pkg:maven/org.inthewaves.kotlin-signald/client-coroutines-js@0.9.0?classifier=sources

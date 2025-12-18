@@ -4,3 +4,7 @@
 - pkg:maven/network.nerve/nerve-sdk4j@1.1.0-android
 - pkg:maven/network.nerve/nerve-sdk4j@1.1.0-android?classifier=sources
 - pkg:maven/network.nerve/nerve-sdk4j@1.1.0?classifier=sources
+- pkg:maven/network.nerve/nerve-sdk4j@1.2.0
+- pkg:maven/network.nerve/nerve-sdk4j@1.2.0-BETA
+- pkg:maven/network.nerve/nerve-sdk4j@1.2.0-BETA?classifier=sources
+- pkg:maven/network.nerve/nerve-sdk4j@1.2.0?classifier=sources

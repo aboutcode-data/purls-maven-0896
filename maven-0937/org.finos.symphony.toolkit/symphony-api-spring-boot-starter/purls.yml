@@ -22,3 +22,5 @@
 - pkg:maven/org.finos.symphony.toolkit/symphony-api-spring-boot-starter@7.20.2?classifier=sources
 - pkg:maven/org.finos.symphony.toolkit/symphony-api-spring-boot-starter@7.20.3
 - pkg:maven/org.finos.symphony.toolkit/symphony-api-spring-boot-starter@7.20.3?classifier=sources
+- pkg:maven/org.finos.symphony.toolkit/symphony-api-spring-boot-starter@7.20.4
+- pkg:maven/org.finos.symphony.toolkit/symphony-api-spring-boot-starter@7.20.4?classifier=sources

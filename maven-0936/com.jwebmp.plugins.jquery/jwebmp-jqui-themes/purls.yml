@@ -670,3 +670,5 @@
 - pkg:maven/com.jwebmp.plugins.jquery/jwebmp-jqui-themes@1.1.1.9-jre15?classifier=sources
 - pkg:maven/com.jwebmp.plugins.jquery/jwebmp-jqui-themes@1.1.1.9-jre16
 - pkg:maven/com.jwebmp.plugins.jquery/jwebmp-jqui-themes@1.1.1.9-jre16?classifier=sources
+- pkg:maven/com.jwebmp.plugins.jquery/jwebmp-jqui-themes@1.2.0.0-jre16
+- pkg:maven/com.jwebmp.plugins.jquery/jwebmp-jqui-themes@1.2.0.0-jre16?classifier=sources

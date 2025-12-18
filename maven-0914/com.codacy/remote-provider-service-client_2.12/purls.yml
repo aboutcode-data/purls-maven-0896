@@ -14,6 +14,8 @@
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@0.16.2%2Bakka24Circe011?classifier=sources
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@0.16.2%2Bakka25Circe011
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@0.16.2%2Bakka25Circe011?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-client_2.12@10.0.0_akka25Circe08
+- pkg:maven/com.codacy/remote-provider-service-client_2.12@10.0.0_akka25Circe08?classifier=sources
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@2.36.1-fixpublish.83ddab1_akka25Circe08
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@2.36.1-fixpublish.83ddab1_akka25Circe08?classifier=sources
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@2.36.1_akka25Circe08
@@ -238,3 +240,5 @@
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@8.8.0_akka25Circe08?classifier=sources
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@8.9.0_akka25Circe08
 - pkg:maven/com.codacy/remote-provider-service-client_2.12@8.9.0_akka25Circe08?classifier=sources
+- pkg:maven/com.codacy/remote-provider-service-client_2.12@9.0.0_akka25Circe08
+- pkg:maven/com.codacy/remote-provider-service-client_2.12@9.0.0_akka25Circe08?classifier=sources

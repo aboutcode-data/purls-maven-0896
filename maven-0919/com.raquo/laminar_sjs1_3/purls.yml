@@ -1,2 +1,4 @@
 - pkg:maven/com.raquo/laminar_sjs1_3@0.13.0
 - pkg:maven/com.raquo/laminar_sjs1_3@0.13.0?classifier=sources
+- pkg:maven/com.raquo/laminar_sjs1_3@0.13.1
+- pkg:maven/com.raquo/laminar_sjs1_3@0.13.1?classifier=sources

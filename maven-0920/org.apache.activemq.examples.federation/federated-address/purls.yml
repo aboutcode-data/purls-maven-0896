@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.activemq.examples.federation/federated-address@2.16.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.federation/federated-address@2.17.0
 - pkg:maven/org.apache.activemq.examples.federation/federated-address@2.17.0?classifier=sources
+- pkg:maven/org.apache.activemq.examples.federation/federated-address@2.18.0
+- pkg:maven/org.apache.activemq.examples.federation/federated-address@2.18.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.federation/federated-address@2.7.0
 - pkg:maven/org.apache.activemq.examples.federation/federated-address@2.7.0?classifier=sources
 - pkg:maven/org.apache.activemq.examples.federation/federated-address@2.8.0

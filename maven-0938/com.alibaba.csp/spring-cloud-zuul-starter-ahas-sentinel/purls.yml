@@ -66,3 +66,9 @@
 - pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.1?classifier=sources
 - pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.2
 - pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.2?classifier=sources
+- pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.3
+- pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.3?classifier=sources
+- pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.4
+- pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.4?classifier=sources
+- pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.5
+- pkg:maven/com.alibaba.csp/spring-cloud-zuul-starter-ahas-sentinel@1.4.5?classifier=sources

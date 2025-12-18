@@ -25,3 +25,4 @@
 - pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-swiperefreshlayout@1.0.0-beta02?classifier=sources
 - pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-swiperefreshlayout@1.0.0?classifier=sources
 - pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-swiperefreshlayout@1.1.0?classifier=sources
+- pkg:maven/io.github.reactivecircus.flowbinding/flowbinding-swiperefreshlayout@1.2.0?classifier=sources

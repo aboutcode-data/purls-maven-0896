@@ -1,2 +1,4 @@
 - pkg:maven/com.uber.m3/tally-prometheus@0.10.0
 - pkg:maven/com.uber.m3/tally-prometheus@0.10.0?classifier=sources
+- pkg:maven/com.uber.m3/tally-prometheus@0.11.1
+- pkg:maven/com.uber.m3/tally-prometheus@0.11.1?classifier=sources

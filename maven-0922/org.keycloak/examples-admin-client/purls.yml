@@ -6,3 +6,6 @@
 - pkg:maven/org.keycloak/examples-admin-client@13.0.0?type=war
 - pkg:maven/org.keycloak/examples-admin-client@13.0.1?type=war
 - pkg:maven/org.keycloak/examples-admin-client@14.0.0?type=war
+- pkg:maven/org.keycloak/examples-admin-client@15.0.0?type=war
+- pkg:maven/org.keycloak/examples-admin-client@15.0.1?type=war
+- pkg:maven/org.keycloak/examples-admin-client@15.0.2?type=war

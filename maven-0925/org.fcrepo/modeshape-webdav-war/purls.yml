@@ -1,2 +1,4 @@
 - pkg:maven/org.fcrepo/modeshape-webdav-war@5.4.1.fcr?classifier=sources
 - pkg:maven/org.fcrepo/modeshape-webdav-war@5.4.1.fcr?type=war
+- pkg:maven/org.fcrepo/modeshape-webdav-war@5.5.0.fcr?classifier=sources
+- pkg:maven/org.fcrepo/modeshape-webdav-war@5.5.0.fcr?type=war

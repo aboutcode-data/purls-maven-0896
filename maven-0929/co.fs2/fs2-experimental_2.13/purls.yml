@@ -170,8 +170,14 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-11-d4d878c?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-12-99fb328
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-12-99fb328?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-13-1a7ce3e
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-13-1a7ce3e?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-14-d78ca55
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-14-d78ca55?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-15-e328d68
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-15-e328d68?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-16-f51e5bd
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-16-f51e5bd?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-17-8f78c2c
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-17-8f78c2c?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-18-8b53db4
@@ -180,6 +186,8 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-2-6687023?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-2-7672e6a
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-2-7672e6a?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-2-d8fe229
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-2-d8fe229?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-2-e83e91b
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-2-e83e91b?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-20-a4be4f7
@@ -196,6 +204,8 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-25-ff366c1?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-28-a449123
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-28-a449123?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-3-b59bc25
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-3-b59bc25?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-30-dd15d91
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-30-dd15d91?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-31-9f147b8
@@ -214,6 +224,8 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-38-c4badb0?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-39-f393f7a
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-39-f393f7a?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-4-2e3a96a
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-4-2e3a96a?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-4-4dedd3b
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-4-4dedd3b?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-4-d7b9d30
@@ -228,6 +240,10 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-47-f25a3aa?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-48-1c513f9
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-48-1c513f9?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-5-9970d71
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-5-9970d71?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-5-bf2966a
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-5-bf2966a?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-50-6a2e275
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-50-6a2e275?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-52-0cbbfd7
@@ -242,6 +258,8 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-6-ca0f1c5?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-6e32e73
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-6e32e73?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-7-f63941f
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-7-f63941f?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-766988d
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-766988d?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-8-6987ac1
@@ -250,6 +268,8 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-8-f1478c1?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-8bf1517
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-8bf1517?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-9-60c7cb4
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5-9-60c7cb4?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-90ea652
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-90ea652?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5-b7ff7aa
@@ -276,5 +296,11 @@
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5.5?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5.6
 - pkg:maven/co.fs2/fs2-experimental_2.13@2.5.6?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.7
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.7?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.8
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.8?classifier=sources
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.9
+- pkg:maven/co.fs2/fs2-experimental_2.13@2.5.9?classifier=sources
 - pkg:maven/co.fs2/fs2-experimental_2.13@3.0.0-M5
 - pkg:maven/co.fs2/fs2-experimental_2.13@3.0.0-M5?classifier=sources

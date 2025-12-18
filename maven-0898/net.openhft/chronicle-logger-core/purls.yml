@@ -14,9 +14,13 @@
 - pkg:maven/net.openhft/chronicle-logger-core@4.20.1?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-core@4.20ea2
 - pkg:maven/net.openhft/chronicle-logger-core@4.20ea2?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-core@4.21.82
+- pkg:maven/net.openhft/chronicle-logger-core@4.21.82?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea1
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea1?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea40
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea40?classifier=sources
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea60
 - pkg:maven/net.openhft/chronicle-logger-core@4.21ea60?classifier=sources
+- pkg:maven/net.openhft/chronicle-logger-core@4.21ea80
+- pkg:maven/net.openhft/chronicle-logger-core@4.21ea80?classifier=sources

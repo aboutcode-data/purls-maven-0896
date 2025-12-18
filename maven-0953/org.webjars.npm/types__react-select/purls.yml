@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/types__react-select@3.0.8
 - pkg:maven/org.webjars.npm/types__react-select@3.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/types__react-select@4.0.17
+- pkg:maven/org.webjars.npm/types__react-select@4.0.17?classifier=sources

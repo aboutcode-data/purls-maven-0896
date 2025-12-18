@@ -66,3 +66,11 @@
 - pkg:maven/be.cylab.mark/server@2.2.2?classifier=sources
 - pkg:maven/be.cylab.mark/server@2.3.0
 - pkg:maven/be.cylab.mark/server@2.3.0?classifier=sources
+- pkg:maven/be.cylab.mark/server@2.5.0
+- pkg:maven/be.cylab.mark/server@2.5.0?classifier=sources
+- pkg:maven/be.cylab.mark/server@2.5.1
+- pkg:maven/be.cylab.mark/server@2.5.1?classifier=sources
+- pkg:maven/be.cylab.mark/server@2.5.2
+- pkg:maven/be.cylab.mark/server@2.5.2?classifier=sources
+- pkg:maven/be.cylab.mark/server@2.5.3
+- pkg:maven/be.cylab.mark/server@2.5.3?classifier=sources

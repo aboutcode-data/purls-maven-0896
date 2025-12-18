@@ -42,6 +42,8 @@
 - pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.26.1?classifier=sources
 - pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.26.2
 - pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.26.2?classifier=sources
+- pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.26.3
+- pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.26.3?classifier=sources
 - pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.3.0
 - pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.3.0?classifier=sources
 - pkg:maven/com.github.shynixn.petblocks/petblocks-tools@8.4.0

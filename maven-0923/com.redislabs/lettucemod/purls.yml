@@ -1,0 +1,2 @@
+- pkg:maven/com.redislabs/lettucemod@1.4.0?classifier=sources
+- pkg:maven/com.redislabs/lettucemod@1.4.1?classifier=sources

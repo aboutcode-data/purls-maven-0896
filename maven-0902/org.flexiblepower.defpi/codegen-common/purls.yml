@@ -20,3 +20,5 @@
 - pkg:maven/org.flexiblepower.defpi/codegen-common@20.04?classifier=sources
 - pkg:maven/org.flexiblepower.defpi/codegen-common@20.10
 - pkg:maven/org.flexiblepower.defpi/codegen-common@20.10?classifier=sources
+- pkg:maven/org.flexiblepower.defpi/codegen-common@21.06
+- pkg:maven/org.flexiblepower.defpi/codegen-common@21.06?classifier=sources

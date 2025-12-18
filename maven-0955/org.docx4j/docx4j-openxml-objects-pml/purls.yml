@@ -52,3 +52,5 @@
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.2.9?classifier=sources
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.3.0
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.3.0?classifier=sources
+- pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.3.1
+- pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.3.1?classifier=sources

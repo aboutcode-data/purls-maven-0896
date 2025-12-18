@@ -1,2 +1,5 @@
 - pkg:maven/com.exactpro.th2/conn-http-client@0.0.11?classifier=sources
 - pkg:maven/com.exactpro.th2/conn-http-client@0.0.12?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-http-client@0.0.13?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-http-client@0.0.14?classifier=sources
+- pkg:maven/com.exactpro.th2/conn-http-client@0.0.15?classifier=sources

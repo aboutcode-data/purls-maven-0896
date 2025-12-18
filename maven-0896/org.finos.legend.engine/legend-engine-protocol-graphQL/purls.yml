@@ -1,0 +1,10 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.37.0
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.37.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.38.0
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.38.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.39.0
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.39.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.40.0
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.40.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.41.0
+- pkg:maven/org.finos.legend.engine/legend-engine-protocol-graphQL@2.41.0?classifier=sources

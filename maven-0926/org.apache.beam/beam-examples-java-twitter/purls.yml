@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.beam/beam-examples-java-twitter@2.31.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-twitter@2.32.0?classifier=sources

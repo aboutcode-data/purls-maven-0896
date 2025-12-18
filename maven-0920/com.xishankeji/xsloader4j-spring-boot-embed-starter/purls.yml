@@ -46,3 +46,5 @@
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.68
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.68?classifier=sources
 - pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.6?classifier=sources
+- pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.97
+- pkg:maven/com.xishankeji/xsloader4j-spring-boot-embed-starter@1.2.97?classifier=sources

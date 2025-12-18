@@ -2,6 +2,13 @@
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.0.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.1.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.1.1?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.10.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.11.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.2.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.3.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.4.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.5.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.6.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.7.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.8.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.9.0?classifier=sources

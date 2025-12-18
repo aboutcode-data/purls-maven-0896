@@ -44,3 +44,5 @@
 - pkg:maven/org.bboxdb/bboxdb-tools@0.9.8?classifier=sources
 - pkg:maven/org.bboxdb/bboxdb-tools@0.9.9
 - pkg:maven/org.bboxdb/bboxdb-tools@0.9.9?classifier=sources
+- pkg:maven/org.bboxdb/bboxdb-tools@1.0.0-rc1
+- pkg:maven/org.bboxdb/bboxdb-tools@1.0.0-rc1?classifier=sources

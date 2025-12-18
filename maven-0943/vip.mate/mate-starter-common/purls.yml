@@ -24,3 +24,9 @@
 - pkg:maven/vip.mate/mate-starter-common@3.6.8?classifier=sources
 - pkg:maven/vip.mate/mate-starter-common@3.7.8
 - pkg:maven/vip.mate/mate-starter-common@3.7.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-common@3.8.8
+- pkg:maven/vip.mate/mate-starter-common@3.8.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-common@4.0.8
+- pkg:maven/vip.mate/mate-starter-common@4.0.8?classifier=sources
+- pkg:maven/vip.mate/mate-starter-common@4.0.9
+- pkg:maven/vip.mate/mate-starter-common@4.0.9?classifier=sources

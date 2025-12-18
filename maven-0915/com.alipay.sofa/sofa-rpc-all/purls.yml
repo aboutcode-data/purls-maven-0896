@@ -78,3 +78,5 @@
 - pkg:maven/com.alipay.sofa/sofa-rpc-all@5.7.7?classifier=sources
 - pkg:maven/com.alipay.sofa/sofa-rpc-all@5.7.8
 - pkg:maven/com.alipay.sofa/sofa-rpc-all@5.7.8?classifier=sources
+- pkg:maven/com.alipay.sofa/sofa-rpc-all@5.7.9
+- pkg:maven/com.alipay.sofa/sofa-rpc-all@5.7.9?classifier=sources

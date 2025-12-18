@@ -5,3 +5,4 @@
 - pkg:maven/org.spekframework.spek2/spek-runtime-native-macos@2.0.14?classifier=sources
 - pkg:maven/org.spekframework.spek2/spek-runtime-native-macos@2.0.15?classifier=sources
 - pkg:maven/org.spekframework.spek2/spek-runtime-native-macos@2.0.16?classifier=sources
+- pkg:maven/org.spekframework.spek2/spek-runtime-native-macos@2.0.17?classifier=sources

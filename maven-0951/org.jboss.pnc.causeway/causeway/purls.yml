@@ -1,2 +1,6 @@
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.0.0?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.0.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.causeway/causeway@2.0.2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.causeway/causeway@2.1.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.causeway/causeway@2.1.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.causeway/causeway@2.1.2?classifier=source-release&type=zip

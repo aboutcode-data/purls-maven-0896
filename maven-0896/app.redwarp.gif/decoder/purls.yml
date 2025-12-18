@@ -4,3 +4,7 @@
 - pkg:maven/app.redwarp.gif/decoder@0.5.0?classifier=sources
 - pkg:maven/app.redwarp.gif/decoder@0.5.1?classifier=sources
 - pkg:maven/app.redwarp.gif/decoder@0.6.0?classifier=sources
+- pkg:maven/app.redwarp.gif/decoder@0.6.1?classifier=sources
+- pkg:maven/app.redwarp.gif/decoder@0.7.0?classifier=sources
+- pkg:maven/app.redwarp.gif/decoder@0.7.1?classifier=sources
+- pkg:maven/app.redwarp.gif/decoder@0.7.2?classifier=sources

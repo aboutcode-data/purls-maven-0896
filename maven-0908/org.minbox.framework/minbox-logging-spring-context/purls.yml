@@ -14,3 +14,5 @@
 - pkg:maven/org.minbox.framework/minbox-logging-spring-context@1.0.5.RELEASE?classifier=sources
 - pkg:maven/org.minbox.framework/minbox-logging-spring-context@1.0.6
 - pkg:maven/org.minbox.framework/minbox-logging-spring-context@1.0.6?classifier=sources
+- pkg:maven/org.minbox.framework/minbox-logging-spring-context@1.0.7-RC1
+- pkg:maven/org.minbox.framework/minbox-logging-spring-context@1.0.7-RC1?classifier=sources

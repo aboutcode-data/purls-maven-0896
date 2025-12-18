@@ -1,0 +1,10 @@
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M6
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M6?classifier=sources
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M7
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M7?classifier=sources
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M8
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M8?classifier=sources
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M9
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0-M9?classifier=sources
+- pkg:maven/com.snowplowanalytics/fs2-google-pubsub_2.13@0.18.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/eu.chargetime.ocpp/common@1.0
+- pkg:maven/eu.chargetime.ocpp/common@1.0?classifier=sources

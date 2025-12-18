@@ -104,3 +104,5 @@
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.6.0?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.7.0
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.7.0?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.8.0
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.8.0?classifier=sources

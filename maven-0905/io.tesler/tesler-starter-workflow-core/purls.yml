@@ -1,0 +1,2 @@
+- pkg:maven/io.tesler/tesler-starter-workflow-core@3.0.3
+- pkg:maven/io.tesler/tesler-starter-workflow-core@3.0.3?classifier=sources

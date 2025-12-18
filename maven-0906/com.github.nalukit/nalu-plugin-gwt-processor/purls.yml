@@ -78,5 +78,9 @@
 - pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@2.5.0-gwt-2.8.2
 - pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@2.5.0-gwt-2.8.2?classifier=sources
 - pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@2.5.0?classifier=sources
+- pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@2.6.0
+- pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@2.6.0-gwt-2.8.2
+- pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@2.6.0-gwt-2.8.2?classifier=sources
+- pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@2.6.0?classifier=sources
 - pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@HEAD-SNAPSHOT-gwt-2.8.2
 - pkg:maven/com.github.nalukit/nalu-plugin-gwt-processor@HEAD-SNAPSHOT-gwt-2.8.2?classifier=sources

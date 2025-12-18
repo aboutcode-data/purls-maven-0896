@@ -6,3 +6,7 @@
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.22.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.22.2
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.22.2?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.22.4
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.22.4?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.23.0
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.23.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/color-string@1.5.4?classifier=sources
 - pkg:maven/org.webjars.npm/color-string@1.5.5
 - pkg:maven/org.webjars.npm/color-string@1.5.5?classifier=sources
+- pkg:maven/org.webjars.npm/color-string@1.6.0
+- pkg:maven/org.webjars.npm/color-string@1.6.0?classifier=sources

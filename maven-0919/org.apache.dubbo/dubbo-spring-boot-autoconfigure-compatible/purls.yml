@@ -7,6 +7,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.11?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.12
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.12?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.13
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.13?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.1?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.3
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.3?classifier=sources
@@ -24,3 +26,9 @@
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@2.7.9?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.0
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.0?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.1
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.1?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.2
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.2.1
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.2.1?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-autoconfigure-compatible@3.0.2?classifier=sources

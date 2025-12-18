@@ -1,3 +1,5 @@
 - pkg:maven/io.github.leobert-lan/davinci@0.0.2-beta?classifier=sources
 - pkg:maven/io.github.leobert-lan/davinci@0.0.3-beta?classifier=sources
 - pkg:maven/io.github.leobert-lan/davinci@0.0.4?classifier=sources
+- pkg:maven/io.github.leobert-lan/davinci@0.0.5?classifier=sources
+- pkg:maven/io.github.leobert-lan/davinci@0.0.6?classifier=sources

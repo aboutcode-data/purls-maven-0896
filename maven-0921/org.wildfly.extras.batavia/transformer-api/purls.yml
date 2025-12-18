@@ -8,6 +8,7 @@
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.0.Final
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.10.Final?classifier=sources
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.3.Final
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.3.Final?classifier=sources
@@ -20,3 +21,4 @@
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.7.Final?classifier=sources
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.8.Final
 - pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.8.Final?classifier=sources
+- pkg:maven/org.wildfly.extras.batavia/transformer-api@1.0.9.Final?classifier=sources

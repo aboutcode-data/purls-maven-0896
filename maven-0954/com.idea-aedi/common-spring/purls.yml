@@ -1,0 +1,10 @@
+- pkg:maven/com.idea-aedi/common-spring@2021.07
+- pkg:maven/com.idea-aedi/common-spring@2021.07?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2021.08
+- pkg:maven/com.idea-aedi/common-spring@2021.08?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2021.09
+- pkg:maven/com.idea-aedi/common-spring@2021.09?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2021.10
+- pkg:maven/com.idea-aedi/common-spring@2021.10?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2021.11
+- pkg:maven/com.idea-aedi/common-spring@2021.11?classifier=sources

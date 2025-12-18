@@ -29,3 +29,5 @@
 - pkg:maven/info.novatec/micronaut-camunda-bpm-feature@0.7.0?classifier=sources
 - pkg:maven/info.novatec/micronaut-camunda-bpm-feature@0.8.0?classifier=sources
 - pkg:maven/info.novatec/micronaut-camunda-bpm-feature@0.9.0?classifier=sources
+- pkg:maven/info.novatec/micronaut-camunda-bpm-feature@1.0.0?classifier=sources
+- pkg:maven/info.novatec/micronaut-camunda-bpm-feature@1.0.1?classifier=sources

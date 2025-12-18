@@ -17,12 +17,16 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.0-M9
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.0-M9?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.0?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.10?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.2?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.4?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.5?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.6?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.7?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@10.0.8?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@10.1.0-M1?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@10.1.0-M2?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@10.1.0-M4?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.0
 - pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.0?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@7.0.100
@@ -362,7 +366,9 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.65?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.66?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.68?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.69?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.6?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.70?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.8
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.8?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@8.5.9
@@ -468,6 +474,8 @@
 - pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.48?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.4?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.5
+- pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.50?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.52?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.5?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.6
 - pkg:maven/org.apache.tomcat/tomcat-catalina@9.0.6?classifier=sources

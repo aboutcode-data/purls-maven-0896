@@ -1,3 +1,5 @@
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.10?classifier=sources
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.10?type=aar
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.3?classifier=sources
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.3?type=aar
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.4?classifier=sources
@@ -8,3 +10,7 @@
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.6?type=aar
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.7?classifier=sources
 - pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.7?type=aar
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.8?classifier=sources
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.8?type=aar
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.9?classifier=sources
+- pkg:maven/ru.webim.sdk/webimclientsdkandroid@3.36.9?type=aar

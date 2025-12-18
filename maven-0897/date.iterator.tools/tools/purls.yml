@@ -1,2 +1,7 @@
 - pkg:maven/date.iterator.tools/tools@0.1
 - pkg:maven/date.iterator.tools/tools@0.1?classifier=sources
+- pkg:maven/date.iterator.tools/tools@0.2
+- pkg:maven/date.iterator.tools/tools@0.2?classifier=sources
+- pkg:maven/date.iterator.tools/tools@0.3?classifier=sources
+- pkg:maven/date.iterator.tools/tools@0.4
+- pkg:maven/date.iterator.tools/tools@0.4?classifier=sources

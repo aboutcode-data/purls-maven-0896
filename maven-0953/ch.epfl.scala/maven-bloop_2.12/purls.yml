@@ -185,6 +185,12 @@
 - pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-61-1cf97a4a?classifier=sources
 - pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-63-80fdb462
 - pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-63-80fdb462?classifier=sources
+- pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-65-b1dc4f8c
+- pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-65-b1dc4f8c?classifier=sources
+- pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-67-6ec484db
+- pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-67-6ec484db?classifier=sources
+- pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-69-93b5aa87
+- pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-69-93b5aa87?classifier=sources
 - pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-7-339e5306
 - pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-7-339e5306?classifier=sources
 - pkg:maven/ch.epfl.scala/maven-bloop_2.12@1.4.8-9-4adea728

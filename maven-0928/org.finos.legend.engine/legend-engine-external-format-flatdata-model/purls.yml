@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-flatdata-model@2.39.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-flatdata-model@2.39.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-flatdata-model@2.40.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-flatdata-model@2.40.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-flatdata-model@2.41.0
+- pkg:maven/org.finos.legend.engine/legend-engine-external-format-flatdata-model@2.41.0?classifier=sources
