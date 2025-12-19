@@ -17,3 +17,5 @@
 - pkg:maven/com.expofp/gpsprovider@4.2.0?classifier=sources
 - pkg:maven/com.expofp/gpsprovider@4.2.1?classifier=sources
 - pkg:maven/com.expofp/gpsprovider@4.2.2?classifier=sources
+- pkg:maven/com.expofp/gpsprovider@4.2.3?classifier=sources
+- pkg:maven/com.expofp/gpsprovider@4.2.4?classifier=sources

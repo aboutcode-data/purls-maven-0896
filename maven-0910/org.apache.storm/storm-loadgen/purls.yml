@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.storm/storm-loadgen@2.3.0?classifier=sources
 - pkg:maven/org.apache.storm/storm-loadgen@2.4.0
 - pkg:maven/org.apache.storm/storm-loadgen@2.4.0?classifier=sources
+- pkg:maven/org.apache.storm/storm-loadgen@2.5.0
+- pkg:maven/org.apache.storm/storm-loadgen@2.5.0?classifier=sources

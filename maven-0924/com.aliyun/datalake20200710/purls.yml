@@ -22,3 +22,7 @@
 - pkg:maven/com.aliyun/datalake20200710@2.0.8?classifier=sources
 - pkg:maven/com.aliyun/datalake20200710@2.0.9
 - pkg:maven/com.aliyun/datalake20200710@2.0.9?classifier=sources
+- pkg:maven/com.aliyun/datalake20200710@2.1.0
+- pkg:maven/com.aliyun/datalake20200710@2.1.0?classifier=sources
+- pkg:maven/com.aliyun/datalake20200710@2.2.0
+- pkg:maven/com.aliyun/datalake20200710@2.2.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.06?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.07?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.08?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.21?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.22?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.23?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.25?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.26?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.27?classifier=sources
+- pkg:maven/org.opencampaignlink/report-generator-jvm@1.0.28?classifier=sources

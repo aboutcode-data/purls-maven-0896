@@ -1,2 +1,4 @@
 - pkg:maven/com.avito.android/http-statsd@2023.15?classifier=sources
+- pkg:maven/com.avito.android/http-statsd@2023.19?classifier=sources
+- pkg:maven/com.avito.android/http-statsd@2023.20?classifier=sources
 - pkg:maven/com.avito.android/http-statsd@2023.2?classifier=sources

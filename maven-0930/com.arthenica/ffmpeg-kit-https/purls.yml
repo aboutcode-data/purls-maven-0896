@@ -16,3 +16,7 @@
 - pkg:maven/com.arthenica/ffmpeg-kit-https@4.5?type=aar
 - pkg:maven/com.arthenica/ffmpeg-kit-https@5.1.LTS?classifier=sources
 - pkg:maven/com.arthenica/ffmpeg-kit-https@5.1?classifier=sources
+- pkg:maven/com.arthenica/ffmpeg-kit-https@6.0-1.LTS?classifier=sources
+- pkg:maven/com.arthenica/ffmpeg-kit-https@6.0-1?classifier=sources
+- pkg:maven/com.arthenica/ffmpeg-kit-https@6.0.LTS?classifier=sources
+- pkg:maven/com.arthenica/ffmpeg-kit-https@6.0?classifier=sources

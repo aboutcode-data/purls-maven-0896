@@ -1,5 +1,7 @@
 - pkg:maven/com.pulumi/azuredevops@2.10.0-alpha.1690404934%2B1c9ce301?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@2.10.0?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@2.11.0-alpha.1692851758%2B4fd940bd?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@2.11.0?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@2.6.0-alpha.1674742452%2B0ac49aa7?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@2.6.0?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@2.7.0-alpha.1675048751%2B24fa48e6?classifier=sources

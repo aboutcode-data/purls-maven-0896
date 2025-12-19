@@ -7,3 +7,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-benchmark-runtime-iossimulatorarm64@0.4.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-benchmark-runtime-iossimulatorarm64@0.4.7?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-benchmark-runtime-iossimulatorarm64@0.4.8?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-benchmark-runtime-iossimulatorarm64@0.4.9?classifier=sources

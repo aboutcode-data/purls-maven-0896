@@ -1,3 +1,5 @@
+- pkg:maven/org.typelevel/algebra-laws_native0.4_3@2.10.0
+- pkg:maven/org.typelevel/algebra-laws_native0.4_3@2.10.0?classifier=sources
 - pkg:maven/org.typelevel/algebra-laws_native0.4_3@2.8.0
 - pkg:maven/org.typelevel/algebra-laws_native0.4_3@2.8.0?classifier=sources
 - pkg:maven/org.typelevel/algebra-laws_native0.4_3@2.9.0

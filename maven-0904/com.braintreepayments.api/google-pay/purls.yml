@@ -39,6 +39,7 @@
 - pkg:maven/com.braintreepayments.api/google-pay@4.34.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/google-pay@4.35.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/google-pay@4.36.0?classifier=sources
+- pkg:maven/com.braintreepayments.api/google-pay@4.37.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/google-pay@4.4.0?classifier=sources
 - pkg:maven/com.braintreepayments.api/google-pay@4.4.1?classifier=sources
 - pkg:maven/com.braintreepayments.api/google-pay@4.5.0?classifier=sources

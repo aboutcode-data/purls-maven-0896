@@ -103,6 +103,8 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.7.22
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.7.22?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.8.0
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.8.0-343
+- pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.8.0-343?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.8.0-Beta
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.8.0-Beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-scripting-js@1.8.0-RC

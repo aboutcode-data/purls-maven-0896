@@ -1,2 +1,4 @@
 - pkg:maven/io.github.swachter/sbt-scala-ts_2.12_1.0@0.12.0
 - pkg:maven/io.github.swachter/sbt-scala-ts_2.12_1.0@0.12.0?classifier=sources
+- pkg:maven/io.github.swachter/sbt-scala-ts_2.12_1.0@0.13.0
+- pkg:maven/io.github.swachter/sbt-scala-ts_2.12_1.0@0.13.0?classifier=sources

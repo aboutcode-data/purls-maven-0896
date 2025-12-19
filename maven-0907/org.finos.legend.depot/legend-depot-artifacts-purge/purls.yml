@@ -88,6 +88,10 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.23.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.24.0
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.24.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.24.1
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.24.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.25.0
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.25.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.4.19
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.4.19?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.4.20
@@ -166,3 +170,13 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.9.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.9.1
 - pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@1.9.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.0
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.0?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.1
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.2
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.2?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.3
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.3?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.4
+- pkg:maven/org.finos.legend.depot/legend-depot-artifacts-purge@2.0.4?classifier=sources

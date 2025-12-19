@@ -22,6 +22,8 @@
 - pkg:maven/com.google.apis/google-api-services-identitytoolkit@v2-rev20230505-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-identitytoolkit@v2-rev20230531-2.0.0
 - pkg:maven/com.google.apis/google-api-services-identitytoolkit@v2-rev20230531-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-identitytoolkit@v2-rev20230804-2.0.0
+- pkg:maven/com.google.apis/google-api-services-identitytoolkit@v2-rev20230804-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-identitytoolkit@v3-rev1-1.13.2-beta
 - pkg:maven/com.google.apis/google-api-services-identitytoolkit@v3-rev1-1.13.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-identitytoolkit@v3-rev1-1.14.2-beta

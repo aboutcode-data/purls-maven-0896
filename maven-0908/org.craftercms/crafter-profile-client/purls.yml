@@ -285,6 +285,8 @@
 - pkg:maven/org.craftercms/crafter-profile-client@4.0.4
 - pkg:maven/org.craftercms/crafter-profile-client@4.0.5
 - pkg:maven/org.craftercms/crafter-profile-client@4.0.6
+- pkg:maven/org.craftercms/crafter-profile-client@4.1.1
+- pkg:maven/org.craftercms/crafter-profile-client@4.1.1?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-client@v2.4.1-RC2
 - pkg:maven/org.craftercms/crafter-profile-client@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-profile-client@v2.4.1-RC3

@@ -1,0 +1,2 @@
+- pkg:maven/com.paywholesail.mojo/numbers-maven-plugin@2.1
+- pkg:maven/com.paywholesail.mojo/numbers-maven-plugin@2.1?classifier=sources

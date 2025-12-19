@@ -70,6 +70,8 @@
 - pkg:maven/org.checkerframework/checker-qual-android@3.34.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual-android@3.35.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual-android@3.36.0?classifier=sources
+- pkg:maven/org.checkerframework/checker-qual-android@3.37.0?classifier=sources
+- pkg:maven/org.checkerframework/checker-qual-android@3.38.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual-android@3.4.0
 - pkg:maven/org.checkerframework/checker-qual-android@3.4.0?classifier=sources
 - pkg:maven/org.checkerframework/checker-qual-android@3.4.1

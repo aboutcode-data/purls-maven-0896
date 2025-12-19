@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-kubernetes-extensions@25.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-kubernetes-extensions@26.0.0
 - pkg:maven/org.apache.druid.extensions/druid-kubernetes-extensions@26.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-kubernetes-extensions@27.0.0
+- pkg:maven/org.apache.druid.extensions/druid-kubernetes-extensions@27.0.0?classifier=sources

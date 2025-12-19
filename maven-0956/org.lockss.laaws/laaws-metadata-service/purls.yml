@@ -16,3 +16,5 @@
 - pkg:maven/org.lockss.laaws/laaws-metadata-service@2.4.2?classifier=sources
 - pkg:maven/org.lockss.laaws/laaws-metadata-service@2.5.0
 - pkg:maven/org.lockss.laaws/laaws-metadata-service@2.5.0?classifier=sources
+- pkg:maven/org.lockss.laaws/laaws-metadata-service@2.6.0
+- pkg:maven/org.lockss.laaws/laaws-metadata-service@2.6.0?classifier=sources

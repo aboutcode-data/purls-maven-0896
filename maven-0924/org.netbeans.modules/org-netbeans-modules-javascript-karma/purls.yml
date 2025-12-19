@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE190?classifier=sources

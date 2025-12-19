@@ -40,3 +40,5 @@
 - pkg:maven/com.facebook.presto/presto-grpc-testing-udf-server@0.281?classifier=sources
 - pkg:maven/com.facebook.presto/presto-grpc-testing-udf-server@0.282
 - pkg:maven/com.facebook.presto/presto-grpc-testing-udf-server@0.282?classifier=sources
+- pkg:maven/com.facebook.presto/presto-grpc-testing-udf-server@0.283
+- pkg:maven/com.facebook.presto/presto-grpc-testing-udf-server@0.283?classifier=sources

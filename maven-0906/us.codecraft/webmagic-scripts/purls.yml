@@ -34,3 +34,5 @@
 - pkg:maven/us.codecraft/webmagic-scripts@0.8.0?classifier=sources
 - pkg:maven/us.codecraft/webmagic-scripts@0.9.0
 - pkg:maven/us.codecraft/webmagic-scripts@0.9.0?classifier=sources
+- pkg:maven/us.codecraft/webmagic-scripts@0.9.1
+- pkg:maven/us.codecraft/webmagic-scripts@0.9.1?classifier=sources

@@ -5,3 +5,8 @@
 - pkg:maven/aws.sdk.kotlin/paymentcryptography@0.28.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/paymentcryptography@0.28.2-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/paymentcryptography@0.29.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/paymentcryptography@0.29.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/paymentcryptography@0.30.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/paymentcryptography@0.30.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/paymentcryptography@0.31.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/paymentcryptography@0.32.0-beta?classifier=sources

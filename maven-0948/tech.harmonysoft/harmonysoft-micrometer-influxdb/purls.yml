@@ -60,5 +60,15 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.74.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.75.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.76.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.77.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.78.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.79.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.8.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.80.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.82.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.83.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.84.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.85.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.86.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.87.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.9.0?classifier=sources

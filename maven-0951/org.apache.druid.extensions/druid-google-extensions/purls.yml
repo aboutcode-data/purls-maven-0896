@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-google-extensions@25.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-google-extensions@26.0.0
 - pkg:maven/org.apache.druid.extensions/druid-google-extensions@26.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-google-extensions@27.0.0
+- pkg:maven/org.apache.druid.extensions/druid-google-extensions@27.0.0?classifier=sources

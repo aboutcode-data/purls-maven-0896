@@ -6,5 +6,7 @@
 - pkg:maven/dev.zio/zio-logging-slf4j2_2.12@2.1.12?classifier=sources
 - pkg:maven/dev.zio/zio-logging-slf4j2_2.12@2.1.13
 - pkg:maven/dev.zio/zio-logging-slf4j2_2.12@2.1.13?classifier=sources
+- pkg:maven/dev.zio/zio-logging-slf4j2_2.12@2.1.14
+- pkg:maven/dev.zio/zio-logging-slf4j2_2.12@2.1.14?classifier=sources
 - pkg:maven/dev.zio/zio-logging-slf4j2_2.12@2.1.9
 - pkg:maven/dev.zio/zio-logging-slf4j2_2.12@2.1.9?classifier=sources

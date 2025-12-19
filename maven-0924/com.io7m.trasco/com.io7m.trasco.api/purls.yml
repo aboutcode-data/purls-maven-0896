@@ -18,3 +18,5 @@
 - pkg:maven/com.io7m.trasco/com.io7m.trasco.api@1.0.0-beta0003
 - pkg:maven/com.io7m.trasco/com.io7m.trasco.api@1.0.0-beta0003?classifier=sources
 - pkg:maven/com.io7m.trasco/com.io7m.trasco.api@1.0.0?classifier=sources
+- pkg:maven/com.io7m.trasco/com.io7m.trasco.api@1.1.0
+- pkg:maven/com.io7m.trasco/com.io7m.trasco.api@1.1.0?classifier=sources

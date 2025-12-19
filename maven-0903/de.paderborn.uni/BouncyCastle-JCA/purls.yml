@@ -1,2 +1,4 @@
 - pkg:maven/de.paderborn.uni/BouncyCastle-JCA@0.4
 - pkg:maven/de.paderborn.uni/BouncyCastle-JCA@0.4?classifier=sources
+- pkg:maven/de.paderborn.uni/BouncyCastle-JCA@0.5
+- pkg:maven/de.paderborn.uni/BouncyCastle-JCA@0.5?classifier=sources

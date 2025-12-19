@@ -14,3 +14,5 @@
 - pkg:maven/io.github.sebasbaumh/mapbox-vector-tile-java@23.0.0?classifier=sources
 - pkg:maven/io.github.sebasbaumh/mapbox-vector-tile-java@23.1.0
 - pkg:maven/io.github.sebasbaumh/mapbox-vector-tile-java@23.1.0?classifier=sources
+- pkg:maven/io.github.sebasbaumh/mapbox-vector-tile-java@23.2.0
+- pkg:maven/io.github.sebasbaumh/mapbox-vector-tile-java@23.2.0?classifier=sources

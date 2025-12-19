@@ -40,3 +40,5 @@
 - pkg:maven/org.mule.maven.exchange/polyglot-exchange@2.2.2?classifier=sources
 - pkg:maven/org.mule.maven.exchange/polyglot-exchange@2.3.0
 - pkg:maven/org.mule.maven.exchange/polyglot-exchange@2.3.0?classifier=sources
+- pkg:maven/org.mule.maven.exchange/polyglot-exchange@2.4.0
+- pkg:maven/org.mule.maven.exchange/polyglot-exchange@2.4.0?classifier=sources

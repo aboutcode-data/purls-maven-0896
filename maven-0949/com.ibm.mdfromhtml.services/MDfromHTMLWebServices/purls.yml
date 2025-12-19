@@ -34,6 +34,13 @@
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.12?type=war
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.13?classifier=sources
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.13?type=war
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.14?classifier=sources
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.14?type=war
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.15?classifier=sources
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.15?type=war
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.16?classifier=sources
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.16?type=war
+- pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.18?type=war
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.1?classifier=sources
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.1?type=war
 - pkg:maven/com.ibm.mdfromhtml.services/MDfromHTMLWebServices@2.0.2?classifier=sources

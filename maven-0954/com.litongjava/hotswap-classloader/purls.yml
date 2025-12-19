@@ -20,3 +20,5 @@
 - pkg:maven/com.litongjava/hotswap-classloader@1.0?classifier=sources
 - pkg:maven/com.litongjava/hotswap-classloader@1.1.0
 - pkg:maven/com.litongjava/hotswap-classloader@1.1.0?classifier=sources
+- pkg:maven/com.litongjava/hotswap-classloader@1.1.1
+- pkg:maven/com.litongjava/hotswap-classloader@1.1.1?classifier=sources

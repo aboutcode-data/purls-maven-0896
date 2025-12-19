@@ -1,0 +1,4 @@
+- pkg:maven/dev.jonpoulton.alakazam/tak-plugin@3.3.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/tak-plugin@3.4.1?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/tak-plugin@3.5.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/tak-plugin@3.6.0?classifier=sources

@@ -52,3 +52,7 @@
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@2.6.0?classifier=sources
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@2.7.0
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@2.7.0?classifier=sources
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@2.8.0
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@2.8.0?classifier=sources
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@2.9.0
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@2.9.0?classifier=sources

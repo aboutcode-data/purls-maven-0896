@@ -1,0 +1,4 @@
+- pkg:maven/com.chan3d/dlz.framework.db.mybatis-plus@1.0.1-RELEASE
+- pkg:maven/com.chan3d/dlz.framework.db.mybatis-plus@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.chan3d/dlz.framework.db.mybatis-plus@5.4.2
+- pkg:maven/com.chan3d/dlz.framework.db.mybatis-plus@5.4.2?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/com.siliconmtn/spacelibs-java@1.2.7.4?classifier=sources
 - pkg:maven/com.siliconmtn/spacelibs-java@1.2.8?classifier=sources
 - pkg:maven/com.siliconmtn/spacelibs-java@1.2.9?classifier=sources
+- pkg:maven/com.siliconmtn/spacelibs-java@2.0.0?classifier=sources
+- pkg:maven/com.siliconmtn/spacelibs-java@2.0.1?classifier=sources

@@ -90,3 +90,4 @@
 - pkg:maven/com.facebook.presto/presto-function-namespace-managers@0.280?classifier=sources
 - pkg:maven/com.facebook.presto/presto-function-namespace-managers@0.281?classifier=sources
 - pkg:maven/com.facebook.presto/presto-function-namespace-managers@0.282?classifier=sources
+- pkg:maven/com.facebook.presto/presto-function-namespace-managers@0.283?classifier=sources

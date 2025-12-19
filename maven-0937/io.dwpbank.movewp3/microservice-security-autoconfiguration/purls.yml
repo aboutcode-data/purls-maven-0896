@@ -12,6 +12,10 @@
 - pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@0.7.2?classifier=sources
 - pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@3.0.0
 - pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@3.0.0?classifier=sources
+- pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@3.0.1
+- pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@3.0.1?classifier=sources
+- pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@3.0.2
+- pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@3.0.2?classifier=sources
 - pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@52ee589
 - pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@52ee589?classifier=sources
 - pkg:maven/io.dwpbank.movewp3/microservice-security-autoconfiguration@e4c4eac

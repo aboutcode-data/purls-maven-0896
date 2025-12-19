@@ -4,3 +4,7 @@
 - pkg:maven/com.finbourne/luminesce-sdk-preview@1.13.202?classifier=sources
 - pkg:maven/com.finbourne/luminesce-sdk-preview@1.13.213
 - pkg:maven/com.finbourne/luminesce-sdk-preview@1.13.213?classifier=sources
+- pkg:maven/com.finbourne/luminesce-sdk-preview@1.13.234
+- pkg:maven/com.finbourne/luminesce-sdk-preview@1.13.234?classifier=sources
+- pkg:maven/com.finbourne/luminesce-sdk-preview@1.13.235
+- pkg:maven/com.finbourne/luminesce-sdk-preview@1.13.235?classifier=sources

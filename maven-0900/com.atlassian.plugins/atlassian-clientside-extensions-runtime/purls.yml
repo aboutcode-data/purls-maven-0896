@@ -6,3 +6,5 @@
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@2.4.3-54cfef9-l5usguao?classifier=sources
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@2.4.3-9ac221a2-9ac221a-l5rvvm4f?classifier=sources
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@2.4.3?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@2.4.4?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@2.4.5?classifier=sources

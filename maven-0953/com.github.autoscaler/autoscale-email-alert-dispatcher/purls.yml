@@ -26,3 +26,5 @@
 - pkg:maven/com.github.autoscaler/autoscale-email-alert-dispatcher@1.9.2-833?classifier=sources
 - pkg:maven/com.github.autoscaler/autoscale-email-alert-dispatcher@2.0.0-914
 - pkg:maven/com.github.autoscaler/autoscale-email-alert-dispatcher@2.0.0-914?classifier=sources
+- pkg:maven/com.github.autoscaler/autoscale-email-alert-dispatcher@2.0.1-934
+- pkg:maven/com.github.autoscaler/autoscale-email-alert-dispatcher@2.0.1-934?classifier=sources

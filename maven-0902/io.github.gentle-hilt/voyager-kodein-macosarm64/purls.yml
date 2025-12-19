@@ -1,0 +1,3 @@
+- pkg:maven/io.github.gentle-hilt/voyager-kodein-macosarm64@10.0.0-rc06?classifier=sources
+- pkg:maven/io.github.gentle-hilt/voyager-kodein-macosarm64@11.0.0-rc06?classifier=sources
+- pkg:maven/io.github.gentle-hilt/voyager-kodein-macosarm64@12.0.0-rc06?classifier=sources

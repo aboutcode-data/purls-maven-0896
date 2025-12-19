@@ -4,3 +4,5 @@
 - pkg:maven/io.vertigo/vertigo-saml2-connector@3.5.0?classifier=sources
 - pkg:maven/io.vertigo/vertigo-saml2-connector@3.6.0
 - pkg:maven/io.vertigo/vertigo-saml2-connector@3.6.0?classifier=sources
+- pkg:maven/io.vertigo/vertigo-saml2-connector@4.0.0
+- pkg:maven/io.vertigo/vertigo-saml2-connector@4.0.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.8.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.9.0
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.9.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@9.0.0
+- pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@9.0.0?classifier=sources

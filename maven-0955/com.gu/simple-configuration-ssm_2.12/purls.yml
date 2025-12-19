@@ -8,3 +8,5 @@
 - pkg:maven/com.gu/simple-configuration-ssm_2.12@1.5.8?classifier=sources
 - pkg:maven/com.gu/simple-configuration-ssm_2.12@1.6.0
 - pkg:maven/com.gu/simple-configuration-ssm_2.12@1.6.0?classifier=sources
+- pkg:maven/com.gu/simple-configuration-ssm_2.12@1.6.2
+- pkg:maven/com.gu/simple-configuration-ssm_2.12@1.6.2?classifier=sources

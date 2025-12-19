@@ -2,3 +2,5 @@
 - pkg:maven/org.ogc-schemas/gml-v_3_2@3.0.0?classifier=sources
 - pkg:maven/org.ogc-schemas/gml-v_3_2@4.0.0
 - pkg:maven/org.ogc-schemas/gml-v_3_2@4.0.0?classifier=sources
+- pkg:maven/org.ogc-schemas/gml-v_3_2@5.0.0
+- pkg:maven/org.ogc-schemas/gml-v_3_2@5.0.0?classifier=sources

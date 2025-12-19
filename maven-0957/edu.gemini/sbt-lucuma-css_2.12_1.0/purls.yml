@@ -8,3 +8,5 @@
 - pkg:maven/edu.gemini/sbt-lucuma-css_2.12_1.0@0.11.3?classifier=sources
 - pkg:maven/edu.gemini/sbt-lucuma-css_2.12_1.0@0.11.4
 - pkg:maven/edu.gemini/sbt-lucuma-css_2.12_1.0@0.11.4?classifier=sources
+- pkg:maven/edu.gemini/sbt-lucuma-css_2.12_1.0@0.11.5
+- pkg:maven/edu.gemini/sbt-lucuma-css_2.12_1.0@0.11.5?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-beans@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-beans@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-beans@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-beans@RELEASE190?classifier=sources

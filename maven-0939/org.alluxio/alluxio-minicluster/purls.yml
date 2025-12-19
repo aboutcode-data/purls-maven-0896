@@ -136,3 +136,5 @@
 - pkg:maven/org.alluxio/alluxio-minicluster@301?classifier=sources
 - pkg:maven/org.alluxio/alluxio-minicluster@302
 - pkg:maven/org.alluxio/alluxio-minicluster@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-minicluster@303
+- pkg:maven/org.alluxio/alluxio-minicluster@303?classifier=sources

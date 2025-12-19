@@ -42,5 +42,7 @@
 - pkg:maven/com.sdl.dxa/dxa-webapp-archetype@2.2.31?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-webapp-archetype@2.2.32?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-webapp-archetype@2.2.33?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-webapp-archetype@2.2.34?classifier=sources
+- pkg:maven/com.sdl.dxa/dxa-webapp-archetype@2.2.35?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-webapp-archetype@2.2.3?classifier=sources
 - pkg:maven/com.sdl.dxa/dxa-webapp-archetype@2.2.5?classifier=sources

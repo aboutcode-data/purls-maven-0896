@@ -1,2 +1,4 @@
 - pkg:maven/io.github.stylesmile/fastboot-captcha@1.1.0
 - pkg:maven/io.github.stylesmile/fastboot-captcha@1.1.0?classifier=sources
+- pkg:maven/io.github.stylesmile/fastboot-captcha@2.0.0
+- pkg:maven/io.github.stylesmile/fastboot-captcha@2.0.0?classifier=sources

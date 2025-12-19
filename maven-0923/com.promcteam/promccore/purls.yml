@@ -1,2 +1,4 @@
 - pkg:maven/com.promcteam/promccore@1.0.4
 - pkg:maven/com.promcteam/promccore@1.0.4?classifier=sources
+- pkg:maven/com.promcteam/promccore@1.0.5-R1
+- pkg:maven/com.promcteam/promccore@1.0.5-R1?classifier=sources

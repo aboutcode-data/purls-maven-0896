@@ -1,2 +1,4 @@
 - pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-mpc@0.0.8-beta
 - pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-mpc@0.0.8-beta?classifier=sources
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-mpc@0.0.9-beta
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-mpc@0.0.9-beta?classifier=sources

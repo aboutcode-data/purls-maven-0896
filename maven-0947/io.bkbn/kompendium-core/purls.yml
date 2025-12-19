@@ -49,3 +49,4 @@
 - pkg:maven/io.bkbn/kompendium-core@3.6.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-core@3.8.0?classifier=sources
 - pkg:maven/io.bkbn/kompendium-core@3.9.0?classifier=sources
+- pkg:maven/io.bkbn/kompendium-core@4.0.0-alpha?classifier=sources

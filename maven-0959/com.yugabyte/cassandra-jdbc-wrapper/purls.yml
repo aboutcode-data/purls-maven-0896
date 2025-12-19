@@ -1,0 +1,2 @@
+- pkg:maven/com.yugabyte/cassandra-jdbc-wrapper@4.6.1-yb-1-alpha1
+- pkg:maven/com.yugabyte/cassandra-jdbc-wrapper@4.6.1-yb-1-alpha1?classifier=sources

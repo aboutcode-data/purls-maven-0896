@@ -55,3 +55,4 @@
 - pkg:maven/com.linecorp.decaton/decaton-protocol@6.4.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-protocol@6.5.0?classifier=sources
 - pkg:maven/com.linecorp.decaton/decaton-protocol@7.0.0?classifier=sources
+- pkg:maven/com.linecorp.decaton/decaton-protocol@7.1.0?classifier=sources

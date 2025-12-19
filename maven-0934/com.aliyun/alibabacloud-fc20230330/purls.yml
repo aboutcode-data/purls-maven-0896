@@ -2,3 +2,5 @@
 - pkg:maven/com.aliyun/alibabacloud-fc20230330@1.0.0?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-fc20230330@2.0.0
 - pkg:maven/com.aliyun/alibabacloud-fc20230330@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-fc20230330@3.0.0
+- pkg:maven/com.aliyun/alibabacloud-fc20230330@3.0.0?classifier=sources

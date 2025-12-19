@@ -1,3 +1,4 @@
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@1999.10?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2021.12?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2021.9?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2022.01?classifier=sources
@@ -12,5 +13,6 @@
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2023.05?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2023.07?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2023.08?classifier=sources
+- pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2023.09?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2023.2.01?classifier=sources
 - pkg:maven/io.github.shuigedeng/taotao-cloud-starter-oss@2023.3.01?classifier=sources

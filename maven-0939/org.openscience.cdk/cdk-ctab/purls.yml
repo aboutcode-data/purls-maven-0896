@@ -15,3 +15,5 @@
 - pkg:maven/org.openscience.cdk/cdk-ctab@2.7.1?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-ctab@2.7?classifier=sources
 - pkg:maven/org.openscience.cdk/cdk-ctab@2.8?classifier=sources
+- pkg:maven/org.openscience.cdk/cdk-ctab@2.9
+- pkg:maven/org.openscience.cdk/cdk-ctab@2.9?classifier=sources

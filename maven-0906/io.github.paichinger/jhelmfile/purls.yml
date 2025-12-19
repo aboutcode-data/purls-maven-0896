@@ -1,6 +1,10 @@
 - pkg:maven/io.github.paichinger/jhelmfile@1.1
 - pkg:maven/io.github.paichinger/jhelmfile@1.10
 - pkg:maven/io.github.paichinger/jhelmfile@1.10?classifier=sources
+- pkg:maven/io.github.paichinger/jhelmfile@1.11
+- pkg:maven/io.github.paichinger/jhelmfile@1.11?classifier=sources
+- pkg:maven/io.github.paichinger/jhelmfile@1.12
+- pkg:maven/io.github.paichinger/jhelmfile@1.12?classifier=sources
 - pkg:maven/io.github.paichinger/jhelmfile@1.2
 - pkg:maven/io.github.paichinger/jhelmfile@1.3
 - pkg:maven/io.github.paichinger/jhelmfile@1.3?classifier=sources

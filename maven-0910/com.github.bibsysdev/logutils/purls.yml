@@ -183,6 +183,15 @@
 - pkg:maven/com.github.bibsysdev/logutils@1.30.3?classifier=sources
 - pkg:maven/com.github.bibsysdev/logutils@1.30.4?classifier=sources
 - pkg:maven/com.github.bibsysdev/logutils@1.30.5?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.0?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.1?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.2?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.3?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.4?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.5?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.7?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.8?classifier=sources
+- pkg:maven/com.github.bibsysdev/logutils@1.31.9?classifier=sources
 - pkg:maven/com.github.bibsysdev/logutils@1.4.0?classifier=sources
 - pkg:maven/com.github.bibsysdev/logutils@1.4.1?classifier=sources
 - pkg:maven/com.github.bibsysdev/logutils@1.5.0?classifier=sources

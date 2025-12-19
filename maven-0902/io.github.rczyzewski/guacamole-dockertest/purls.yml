@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rczyzewski/guacamole-dockertest@0.1.1-RC2
+- pkg:maven/io.github.rczyzewski/guacamole-dockertest@0.1.1-RC2?classifier=sources

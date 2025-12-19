@@ -24,3 +24,5 @@
 - pkg:maven/de.averbis.textanalysis/temporal-typesystem@4.4.0?classifier=sources
 - pkg:maven/de.averbis.textanalysis/temporal-typesystem@4.5.0
 - pkg:maven/de.averbis.textanalysis/temporal-typesystem@4.5.0?classifier=sources
+- pkg:maven/de.averbis.textanalysis/temporal-typesystem@4.6.0
+- pkg:maven/de.averbis.textanalysis/temporal-typesystem@4.6.0?classifier=sources

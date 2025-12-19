@@ -4,3 +4,4 @@
 - pkg:maven/com.hexagonkt/http_server_netty_epoll_async@3.0.0-B6?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_netty_epoll_async@3.0.0-B7?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_netty_epoll_async@3.0.0-B8?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_netty_epoll_async@3.0.0-B9?classifier=sources

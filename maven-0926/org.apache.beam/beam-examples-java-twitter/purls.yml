@@ -17,3 +17,4 @@
 - pkg:maven/org.apache.beam/beam-examples-java-twitter@2.47.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-twitter@2.48.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-twitter@2.49.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-twitter@2.50.0?classifier=sources

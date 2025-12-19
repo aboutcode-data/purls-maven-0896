@@ -1,2 +1,6 @@
 - pkg:maven/io.github.easycode8/easy-log-trace@1.0.7
 - pkg:maven/io.github.easycode8/easy-log-trace@1.0.7?classifier=sources
+- pkg:maven/io.github.easycode8/easy-log-trace@1.0.8
+- pkg:maven/io.github.easycode8/easy-log-trace@1.0.8?classifier=sources
+- pkg:maven/io.github.easycode8/easy-log-trace@1.0.9
+- pkg:maven/io.github.easycode8/easy-log-trace@1.0.9?classifier=sources

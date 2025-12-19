@@ -102,3 +102,5 @@
 - pkg:maven/org.rogach/scallop_2.10@4.0.4?classifier=sources
 - pkg:maven/org.rogach/scallop_2.10@4.1.0
 - pkg:maven/org.rogach/scallop_2.10@4.1.0?classifier=sources
+- pkg:maven/org.rogach/scallop_2.10@5.0.0
+- pkg:maven/org.rogach/scallop_2.10@5.0.0?classifier=sources

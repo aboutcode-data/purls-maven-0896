@@ -50,6 +50,9 @@
 - pkg:maven/earth.worldwind/worldwind-android@1.2.23?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-android@1.2.24?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-android@1.2.25?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-android@1.2.26?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-android@1.2.27?classifier=sources
+- pkg:maven/earth.worldwind/worldwind-android@1.2.28?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-android@1.2.2?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-android@1.2.3?classifier=sources
 - pkg:maven/earth.worldwind/worldwind-android@1.2.4?classifier=sources

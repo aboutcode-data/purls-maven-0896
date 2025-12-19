@@ -5,3 +5,11 @@
 - pkg:maven/tech.amwal.payment/payment@1.0.0-alpha05?classifier=sources
 - pkg:maven/tech.amwal.payment/payment@1.0.0-alpha06?classifier=sources
 - pkg:maven/tech.amwal.payment/payment@1.0.0-alpha07?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta01?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta02?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta03?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta04?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta05?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta06?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta07?classifier=sources
+- pkg:maven/tech.amwal.payment/payment@1.0.0-beta08?classifier=sources

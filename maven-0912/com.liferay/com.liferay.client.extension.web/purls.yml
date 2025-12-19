@@ -112,6 +112,7 @@
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.42?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.43
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.5

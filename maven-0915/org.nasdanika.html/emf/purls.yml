@@ -144,3 +144,7 @@
 - pkg:maven/org.nasdanika.html/emf@2023.3.0?classifier=sources
 - pkg:maven/org.nasdanika.html/emf@2023.4.0
 - pkg:maven/org.nasdanika.html/emf@2023.4.0?classifier=sources
+- pkg:maven/org.nasdanika.html/emf@2023.8.0
+- pkg:maven/org.nasdanika.html/emf@2023.8.0?classifier=sources
+- pkg:maven/org.nasdanika.html/emf@2023.9.0
+- pkg:maven/org.nasdanika.html/emf@2023.9.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.biopax.paxtools/paxtools-search@5.0.1?classifier=sources
 - pkg:maven/org.biopax.paxtools/paxtools-search@5.1.0
 - pkg:maven/org.biopax.paxtools/paxtools-search@5.1.0?classifier=sources
+- pkg:maven/org.biopax.paxtools/paxtools-search@5.2.1
+- pkg:maven/org.biopax.paxtools/paxtools-search@5.2.1?classifier=sources
+- pkg:maven/org.biopax.paxtools/paxtools-search@5.3.0
+- pkg:maven/org.biopax.paxtools/paxtools-search@5.3.0?classifier=sources

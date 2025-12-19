@@ -24,3 +24,5 @@
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.saas.remote@2.9.0?classifier=sources
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.saas.remote@3.0.0
 - pkg:maven/tools.dynamia.modules/tools.dynamia.modules.saas.remote@3.0.0?classifier=sources
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.saas.remote@3.0.1
+- pkg:maven/tools.dynamia.modules/tools.dynamia.modules.saas.remote@3.0.1?classifier=sources

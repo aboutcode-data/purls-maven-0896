@@ -286,6 +286,10 @@
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.40.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.41.0.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.41.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.42.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.42.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.43.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.43.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.5.0.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.5.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@8.6.0.Final
@@ -312,3 +316,7 @@
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@9.40.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@9.41.0.Final
 - pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@9.41.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@9.42.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@9.42.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@9.43.0.Final
+- pkg:maven/org.optaplanner/optaplanner-persistence-jaxb@9.43.0.Final?classifier=sources

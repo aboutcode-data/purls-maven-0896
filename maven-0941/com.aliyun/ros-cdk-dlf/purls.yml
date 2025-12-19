@@ -14,3 +14,5 @@
 - pkg:maven/com.aliyun/ros-cdk-dlf@1.0.16?classifier=sources
 - pkg:maven/com.aliyun/ros-cdk-dlf@1.0.17
 - pkg:maven/com.aliyun/ros-cdk-dlf@1.0.17?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-dlf@1.0.18
+- pkg:maven/com.aliyun/ros-cdk-dlf@1.0.18?classifier=sources

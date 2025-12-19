@@ -1,3 +1,9 @@
+- pkg:maven/dev.medzik.librepass/client@0.1.0-SNAPSHOT-07
+- pkg:maven/dev.medzik.librepass/client@0.1.0-SNAPSHOT-07?classifier=sources
+- pkg:maven/dev.medzik.librepass/client@0.1.0-SNAPSHOT-08
+- pkg:maven/dev.medzik.librepass/client@0.1.0-SNAPSHOT-08?classifier=sources
+- pkg:maven/dev.medzik.librepass/client@0.1.0-SNAPSHOT-09
+- pkg:maven/dev.medzik.librepass/client@0.1.0-SNAPSHOT-09?classifier=sources
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha10
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha10?classifier=sources
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha11

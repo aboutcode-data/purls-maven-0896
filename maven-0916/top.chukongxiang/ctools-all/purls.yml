@@ -1,0 +1,4 @@
+- pkg:maven/top.chukongxiang/ctools-all@1.0.0.RELEASE
+- pkg:maven/top.chukongxiang/ctools-all@1.0.0.RELEASE?classifier=sources
+- pkg:maven/top.chukongxiang/ctools-all@1.0.1.RELEASE
+- pkg:maven/top.chukongxiang/ctools-all@1.0.1.RELEASE?classifier=sources

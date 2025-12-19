@@ -12,3 +12,5 @@
 - pkg:maven/com.manorrock.eagle/eagle-coherence@23.4.0?classifier=sources
 - pkg:maven/com.manorrock.eagle/eagle-coherence@23.5.0
 - pkg:maven/com.manorrock.eagle/eagle-coherence@23.5.0?classifier=sources
+- pkg:maven/com.manorrock.eagle/eagle-coherence@23.8.0
+- pkg:maven/com.manorrock.eagle/eagle-coherence@23.8.0?classifier=sources

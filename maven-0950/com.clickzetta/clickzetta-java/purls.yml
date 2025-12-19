@@ -1,0 +1,4 @@
+- pkg:maven/com.clickzetta/clickzetta-java@0.1.0
+- pkg:maven/com.clickzetta/clickzetta-java@0.1.0?classifier=sources
+- pkg:maven/com.clickzetta/clickzetta-java@1.0.0
+- pkg:maven/com.clickzetta/clickzetta-java@1.0.0?classifier=sources

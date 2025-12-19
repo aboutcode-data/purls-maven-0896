@@ -2,3 +2,7 @@
 - pkg:maven/com.github.marschall/jfr-servlet@0.1.0?classifier=sources
 - pkg:maven/com.github.marschall/jfr-servlet@0.1.2
 - pkg:maven/com.github.marschall/jfr-servlet@0.1.2?classifier=sources
+- pkg:maven/com.github.marschall/jfr-servlet@1.0.0
+- pkg:maven/com.github.marschall/jfr-servlet@1.0.0?classifier=sources
+- pkg:maven/com.github.marschall/jfr-servlet@2.0.0
+- pkg:maven/com.github.marschall/jfr-servlet@2.0.0?classifier=sources

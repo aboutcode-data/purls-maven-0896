@@ -6,6 +6,7 @@
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.7.1
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.7.1?classifier=sources
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.7?classifier=sources
+- pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8-pre1
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8-pre1?classifier=sources
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8-pre2
@@ -14,3 +15,4 @@
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8-rc1?classifier=sources
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8-rc2
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8-rc2?classifier=sources
+- pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.8?classifier=sources

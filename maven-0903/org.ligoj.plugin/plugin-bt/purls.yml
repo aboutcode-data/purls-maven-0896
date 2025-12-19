@@ -28,3 +28,5 @@
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.0.9?classifier=sources
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.1.0
 - pkg:maven/org.ligoj.plugin/plugin-bt@1.1.0?classifier=sources
+- pkg:maven/org.ligoj.plugin/plugin-bt@1.1.2
+- pkg:maven/org.ligoj.plugin/plugin-bt@1.1.2?classifier=sources

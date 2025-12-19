@@ -20,3 +20,5 @@
 - pkg:maven/com.github.cafdataprocessing/staging-service-contract@2.0.0-894?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/staging-service-contract@2.1.0-963
 - pkg:maven/com.github.cafdataprocessing/staging-service-contract@2.1.0-963?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/staging-service-contract@2.1.1-996
+- pkg:maven/com.github.cafdataprocessing/staging-service-contract@2.1.1-996?classifier=sources

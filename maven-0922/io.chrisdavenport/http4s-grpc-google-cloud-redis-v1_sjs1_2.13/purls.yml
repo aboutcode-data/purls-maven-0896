@@ -20,3 +20,7 @@
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-redis-v1_sjs1_2.13@2.21.0%2B0.0.5?classifier=sources
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-redis-v1_sjs1_2.13@2.22.0%2B0.0.5
 - pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-redis-v1_sjs1_2.13@2.22.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-redis-v1_sjs1_2.13@2.25.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-redis-v1_sjs1_2.13@2.25.0%2B0.0.5?classifier=sources
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-redis-v1_sjs1_2.13@2.26.0%2B0.0.5
+- pkg:maven/io.chrisdavenport/http4s-grpc-google-cloud-redis-v1_sjs1_2.13@2.26.0%2B0.0.5?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/com.google.apis/google-api-services-searchads360@v0-rev20230425-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-searchads360@v0-rev20230502-2.0.0
 - pkg:maven/com.google.apis/google-api-services-searchads360@v0-rev20230502-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-searchads360@v0-rev20230625-2.0.0
+- pkg:maven/com.google.apis/google-api-services-searchads360@v0-rev20230625-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-searchads360@v0-rev20230818-2.0.0
+- pkg:maven/com.google.apis/google-api-services-searchads360@v0-rev20230818-2.0.0?classifier=sources

@@ -319,6 +319,8 @@
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.0.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.1.Final
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.1.Final?classifier=sources
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.10.Final
+- pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.10.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.2.Final
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.2.Final?classifier=sources
 - pkg:maven/io.quarkus/quarkus-bootstrap-maven-plugin@2.16.3.Final
