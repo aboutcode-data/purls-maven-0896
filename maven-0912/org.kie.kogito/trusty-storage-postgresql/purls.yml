@@ -28,3 +28,11 @@
 - pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.22.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.23.0.Final
 - pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.23.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.24.0.Final
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.24.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.24.1.Final
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.24.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.25.0.Final
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.25.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.26.0.Final
+- pkg:maven/org.kie.kogito/trusty-storage-postgresql@1.26.0.Final?classifier=sources

@@ -20,6 +20,7 @@
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@2.5.15?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@2.5.16?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@2.5.17?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-dateutil@2.5.18?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@2.5.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@2.5.2
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@2.5.2?classifier=sources
@@ -62,6 +63,7 @@
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@3.0.1
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@3.0.10?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@3.0.11?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-dateutil@3.0.12?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@3.0.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@3.0.2
 - pkg:maven/org.codehaus.groovy/groovy-dateutil@3.0.2?classifier=sources

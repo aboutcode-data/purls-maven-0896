@@ -2,3 +2,5 @@
 - pkg:maven/org.scala-sbt/io_3@1.6.0-M2
 - pkg:maven/org.scala-sbt/io_3@1.6.0-M2?classifier=sources
 - pkg:maven/org.scala-sbt/io_3@1.6.0?classifier=sources
+- pkg:maven/org.scala-sbt/io_3@1.7.0
+- pkg:maven/org.scala-sbt/io_3@1.7.0?classifier=sources

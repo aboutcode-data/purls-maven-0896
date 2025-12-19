@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.bower/datatables.net-dt@1.10.15?classifier=sources
 - pkg:maven/org.webjars.bower/datatables.net-dt@1.10.20
 - pkg:maven/org.webjars.bower/datatables.net-dt@1.10.20?classifier=sources
+- pkg:maven/org.webjars.bower/datatables.net-dt@3.2.2
+- pkg:maven/org.webjars.bower/datatables.net-dt@3.2.2?classifier=sources

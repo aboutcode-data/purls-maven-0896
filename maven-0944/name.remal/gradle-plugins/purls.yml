@@ -408,3 +408,5 @@
 - pkg:maven/name.remal/gradle-plugins@1.5.1?classifier=sources
 - pkg:maven/name.remal/gradle-plugins@1.6.0
 - pkg:maven/name.remal/gradle-plugins@1.6.0?classifier=sources
+- pkg:maven/name.remal/gradle-plugins@1.7.0
+- pkg:maven/name.remal/gradle-plugins@1.7.0?classifier=sources

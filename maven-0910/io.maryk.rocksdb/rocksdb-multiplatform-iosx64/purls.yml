@@ -2,4 +2,5 @@
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosx64@6.20.4?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosx64@6.25.3?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosx64@7.0.3?classifier=sources
+- pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosx64@7.3.1-1?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosx64@7.3.1?classifier=sources

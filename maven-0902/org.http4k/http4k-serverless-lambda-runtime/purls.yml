@@ -76,6 +76,12 @@
 - pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.25.9.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.26.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.27.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.27.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.27.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.27.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.27.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.28.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.28.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.10.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.4.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-lambda-runtime@4.9.5.0?classifier=sources

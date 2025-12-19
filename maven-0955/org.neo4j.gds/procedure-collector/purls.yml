@@ -1,0 +1,5 @@
+- pkg:maven/org.neo4j.gds/procedure-collector@2.1.7?classifier=sources
+- pkg:maven/org.neo4j.gds/procedure-collector@2.1.8?classifier=sources
+- pkg:maven/org.neo4j.gds/procedure-collector@2.1.9?classifier=sources
+- pkg:maven/org.neo4j.gds/procedure-collector@2.2.0-alpha02?classifier=sources
+- pkg:maven/org.neo4j.gds/procedure-collector@2.2.0-alpha03?classifier=sources

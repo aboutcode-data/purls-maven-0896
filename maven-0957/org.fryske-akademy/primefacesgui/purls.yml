@@ -78,6 +78,8 @@
 - pkg:maven/org.fryske-akademy/primefacesgui@17.0?classifier=sources
 - pkg:maven/org.fryske-akademy/primefacesgui@17.10
 - pkg:maven/org.fryske-akademy/primefacesgui@17.10?classifier=sources
+- pkg:maven/org.fryske-akademy/primefacesgui@17.11
+- pkg:maven/org.fryske-akademy/primefacesgui@17.11?classifier=sources
 - pkg:maven/org.fryske-akademy/primefacesgui@17.2
 - pkg:maven/org.fryske-akademy/primefacesgui@17.2?classifier=sources
 - pkg:maven/org.fryske-akademy/primefacesgui@17.3
@@ -106,3 +108,5 @@
 - pkg:maven/org.fryske-akademy/primefacesgui@18.6?classifier=sources
 - pkg:maven/org.fryske-akademy/primefacesgui@18.8
 - pkg:maven/org.fryske-akademy/primefacesgui@18.8?classifier=sources
+- pkg:maven/org.fryske-akademy/primefacesgui@18.9
+- pkg:maven/org.fryske-akademy/primefacesgui@18.9?classifier=sources

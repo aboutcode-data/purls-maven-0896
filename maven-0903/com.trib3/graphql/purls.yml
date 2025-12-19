@@ -212,6 +212,10 @@
 - pkg:maven/com.trib3/graphql@1.32.3302?classifier=sources
 - pkg:maven/com.trib3/graphql@1.32.3324
 - pkg:maven/com.trib3/graphql@1.32.3324?classifier=sources
+- pkg:maven/com.trib3/graphql@1.32.3400
+- pkg:maven/com.trib3/graphql@1.32.3400?classifier=sources
+- pkg:maven/com.trib3/graphql@1.32.3444
+- pkg:maven/com.trib3/graphql@1.32.3444?classifier=sources
 - pkg:maven/com.trib3/graphql@1.4.486
 - pkg:maven/com.trib3/graphql@1.4.486?classifier=sources
 - pkg:maven/com.trib3/graphql@1.4.527

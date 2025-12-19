@@ -42,7 +42,13 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@5.4.2?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@5.4.3
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@5.4.3?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@5.5.0
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@5.5.0?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@5.5.1
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@5.5.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.1
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.10
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.10?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.2
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.2?classifier=sources
@@ -54,3 +60,5 @@
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.5?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.6
 - pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.6?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.9
+- pkg:maven/org.n52.sensorweb-server.sos/sos-common-controller@6.0.0-PR.9?classifier=sources

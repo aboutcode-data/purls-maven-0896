@@ -13,6 +13,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.14?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.15
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.15?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.16
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.16?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.1?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.3
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@2.7.3?classifier=sources
@@ -31,6 +33,8 @@
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.0
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.0?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.1
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.10
+- pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.10?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.1?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.2
 - pkg:maven/org.apache.dubbo/dubbo-spring-boot-actuator-compatible@3.0.2.1

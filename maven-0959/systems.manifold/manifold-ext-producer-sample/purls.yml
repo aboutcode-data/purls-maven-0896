@@ -333,6 +333,8 @@
 - pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.17?classifier=sources
 - pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.18
 - pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.18?classifier=sources
+- pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.19
+- pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.19?classifier=sources
 - pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.1?classifier=sources
 - pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.2
 - pkg:maven/systems.manifold/manifold-ext-producer-sample@2022.1.2?classifier=sources

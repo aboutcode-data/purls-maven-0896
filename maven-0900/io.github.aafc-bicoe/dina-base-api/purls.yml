@@ -80,3 +80,7 @@
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.88?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.89
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.89?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.90
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.90?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.91
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.91?classifier=sources

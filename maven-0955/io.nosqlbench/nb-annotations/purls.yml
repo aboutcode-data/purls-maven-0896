@@ -120,6 +120,10 @@
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.98?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.99
 - pkg:maven/io.nosqlbench/nb-annotations@3.12.99?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@4.15.100
+- pkg:maven/io.nosqlbench/nb-annotations@4.15.100?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@4.15.101
+- pkg:maven/io.nosqlbench/nb-annotations@4.15.101?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@4.15.31
 - pkg:maven/io.nosqlbench/nb-annotations@4.15.31?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@4.15.33
@@ -216,3 +220,11 @@
 - pkg:maven/io.nosqlbench/nb-annotations@4.15.97?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@4.15.98
 - pkg:maven/io.nosqlbench/nb-annotations@4.15.98?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@4.15.99
+- pkg:maven/io.nosqlbench/nb-annotations@4.15.99?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@4.17.17
+- pkg:maven/io.nosqlbench/nb-annotations@4.17.17?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@4.17.18
+- pkg:maven/io.nosqlbench/nb-annotations@4.17.18?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@4.17.19
+- pkg:maven/io.nosqlbench/nb-annotations@4.17.19?classifier=sources

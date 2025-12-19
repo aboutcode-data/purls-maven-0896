@@ -118,3 +118,5 @@
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.4.9?classifier=sources
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.5.0
 - pkg:maven/com.gitee.l0km/dtalk-cmd@0.5.0?classifier=sources
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.6.0
+- pkg:maven/com.gitee.l0km/dtalk-cmd@0.6.0?classifier=sources

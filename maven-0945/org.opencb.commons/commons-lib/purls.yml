@@ -66,3 +66,5 @@
 - pkg:maven/org.opencb.commons/commons-lib@4.3.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@4.4.0
 - pkg:maven/org.opencb.commons/commons-lib@4.4.0?classifier=sources
+- pkg:maven/org.opencb.commons/commons-lib@4.4.1
+- pkg:maven/org.opencb.commons/commons-lib@4.4.1?classifier=sources

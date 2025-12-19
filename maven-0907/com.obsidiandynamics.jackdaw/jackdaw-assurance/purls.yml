@@ -1,0 +1,3 @@
+- pkg:maven/com.obsidiandynamics.jackdaw/jackdaw-assurance@1.35.0?classifier=sources
+- pkg:maven/com.obsidiandynamics.jackdaw/jackdaw-assurance@1.36.0?classifier=sources
+- pkg:maven/com.obsidiandynamics.jackdaw/jackdaw-assurance@1.37.0?classifier=sources

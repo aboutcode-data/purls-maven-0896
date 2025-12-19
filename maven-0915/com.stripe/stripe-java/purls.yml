@@ -575,6 +575,15 @@
 - pkg:maven/com.stripe/stripe-java@20.129.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@20.13.0
 - pkg:maven/com.stripe/stripe-java@20.13.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.130.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.131.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.132.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.133.0-beta.1?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.133.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.134.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.135.0-beta.1?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.135.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@20.136.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@20.14.0
 - pkg:maven/com.stripe/stripe-java@20.14.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@20.15.0

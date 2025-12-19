@@ -21,6 +21,8 @@
 - pkg:maven/es.weso/typing_3@0.2.23?classifier=sources
 - pkg:maven/es.weso/typing_3@0.2.24
 - pkg:maven/es.weso/typing_3@0.2.24?classifier=sources
+- pkg:maven/es.weso/typing_3@0.2.25
+- pkg:maven/es.weso/typing_3@0.2.25?classifier=sources
 - pkg:maven/es.weso/typing_3@0.2.2?classifier=sources
 - pkg:maven/es.weso/typing_3@0.2.3
 - pkg:maven/es.weso/typing_3@0.2.3?classifier=sources

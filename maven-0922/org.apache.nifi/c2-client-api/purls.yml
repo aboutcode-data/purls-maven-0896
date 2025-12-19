@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.nifi/c2-client-api@1.17.0
+- pkg:maven/org.apache.nifi/c2-client-api@1.17.0?classifier=sources

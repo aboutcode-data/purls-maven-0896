@@ -105,6 +105,8 @@
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.41.2?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.41.3
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.41.3?classifier=sources
+- pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.41.4
+- pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.41.4?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.5.0
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.5.0?classifier=sources
 - pkg:maven/com.microsoft.azure/azure-mgmt-containerservice@1.5.1

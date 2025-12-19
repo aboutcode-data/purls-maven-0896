@@ -1,2 +1,4 @@
 - pkg:maven/uk.ac.cam.ch.opsin/opsin-cli@2.6.0
 - pkg:maven/uk.ac.cam.ch.opsin/opsin-cli@2.6.0?classifier=sources
+- pkg:maven/uk.ac.cam.ch.opsin/opsin-cli@2.7.0
+- pkg:maven/uk.ac.cam.ch.opsin/opsin-cli@2.7.0?classifier=sources

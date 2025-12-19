@@ -11,3 +11,5 @@
 - pkg:maven/com.redis/riot-core@2.15.2?classifier=sources
 - pkg:maven/com.redis/riot-core@2.15.4?classifier=sources
 - pkg:maven/com.redis/riot-core@2.15.5?classifier=sources
+- pkg:maven/com.redis/riot-core@2.16.0?classifier=sources
+- pkg:maven/com.redis/riot-core@2.16.1?classifier=sources

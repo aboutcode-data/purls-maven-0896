@@ -4,3 +4,5 @@
 - pkg:maven/org.tweetyproject.arg/bipolar@1.20?classifier=sources
 - pkg:maven/org.tweetyproject.arg/bipolar@1.21
 - pkg:maven/org.tweetyproject.arg/bipolar@1.21?classifier=sources
+- pkg:maven/org.tweetyproject.arg/bipolar@1.22
+- pkg:maven/org.tweetyproject.arg/bipolar@1.22?classifier=sources

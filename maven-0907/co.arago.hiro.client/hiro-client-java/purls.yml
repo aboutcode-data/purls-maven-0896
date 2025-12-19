@@ -2,3 +2,7 @@
 - pkg:maven/co.arago.hiro.client/hiro-client-java@0.1.2?classifier=sources
 - pkg:maven/co.arago.hiro.client/hiro-client-java@0.2.0
 - pkg:maven/co.arago.hiro.client/hiro-client-java@0.2.0?classifier=sources
+- pkg:maven/co.arago.hiro.client/hiro-client-java@0.5.0
+- pkg:maven/co.arago.hiro.client/hiro-client-java@0.5.0?classifier=sources
+- pkg:maven/co.arago.hiro.client/hiro-client-java@0.5.1
+- pkg:maven/co.arago.hiro.client/hiro-client-java@0.5.1?classifier=sources

@@ -17,6 +17,7 @@
 - pkg:maven/com.cognifide.apm/apm-api@5.6.11?classifier=sources
 - pkg:maven/com.cognifide.apm/apm-api@5.6.12?classifier=sources
 - pkg:maven/com.cognifide.apm/apm-api@5.6.13?classifier=sources
+- pkg:maven/com.cognifide.apm/apm-api@5.6.15?classifier=sources
 - pkg:maven/com.cognifide.apm/apm-api@5.6.1?classifier=sources
 - pkg:maven/com.cognifide.apm/apm-api@5.6.2?classifier=sources
 - pkg:maven/com.cognifide.apm/apm-api@5.6.3?classifier=sources

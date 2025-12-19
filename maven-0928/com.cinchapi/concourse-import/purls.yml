@@ -14,6 +14,8 @@
 - pkg:maven/com.cinchapi/concourse-import@0.11.2?classifier=sources
 - pkg:maven/com.cinchapi/concourse-import@0.11.3
 - pkg:maven/com.cinchapi/concourse-import@0.11.3?classifier=sources
+- pkg:maven/com.cinchapi/concourse-import@0.11.4
+- pkg:maven/com.cinchapi/concourse-import@0.11.4?classifier=sources
 - pkg:maven/com.cinchapi/concourse-import@0.6.0
 - pkg:maven/com.cinchapi/concourse-import@0.6.0?classifier=sources
 - pkg:maven/com.cinchapi/concourse-import@0.7.0

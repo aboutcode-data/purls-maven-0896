@@ -4,6 +4,12 @@
 - pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.1?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.2
 - pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.2?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.3
+- pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.3?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.4
+- pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.4?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.5
+- pkg:maven/org.beangle.sas/beangle-sas-engine@0.10.5?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas-engine@0.9.1
 - pkg:maven/org.beangle.sas/beangle-sas-engine@0.9.1?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas-engine@0.9.2

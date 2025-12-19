@@ -250,3 +250,7 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-container-v1@2.3.7?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-container-v1@2.4.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-container-v1@2.4.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-container-v1@2.4.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-container-v1@2.4.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-container-v1@2.5.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-container-v1@2.5.0?classifier=sources

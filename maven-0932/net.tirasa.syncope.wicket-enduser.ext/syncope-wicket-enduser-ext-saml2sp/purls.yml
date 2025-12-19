@@ -2,6 +2,8 @@
 - pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.10.0?classifier=sources
 - pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.11.0
 - pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.11.0?classifier=sources
+- pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.11.1
+- pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.11.1?classifier=sources
 - pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.8.0
 - pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.8.0?classifier=sources
 - pkg:maven/net.tirasa.syncope.wicket-enduser.ext/syncope-wicket-enduser-ext-saml2sp@2.1.9.0

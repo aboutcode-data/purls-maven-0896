@@ -302,6 +302,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.29?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.2?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.2?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.30?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.30?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.3?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.3?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.4?classifier=sources

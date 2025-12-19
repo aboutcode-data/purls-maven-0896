@@ -12,3 +12,5 @@
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.0.2?classifier=sources
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.0.3
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.0.3?classifier=sources
+- pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.0.4
+- pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.0.4?classifier=sources

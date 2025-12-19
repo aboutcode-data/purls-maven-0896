@@ -56,3 +56,7 @@
 - pkg:maven/com.farao-community.farao/farao-flowbased-computation-impl@3.9.2?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-flowbased-computation-impl@3.9.3
 - pkg:maven/com.farao-community.farao/farao-flowbased-computation-impl@3.9.3?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-flowbased-computation-impl@3.9.4
+- pkg:maven/com.farao-community.farao/farao-flowbased-computation-impl@3.9.4?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-flowbased-computation-impl@4.0.0
+- pkg:maven/com.farao-community.farao/farao-flowbased-computation-impl@4.0.0?classifier=sources

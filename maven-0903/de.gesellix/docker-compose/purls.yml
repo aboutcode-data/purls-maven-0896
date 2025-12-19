@@ -16,3 +16,6 @@
 - pkg:maven/de.gesellix/docker-compose@2022-05-03T21-39-00?classifier=sources
 - pkg:maven/de.gesellix/docker-compose@2022-05-23T11-46-00?classifier=sources
 - pkg:maven/de.gesellix/docker-compose@2022-06-19T15-06-00?classifier=sources
+- pkg:maven/de.gesellix/docker-compose@2022-06-30T19-16-00?classifier=sources
+- pkg:maven/de.gesellix/docker-compose@2022-07-25T19-48-00?classifier=sources
+- pkg:maven/de.gesellix/docker-compose@2022-07-28T16-10-00?classifier=sources

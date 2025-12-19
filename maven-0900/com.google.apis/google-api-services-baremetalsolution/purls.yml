@@ -68,3 +68,11 @@
 - pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220524-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220603-1.32.1
 - pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220603-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220615-1.32.1
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220615-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220627-1.32.1
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220627-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220706-1.32.1
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220706-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220725-1.32.1
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20220725-1.32.1?classifier=sources

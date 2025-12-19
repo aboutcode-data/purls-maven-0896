@@ -10,3 +10,9 @@
 - pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.4.6?classifier=sources
 - pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.4.7
 - pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.4.7?classifier=sources
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.4.8
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.4.8?classifier=sources
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.4.9
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.4.9?classifier=sources
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.5.0
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.5.0?classifier=sources

@@ -18,7 +18,11 @@
 - pkg:maven/com.tradeshift/blayze@4.0.1?classifier=sources
 - pkg:maven/com.tradeshift/blayze@4.1.1
 - pkg:maven/com.tradeshift/blayze@4.1.1?classifier=sources
+- pkg:maven/com.tradeshift/blayze@4.2.3
+- pkg:maven/com.tradeshift/blayze@4.2.3?classifier=sources
 - pkg:maven/com.tradeshift/blayze@5.0
 - pkg:maven/com.tradeshift/blayze@5.0?classifier=sources
 - pkg:maven/com.tradeshift/blayze@6.0
 - pkg:maven/com.tradeshift/blayze@6.0?classifier=sources
+- pkg:maven/com.tradeshift/blayze@6.1.0
+- pkg:maven/com.tradeshift/blayze@6.1.0?classifier=sources

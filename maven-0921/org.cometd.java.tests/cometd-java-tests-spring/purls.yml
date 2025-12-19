@@ -1,6 +1,7 @@
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@5.0.10
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@5.0.11
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@5.0.12
+- pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@5.0.13
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@5.0.2
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@5.0.3
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@5.0.4
@@ -17,3 +18,4 @@
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@6.0.5
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@6.0.6
 - pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@6.0.7
+- pkg:maven/org.cometd.java.tests/cometd-java-tests-spring@6.0.8

@@ -2,3 +2,4 @@
 - pkg:maven/tech.antibytes.kmock/kmock-iossimulatorarm64@0.2.1?classifier=sources
 - pkg:maven/tech.antibytes.kmock/kmock-iossimulatorarm64@0.2.2?classifier=sources
 - pkg:maven/tech.antibytes.kmock/kmock-iossimulatorarm64@0.3.0-rc01?classifier=sources
+- pkg:maven/tech.antibytes.kmock/kmock-iossimulatorarm64@0.3.0-rc02?classifier=sources

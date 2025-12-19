@@ -14,3 +14,5 @@
 - pkg:maven/org.endpoints4s/http4s-client_2.12@6.0.0?classifier=sources
 - pkg:maven/org.endpoints4s/http4s-client_2.12@6.1.0
 - pkg:maven/org.endpoints4s/http4s-client_2.12@6.1.0?classifier=sources
+- pkg:maven/org.endpoints4s/http4s-client_2.12@6.2.0
+- pkg:maven/org.endpoints4s/http4s-client_2.12@6.2.0?classifier=sources

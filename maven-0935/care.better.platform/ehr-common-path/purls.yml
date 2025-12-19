@@ -14,3 +14,5 @@
 - pkg:maven/care.better.platform/ehr-common-path@3.1.3?classifier=sources
 - pkg:maven/care.better.platform/ehr-common-path@3.1.4
 - pkg:maven/care.better.platform/ehr-common-path@3.1.4?classifier=sources
+- pkg:maven/care.better.platform/ehr-common-path@3.2.0
+- pkg:maven/care.better.platform/ehr-common-path@3.2.0?classifier=sources

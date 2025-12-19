@@ -14,3 +14,11 @@
 - pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.5.2?classifier=sources
 - pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.6.0
 - pkg:maven/io.stryker-mutator/weapon-regex_2.13@0.6.0?classifier=sources
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.0
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.0?classifier=sources
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.1
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.1?classifier=sources
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.2
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.2?classifier=sources
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.3
+- pkg:maven/io.stryker-mutator/weapon-regex_2.13@1.0.3?classifier=sources

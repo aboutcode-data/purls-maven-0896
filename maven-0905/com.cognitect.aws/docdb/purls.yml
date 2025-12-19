@@ -22,3 +22,5 @@
 - pkg:maven/com.cognitect.aws/docdb@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/docdb@822.2.1122.0
 - pkg:maven/com.cognitect.aws/docdb@822.2.1122.0?classifier=sources
+- pkg:maven/com.cognitect.aws/docdb@822.2.1181.0
+- pkg:maven/com.cognitect.aws/docdb@822.2.1181.0?classifier=sources

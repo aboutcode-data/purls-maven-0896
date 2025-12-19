@@ -204,6 +204,8 @@
 - pkg:maven/org.apache.hbase/hbase-rest@1.7.0?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rest@1.7.1
 - pkg:maven/org.apache.hbase/hbase-rest@1.7.1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-rest@1.7.2
+- pkg:maven/org.apache.hbase/hbase-rest@1.7.2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rest@2.0.0
 - pkg:maven/org.apache.hbase/hbase-rest@2.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-rest@2.0.0-alpha-1?classifier=sources
@@ -293,6 +295,8 @@
 - pkg:maven/org.apache.hbase/hbase-rest@2.4.11?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rest@2.4.12
 - pkg:maven/org.apache.hbase/hbase-rest@2.4.12?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-rest@2.4.13
+- pkg:maven/org.apache.hbase/hbase-rest@2.4.13?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rest@2.4.1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rest@2.4.2
 - pkg:maven/org.apache.hbase/hbase-rest@2.4.2?classifier=sources
@@ -314,3 +318,5 @@
 - pkg:maven/org.apache.hbase/hbase-rest@3.0.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-rest@3.0.0-alpha-2
 - pkg:maven/org.apache.hbase/hbase-rest@3.0.0-alpha-2?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-rest@3.0.0-alpha-3
+- pkg:maven/org.apache.hbase/hbase-rest@3.0.0-alpha-3?classifier=sources

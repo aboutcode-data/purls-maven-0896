@@ -16,3 +16,5 @@
 - pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.24.beta2?classifier=sources
 - pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.24.beta3
 - pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.24.beta3?classifier=sources
+- pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.25.beta1
+- pkg:maven/com.yodlee/yodlee-api-model-beta@1.0.25.beta1?classifier=sources

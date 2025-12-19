@@ -10,6 +10,10 @@
 - pkg:maven/com.yahoo.maha/maha-job-service@6.104?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.105
 - pkg:maven/com.yahoo.maha/maha-job-service@6.105?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.106
+- pkg:maven/com.yahoo.maha/maha-job-service@6.106?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.107
+- pkg:maven/com.yahoo.maha/maha-job-service@6.107?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.53
 - pkg:maven/com.yahoo.maha/maha-job-service@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.54

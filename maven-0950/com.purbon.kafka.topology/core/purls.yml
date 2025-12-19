@@ -1,0 +1,2 @@
+- pkg:maven/com.purbon.kafka.topology/core@edge
+- pkg:maven/com.purbon.kafka.topology/core@edge?classifier=sources

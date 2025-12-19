@@ -2,3 +2,7 @@
 - pkg:maven/com.manorrock.eagle/eagle-filesystem@21.4.1?classifier=sources
 - pkg:maven/com.manorrock.eagle/eagle-filesystem@21.5.0
 - pkg:maven/com.manorrock.eagle/eagle-filesystem@21.5.0?classifier=sources
+- pkg:maven/com.manorrock.eagle/eagle-filesystem@22.6.1
+- pkg:maven/com.manorrock.eagle/eagle-filesystem@22.6.1?classifier=sources
+- pkg:maven/com.manorrock.eagle/eagle-filesystem@22.7.0
+- pkg:maven/com.manorrock.eagle/eagle-filesystem@22.7.0?classifier=sources

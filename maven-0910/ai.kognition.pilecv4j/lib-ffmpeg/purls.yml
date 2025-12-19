@@ -1,0 +1,4 @@
+- pkg:maven/ai.kognition.pilecv4j/lib-ffmpeg@0.16
+- pkg:maven/ai.kognition.pilecv4j/lib-ffmpeg@0.16?classifier=sources
+- pkg:maven/ai.kognition.pilecv4j/lib-ffmpeg@0.17
+- pkg:maven/ai.kognition.pilecv4j/lib-ffmpeg@0.17?classifier=sources

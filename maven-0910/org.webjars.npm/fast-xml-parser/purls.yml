@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/fast-xml-parser@3.19.0
+- pkg:maven/org.webjars.npm/fast-xml-parser@3.19.0?classifier=sources
 - pkg:maven/org.webjars.npm/fast-xml-parser@4.0.0-beta.8
 - pkg:maven/org.webjars.npm/fast-xml-parser@4.0.0-beta.8?classifier=sources

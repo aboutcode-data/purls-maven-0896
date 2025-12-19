@@ -31,3 +31,4 @@
 - pkg:maven/org.pgpainless/sop-java@1.2.2?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@1.2.3?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@4.0.0?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@4.0.1?classifier=sources

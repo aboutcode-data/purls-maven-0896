@@ -1,2 +1,4 @@
 - pkg:maven/org.scalatest/scalatest-funspec_native0.4_3@3.2.12
 - pkg:maven/org.scalatest/scalatest-funspec_native0.4_3@3.2.12?classifier=sources
+- pkg:maven/org.scalatest/scalatest-funspec_native0.4_3@3.2.13
+- pkg:maven/org.scalatest/scalatest-funspec_native0.4_3@3.2.13?classifier=sources

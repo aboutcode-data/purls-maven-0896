@@ -8,3 +8,9 @@
 - pkg:maven/com.truncon/javalin-mvc-core@2.0.0?classifier=sources
 - pkg:maven/com.truncon/javalin-mvc-core@4.0.0
 - pkg:maven/com.truncon/javalin-mvc-core@4.0.0?classifier=sources
+- pkg:maven/com.truncon/javalin-mvc-core@4.1.0
+- pkg:maven/com.truncon/javalin-mvc-core@4.1.0?classifier=sources
+- pkg:maven/com.truncon/javalin-mvc-core@4.2.0
+- pkg:maven/com.truncon/javalin-mvc-core@4.2.0?classifier=sources
+- pkg:maven/com.truncon/javalin-mvc-core@4.3.0
+- pkg:maven/com.truncon/javalin-mvc-core@4.3.0?classifier=sources

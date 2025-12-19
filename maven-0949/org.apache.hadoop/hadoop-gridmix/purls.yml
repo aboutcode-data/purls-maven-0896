@@ -114,6 +114,8 @@
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.2.2?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.2.3
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.2.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-gridmix@3.2.4
+- pkg:maven/org.apache.hadoop/hadoop-gridmix@3.2.4?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.0
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.0?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.1
@@ -122,3 +124,5 @@
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.2?classifier=sources
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.3
 - pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.3?classifier=sources
+- pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.4
+- pkg:maven/org.apache.hadoop/hadoop-gridmix@3.3.4?classifier=sources

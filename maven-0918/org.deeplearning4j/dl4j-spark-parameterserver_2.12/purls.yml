@@ -1,4 +1,6 @@
 - pkg:maven/org.deeplearning4j/dl4j-spark-parameterserver_2.12@1.0.0-M2
+- pkg:maven/org.deeplearning4j/dl4j-spark-parameterserver_2.12@1.0.0-M2.1
+- pkg:maven/org.deeplearning4j/dl4j-spark-parameterserver_2.12@1.0.0-M2.1?classifier=sources
 - pkg:maven/org.deeplearning4j/dl4j-spark-parameterserver_2.12@1.0.0-M2?classifier=sources
 - pkg:maven/org.deeplearning4j/dl4j-spark-parameterserver_2.12@1.0.0-beta5
 - pkg:maven/org.deeplearning4j/dl4j-spark-parameterserver_2.12@1.0.0-beta5?classifier=sources

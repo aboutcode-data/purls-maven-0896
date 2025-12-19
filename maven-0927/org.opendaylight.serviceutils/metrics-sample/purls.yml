@@ -1,1 +1,2 @@
 - pkg:maven/org.opendaylight.serviceutils/metrics-sample@0.9.0?classifier=sources
+- pkg:maven/org.opendaylight.serviceutils/metrics-sample@0.9.1?classifier=sources

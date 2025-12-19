@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/ut_pex@1.2.1
 - pkg:maven/org.webjars.npm/ut_pex@1.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/ut_pex@3.0.2
+- pkg:maven/org.webjars.npm/ut_pex@3.0.2?classifier=sources

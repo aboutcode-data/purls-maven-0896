@@ -40,6 +40,8 @@
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.14.9?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.15.0
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.15.0?classifier=sources
+- pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.16.0
+- pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.16.0?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.2.0
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.2.0?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.2.1

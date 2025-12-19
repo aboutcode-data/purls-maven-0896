@@ -1,1 +1,2 @@
 - pkg:maven/com.factset.sdk/factsetprivatemarkets@0.20.0?classifier=sources
+- pkg:maven/com.factset.sdk/factsetprivatemarkets@0.21.0?classifier=sources

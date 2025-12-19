@@ -10,3 +10,8 @@
 - pkg:maven/org.deltafi/deltafi-core-domain@0.95.2?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.95.3?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.95.4?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.96.0?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.96.1?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.96.2?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.96.3?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.96.4?classifier=sources

@@ -67,6 +67,8 @@
 - pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.4
 - pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.40
 - pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.40?classifier=sources
+- pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.41
+- pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.41?classifier=sources
 - pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.4?classifier=sources
 - pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.5
 - pkg:maven/com.github.j5ik2o/intervals-scala_3@1.0.5?classifier=sources

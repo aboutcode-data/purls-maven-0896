@@ -1,2 +1,4 @@
 - pkg:maven/in.nvilla/monadic-rx-cats_sjs1_2.13@0.4.1
 - pkg:maven/in.nvilla/monadic-rx-cats_sjs1_2.13@0.4.1?classifier=sources
+- pkg:maven/in.nvilla/monadic-rx-cats_sjs1_2.13@0.5.0-RC1
+- pkg:maven/in.nvilla/monadic-rx-cats_sjs1_2.13@0.5.0-RC1?classifier=sources

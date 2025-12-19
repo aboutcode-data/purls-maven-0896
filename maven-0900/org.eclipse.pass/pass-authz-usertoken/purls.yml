@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.pass/pass-authz-usertoken@0.1.0
+- pkg:maven/org.eclipse.pass/pass-authz-usertoken@0.1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.flinkextended/dl-on-flink-tensorflow@0.4.0
 - pkg:maven/org.flinkextended/dl-on-flink-tensorflow@0.4.0?classifier=sources
+- pkg:maven/org.flinkextended/dl-on-flink-tensorflow@0.5.0
+- pkg:maven/org.flinkextended/dl-on-flink-tensorflow@0.5.0?classifier=sources

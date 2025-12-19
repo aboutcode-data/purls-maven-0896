@@ -4,3 +4,5 @@
 - pkg:maven/de.telekom.test/bddwebapp-selenium@2.2?classifier=sources
 - pkg:maven/de.telekom.test/bddwebapp-selenium@2.3
 - pkg:maven/de.telekom.test/bddwebapp-selenium@2.3?classifier=sources
+- pkg:maven/de.telekom.test/bddwebapp-selenium@2.4
+- pkg:maven/de.telekom.test/bddwebapp-selenium@2.4?classifier=sources

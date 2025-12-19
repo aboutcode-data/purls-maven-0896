@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.eventmesh/eventmesh-protocol-grpcmessage@1.4.0?classifier=sources
+- pkg:maven/org.apache.eventmesh/eventmesh-protocol-grpcmessage@1.5.0-release?classifier=sources

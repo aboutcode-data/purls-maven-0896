@@ -1,0 +1,2 @@
+- pkg:maven/de.cgoit.gradle.elasticsearch/gradle-elasticsearch-plugin@0.3.0
+- pkg:maven/de.cgoit.gradle.elasticsearch/gradle-elasticsearch-plugin@0.3.0?classifier=sources

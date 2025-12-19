@@ -1,1 +1,3 @@
 - pkg:maven/tech.harmonysoft/inpertio-client-jvm@1.0.0?classifier=sources
+- pkg:maven/tech.harmonysoft/inpertio-client-jvm@1.1.0?classifier=sources
+- pkg:maven/tech.harmonysoft/inpertio-client-jvm@1.2.0?classifier=sources

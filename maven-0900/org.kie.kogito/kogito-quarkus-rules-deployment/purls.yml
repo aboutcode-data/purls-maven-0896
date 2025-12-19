@@ -34,6 +34,14 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.22.1.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.23.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.23.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.24.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.24.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.24.1.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.24.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.25.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.25.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.26.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.26.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.4.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-rules-deployment@1.4.1.Final

@@ -7,3 +7,6 @@
 - pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-internal@0.1.3?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-internal@0.2.0?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-internal@1.0.0?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-internal@1.1.0?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-internal@1.2.0?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-internal@1.2.1?classifier=sources

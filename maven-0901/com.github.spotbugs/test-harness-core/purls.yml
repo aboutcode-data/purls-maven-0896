@@ -64,3 +64,4 @@
 - pkg:maven/com.github.spotbugs/test-harness-core@4.5.3?classifier=sources
 - pkg:maven/com.github.spotbugs/test-harness-core@4.6.0?classifier=sources
 - pkg:maven/com.github.spotbugs/test-harness-core@4.7.0?classifier=sources
+- pkg:maven/com.github.spotbugs/test-harness-core@4.7.1?classifier=sources

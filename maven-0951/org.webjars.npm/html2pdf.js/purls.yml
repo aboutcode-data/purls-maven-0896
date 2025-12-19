@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/html2pdf.js@0.10.1
+- pkg:maven/org.webjars.npm/html2pdf.js@0.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/html2pdf.js@0.9.1
 - pkg:maven/org.webjars.npm/html2pdf.js@0.9.1?classifier=sources
 - pkg:maven/org.webjars.npm/html2pdf.js@0.9.3

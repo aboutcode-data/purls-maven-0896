@@ -58,6 +58,8 @@
 - pkg:maven/org.morphir/morphir-sdk-core_2.11@0.8.1?classifier=sources
 - pkg:maven/org.morphir/morphir-sdk-core_2.11@0.8.2
 - pkg:maven/org.morphir/morphir-sdk-core_2.11@0.8.2?classifier=sources
+- pkg:maven/org.morphir/morphir-sdk-core_2.11@0.9.1
+- pkg:maven/org.morphir/morphir-sdk-core_2.11@0.9.1?classifier=sources
 - pkg:maven/org.morphir/morphir-sdk-core_2.11@14965d2
 - pkg:maven/org.morphir/morphir-sdk-core_2.11@14965d2?classifier=sources
 - pkg:maven/org.morphir/morphir-sdk-core_2.11@3356918

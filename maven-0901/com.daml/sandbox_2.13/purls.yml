@@ -206,8 +206,10 @@
 - pkg:maven/com.daml/sandbox_2.13@1.18.2-snapshot.20220324.8440.0.5cfb1a21
 - pkg:maven/com.daml/sandbox_2.13@1.18.2-snapshot.20220324.8440.0.5cfb1a21?classifier=sources
 - pkg:maven/com.daml/sandbox_2.13@1.18.2?classifier=sources
+- pkg:maven/com.daml/sandbox_2.13@1.18.3
 - pkg:maven/com.daml/sandbox_2.13@1.18.3-snapshot.20220620.8442.0.c7424302
 - pkg:maven/com.daml/sandbox_2.13@1.18.3-snapshot.20220620.8442.0.c7424302?classifier=sources
+- pkg:maven/com.daml/sandbox_2.13@1.18.3?classifier=sources
 - pkg:maven/com.daml/sandbox_2.13@2.0.0-snapshot.20211123.8463.0.bd2a6852
 - pkg:maven/com.daml/sandbox_2.13@2.0.0-snapshot.20211123.8463.0.bd2a6852?classifier=sources
 - pkg:maven/com.daml/sandbox_2.13@2.0.0-snapshot.20211201.8538.0.1d0ff3cc

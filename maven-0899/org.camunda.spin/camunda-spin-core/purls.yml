@@ -66,6 +66,10 @@
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.15.0?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.16.0
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.16.0?classifier=sources
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.17.0
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.17.0?classifier=sources
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.18.0
+- pkg:maven/org.camunda.spin/camunda-spin-core@1.18.0?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.2.0
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.2.0?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@1.2.1

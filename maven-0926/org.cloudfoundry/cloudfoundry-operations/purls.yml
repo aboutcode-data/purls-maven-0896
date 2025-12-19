@@ -212,3 +212,5 @@
 - pkg:maven/org.cloudfoundry/cloudfoundry-operations@5.7.0.RELEASE?classifier=sources
 - pkg:maven/org.cloudfoundry/cloudfoundry-operations@5.8.0.RELEASE
 - pkg:maven/org.cloudfoundry/cloudfoundry-operations@5.8.0.RELEASE?classifier=sources
+- pkg:maven/org.cloudfoundry/cloudfoundry-operations@5.9.0.RELEASE
+- pkg:maven/org.cloudfoundry/cloudfoundry-operations@5.9.0.RELEASE?classifier=sources

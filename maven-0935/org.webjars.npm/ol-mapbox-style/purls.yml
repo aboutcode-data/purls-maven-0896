@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/ol-mapbox-style@6.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/ol-mapbox-style@6.8.1
 - pkg:maven/org.webjars.npm/ol-mapbox-style@6.8.1?classifier=sources
+- pkg:maven/org.webjars.npm/ol-mapbox-style@7.1.1
+- pkg:maven/org.webjars.npm/ol-mapbox-style@7.1.1?classifier=sources

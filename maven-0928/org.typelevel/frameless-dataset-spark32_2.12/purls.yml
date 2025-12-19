@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/frameless-dataset-spark32_2.12@0.13.0
+- pkg:maven/org.typelevel/frameless-dataset-spark32_2.12@0.13.0?classifier=sources

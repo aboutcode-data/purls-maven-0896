@@ -24,3 +24,5 @@
 - pkg:maven/org.apache.axis2/simple-server-maven-plugin@1.8.0?classifier=sources
 - pkg:maven/org.apache.axis2/simple-server-maven-plugin@1.8.1
 - pkg:maven/org.apache.axis2/simple-server-maven-plugin@1.8.1?classifier=sources
+- pkg:maven/org.apache.axis2/simple-server-maven-plugin@1.8.2
+- pkg:maven/org.apache.axis2/simple-server-maven-plugin@1.8.2?classifier=sources

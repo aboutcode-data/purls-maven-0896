@@ -16,3 +16,5 @@
 - pkg:maven/co.pushe.plus/rxjava@2.6.1?classifier=sources
 - pkg:maven/co.pushe.plus/rxjava@2.6.2?classifier=sources
 - pkg:maven/co.pushe.plus/rxjava@2.6.3?classifier=sources
+- pkg:maven/co.pushe.plus/rxjava@2.6.4-alpha01?classifier=sources
+- pkg:maven/co.pushe.plus/rxjava@2.6.4?classifier=sources

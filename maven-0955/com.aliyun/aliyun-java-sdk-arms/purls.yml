@@ -178,3 +178,11 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.15?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.16
 - pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.16?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.17
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.17?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.19
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.19?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.20
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.20?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.21
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.21?classifier=sources

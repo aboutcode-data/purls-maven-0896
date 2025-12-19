@@ -2,3 +2,5 @@
 - pkg:maven/org.typelevel/frameless-cats_2.13@0.11.1?classifier=sources
 - pkg:maven/org.typelevel/frameless-cats_2.13@0.12.0
 - pkg:maven/org.typelevel/frameless-cats_2.13@0.12.0?classifier=sources
+- pkg:maven/org.typelevel/frameless-cats_2.13@0.13.0
+- pkg:maven/org.typelevel/frameless-cats_2.13@0.13.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/net.deechael/ref@1.00.0
+- pkg:maven/net.deechael/ref@1.00.0?classifier=sources
+- pkg:maven/net.deechael/ref@1.01.0
+- pkg:maven/net.deechael/ref@1.01.0?classifier=sources

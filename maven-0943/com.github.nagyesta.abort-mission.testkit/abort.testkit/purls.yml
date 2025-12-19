@@ -23,3 +23,6 @@
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.0.5?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.1.0?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.2.0?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.2.11?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.2.9?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.3.0?classifier=sources

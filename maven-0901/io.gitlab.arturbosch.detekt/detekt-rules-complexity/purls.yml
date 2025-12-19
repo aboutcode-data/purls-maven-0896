@@ -33,3 +33,5 @@
 - pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.20.0-RC2?classifier=sources
 - pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.20.0?classifier=sources
 - pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.21.0-RC1?classifier=sources
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.21.0-RC2?classifier=sources
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.21.0?classifier=sources

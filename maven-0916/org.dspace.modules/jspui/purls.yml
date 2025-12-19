@@ -38,6 +38,7 @@
 - pkg:maven/org.dspace.modules/jspui@5.0-rc3?type=war
 - pkg:maven/org.dspace.modules/jspui@5.0?type=war
 - pkg:maven/org.dspace.modules/jspui@5.10?type=war
+- pkg:maven/org.dspace.modules/jspui@5.11?type=war
 - pkg:maven/org.dspace.modules/jspui@5.1?type=war
 - pkg:maven/org.dspace.modules/jspui@5.2?type=war
 - pkg:maven/org.dspace.modules/jspui@5.3?type=war
@@ -55,3 +56,4 @@
 - pkg:maven/org.dspace.modules/jspui@6.1?type=war
 - pkg:maven/org.dspace.modules/jspui@6.2?type=war
 - pkg:maven/org.dspace.modules/jspui@6.3?type=war
+- pkg:maven/org.dspace.modules/jspui@6.4?type=war
