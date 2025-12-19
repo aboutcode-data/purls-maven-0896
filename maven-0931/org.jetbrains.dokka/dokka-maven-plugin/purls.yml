@@ -17,3 +17,4 @@
 - pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@1.6.21?classifier=sources
 - pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@1.7.0?classifier=sources
 - pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@1.7.10?classifier=sources
+- pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@1.7.20?classifier=sources

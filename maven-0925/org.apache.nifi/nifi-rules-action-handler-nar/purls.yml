@@ -18,3 +18,4 @@
 - pkg:maven/org.apache.nifi/nifi-rules-action-handler-nar@1.16.2?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-rules-action-handler-nar@1.16.3?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-rules-action-handler-nar@1.17.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-rules-action-handler-nar@1.18.0?classifier=sources

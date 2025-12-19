@@ -106,3 +106,5 @@
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.8?classifier=sources
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.9
 - pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.7.9?classifier=sources
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.8.0
+- pkg:maven/com.disneystreaming/weaver-framework_sjs1_2.13@0.8.0?classifier=sources

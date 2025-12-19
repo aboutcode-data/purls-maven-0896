@@ -1,0 +1,4 @@
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipselink@22.10.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipselink@22.10.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipselink@22.9.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-eclipselink@22.9.0?classifier=sources

@@ -3,4 +3,8 @@
 - pkg:maven/com.consoliads/consoliadsmediation@v13.2.2?classifier=sources
 - pkg:maven/com.consoliads/consoliadsmediation@v13.2.5?classifier=sources
 - pkg:maven/com.consoliads/consoliadsmediation@v14-0-0?classifier=sources
+- pkg:maven/com.consoliads/consoliadsmediation@v14-1-1?classifier=sources
 - pkg:maven/com.consoliads/consoliadsmediation@v14.0.1?classifier=sources
+- pkg:maven/com.consoliads/consoliadsmediation@v14.0.3?classifier=sources
+- pkg:maven/com.consoliads/consoliadsmediation@v14.1.0?classifier=sources
+- pkg:maven/com.consoliads/consoliadsmediation@v14.1.1?classifier=sources

@@ -12,6 +12,7 @@
 - pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-x64@0.7.20?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-x64@0.7.2?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-x64@0.7.32?classifier=sources
+- pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-x64@0.7.34?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-x64@0.7.3?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-x64@0.7.4?classifier=sources
 - pkg:maven/org.jetbrains.skiko/skiko-awt-runtime-windows-x64@0.7.5?classifier=sources

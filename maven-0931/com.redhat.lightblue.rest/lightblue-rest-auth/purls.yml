@@ -62,6 +62,8 @@
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.3.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.30.0
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.30.0?classifier=sources
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.31.0
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.31.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.4.0
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.4.0?classifier=sources
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-auth@2.5.0

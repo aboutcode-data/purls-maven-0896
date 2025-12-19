@@ -150,3 +150,7 @@
 - pkg:maven/com.ibm.cloud/user-management@0.25.0?classifier=sources
 - pkg:maven/com.ibm.cloud/user-management@0.26.0
 - pkg:maven/com.ibm.cloud/user-management@0.26.0?classifier=sources
+- pkg:maven/com.ibm.cloud/user-management@0.26.1
+- pkg:maven/com.ibm.cloud/user-management@0.26.1?classifier=sources
+- pkg:maven/com.ibm.cloud/user-management@0.26.2
+- pkg:maven/com.ibm.cloud/user-management@0.26.2?classifier=sources

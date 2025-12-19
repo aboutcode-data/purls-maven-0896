@@ -2,6 +2,8 @@
 - pkg:maven/io.ebean/ebean-h2@13.0.0?classifier=sources
 - pkg:maven/io.ebean/ebean-h2@13.1.0
 - pkg:maven/io.ebean/ebean-h2@13.1.0?classifier=sources
+- pkg:maven/io.ebean/ebean-h2@13.10.0
+- pkg:maven/io.ebean/ebean-h2@13.10.0?classifier=sources
 - pkg:maven/io.ebean/ebean-h2@13.2.0
 - pkg:maven/io.ebean/ebean-h2@13.2.0?classifier=sources
 - pkg:maven/io.ebean/ebean-h2@13.3.0

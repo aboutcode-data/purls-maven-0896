@@ -238,6 +238,16 @@
 - pkg:maven/software.amazon.awscdk/ram@1.172.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ram@1.173.0
 - pkg:maven/software.amazon.awscdk/ram@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.174.0
+- pkg:maven/software.amazon.awscdk/ram@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.175.0
+- pkg:maven/software.amazon.awscdk/ram@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.176.0
+- pkg:maven/software.amazon.awscdk/ram@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.177.0
+- pkg:maven/software.amazon.awscdk/ram@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.178.0
+- pkg:maven/software.amazon.awscdk/ram@1.178.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ram@1.18.0
 - pkg:maven/software.amazon.awscdk/ram@1.18.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ram@1.19.0

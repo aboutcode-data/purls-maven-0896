@@ -36,6 +36,10 @@
 - pkg:maven/com.github.kagkarlsson/db-scheduler@11.2?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler@11.3
 - pkg:maven/com.github.kagkarlsson/db-scheduler@11.3?classifier=sources
+- pkg:maven/com.github.kagkarlsson/db-scheduler@11.4
+- pkg:maven/com.github.kagkarlsson/db-scheduler@11.4?classifier=sources
+- pkg:maven/com.github.kagkarlsson/db-scheduler@11.5
+- pkg:maven/com.github.kagkarlsson/db-scheduler@11.5?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler@2.0
 - pkg:maven/com.github.kagkarlsson/db-scheduler@2.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler@2.1

@@ -18,6 +18,7 @@
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-pureconfig_2.12@9.2.0-testing3?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-pureconfig_2.12@9.2.0-testing?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-pureconfig_2.12@9.2.0?classifier=sources
+- pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-pureconfig_2.12@9.3.0?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-pureconfig_2.12@untagged-07877868007dd359bc82?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-pureconfig_2.12@v9.0.0-beta?classifier=sources
 - pkg:maven/com.avast.clients.rabbitmq/rabbitmq-client-pureconfig_2.12@v9.0.1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.jd.blockchain/crypto-adv@1.1.6.RELEASE?classifier=sources
 - pkg:maven/com.jd.blockchain/crypto-adv@1.6.4.RELEASE
 - pkg:maven/com.jd.blockchain/crypto-adv@1.6.4.RELEASE?classifier=sources
+- pkg:maven/com.jd.blockchain/crypto-adv@1.6.5.RELEASE
+- pkg:maven/com.jd.blockchain/crypto-adv@1.6.5.RELEASE?classifier=sources

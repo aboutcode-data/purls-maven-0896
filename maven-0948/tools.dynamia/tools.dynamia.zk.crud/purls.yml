@@ -22,3 +22,5 @@
 - pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.7?classifier=sources
 - pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.8
 - pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.0.8?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.1.0
+- pkg:maven/tools.dynamia/tools.dynamia.zk.crud@4.1.0?classifier=sources

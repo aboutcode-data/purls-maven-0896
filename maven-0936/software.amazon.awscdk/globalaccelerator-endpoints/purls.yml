@@ -166,6 +166,16 @@
 - pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.172.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.173.0
 - pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.174.0
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.175.0
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.176.0
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.177.0
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.178.0
+- pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.178.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.96.0
 - pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.96.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/globalaccelerator-endpoints@1.97.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.springboot/camel-aws-cloudtrail-starter@3.19.0
+- pkg:maven/org.apache.camel.springboot/camel-aws-cloudtrail-starter@3.19.0?classifier=sources

@@ -18,5 +18,7 @@
 - pkg:maven/com.purbon.kafka/julie-ops@4.2.9?classifier=sources
 - pkg:maven/com.purbon.kafka/julie-ops@4.3.0
 - pkg:maven/com.purbon.kafka/julie-ops@4.3.0?classifier=sources
+- pkg:maven/com.purbon.kafka/julie-ops@4.4.1
+- pkg:maven/com.purbon.kafka/julie-ops@4.4.1?classifier=sources
 - pkg:maven/com.purbon.kafka/julie-ops@edge
 - pkg:maven/com.purbon.kafka/julie-ops@edge?classifier=sources

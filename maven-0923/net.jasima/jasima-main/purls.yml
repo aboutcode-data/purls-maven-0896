@@ -1,2 +1,4 @@
 - pkg:maven/net.jasima/jasima-main@3.0.0-RC1
 - pkg:maven/net.jasima/jasima-main@3.0.0-RC1?classifier=sources
+- pkg:maven/net.jasima/jasima-main@3.0.0-RC3
+- pkg:maven/net.jasima/jasima-main@3.0.0-RC3?classifier=sources

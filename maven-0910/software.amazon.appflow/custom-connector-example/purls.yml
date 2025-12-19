@@ -9,4 +9,6 @@
 - pkg:maven/software.amazon.appflow/custom-connector-example@1.0.5?classifier=sources
 - pkg:maven/software.amazon.appflow/custom-connector-example@1.0.6
 - pkg:maven/software.amazon.appflow/custom-connector-example@1.0.6?classifier=sources
+- pkg:maven/software.amazon.appflow/custom-connector-example@1.0.7
+- pkg:maven/software.amazon.appflow/custom-connector-example@1.0.7?classifier=sources
 - pkg:maven/software.amazon.appflow/custom-connector-example@1.0?classifier=sources

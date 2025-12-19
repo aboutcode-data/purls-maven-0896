@@ -134,3 +134,5 @@
 - pkg:maven/io.kamon/kamon-testkit_2.11@2.5.7?classifier=sources
 - pkg:maven/io.kamon/kamon-testkit_2.11@2.5.8
 - pkg:maven/io.kamon/kamon-testkit_2.11@2.5.8?classifier=sources
+- pkg:maven/io.kamon/kamon-testkit_2.11@2.5.9
+- pkg:maven/io.kamon/kamon-testkit_2.11@2.5.9?classifier=sources

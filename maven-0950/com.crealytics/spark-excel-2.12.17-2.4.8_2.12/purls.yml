@@ -1,0 +1,4 @@
+- pkg:maven/com.crealytics/spark-excel-2.12.17-2.4.8_2.12@2.4.8_0.18.1
+- pkg:maven/com.crealytics/spark-excel-2.12.17-2.4.8_2.12@2.4.8_0.18.1-beta3
+- pkg:maven/com.crealytics/spark-excel-2.12.17-2.4.8_2.12@2.4.8_0.18.1-beta3?classifier=sources
+- pkg:maven/com.crealytics/spark-excel-2.12.17-2.4.8_2.12@2.4.8_0.18.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.isis.valuetypes/isis-valuetypes-jodatime-integration@2.0.0-M7
 - pkg:maven/org.apache.isis.valuetypes/isis-valuetypes-jodatime-integration@2.0.0-M7?classifier=sources
+- pkg:maven/org.apache.isis.valuetypes/isis-valuetypes-jodatime-integration@2.0.0-M8
+- pkg:maven/org.apache.isis.valuetypes/isis-valuetypes-jodatime-integration@2.0.0-M8?classifier=sources
+- pkg:maven/org.apache.isis.valuetypes/isis-valuetypes-jodatime-integration@2.0.0-M9
+- pkg:maven/org.apache.isis.valuetypes/isis-valuetypes-jodatime-integration@2.0.0-M9?classifier=sources

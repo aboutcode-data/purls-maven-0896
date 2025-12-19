@@ -1,2 +1,4 @@
 - pkg:maven/org.axonframework/axon-modelling-jakarta@4.6.0
 - pkg:maven/org.axonframework/axon-modelling-jakarta@4.6.0?classifier=sources
+- pkg:maven/org.axonframework/axon-modelling-jakarta@4.6.1
+- pkg:maven/org.axonframework/axon-modelling-jakarta@4.6.1?classifier=sources

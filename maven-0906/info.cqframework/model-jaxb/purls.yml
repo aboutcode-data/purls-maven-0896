@@ -1,2 +1,3 @@
 - pkg:maven/info.cqframework/model-jaxb@2.0.0?classifier=sources
 - pkg:maven/info.cqframework/model-jaxb@2.1.0?classifier=sources
+- pkg:maven/info.cqframework/model-jaxb@2.2.0?classifier=sources

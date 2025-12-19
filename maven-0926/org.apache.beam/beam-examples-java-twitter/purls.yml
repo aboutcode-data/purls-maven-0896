@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.beam/beam-examples-java-twitter@2.39.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-twitter@2.40.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-examples-java-twitter@2.41.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-twitter@2.42.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.hetu.core/presto-redis@1.7.0?classifier=sources
+- pkg:maven/io.hetu.core/presto-redis@1.8.0?classifier=sources

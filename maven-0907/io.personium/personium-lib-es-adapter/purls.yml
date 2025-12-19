@@ -2,3 +2,5 @@
 - pkg:maven/io.personium/personium-lib-es-adapter@1_es6.8.17_1?classifier=sources
 - pkg:maven/io.personium/personium-lib-es-adapter@1_es6.8.22_1
 - pkg:maven/io.personium/personium-lib-es-adapter@1_es6.8.22_1?classifier=sources
+- pkg:maven/io.personium/personium-lib-es-adapter@2_es7.17.6_1
+- pkg:maven/io.personium/personium-lib-es-adapter@2_es7.17.6_1?classifier=sources

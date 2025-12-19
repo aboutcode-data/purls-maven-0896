@@ -68,3 +68,5 @@
 - pkg:maven/org.twitter4j/twitter4j-core@4.0.6?classifier=sources
 - pkg:maven/org.twitter4j/twitter4j-core@4.0.7
 - pkg:maven/org.twitter4j/twitter4j-core@4.0.7?classifier=sources
+- pkg:maven/org.twitter4j/twitter4j-core@4.1.0?classifier=sources
+- pkg:maven/org.twitter4j/twitter4j-core@4.1.1?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@0.0.1-alpha.5
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@0.0.1-alpha.5?classifier=sources
 - pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@0.0.1-alpha?classifier=sources
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@0.0.2-alpha
+- pkg:maven/com.expediagroup.openworld.sdk/openworld-java-sdk-core@0.0.2-alpha?classifier=sources

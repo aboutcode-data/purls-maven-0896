@@ -17,3 +17,5 @@
 - pkg:maven/org.openpreservation.jhove/jhove-apps@1.26.0
 - pkg:maven/org.openpreservation.jhove/jhove-apps@1.26.0-RC2?classifier=sources
 - pkg:maven/org.openpreservation.jhove/jhove-apps@1.26.0?classifier=sources
+- pkg:maven/org.openpreservation.jhove/jhove-apps@1.26.1
+- pkg:maven/org.openpreservation.jhove/jhove-apps@1.26.1?classifier=sources

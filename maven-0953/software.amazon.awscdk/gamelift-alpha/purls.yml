@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awscdk/gamelift-alpha@2.45.0-alpha.0
+- pkg:maven/software.amazon.awscdk/gamelift-alpha@2.45.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/gamelift-alpha@2.46.0-alpha.0
+- pkg:maven/software.amazon.awscdk/gamelift-alpha@2.46.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/gamelift-alpha@2.47.0-alpha.0
+- pkg:maven/software.amazon.awscdk/gamelift-alpha@2.47.0-alpha.0?classifier=sources

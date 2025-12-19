@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.ververica/ververica-connector-opengauss@1.13-vvr-4.0.15
+- pkg:maven/com.alibaba.ververica/ververica-connector-opengauss@1.13-vvr-4.0.15?classifier=sources

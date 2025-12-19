@@ -111,6 +111,14 @@
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.6
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.60
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.60?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.61
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.61?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.62
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.62?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.63
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.63?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.64
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.64?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.6?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.7
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.7?classifier=sources

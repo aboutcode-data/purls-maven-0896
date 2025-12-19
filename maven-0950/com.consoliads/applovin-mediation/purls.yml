@@ -1,3 +1,4 @@
 - pkg:maven/com.consoliads/applovin-mediation@v10.3.5-1.0?classifier=sources
 - pkg:maven/com.consoliads/applovin-mediation@v10.3.5-1.1?classifier=sources
 - pkg:maven/com.consoliads/applovin-mediation@v10.3.5?classifier=sources
+- pkg:maven/com.consoliads/applovin-mediation@v11.4.6-1.0?classifier=sources

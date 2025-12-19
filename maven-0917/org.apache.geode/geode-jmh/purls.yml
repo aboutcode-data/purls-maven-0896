@@ -9,3 +9,4 @@
 - pkg:maven/org.apache.geode/geode-jmh@1.14.4
 - pkg:maven/org.apache.geode/geode-jmh@1.14.4?classifier=sources
 - pkg:maven/org.apache.geode/geode-jmh@1.15.0?classifier=sources
+- pkg:maven/org.apache.geode/geode-jmh@1.15.1?classifier=sources

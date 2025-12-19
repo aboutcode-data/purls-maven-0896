@@ -166,6 +166,16 @@
 - pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.172.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.173.0
 - pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.174.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.175.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.176.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.177.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.178.0
+- pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.178.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.39.0
 - pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.39.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloudformation-include@1.40.0

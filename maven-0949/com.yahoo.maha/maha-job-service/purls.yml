@@ -16,6 +16,14 @@
 - pkg:maven/com.yahoo.maha/maha-job-service@6.107?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.108
 - pkg:maven/com.yahoo.maha/maha-job-service@6.108?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.109
+- pkg:maven/com.yahoo.maha/maha-job-service@6.109?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.110
+- pkg:maven/com.yahoo.maha/maha-job-service@6.110?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.111
+- pkg:maven/com.yahoo.maha/maha-job-service@6.111?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.112
+- pkg:maven/com.yahoo.maha/maha-job-service@6.112?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.53
 - pkg:maven/com.yahoo.maha/maha-job-service@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.54

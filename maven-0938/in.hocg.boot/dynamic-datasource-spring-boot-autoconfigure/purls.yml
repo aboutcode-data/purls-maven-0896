@@ -64,6 +64,8 @@
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.44?classifier=sources
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.45
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.45?classifier=sources
+- pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.47
+- pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.47?classifier=sources
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.5
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.5?classifier=sources
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.6
@@ -74,3 +76,5 @@
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.8?classifier=sources
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.9
 - pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@1.0.9?classifier=sources
+- pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@v1.0.46
+- pkg:maven/in.hocg.boot/dynamic-datasource-spring-boot-autoconfigure@v1.0.46?classifier=sources

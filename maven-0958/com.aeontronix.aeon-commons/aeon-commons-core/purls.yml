@@ -8,3 +8,9 @@
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta4?classifier=sources
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta5
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta5?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta6
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta6?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta7
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta7?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta8
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-beta8?classifier=sources

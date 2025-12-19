@@ -19,6 +19,10 @@
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.21?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.22?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.23?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.24?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.25?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.26?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.27?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.2?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.3?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.4?classifier=sources
@@ -27,3 +31,4 @@
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.7?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.8?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.0.9?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_yaml@2.1.0?classifier=sources

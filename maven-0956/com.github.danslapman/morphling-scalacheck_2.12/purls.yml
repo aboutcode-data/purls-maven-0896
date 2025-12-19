@@ -4,3 +4,5 @@
 - pkg:maven/com.github.danslapman/morphling-scalacheck_2.12@2.7.0-glass
 - pkg:maven/com.github.danslapman/morphling-scalacheck_2.12@2.7.0-glass?classifier=sources
 - pkg:maven/com.github.danslapman/morphling-scalacheck_2.12@2.7.0?classifier=sources
+- pkg:maven/com.github.danslapman/morphling-scalacheck_2.12@3.0.0
+- pkg:maven/com.github.danslapman/morphling-scalacheck_2.12@3.0.0?classifier=sources

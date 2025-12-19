@@ -1,2 +1,4 @@
 - pkg:maven/org.ogc-schemas/iso19139_2-gmi-v_1_0@3.0.0
 - pkg:maven/org.ogc-schemas/iso19139_2-gmi-v_1_0@3.0.0?classifier=sources
+- pkg:maven/org.ogc-schemas/iso19139_2-gmi-v_1_0@4.0.0
+- pkg:maven/org.ogc-schemas/iso19139_2-gmi-v_1_0@4.0.0?classifier=sources

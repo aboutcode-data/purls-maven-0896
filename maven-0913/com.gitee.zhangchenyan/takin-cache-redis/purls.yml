@@ -6,3 +6,7 @@
 - pkg:maven/com.gitee.zhangchenyan/takin-cache-redis@1.1.2
 - pkg:maven/com.gitee.zhangchenyan/takin-cache-redis@1.1.2?classifier=sources
 - pkg:maven/com.gitee.zhangchenyan/takin-cache-redis@1.1?classifier=sources
+- pkg:maven/com.gitee.zhangchenyan/takin-cache-redis@1.2.0
+- pkg:maven/com.gitee.zhangchenyan/takin-cache-redis@1.2.0?classifier=sources
+- pkg:maven/com.gitee.zhangchenyan/takin-cache-redis@1.2.1
+- pkg:maven/com.gitee.zhangchenyan/takin-cache-redis@1.2.1?classifier=sources

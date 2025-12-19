@@ -28,3 +28,5 @@
 - pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.2.0?classifier=sources
 - pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.3.0
 - pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.3.0?classifier=sources
+- pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.4.0
+- pkg:maven/at.austriapro/ebinterface-xrechnung-mapping@1.4.0?classifier=sources

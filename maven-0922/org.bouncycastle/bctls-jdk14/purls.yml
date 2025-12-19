@@ -13,3 +13,4 @@
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.69?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.70?classifier=sources
 - pkg:maven/org.bouncycastle/bctls-jdk14@1.71?classifier=sources
+- pkg:maven/org.bouncycastle/bctls-jdk14@1.72?classifier=sources

@@ -20,3 +20,6 @@
 - pkg:maven/com.seeq.utilities/seeq-utilities@57.0.0-v202207070922-BETA?classifier=sources
 - pkg:maven/com.seeq.utilities/seeq-utilities@57.1.0-v202207191816-BETA?classifier=sources
 - pkg:maven/com.seeq.utilities/seeq-utilities@57.2.0-v202208021320-BETA?classifier=sources
+- pkg:maven/com.seeq.utilities/seeq-utilities@57.2.3-v202209292029?classifier=sources
+- pkg:maven/com.seeq.utilities/seeq-utilities@57.2.4-v202210112311?classifier=sources
+- pkg:maven/com.seeq.utilities/seeq-utilities@58.0.1-v202209221348?classifier=sources

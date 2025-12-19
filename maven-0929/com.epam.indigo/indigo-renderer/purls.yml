@@ -36,3 +36,5 @@
 - pkg:maven/com.epam.indigo/indigo-renderer@1.7.3?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-renderer@1.7.4
 - pkg:maven/com.epam.indigo/indigo-renderer@1.7.4?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-renderer@1.8.0-rc.1
+- pkg:maven/com.epam.indigo/indigo-renderer@1.8.0-rc.1?classifier=sources

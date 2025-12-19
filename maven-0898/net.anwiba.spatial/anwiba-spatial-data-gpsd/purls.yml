@@ -24,3 +24,5 @@
 - pkg:maven/net.anwiba.spatial/anwiba-spatial-data-gpsd@1.1.121?classifier=sources
 - pkg:maven/net.anwiba.spatial/anwiba-spatial-data-gpsd@1.1.158
 - pkg:maven/net.anwiba.spatial/anwiba-spatial-data-gpsd@1.1.158?classifier=sources
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-gpsd@1.2.50
+- pkg:maven/net.anwiba.spatial/anwiba-spatial-data-gpsd@1.2.50?classifier=sources

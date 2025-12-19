@@ -64,3 +64,5 @@
 - pkg:maven/org.languagetool/language-ta@5.7?classifier=sources
 - pkg:maven/org.languagetool/language-ta@5.8
 - pkg:maven/org.languagetool/language-ta@5.8?classifier=sources
+- pkg:maven/org.languagetool/language-ta@5.9
+- pkg:maven/org.languagetool/language-ta@5.9?classifier=sources

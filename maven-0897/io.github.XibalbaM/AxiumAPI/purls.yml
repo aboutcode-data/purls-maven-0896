@@ -1,2 +1,4 @@
 - pkg:maven/io.github.XibalbaM/AxiumAPI@1.2
+- pkg:maven/io.github.XibalbaM/AxiumAPI@1.2.2
+- pkg:maven/io.github.XibalbaM/AxiumAPI@1.2.2?classifier=sources
 - pkg:maven/io.github.XibalbaM/AxiumAPI@1.2?classifier=sources

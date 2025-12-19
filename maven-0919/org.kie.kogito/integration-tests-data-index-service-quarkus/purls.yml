@@ -44,6 +44,10 @@
 - pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.26.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.27.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.27.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.28.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.28.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.29.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.29.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.5.0.Final
 - pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.5.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/integration-tests-data-index-service-quarkus@1.6.0.Final

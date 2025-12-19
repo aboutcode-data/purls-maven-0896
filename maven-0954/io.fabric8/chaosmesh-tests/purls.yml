@@ -18,6 +18,7 @@
 - pkg:maven/io.fabric8/chaosmesh-tests@5.12.1
 - pkg:maven/io.fabric8/chaosmesh-tests@5.12.2
 - pkg:maven/io.fabric8/chaosmesh-tests@5.12.3
+- pkg:maven/io.fabric8/chaosmesh-tests@5.12.4
 - pkg:maven/io.fabric8/chaosmesh-tests@5.2.0
 - pkg:maven/io.fabric8/chaosmesh-tests@5.2.1
 - pkg:maven/io.fabric8/chaosmesh-tests@5.3.0
@@ -40,3 +41,4 @@
 - pkg:maven/io.fabric8/chaosmesh-tests@6.0.0-RC1
 - pkg:maven/io.fabric8/chaosmesh-tests@6.1.0
 - pkg:maven/io.fabric8/chaosmesh-tests@6.1.1
+- pkg:maven/io.fabric8/chaosmesh-tests@6.2.0

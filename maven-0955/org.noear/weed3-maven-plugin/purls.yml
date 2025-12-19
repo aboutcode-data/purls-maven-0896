@@ -265,6 +265,10 @@
 - pkg:maven/org.noear/weed3-maven-plugin@3.4.29?classifier=sources
 - pkg:maven/org.noear/weed3-maven-plugin@3.4.2?classifier=sources
 - pkg:maven/org.noear/weed3-maven-plugin@3.4.3
+- pkg:maven/org.noear/weed3-maven-plugin@3.4.30
+- pkg:maven/org.noear/weed3-maven-plugin@3.4.30?classifier=sources
+- pkg:maven/org.noear/weed3-maven-plugin@3.4.31
+- pkg:maven/org.noear/weed3-maven-plugin@3.4.31?classifier=sources
 - pkg:maven/org.noear/weed3-maven-plugin@3.4.3?classifier=sources
 - pkg:maven/org.noear/weed3-maven-plugin@3.4.4
 - pkg:maven/org.noear/weed3-maven-plugin@3.4.4?classifier=sources

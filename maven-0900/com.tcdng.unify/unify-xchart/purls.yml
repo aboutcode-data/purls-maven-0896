@@ -93,6 +93,12 @@
 - pkg:maven/com.tcdng.unify/unify-xchart@2.1.44?classifier=sources
 - pkg:maven/com.tcdng.unify/unify-xchart@2.1.45
 - pkg:maven/com.tcdng.unify/unify-xchart@2.1.45?classifier=sources
+- pkg:maven/com.tcdng.unify/unify-xchart@2.1.46
+- pkg:maven/com.tcdng.unify/unify-xchart@2.1.46?classifier=sources
+- pkg:maven/com.tcdng.unify/unify-xchart@2.1.47
+- pkg:maven/com.tcdng.unify/unify-xchart@2.1.47?classifier=sources
+- pkg:maven/com.tcdng.unify/unify-xchart@2.1.48
+- pkg:maven/com.tcdng.unify/unify-xchart@2.1.48?classifier=sources
 - pkg:maven/com.tcdng.unify/unify-xchart@2.1.4?classifier=sources
 - pkg:maven/com.tcdng.unify/unify-xchart@2.1.6
 - pkg:maven/com.tcdng.unify/unify-xchart@2.1.6?classifier=sources

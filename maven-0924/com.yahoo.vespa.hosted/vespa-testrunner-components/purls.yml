@@ -416,5 +416,17 @@
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.52.15?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.53.21?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.54.61?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.56.20?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.57.18?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.61.17?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.62.51?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.63.8?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.64.13?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.65.41?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.66.20?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.67.17?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.68.18?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.7.17?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.70.31?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.71.9?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@8.8.35?classifier=sources

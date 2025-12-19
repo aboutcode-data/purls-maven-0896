@@ -46,6 +46,12 @@
 - pkg:maven/com.mailosaur/mailosaur-java@7.0.8?classifier=sources
 - pkg:maven/com.mailosaur/mailosaur-java@7.1.0
 - pkg:maven/com.mailosaur/mailosaur-java@7.1.0?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@7.10.0
+- pkg:maven/com.mailosaur/mailosaur-java@7.10.0?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@7.11.0
+- pkg:maven/com.mailosaur/mailosaur-java@7.11.0?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@7.12.0
+- pkg:maven/com.mailosaur/mailosaur-java@7.12.0?classifier=sources
 - pkg:maven/com.mailosaur/mailosaur-java@7.2.0
 - pkg:maven/com.mailosaur/mailosaur-java@7.2.0?classifier=sources
 - pkg:maven/com.mailosaur/mailosaur-java@7.2.1

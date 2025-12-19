@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.unomi/test-groovy-action-sample@1.6.0?classifier=sources
 - pkg:maven/org.apache.unomi/test-groovy-action-sample@1.6.1
 - pkg:maven/org.apache.unomi/test-groovy-action-sample@1.6.1?classifier=sources
+- pkg:maven/org.apache.unomi/test-groovy-action-sample@2.0.0
+- pkg:maven/org.apache.unomi/test-groovy-action-sample@2.0.0?classifier=sources

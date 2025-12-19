@@ -4,3 +4,5 @@
 - pkg:maven/io.quarkiverse.satoken/quarkus-satoken-sso@1.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.satoken/quarkus-satoken-sso@1.30.0
 - pkg:maven/io.quarkiverse.satoken/quarkus-satoken-sso@1.30.0?classifier=sources
+- pkg:maven/io.quarkiverse.satoken/quarkus-satoken-sso@1.31.0
+- pkg:maven/io.quarkiverse.satoken/quarkus-satoken-sso@1.31.0?classifier=sources

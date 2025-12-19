@@ -4,3 +4,5 @@
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC3?classifier=sources
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC4
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC4?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC5
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC5?classifier=sources

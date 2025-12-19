@@ -28,3 +28,5 @@
 - pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-queue@1.0.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-queue@3.18.1
 - pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-queue@3.18.1?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-queue@3.18.2
+- pkg:maven/org.apache.camel.kafkaconnector/itests-azure-storage-queue@3.18.2?classifier=sources

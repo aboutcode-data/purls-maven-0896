@@ -1,2 +1,4 @@
 - pkg:maven/com.vonchange.common/spring-data-mybatis-mini-low@1.9.6
 - pkg:maven/com.vonchange.common/spring-data-mybatis-mini-low@1.9.6?classifier=sources
+- pkg:maven/com.vonchange.common/spring-data-mybatis-mini-low@2.3.9
+- pkg:maven/com.vonchange.common/spring-data-mybatis-mini-low@2.3.9?classifier=sources

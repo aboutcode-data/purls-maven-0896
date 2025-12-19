@@ -10,3 +10,5 @@
 - pkg:maven/com.netcetera.girders/girders-clientlogging@5.0.22?classifier=sources
 - pkg:maven/com.netcetera.girders/girders-clientlogging@5.0.23
 - pkg:maven/com.netcetera.girders/girders-clientlogging@5.0.23?classifier=sources
+- pkg:maven/com.netcetera.girders/girders-clientlogging@5.1.0
+- pkg:maven/com.netcetera.girders/girders-clientlogging@5.1.0?classifier=sources

@@ -56,3 +56,5 @@
 - pkg:maven/org.anyline/anyline-jdbc-timescaledb@8.5.7-20220908?classifier=sources
 - pkg:maven/org.anyline/anyline-jdbc-timescaledb@8.5.7-20220912
 - pkg:maven/org.anyline/anyline-jdbc-timescaledb@8.5.7-20220912?classifier=sources
+- pkg:maven/org.anyline/anyline-jdbc-timescaledb@8.5.7-20220920
+- pkg:maven/org.anyline/anyline-jdbc-timescaledb@8.5.7-20220920?classifier=sources

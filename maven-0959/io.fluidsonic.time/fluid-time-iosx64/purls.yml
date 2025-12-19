@@ -11,6 +11,8 @@
 - pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.13.3?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.14.0?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.15.0?classifier=sources
+- pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.16.0?classifier=sources
+- pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.17.0?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.9.15?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.9.17?classifier=sources
 - pkg:maven/io.fluidsonic.time/fluid-time-iosx64@0.9.18?classifier=sources

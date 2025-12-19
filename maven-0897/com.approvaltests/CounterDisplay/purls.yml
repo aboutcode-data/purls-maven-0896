@@ -110,6 +110,12 @@
 - pkg:maven/com.approvaltests/CounterDisplay@18.0.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@18.2.2
 - pkg:maven/com.approvaltests/CounterDisplay@18.2.2?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@18.3.0
+- pkg:maven/com.approvaltests/CounterDisplay@18.3.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@18.4.0
+- pkg:maven/com.approvaltests/CounterDisplay@18.4.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@18.5.0
+- pkg:maven/com.approvaltests/CounterDisplay@18.5.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@2.0.0
 - pkg:maven/com.approvaltests/CounterDisplay@2.0.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@2.0.1

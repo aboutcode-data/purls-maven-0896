@@ -40,6 +40,7 @@
 - pkg:maven/com.azure/azure-core-serializer-json-jackson@1.2.2
 - pkg:maven/com.azure/azure-core-serializer-json-jackson@1.2.20?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-json-jackson@1.2.21?classifier=sources
+- pkg:maven/com.azure/azure-core-serializer-json-jackson@1.2.22?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-json-jackson@1.2.2?classifier=sources
 - pkg:maven/com.azure/azure-core-serializer-json-jackson@1.2.3
 - pkg:maven/com.azure/azure-core-serializer-json-jackson@1.2.3?classifier=sources

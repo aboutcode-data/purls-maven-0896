@@ -65,4 +65,6 @@
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-RC5?classifier=sources
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-m1
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0-m1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0.1
+- pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0.1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.rest.client/microprofile-rest-client-api@3.0?classifier=sources

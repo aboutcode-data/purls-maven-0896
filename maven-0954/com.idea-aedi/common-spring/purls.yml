@@ -108,5 +108,7 @@
 - pkg:maven/com.idea-aedi/common-spring@2100.5.0?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@2100.5.2
 - pkg:maven/com.idea-aedi/common-spring@2100.5.2?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.5.3
+- pkg:maven/com.idea-aedi/common-spring@2100.5.3?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@21GA.3.3
 - pkg:maven/com.idea-aedi/common-spring@21GA.3.3?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.oauth.client.auth.sample@4.5.0?classifier=sources
 - pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.oauth.client.auth.sample@4.5.1
 - pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.oauth.client.auth.sample@4.5.1?classifier=sources
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.oauth.client.auth.sample@4.5.2
+- pkg:maven/org.wso2.samples.is/org.wso2.carbon.identity.oauth.client.auth.sample@4.5.2?classifier=sources

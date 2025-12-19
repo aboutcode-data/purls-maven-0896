@@ -166,6 +166,16 @@
 - pkg:maven/software.amazon.awscdk/signer@1.172.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/signer@1.173.0
 - pkg:maven/software.amazon.awscdk/signer@1.173.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/signer@1.174.0
+- pkg:maven/software.amazon.awscdk/signer@1.174.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/signer@1.175.0
+- pkg:maven/software.amazon.awscdk/signer@1.175.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/signer@1.176.0
+- pkg:maven/software.amazon.awscdk/signer@1.176.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/signer@1.177.0
+- pkg:maven/software.amazon.awscdk/signer@1.177.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/signer@1.178.0
+- pkg:maven/software.amazon.awscdk/signer@1.178.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/signer@1.77.0
 - pkg:maven/software.amazon.awscdk/signer@1.77.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/signer@1.78.0

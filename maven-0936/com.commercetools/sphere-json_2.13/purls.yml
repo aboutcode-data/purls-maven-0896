@@ -13,6 +13,16 @@
 - pkg:maven/com.commercetools/sphere-json_2.13@0.12.6-optimize-money-3?classifier=sources
 - pkg:maven/com.commercetools/sphere-json_2.13@0.12.6?classifier=sources
 - pkg:maven/com.commercetools/sphere-json_2.13@0.12.7
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.7-optimize-high-prec-money
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.7-optimize-high-prec-money2
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.7-optimize-high-prec-money2?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.7-optimize-high-prec-money3
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.7-optimize-high-prec-money3?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.7-optimize-high-prec-money?classifier=sources
 - pkg:maven/com.commercetools/sphere-json_2.13@0.12.7?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.8
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.8?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.9
+- pkg:maven/com.commercetools/sphere-json_2.13@0.12.9?classifier=sources
 - pkg:maven/com.commercetools/sphere-json_2.13@0.12.split_money_alpha1
 - pkg:maven/com.commercetools/sphere-json_2.13@0.12.split_money_alpha1?classifier=sources

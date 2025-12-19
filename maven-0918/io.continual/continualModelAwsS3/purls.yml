@@ -53,6 +53,10 @@
 - pkg:maven/io.continual/continualModelAwsS3@0.2.33?classifier=sources
 - pkg:maven/io.continual/continualModelAwsS3@0.2.34
 - pkg:maven/io.continual/continualModelAwsS3@0.2.34?classifier=sources
+- pkg:maven/io.continual/continualModelAwsS3@0.2.35
+- pkg:maven/io.continual/continualModelAwsS3@0.2.35?classifier=sources
+- pkg:maven/io.continual/continualModelAwsS3@0.2.36
+- pkg:maven/io.continual/continualModelAwsS3@0.2.36?classifier=sources
 - pkg:maven/io.continual/continualModelAwsS3@0.2.3?classifier=sources
 - pkg:maven/io.continual/continualModelAwsS3@0.2.9
 - pkg:maven/io.continual/continualModelAwsS3@0.2.9?classifier=sources

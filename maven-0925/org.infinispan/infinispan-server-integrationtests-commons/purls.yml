@@ -35,6 +35,7 @@
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@13.0.1.Final
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@13.0.10.Final
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@13.0.11.Final
+- pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@13.0.12.Final
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@13.0.3.Final
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@13.0.4.Final
@@ -49,3 +50,6 @@
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@14.0.0.Dev02
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@14.0.0.Dev03
 - pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@14.0.0.Dev04
+- pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@14.0.0.Final
+- pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@14.0.1.Final
+- pkg:maven/org.infinispan/infinispan-server-integrationtests-commons@14.0.2.Final

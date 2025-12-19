@@ -56,3 +56,7 @@
 - pkg:maven/com.codacy/codacy-git_2.12@7.9.5_play_2.7?classifier=sources
 - pkg:maven/com.codacy/codacy-git_2.12@8.0.0_play_2.7
 - pkg:maven/com.codacy/codacy-git_2.12@8.0.0_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-git_2.12@8.0.1_play_2.7
+- pkg:maven/com.codacy/codacy-git_2.12@8.0.1_play_2.7?classifier=sources
+- pkg:maven/com.codacy/codacy-git_2.12@8.0.2_play_2.7
+- pkg:maven/com.codacy/codacy-git_2.12@8.0.2_play_2.7?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.mastfrog/giulius-mongodb-reactive-init@2.8.6
+- pkg:maven/com.mastfrog/giulius-mongodb-reactive-init@2.8.6?classifier=sources
+- pkg:maven/com.mastfrog/giulius-mongodb-reactive-init@2.8.7
+- pkg:maven/com.mastfrog/giulius-mongodb-reactive-init@2.8.7?classifier=sources
+- pkg:maven/com.mastfrog/giulius-mongodb-reactive-init@2.9.0
+- pkg:maven/com.mastfrog/giulius-mongodb-reactive-init@2.9.0?classifier=sources

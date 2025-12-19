@@ -2,3 +2,5 @@
 - pkg:maven/org.mengyun/tcc-transaction-http@2.0.0-alpha
 - pkg:maven/org.mengyun/tcc-transaction-http@2.0.0-alpha?classifier=sources
 - pkg:maven/org.mengyun/tcc-transaction-http@2.0.0?classifier=sources
+- pkg:maven/org.mengyun/tcc-transaction-http@2.0.1
+- pkg:maven/org.mengyun/tcc-transaction-http@2.0.1?classifier=sources

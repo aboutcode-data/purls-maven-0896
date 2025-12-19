@@ -88,6 +88,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.25.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.26.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.26.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.27.0
+- pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.27.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.3.0
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.3.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-mutiny-vertx-runtime@2.4.0

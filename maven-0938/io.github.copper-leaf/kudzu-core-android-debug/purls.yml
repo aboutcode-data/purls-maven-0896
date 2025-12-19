@@ -8,3 +8,4 @@
 - pkg:maven/io.github.copper-leaf/kudzu-core-android-debug@2.6.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/kudzu-core-android-debug@3.0.0?classifier=sources
 - pkg:maven/io.github.copper-leaf/kudzu-core-android-debug@3.1.0?classifier=sources
+- pkg:maven/io.github.copper-leaf/kudzu-core-android-debug@4.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-crypto-api@4.3.0?classifier=sources
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-crypto-api@4.3.1
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-crypto-api@4.3.1?classifier=sources
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-crypto-api@4.3.2
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-crypto-api@4.3.2?classifier=sources

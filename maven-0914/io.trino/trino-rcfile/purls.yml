@@ -90,3 +90,11 @@
 - pkg:maven/io.trino/trino-rcfile@395?classifier=sources
 - pkg:maven/io.trino/trino-rcfile@396
 - pkg:maven/io.trino/trino-rcfile@396?classifier=sources
+- pkg:maven/io.trino/trino-rcfile@397
+- pkg:maven/io.trino/trino-rcfile@397?classifier=sources
+- pkg:maven/io.trino/trino-rcfile@398
+- pkg:maven/io.trino/trino-rcfile@398?classifier=sources
+- pkg:maven/io.trino/trino-rcfile@399
+- pkg:maven/io.trino/trino-rcfile@399?classifier=sources
+- pkg:maven/io.trino/trino-rcfile@400
+- pkg:maven/io.trino/trino-rcfile@400?classifier=sources

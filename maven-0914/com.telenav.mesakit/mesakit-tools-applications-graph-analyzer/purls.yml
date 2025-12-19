@@ -14,3 +14,5 @@
 - pkg:maven/com.telenav.mesakit/mesakit-tools-applications-graph-analyzer@0.9.16?classifier=sources
 - pkg:maven/com.telenav.mesakit/mesakit-tools-applications-graph-analyzer@0.9.17
 - pkg:maven/com.telenav.mesakit/mesakit-tools-applications-graph-analyzer@0.9.17?classifier=sources
+- pkg:maven/com.telenav.mesakit/mesakit-tools-applications-graph-analyzer@0.9.18
+- pkg:maven/com.telenav.mesakit/mesakit-tools-applications-graph-analyzer@0.9.18?classifier=sources

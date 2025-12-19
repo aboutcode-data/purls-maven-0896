@@ -8,3 +8,5 @@
 - pkg:maven/com.avsystem.scex/scex-util_2.13.8@1.23.1?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-util_2.13.8@1.23.2
 - pkg:maven/com.avsystem.scex/scex-util_2.13.8@1.23.2?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-util_2.13.8@1.24.0
+- pkg:maven/com.avsystem.scex/scex-util_2.13.8@1.24.0?classifier=sources

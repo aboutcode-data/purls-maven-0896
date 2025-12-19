@@ -1,2 +1,4 @@
 - pkg:maven/io.helidon.nima.http.media/helidon-nima-http-media@4.0.0-ALPHA1
 - pkg:maven/io.helidon.nima.http.media/helidon-nima-http-media@4.0.0-ALPHA1?classifier=sources
+- pkg:maven/io.helidon.nima.http.media/helidon-nima-http-media@4.0.0-ALPHA2
+- pkg:maven/io.helidon.nima.http.media/helidon-nima-http-media@4.0.0-ALPHA2?classifier=sources

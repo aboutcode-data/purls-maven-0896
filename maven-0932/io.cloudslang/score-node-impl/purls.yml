@@ -281,8 +281,12 @@
 - pkg:maven/io.cloudslang/score-node-impl@0.3.262?classifier=sources
 - pkg:maven/io.cloudslang/score-node-impl@0.3.26?classifier=sources
 - pkg:maven/io.cloudslang/score-node-impl@0.3.27
+- pkg:maven/io.cloudslang/score-node-impl@0.3.275
+- pkg:maven/io.cloudslang/score-node-impl@0.3.275?classifier=sources
 - pkg:maven/io.cloudslang/score-node-impl@0.3.27?classifier=sources
 - pkg:maven/io.cloudslang/score-node-impl@0.3.28
+- pkg:maven/io.cloudslang/score-node-impl@0.3.280
+- pkg:maven/io.cloudslang/score-node-impl@0.3.280?classifier=sources
 - pkg:maven/io.cloudslang/score-node-impl@0.3.28?classifier=sources
 - pkg:maven/io.cloudslang/score-node-impl@0.3.29
 - pkg:maven/io.cloudslang/score-node-impl@0.3.29?classifier=sources

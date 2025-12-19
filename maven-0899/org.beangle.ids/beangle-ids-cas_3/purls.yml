@@ -16,3 +16,9 @@
 - pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.2.28?classifier=sources
 - pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.0
 - pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.0?classifier=sources
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.1
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.1?classifier=sources
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.2
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.2?classifier=sources
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.3
+- pkg:maven/org.beangle.ids/beangle-ids-cas_3@0.3.3?classifier=sources

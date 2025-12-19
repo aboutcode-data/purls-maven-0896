@@ -10,3 +10,5 @@
 - pkg:maven/com.wuyushuo/theme-boxes@1.9.8?classifier=sources
 - pkg:maven/com.wuyushuo/theme-boxes@1.9.9
 - pkg:maven/com.wuyushuo/theme-boxes@1.9.9?classifier=sources
+- pkg:maven/com.wuyushuo/theme-boxes@2.0.0
+- pkg:maven/com.wuyushuo/theme-boxes@2.0.0?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-binary-macosx64-jvm@0.4.6.10?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-binary-macosx64-jvm@0.4.6.9?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-binary-macosx64-jvm@0.4.7.10?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-binary-macosx64-jvm@0.4.7.7?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-binary-macosx64-jvm@0.4.7.8?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/kmp-tor-binary-macosx64-jvm@4.7.10-1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.goyeau/mill-git_mill0.10_2.13@0.2.3
 - pkg:maven/com.goyeau/mill-git_mill0.10_2.13@0.2.3?classifier=sources
+- pkg:maven/com.goyeau/mill-git_mill0.10_2.13@0.2.4
+- pkg:maven/com.goyeau/mill-git_mill0.10_2.13@0.2.4?classifier=sources

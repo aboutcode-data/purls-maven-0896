@@ -14,3 +14,7 @@
 - pkg:maven/de.osshangar/java-plugin-framework@3.7?classifier=sources
 - pkg:maven/de.osshangar/java-plugin-framework@3.8
 - pkg:maven/de.osshangar/java-plugin-framework@3.8?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@4.0
+- pkg:maven/de.osshangar/java-plugin-framework@4.0?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@4.1
+- pkg:maven/de.osshangar/java-plugin-framework@4.1?classifier=sources

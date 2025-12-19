@@ -7,3 +7,5 @@
 - pkg:maven/org.danbrough/klog-linuxarm32hfp@0.0.1-beta05?classifier=sources
 - pkg:maven/org.danbrough/klog-linuxarm32hfp@0.0.1-beta06?classifier=sources
 - pkg:maven/org.danbrough/klog-linuxarm32hfp@0.0.1-beta07?classifier=sources
+- pkg:maven/org.danbrough/klog-linuxarm32hfp@0.0.1-beta08?classifier=sources
+- pkg:maven/org.danbrough/klog-linuxarm32hfp@0.0.1?classifier=sources

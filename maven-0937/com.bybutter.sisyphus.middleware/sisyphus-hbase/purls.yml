@@ -76,3 +76,4 @@
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-hbase@1.4.11?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-hbase@1.5.0?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-hbase@1.5.11?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-hbase@1.5.20?classifier=sources

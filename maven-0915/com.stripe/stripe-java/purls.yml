@@ -754,6 +754,12 @@
 - pkg:maven/com.stripe/stripe-java@21.0.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@21.1.0-beta.1?classifier=sources
 - pkg:maven/com.stripe/stripe-java@21.1.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@21.10.0-beta.1?classifier=sources
+- pkg:maven/com.stripe/stripe-java@21.10.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@21.11.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@21.12.0-beta.1?classifier=sources
+- pkg:maven/com.stripe/stripe-java@21.12.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@21.13.0-beta.1?classifier=sources
 - pkg:maven/com.stripe/stripe-java@21.2.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@21.3.0-beta.1?classifier=sources
 - pkg:maven/com.stripe/stripe-java@21.3.0-beta.2?classifier=sources
@@ -764,6 +770,7 @@
 - pkg:maven/com.stripe/stripe-java@21.6.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@21.7.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@21.8.0?classifier=sources
+- pkg:maven/com.stripe/stripe-java@21.9.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@3.0.0
 - pkg:maven/com.stripe/stripe-java@3.0.0?classifier=sources
 - pkg:maven/com.stripe/stripe-java@3.1.0

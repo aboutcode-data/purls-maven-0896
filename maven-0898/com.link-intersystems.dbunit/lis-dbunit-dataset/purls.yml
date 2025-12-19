@@ -16,3 +16,5 @@
 - pkg:maven/com.link-intersystems.dbunit/lis-dbunit-dataset@1.1.0?classifier=sources
 - pkg:maven/com.link-intersystems.dbunit/lis-dbunit-dataset@1.1.1
 - pkg:maven/com.link-intersystems.dbunit/lis-dbunit-dataset@1.1.1?classifier=sources
+- pkg:maven/com.link-intersystems.dbunit/lis-dbunit-dataset@1.2.0
+- pkg:maven/com.link-intersystems.dbunit/lis-dbunit-dataset@1.2.0?classifier=sources

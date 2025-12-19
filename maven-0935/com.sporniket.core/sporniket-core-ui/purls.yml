@@ -20,3 +20,5 @@
 - pkg:maven/com.sporniket.core/sporniket-core-ui@19.04.00?classifier=sources
 - pkg:maven/com.sporniket.core/sporniket-core-ui@22.09.00
 - pkg:maven/com.sporniket.core/sporniket-core-ui@22.09.00?classifier=sources
+- pkg:maven/com.sporniket.core/sporniket-core-ui@22.09.01
+- pkg:maven/com.sporniket.core/sporniket-core-ui@22.09.01?classifier=sources
