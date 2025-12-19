@@ -6,3 +6,5 @@
 - pkg:maven/org.ops4j.pax.web.samples/war-spring-wired@8.0.2?type=war
 - pkg:maven/org.ops4j.pax.web.samples/war-spring-wired@8.0.3?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/war-spring-wired@8.0.3?type=war
+- pkg:maven/org.ops4j.pax.web.samples/war-spring-wired@8.0.4?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/war-spring-wired@8.0.4?type=war

@@ -58,3 +58,12 @@
 - pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.44.1?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.44.2?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.44.3?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.44.4?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.44.5?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.44.6?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.45.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.46.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.47.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.47.1?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.47.2?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/commonmp-jvm@0.48.2?classifier=sources

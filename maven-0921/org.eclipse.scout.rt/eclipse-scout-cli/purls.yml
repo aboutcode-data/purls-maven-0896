@@ -51,4 +51,8 @@
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.0-beta.10
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.0-beta.5
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.1
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.10
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.11
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.12
+- pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.15
 - pkg:maven/org.eclipse.scout.rt/eclipse-scout-cli@22.0.2

@@ -234,3 +234,5 @@
 - pkg:maven/io.split.client/java-client@4.4.3-rc3
 - pkg:maven/io.split.client/java-client@4.4.3-rc3?classifier=sources
 - pkg:maven/io.split.client/java-client@4.4.3?classifier=sources
+- pkg:maven/io.split.client/java-client@4.4.4
+- pkg:maven/io.split.client/java-client@4.4.4?classifier=sources

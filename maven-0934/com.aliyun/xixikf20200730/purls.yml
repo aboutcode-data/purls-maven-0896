@@ -18,3 +18,7 @@
 - pkg:maven/com.aliyun/xixikf20200730@1.0.9?classifier=sources
 - pkg:maven/com.aliyun/xixikf20200730@1.1.0
 - pkg:maven/com.aliyun/xixikf20200730@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/xixikf20200730@1.1.1
+- pkg:maven/com.aliyun/xixikf20200730@1.1.1?classifier=sources
+- pkg:maven/com.aliyun/xixikf20200730@1.1.2
+- pkg:maven/com.aliyun/xixikf20200730@1.1.2?classifier=sources

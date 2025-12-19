@@ -7,6 +7,10 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.0.alpha2?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.0?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.1
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.10
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.10?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.11
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.11?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.2
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@10.0.2?classifier=sources
@@ -27,6 +31,10 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.0
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.0?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.1
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.10
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.10?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.11
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.11?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.2
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@11.0.2?classifier=sources
@@ -380,6 +388,10 @@
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.45.v20220203?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.46.v20220331
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.46.v20220331?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.47.v20220610
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.47.v20220610?classifier=sources
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.48.v20220622
+- pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.48.v20220622?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.5.v20170502
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.5.v20170502?classifier=sources
 - pkg:maven/org.eclipse.jetty.websocket/websocket-servlet@9.4.5.v20180619

@@ -1,0 +1,2 @@
+- pkg:maven/io.prometheus.jmx/jmx_prometheus_httpserver_common@0.17.0
+- pkg:maven/io.prometheus.jmx/jmx_prometheus_httpserver_common@0.17.0?classifier=sources

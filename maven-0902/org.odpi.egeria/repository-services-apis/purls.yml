@@ -62,3 +62,5 @@
 - pkg:maven/org.odpi.egeria/repository-services-apis@3.7?classifier=sources
 - pkg:maven/org.odpi.egeria/repository-services-apis@3.8
 - pkg:maven/org.odpi.egeria/repository-services-apis@3.8?classifier=sources
+- pkg:maven/org.odpi.egeria/repository-services-apis@3.9
+- pkg:maven/org.odpi.egeria/repository-services-apis@3.9?classifier=sources

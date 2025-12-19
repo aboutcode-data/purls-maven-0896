@@ -1,4 +1,6 @@
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-docs@1.2
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-docs@2.0
+- pkg:maven/io.bootique.jdbc/bootique-jdbc-docs@2.0.1
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-docs@2.0.B1
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-docs@2.0.M1
 - pkg:maven/io.bootique.jdbc/bootique-jdbc-docs@2.0.RC1

@@ -120,3 +120,5 @@
 - pkg:maven/org.clulab/processors-corenlp_2.11@8.4.9?classifier=sources
 - pkg:maven/org.clulab/processors-corenlp_2.11@8.5.0
 - pkg:maven/org.clulab/processors-corenlp_2.11@8.5.0?classifier=sources
+- pkg:maven/org.clulab/processors-corenlp_2.11@8.5.1
+- pkg:maven/org.clulab/processors-corenlp_2.11@8.5.1?classifier=sources

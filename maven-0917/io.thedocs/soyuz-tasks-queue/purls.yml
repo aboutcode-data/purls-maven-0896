@@ -1,0 +1,2 @@
+- pkg:maven/io.thedocs/soyuz-tasks-queue@0.0.2
+- pkg:maven/io.thedocs/soyuz-tasks-queue@0.0.2?classifier=sources

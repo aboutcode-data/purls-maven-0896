@@ -28,6 +28,12 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.20.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.21.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.21.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.22.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.22.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.22.1.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.22.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.23.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.23.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.4.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.4.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-quarkus-predictions-integration-test@1.4.1.Final

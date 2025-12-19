@@ -1,2 +1,4 @@
 - pkg:maven/org.tango-controls/integration-tests@9.6.8
 - pkg:maven/org.tango-controls/integration-tests@9.6.8?classifier=sources
+- pkg:maven/org.tango-controls/integration-tests@9.7.0
+- pkg:maven/org.tango-controls/integration-tests@9.7.0?classifier=sources

@@ -106,3 +106,11 @@
 - pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@2.2.2?classifier=sources
 - pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.0
 - pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.0?classifier=sources
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.1
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.1?classifier=sources
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.2
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.2?classifier=sources
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.3
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.3?classifier=sources
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.4
+- pkg:maven/org.refcodes/refcodes-graphical-ext-javafx@3.0.4?classifier=sources

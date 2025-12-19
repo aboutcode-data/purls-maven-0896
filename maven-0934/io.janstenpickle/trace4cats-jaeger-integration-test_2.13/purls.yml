@@ -25,4 +25,6 @@
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-integration-test_2.13@0.13.0
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-integration-test_2.13@0.13.0?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-integration-test_2.13@0.13.1
+- pkg:maven/io.janstenpickle/trace4cats-jaeger-integration-test_2.13@0.13.1%2B17-8394f0da
+- pkg:maven/io.janstenpickle/trace4cats-jaeger-integration-test_2.13@0.13.1%2B17-8394f0da?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-integration-test_2.13@0.13.1?classifier=sources

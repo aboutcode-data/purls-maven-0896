@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-google-cloud@2.10.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-support-google-cloud@2.10.0?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@8.7.3?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@8.7.4
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@8.7.4?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-smp-datatypes@8.7.5
+- pkg:maven/com.helger.peppol/peppol-smp-datatypes@8.7.5?classifier=sources

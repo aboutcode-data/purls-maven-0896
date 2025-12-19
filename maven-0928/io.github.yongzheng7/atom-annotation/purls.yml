@@ -1,2 +1,10 @@
+- pkg:maven/io.github.yongzheng7/atom-annotation@1.0
 - pkg:maven/io.github.yongzheng7/atom-annotation@1.0.0
 - pkg:maven/io.github.yongzheng7/atom-annotation@1.0.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/atom-annotation@1.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/atom-annotation@3.0.0
+- pkg:maven/io.github.yongzheng7/atom-annotation@3.0.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/atom-annotation@4.0.0
+- pkg:maven/io.github.yongzheng7/atom-annotation@4.0.0?classifier=sources
+- pkg:maven/io.github.yongzheng7/atom-annotation@5.0.0
+- pkg:maven/io.github.yongzheng7/atom-annotation@5.0.0?classifier=sources

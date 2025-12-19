@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE90?classifier=sources

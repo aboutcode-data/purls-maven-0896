@@ -64,6 +64,8 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.33?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.34
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.34?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.35
+- pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.35?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.3?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.4
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.13.4?classifier=sources
@@ -114,6 +116,8 @@
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.24?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.25
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.25?classifier=sources
+- pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.26
+- pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.26?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.2?classifier=sources
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.3
 - pkg:maven/org.gosu-lang.gosu/gosu-test-api@1.14.3?classifier=sources

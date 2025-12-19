@@ -8,3 +8,5 @@
 - pkg:maven/no.priv.bang.osgi.service.adapters/adapters.jdbc@1.1.3?classifier=sources
 - pkg:maven/no.priv.bang.osgi.service.adapters/adapters.jdbc@1.1.4
 - pkg:maven/no.priv.bang.osgi.service.adapters/adapters.jdbc@1.1.4?classifier=sources
+- pkg:maven/no.priv.bang.osgi.service.adapters/adapters.jdbc@1.2.0
+- pkg:maven/no.priv.bang.osgi.service.adapters/adapters.jdbc@1.2.0?classifier=sources

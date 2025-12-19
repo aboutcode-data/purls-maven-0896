@@ -40,3 +40,5 @@
 - pkg:maven/com.velocidi/apso-collections_2.13@0.18.2?classifier=sources
 - pkg:maven/com.velocidi/apso-collections_2.13@0.18.3
 - pkg:maven/com.velocidi/apso-collections_2.13@0.18.3?classifier=sources
+- pkg:maven/com.velocidi/apso-collections_2.13@0.18.4
+- pkg:maven/com.velocidi/apso-collections_2.13@0.18.4?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/io.github.devsecops-zone/core-rest@1.2.0?classifier=sources
 - pkg:maven/io.github.devsecops-zone/core-rest@2.0.0
 - pkg:maven/io.github.devsecops-zone/core-rest@2.0.0?classifier=sources
+- pkg:maven/io.github.devsecops-zone/core-rest@3.0.0
+- pkg:maven/io.github.devsecops-zone/core-rest@3.0.0?classifier=sources
+- pkg:maven/io.github.devsecops-zone/core-rest@3.4.0
+- pkg:maven/io.github.devsecops-zone/core-rest@3.4.0?classifier=sources

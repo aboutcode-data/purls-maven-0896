@@ -6,6 +6,8 @@
 - pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M12?classifier=sources
 - pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M13
 - pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M13?classifier=sources
+- pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M14
+- pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M14?classifier=sources
 - pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M7
 - pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M7?classifier=sources
 - pkg:maven/com.github.alexarchambault/case-app-cats-effect-2_sjs1_2.13@2.1.0-M8

@@ -26,3 +26,5 @@
 - pkg:maven/org.odpi.egeria/database-integrator-client@3.7?classifier=sources
 - pkg:maven/org.odpi.egeria/database-integrator-client@3.8
 - pkg:maven/org.odpi.egeria/database-integrator-client@3.8?classifier=sources
+- pkg:maven/org.odpi.egeria/database-integrator-client@3.9
+- pkg:maven/org.odpi.egeria/database-integrator-client@3.9?classifier=sources

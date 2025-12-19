@@ -1,1 +1,2 @@
 - pkg:maven/com.aallam.openai/openai-core-macosx64@1.1.0?classifier=sources
+- pkg:maven/com.aallam.openai/openai-core-macosx64@1.2.0?classifier=sources

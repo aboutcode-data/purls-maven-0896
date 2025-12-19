@@ -6,3 +6,5 @@
 - pkg:maven/group.idealworld.dew/test-starter@3.0.0-Beta2?classifier=sources
 - pkg:maven/group.idealworld.dew/test-starter@3.0.0-Beta3
 - pkg:maven/group.idealworld.dew/test-starter@3.0.0-Beta3?classifier=sources
+- pkg:maven/group.idealworld.dew/test-starter@3.0.0-Beta4
+- pkg:maven/group.idealworld.dew/test-starter@3.0.0-Beta4?classifier=sources

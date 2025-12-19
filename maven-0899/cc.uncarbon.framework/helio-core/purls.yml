@@ -6,3 +6,5 @@
 - pkg:maven/cc.uncarbon.framework/helio-core@1.4.0?classifier=sources
 - pkg:maven/cc.uncarbon.framework/helio-core@1.5.0
 - pkg:maven/cc.uncarbon.framework/helio-core@1.5.0?classifier=sources
+- pkg:maven/cc.uncarbon.framework/helio-core@1.5.1
+- pkg:maven/cc.uncarbon.framework/helio-core@1.5.1?classifier=sources

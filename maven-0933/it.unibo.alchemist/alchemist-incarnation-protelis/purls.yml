@@ -78,6 +78,15 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@18.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@18.0.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@18.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@18.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.0.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.0.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.0.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.1.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.1.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@19.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@2.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@2.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@2.1.0
@@ -86,6 +95,11 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@2.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@2.2.1
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@2.2.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@20.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@20.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@21.0.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@21.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@21.0.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@3.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@3.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@4.0.0

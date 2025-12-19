@@ -82,3 +82,7 @@
 - pkg:maven/org.jbpm/jbpm-db-scripts@7.68.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-db-scripts@7.69.0.Final
 - pkg:maven/org.jbpm/jbpm-db-scripts@7.69.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-db-scripts@7.70.0.Final
+- pkg:maven/org.jbpm/jbpm-db-scripts@7.70.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-db-scripts@7.71.0.Final
+- pkg:maven/org.jbpm/jbpm-db-scripts@7.71.0.Final?classifier=sources

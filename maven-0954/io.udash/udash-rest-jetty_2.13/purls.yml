@@ -51,6 +51,12 @@
 - pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M32?classifier=sources
 - pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M33
 - pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M33?classifier=sources
+- pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M34
+- pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M34?classifier=sources
+- pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M35
+- pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M35?classifier=sources
+- pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M36
+- pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M36?classifier=sources
 - pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M3?classifier=sources
 - pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M4
 - pkg:maven/io.udash/udash-rest-jetty_2.13@0.9.0-M4?classifier=sources

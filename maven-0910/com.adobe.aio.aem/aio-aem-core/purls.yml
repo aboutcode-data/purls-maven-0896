@@ -20,3 +20,7 @@
 - pkg:maven/com.adobe.aio.aem/aio-aem-core@0.0.40?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-core@0.0.42
 - pkg:maven/com.adobe.aio.aem/aio-aem-core@0.0.42?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@0.0.44
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@0.0.44?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@0.0.46
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@0.0.46?classifier=sources

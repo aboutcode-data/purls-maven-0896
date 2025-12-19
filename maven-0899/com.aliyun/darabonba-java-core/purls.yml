@@ -22,3 +22,5 @@
 - pkg:maven/com.aliyun/darabonba-java-core@0.1.3-beta?classifier=sources
 - pkg:maven/com.aliyun/darabonba-java-core@0.1.4-beta
 - pkg:maven/com.aliyun/darabonba-java-core@0.1.4-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.1.5-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.1.5-beta?classifier=sources

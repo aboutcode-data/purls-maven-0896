@@ -128,3 +128,5 @@
 - pkg:maven/com.github.damianwajser/spring-commons-rest-templates@1.28.2?classifier=sources
 - pkg:maven/com.github.damianwajser/spring-commons-rest-templates@1.28.3
 - pkg:maven/com.github.damianwajser/spring-commons-rest-templates@1.28.3?classifier=sources
+- pkg:maven/com.github.damianwajser/spring-commons-rest-templates@1.28.4
+- pkg:maven/com.github.damianwajser/spring-commons-rest-templates@1.28.4?classifier=sources

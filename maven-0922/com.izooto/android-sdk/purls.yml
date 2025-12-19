@@ -46,5 +46,9 @@
 - pkg:maven/com.izooto/android-sdk@1.4.4.1?type=aar
 - pkg:maven/com.izooto/android-sdk@1.4.4.2?classifier=sources
 - pkg:maven/com.izooto/android-sdk@1.4.4.2?type=aar
+- pkg:maven/com.izooto/android-sdk@1.4.4.3?classifier=sources
+- pkg:maven/com.izooto/android-sdk@1.4.4.3?type=aar
+- pkg:maven/com.izooto/android-sdk@1.4.4.4?classifier=sources
+- pkg:maven/com.izooto/android-sdk@1.4.4.4?type=aar
 - pkg:maven/com.izooto/android-sdk@1.4.4?classifier=sources
 - pkg:maven/com.izooto/android-sdk@1.4.4?type=aar

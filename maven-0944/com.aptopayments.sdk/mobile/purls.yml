@@ -8,5 +8,7 @@
 - pkg:maven/com.aptopayments.sdk/mobile@3.16.0?classifier=sources
 - pkg:maven/com.aptopayments.sdk/mobile@3.17.0?classifier=sources
 - pkg:maven/com.aptopayments.sdk/mobile@3.17.2?classifier=sources
+- pkg:maven/com.aptopayments.sdk/mobile@3.19.0?classifier=sources
+- pkg:maven/com.aptopayments.sdk/mobile@3.20.0?classifier=sources
 - pkg:maven/com.aptopayments.sdk/mobile@3.9.0?classifier=sources
 - pkg:maven/com.aptopayments.sdk/mobile@3.9.1?classifier=sources

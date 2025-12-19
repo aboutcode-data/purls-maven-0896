@@ -45,4 +45,6 @@
 - pkg:maven/org.ibissource/ibis-adapterframework-larva@7.7-RC1?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-larva@7.7-RC2
 - pkg:maven/org.ibissource/ibis-adapterframework-larva@7.7-RC2?classifier=sources
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.7.1
+- pkg:maven/org.ibissource/ibis-adapterframework-larva@7.7.1?classifier=sources
 - pkg:maven/org.ibissource/ibis-adapterframework-larva@7.7?classifier=sources

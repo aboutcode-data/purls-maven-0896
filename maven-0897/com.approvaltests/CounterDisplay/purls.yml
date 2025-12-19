@@ -90,6 +90,12 @@
 - pkg:maven/com.approvaltests/CounterDisplay@15.4.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@15.5.0
 - pkg:maven/com.approvaltests/CounterDisplay@15.5.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@15.6.0
+- pkg:maven/com.approvaltests/CounterDisplay@15.6.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@15.7.0
+- pkg:maven/com.approvaltests/CounterDisplay@15.7.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@15.8.0
+- pkg:maven/com.approvaltests/CounterDisplay@15.8.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@2.0.0
 - pkg:maven/com.approvaltests/CounterDisplay@2.0.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@2.0.1

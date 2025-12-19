@@ -62,3 +62,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-dart@6.44.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-dart@6.45.0
 - pkg:maven/net.sourceforge.pmd/pmd-dart@6.45.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.46.0
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.46.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.47.0
+- pkg:maven/net.sourceforge.pmd/pmd-dart@6.47.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/com.aoindustries/aoserv-schema-book@1.89.0?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-schema-book@1.90.0
 - pkg:maven/com.aoindustries/aoserv-schema-book@1.90.0?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-schema-book@1.91.0
+- pkg:maven/com.aoindustries/aoserv-schema-book@1.91.0?classifier=sources

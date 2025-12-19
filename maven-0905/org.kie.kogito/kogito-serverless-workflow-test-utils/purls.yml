@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-test-utils@1.23.0.Final
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-test-utils@1.23.0.Final?classifier=sources

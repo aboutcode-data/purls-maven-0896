@@ -58,3 +58,7 @@
 - pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.3.Beta1
 - pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.3.Beta1?classifier=sources
 - pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.3?classifier=sources
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.4
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.4.Beta1
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.4.Beta1?classifier=sources
+- pkg:maven/me.snowdrop/narayana-spring-boot-core@2.6.4?classifier=sources

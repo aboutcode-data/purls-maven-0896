@@ -10,3 +10,6 @@
 - pkg:maven/tech.kronicle/kronicle-plugin-test-utils@0.1.249?classifier=sources
 - pkg:maven/tech.kronicle/kronicle-plugin-test-utils@0.1.250?classifier=sources
 - pkg:maven/tech.kronicle/kronicle-plugin-test-utils@0.1.254?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-plugin-test-utils@0.1.290?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-plugin-test-utils@0.1.295?classifier=sources
+- pkg:maven/tech.kronicle/kronicle-plugin-test-utils@0.1.302?classifier=sources

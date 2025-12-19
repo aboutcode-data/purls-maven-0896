@@ -106,6 +106,8 @@
 - pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.17.0?classifier=sources
 - pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.18.0-alpha1
 - pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.18.0-alpha1?classifier=sources
+- pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.18.0-alpha2
+- pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.18.0-alpha2?classifier=sources
 - pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.2.0
 - pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.2.0-alpha1
 - pkg:maven/org.camunda.bpm.identity/camunda-identity-ldap@7.2.0-alpha1?classifier=sources

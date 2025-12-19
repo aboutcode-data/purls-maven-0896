@@ -42,3 +42,5 @@
 - pkg:maven/org.odpi.egeria/data-manager-topic-connectors@3.7?classifier=sources
 - pkg:maven/org.odpi.egeria/data-manager-topic-connectors@3.8
 - pkg:maven/org.odpi.egeria/data-manager-topic-connectors@3.8?classifier=sources
+- pkg:maven/org.odpi.egeria/data-manager-topic-connectors@3.9
+- pkg:maven/org.odpi.egeria/data-manager-topic-connectors@3.9?classifier=sources

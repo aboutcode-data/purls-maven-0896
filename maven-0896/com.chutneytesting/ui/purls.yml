@@ -40,3 +40,5 @@
 - pkg:maven/com.chutneytesting/ui@1.4.7?classifier=sources
 - pkg:maven/com.chutneytesting/ui@1.4.8
 - pkg:maven/com.chutneytesting/ui@1.4.8?classifier=sources
+- pkg:maven/com.chutneytesting/ui@1.4.9
+- pkg:maven/com.chutneytesting/ui@1.4.9?classifier=sources

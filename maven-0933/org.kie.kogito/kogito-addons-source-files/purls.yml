@@ -1,0 +1,6 @@
+- pkg:maven/org.kie.kogito/kogito-addons-source-files@1.22.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-source-files@1.22.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-source-files@1.22.1.Final
+- pkg:maven/org.kie.kogito/kogito-addons-source-files@1.22.1.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-addons-source-files@1.23.0.Final
+- pkg:maven/org.kie.kogito/kogito-addons-source-files@1.23.0.Final?classifier=sources

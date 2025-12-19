@@ -2,3 +2,5 @@
 - pkg:maven/ru.sber.platformv.faas/faas-sdk-api@1.0.0-rc.7
 - pkg:maven/ru.sber.platformv.faas/faas-sdk-api@1.0.0-rc.7?classifier=sources
 - pkg:maven/ru.sber.platformv.faas/faas-sdk-api@1.0.0?classifier=sources
+- pkg:maven/ru.sber.platformv.faas/faas-sdk-api@1.0.1
+- pkg:maven/ru.sber.platformv.faas/faas-sdk-api@1.0.1?classifier=sources

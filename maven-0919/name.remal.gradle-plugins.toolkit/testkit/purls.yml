@@ -1,4 +1,9 @@
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.10.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.11.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.12.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.13.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.14.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.15.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.2.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.3.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.4.0?classifier=sources

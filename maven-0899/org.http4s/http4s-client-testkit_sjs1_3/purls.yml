@@ -1,0 +1,6 @@
+- pkg:maven/org.http4s/http4s-client-testkit_sjs1_3@0.23.12
+- pkg:maven/org.http4s/http4s-client-testkit_sjs1_3@0.23.12?classifier=sources
+- pkg:maven/org.http4s/http4s-client-testkit_sjs1_3@0.23.13
+- pkg:maven/org.http4s/http4s-client-testkit_sjs1_3@0.23.13?classifier=sources
+- pkg:maven/org.http4s/http4s-client-testkit_sjs1_3@1.0.0-M33
+- pkg:maven/org.http4s/http4s-client-testkit_sjs1_3@1.0.0-M33?classifier=sources

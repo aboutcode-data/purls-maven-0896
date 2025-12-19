@@ -12,3 +12,7 @@
 - pkg:maven/com.link-intersystems.commons/lis-commons-events@1.4.2?classifier=sources
 - pkg:maven/com.link-intersystems.commons/lis-commons-events@1.4.3
 - pkg:maven/com.link-intersystems.commons/lis-commons-events@1.4.3?classifier=sources
+- pkg:maven/com.link-intersystems.commons/lis-commons-events@1.5.0
+- pkg:maven/com.link-intersystems.commons/lis-commons-events@1.5.0?classifier=sources
+- pkg:maven/com.link-intersystems.commons/lis-commons-events@1.5.1
+- pkg:maven/com.link-intersystems.commons/lis-commons-events@1.5.1?classifier=sources

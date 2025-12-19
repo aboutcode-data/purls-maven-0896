@@ -3,3 +3,4 @@
 - pkg:maven/com.amazon.alexa.aace/messaging@3.2?classifier=sources
 - pkg:maven/com.amazon.alexa.aace/messaging@3.3?classifier=sources
 - pkg:maven/com.amazon.alexa.aace/messaging@4.0?classifier=sources
+- pkg:maven/com.amazon.alexa.aace/messaging@4.1?classifier=sources

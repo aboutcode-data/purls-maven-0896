@@ -1,0 +1,2 @@
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-m1_2.12@4.0.0
+- pkg:maven/com.johnsnowlabs.nlp/spark-nlp-m1_2.12@4.0.0?classifier=sources

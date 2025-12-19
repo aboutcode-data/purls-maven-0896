@@ -36,3 +36,4 @@
 - pkg:maven/org.jgroups/jgroups-raft@1.0.7.Final?classifier=sources
 - pkg:maven/org.jgroups/jgroups-raft@1.0.8.Final
 - pkg:maven/org.jgroups/jgroups-raft@1.0.8.Final?classifier=sources
+- pkg:maven/org.jgroups/jgroups-raft@1.0.9.Final?classifier=sources

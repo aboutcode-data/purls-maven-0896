@@ -37,4 +37,6 @@
 - pkg:maven/org.dishevelled/dsh-bio-adam@2.0.7?classifier=sources
 - pkg:maven/org.dishevelled/dsh-bio-adam@2.0.8
 - pkg:maven/org.dishevelled/dsh-bio-adam@2.0.8?classifier=sources
+- pkg:maven/org.dishevelled/dsh-bio-adam@2.0.9
+- pkg:maven/org.dishevelled/dsh-bio-adam@2.0.9?classifier=sources
 - pkg:maven/org.dishevelled/dsh-bio-adam@2.0?classifier=sources

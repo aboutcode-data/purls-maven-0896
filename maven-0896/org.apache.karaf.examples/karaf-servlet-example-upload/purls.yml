@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.14?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.15
 - pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.15?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.16
+- pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.16?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.8
 - pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.8?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-servlet-example-upload@4.2.9

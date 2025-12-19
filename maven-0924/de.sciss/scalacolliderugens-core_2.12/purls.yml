@@ -40,3 +40,5 @@
 - pkg:maven/de.sciss/scalacolliderugens-core_2.12@1.21.2?classifier=sources
 - pkg:maven/de.sciss/scalacolliderugens-core_2.12@1.21.3
 - pkg:maven/de.sciss/scalacolliderugens-core_2.12@1.21.3?classifier=sources
+- pkg:maven/de.sciss/scalacolliderugens-core_2.12@1.21.4
+- pkg:maven/de.sciss/scalacolliderugens-core_2.12@1.21.4?classifier=sources

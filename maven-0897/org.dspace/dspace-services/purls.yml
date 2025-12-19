@@ -114,3 +114,5 @@
 - pkg:maven/org.dspace/dspace-services@7.2.1
 - pkg:maven/org.dspace/dspace-services@7.2.1?classifier=sources
 - pkg:maven/org.dspace/dspace-services@7.2?classifier=sources
+- pkg:maven/org.dspace/dspace-services@7.3
+- pkg:maven/org.dspace/dspace-services@7.3?classifier=sources

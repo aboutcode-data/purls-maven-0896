@@ -8,3 +8,5 @@
 - pkg:maven/io.github.merseyside/utils-core-iosx64@1.4.6?classifier=sources
 - pkg:maven/io.github.merseyside/utils-core-iosx64@1.4.7?classifier=sources
 - pkg:maven/io.github.merseyside/utils-core-iosx64@1.4.8?classifier=sources
+- pkg:maven/io.github.merseyside/utils-core-iosx64@1.4.9?classifier=sources
+- pkg:maven/io.github.merseyside/utils-core-iosx64@1.5.0?classifier=sources

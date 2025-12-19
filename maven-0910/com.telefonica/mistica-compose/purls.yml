@@ -15,3 +15,5 @@
 - pkg:maven/com.telefonica/mistica-compose@4.2.1?classifier=sources
 - pkg:maven/com.telefonica/mistica-compose@4.3.0?classifier=sources
 - pkg:maven/com.telefonica/mistica-compose@5.0.0?classifier=sources
+- pkg:maven/com.telefonica/mistica-compose@5.0.1?classifier=sources
+- pkg:maven/com.telefonica/mistica-compose@5.1.0?classifier=sources

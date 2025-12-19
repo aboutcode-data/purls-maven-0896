@@ -6,3 +6,5 @@
 - pkg:maven/org.tentackle/tentackle-script-truffle@8.2.8.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-truffle@8.3.0.0
 - pkg:maven/org.tentackle/tentackle-script-truffle@8.3.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-truffle@8.3.0.1
+- pkg:maven/org.tentackle/tentackle-script-truffle@8.3.0.1?classifier=sources

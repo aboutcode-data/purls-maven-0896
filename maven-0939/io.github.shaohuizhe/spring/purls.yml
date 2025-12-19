@@ -178,3 +178,7 @@
 - pkg:maven/io.github.shaohuizhe/spring@4.0?classifier=sources
 - pkg:maven/io.github.shaohuizhe/spring@5.0
 - pkg:maven/io.github.shaohuizhe/spring@5.0?classifier=sources
+- pkg:maven/io.github.shaohuizhe/spring@8.0
+- pkg:maven/io.github.shaohuizhe/spring@8.0?classifier=sources
+- pkg:maven/io.github.shaohuizhe/spring@8.1
+- pkg:maven/io.github.shaohuizhe/spring@8.1?classifier=sources

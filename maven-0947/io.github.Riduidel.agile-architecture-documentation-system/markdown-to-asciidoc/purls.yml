@@ -2,3 +2,5 @@
 - pkg:maven/io.github.Riduidel.agile-architecture-documentation-system/markdown-to-asciidoc@0.0.10?classifier=sources
 - pkg:maven/io.github.Riduidel.agile-architecture-documentation-system/markdown-to-asciidoc@0.0.11
 - pkg:maven/io.github.Riduidel.agile-architecture-documentation-system/markdown-to-asciidoc@0.0.11?classifier=sources
+- pkg:maven/io.github.Riduidel.agile-architecture-documentation-system/markdown-to-asciidoc@0.1.0
+- pkg:maven/io.github.Riduidel.agile-architecture-documentation-system/markdown-to-asciidoc@0.1.0?classifier=sources

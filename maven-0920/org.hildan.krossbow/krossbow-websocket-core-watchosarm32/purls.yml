@@ -4,3 +4,10 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@3.3.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@3.3.1?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@3.4.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@3.5.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@3.6.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@3.7.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@3.8.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@4.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@4.0.1?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosarm32@4.0.2?classifier=sources

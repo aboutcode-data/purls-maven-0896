@@ -28,3 +28,5 @@
 - pkg:maven/com.kohlschutter.junixsocket/junixsocket-demo@2.3.4?classifier=sources
 - pkg:maven/com.kohlschutter.junixsocket/junixsocket-demo@2.4.0
 - pkg:maven/com.kohlschutter.junixsocket/junixsocket-demo@2.4.0?classifier=sources
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-demo@2.5.0
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-demo@2.5.0?classifier=sources

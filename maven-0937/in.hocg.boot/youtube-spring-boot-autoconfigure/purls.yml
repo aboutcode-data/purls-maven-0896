@@ -58,6 +58,10 @@
 - pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.42?classifier=sources
 - pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.43
 - pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.43?classifier=sources
+- pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.44
+- pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.44?classifier=sources
+- pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.45
+- pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.45?classifier=sources
 - pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.6
 - pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.6?classifier=sources
 - pkg:maven/in.hocg.boot/youtube-spring-boot-autoconfigure@1.0.7

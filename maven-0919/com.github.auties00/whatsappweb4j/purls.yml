@@ -30,3 +30,13 @@
 - pkg:maven/com.github.auties00/whatsappweb4j@2.2.7
 - pkg:maven/com.github.auties00/whatsappweb4j@2.2.7?classifier=sources
 - pkg:maven/com.github.auties00/whatsappweb4j@2.2?classifier=sources
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC1
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC1?classifier=sources
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC2
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC2?classifier=sources
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC5
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC5?classifier=sources
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC6
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC6?classifier=sources
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC7
+- pkg:maven/com.github.auties00/whatsappweb4j@3.0-RC7?classifier=sources

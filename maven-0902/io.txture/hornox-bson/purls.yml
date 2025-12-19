@@ -1,1 +1,2 @@
 - pkg:maven/io.txture/hornox-bson@1.0?classifier=sources
+- pkg:maven/io.txture/hornox-bson@1.1?classifier=sources

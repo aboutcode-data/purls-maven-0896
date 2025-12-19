@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE140?classifier=sources

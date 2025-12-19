@@ -6,5 +6,7 @@
 - pkg:maven/com.epam.deltix/SdmxDataParser@1.6.19?classifier=sources
 - pkg:maven/com.epam.deltix/SdmxDataParser@1.6.20?classifier=sources
 - pkg:maven/com.epam.deltix/SdmxDataParser@1.6.21?classifier=sources
+- pkg:maven/com.epam.deltix/SdmxDataParser@1.6.22?classifier=sources
+- pkg:maven/com.epam.deltix/SdmxDataParser@1.6.23?classifier=sources
 - pkg:maven/com.epam.deltix/SdmxDataParser@1.6.8?classifier=sources
 - pkg:maven/com.epam.deltix/SdmxDataParser@1.6.9?classifier=sources

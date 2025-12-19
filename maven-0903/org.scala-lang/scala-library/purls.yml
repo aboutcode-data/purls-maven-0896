@@ -153,6 +153,8 @@
 - pkg:maven/org.scala-lang/scala-library@2.12.14?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.12.15
 - pkg:maven/org.scala-lang/scala-library@2.12.15?classifier=sources
+- pkg:maven/org.scala-lang/scala-library@2.12.16
+- pkg:maven/org.scala-lang/scala-library@2.12.16?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.12.1?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.12.2
 - pkg:maven/org.scala-lang/scala-library@2.12.2?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.openurp.std/openurp-std-api@0.25.0?classifier=sources
 - pkg:maven/org.openurp.std/openurp-std-api@0.25.1
 - pkg:maven/org.openurp.std/openurp-std-api@0.25.1?classifier=sources
+- pkg:maven/org.openurp.std/openurp-std-api@0.26.0
+- pkg:maven/org.openurp.std/openurp-std-api@0.26.0?classifier=sources

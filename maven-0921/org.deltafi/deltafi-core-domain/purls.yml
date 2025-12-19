@@ -1,6 +1,12 @@
+- pkg:maven/org.deltafi/deltafi-core-domain@0.0.3?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.0.42?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.0.43?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.0.44?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.0.7?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.0.8?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.0.9?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.21.4?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.95.0?classifier=sources
 - pkg:maven/org.deltafi/deltafi-core-domain@0.95.2?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.95.3?classifier=sources
+- pkg:maven/org.deltafi/deltafi-core-domain@0.95.4?classifier=sources

@@ -390,3 +390,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-jsp@8.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.web/pax-web-jsp@8.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-jsp@8.0.3?classifier=sources
+- pkg:maven/org.ops4j.pax.web/pax-web-jsp@8.0.4
+- pkg:maven/org.ops4j.pax.web/pax-web-jsp@8.0.4?classifier=sources

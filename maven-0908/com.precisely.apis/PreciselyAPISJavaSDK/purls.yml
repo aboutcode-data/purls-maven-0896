@@ -6,3 +6,7 @@
 - pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.1?classifier=sources
 - pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.2
 - pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.2?classifier=sources
+- pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.3
+- pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.3.1
+- pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.3.1?classifier=sources
+- pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.3?classifier=sources

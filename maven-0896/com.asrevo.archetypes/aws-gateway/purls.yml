@@ -1,0 +1,2 @@
+- pkg:maven/com.asrevo.archetypes/aws-gateway@0.0.2?classifier=sources
+- pkg:maven/com.asrevo.archetypes/aws-gateway@0.0.3?classifier=sources

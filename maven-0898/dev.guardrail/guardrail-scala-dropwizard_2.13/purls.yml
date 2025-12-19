@@ -14,3 +14,9 @@
 - pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.68.0?classifier=sources
 - pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.69.0
 - pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.69.0?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.70.0
+- pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.70.0?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.70.1
+- pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.70.1?classifier=sources
+- pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.71.0
+- pkg:maven/dev.guardrail/guardrail-scala-dropwizard_2.13@0.71.0?classifier=sources

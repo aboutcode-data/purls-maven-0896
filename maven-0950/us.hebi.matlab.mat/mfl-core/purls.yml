@@ -15,4 +15,6 @@
 - pkg:maven/us.hebi.matlab.mat/mfl-core@0.5.7?classifier=sources
 - pkg:maven/us.hebi.matlab.mat/mfl-core@0.5.8
 - pkg:maven/us.hebi.matlab.mat/mfl-core@0.5.8?classifier=sources
+- pkg:maven/us.hebi.matlab.mat/mfl-core@0.5.9
+- pkg:maven/us.hebi.matlab.mat/mfl-core@0.5.9?classifier=sources
 - pkg:maven/us.hebi.matlab.mat/mfl-core@0.5?classifier=sources

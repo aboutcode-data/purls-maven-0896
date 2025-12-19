@@ -6,3 +6,5 @@
 - pkg:maven/edu.iris.dmc/stationxml-seed-converter@2.1.0-RC-2
 - pkg:maven/edu.iris.dmc/stationxml-seed-converter@2.1.0-RC-2?classifier=sources
 - pkg:maven/edu.iris.dmc/stationxml-seed-converter@2.1.0?classifier=sources
+- pkg:maven/edu.iris.dmc/stationxml-seed-converter@2.1.1
+- pkg:maven/edu.iris.dmc/stationxml-seed-converter@2.1.1?classifier=sources

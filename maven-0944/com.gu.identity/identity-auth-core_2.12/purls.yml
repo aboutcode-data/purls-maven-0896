@@ -112,6 +112,8 @@
 - pkg:maven/com.gu.identity/identity-auth-core_2.12@3.240-C4?classifier=sources
 - pkg:maven/com.gu.identity/identity-auth-core_2.12@3.240-C5
 - pkg:maven/com.gu.identity/identity-auth-core_2.12@3.240-C5?classifier=sources
+- pkg:maven/com.gu.identity/identity-auth-core_2.12@3.240-C6
+- pkg:maven/com.gu.identity/identity-auth-core_2.12@3.240-C6?classifier=sources
 - pkg:maven/com.gu.identity/identity-auth-core_2.12@3.246
 - pkg:maven/com.gu.identity/identity-auth-core_2.12@3.246-M1
 - pkg:maven/com.gu.identity/identity-auth-core_2.12@3.246-M1?classifier=sources

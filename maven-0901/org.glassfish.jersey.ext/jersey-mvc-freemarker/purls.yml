@@ -121,6 +121,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.34?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.35
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.35?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.36
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.36?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.4
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@2.4.1
@@ -158,7 +160,11 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.0.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.0.4
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.0.4?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.0.5
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.0.5?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.1.0-M1
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.1.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.1.0-M2
 - pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.1.0-M2?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.1.0-M3
+- pkg:maven/org.glassfish.jersey.ext/jersey-mvc-freemarker@3.1.0-M3?classifier=sources

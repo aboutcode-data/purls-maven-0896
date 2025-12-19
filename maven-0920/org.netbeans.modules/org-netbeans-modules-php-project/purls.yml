@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-project@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-project@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-project@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-project@RELEASE140?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator-core@0.145.0
+- pkg:maven/com.google.cloud/google-cloud-bigtable-emulator-core@0.145.0?classifier=sources

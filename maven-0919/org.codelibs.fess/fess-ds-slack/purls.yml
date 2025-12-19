@@ -48,3 +48,5 @@
 - pkg:maven/org.codelibs.fess/fess-ds-slack@14.0.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-slack@14.1.0
 - pkg:maven/org.codelibs.fess/fess-ds-slack@14.1.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-slack@14.2.0
+- pkg:maven/org.codelibs.fess/fess-ds-slack@14.2.0?classifier=sources

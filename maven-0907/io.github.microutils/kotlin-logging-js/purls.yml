@@ -98,3 +98,4 @@
 - pkg:maven/io.github.microutils/kotlin-logging-js@2.1.17?classifier=sources
 - pkg:maven/io.github.microutils/kotlin-logging-js@2.1.20?classifier=sources
 - pkg:maven/io.github.microutils/kotlin-logging-js@2.1.21?classifier=sources
+- pkg:maven/io.github.microutils/kotlin-logging-js@2.1.23?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/org.dockbox.hartshorn/hartshorn-web@22.1?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-web@22.2?classifier=sources
+- pkg:maven/org.dockbox.hartshorn/hartshorn-web@22.3.1?classifier=sources
+- pkg:maven/org.dockbox.hartshorn/hartshorn-web@22.3?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-web@4.2.4?classifier=sources

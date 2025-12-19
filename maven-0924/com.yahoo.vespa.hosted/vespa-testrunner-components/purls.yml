@@ -344,6 +344,11 @@
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.580.54?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.581.33?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.585.20?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.586.113?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.588.57?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.589.25?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.593.6?classifier=sources
+- pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.594.36?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.60.51?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.61.10?classifier=sources
 - pkg:maven/com.yahoo.vespa.hosted/vespa-testrunner-components@7.62.30?classifier=sources

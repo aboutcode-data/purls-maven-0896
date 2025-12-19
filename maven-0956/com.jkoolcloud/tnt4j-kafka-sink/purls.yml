@@ -6,3 +6,5 @@
 - pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.14.3
 - pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.14.3?classifier=sources
 - pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.14?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.15.0
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.15.0?classifier=sources

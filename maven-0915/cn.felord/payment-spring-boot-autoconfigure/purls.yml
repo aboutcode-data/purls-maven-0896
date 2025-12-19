@@ -8,6 +8,8 @@
 - pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.11.RELEASE?classifier=sources
 - pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.12.RELEASE
 - pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.12.RELEASE?classifier=sources
+- pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.13.RELEASE
+- pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.13.RELEASE?classifier=sources
 - pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.2.RELEASE
 - pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.2.RELEASE?classifier=sources
 - pkg:maven/cn.felord/payment-spring-boot-autoconfigure@1.0.3.RELEASE

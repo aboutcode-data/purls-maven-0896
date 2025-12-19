@@ -11,6 +11,10 @@
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.15?classifier=sources
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.16
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.16?classifier=sources
+- pkg:maven/cc.carm.lib/easysql-beecp@0.3.17
+- pkg:maven/cc.carm.lib/easysql-beecp@0.3.17?classifier=sources
+- pkg:maven/cc.carm.lib/easysql-beecp@0.3.18
+- pkg:maven/cc.carm.lib/easysql-beecp@0.3.18?classifier=sources
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.1?classifier=sources
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.2
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.2?classifier=sources
@@ -24,3 +28,5 @@
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.8?classifier=sources
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.9
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.9?classifier=sources
+- pkg:maven/cc.carm.lib/easysql-beecp@0.4.0
+- pkg:maven/cc.carm.lib/easysql-beecp@0.4.0?classifier=sources

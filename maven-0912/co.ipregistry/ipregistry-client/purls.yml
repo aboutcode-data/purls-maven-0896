@@ -27,3 +27,4 @@
 - pkg:maven/co.ipregistry/ipregistry-client@3.4.0?classifier=sources
 - pkg:maven/co.ipregistry/ipregistry-client@3.5.0?classifier=sources
 - pkg:maven/co.ipregistry/ipregistry-client@3.6.0?classifier=sources
+- pkg:maven/co.ipregistry/ipregistry-client@3.7.0?classifier=sources

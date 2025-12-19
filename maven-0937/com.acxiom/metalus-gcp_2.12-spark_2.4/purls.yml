@@ -14,3 +14,5 @@
 - pkg:maven/com.acxiom/metalus-gcp_2.12-spark_2.4@1.8.4?classifier=sources
 - pkg:maven/com.acxiom/metalus-gcp_2.12-spark_2.4@1.8.5
 - pkg:maven/com.acxiom/metalus-gcp_2.12-spark_2.4@1.8.5?classifier=sources
+- pkg:maven/com.acxiom/metalus-gcp_2.12-spark_2.4@1.8.6
+- pkg:maven/com.acxiom/metalus-gcp_2.12-spark_2.4@1.8.6?classifier=sources

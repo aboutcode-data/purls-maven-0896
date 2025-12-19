@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.10.0
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.10.0?classifier=sources
+- pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.11.0
+- pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.11.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.2.0
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.2.0?classifier=sources
 - pkg:maven/org.apache.skywalking/apm-mongodb-4.x-plugin@8.3.0

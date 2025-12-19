@@ -26,6 +26,7 @@
 - pkg:maven/io.neow3j/contract@3.15.0?classifier=sources
 - pkg:maven/io.neow3j/contract@3.16.0?classifier=sources
 - pkg:maven/io.neow3j/contract@3.17.0?classifier=sources
+- pkg:maven/io.neow3j/contract@3.17.1?classifier=sources
 - pkg:maven/io.neow3j/contract@3.2.0
 - pkg:maven/io.neow3j/contract@3.2.0?classifier=sources
 - pkg:maven/io.neow3j/contract@3.2.2

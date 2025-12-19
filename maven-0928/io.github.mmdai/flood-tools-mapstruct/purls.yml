@@ -10,3 +10,7 @@
 - pkg:maven/io.github.mmdai/flood-tools-mapstruct@2.5.8.0?classifier=sources
 - pkg:maven/io.github.mmdai/flood-tools-mapstruct@2.5.9.0-SNAPSHOTS
 - pkg:maven/io.github.mmdai/flood-tools-mapstruct@2.5.9.0-SNAPSHOTS?classifier=sources
+- pkg:maven/io.github.mmdai/flood-tools-mapstruct@2.6.7.0
+- pkg:maven/io.github.mmdai/flood-tools-mapstruct@2.6.7.0?classifier=sources
+- pkg:maven/io.github.mmdai/flood-tools-mapstruct@2.6.8.0
+- pkg:maven/io.github.mmdai/flood-tools-mapstruct@2.6.8.0?classifier=sources
