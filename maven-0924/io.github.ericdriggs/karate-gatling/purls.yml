@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ericdriggs/karate-gatling@1.4.1-CUKE-01
+- pkg:maven/io.github.ericdriggs/karate-gatling@1.4.1-CUKE-01?classifier=sources
+- pkg:maven/io.github.ericdriggs/karate-gatling@1.4.1-CUKE-02
+- pkg:maven/io.github.ericdriggs/karate-gatling@1.4.1-CUKE-02?classifier=sources
+- pkg:maven/io.github.ericdriggs/karate-gatling@1.4.1-CUKE-1
+- pkg:maven/io.github.ericdriggs/karate-gatling@1.4.1-CUKE-1?classifier=sources

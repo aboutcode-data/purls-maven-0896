@@ -26,3 +26,5 @@
 - pkg:maven/org.eclipse.lyo.server/oauth-core@5.0.1.CR?classifier=sources
 - pkg:maven/org.eclipse.lyo.server/oauth-core@5.1.0-alpha
 - pkg:maven/org.eclipse.lyo.server/oauth-core@5.1.0-alpha?classifier=sources
+- pkg:maven/org.eclipse.lyo.server/oauth-core@5.1.1.Final
+- pkg:maven/org.eclipse.lyo.server/oauth-core@5.1.1.Final?classifier=sources

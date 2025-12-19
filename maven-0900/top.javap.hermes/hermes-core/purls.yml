@@ -1,0 +1,6 @@
+- pkg:maven/top.javap.hermes/hermes-core@0.1
+- pkg:maven/top.javap.hermes/hermes-core@0.1?classifier=sources
+- pkg:maven/top.javap.hermes/hermes-core@0.2
+- pkg:maven/top.javap.hermes/hermes-core@0.2?classifier=sources
+- pkg:maven/top.javap.hermes/hermes-core@0.3
+- pkg:maven/top.javap.hermes/hermes-core@0.3?classifier=sources

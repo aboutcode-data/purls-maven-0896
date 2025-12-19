@@ -33,6 +33,10 @@
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.13?classifier=sources
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.14
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.14?classifier=sources
+- pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.15
+- pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.15?classifier=sources
+- pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.16
+- pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.16?classifier=sources
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.1?classifier=sources
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.2
 - pkg:maven/com.heartlandpaymentsystems/globalpayments-sdk@10.2.2?classifier=sources

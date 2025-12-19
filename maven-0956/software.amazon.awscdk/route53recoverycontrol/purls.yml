@@ -194,3 +194,5 @@
 - pkg:maven/software.amazon.awscdk/route53recoverycontrol@1.202.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/route53recoverycontrol@1.203.0
 - pkg:maven/software.amazon.awscdk/route53recoverycontrol@1.203.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/route53recoverycontrol@1.204.0
+- pkg:maven/software.amazon.awscdk/route53recoverycontrol@1.204.0?classifier=sources

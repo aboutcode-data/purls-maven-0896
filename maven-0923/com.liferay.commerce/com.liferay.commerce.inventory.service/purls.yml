@@ -296,6 +296,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.36
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.36?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.37
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.37?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.4
@@ -470,6 +473,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.55
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.55?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.55?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.56
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.56?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.56?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.6

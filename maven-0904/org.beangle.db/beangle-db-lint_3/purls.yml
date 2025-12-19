@@ -22,3 +22,5 @@
 - pkg:maven/org.beangle.db/beangle-db-lint_3@0.0.21?classifier=sources
 - pkg:maven/org.beangle.db/beangle-db-lint_3@0.0.22
 - pkg:maven/org.beangle.db/beangle-db-lint_3@0.0.22?classifier=sources
+- pkg:maven/org.beangle.db/beangle-db-lint_3@0.0.23
+- pkg:maven/org.beangle.db/beangle-db-lint_3@0.0.23?classifier=sources

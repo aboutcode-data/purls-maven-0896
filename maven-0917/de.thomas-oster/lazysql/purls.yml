@@ -14,6 +14,8 @@
 - pkg:maven/de.thomas-oster/lazysql@1.15.3
 - pkg:maven/de.thomas-oster/lazysql@1.15.3?classifier=sources
 - pkg:maven/de.thomas-oster/lazysql@1.15?classifier=sources
+- pkg:maven/de.thomas-oster/lazysql@1.16.0
+- pkg:maven/de.thomas-oster/lazysql@1.16.0?classifier=sources
 - pkg:maven/de.thomas-oster/lazysql@1.8
 - pkg:maven/de.thomas-oster/lazysql@1.8?classifier=sources
 - pkg:maven/de.thomas-oster/lazysql@1.9

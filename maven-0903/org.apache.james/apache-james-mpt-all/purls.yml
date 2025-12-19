@@ -30,3 +30,7 @@
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.7.3?classifier=src&type=zip
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.7.4?classifier=src&type=tar.gz
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.7.4?classifier=src&type=zip
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.8.0
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.8.0?classifier=sources
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.8.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.8.0?classifier=src&type=zip

@@ -1,0 +1,8 @@
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.94
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.94?classifier=sources
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.95
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.95?classifier=sources
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.96
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.96?classifier=sources
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.97
+- pkg:maven/software.amazon.awssdk/appfabric@2.20.97?classifier=sources

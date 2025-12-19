@@ -17,6 +17,8 @@
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.16?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.17
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.17?classifier=sources
+- pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.18
+- pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.18?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.1?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.2
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.2?classifier=sources
@@ -34,3 +36,5 @@
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.8?classifier=sources
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.9
 - pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.5.9?classifier=sources
+- pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.6.0
+- pkg:maven/com.gitee.zodiacstack/zodiac-flowable-spring-boot-starter@1.6.0?classifier=sources

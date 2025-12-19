@@ -14,3 +14,5 @@
 - pkg:maven/org.daisy.pipeline.modules/epub-utils@1.2.3?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/epub-utils@1.2.4
 - pkg:maven/org.daisy.pipeline.modules/epub-utils@1.2.4?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/epub-utils@2.0.0
+- pkg:maven/org.daisy.pipeline.modules/epub-utils@2.0.0?classifier=sources

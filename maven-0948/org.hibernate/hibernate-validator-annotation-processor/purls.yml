@@ -184,3 +184,4 @@
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@8.0.0.CR2
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@8.0.0.CR3
 - pkg:maven/org.hibernate/hibernate-validator-annotation-processor@8.0.0.Final
+- pkg:maven/org.hibernate/hibernate-validator-annotation-processor@8.0.1.Final

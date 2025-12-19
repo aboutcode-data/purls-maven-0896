@@ -2,3 +2,5 @@
 - pkg:maven/com.google.cloud.spark/spark-3.3-bigquery@0.29.0-preview?classifier=sources
 - pkg:maven/com.google.cloud.spark/spark-3.3-bigquery@0.30.0
 - pkg:maven/com.google.cloud.spark/spark-3.3-bigquery@0.30.0?classifier=sources
+- pkg:maven/com.google.cloud.spark/spark-3.3-bigquery@0.31.0
+- pkg:maven/com.google.cloud.spark/spark-3.3-bigquery@0.31.0?classifier=sources

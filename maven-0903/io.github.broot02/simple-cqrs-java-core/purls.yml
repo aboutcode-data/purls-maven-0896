@@ -1,0 +1,6 @@
+- pkg:maven/io.github.broot02/simple-cqrs-java-core@0.0.1
+- pkg:maven/io.github.broot02/simple-cqrs-java-core@0.0.1?classifier=sources
+- pkg:maven/io.github.broot02/simple-cqrs-java-core@1.0.0
+- pkg:maven/io.github.broot02/simple-cqrs-java-core@1.0.0?classifier=sources
+- pkg:maven/io.github.broot02/simple-cqrs-java-core@1.1.0
+- pkg:maven/io.github.broot02/simple-cqrs-java-core@1.1.0?classifier=sources

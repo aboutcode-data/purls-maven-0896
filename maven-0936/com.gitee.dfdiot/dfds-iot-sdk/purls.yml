@@ -3,4 +3,6 @@
 - pkg:maven/com.gitee.dfdiot/dfds-iot-sdk@2.0.0
 - pkg:maven/com.gitee.dfdiot/dfds-iot-sdk@2.0.0?classifier=sources
 - pkg:maven/com.gitee.dfdiot/dfds-iot-sdk@3.0.0
+- pkg:maven/com.gitee.dfdiot/dfds-iot-sdk@3.0.0.Final
+- pkg:maven/com.gitee.dfdiot/dfds-iot-sdk@3.0.0.Final?classifier=sources
 - pkg:maven/com.gitee.dfdiot/dfds-iot-sdk@3.0.0?classifier=sources

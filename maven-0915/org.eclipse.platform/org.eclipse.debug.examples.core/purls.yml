@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.core@1.4.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.core@1.5.0
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.core@1.5.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.core@1.6.0
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.core@1.6.0?classifier=sources

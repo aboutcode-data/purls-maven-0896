@@ -3,6 +3,8 @@
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-M3?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-M4?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-M5?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-M6?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-M7?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-RC.2?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-RC?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0-beta-M1?classifier=sources
@@ -31,3 +33,4 @@
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0.preview.7.0?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0.preview.8.0?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.0.0.0.preview.9.0?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-mirai-extra-catcode@3.1.0.0-M8?classifier=sources

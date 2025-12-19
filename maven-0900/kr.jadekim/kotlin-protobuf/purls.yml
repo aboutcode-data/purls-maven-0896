@@ -1,1 +1,4 @@
 - pkg:maven/kr.jadekim/kotlin-protobuf@0.1.2?classifier=sources
+- pkg:maven/kr.jadekim/kotlin-protobuf@0.2.1?classifier=sources
+- pkg:maven/kr.jadekim/kotlin-protobuf@0.3.1?classifier=sources
+- pkg:maven/kr.jadekim/kotlin-protobuf@0.3.2?classifier=sources

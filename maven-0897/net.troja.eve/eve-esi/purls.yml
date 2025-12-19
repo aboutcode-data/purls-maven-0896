@@ -120,3 +120,5 @@
 - pkg:maven/net.troja.eve/eve-esi@4.7.0?classifier=sources
 - pkg:maven/net.troja.eve/eve-esi@4.8.0
 - pkg:maven/net.troja.eve/eve-esi@4.8.0?classifier=sources
+- pkg:maven/net.troja.eve/eve-esi@4.8.1
+- pkg:maven/net.troja.eve/eve-esi@4.8.1?classifier=sources

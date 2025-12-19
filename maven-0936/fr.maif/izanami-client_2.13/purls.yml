@@ -42,6 +42,8 @@
 - pkg:maven/fr.maif/izanami-client_2.13@1.11.0?classifier=sources
 - pkg:maven/fr.maif/izanami-client_2.13@1.11.2
 - pkg:maven/fr.maif/izanami-client_2.13@1.11.2?classifier=sources
+- pkg:maven/fr.maif/izanami-client_2.13@1.11.4
+- pkg:maven/fr.maif/izanami-client_2.13@1.11.4?classifier=sources
 - pkg:maven/fr.maif/izanami-client_2.13@1.9.0
 - pkg:maven/fr.maif/izanami-client_2.13@1.9.0?classifier=sources
 - pkg:maven/fr.maif/izanami-client_2.13@1.9.1

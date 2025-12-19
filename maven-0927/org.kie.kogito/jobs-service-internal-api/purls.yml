@@ -12,3 +12,7 @@
 - pkg:maven/org.kie.kogito/jobs-service-internal-api@1.38.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/jobs-service-internal-api@1.39.0.Final
 - pkg:maven/org.kie.kogito/jobs-service-internal-api@1.39.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jobs-service-internal-api@1.40.0.Final
+- pkg:maven/org.kie.kogito/jobs-service-internal-api@1.40.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/jobs-service-internal-api@1.40.1.Final
+- pkg:maven/org.kie.kogito/jobs-service-internal-api@1.40.1.Final?classifier=sources

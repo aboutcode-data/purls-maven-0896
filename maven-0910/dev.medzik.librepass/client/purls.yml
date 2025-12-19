@@ -1,3 +1,11 @@
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha10
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha10?classifier=sources
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha11
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha11?classifier=sources
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha12
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha12?classifier=sources
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha13
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha13?classifier=sources
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha2
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha2?classifier=sources
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha3
@@ -12,3 +20,5 @@
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha7?classifier=sources
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha8
 - pkg:maven/dev.medzik.librepass/client@0.1.0-alpha8?classifier=sources
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha9
+- pkg:maven/dev.medzik.librepass/client@0.1.0-alpha9?classifier=sources

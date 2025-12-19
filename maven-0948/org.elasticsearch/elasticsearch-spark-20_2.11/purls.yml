@@ -267,6 +267,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.1
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.10
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.10?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.11
+- pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.11?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.2
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@7.17.2?classifier=sources
@@ -394,3 +396,7 @@
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@8.7.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@8.8.0
 - pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@8.8.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@8.8.1
+- pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@8.8.1?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@8.8.2
+- pkg:maven/org.elasticsearch/elasticsearch-spark-20_2.11@8.8.2?classifier=sources

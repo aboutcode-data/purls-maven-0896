@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-keyvalue-redis@1.0.3
+- pkg:maven/io.quarkiverse.jnosql/quarkus-jnosql-keyvalue-redis@1.0.3?classifier=sources

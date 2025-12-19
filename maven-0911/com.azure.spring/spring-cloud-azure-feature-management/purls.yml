@@ -3,4 +3,6 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-feature-management@4.0.0-beta.3
 - pkg:maven/com.azure.spring/spring-cloud-azure-feature-management@4.0.0-beta.3?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-feature-management@4.7.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-feature-management@4.8.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-feature-management@5.1.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-feature-management@5.2.0?classifier=sources

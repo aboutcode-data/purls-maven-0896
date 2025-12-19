@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.ui@1.7.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.ui@1.7.100
 - pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.ui@1.7.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.ui@1.8.0
+- pkg:maven/org.eclipse.platform/org.eclipse.debug.examples.ui@1.8.0?classifier=sources

@@ -2,6 +2,14 @@
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.10.0?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.11.0
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.11.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.12.0
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.12.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.13.0
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.13.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.14.0
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.14.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.14.1
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.14.1?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.7.0
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.7.0?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@3.8.0

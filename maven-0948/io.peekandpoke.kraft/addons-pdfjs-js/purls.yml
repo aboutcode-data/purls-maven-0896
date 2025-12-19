@@ -49,7 +49,9 @@
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.31.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.32.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.33.10?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.33.11?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.33.1?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.33.5?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.33.6?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.33.9.4?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.34.0?classifier=sources

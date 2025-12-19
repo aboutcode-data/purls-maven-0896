@@ -1,1 +1,2 @@
 - pkg:maven/com.pulumi/std@0.1.0?classifier=sources
+- pkg:maven/com.pulumi/std@1.1.0?classifier=sources

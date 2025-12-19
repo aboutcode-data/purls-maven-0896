@@ -1,3 +1,6 @@
+- pkg:maven/io.jooby/jooby-rxjava3@3.0.0
+- pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M11
+- pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M11?classifier=sources
 - pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M2
 - pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M2?classifier=sources
 - pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M3
@@ -12,3 +15,4 @@
 - pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M7?classifier=sources
 - pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M9
 - pkg:maven/io.jooby/jooby-rxjava3@3.0.0.M9?classifier=sources
+- pkg:maven/io.jooby/jooby-rxjava3@3.0.0?classifier=sources

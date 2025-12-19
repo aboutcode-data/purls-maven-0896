@@ -52,3 +52,7 @@
 - pkg:maven/org.redisson/redisson-micronaut-30@3.21.2?classifier=sources
 - pkg:maven/org.redisson/redisson-micronaut-30@3.21.3
 - pkg:maven/org.redisson/redisson-micronaut-30@3.21.3?classifier=sources
+- pkg:maven/org.redisson/redisson-micronaut-30@3.22.0
+- pkg:maven/org.redisson/redisson-micronaut-30@3.22.0?classifier=sources
+- pkg:maven/org.redisson/redisson-micronaut-30@3.22.1
+- pkg:maven/org.redisson/redisson-micronaut-30@3.22.1?classifier=sources

@@ -185,6 +185,8 @@
 - pkg:maven/io.stargate.graphql/graphqlapi@1.0.75?classifier=sources
 - pkg:maven/io.stargate.graphql/graphqlapi@1.0.76
 - pkg:maven/io.stargate.graphql/graphqlapi@1.0.76?classifier=sources
+- pkg:maven/io.stargate.graphql/graphqlapi@1.0.77
+- pkg:maven/io.stargate.graphql/graphqlapi@1.0.77?classifier=sources
 - pkg:maven/io.stargate.graphql/graphqlapi@1.0.7?classifier=sources
 - pkg:maven/io.stargate.graphql/graphqlapi@1.0.8
 - pkg:maven/io.stargate.graphql/graphqlapi@1.0.8?classifier=sources
@@ -251,6 +253,8 @@
 - pkg:maven/io.stargate.graphql/graphqlapi@2.0.14?classifier=sources
 - pkg:maven/io.stargate.graphql/graphqlapi@2.0.15
 - pkg:maven/io.stargate.graphql/graphqlapi@2.0.15?classifier=sources
+- pkg:maven/io.stargate.graphql/graphqlapi@2.0.16
+- pkg:maven/io.stargate.graphql/graphqlapi@2.0.16?classifier=sources
 - pkg:maven/io.stargate.graphql/graphqlapi@2.0.1?classifier=sources
 - pkg:maven/io.stargate.graphql/graphqlapi@2.0.2
 - pkg:maven/io.stargate.graphql/graphqlapi@2.0.2?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/io.chabok/chabok-sdk@1.0.0?classifier=sources
+- pkg:maven/io.chabok/chabok-sdk@1.1.0?classifier=sources
+- pkg:maven/io.chabok/chabok-sdk@1.1.1?classifier=sources

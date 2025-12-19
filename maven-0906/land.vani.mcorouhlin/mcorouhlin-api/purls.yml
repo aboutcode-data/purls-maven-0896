@@ -83,6 +83,9 @@
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.39?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.3?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.40?classifier=sources
+- pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.41?classifier=sources
+- pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.42?classifier=sources
+- pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.43?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.4?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.5?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@7.0.6?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/com.amplitude/evaluation-serialization-jvm@1.0.0-rc2?classifier=sources
 - pkg:maven/com.amplitude/evaluation-serialization-jvm@1.0.0?classifier=sources
 - pkg:maven/com.amplitude/evaluation-serialization-jvm@1.1.0?classifier=sources
+- pkg:maven/com.amplitude/evaluation-serialization-jvm@1.1.1?classifier=sources

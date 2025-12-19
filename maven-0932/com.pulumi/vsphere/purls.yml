@@ -16,3 +16,11 @@
 - pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1683269346%2B41681230?classifier=sources
 - pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1683354453%2B168531d6?classifier=sources
 - pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1683614094%2B5ea50be0?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1683788465%2B08276032?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1683958260%2Bf0e0d13f?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1684218146%2Be23236e4?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1684391558%2B17c12b7f?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.5.0-alpha.1684947541%2Ba62efa8d?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.5.0?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.6.0-alpha.1685085049%2B60dab436?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.6.0-alpha.1685169409%2B32291675?classifier=sources

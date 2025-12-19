@@ -1,0 +1,2 @@
+- pkg:maven/cn.herodotus.oss/minio-sdk-api@0.0.1
+- pkg:maven/cn.herodotus.oss/minio-sdk-api@0.0.1?classifier=sources

@@ -73,6 +73,10 @@
 - pkg:maven/com.xliic/cicd-core@5.29?classifier=sources
 - pkg:maven/com.xliic/cicd-core@5.2?classifier=sources
 - pkg:maven/com.xliic/cicd-core@5.3
+- pkg:maven/com.xliic/cicd-core@5.30
+- pkg:maven/com.xliic/cicd-core@5.30?classifier=sources
+- pkg:maven/com.xliic/cicd-core@5.31
+- pkg:maven/com.xliic/cicd-core@5.31?classifier=sources
 - pkg:maven/com.xliic/cicd-core@5.3?classifier=sources
 - pkg:maven/com.xliic/cicd-core@5.4
 - pkg:maven/com.xliic/cicd-core@5.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.hawt.tests/hawtio-tests-features@3.0-M7
+- pkg:maven/io.hawt.tests/hawtio-tests-features@3.0-M7?classifier=sources
+- pkg:maven/io.hawt.tests/hawtio-tests-features@3.0-M8
+- pkg:maven/io.hawt.tests/hawtio-tests-features@3.0-M8?classifier=sources

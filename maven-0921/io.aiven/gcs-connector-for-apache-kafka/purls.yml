@@ -1,1 +1,2 @@
+- pkg:maven/io.aiven/gcs-connector-for-apache-kafka@0.10.0?classifier=sources
 - pkg:maven/io.aiven/gcs-connector-for-apache-kafka@0.9.1?classifier=sources

@@ -124,3 +124,5 @@
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@5.1.0.Final
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@5.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@5.1.1.Final
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@5.1.1.Final?classifier=sources

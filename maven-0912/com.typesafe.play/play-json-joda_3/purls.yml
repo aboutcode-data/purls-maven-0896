@@ -6,3 +6,5 @@
 - pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC7?classifier=sources
 - pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC8
 - pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC8?classifier=sources
+- pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC9
+- pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC9?classifier=sources

@@ -13,4 +13,6 @@
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-thrift-http-exporter_3@0.13.1%2B30-3dde130a?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-thrift-http-exporter_3@0.13.1?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-thrift-http-exporter_3@0.14.0
+- pkg:maven/io.janstenpickle/trace4cats-jaeger-thrift-http-exporter_3@0.14.0%2B16-90e0909a
+- pkg:maven/io.janstenpickle/trace4cats-jaeger-thrift-http-exporter_3@0.14.0%2B16-90e0909a?classifier=sources
 - pkg:maven/io.janstenpickle/trace4cats-jaeger-thrift-http-exporter_3@0.14.0?classifier=sources

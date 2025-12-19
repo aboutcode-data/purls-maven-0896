@@ -36,3 +36,5 @@
 - pkg:maven/io.awspring.cloud/spring-cloud-aws-ses@3.0.0-RC2
 - pkg:maven/io.awspring.cloud/spring-cloud-aws-ses@3.0.0-RC2?classifier=sources
 - pkg:maven/io.awspring.cloud/spring-cloud-aws-ses@3.0.0?classifier=sources
+- pkg:maven/io.awspring.cloud/spring-cloud-aws-ses@3.0.1
+- pkg:maven/io.awspring.cloud/spring-cloud-aws-ses@3.0.1?classifier=sources

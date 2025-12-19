@@ -24,3 +24,7 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.2.3?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.2.4
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.2.4?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.3.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.3.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.3.1
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.3.1?classifier=sources

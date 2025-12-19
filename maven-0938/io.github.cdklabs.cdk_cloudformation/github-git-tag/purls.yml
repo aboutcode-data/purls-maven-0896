@@ -8,3 +8,5 @@
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/github-git-tag@1.1.0-alpha.7?classifier=sources
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/github-git-tag@1.2.0-alpha.7
 - pkg:maven/io.github.cdklabs.cdk_cloudformation/github-git-tag@1.2.0-alpha.7?classifier=sources
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/github-git-tag@1.4.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/github-git-tag@1.4.0-alpha.7?classifier=sources

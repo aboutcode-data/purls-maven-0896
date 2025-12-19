@@ -16,6 +16,8 @@
 - pkg:maven/io.lighty.modules/lighty-bgp@17.1.0?classifier=sources
 - pkg:maven/io.lighty.modules/lighty-bgp@17.2.0
 - pkg:maven/io.lighty.modules/lighty-bgp@17.2.0?classifier=sources
+- pkg:maven/io.lighty.modules/lighty-bgp@17.3.0
+- pkg:maven/io.lighty.modules/lighty-bgp@17.3.0?classifier=sources
 - pkg:maven/io.lighty.modules/lighty-bgp@18.0.0
 - pkg:maven/io.lighty.modules/lighty-bgp@18.0.0?classifier=sources
 - pkg:maven/io.lighty.modules/lighty-bgp@18.1.0

@@ -64,3 +64,5 @@
 - pkg:maven/io.geewit.utils.web/gw-web-servlet@2.0.86?classifier=sources
 - pkg:maven/io.geewit.utils.web/gw-web-servlet@2.0.87?classifier=sources
 - pkg:maven/io.geewit.utils.web/gw-web-servlet@2.0.88?classifier=sources
+- pkg:maven/io.geewit.utils.web/gw-web-servlet@2.0.89?classifier=sources
+- pkg:maven/io.geewit.utils.web/gw-web-servlet@2.0.90?classifier=sources

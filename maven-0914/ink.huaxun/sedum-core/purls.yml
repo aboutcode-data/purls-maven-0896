@@ -1,0 +1,8 @@
+- pkg:maven/ink.huaxun/sedum-core@4.0.0
+- pkg:maven/ink.huaxun/sedum-core@4.0.0?classifier=sources
+- pkg:maven/ink.huaxun/sedum-core@4.0.1
+- pkg:maven/ink.huaxun/sedum-core@4.0.1?classifier=sources
+- pkg:maven/ink.huaxun/sedum-core@4.1.0
+- pkg:maven/ink.huaxun/sedum-core@4.1.0?classifier=sources
+- pkg:maven/ink.huaxun/sedum-core@4.2.0
+- pkg:maven/ink.huaxun/sedum-core@4.2.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.io7m.quarrel/com.io7m.quarrel.ext.logback@0.0.2
+- pkg:maven/com.io7m.quarrel/com.io7m.quarrel.ext.logback@0.0.2?classifier=sources
+- pkg:maven/com.io7m.quarrel/com.io7m.quarrel.ext.logback@1.0.0
+- pkg:maven/com.io7m.quarrel/com.io7m.quarrel.ext.logback@1.0.0-beta0001
+- pkg:maven/com.io7m.quarrel/com.io7m.quarrel.ext.logback@1.0.0-beta0001?classifier=sources
+- pkg:maven/com.io7m.quarrel/com.io7m.quarrel.ext.logback@1.0.0?classifier=sources

@@ -84,6 +84,10 @@
 - pkg:maven/com.wootric/wootric-sdk-android@2.24.1?type=aar
 - pkg:maven/com.wootric/wootric-sdk-android@2.24.2?classifier=sources
 - pkg:maven/com.wootric/wootric-sdk-android@2.24.2?type=aar
+- pkg:maven/com.wootric/wootric-sdk-android@2.24.3?classifier=sources
+- pkg:maven/com.wootric/wootric-sdk-android@2.24.3?type=aar
+- pkg:maven/com.wootric/wootric-sdk-android@2.25.0?classifier=sources
+- pkg:maven/com.wootric/wootric-sdk-android@2.25.0?type=aar
 - pkg:maven/com.wootric/wootric-sdk-android@2.3.0?classifier=sources
 - pkg:maven/com.wootric/wootric-sdk-android@2.3.0?type=aar
 - pkg:maven/com.wootric/wootric-sdk-android@2.3.1?classifier=sources

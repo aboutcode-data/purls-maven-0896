@@ -3,3 +3,4 @@
 - pkg:maven/io.fluidsonic.graphql/fluid-graphql-iossimulatorarm64@0.12.0?classifier=sources
 - pkg:maven/io.fluidsonic.graphql/fluid-graphql-iossimulatorarm64@0.13.0?classifier=sources
 - pkg:maven/io.fluidsonic.graphql/fluid-graphql-iossimulatorarm64@0.14.0?classifier=sources
+- pkg:maven/io.fluidsonic.graphql/fluid-graphql-iossimulatorarm64@0.15.0?classifier=sources

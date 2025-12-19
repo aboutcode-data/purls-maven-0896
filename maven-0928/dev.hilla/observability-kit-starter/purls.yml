@@ -1,0 +1,4 @@
+- pkg:maven/dev.hilla/observability-kit-starter@2.1.0
+- pkg:maven/dev.hilla/observability-kit-starter@2.1.0?classifier=sources
+- pkg:maven/dev.hilla/observability-kit-starter@2.1.1
+- pkg:maven/dev.hilla/observability-kit-starter@2.1.1?classifier=sources

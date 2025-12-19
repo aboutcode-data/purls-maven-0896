@@ -150,3 +150,5 @@
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@3.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@3.0.1.Final
 - pkg:maven/org.wildfly.security.elytron-web/undertow-server@3.0.1.Final?classifier=sources
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server@4.0.0.Final
+- pkg:maven/org.wildfly.security.elytron-web/undertow-server@4.0.0.Final?classifier=sources

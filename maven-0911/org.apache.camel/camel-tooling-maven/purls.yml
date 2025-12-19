@@ -1,2 +1,6 @@
+- pkg:maven/org.apache.camel/camel-tooling-maven@3.21.0
+- pkg:maven/org.apache.camel/camel-tooling-maven@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-M3
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-M3?classifier=sources
+- pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-RC1
+- pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-RC1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/unocss__preset-wind@0.52.3?classifier=sources
 - pkg:maven/org.webjars.npm/unocss__preset-wind@0.52.7
 - pkg:maven/org.webjars.npm/unocss__preset-wind@0.52.7?classifier=sources
+- pkg:maven/org.webjars.npm/unocss__preset-wind@0.53.0
+- pkg:maven/org.webjars.npm/unocss__preset-wind@0.53.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/io.horizen/sparkz-util_2.13@2.0.0-RC10?classifier=sources
 - pkg:maven/io.horizen/sparkz-util_2.13@2.0.0-RC11
 - pkg:maven/io.horizen/sparkz-util_2.13@2.0.0-RC11?classifier=sources
+- pkg:maven/io.horizen/sparkz-util_2.13@2.0.1
+- pkg:maven/io.horizen/sparkz-util_2.13@2.0.1?classifier=sources

@@ -46,6 +46,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.15.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.16.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.16.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.17.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.17.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.18.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.18.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.2.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-debugger-client-v2@1.2.1

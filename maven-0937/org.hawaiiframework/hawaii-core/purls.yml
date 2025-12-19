@@ -66,3 +66,6 @@
 - pkg:maven/org.hawaiiframework/hawaii-core@3.0.0.M8?classifier=sources
 - pkg:maven/org.hawaiiframework/hawaii-core@3.0.0.M9
 - pkg:maven/org.hawaiiframework/hawaii-core@3.0.0.M9?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-core@6.0.0.M1?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-core@6.0.0.M2?classifier=sources
+- pkg:maven/org.hawaiiframework/hawaii-core@6.0.0.M3?classifier=sources

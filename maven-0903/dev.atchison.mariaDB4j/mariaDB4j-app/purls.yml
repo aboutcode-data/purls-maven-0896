@@ -1,0 +1,4 @@
+- pkg:maven/dev.atchison.mariaDB4j/mariaDB4j-app@2.7.0
+- pkg:maven/dev.atchison.mariaDB4j/mariaDB4j-app@2.7.0?classifier=sources
+- pkg:maven/dev.atchison.mariaDB4j/mariaDB4j-app@2.7.1
+- pkg:maven/dev.atchison.mariaDB4j/mariaDB4j-app@2.7.1?classifier=sources

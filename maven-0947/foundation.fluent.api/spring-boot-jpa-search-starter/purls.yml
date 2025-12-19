@@ -32,6 +32,10 @@
 - pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.25?classifier=sources
 - pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.26
 - pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.26?classifier=sources
+- pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.27
+- pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.27?classifier=sources
+- pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.28
+- pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.28?classifier=sources
 - pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.8
 - pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.8?classifier=sources
 - pkg:maven/foundation.fluent.api/spring-boot-jpa-search-starter@0.9

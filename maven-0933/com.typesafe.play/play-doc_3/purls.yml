@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.play/play-doc_3@2.2.0-M2
 - pkg:maven/com.typesafe.play/play-doc_3@2.2.0-M2?classifier=sources
+- pkg:maven/com.typesafe.play/play-doc_3@2.2.0-M3
+- pkg:maven/com.typesafe.play/play-doc_3@2.2.0-M3?classifier=sources

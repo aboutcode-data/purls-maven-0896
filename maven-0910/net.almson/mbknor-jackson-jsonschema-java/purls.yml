@@ -4,3 +4,5 @@
 - pkg:maven/net.almson/mbknor-jackson-jsonschema-java@1.0.39.2
 - pkg:maven/net.almson/mbknor-jackson-jsonschema-java@1.0.39.2?classifier=sources
 - pkg:maven/net.almson/mbknor-jackson-jsonschema-java@1.0.39?classifier=sources
+- pkg:maven/net.almson/mbknor-jackson-jsonschema-java@1.1.1
+- pkg:maven/net.almson/mbknor-jackson-jsonschema-java@1.1.1?classifier=sources

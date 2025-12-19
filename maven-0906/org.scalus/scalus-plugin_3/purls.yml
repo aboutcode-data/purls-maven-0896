@@ -1,2 +1,4 @@
 - pkg:maven/org.scalus/scalus-plugin_3@0.1.0
 - pkg:maven/org.scalus/scalus-plugin_3@0.1.0?classifier=sources
+- pkg:maven/org.scalus/scalus-plugin_3@0.2.0
+- pkg:maven/org.scalus/scalus-plugin_3@0.2.0?classifier=sources

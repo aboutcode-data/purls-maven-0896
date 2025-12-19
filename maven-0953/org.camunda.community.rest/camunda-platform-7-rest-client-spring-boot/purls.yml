@@ -4,3 +4,5 @@
 - pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.17.2?classifier=sources
 - pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.18.0
 - pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.18.0?classifier=sources
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.19.0
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.19.0?classifier=sources

@@ -86,6 +86,8 @@
 - pkg:maven/org.codelibs.fess/fess-crawler-es@14.7.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-es@14.8.0
 - pkg:maven/org.codelibs.fess/fess-crawler-es@14.8.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-crawler-es@14.9.0
+- pkg:maven/org.codelibs.fess/fess-crawler-es@14.9.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-es@2.0.0
 - pkg:maven/org.codelibs.fess/fess-crawler-es@2.0.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-crawler-es@2.0.1

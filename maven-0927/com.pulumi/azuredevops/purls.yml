@@ -5,3 +5,5 @@
 - pkg:maven/com.pulumi/azuredevops@2.7.0-alpha.1678154179%2B4447252e?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@2.7.0-alpha.1679928807%2B409dde1c?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@2.7.0?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@2.8.0-alpha.1683661270%2Baa6c7d3b?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@2.8.0?classifier=sources

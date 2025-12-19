@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/kdbush@2.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/kdbush@3.0.0
 - pkg:maven/org.webjars.npm/kdbush@3.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/kdbush@4.0.2
+- pkg:maven/org.webjars.npm/kdbush@4.0.2?classifier=sources

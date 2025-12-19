@@ -37,3 +37,4 @@
 - pkg:maven/com.amplitude/analytics-android@1.7.1?classifier=sources
 - pkg:maven/com.amplitude/analytics-android@1.8.0?classifier=sources
 - pkg:maven/com.amplitude/analytics-android@1.8.2?classifier=sources
+- pkg:maven/com.amplitude/analytics-android@1.9.1?classifier=sources

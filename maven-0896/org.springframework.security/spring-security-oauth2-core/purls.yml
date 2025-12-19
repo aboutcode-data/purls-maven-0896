@@ -161,6 +161,7 @@
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.5.8?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.6.0?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.6.10?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-oauth2-core@5.6.11?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.6.1?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.6.2?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.6.3?classifier=sources
@@ -179,12 +180,16 @@
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.7.6?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.7.7?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.7.8?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-oauth2-core@5.7.9?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.8.0?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.8.1?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.8.2?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@5.8.3?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-oauth2-core@5.8.4?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@6.0.0?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@6.0.1?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@6.0.2?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@6.0.3?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-oauth2-core@6.0.4?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-oauth2-core@6.1.0?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-oauth2-core@6.1.1?classifier=sources

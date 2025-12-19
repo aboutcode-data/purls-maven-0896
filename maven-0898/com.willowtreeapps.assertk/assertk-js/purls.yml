@@ -15,3 +15,5 @@
 - pkg:maven/com.willowtreeapps.assertk/assertk-js@0.23?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-js@0.24?classifier=sources
 - pkg:maven/com.willowtreeapps.assertk/assertk-js@0.25?classifier=sources
+- pkg:maven/com.willowtreeapps.assertk/assertk-js@0.26.1?classifier=sources
+- pkg:maven/com.willowtreeapps.assertk/assertk-js@0.26?classifier=sources

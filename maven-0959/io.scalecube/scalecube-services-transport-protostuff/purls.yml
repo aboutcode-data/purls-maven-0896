@@ -59,6 +59,8 @@
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.23?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.24
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.24?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.25
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.25?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.3
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.3?classifier=sources
@@ -68,6 +70,12 @@
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.4?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.5
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.10.5?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.11.0
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.11.0?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.11.1
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.11.1?classifier=sources
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.11.2
+- pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.11.2?classifier=sources
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.4.1
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.4.10
 - pkg:maven/io.scalecube/scalecube-services-transport-protostuff@2.4.10?classifier=sources

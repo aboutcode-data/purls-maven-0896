@@ -42,3 +42,5 @@
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-cloud-config-example@3.0.2?classifier=sources
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-cloud-config-example@3.0.3
 - pkg:maven/com.okta.spring.examples/okta-spring-boot-cloud-config-example@3.0.3?classifier=sources
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-cloud-config-example@3.0.4
+- pkg:maven/com.okta.spring.examples/okta-spring-boot-cloud-config-example@3.0.4?classifier=sources

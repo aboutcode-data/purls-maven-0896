@@ -24,3 +24,4 @@
 - pkg:maven/org.openrndr.extra/orx-kinect-v1-natives-macos@0.4.3-alpha7?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-kinect-v1-natives-macos@0.4.3-alpha8?classifier=sources
 - pkg:maven/org.openrndr.extra/orx-kinect-v1-natives-macos@0.4.3-alpha9?classifier=sources
+- pkg:maven/org.openrndr.extra/orx-kinect-v1-natives-macos@0.4.3?classifier=sources

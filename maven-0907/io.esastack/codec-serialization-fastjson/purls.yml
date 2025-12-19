@@ -8,3 +8,5 @@
 - pkg:maven/io.esastack/codec-serialization-fastjson@0.1.2?classifier=sources
 - pkg:maven/io.esastack/codec-serialization-fastjson@0.1.4
 - pkg:maven/io.esastack/codec-serialization-fastjson@0.1.4?classifier=sources
+- pkg:maven/io.esastack/codec-serialization-fastjson@0.1.6.beta
+- pkg:maven/io.esastack/codec-serialization-fastjson@0.1.6.beta?classifier=sources

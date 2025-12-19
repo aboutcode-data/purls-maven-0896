@@ -16,6 +16,10 @@
 - pkg:maven/ai.h2o/h2o-tree-api@0.3.17?classifier=sources
 - pkg:maven/ai.h2o/h2o-tree-api@0.3.18
 - pkg:maven/ai.h2o/h2o-tree-api@0.3.18?classifier=sources
+- pkg:maven/ai.h2o/h2o-tree-api@0.3.19
+- pkg:maven/ai.h2o/h2o-tree-api@0.3.19?classifier=sources
+- pkg:maven/ai.h2o/h2o-tree-api@0.3.20
+- pkg:maven/ai.h2o/h2o-tree-api@0.3.20?classifier=sources
 - pkg:maven/ai.h2o/h2o-tree-api@0.3.7
 - pkg:maven/ai.h2o/h2o-tree-api@0.3.7?classifier=sources
 - pkg:maven/ai.h2o/h2o-tree-api@0.3.8

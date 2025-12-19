@@ -8,3 +8,5 @@
 - pkg:maven/com.docusign/docusign-rooms-java@1.1.0?classifier=sources
 - pkg:maven/com.docusign/docusign-rooms-java@1.3.0
 - pkg:maven/com.docusign/docusign-rooms-java@1.3.0?classifier=sources
+- pkg:maven/com.docusign/docusign-rooms-java@1.4.2
+- pkg:maven/com.docusign/docusign-rooms-java@1.4.2?classifier=sources

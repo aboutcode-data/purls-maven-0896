@@ -38,3 +38,7 @@
 - pkg:maven/com.bigossp/ironsource-mediation@2.8.0.1?type=aar
 - pkg:maven/com.bigossp/ironsource-mediation@2.8.0.2?classifier=sources
 - pkg:maven/com.bigossp/ironsource-mediation@2.8.0.2?type=aar
+- pkg:maven/com.bigossp/ironsource-mediation@2.9.0.0?classifier=sources
+- pkg:maven/com.bigossp/ironsource-mediation@2.9.0.0?type=aar
+- pkg:maven/com.bigossp/ironsource-mediation@3.0.0.0?classifier=sources
+- pkg:maven/com.bigossp/ironsource-mediation@3.0.0.0?type=aar

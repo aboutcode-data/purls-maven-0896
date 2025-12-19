@@ -2,3 +2,5 @@
 - pkg:maven/com.tencent.bk.base.datahub/flink-sql-connector-db2-cdc@2.3.0-bkbase.1?classifier=sources
 - pkg:maven/com.tencent.bk.base.datahub/flink-sql-connector-db2-cdc@2.3.0-bkbase.2
 - pkg:maven/com.tencent.bk.base.datahub/flink-sql-connector-db2-cdc@2.3.0-bkbase.2?classifier=sources
+- pkg:maven/com.tencent.bk.base.datahub/flink-sql-connector-db2-cdc@2.3.0-bkbase.3
+- pkg:maven/com.tencent.bk.base.datahub/flink-sql-connector-db2-cdc@2.3.0-bkbase.3?classifier=sources

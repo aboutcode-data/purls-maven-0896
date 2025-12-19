@@ -106,6 +106,12 @@
 - pkg:maven/org.flywaydb/flyway-mysql@9.19.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@9.19.1
 - pkg:maven/org.flywaydb/flyway-mysql@9.19.1?classifier=sources
+- pkg:maven/org.flywaydb/flyway-mysql@9.19.2
+- pkg:maven/org.flywaydb/flyway-mysql@9.19.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-mysql@9.19.3
+- pkg:maven/org.flywaydb/flyway-mysql@9.19.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-mysql@9.19.4
+- pkg:maven/org.flywaydb/flyway-mysql@9.19.4?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@9.2.0
 - pkg:maven/org.flywaydb/flyway-mysql@9.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@9.2.1
@@ -114,6 +120,8 @@
 - pkg:maven/org.flywaydb/flyway-mysql@9.2.2?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@9.2.3
 - pkg:maven/org.flywaydb/flyway-mysql@9.2.3?classifier=sources
+- pkg:maven/org.flywaydb/flyway-mysql@9.20.0
+- pkg:maven/org.flywaydb/flyway-mysql@9.20.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@9.3.0
 - pkg:maven/org.flywaydb/flyway-mysql@9.3.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@9.3.1

@@ -16,3 +16,4 @@
 - pkg:maven/org.forgerock/forgerock-core@4.0.0-beta4?classifier=sources
 - pkg:maven/org.forgerock/forgerock-core@4.0.0-beta5?classifier=sources
 - pkg:maven/org.forgerock/forgerock-core@4.0.0?classifier=sources
+- pkg:maven/org.forgerock/forgerock-core@4.1.0-beta1?classifier=sources

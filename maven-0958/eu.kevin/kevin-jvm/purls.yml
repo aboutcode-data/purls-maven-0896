@@ -10,3 +10,6 @@
 - pkg:maven/eu.kevin/kevin-jvm@0.2.7?classifier=sources
 - pkg:maven/eu.kevin/kevin-jvm@0.2.8?classifier=sources
 - pkg:maven/eu.kevin/kevin-jvm@0.2.9?classifier=sources
+- pkg:maven/eu.kevin/kevin-jvm@0.3.0?classifier=sources
+- pkg:maven/eu.kevin/kevin-jvm@1.0.0?classifier=sources
+- pkg:maven/eu.kevin/kevin-jvm@1.0.1?classifier=sources

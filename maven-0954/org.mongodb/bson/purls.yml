@@ -165,6 +165,8 @@
 - pkg:maven/org.mongodb/bson@3.12.12?classifier=sources
 - pkg:maven/org.mongodb/bson@3.12.13
 - pkg:maven/org.mongodb/bson@3.12.13?classifier=sources
+- pkg:maven/org.mongodb/bson@3.12.14
+- pkg:maven/org.mongodb/bson@3.12.14?classifier=sources
 - pkg:maven/org.mongodb/bson@3.12.1?classifier=sources
 - pkg:maven/org.mongodb/bson@3.12.2
 - pkg:maven/org.mongodb/bson@3.12.2?classifier=sources
@@ -279,8 +281,14 @@
 - pkg:maven/org.mongodb/bson@4.1.1?classifier=sources
 - pkg:maven/org.mongodb/bson@4.1.2
 - pkg:maven/org.mongodb/bson@4.1.2?classifier=sources
+- pkg:maven/org.mongodb/bson@4.10.0
 - pkg:maven/org.mongodb/bson@4.10.0-alpha0
 - pkg:maven/org.mongodb/bson@4.10.0-alpha0?classifier=sources
+- pkg:maven/org.mongodb/bson@4.10.0-alpha1
+- pkg:maven/org.mongodb/bson@4.10.0-alpha1?classifier=sources
+- pkg:maven/org.mongodb/bson@4.10.0?classifier=sources
+- pkg:maven/org.mongodb/bson@4.10.1
+- pkg:maven/org.mongodb/bson@4.10.1?classifier=sources
 - pkg:maven/org.mongodb/bson@4.2.0
 - pkg:maven/org.mongodb/bson@4.2.0-beta1
 - pkg:maven/org.mongodb/bson@4.2.0-beta1?classifier=sources

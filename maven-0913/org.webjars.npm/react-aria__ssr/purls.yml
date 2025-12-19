@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/react-aria__ssr@3.6.1-nightly.3864
 - pkg:maven/org.webjars.npm/react-aria__ssr@3.6.1-nightly.3864?classifier=sources
+- pkg:maven/org.webjars.npm/react-aria__ssr@3.7.1-nightly.4012
+- pkg:maven/org.webjars.npm/react-aria__ssr@3.7.1-nightly.4012?classifier=sources

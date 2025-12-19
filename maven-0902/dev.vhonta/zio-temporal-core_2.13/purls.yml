@@ -8,6 +8,7 @@
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC5?classifier=sources
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC6
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.1.0-RC6?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-M1
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-M1?classifier=sources
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-M2
@@ -20,7 +21,18 @@
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-M5?classifier=sources
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-M6
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-M6?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-NIGHTLY-2023-06-02
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-NIGHTLY-2023-06-02?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-NIGHTLY-2023-06-03
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-NIGHTLY-2023-06-03?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-NIGHTLY-2023-06-04
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-NIGHTLY-2023-06-04?classifier=sources
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC1
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC1?classifier=sources
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC2
 - pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC2?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC3
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC3?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC4
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0-RC4?classifier=sources
+- pkg:maven/dev.vhonta/zio-temporal-core_2.13@0.2.0?classifier=sources

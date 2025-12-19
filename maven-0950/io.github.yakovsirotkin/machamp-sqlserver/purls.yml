@@ -10,3 +10,11 @@
 - pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.17?classifier=sources
 - pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.18
 - pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.18?classifier=sources
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.20
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.20?classifier=sources
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.22
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.22?classifier=sources
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.23
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.23?classifier=sources
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.24
+- pkg:maven/io.github.yakovsirotkin/machamp-sqlserver@0.0.24?classifier=sources

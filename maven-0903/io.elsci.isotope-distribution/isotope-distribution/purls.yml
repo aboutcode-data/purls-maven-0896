@@ -1,2 +1,4 @@
 - pkg:maven/io.elsci.isotope-distribution/isotope-distribution@0.1.0
 - pkg:maven/io.elsci.isotope-distribution/isotope-distribution@0.1.0?classifier=sources
+- pkg:maven/io.elsci.isotope-distribution/isotope-distribution@1.0.0
+- pkg:maven/io.elsci.isotope-distribution/isotope-distribution@1.0.0?classifier=sources

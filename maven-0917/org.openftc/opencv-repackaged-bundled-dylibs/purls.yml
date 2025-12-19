@@ -1,1 +1,2 @@
 - pkg:maven/org.openftc/opencv-repackaged-bundled-dylibs@4.5.3-C?classifier=sources
+- pkg:maven/org.openftc/opencv-repackaged-bundled-dylibs@4.7.0-A?classifier=sources

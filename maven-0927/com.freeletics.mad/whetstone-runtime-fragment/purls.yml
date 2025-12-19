@@ -6,6 +6,8 @@
 - pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.13.1?classifier=sources
 - pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.13.2?classifier=sources
 - pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.13.3?classifier=sources
+- pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.14.0?classifier=sources
+- pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.14.1?classifier=sources
 - pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.3.0-alpha11?classifier=sources
 - pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.3.0-alpha12?classifier=sources
 - pkg:maven/com.freeletics.mad/whetstone-runtime-fragment@0.3.0-alpha13?classifier=sources

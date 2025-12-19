@@ -74,3 +74,5 @@
 - pkg:maven/com.google.cloud.spark/spark-bigquery-with-dependencies_2.12@0.29.0?classifier=sources
 - pkg:maven/com.google.cloud.spark/spark-bigquery-with-dependencies_2.12@0.30.0
 - pkg:maven/com.google.cloud.spark/spark-bigquery-with-dependencies_2.12@0.30.0?classifier=sources
+- pkg:maven/com.google.cloud.spark/spark-bigquery-with-dependencies_2.12@0.31.0
+- pkg:maven/com.google.cloud.spark/spark-bigquery-with-dependencies_2.12@0.31.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aizuda/dict-trans-core@0.3
+- pkg:maven/com.aizuda/dict-trans-core@0.3?classifier=sources
