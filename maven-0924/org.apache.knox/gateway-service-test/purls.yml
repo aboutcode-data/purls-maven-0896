@@ -32,3 +32,5 @@
 - pkg:maven/org.apache.knox/gateway-service-test@1.6.0?classifier=sources
 - pkg:maven/org.apache.knox/gateway-service-test@1.6.1
 - pkg:maven/org.apache.knox/gateway-service-test@1.6.1?classifier=sources
+- pkg:maven/org.apache.knox/gateway-service-test@2.0.0
+- pkg:maven/org.apache.knox/gateway-service-test@2.0.0?classifier=sources

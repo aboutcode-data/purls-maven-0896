@@ -1,2 +1,4 @@
 - pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-ims@0.0.3-beta
 - pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-ims@0.0.3-beta?classifier=sources
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-ims@0.0.4-beta
+- pkg:maven/io.github.g42cloud-sdk/g42cloud-sdk-ims@0.0.4-beta?classifier=sources

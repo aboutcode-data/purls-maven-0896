@@ -6,3 +6,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.12.300?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.12.400
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.12.400?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.12.500
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.12.500?classifier=sources

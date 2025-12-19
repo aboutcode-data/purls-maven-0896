@@ -183,6 +183,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-orient-console@3.47.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-orient-console@3.47.1-01
 - pkg:maven/org.sonatype.nexus/nexus-orient-console@3.47.1-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-orient-console@3.48.0-01
+- pkg:maven/org.sonatype.nexus/nexus-orient-console@3.48.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-orient-console@3.49.0-02
+- pkg:maven/org.sonatype.nexus/nexus-orient-console@3.49.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-orient-console@3.5.0-02
 - pkg:maven/org.sonatype.nexus/nexus-orient-console@3.5.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-orient-console@3.5.1-02

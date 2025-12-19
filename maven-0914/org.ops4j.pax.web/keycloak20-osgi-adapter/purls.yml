@@ -1,0 +1,4 @@
+- pkg:maven/org.ops4j.pax.web/keycloak20-osgi-adapter@8.0.16
+- pkg:maven/org.ops4j.pax.web/keycloak20-osgi-adapter@8.0.16?classifier=sources
+- pkg:maven/org.ops4j.pax.web/keycloak20-osgi-adapter@9.0.5
+- pkg:maven/org.ops4j.pax.web/keycloak20-osgi-adapter@9.0.5?classifier=sources

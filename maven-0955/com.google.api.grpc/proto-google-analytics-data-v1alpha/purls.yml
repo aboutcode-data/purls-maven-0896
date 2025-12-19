@@ -44,6 +44,10 @@
 - pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.20.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.21.0
 - pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.21.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.22.0
+- pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.22.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.23.0
+- pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.23.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.3.0
 - pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-analytics-data-v1alpha@0.4.0

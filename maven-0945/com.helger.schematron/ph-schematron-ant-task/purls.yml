@@ -38,3 +38,7 @@
 - pkg:maven/com.helger.schematron/ph-schematron-ant-task@6.3.4?classifier=sources
 - pkg:maven/com.helger.schematron/ph-schematron-ant-task@7.0.0
 - pkg:maven/com.helger.schematron/ph-schematron-ant-task@7.0.0?classifier=sources
+- pkg:maven/com.helger.schematron/ph-schematron-ant-task@7.0.1
+- pkg:maven/com.helger.schematron/ph-schematron-ant-task@7.0.1?classifier=sources
+- pkg:maven/com.helger.schematron/ph-schematron-ant-task@7.1.0
+- pkg:maven/com.helger.schematron/ph-schematron-ant-task@7.1.0?classifier=sources

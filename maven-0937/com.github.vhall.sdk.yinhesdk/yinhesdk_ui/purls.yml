@@ -162,3 +162,7 @@
 - pkg:maven/com.github.vhall.sdk.yinhesdk/yinhesdk_ui@1.8.7?type=aar
 - pkg:maven/com.github.vhall.sdk.yinhesdk/yinhesdk_ui@1.8.8?classifier=sources
 - pkg:maven/com.github.vhall.sdk.yinhesdk/yinhesdk_ui@1.8.8?type=aar
+- pkg:maven/com.github.vhall.sdk.yinhesdk/yinhesdk_ui@1.8.9?classifier=sources
+- pkg:maven/com.github.vhall.sdk.yinhesdk/yinhesdk_ui@1.8.9?type=aar
+- pkg:maven/com.github.vhall.sdk.yinhesdk/yinhesdk_ui@1.9.0?classifier=sources
+- pkg:maven/com.github.vhall.sdk.yinhesdk/yinhesdk_ui@1.9.0?type=aar

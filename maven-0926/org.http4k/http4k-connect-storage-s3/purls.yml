@@ -133,6 +133,17 @@
 - pkg:maven/org.http4k/http4k-connect-storage-s3@3.3.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-s3@3.3.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-s3@3.30.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.31.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.31.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.32.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.33.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.33.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.33.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.33.3.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.33.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.34.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.34.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@3.35.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-s3@3.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-s3@3.4.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-s3@3.4.2.0?classifier=sources

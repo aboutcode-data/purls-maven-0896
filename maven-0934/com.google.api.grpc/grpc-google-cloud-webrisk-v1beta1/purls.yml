@@ -154,6 +154,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.45.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.46.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.46.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.47.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.47.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.48.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.48.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.5.0-alpha
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.5.0-alpha?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-webrisk-v1beta1@0.6.0-alpha

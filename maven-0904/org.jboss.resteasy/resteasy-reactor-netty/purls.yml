@@ -26,6 +26,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@4.7.7.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@4.7.8.Final
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@4.7.8.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@4.7.9.Final
+- pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@4.7.9.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.0.Alpha1
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.0.Beta1
@@ -46,6 +48,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.4.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.5.Final
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.5.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.6.Final
+- pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@5.0.6.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.0.0.Beta1?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.0.0.Final
@@ -74,3 +78,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.2.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.2.2.Final
 - pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.2.2.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.2.3.Final
+- pkg:maven/org.jboss.resteasy/resteasy-reactor-netty@6.2.3.Final?classifier=sources

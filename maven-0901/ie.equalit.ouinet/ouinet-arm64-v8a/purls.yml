@@ -4,3 +4,6 @@
 - pkg:maven/ie.equalit.ouinet/ouinet-arm64-v8a@0.21.2?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-arm64-v8a@0.21.3?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-arm64-v8a@0.21.5?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-arm64-v8a@0.21.6?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-arm64-v8a@0.21.7?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-arm64-v8a@0.21.8?classifier=sources

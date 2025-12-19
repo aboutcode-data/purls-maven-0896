@@ -2,3 +2,5 @@
 - pkg:maven/org.bitbucket.swattu/test-support@5.0.0?classifier=sources
 - pkg:maven/org.bitbucket.swattu/test-support@5.0.1
 - pkg:maven/org.bitbucket.swattu/test-support@5.0.1?classifier=sources
+- pkg:maven/org.bitbucket.swattu/test-support@6.0.1
+- pkg:maven/org.bitbucket.swattu/test-support@6.0.1?classifier=sources

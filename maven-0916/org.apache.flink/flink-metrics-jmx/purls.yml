@@ -42,6 +42,8 @@
 - pkg:maven/org.apache.flink/flink-metrics-jmx@1.15.2?classifier=sources
 - pkg:maven/org.apache.flink/flink-metrics-jmx@1.15.3
 - pkg:maven/org.apache.flink/flink-metrics-jmx@1.15.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-metrics-jmx@1.15.4
+- pkg:maven/org.apache.flink/flink-metrics-jmx@1.15.4?classifier=sources
 - pkg:maven/org.apache.flink/flink-metrics-jmx@1.16.0
 - pkg:maven/org.apache.flink/flink-metrics-jmx@1.16.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-metrics-jmx@1.16.1

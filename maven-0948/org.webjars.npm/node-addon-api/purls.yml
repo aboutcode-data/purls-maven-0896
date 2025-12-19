@@ -4,5 +4,7 @@
 - pkg:maven/org.webjars.npm/node-addon-api@2.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/node-addon-api@3.2.1
 - pkg:maven/org.webjars.npm/node-addon-api@3.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/node-addon-api@4.3.0
+- pkg:maven/org.webjars.npm/node-addon-api@4.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/node-addon-api@5.0.0
 - pkg:maven/org.webjars.npm/node-addon-api@5.0.0?classifier=sources

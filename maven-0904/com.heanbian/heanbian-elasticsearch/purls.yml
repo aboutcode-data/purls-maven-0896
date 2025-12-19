@@ -3,4 +3,6 @@
 - pkg:maven/com.heanbian/heanbian-elasticsearch@10
 - pkg:maven/com.heanbian/heanbian-elasticsearch@10?classifier=sources
 - pkg:maven/com.heanbian/heanbian-elasticsearch@13
+- pkg:maven/com.heanbian/heanbian-elasticsearch@13.3
+- pkg:maven/com.heanbian/heanbian-elasticsearch@13.3?classifier=sources
 - pkg:maven/com.heanbian/heanbian-elasticsearch@13?classifier=sources

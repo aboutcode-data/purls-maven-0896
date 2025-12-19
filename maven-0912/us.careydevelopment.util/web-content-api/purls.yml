@@ -14,3 +14,5 @@
 - pkg:maven/us.careydevelopment.util/web-content-api@1.6.0?classifier=sources
 - pkg:maven/us.careydevelopment.util/web-content-api@1.7.0
 - pkg:maven/us.careydevelopment.util/web-content-api@1.7.0?classifier=sources
+- pkg:maven/us.careydevelopment.util/web-content-api@1.9.0
+- pkg:maven/us.careydevelopment.util/web-content-api@1.9.0?classifier=sources

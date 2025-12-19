@@ -1,1 +1,5 @@
+- pkg:maven/me.jahnen.libaums/core@0.10.0?classifier=sources
 - pkg:maven/me.jahnen.libaums/core@0.9.1?classifier=sources
+- pkg:maven/me.jahnen.libaums/core@0.9.2?classifier=sources
+- pkg:maven/me.jahnen.libaums/core@0.9.3?classifier=sources
+- pkg:maven/me.jahnen.libaums/core@0.9.4?classifier=sources

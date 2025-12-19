@@ -64,6 +64,8 @@
 - pkg:maven/org.opencastproject/opencast-static-file-service-api@12.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-static-file-service-api@12.8
 - pkg:maven/org.opencastproject/opencast-static-file-service-api@12.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-static-file-service-api@12.9
+- pkg:maven/org.opencastproject/opencast-static-file-service-api@12.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-static-file-service-api@13.0
 - pkg:maven/org.opencastproject/opencast-static-file-service-api@13.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-static-file-service-api@13.1

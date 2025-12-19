@@ -10,3 +10,4 @@
 - pkg:maven/com.aceql/aceql-http-client-jdbc-driver@9.0?classifier=sources
 - pkg:maven/com.aceql/aceql-http-client-jdbc-driver@9.1?classifier=sources
 - pkg:maven/com.aceql/aceql-http-client-jdbc-driver@9.2?classifier=sources
+- pkg:maven/com.aceql/aceql-http-client-jdbc-driver@9.3?classifier=sources

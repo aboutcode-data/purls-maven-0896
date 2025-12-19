@@ -99,3 +99,4 @@
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.5.5
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.5.5?classifier=sources
 - pkg:maven/org.apache.struts/struts2-archetype-dbportlet@2.5?classifier=sources
+- pkg:maven/org.apache.struts/struts2-archetype-dbportlet@6.0.0?classifier=sources

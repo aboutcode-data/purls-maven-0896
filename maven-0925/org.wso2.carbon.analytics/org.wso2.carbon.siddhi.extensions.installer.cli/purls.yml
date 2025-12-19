@@ -26,3 +26,4 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.cli@3.0.66?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.cli@3.0.67?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.cli@3.0.68?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.siddhi.extensions.installer.cli@3.0.69?classifier=sources

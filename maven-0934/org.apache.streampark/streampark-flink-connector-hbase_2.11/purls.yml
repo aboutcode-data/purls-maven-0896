@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.streampark/streampark-flink-connector-hbase_2.11@2.0.0
+- pkg:maven/org.apache.streampark/streampark-flink-connector-hbase_2.11@2.0.0?classifier=sources

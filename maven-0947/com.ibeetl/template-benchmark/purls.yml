@@ -1,2 +1,4 @@
 - pkg:maven/com.ibeetl/template-benchmark@3.13.0.RELEASE
 - pkg:maven/com.ibeetl/template-benchmark@3.13.0.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/template-benchmark@3.14.1.RELEASE
+- pkg:maven/com.ibeetl/template-benchmark@3.14.1.RELEASE?classifier=sources

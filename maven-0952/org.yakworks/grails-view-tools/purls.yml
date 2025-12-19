@@ -1,5 +1,6 @@
 - pkg:maven/org.yakworks/grails-view-tools@4.0.0
 - pkg:maven/org.yakworks/grails-view-tools@4.0.0?classifier=sources
+- pkg:maven/org.yakworks/grails-view-tools@5.0.10?classifier=sources
 - pkg:maven/org.yakworks/grails-view-tools@5.0.1?classifier=sources
 - pkg:maven/org.yakworks/grails-view-tools@5.0.2?classifier=sources
 - pkg:maven/org.yakworks/grails-view-tools@5.0.3?classifier=sources

@@ -172,6 +172,8 @@
 - pkg:maven/org.jboss.resteasy/tjws@3.15.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/tjws@3.15.3.Final
 - pkg:maven/org.jboss.resteasy/tjws@3.15.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/tjws@3.15.6.Final
+- pkg:maven/org.jboss.resteasy/tjws@3.15.6.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/tjws@3.5.0.CR1
 - pkg:maven/org.jboss.resteasy/tjws@3.5.0.CR1?classifier=sources
 - pkg:maven/org.jboss.resteasy/tjws@3.5.0.CR2

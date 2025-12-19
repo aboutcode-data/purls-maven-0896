@@ -104,3 +104,5 @@
 - pkg:maven/com.aliyun.openservices/ons-api@2.0.3.Final?classifier=sources
 - pkg:maven/com.aliyun.openservices/ons-api@2.0.4.Final
 - pkg:maven/com.aliyun.openservices/ons-api@2.0.4.Final?classifier=sources
+- pkg:maven/com.aliyun.openservices/ons-api@2.0.5.Final
+- pkg:maven/com.aliyun.openservices/ons-api@2.0.5.Final?classifier=sources

@@ -37,3 +37,4 @@
 - pkg:maven/com.walmartlabs.concord.plugins/s3-task@1.43.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/s3-task@1.44.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord.plugins/s3-task@1.45.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord.plugins/s3-task@1.46.0?classifier=sources

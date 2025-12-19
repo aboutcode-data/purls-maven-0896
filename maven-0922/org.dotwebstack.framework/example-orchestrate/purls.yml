@@ -68,6 +68,8 @@
 - pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.133?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.134
 - pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.134?classifier=sources
+- pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.135
+- pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.135?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.48
 - pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.48?classifier=sources
 - pkg:maven/org.dotwebstack.framework/example-orchestrate@0.3.50

@@ -160,6 +160,7 @@
 - pkg:maven/com.palantir.tritium/tritium-registry@0.59.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.60.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.61.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-registry@0.62.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.8.0
 - pkg:maven/com.palantir.tritium/tritium-registry@0.8.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.8.1

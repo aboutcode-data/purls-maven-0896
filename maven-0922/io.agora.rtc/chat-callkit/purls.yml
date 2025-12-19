@@ -4,3 +4,4 @@
 - pkg:maven/io.agora.rtc/chat-callkit@1.0.8-ci-test-2?classifier=sources
 - pkg:maven/io.agora.rtc/chat-callkit@1.0.8?classifier=sources
 - pkg:maven/io.agora.rtc/chat-callkit@1.0.9?classifier=sources
+- pkg:maven/io.agora.rtc/chat-callkit@1.1.0?classifier=sources

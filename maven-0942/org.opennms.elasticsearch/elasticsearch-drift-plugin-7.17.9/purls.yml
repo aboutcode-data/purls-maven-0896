@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.elasticsearch/elasticsearch-drift-plugin-7.17.9@2.0.4?classifier=sources
+- pkg:maven/org.opennms.elasticsearch/elasticsearch-drift-plugin-7.17.9@2.0.5?classifier=sources

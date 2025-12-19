@@ -53,3 +53,7 @@
 - pkg:maven/io.trino/trino-redshift@403?classifier=sources
 - pkg:maven/io.trino/trino-redshift@405?classifier=sources
 - pkg:maven/io.trino/trino-redshift@406?classifier=sources
+- pkg:maven/io.trino/trino-redshift@407?classifier=sources
+- pkg:maven/io.trino/trino-redshift@408?classifier=sources
+- pkg:maven/io.trino/trino-redshift@409?classifier=sources
+- pkg:maven/io.trino/trino-redshift@410?classifier=sources

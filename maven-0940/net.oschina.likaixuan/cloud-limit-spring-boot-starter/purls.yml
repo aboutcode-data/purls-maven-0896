@@ -1,4 +1,6 @@
 - pkg:maven/net.oschina.likaixuan/cloud-limit-spring-boot-starter@1.0.0
 - pkg:maven/net.oschina.likaixuan/cloud-limit-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/net.oschina.likaixuan/cloud-limit-spring-boot-starter@2.2.2.219RELEASE
+- pkg:maven/net.oschina.likaixuan/cloud-limit-spring-boot-starter@2.2.2.219RELEASE?classifier=sources
 - pkg:maven/net.oschina.likaixuan/cloud-limit-spring-boot-starter@2.2.2.RELEASE
 - pkg:maven/net.oschina.likaixuan/cloud-limit-spring-boot-starter@2.2.2.RELEASE?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/io.github.adven27/env-grpc-mock@4.0.7?classifier=sources
 - pkg:maven/io.github.adven27/env-grpc-mock@5.0.0?classifier=sources
 - pkg:maven/io.github.adven27/env-grpc-mock@5.0.1?classifier=sources
+- pkg:maven/io.github.adven27/env-grpc-mock@5.0.2?classifier=sources

@@ -37,3 +37,5 @@
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.5.0?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.5.30?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.5.56?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.5.69?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@3.5.81?classifier=sources

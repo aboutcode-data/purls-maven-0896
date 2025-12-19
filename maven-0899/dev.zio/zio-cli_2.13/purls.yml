@@ -22,3 +22,5 @@
 - pkg:maven/dev.zio/zio-cli_2.13@0.3.0-M01?classifier=sources
 - pkg:maven/dev.zio/zio-cli_2.13@0.3.0-M02
 - pkg:maven/dev.zio/zio-cli_2.13@0.3.0-M02?classifier=sources
+- pkg:maven/dev.zio/zio-cli_2.13@0.4.0
+- pkg:maven/dev.zio/zio-cli_2.13@0.4.0?classifier=sources

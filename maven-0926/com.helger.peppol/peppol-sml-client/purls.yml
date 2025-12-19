@@ -78,3 +78,5 @@
 - pkg:maven/com.helger.peppol/peppol-sml-client@8.8.3?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-sml-client@8.8.4
 - pkg:maven/com.helger.peppol/peppol-sml-client@8.8.4?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-sml-client@9.0.0
+- pkg:maven/com.helger.peppol/peppol-sml-client@9.0.0?classifier=sources

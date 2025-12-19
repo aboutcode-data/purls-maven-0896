@@ -212,6 +212,14 @@
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.192.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.193.0
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.193.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.194.0
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.194.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.195.0
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.195.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.196.0
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.196.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.197.0
+- pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.197.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.40.0
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.40.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/elasticloadbalancingv2-actions@1.41.0

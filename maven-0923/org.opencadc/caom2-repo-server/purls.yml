@@ -2,3 +2,4 @@
 - pkg:maven/org.opencadc/caom2-repo-server@2.4.12?classifier=sources
 - pkg:maven/org.opencadc/caom2-repo-server@2.4.13?classifier=sources
 - pkg:maven/org.opencadc/caom2-repo-server@2.4.14?classifier=sources
+- pkg:maven/org.opencadc/caom2-repo-server@2.4.15?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.github.globaltcad/swing-tree@0.1.0?classifier=sources
 - pkg:maven/io.github.globaltcad/swing-tree@0.2.0?classifier=sources
 - pkg:maven/io.github.globaltcad/swing-tree@0.3.0?classifier=sources
+- pkg:maven/io.github.globaltcad/swing-tree@0.4.0?classifier=sources
+- pkg:maven/io.github.globaltcad/swing-tree@0.4.1?classifier=sources

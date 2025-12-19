@@ -334,6 +334,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.10.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.10.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.10.5?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.10.6
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.10.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.2
@@ -365,6 +367,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.4.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.4.7
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.4.7?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.4.8
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.4.8?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@14.5?classifier=sources
@@ -388,6 +392,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@15.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@15.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@15.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@15.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@15.1-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@15.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@15.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@7.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@7.0-milestone-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@7.0-milestone-1?classifier=sources

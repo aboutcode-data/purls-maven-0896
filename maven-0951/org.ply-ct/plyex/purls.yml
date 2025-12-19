@@ -1,2 +1,5 @@
 - pkg:maven/org.ply-ct/plyex@0.1.0?classifier=sources
 - pkg:maven/org.ply-ct/plyex@1.0.1?classifier=sources
+- pkg:maven/org.ply-ct/plyex@1.0.2?classifier=sources
+- pkg:maven/org.ply-ct/plyex@1.1.1?classifier=sources
+- pkg:maven/org.ply-ct/plyex@1.1.2?classifier=sources

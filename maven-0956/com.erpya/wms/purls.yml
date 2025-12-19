@@ -1,0 +1,4 @@
+- pkg:maven/com.erpya/wms@erpya-3.9.4-rc-1.0.1?classifier=sources
+- pkg:maven/com.erpya/wms@erpya-3.9.4-rc-1.0.2?classifier=sources
+- pkg:maven/com.erpya/wms@erpya-3.9.4-rc-1.0.3?classifier=sources
+- pkg:maven/com.erpya/wms@erpya-3.9.4-rc-1.0.4?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.wso2.carbon.utils/carbon-utils@2.0.9?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.utils/carbon-utils@2.1.0?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.utils/carbon-utils@2.1.1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.utils/carbon-utils@2.1.6?classifier=source-release&type=zip

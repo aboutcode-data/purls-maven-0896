@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-core-output2@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-output2@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-output2@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-core-output2@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-core-output2@RELEASE90?classifier=sources

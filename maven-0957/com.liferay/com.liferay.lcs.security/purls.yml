@@ -4,3 +4,6 @@
 - pkg:maven/com.liferay/com.liferay.lcs.security@1.0.14
 - pkg:maven/com.liferay/com.liferay.lcs.security@1.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.lcs.security@1.0.14?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.lcs.security@1.0.15
+- pkg:maven/com.liferay/com.liferay.lcs.security@1.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.lcs.security@1.0.15?classifier=sources-commercial

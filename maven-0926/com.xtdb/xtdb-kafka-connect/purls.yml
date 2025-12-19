@@ -28,3 +28,5 @@
 - pkg:maven/com.xtdb/xtdb-kafka-connect@1.22.2-rc1?classifier=sources
 - pkg:maven/com.xtdb/xtdb-kafka-connect@1.23.0
 - pkg:maven/com.xtdb/xtdb-kafka-connect@1.23.0?classifier=sources
+- pkg:maven/com.xtdb/xtdb-kafka-connect@1.23.1
+- pkg:maven/com.xtdb/xtdb-kafka-connect@1.23.1?classifier=sources

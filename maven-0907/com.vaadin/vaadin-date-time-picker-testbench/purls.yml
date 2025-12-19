@@ -124,6 +124,10 @@
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@14.9.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@14.9.5
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@14.9.5?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@14.9.6
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@14.9.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@14.9.7
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@14.9.7?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@18.0.0
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@18.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@18.0.1
@@ -376,5 +380,9 @@
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@23.3.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@23.3.6
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@23.3.6?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@23.3.7
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@23.3.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@24.0.0
+- pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@24.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@3.0.0
 - pkg:maven/com.vaadin/vaadin-date-time-picker-testbench@3.0.0?classifier=sources

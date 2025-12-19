@@ -30,3 +30,5 @@
 - pkg:maven/org.jetbrains/annotations@23.1.0?classifier=sources
 - pkg:maven/org.jetbrains/annotations@24.0.0
 - pkg:maven/org.jetbrains/annotations@24.0.0?classifier=sources
+- pkg:maven/org.jetbrains/annotations@24.0.1
+- pkg:maven/org.jetbrains/annotations@24.0.1?classifier=sources

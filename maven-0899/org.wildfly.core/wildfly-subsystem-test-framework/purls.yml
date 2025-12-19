@@ -400,6 +400,8 @@
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@20.0.0.Beta5?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@20.0.0.Beta6
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@20.0.0.Beta6?classifier=sources
+- pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@20.0.0.Beta7
+- pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@20.0.0.Beta7?classifier=sources
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@3.0.0.Alpha1
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@3.0.0.Alpha10
 - pkg:maven/org.wildfly.core/wildfly-subsystem-test-framework@3.0.0.Alpha10?classifier=sources

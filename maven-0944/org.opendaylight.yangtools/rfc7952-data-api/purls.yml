@@ -146,6 +146,7 @@
 - pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@7.0.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@7.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@8.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@8.0.10?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@8.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@8.0.2
 - pkg:maven/org.opendaylight.yangtools/rfc7952-data-api@8.0.2?classifier=sources

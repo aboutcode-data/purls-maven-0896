@@ -25,6 +25,7 @@
 - pkg:maven/se.bjurr.violations/violations-command-line@1.22.9?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.23.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.24.0?classifier=sources
+- pkg:maven/se.bjurr.violations/violations-command-line@1.24.1?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.5
 - pkg:maven/se.bjurr.violations/violations-command-line@1.5?classifier=sources
 - pkg:maven/se.bjurr.violations/violations-command-line@1.7

@@ -1,2 +1,4 @@
 - pkg:maven/io.fria.lilo/bss-server1@22.11.0
 - pkg:maven/io.fria.lilo/bss-server1@22.11.0?classifier=sources
+- pkg:maven/io.fria.lilo/bss-server1@23.3.0
+- pkg:maven/io.fria.lilo/bss-server1@23.3.0?classifier=sources

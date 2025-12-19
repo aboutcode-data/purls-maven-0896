@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/mdb-ui-kit@4.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/mdb-ui-kit@5.0.0
 - pkg:maven/org.webjars.npm/mdb-ui-kit@5.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/mdb-ui-kit@6.2.0
+- pkg:maven/org.webjars.npm/mdb-ui-kit@6.2.0?classifier=sources

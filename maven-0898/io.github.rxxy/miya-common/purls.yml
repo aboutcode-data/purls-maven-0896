@@ -21,4 +21,6 @@
 - pkg:maven/io.github.rxxy/miya-common@1.6.2?classifier=sources
 - pkg:maven/io.github.rxxy/miya-common@1.6.3
 - pkg:maven/io.github.rxxy/miya-common@1.6.3?classifier=sources
+- pkg:maven/io.github.rxxy/miya-common@1.6.4
+- pkg:maven/io.github.rxxy/miya-common@1.6.4?classifier=sources
 - pkg:maven/io.github.rxxy/miya-common@1.6?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.embulk/embulk-encoder-gzip@0.10.34?classifier=sources
 - pkg:maven/org.embulk/embulk-encoder-gzip@0.10.35?classifier=sources
 - pkg:maven/org.embulk/embulk-encoder-gzip@0.10.36?classifier=sources
+- pkg:maven/org.embulk/embulk-encoder-gzip@0.10.37?classifier=sources

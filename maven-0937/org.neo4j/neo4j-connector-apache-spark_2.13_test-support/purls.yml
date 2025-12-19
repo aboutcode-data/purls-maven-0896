@@ -8,3 +8,5 @@
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.13_test-support@4.2.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.13_test-support@5.0.0
 - pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.13_test-support@5.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.13_test-support@5.0.1
+- pkg:maven/org.neo4j/neo4j-connector-apache-spark_2.13_test-support@5.0.1?classifier=sources

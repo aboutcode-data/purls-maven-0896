@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.jdbi/quarkus-jdbi-deployment@0.5.0
+- pkg:maven/io.quarkiverse.jdbi/quarkus-jdbi-deployment@0.5.0?classifier=sources

@@ -55,3 +55,4 @@
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.2.2?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.2.3?classifier=sources
 - pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.2.4?classifier=sources
+- pkg:maven/com.tngtech.jgiven/jgiven-gradle-plugin@1.2.5?classifier=sources

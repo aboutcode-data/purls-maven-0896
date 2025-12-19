@@ -1,0 +1,8 @@
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.BETA
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.BETA2
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.BETA2?classifier=sources
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.BETA3
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.BETA3?classifier=sources
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.BETA?classifier=sources
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.RELEASE
+- pkg:maven/com.mofum.scope/scope-mybatis-boot-starter@2.0.0.RELEASE?classifier=sources

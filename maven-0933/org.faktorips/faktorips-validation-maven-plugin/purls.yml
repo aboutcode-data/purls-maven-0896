@@ -5,3 +5,7 @@
 - pkg:maven/org.faktorips/faktorips-validation-maven-plugin@23.1.0.a20230124-01?classifier=sources
 - pkg:maven/org.faktorips/faktorips-validation-maven-plugin@23.1.0.release
 - pkg:maven/org.faktorips/faktorips-validation-maven-plugin@23.1.0.release?classifier=sources
+- pkg:maven/org.faktorips/faktorips-validation-maven-plugin@23.6.0.a20230301-01
+- pkg:maven/org.faktorips/faktorips-validation-maven-plugin@23.6.0.a20230301-01?classifier=sources
+- pkg:maven/org.faktorips/faktorips-validation-maven-plugin@23.6.0.a20230310-01
+- pkg:maven/org.faktorips/faktorips-validation-maven-plugin@23.6.0.a20230310-01?classifier=sources

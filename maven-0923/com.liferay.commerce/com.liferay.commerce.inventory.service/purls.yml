@@ -287,6 +287,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.33
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.33?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.34
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.34?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.4
@@ -446,6 +449,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.50
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.50?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.51
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.51?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.52
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.52?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.52?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@4.0.6

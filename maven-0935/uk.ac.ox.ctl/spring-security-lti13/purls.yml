@@ -14,3 +14,5 @@
 - pkg:maven/uk.ac.ox.ctl/spring-security-lti13@0.1.2?classifier=sources
 - pkg:maven/uk.ac.ox.ctl/spring-security-lti13@0.1.3
 - pkg:maven/uk.ac.ox.ctl/spring-security-lti13@0.1.3?classifier=sources
+- pkg:maven/uk.ac.ox.ctl/spring-security-lti13@0.1.4
+- pkg:maven/uk.ac.ox.ctl/spring-security-lti13@0.1.4?classifier=sources

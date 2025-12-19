@@ -18,6 +18,8 @@
 - pkg:maven/com.devonfw.java.modules/devon4j-logging@2022.04.001?classifier=sources
 - pkg:maven/com.devonfw.java.modules/devon4j-logging@2022.12.001
 - pkg:maven/com.devonfw.java.modules/devon4j-logging@2022.12.001?classifier=sources
+- pkg:maven/com.devonfw.java.modules/devon4j-logging@2023.01.001
+- pkg:maven/com.devonfw.java.modules/devon4j-logging@2023.01.001?classifier=sources
 - pkg:maven/com.devonfw.java.modules/devon4j-logging@3.0.0
 - pkg:maven/com.devonfw.java.modules/devon4j-logging@3.0.0-alpha.1
 - pkg:maven/com.devonfw.java.modules/devon4j-logging@3.0.0-alpha.1?classifier=sources

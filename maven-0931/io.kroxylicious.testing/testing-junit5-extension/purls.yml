@@ -1,0 +1,2 @@
+- pkg:maven/io.kroxylicious.testing/testing-junit5-extension@0.1
+- pkg:maven/io.kroxylicious.testing/testing-junit5-extension@0.1?classifier=sources

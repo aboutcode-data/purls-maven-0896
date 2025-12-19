@@ -6,3 +6,5 @@
 - pkg:maven/org.refcodes/refcodes-logger-ext-slf4j-legacy@3.0.8?classifier=sources
 - pkg:maven/org.refcodes/refcodes-logger-ext-slf4j-legacy@3.0.9
 - pkg:maven/org.refcodes/refcodes-logger-ext-slf4j-legacy@3.0.9?classifier=sources
+- pkg:maven/org.refcodes/refcodes-logger-ext-slf4j-legacy@3.1.0
+- pkg:maven/org.refcodes/refcodes-logger-ext-slf4j-legacy@3.1.0?classifier=sources

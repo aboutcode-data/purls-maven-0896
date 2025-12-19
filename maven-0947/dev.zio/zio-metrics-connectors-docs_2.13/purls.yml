@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-metrics-connectors-docs_2.13@2.0.6
+- pkg:maven/dev.zio/zio-metrics-connectors-docs_2.13@2.0.6?classifier=sources
+- pkg:maven/dev.zio/zio-metrics-connectors-docs_2.13@2.0.7
+- pkg:maven/dev.zio/zio-metrics-connectors-docs_2.13@2.0.7?classifier=sources

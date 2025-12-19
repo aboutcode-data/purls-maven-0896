@@ -20,3 +20,4 @@
 - pkg:maven/org.corpus-tools/pepper-framework@3.5.2?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-framework@3.5.3?classifier=sources
 - pkg:maven/org.corpus-tools/pepper-framework@3.6.0?classifier=sources
+- pkg:maven/org.corpus-tools/pepper-framework@3.6.1?classifier=sources

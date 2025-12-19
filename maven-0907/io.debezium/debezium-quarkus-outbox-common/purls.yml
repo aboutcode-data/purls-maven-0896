@@ -1,0 +1,4 @@
+- pkg:maven/io.debezium/debezium-quarkus-outbox-common@2.2.0.Alpha2
+- pkg:maven/io.debezium/debezium-quarkus-outbox-common@2.2.0.Alpha2?classifier=sources
+- pkg:maven/io.debezium/debezium-quarkus-outbox-common@2.2.0.Alpha3
+- pkg:maven/io.debezium/debezium-quarkus-outbox-common@2.2.0.Alpha3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.zebrunner/carina-aws-s3@1.0.0
 - pkg:maven/com.zebrunner/carina-aws-s3@1.0.0?classifier=sources
+- pkg:maven/com.zebrunner/carina-aws-s3@1.0.1
+- pkg:maven/com.zebrunner/carina-aws-s3@1.0.1?classifier=sources

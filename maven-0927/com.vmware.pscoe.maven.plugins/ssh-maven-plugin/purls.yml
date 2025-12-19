@@ -1,0 +1,2 @@
+- pkg:maven/com.vmware.pscoe.maven.plugins/ssh-maven-plugin@2.30.0
+- pkg:maven/com.vmware.pscoe.maven.plugins/ssh-maven-plugin@2.30.0?classifier=sources

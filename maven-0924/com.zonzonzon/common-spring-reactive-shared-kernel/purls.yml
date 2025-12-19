@@ -2,5 +2,7 @@
 - pkg:maven/com.zonzonzon/common-spring-reactive-shared-kernel@1.10?classifier=sources
 - pkg:maven/com.zonzonzon/common-spring-reactive-shared-kernel@1.11
 - pkg:maven/com.zonzonzon/common-spring-reactive-shared-kernel@1.11?classifier=sources
+- pkg:maven/com.zonzonzon/common-spring-reactive-shared-kernel@1.12
+- pkg:maven/com.zonzonzon/common-spring-reactive-shared-kernel@1.12?classifier=sources
 - pkg:maven/com.zonzonzon/common-spring-reactive-shared-kernel@1.9
 - pkg:maven/com.zonzonzon/common-spring-reactive-shared-kernel@1.9?classifier=sources

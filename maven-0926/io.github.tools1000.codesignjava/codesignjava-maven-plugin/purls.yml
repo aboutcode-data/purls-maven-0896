@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tools1000.codesignjava/codesignjava-maven-plugin@3.0.2
+- pkg:maven/io.github.tools1000.codesignjava/codesignjava-maven-plugin@3.0.2?classifier=sources

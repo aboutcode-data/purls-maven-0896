@@ -1,5 +1,6 @@
 - pkg:maven/io.allune/docker-server-client-with-failover@2.10.0
 - pkg:maven/io.allune/docker-server-client-with-failover@2.11.0
+- pkg:maven/io.allune/docker-server-client-with-failover@2.15.0
 - pkg:maven/io.allune/docker-server-client-with-failover@2.5.0
 - pkg:maven/io.allune/docker-server-client-with-failover@2.5.2
 - pkg:maven/io.allune/docker-server-client-with-failover@2.6.0

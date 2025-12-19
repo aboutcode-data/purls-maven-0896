@@ -32,3 +32,5 @@
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.1.7.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.2.0.CR1?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.2.0.CR2?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.2.0.CR3?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.2.0.CR4?classifier=sources

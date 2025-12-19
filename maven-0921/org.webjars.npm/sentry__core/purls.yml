@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/sentry__core@7.0.0-rc.0?classifier=sources
 - pkg:maven/org.webjars.npm/sentry__core@7.15.0
 - pkg:maven/org.webjars.npm/sentry__core@7.15.0?classifier=sources
+- pkg:maven/org.webjars.npm/sentry__core@7.41.0
+- pkg:maven/org.webjars.npm/sentry__core@7.41.0?classifier=sources

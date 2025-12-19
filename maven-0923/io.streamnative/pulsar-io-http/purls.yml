@@ -1,2 +1,8 @@
+- pkg:maven/io.streamnative/pulsar-io-http@2.11.0.0-rc5
+- pkg:maven/io.streamnative/pulsar-io-http@2.11.0.0-rc5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-http@2.11.0.1
+- pkg:maven/io.streamnative/pulsar-io-http@2.11.0.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-http@2.11.0.2
+- pkg:maven/io.streamnative/pulsar-io-http@2.11.0.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-http@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-io-http@master-rc-daily?classifier=sources

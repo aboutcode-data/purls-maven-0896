@@ -85,3 +85,6 @@
 - pkg:maven/io.peekandpoke.ultra/logging-jvm@0.59.8?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/logging-jvm@0.60.0?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/logging-jvm@0.61.2?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/logging-jvm@0.62.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/logging-jvm@0.62.1?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/logging-jvm@0.62.2?classifier=sources

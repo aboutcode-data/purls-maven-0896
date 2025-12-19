@@ -176,3 +176,5 @@
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@4.6.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@4.7.0
 - pkg:maven/com.sap.cloud.sdk.s4hana/rfc@4.7.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@4.8.0
+- pkg:maven/com.sap.cloud.sdk.s4hana/rfc@4.8.0?classifier=sources

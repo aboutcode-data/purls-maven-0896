@@ -64,6 +64,8 @@
 - pkg:maven/org.opencastproject/opencast-event-comment@12.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-event-comment@12.8
 - pkg:maven/org.opencastproject/opencast-event-comment@12.8?classifier=sources
+- pkg:maven/org.opencastproject/opencast-event-comment@12.9
+- pkg:maven/org.opencastproject/opencast-event-comment@12.9?classifier=sources
 - pkg:maven/org.opencastproject/opencast-event-comment@13.0
 - pkg:maven/org.opencastproject/opencast-event-comment@13.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-event-comment@13.1

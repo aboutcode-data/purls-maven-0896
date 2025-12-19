@@ -21,6 +21,8 @@
 - pkg:maven/xyz.rogfam/littleproxy@2.0.14?classifier=sources
 - pkg:maven/xyz.rogfam/littleproxy@2.0.15
 - pkg:maven/xyz.rogfam/littleproxy@2.0.15?classifier=sources
+- pkg:maven/xyz.rogfam/littleproxy@2.0.16
+- pkg:maven/xyz.rogfam/littleproxy@2.0.16?classifier=sources
 - pkg:maven/xyz.rogfam/littleproxy@2.0.1?classifier=sources
 - pkg:maven/xyz.rogfam/littleproxy@2.0.2
 - pkg:maven/xyz.rogfam/littleproxy@2.0.2?classifier=sources

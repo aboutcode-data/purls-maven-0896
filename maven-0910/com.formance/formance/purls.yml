@@ -1,0 +1,4 @@
+- pkg:maven/com.formance/formance@1.0.20230227
+- pkg:maven/com.formance/formance@1.0.20230227?classifier=sources
+- pkg:maven/com.formance/formance@v1.0.20230301
+- pkg:maven/com.formance/formance@v1.0.20230301?classifier=sources

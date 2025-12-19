@@ -122,5 +122,15 @@
 - pkg:maven/com.idea-aedi/common-spring@2100.5.8?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@2100.5.9
 - pkg:maven/com.idea-aedi/common-spring@2100.5.9?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.6.0
+- pkg:maven/com.idea-aedi/common-spring@2100.6.0?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.6.1
+- pkg:maven/com.idea-aedi/common-spring@2100.6.1?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.6.2
+- pkg:maven/com.idea-aedi/common-spring@2100.6.2?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.6.3
+- pkg:maven/com.idea-aedi/common-spring@2100.6.3?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.6.4
+- pkg:maven/com.idea-aedi/common-spring@2100.6.4?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@21GA.3.3
 - pkg:maven/com.idea-aedi/common-spring@21GA.3.3?classifier=sources

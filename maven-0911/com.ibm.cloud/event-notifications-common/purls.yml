@@ -22,3 +22,5 @@
 - pkg:maven/com.ibm.cloud/event-notifications-common@0.1.7?classifier=sources
 - pkg:maven/com.ibm.cloud/event-notifications-common@0.1.8
 - pkg:maven/com.ibm.cloud/event-notifications-common@0.1.8?classifier=sources
+- pkg:maven/com.ibm.cloud/event-notifications-common@0.1.9
+- pkg:maven/com.ibm.cloud/event-notifications-common@0.1.9?classifier=sources

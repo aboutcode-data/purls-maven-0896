@@ -24,3 +24,5 @@
 - pkg:maven/com.cjxch.supermybatis/super-mybatis@1.2.1-RC1
 - pkg:maven/com.cjxch.supermybatis/super-mybatis@1.2.1-RC1?classifier=sources
 - pkg:maven/com.cjxch.supermybatis/super-mybatis@1.2.1?classifier=sources
+- pkg:maven/com.cjxch.supermybatis/super-mybatis@1.2.2-RC1
+- pkg:maven/com.cjxch.supermybatis/super-mybatis@1.2.2-RC1?classifier=sources

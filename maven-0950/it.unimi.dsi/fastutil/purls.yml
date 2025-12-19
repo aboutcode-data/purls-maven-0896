@@ -125,6 +125,8 @@
 - pkg:maven/it.unimi.dsi/fastutil@8.5.1
 - pkg:maven/it.unimi.dsi/fastutil@8.5.11
 - pkg:maven/it.unimi.dsi/fastutil@8.5.11?classifier=sources
+- pkg:maven/it.unimi.dsi/fastutil@8.5.12
+- pkg:maven/it.unimi.dsi/fastutil@8.5.12?classifier=sources
 - pkg:maven/it.unimi.dsi/fastutil@8.5.1?classifier=sources
 - pkg:maven/it.unimi.dsi/fastutil@8.5.2
 - pkg:maven/it.unimi.dsi/fastutil@8.5.2?classifier=sources

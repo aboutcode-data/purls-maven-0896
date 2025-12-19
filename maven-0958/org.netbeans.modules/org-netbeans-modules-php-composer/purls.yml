@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE170?classifier=sources

@@ -6,5 +6,7 @@
 - pkg:maven/cool.scx/scx-dao@2.0.12?classifier=sources
 - pkg:maven/cool.scx/scx-dao@2.0.13
 - pkg:maven/cool.scx/scx-dao@2.0.13?classifier=sources
+- pkg:maven/cool.scx/scx-dao@2.0.14
+- pkg:maven/cool.scx/scx-dao@2.0.14?classifier=sources
 - pkg:maven/cool.scx/scx-dao@2.0.9
 - pkg:maven/cool.scx/scx-dao@2.0.9?classifier=sources

@@ -8,6 +8,8 @@
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.2.0?type=war
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.0?classifier=sources
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.0?type=war
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.10?classifier=sources
+- pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.10?type=war
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.1?classifier=sources
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.1?type=war
 - pkg:maven/org.wso2.samples.is/pickup-dispatch@4.3.2?classifier=sources

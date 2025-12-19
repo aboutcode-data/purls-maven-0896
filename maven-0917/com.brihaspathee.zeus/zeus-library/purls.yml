@@ -155,6 +155,10 @@
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.8
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.80
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.80?classifier=sources
+- pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.81
+- pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.81?classifier=sources
+- pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.82
+- pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.82?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.8?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.9
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.9?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-memcached@1.2.1-RC1
 - pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-memcached@1.2.1-RC1?classifier=sources
 - pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-memcached@1.2.1?classifier=sources
+- pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-memcached@1.2.2-RC1
+- pkg:maven/com.cjxch.supermybatis/super-mybatis-cache-memcached@1.2.2-RC1?classifier=sources

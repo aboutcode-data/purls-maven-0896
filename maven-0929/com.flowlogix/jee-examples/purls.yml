@@ -62,3 +62,5 @@
 - pkg:maven/com.flowlogix/jee-examples@5.3.2?type=war
 - pkg:maven/com.flowlogix/jee-examples@5.3?classifier=sources
 - pkg:maven/com.flowlogix/jee-examples@5.3?type=war
+- pkg:maven/com.flowlogix/jee-examples@5.4?classifier=sources
+- pkg:maven/com.flowlogix/jee-examples@5.4?type=war

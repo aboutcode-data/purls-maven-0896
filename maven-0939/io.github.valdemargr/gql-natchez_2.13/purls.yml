@@ -20,6 +20,8 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1942a0f?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1a289f9
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1a289f9?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1a4792a
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1a4792a?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1b55057
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1b55057?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-1fce4e0
@@ -32,6 +34,8 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-273e3f3?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-2dcf06e
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-2dcf06e?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-3642a41
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-3642a41?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-3a38c79
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-3a38c79?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-3d13b4f
@@ -40,6 +44,8 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-44ef341?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-4a40183
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-4a40183?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-509e323
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-509e323?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-5397538
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-5397538?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-553d54e
@@ -48,6 +54,8 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-5ae3e28?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-5c46e9f
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-5c46e9f?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-5f181f3
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-5f181f3?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-611efd0
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-611efd0?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-6257648
@@ -56,6 +64,8 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-66fd60a?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-6c8ba95
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-6c8ba95?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-6e39948
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-6e39948?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-6f24ac4
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-6f24ac4?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-7c73373
@@ -66,6 +76,8 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-7df1465?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-80e1b0f
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-80e1b0f?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-8a75048
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-8a75048?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-8f03c14
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-8f03c14?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-92f56ed
@@ -94,6 +106,12 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-cfcd420?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d3d3dd7
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d3d3dd7?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d3fc7eb
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d3fc7eb?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d684421
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d684421?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d9eb462
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-d9eb462?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-da646f3
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-da646f3?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-dcba15d
@@ -102,6 +120,8 @@
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-dd066be?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-df25c05
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-df25c05?classifier=sources
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-e0171f7
+- pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-e0171f7?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-e447d9d
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-e447d9d?classifier=sources
 - pkg:maven/io.github.valdemargr/gql-natchez_2.13@0.1-e4822ae

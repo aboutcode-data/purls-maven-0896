@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkus/quarkus-elasticsearch-java-client@3.0.0.Alpha4
+- pkg:maven/io.quarkus/quarkus-elasticsearch-java-client@3.0.0.Alpha4?classifier=sources
+- pkg:maven/io.quarkus/quarkus-elasticsearch-java-client@3.0.0.Alpha5
+- pkg:maven/io.quarkus/quarkus-elasticsearch-java-client@3.0.0.Alpha5?classifier=sources

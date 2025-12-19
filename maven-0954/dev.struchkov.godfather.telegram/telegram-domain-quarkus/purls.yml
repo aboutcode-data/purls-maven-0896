@@ -1,0 +1,6 @@
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-domain-quarkus@0.0.49
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-domain-quarkus@0.0.49?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-domain-quarkus@0.0.50
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-domain-quarkus@0.0.50?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-domain-quarkus@0.0.51
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-domain-quarkus@0.0.51?classifier=sources

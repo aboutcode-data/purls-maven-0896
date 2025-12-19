@@ -18,3 +18,9 @@
 - pkg:maven/io.github.qudtlib/qudtlib-vocab@3.1.0?classifier=sources
 - pkg:maven/io.github.qudtlib/qudtlib-vocab@4.0.0
 - pkg:maven/io.github.qudtlib/qudtlib-vocab@4.0.0?classifier=sources
+- pkg:maven/io.github.qudtlib/qudtlib-vocab@4.1.0
+- pkg:maven/io.github.qudtlib/qudtlib-vocab@4.1.0?classifier=sources
+- pkg:maven/io.github.qudtlib/qudtlib-vocab@4.2.0
+- pkg:maven/io.github.qudtlib/qudtlib-vocab@4.2.0?classifier=sources
+- pkg:maven/io.github.qudtlib/qudtlib-vocab@4.3.0
+- pkg:maven/io.github.qudtlib/qudtlib-vocab@4.3.0?classifier=sources

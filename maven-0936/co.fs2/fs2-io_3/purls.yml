@@ -558,3 +558,7 @@
 - pkg:maven/co.fs2/fs2-io_3@3.6.0?classifier=sources
 - pkg:maven/co.fs2/fs2-io_3@3.6.1
 - pkg:maven/co.fs2/fs2-io_3@3.6.1?classifier=sources
+- pkg:maven/co.fs2/fs2-io_3@3.7.0-RC1
+- pkg:maven/co.fs2/fs2-io_3@3.7.0-RC1?classifier=sources
+- pkg:maven/co.fs2/fs2-io_3@3.7.0-RC2
+- pkg:maven/co.fs2/fs2-io_3@3.7.0-RC2?classifier=sources

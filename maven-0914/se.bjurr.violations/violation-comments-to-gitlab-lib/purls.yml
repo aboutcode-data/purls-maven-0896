@@ -159,6 +159,7 @@
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-lib@1.86.2?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-lib@1.86.3?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-lib@1.86.4?classifier=sources
+- pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-lib@1.87.0?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-lib@1.8?classifier=sources
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-lib@1.9
 - pkg:maven/se.bjurr.violations/violation-comments-to-gitlab-lib@1.9?classifier=sources

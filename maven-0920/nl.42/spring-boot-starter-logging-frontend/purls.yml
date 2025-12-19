@@ -8,3 +8,5 @@
 - pkg:maven/nl.42/spring-boot-starter-logging-frontend@1.2.0?classifier=sources
 - pkg:maven/nl.42/spring-boot-starter-logging-frontend@1.3.0
 - pkg:maven/nl.42/spring-boot-starter-logging-frontend@1.3.0?classifier=sources
+- pkg:maven/nl.42/spring-boot-starter-logging-frontend@2.0.0
+- pkg:maven/nl.42/spring-boot-starter-logging-frontend@2.0.0?classifier=sources

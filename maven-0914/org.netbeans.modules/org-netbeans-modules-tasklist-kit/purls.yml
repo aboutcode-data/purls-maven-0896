@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-kit@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-kit@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-kit@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-kit@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-tasklist-kit@RELEASE90?classifier=sources

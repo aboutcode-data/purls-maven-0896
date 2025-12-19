@@ -74,3 +74,5 @@
 - pkg:maven/com.opentable.components/otj-server-reactive@5.2.8?classifier=sources
 - pkg:maven/com.opentable.components/otj-server-reactive@5.2.9
 - pkg:maven/com.opentable.components/otj-server-reactive@5.2.9?classifier=sources
+- pkg:maven/com.opentable.components/otj-server-reactive@6.0.0
+- pkg:maven/com.opentable.components/otj-server-reactive@6.0.0?classifier=sources

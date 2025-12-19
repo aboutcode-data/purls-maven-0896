@@ -13,3 +13,4 @@
 - pkg:maven/com.scality/osis-app@1.4.7
 - pkg:maven/com.scality/osis-app@1.4.7?classifier=sources
 - pkg:maven/com.scality/osis-app@2.0.0?classifier=sources
+- pkg:maven/com.scality/osis-app@2.1.0?classifier=sources

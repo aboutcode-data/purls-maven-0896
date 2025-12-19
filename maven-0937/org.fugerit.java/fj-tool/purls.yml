@@ -387,6 +387,14 @@
 - pkg:maven/org.fugerit.java/fj-tool@0.8.11?classifier=sources
 - pkg:maven/org.fugerit.java/fj-tool@0.8.12
 - pkg:maven/org.fugerit.java/fj-tool@0.8.12?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@0.8.13
+- pkg:maven/org.fugerit.java/fj-tool@0.8.13?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@0.8.14-rc.1
+- pkg:maven/org.fugerit.java/fj-tool@0.8.14-rc.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@0.8.14-rc.2
+- pkg:maven/org.fugerit.java/fj-tool@0.8.14-rc.2?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@0.8.14-rc.3
+- pkg:maven/org.fugerit.java/fj-tool@0.8.14-rc.3?classifier=sources
 - pkg:maven/org.fugerit.java/fj-tool@0.8.1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-tool@0.8.2
 - pkg:maven/org.fugerit.java/fj-tool@0.8.2?classifier=sources
@@ -414,3 +422,7 @@
 - pkg:maven/org.fugerit.java/fj-tool@0.8.9-b1?classifier=sources
 - pkg:maven/org.fugerit.java/fj-tool@8.0-RC5
 - pkg:maven/org.fugerit.java/fj-tool@8.0-RC5?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@8.0.0
+- pkg:maven/org.fugerit.java/fj-tool@8.0.0?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@8.0.1
+- pkg:maven/org.fugerit.java/fj-tool@8.0.1?classifier=sources

@@ -2,6 +2,10 @@
 - pkg:maven/com.epam.indigo/indigo-renderer@1.10.0-rc.1?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-renderer@1.10.0-rc.2
 - pkg:maven/com.epam.indigo/indigo-renderer@1.10.0-rc.2?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-renderer@1.10.0-rc.3
+- pkg:maven/com.epam.indigo/indigo-renderer@1.10.0-rc.3?classifier=sources
+- pkg:maven/com.epam.indigo/indigo-renderer@1.10.0-rc.4
+- pkg:maven/com.epam.indigo/indigo-renderer@1.10.0-rc.4?classifier=sources
 - pkg:maven/com.epam.indigo/indigo-renderer@1.2.2beta-r1
 - pkg:maven/com.epam.indigo/indigo-renderer@1.2.2beta-r13
 - pkg:maven/com.epam.indigo/indigo-renderer@1.2.2beta-r13?classifier=sources

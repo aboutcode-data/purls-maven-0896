@@ -60,6 +60,8 @@
 - pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.33.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.34.0.Final
 - pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.34.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.35.0.Final
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.35.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.8.0.Final
 - pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.8.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-serverless-workflow-builder@1.9.0.Final

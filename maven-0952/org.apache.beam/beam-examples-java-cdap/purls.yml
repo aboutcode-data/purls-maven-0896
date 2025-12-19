@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.beam/beam-examples-java-cdap@2.45.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-cdap@2.46.0?classifier=sources

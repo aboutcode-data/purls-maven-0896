@@ -14,3 +14,5 @@
 - pkg:maven/org.aoju/bus-pay@6.5.9?classifier=sources
 - pkg:maven/org.aoju/bus-pay@6.6.0
 - pkg:maven/org.aoju/bus-pay@6.6.0?classifier=sources
+- pkg:maven/org.aoju/bus-pay@8.0.0
+- pkg:maven/org.aoju/bus-pay@8.0.0?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/io.falu/falu-identity@2.1.0?classifier=sources
+- pkg:maven/io.falu/falu-identity@2.1.11?classifier=sources
+- pkg:maven/io.falu/falu-identity@2.1.12?classifier=sources
+- pkg:maven/io.falu/falu-identity@2.1.13?classifier=sources
 - pkg:maven/io.falu/falu-identity@2.1.1?classifier=sources
