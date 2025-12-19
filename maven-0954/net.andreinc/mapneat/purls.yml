@@ -10,3 +10,5 @@
 - pkg:maven/net.andreinc/mapneat@0.9.8?classifier=sources
 - pkg:maven/net.andreinc/mapneat@0.9.9
 - pkg:maven/net.andreinc/mapneat@0.9.9?classifier=sources
+- pkg:maven/net.andreinc/mapneat@1.0.0
+- pkg:maven/net.andreinc/mapneat@1.0.0?classifier=sources

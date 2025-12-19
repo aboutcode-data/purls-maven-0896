@@ -62,3 +62,5 @@
 - pkg:maven/com.kumuluz.ee/kumuluzee-jta-common@3.8.0?classifier=sources
 - pkg:maven/com.kumuluz.ee/kumuluzee-jta-common@3.9.0
 - pkg:maven/com.kumuluz.ee/kumuluzee-jta-common@3.9.0?classifier=sources
+- pkg:maven/com.kumuluz.ee/kumuluzee-jta-common@4.0.0-beta.1
+- pkg:maven/com.kumuluz.ee/kumuluzee-jta-common@4.0.0-beta.1?classifier=sources

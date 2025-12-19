@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/types__node-fetch@2.5.4?classifier=sources
 - pkg:maven/org.webjars.npm/types__node-fetch@2.5.7
 - pkg:maven/org.webjars.npm/types__node-fetch@2.5.7?classifier=sources
+- pkg:maven/org.webjars.npm/types__node-fetch@2.6.1
+- pkg:maven/org.webjars.npm/types__node-fetch@2.6.1?classifier=sources

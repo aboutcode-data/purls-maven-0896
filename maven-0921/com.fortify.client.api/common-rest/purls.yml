@@ -6,3 +6,5 @@
 - pkg:maven/com.fortify.client.api/common-rest@6.1.1.RELEASE?classifier=sources
 - pkg:maven/com.fortify.client.api/common-rest@6.1.2.RELEASE?classifier=sources
 - pkg:maven/com.fortify.client.api/common-rest@6.1.3.RELEASE?classifier=sources
+- pkg:maven/com.fortify.client.api/common-rest@6.1.4.RELEASE?classifier=sources
+- pkg:maven/com.fortify.client.api/common-rest@6.1.5.RELEASE?classifier=sources

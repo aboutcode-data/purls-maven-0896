@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/serialize-error@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/serialize-error@2.1.0
 - pkg:maven/org.webjars.npm/serialize-error@2.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/serialize-error@7.0.1
+- pkg:maven/org.webjars.npm/serialize-error@7.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/serialize-error@8.1.0
 - pkg:maven/org.webjars.npm/serialize-error@8.1.0?classifier=sources

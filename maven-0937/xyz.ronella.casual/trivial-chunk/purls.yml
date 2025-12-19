@@ -16,3 +16,4 @@
 - pkg:maven/xyz.ronella.casual/trivial-chunk@2.3.0?classifier=sources
 - pkg:maven/xyz.ronella.casual/trivial-chunk@2.4.0
 - pkg:maven/xyz.ronella.casual/trivial-chunk@2.4.0?classifier=sources
+- pkg:maven/xyz.ronella.casual/trivial-chunk@2.5.1?classifier=sources

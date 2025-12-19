@@ -8,7 +8,19 @@
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.10?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.11?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.12?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.13?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.14?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.15?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.16?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.17?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.18?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.19?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.20?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.21?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.22?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@0.38.23?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.2?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.3?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.4?classifier=sources
@@ -17,3 +29,6 @@
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.7?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.8?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@0.38.9?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@1.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@1.0.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@1.1.0?classifier=sources

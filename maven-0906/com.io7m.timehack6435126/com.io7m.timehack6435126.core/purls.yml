@@ -2,3 +2,5 @@
 - pkg:maven/com.io7m.timehack6435126/com.io7m.timehack6435126.core@1.1.0?classifier=sources
 - pkg:maven/com.io7m.timehack6435126/com.io7m.timehack6435126.core@2.0.0
 - pkg:maven/com.io7m.timehack6435126/com.io7m.timehack6435126.core@2.0.0?classifier=sources
+- pkg:maven/com.io7m.timehack6435126/com.io7m.timehack6435126.core@3.0.0
+- pkg:maven/com.io7m.timehack6435126/com.io7m.timehack6435126.core@3.0.0?classifier=sources

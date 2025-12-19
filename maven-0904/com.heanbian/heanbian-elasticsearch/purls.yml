@@ -1,0 +1,2 @@
+- pkg:maven/com.heanbian/heanbian-elasticsearch@1.0.0.0
+- pkg:maven/com.heanbian/heanbian-elasticsearch@1.0.0.0?classifier=sources

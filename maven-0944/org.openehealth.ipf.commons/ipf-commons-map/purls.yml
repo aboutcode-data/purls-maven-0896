@@ -102,3 +102,7 @@
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-map@4.1.0?classifier=sources
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-map@4.2.0
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-map@4.2.0?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-map@4.3.0
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-map@4.3.0?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-map@4.3.1
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-map@4.3.1?classifier=sources

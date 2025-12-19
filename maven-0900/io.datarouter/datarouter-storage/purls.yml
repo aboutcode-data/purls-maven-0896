@@ -23,6 +23,10 @@
 - pkg:maven/io.datarouter/datarouter-storage@0.0.11
 - pkg:maven/io.datarouter/datarouter-storage@0.0.110
 - pkg:maven/io.datarouter/datarouter-storage@0.0.110?classifier=sources
+- pkg:maven/io.datarouter/datarouter-storage@0.0.111
+- pkg:maven/io.datarouter/datarouter-storage@0.0.111?classifier=sources
+- pkg:maven/io.datarouter/datarouter-storage@0.0.113
+- pkg:maven/io.datarouter/datarouter-storage@0.0.113?classifier=sources
 - pkg:maven/io.datarouter/datarouter-storage@0.0.11?classifier=sources
 - pkg:maven/io.datarouter/datarouter-storage@0.0.12
 - pkg:maven/io.datarouter/datarouter-storage@0.0.12?classifier=sources

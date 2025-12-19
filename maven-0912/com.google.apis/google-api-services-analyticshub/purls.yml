@@ -1,0 +1,4 @@
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220427-1.32.1
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220427-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220501-1.32.1
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220501-1.32.1?classifier=sources

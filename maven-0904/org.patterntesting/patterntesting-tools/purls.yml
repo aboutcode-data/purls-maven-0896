@@ -54,3 +54,5 @@
 - pkg:maven/org.patterntesting/patterntesting-tools@2.1.2?classifier=sources
 - pkg:maven/org.patterntesting/patterntesting-tools@2.2.0
 - pkg:maven/org.patterntesting/patterntesting-tools@2.2.0?classifier=sources
+- pkg:maven/org.patterntesting/patterntesting-tools@2.2.20-YEARS
+- pkg:maven/org.patterntesting/patterntesting-tools@2.2.20-YEARS?classifier=sources

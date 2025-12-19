@@ -8,5 +8,9 @@
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.0.52?classifier=sources
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.1.1
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.1.1?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.10.11
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.10.11?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.10.12
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.10.12?classifier=sources
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.3.5
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.3.5?classifier=sources

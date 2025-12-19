@@ -4,3 +4,5 @@
 - pkg:maven/io.sitoolkit.cv/sit-cv-tools@1.0.0-beta.5
 - pkg:maven/io.sitoolkit.cv/sit-cv-tools@1.0.0-beta.5?classifier=sources
 - pkg:maven/io.sitoolkit.cv/sit-cv-tools@1.0.0?classifier=sources
+- pkg:maven/io.sitoolkit.cv/sit-cv-tools@1.1.1
+- pkg:maven/io.sitoolkit.cv/sit-cv-tools@1.1.1?classifier=sources

@@ -49,6 +49,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.10
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.10?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.1?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.2
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.2?classifier=sources
@@ -64,3 +66,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.7?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.8
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.8?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.9
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-game-servers-v1beta@0.26.9?classifier=sources

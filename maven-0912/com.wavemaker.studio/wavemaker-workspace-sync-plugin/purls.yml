@@ -12,6 +12,9 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.12.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.13.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.13.0?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.13.2.ee?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.13.2?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.14.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.6.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.6.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.6.1.ee?classifier=sources
@@ -36,11 +39,13 @@
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.8.2.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.8.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.8.3.ee?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.8.4.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.0.ee?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.0?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.1?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@10.9.2?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@11.0.0.beta.ee-20220401222842?classifier=sources
+- pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@11.0.0.beta?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@9.4.0.10?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@9.4.0.12?classifier=sources
 - pkg:maven/com.wavemaker.studio/wavemaker-workspace-sync-plugin@9.4.0.13?classifier=sources

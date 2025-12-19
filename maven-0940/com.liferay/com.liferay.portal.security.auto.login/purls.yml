@@ -159,6 +159,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.25
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.25?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.26
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@3.0.3
@@ -243,6 +246,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.28
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.29
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@4.0.3
@@ -309,6 +315,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.23
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.24
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.25
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.auto.login@5.0.3

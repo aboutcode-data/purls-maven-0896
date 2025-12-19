@@ -1,4 +1,6 @@
 - pkg:maven/com.republicate.modality/modality-webapp@1.0
 - pkg:maven/com.republicate.modality/modality-webapp@1.0?classifier=sources
+- pkg:maven/com.republicate.modality/modality-webapp@1.1
+- pkg:maven/com.republicate.modality/modality-webapp@1.1?classifier=sources
 - pkg:maven/com.republicate.modality/modality-webapp@2.0
 - pkg:maven/com.republicate.modality/modality-webapp@2.0?classifier=sources

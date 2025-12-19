@@ -388,3 +388,5 @@
 - pkg:maven/com.yahoo.elide/elide-core@6.1.3?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-core@6.1.4
 - pkg:maven/com.yahoo.elide/elide-core@6.1.4?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-core@6.1.5
+- pkg:maven/com.yahoo.elide/elide-core@6.1.5?classifier=sources

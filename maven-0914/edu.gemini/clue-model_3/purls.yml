@@ -24,3 +24,5 @@
 - pkg:maven/edu.gemini/clue-model_3@0.20.3?classifier=sources
 - pkg:maven/edu.gemini/clue-model_3@0.21.0
 - pkg:maven/edu.gemini/clue-model_3@0.21.0?classifier=sources
+- pkg:maven/edu.gemini/clue-model_3@0.22.0
+- pkg:maven/edu.gemini/clue-model_3@0.22.0?classifier=sources

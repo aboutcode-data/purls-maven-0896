@@ -1,0 +1,2 @@
+- pkg:maven/io.github.klein-stein/neutrino-android@1.0?classifier=sources
+- pkg:maven/io.github.klein-stein/neutrino-android@2.0?classifier=sources

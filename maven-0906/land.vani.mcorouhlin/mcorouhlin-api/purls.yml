@@ -1,3 +1,5 @@
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@0.1.1?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@1.0.0?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@1.1.0?classifier=sources
+- pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@2.0.0?classifier=sources
+- pkg:maven/land.vani.mcorouhlin/mcorouhlin-api@2.0.1?classifier=sources

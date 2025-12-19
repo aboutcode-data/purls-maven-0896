@@ -13,3 +13,5 @@
 - pkg:maven/dev.gitlive/firebase-firestore-iosarm64@1.4.3-alpha?classifier=sources
 - pkg:maven/dev.gitlive/firebase-firestore-iosarm64@1.4.3?classifier=sources
 - pkg:maven/dev.gitlive/firebase-firestore-iosarm64@1.5.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-firestore-iosarm64@1.6.0?classifier=sources
+- pkg:maven/dev.gitlive/firebase-firestore-iosarm64@1.6.1?classifier=sources

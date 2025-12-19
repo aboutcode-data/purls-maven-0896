@@ -124,3 +124,7 @@
 - pkg:maven/org.jbpm/jbpm-event-emitters-elasticsearch@7.66.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-event-emitters-elasticsearch@7.67.0.Final
 - pkg:maven/org.jbpm/jbpm-event-emitters-elasticsearch@7.67.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-event-emitters-elasticsearch@7.68.0.Final
+- pkg:maven/org.jbpm/jbpm-event-emitters-elasticsearch@7.68.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-event-emitters-elasticsearch@7.69.0.Final
+- pkg:maven/org.jbpm/jbpm-event-emitters-elasticsearch@7.69.0.Final?classifier=sources

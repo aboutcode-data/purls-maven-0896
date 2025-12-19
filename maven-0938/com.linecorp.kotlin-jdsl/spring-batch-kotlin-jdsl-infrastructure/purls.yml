@@ -5,3 +5,4 @@
 - pkg:maven/com.linecorp.kotlin-jdsl/spring-batch-kotlin-jdsl-infrastructure@1.3.0.RELEASE?classifier=sources
 - pkg:maven/com.linecorp.kotlin-jdsl/spring-batch-kotlin-jdsl-infrastructure@2.0.0.RELEASE?classifier=sources
 - pkg:maven/com.linecorp.kotlin-jdsl/spring-batch-kotlin-jdsl-infrastructure@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.linecorp.kotlin-jdsl/spring-batch-kotlin-jdsl-infrastructure@2.0.2.RELEASE?classifier=sources

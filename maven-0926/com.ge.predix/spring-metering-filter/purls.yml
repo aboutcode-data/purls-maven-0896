@@ -8,3 +8,5 @@
 - pkg:maven/com.ge.predix/spring-metering-filter@1.2.4?classifier=sources
 - pkg:maven/com.ge.predix/spring-metering-filter@1.2.5
 - pkg:maven/com.ge.predix/spring-metering-filter@1.2.5?classifier=sources
+- pkg:maven/com.ge.predix/spring-metering-filter@2.0.0
+- pkg:maven/com.ge.predix/spring-metering-filter@2.0.0?classifier=sources

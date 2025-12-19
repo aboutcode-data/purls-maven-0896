@@ -1,3 +1,5 @@
+- pkg:maven/com.codingfeline.kgql/gradle-plugin@0.10.0?classifier=sources
+- pkg:maven/com.codingfeline.kgql/gradle-plugin@0.10.1?classifier=sources
 - pkg:maven/com.codingfeline.kgql/gradle-plugin@0.5.2?classifier=sources
 - pkg:maven/com.codingfeline.kgql/gradle-plugin@0.5.5?classifier=sources
 - pkg:maven/com.codingfeline.kgql/gradle-plugin@0.5.6?classifier=sources

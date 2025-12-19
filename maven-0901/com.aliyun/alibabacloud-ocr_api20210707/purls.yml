@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/alibabacloud-ocr_api20210707@1.0.0
 - pkg:maven/com.aliyun/alibabacloud-ocr_api20210707@1.0.0?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-ocr_api20210707@1.1.5
+- pkg:maven/com.aliyun/alibabacloud-ocr_api20210707@1.1.5?classifier=sources

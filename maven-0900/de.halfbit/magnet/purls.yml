@@ -148,3 +148,6 @@
 - pkg:maven/de.halfbit/magnet@3.4?classifier=sources
 - pkg:maven/de.halfbit/magnet@3.5
 - pkg:maven/de.halfbit/magnet@3.5?classifier=sources
+- pkg:maven/de.halfbit/magnet@3.6-rc1?classifier=sources
+- pkg:maven/de.halfbit/magnet@3.6-rc2?classifier=sources
+- pkg:maven/de.halfbit/magnet@3.6-rc3?classifier=sources

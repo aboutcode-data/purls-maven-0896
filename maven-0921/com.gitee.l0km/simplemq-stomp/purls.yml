@@ -26,3 +26,5 @@
 - pkg:maven/com.gitee.l0km/simplemq-stomp@2.2.9?classifier=sources
 - pkg:maven/com.gitee.l0km/simplemq-stomp@2.3.0
 - pkg:maven/com.gitee.l0km/simplemq-stomp@2.3.0?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.3.1
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.3.1?classifier=sources

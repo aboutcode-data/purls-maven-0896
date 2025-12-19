@@ -20,3 +20,5 @@
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-tracing-spring@6.1.2?classifier=sources
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-tracing-spring@6.1.3
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-tracing-spring@6.1.3?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-tracing-spring@6.1.4
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors/elasticactors-tracing-spring@6.1.4?classifier=sources

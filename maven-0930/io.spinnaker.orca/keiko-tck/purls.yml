@@ -4,7 +4,9 @@
 - pkg:maven/io.spinnaker.orca/keiko-tck@8.18.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-tck@8.18.2?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-tck@8.18.3?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-tck@8.18.4?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-tck@8.20.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-tck@8.21.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-tck@8.22.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/keiko-tck@8.23.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/keiko-tck@8.24.1?classifier=sources

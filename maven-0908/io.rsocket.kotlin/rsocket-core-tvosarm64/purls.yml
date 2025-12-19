@@ -1,1 +1,2 @@
 - pkg:maven/io.rsocket.kotlin/rsocket-core-tvosarm64@0.13.0?classifier=sources
+- pkg:maven/io.rsocket.kotlin/rsocket-core-tvosarm64@0.15.4?classifier=sources

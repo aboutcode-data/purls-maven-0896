@@ -2,3 +2,5 @@
 - pkg:maven/me.nithanim.quarkus/quarkus-amazon-dynamodb-enhanced@1.0.0?classifier=sources
 - pkg:maven/me.nithanim.quarkus/quarkus-amazon-dynamodb-enhanced@1.0.1
 - pkg:maven/me.nithanim.quarkus/quarkus-amazon-dynamodb-enhanced@1.0.1?classifier=sources
+- pkg:maven/me.nithanim.quarkus/quarkus-amazon-dynamodb-enhanced@1.1.0
+- pkg:maven/me.nithanim.quarkus/quarkus-amazon-dynamodb-enhanced@1.1.0?classifier=sources

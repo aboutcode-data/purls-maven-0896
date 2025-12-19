@@ -10,3 +10,5 @@
 - pkg:maven/org.legogroup/woof-http4s_sjs1_3@0.4.2?classifier=sources
 - pkg:maven/org.legogroup/woof-http4s_sjs1_3@0.4.3
 - pkg:maven/org.legogroup/woof-http4s_sjs1_3@0.4.3?classifier=sources
+- pkg:maven/org.legogroup/woof-http4s_sjs1_3@0.4.4
+- pkg:maven/org.legogroup/woof-http4s_sjs1_3@0.4.4?classifier=sources

@@ -306,6 +306,10 @@
 - pkg:maven/org.drools/default-kiesession-from-file@7.66.0.Final?classifier=sources
 - pkg:maven/org.drools/default-kiesession-from-file@7.67.0.Final
 - pkg:maven/org.drools/default-kiesession-from-file@7.67.0.Final?classifier=sources
+- pkg:maven/org.drools/default-kiesession-from-file@7.68.0.Final
+- pkg:maven/org.drools/default-kiesession-from-file@7.68.0.Final?classifier=sources
+- pkg:maven/org.drools/default-kiesession-from-file@7.69.0.Final
+- pkg:maven/org.drools/default-kiesession-from-file@7.69.0.Final?classifier=sources
 - pkg:maven/org.drools/default-kiesession-from-file@7.7.0.Final
 - pkg:maven/org.drools/default-kiesession-from-file@7.7.0.Final?classifier=sources
 - pkg:maven/org.drools/default-kiesession-from-file@7.8.0.Final
@@ -330,3 +334,7 @@
 - pkg:maven/org.drools/default-kiesession-from-file@8.18.0.Beta?classifier=sources
 - pkg:maven/org.drools/default-kiesession-from-file@8.19.0.Beta
 - pkg:maven/org.drools/default-kiesession-from-file@8.19.0.Beta?classifier=sources
+- pkg:maven/org.drools/default-kiesession-from-file@8.20.0.Beta
+- pkg:maven/org.drools/default-kiesession-from-file@8.20.0.Beta?classifier=sources
+- pkg:maven/org.drools/default-kiesession-from-file@8.21.0.Beta
+- pkg:maven/org.drools/default-kiesession-from-file@8.21.0.Beta?classifier=sources

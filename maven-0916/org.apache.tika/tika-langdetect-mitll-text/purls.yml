@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.tika/tika-langdetect-mitll-text@2.2.1?classifier=sources
 - pkg:maven/org.apache.tika/tika-langdetect-mitll-text@2.3.0
 - pkg:maven/org.apache.tika/tika-langdetect-mitll-text@2.3.0?classifier=sources
+- pkg:maven/org.apache.tika/tika-langdetect-mitll-text@2.4.0
+- pkg:maven/org.apache.tika/tika-langdetect-mitll-text@2.4.0?classifier=sources

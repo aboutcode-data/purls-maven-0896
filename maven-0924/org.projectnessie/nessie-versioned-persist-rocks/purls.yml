@@ -42,3 +42,13 @@
 - pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.24.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.25.0
 - pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.25.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.26.0
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.26.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.27.0
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.27.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.28.0
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.28.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.29.0
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.29.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.30.0
+- pkg:maven/org.projectnessie/nessie-versioned-persist-rocks@0.30.0?classifier=sources

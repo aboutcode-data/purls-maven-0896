@@ -1,3 +1,5 @@
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.10
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.10?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.4
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.4?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.5
@@ -8,3 +10,7 @@
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.7?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.8
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.8?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.9
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.4.9?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.5.0
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.5.0?classifier=sources

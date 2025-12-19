@@ -31,6 +31,8 @@
 - pkg:maven/net.4youandme/foryouandme@0.2.20?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.2.21?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.2.22?classifier=sources
+- pkg:maven/net.4youandme/foryouandme@0.2.23?classifier=sources
+- pkg:maven/net.4youandme/foryouandme@0.2.24?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.2.2?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.2.3?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.2.4?classifier=sources

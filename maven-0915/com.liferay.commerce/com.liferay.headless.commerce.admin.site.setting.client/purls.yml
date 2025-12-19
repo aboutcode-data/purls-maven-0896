@@ -155,6 +155,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.20
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.20?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.21
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.21?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.3

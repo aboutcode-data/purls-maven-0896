@@ -1,3 +1,7 @@
 - pkg:maven/com.alipay.chainstack/mychain-ittest@2.0.0-rc?classifier=sources
 - pkg:maven/com.alipay.chainstack/mychain-ittest@2.0.1-rc
 - pkg:maven/com.alipay.chainstack/mychain-ittest@2.0.1-rc?classifier=sources
+- pkg:maven/com.alipay.chainstack/mychain-ittest@2.0.2-rc
+- pkg:maven/com.alipay.chainstack/mychain-ittest@2.0.2-rc?classifier=sources
+- pkg:maven/com.alipay.chainstack/mychain-ittest@2.0.3-rc
+- pkg:maven/com.alipay.chainstack/mychain-ittest@2.0.3-rc?classifier=sources

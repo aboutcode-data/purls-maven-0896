@@ -1,2 +1,4 @@
 - pkg:maven/io.monix/monix-catnap_sjs1_3@3.4.0
 - pkg:maven/io.monix/monix-catnap_sjs1_3@3.4.0?classifier=sources
+- pkg:maven/io.monix/monix-catnap_sjs1_3@3.4.1
+- pkg:maven/io.monix/monix-catnap_sjs1_3@3.4.1?classifier=sources

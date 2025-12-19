@@ -16,3 +16,5 @@
 - pkg:maven/com.opendxl/dxldatabusclient@2.4.6?classifier=sources
 - pkg:maven/com.opendxl/dxldatabusclient@2.4.7
 - pkg:maven/com.opendxl/dxldatabusclient@2.4.7?classifier=sources
+- pkg:maven/com.opendxl/dxldatabusclient@2.4.8
+- pkg:maven/com.opendxl/dxldatabusclient@2.4.8?classifier=sources

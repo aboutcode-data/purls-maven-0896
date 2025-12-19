@@ -48,3 +48,5 @@
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock.junit4@4.1.6?classifier=sources
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock.junit4@4.1.8
 - pkg:maven/io.wcm/io.wcm.testing.aem-mock.junit4@4.1.8?classifier=sources
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock.junit4@5.0.0
+- pkg:maven/io.wcm/io.wcm.testing.aem-mock.junit4@5.0.0?classifier=sources

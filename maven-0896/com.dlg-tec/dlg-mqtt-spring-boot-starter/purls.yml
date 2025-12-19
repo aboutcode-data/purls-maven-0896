@@ -16,3 +16,5 @@
 - pkg:maven/com.dlg-tec/dlg-mqtt-spring-boot-starter@1.0.7?classifier=sources
 - pkg:maven/com.dlg-tec/dlg-mqtt-spring-boot-starter@1.0.8
 - pkg:maven/com.dlg-tec/dlg-mqtt-spring-boot-starter@1.0.8?classifier=sources
+- pkg:maven/com.dlg-tec/dlg-mqtt-spring-boot-starter@1.0.9
+- pkg:maven/com.dlg-tec/dlg-mqtt-spring-boot-starter@1.0.9?classifier=sources

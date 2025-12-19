@@ -298,6 +298,8 @@
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.27?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.28?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.28?type=war
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.29?classifier=sources
+- pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.29?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.2?classifier=sources
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.2?type=war
 - pkg:maven/org.kill-bill.billing/killbill-profiles-killbill@0.22.3?classifier=sources

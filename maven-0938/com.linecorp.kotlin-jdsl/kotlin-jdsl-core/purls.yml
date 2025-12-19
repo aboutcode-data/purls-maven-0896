@@ -5,3 +5,4 @@
 - pkg:maven/com.linecorp.kotlin-jdsl/kotlin-jdsl-core@1.3.0.RELEASE?classifier=sources
 - pkg:maven/com.linecorp.kotlin-jdsl/kotlin-jdsl-core@2.0.0.RELEASE?classifier=sources
 - pkg:maven/com.linecorp.kotlin-jdsl/kotlin-jdsl-core@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.linecorp.kotlin-jdsl/kotlin-jdsl-core@2.0.2.RELEASE?classifier=sources

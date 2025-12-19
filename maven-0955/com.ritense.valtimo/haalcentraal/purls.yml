@@ -1,1 +1,4 @@
 - pkg:maven/com.ritense.valtimo/haalcentraal@9.7.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/haalcentraal@9.7.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/haalcentraal@9.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/haalcentraal@9.9.0.RELEASE?classifier=sources

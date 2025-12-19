@@ -1,1 +1,4 @@
 - pkg:maven/cx.d1/pushsdk@0.8.2?classifier=sources
+- pkg:maven/cx.d1/pushsdk@0.8.7?classifier=sources
+- pkg:maven/cx.d1/pushsdk@0.8.8?classifier=sources
+- pkg:maven/cx.d1/pushsdk@0.8.9?classifier=sources

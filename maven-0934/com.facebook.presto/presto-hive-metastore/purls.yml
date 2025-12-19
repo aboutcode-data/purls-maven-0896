@@ -147,4 +147,10 @@
 - pkg:maven/com.facebook.presto/presto-hive-metastore@0.270
 - pkg:maven/com.facebook.presto/presto-hive-metastore@0.270?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-metastore@0.271
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.271.1
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.271.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-metastore@0.271?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.272
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.272.1
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.272.1?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.272?classifier=sources

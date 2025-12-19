@@ -2,3 +2,9 @@
 - pkg:maven/com.guaboy/guaboy-core@1.0.0.RELEASES?classifier=sources
 - pkg:maven/com.guaboy/guaboy-core@1.0.1.RELEASES
 - pkg:maven/com.guaboy/guaboy-core@1.0.1.RELEASES?classifier=sources
+- pkg:maven/com.guaboy/guaboy-core@1.0.2.RELEASES
+- pkg:maven/com.guaboy/guaboy-core@1.0.2.RELEASES?classifier=sources
+- pkg:maven/com.guaboy/guaboy-core@1.0.3
+- pkg:maven/com.guaboy/guaboy-core@1.0.3?classifier=sources
+- pkg:maven/com.guaboy/guaboy-core@1.0.4
+- pkg:maven/com.guaboy/guaboy-core@1.0.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.rocketmq/rocketmq-streams@1.0.0-preview?classifier=source-release&type=zip
+- pkg:maven/org.apache.rocketmq/rocketmq-streams@1.0.1-preview?classifier=source-release&type=zip

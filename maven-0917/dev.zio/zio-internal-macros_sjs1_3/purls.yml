@@ -8,3 +8,7 @@
 - pkg:maven/dev.zio/zio-internal-macros_sjs1_3@2.0.0-RC3?classifier=sources
 - pkg:maven/dev.zio/zio-internal-macros_sjs1_3@2.0.0-RC4
 - pkg:maven/dev.zio/zio-internal-macros_sjs1_3@2.0.0-RC4?classifier=sources
+- pkg:maven/dev.zio/zio-internal-macros_sjs1_3@2.0.0-RC5
+- pkg:maven/dev.zio/zio-internal-macros_sjs1_3@2.0.0-RC5?classifier=sources
+- pkg:maven/dev.zio/zio-internal-macros_sjs1_3@2.0.0-RC6
+- pkg:maven/dev.zio/zio-internal-macros_sjs1_3@2.0.0-RC6?classifier=sources

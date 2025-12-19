@@ -1,2 +1,4 @@
 - pkg:maven/com.soywiz.korlibs.korge2/korge-fleks-macosx64@2.6.3?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge2/korge-fleks-macosx64@2.7.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-fleks-macosx64@3.0.0-Beta2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-fleks-macosx64@3.0.0-Beta?classifier=sources

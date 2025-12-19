@@ -142,3 +142,5 @@
 - pkg:maven/org.ssssssss/magic-api-spring-boot-starter@2.0.0-beta.3
 - pkg:maven/org.ssssssss/magic-api-spring-boot-starter@2.0.0-beta.3?classifier=sources
 - pkg:maven/org.ssssssss/magic-api-spring-boot-starter@2.0.0?classifier=sources
+- pkg:maven/org.ssssssss/magic-api-spring-boot-starter@2.0.1
+- pkg:maven/org.ssssssss/magic-api-spring-boot-starter@2.0.1?classifier=sources

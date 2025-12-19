@@ -50,3 +50,11 @@
 - pkg:maven/io.trino/trino-array@375?classifier=sources
 - pkg:maven/io.trino/trino-array@376
 - pkg:maven/io.trino/trino-array@376?classifier=sources
+- pkg:maven/io.trino/trino-array@377
+- pkg:maven/io.trino/trino-array@377?classifier=sources
+- pkg:maven/io.trino/trino-array@378
+- pkg:maven/io.trino/trino-array@378?classifier=sources
+- pkg:maven/io.trino/trino-array@379
+- pkg:maven/io.trino/trino-array@379?classifier=sources
+- pkg:maven/io.trino/trino-array@380
+- pkg:maven/io.trino/trino-array@380?classifier=sources

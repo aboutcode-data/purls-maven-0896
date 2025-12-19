@@ -4,3 +4,5 @@
 - pkg:maven/com.alachisoft.ncache/ncache-javax-sessions@5.2-alpha-25?classifier=sources
 - pkg:maven/com.alachisoft.ncache/ncache-javax-sessions@5.2.0
 - pkg:maven/com.alachisoft.ncache/ncache-javax-sessions@5.2.0?classifier=sources
+- pkg:maven/com.alachisoft.ncache/ncache-javax-sessions@5.3.0
+- pkg:maven/com.alachisoft.ncache/ncache-javax-sessions@5.3.0?classifier=sources

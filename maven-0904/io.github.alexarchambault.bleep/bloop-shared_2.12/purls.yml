@@ -22,3 +22,5 @@
 - pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.4.19?classifier=sources
 - pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.4.20
 - pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.4.20?classifier=sources
+- pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.5.0-sc-1
+- pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.5.0-sc-1?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/io.github.rxxy/miya-common@1.4.SNAPSHOTS
 - pkg:maven/io.github.rxxy/miya-common@1.4.SNAPSHOTS?classifier=sources
 - pkg:maven/io.github.rxxy/miya-common@1.4?classifier=sources
+- pkg:maven/io.github.rxxy/miya-common@1.5
+- pkg:maven/io.github.rxxy/miya-common@1.5?classifier=sources

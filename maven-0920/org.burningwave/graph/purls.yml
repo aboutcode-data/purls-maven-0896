@@ -163,6 +163,8 @@
 - pkg:maven/org.burningwave/graph@0.10.84?classifier=sources
 - pkg:maven/org.burningwave/graph@0.10.85
 - pkg:maven/org.burningwave/graph@0.10.85?classifier=sources
+- pkg:maven/org.burningwave/graph@0.10.86
+- pkg:maven/org.burningwave/graph@0.10.86?classifier=sources
 - pkg:maven/org.burningwave/graph@0.10.8?classifier=sources
 - pkg:maven/org.burningwave/graph@0.10.9
 - pkg:maven/org.burningwave/graph@0.10.9?classifier=sources

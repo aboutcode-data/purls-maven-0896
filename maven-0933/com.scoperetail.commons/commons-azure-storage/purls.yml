@@ -12,3 +12,5 @@
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.6?classifier=sources
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.7
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.7?classifier=sources
+- pkg:maven/com.scoperetail.commons/commons-azure-storage@1.9
+- pkg:maven/com.scoperetail.commons/commons-azure-storage@1.9?classifier=sources

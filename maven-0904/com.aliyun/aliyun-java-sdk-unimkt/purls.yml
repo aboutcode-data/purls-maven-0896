@@ -48,3 +48,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-unimkt@2.4.7?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-unimkt@2.4.8
 - pkg:maven/com.aliyun/aliyun-java-sdk-unimkt@2.4.8?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-unimkt@2.5.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-unimkt@2.5.0?classifier=sources

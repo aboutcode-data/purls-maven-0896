@@ -1,2 +1,4 @@
 - pkg:maven/com.github.billzabob/fordeckmacia_3@1.0.11
 - pkg:maven/com.github.billzabob/fordeckmacia_3@1.0.11?classifier=sources
+- pkg:maven/com.github.billzabob/fordeckmacia_3@1.1.0
+- pkg:maven/com.github.billzabob/fordeckmacia_3@1.1.0?classifier=sources

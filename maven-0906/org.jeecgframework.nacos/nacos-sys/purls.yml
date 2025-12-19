@@ -1,2 +1,4 @@
 - pkg:maven/org.jeecgframework.nacos/nacos-sys@1.4.1
 - pkg:maven/org.jeecgframework.nacos/nacos-sys@1.4.1?classifier=sources
+- pkg:maven/org.jeecgframework.nacos/nacos-sys@2.0.4
+- pkg:maven/org.jeecgframework.nacos/nacos-sys@2.0.4?classifier=sources

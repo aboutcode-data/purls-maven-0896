@@ -1,0 +1,4 @@
+- pkg:maven/com.guerlab.cloud.uploader/guerlab-cloud-uploader-web@2022.4.1
+- pkg:maven/com.guerlab.cloud.uploader/guerlab-cloud-uploader-web@2022.4.1?classifier=sources
+- pkg:maven/com.guerlab.cloud.uploader/guerlab-cloud-uploader-web@2022.5.0
+- pkg:maven/com.guerlab.cloud.uploader/guerlab-cloud-uploader-web@2022.5.0?classifier=sources

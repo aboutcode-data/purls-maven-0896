@@ -1,0 +1,2 @@
+- pkg:maven/io.confluent.ksql/maven-enforcer-scoped-convergence-rule@1.0
+- pkg:maven/io.confluent.ksql/maven-enforcer-scoped-convergence-rule@1.0?classifier=sources

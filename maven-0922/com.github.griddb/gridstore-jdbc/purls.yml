@@ -4,3 +4,5 @@
 - pkg:maven/com.github.griddb/gridstore-jdbc@4.5.0?classifier=sources
 - pkg:maven/com.github.griddb/gridstore-jdbc@4.6.0
 - pkg:maven/com.github.griddb/gridstore-jdbc@4.6.0?classifier=sources
+- pkg:maven/com.github.griddb/gridstore-jdbc@5.0.0
+- pkg:maven/com.github.griddb/gridstore-jdbc@5.0.0?classifier=sources

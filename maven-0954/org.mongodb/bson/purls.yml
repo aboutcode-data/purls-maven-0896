@@ -159,6 +159,8 @@
 - pkg:maven/org.mongodb/bson@3.12.1
 - pkg:maven/org.mongodb/bson@3.12.10
 - pkg:maven/org.mongodb/bson@3.12.10?classifier=sources
+- pkg:maven/org.mongodb/bson@3.12.11
+- pkg:maven/org.mongodb/bson@3.12.11?classifier=sources
 - pkg:maven/org.mongodb/bson@3.12.1?classifier=sources
 - pkg:maven/org.mongodb/bson@3.12.2
 - pkg:maven/org.mongodb/bson@3.12.2?classifier=sources
@@ -317,5 +319,7 @@
 - pkg:maven/org.mongodb/bson@4.5.0?classifier=sources
 - pkg:maven/org.mongodb/bson@4.5.1
 - pkg:maven/org.mongodb/bson@4.5.1?classifier=sources
+- pkg:maven/org.mongodb/bson@4.6.0
 - pkg:maven/org.mongodb/bson@4.6.0-alpha0
 - pkg:maven/org.mongodb/bson@4.6.0-alpha0?classifier=sources
+- pkg:maven/org.mongodb/bson@4.6.0?classifier=sources

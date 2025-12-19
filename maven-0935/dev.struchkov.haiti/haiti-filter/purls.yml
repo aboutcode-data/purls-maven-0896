@@ -6,3 +6,7 @@
 - pkg:maven/dev.struchkov.haiti/haiti-filter@0.0.4?classifier=sources
 - pkg:maven/dev.struchkov.haiti/haiti-filter@1.0.0
 - pkg:maven/dev.struchkov.haiti/haiti-filter@1.0.0?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-filter@1.0.1
+- pkg:maven/dev.struchkov.haiti/haiti-filter@1.0.1?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-filter@1.0.2
+- pkg:maven/dev.struchkov.haiti/haiti-filter@1.0.2?classifier=sources

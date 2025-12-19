@@ -11,6 +11,10 @@
 - pkg:maven/com.juul.kable/core@0.14.1?classifier=sources
 - pkg:maven/com.juul.kable/core@0.14.2?classifier=sources
 - pkg:maven/com.juul.kable/core@0.15.0?classifier=sources
+- pkg:maven/com.juul.kable/core@0.16.0?classifier=sources
+- pkg:maven/com.juul.kable/core@0.16.1?classifier=sources
+- pkg:maven/com.juul.kable/core@0.17.0?classifier=sources
+- pkg:maven/com.juul.kable/core@0.17.1?classifier=sources
 - pkg:maven/com.juul.kable/core@0.2.0?classifier=sources
 - pkg:maven/com.juul.kable/core@0.3.0?classifier=sources
 - pkg:maven/com.juul.kable/core@0.4.1?classifier=sources

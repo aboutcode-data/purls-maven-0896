@@ -95,3 +95,9 @@
 - pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.6.1?classifier=sources
 - pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.6.2
 - pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.6.2?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.6.3
+- pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.6.3?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.6.4
+- pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.6.4?classifier=sources
+- pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.7.0.M1
+- pkg:maven/com.alicp.jetcache/jetcache-anno-api@2.7.0.M1?classifier=sources

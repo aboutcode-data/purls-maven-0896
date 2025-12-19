@@ -134,3 +134,7 @@
 - pkg:maven/com.github.vhall.sdk/vhsdk_adidas@1.2.5?type=aar
 - pkg:maven/com.github.vhall.sdk/vhsdk_adidas@1.2.6?classifier=sources
 - pkg:maven/com.github.vhall.sdk/vhsdk_adidas@1.2.6?type=aar
+- pkg:maven/com.github.vhall.sdk/vhsdk_adidas@1.2.7?classifier=sources
+- pkg:maven/com.github.vhall.sdk/vhsdk_adidas@1.2.7?type=aar
+- pkg:maven/com.github.vhall.sdk/vhsdk_adidas@1.2.8?classifier=sources
+- pkg:maven/com.github.vhall.sdk/vhsdk_adidas@1.2.8?type=aar

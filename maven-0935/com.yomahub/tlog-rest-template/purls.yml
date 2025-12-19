@@ -1,2 +1,4 @@
 - pkg:maven/com.yomahub/tlog-rest-template@1.3.6
 - pkg:maven/com.yomahub/tlog-rest-template@1.3.6?classifier=sources
+- pkg:maven/com.yomahub/tlog-rest-template@1.4.0
+- pkg:maven/com.yomahub/tlog-rest-template@1.4.0?classifier=sources

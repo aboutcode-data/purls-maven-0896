@@ -175,6 +175,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.16
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.17
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@4.0.2
@@ -238,6 +241,15 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.2
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.20
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.21
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.22
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.3

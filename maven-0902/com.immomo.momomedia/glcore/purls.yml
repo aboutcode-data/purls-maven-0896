@@ -24,6 +24,10 @@
 - pkg:maven/com.immomo.momomedia/glcore@2.3.1-20211230154701?type=aar
 - pkg:maven/com.immomo.momomedia/glcore@2.3.1-20220105154701?classifier=sources
 - pkg:maven/com.immomo.momomedia/glcore@2.3.1-20220105154701?type=aar
+- pkg:maven/com.immomo.momomedia/glcore@2.3.1-20220413154601?classifier=sources
+- pkg:maven/com.immomo.momomedia/glcore@2.3.1-20220413154601?type=aar
+- pkg:maven/com.immomo.momomedia/glcore@2.3.1-20220509150801?classifier=sources
+- pkg:maven/com.immomo.momomedia/glcore@2.3.1-20220509150801?type=aar
 - pkg:maven/com.immomo.momomedia/glcore@2.3.2_202107282331_kaka?classifier=sources
 - pkg:maven/com.immomo.momomedia/glcore@2.3.2_202107282331_kaka?type=aar
 - pkg:maven/com.immomo.momomedia/glcore@2.4.1-20211011000001?classifier=sources

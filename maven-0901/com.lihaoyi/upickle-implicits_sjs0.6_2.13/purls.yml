@@ -76,3 +76,7 @@
 - pkg:maven/com.lihaoyi/upickle-implicits_sjs0.6_2.13@1.4.4?classifier=sources
 - pkg:maven/com.lihaoyi/upickle-implicits_sjs0.6_2.13@1.5.0
 - pkg:maven/com.lihaoyi/upickle-implicits_sjs0.6_2.13@1.5.0?classifier=sources
+- pkg:maven/com.lihaoyi/upickle-implicits_sjs0.6_2.13@1.6.0
+- pkg:maven/com.lihaoyi/upickle-implicits_sjs0.6_2.13@1.6.0?classifier=sources
+- pkg:maven/com.lihaoyi/upickle-implicits_sjs0.6_2.13@2.0.0
+- pkg:maven/com.lihaoyi/upickle-implicits_sjs0.6_2.13@2.0.0?classifier=sources

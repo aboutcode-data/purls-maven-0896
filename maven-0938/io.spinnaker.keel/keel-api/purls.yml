@@ -28,3 +28,6 @@
 - pkg:maven/io.spinnaker.keel/keel-api@0.206.1?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-api@0.206.2?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-api@1.1.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-api@1.1.2?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-api@1.2.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-api@1.2.1?classifier=sources

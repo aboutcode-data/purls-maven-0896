@@ -10,3 +10,7 @@
 - pkg:maven/com.noleme/noleme-flow-connect-aws@0.5?classifier=sources
 - pkg:maven/com.noleme/noleme-flow-connect-aws@0.6
 - pkg:maven/com.noleme/noleme-flow-connect-aws@0.6?classifier=sources
+- pkg:maven/com.noleme/noleme-flow-connect-aws@0.7
+- pkg:maven/com.noleme/noleme-flow-connect-aws@0.7.1
+- pkg:maven/com.noleme/noleme-flow-connect-aws@0.7.1?classifier=sources
+- pkg:maven/com.noleme/noleme-flow-connect-aws@0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/azure-native@1.63.0?classifier=sources
+- pkg:maven/com.pulumi/azure-native@1.64.0?classifier=sources

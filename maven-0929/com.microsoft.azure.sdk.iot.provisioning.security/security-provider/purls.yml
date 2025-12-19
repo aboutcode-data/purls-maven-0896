@@ -12,5 +12,7 @@
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/security-provider@1.4.0?classifier=sources
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/security-provider@1.5.0
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/security-provider@1.5.0?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/security-provider@2.0.0
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/security-provider@2.0.0-preview-001
 - pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/security-provider@2.0.0-preview-001?classifier=sources
+- pkg:maven/com.microsoft.azure.sdk.iot.provisioning.security/security-provider@2.0.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@1.2
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@1.2?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.10
+- pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.10?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.3.0
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.3.0?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.3.1

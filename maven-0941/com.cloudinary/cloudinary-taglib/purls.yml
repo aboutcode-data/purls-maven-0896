@@ -82,6 +82,12 @@
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.30.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.31.0
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.31.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.32.0
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.32.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.32.1
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.32.1?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.32.2
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.32.2?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.4.0
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.4.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.4.1

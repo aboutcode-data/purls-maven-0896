@@ -6,3 +6,7 @@
 - pkg:maven/net.tirasa.connid.bundles.soap/soap-utilities@1.4.2?classifier=sources
 - pkg:maven/net.tirasa.connid.bundles.soap/soap-utilities@1.4.3
 - pkg:maven/net.tirasa.connid.bundles.soap/soap-utilities@1.4.3?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles.soap/soap-utilities@1.4.4
+- pkg:maven/net.tirasa.connid.bundles.soap/soap-utilities@1.4.4?classifier=sources
+- pkg:maven/net.tirasa.connid.bundles.soap/soap-utilities@1.4.5
+- pkg:maven/net.tirasa.connid.bundles.soap/soap-utilities@1.4.5?classifier=sources

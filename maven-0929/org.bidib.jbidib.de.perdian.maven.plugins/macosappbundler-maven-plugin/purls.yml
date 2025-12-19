@@ -1,2 +1,4 @@
 - pkg:maven/org.bidib.jbidib.de.perdian.maven.plugins/macosappbundler-maven-plugin@1.15.0.1
 - pkg:maven/org.bidib.jbidib.de.perdian.maven.plugins/macosappbundler-maven-plugin@1.15.0.1?classifier=sources
+- pkg:maven/org.bidib.jbidib.de.perdian.maven.plugins/macosappbundler-maven-plugin@1.17.1.1
+- pkg:maven/org.bidib.jbidib.de.perdian.maven.plugins/macosappbundler-maven-plugin@1.17.1.1?classifier=sources

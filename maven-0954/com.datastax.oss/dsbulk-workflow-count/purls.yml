@@ -4,3 +4,5 @@
 - pkg:maven/com.datastax.oss/dsbulk-workflow-count@1.7.0?classifier=sources
 - pkg:maven/com.datastax.oss/dsbulk-workflow-count@1.8.0
 - pkg:maven/com.datastax.oss/dsbulk-workflow-count@1.8.0?classifier=sources
+- pkg:maven/com.datastax.oss/dsbulk-workflow-count@1.9.0
+- pkg:maven/com.datastax.oss/dsbulk-workflow-count@1.9.0?classifier=sources

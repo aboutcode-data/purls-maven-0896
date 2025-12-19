@@ -12,3 +12,5 @@
 - pkg:maven/com.unflow/analytics-iosx64@1.6.1?classifier=sources
 - pkg:maven/com.unflow/analytics-iosx64@1.6.2?classifier=sources
 - pkg:maven/com.unflow/analytics-iosx64@1.6.3?classifier=sources
+- pkg:maven/com.unflow/analytics-iosx64@1.7.0?classifier=sources
+- pkg:maven/com.unflow/analytics-iosx64@1.7.1?classifier=sources

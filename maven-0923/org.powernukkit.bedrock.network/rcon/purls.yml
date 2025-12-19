@@ -4,3 +4,9 @@
 - pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.25-PN.2
 - pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.25-PN.2?classifier=sources
 - pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.25-PN?classifier=sources
+- pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.28-PN.1
+- pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.28-PN.1?classifier=sources
+- pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.28-PN.2
+- pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.28-PN.2?classifier=sources
+- pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.28-PN.3
+- pkg:maven/org.powernukkit.bedrock.network/rcon@1.6.28-PN.3?classifier=sources

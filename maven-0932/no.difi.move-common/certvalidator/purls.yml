@@ -8,6 +8,8 @@
 - pkg:maven/no.difi.move-common/certvalidator@1.13.0?classifier=sources
 - pkg:maven/no.difi.move-common/certvalidator@1.14.0
 - pkg:maven/no.difi.move-common/certvalidator@1.14.0?classifier=sources
+- pkg:maven/no.difi.move-common/certvalidator@1.15.0
+- pkg:maven/no.difi.move-common/certvalidator@1.15.0?classifier=sources
 - pkg:maven/no.difi.move-common/certvalidator@1.4.0
 - pkg:maven/no.difi.move-common/certvalidator@1.4.0?classifier=sources
 - pkg:maven/no.difi.move-common/certvalidator@1.5.0

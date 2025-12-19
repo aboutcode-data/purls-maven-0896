@@ -30,3 +30,5 @@
 - pkg:maven/com.github.cafdataprocessing/language-detection@3.5.0-935?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/language-detection@3.5.1-1048
 - pkg:maven/com.github.cafdataprocessing/language-detection@3.5.1-1048?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/language-detection@3.5.2-1079
+- pkg:maven/com.github.cafdataprocessing/language-detection@3.5.2-1079?classifier=sources

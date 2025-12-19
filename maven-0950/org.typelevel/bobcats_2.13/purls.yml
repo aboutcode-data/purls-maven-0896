@@ -4,6 +4,12 @@
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-0dd0404?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-34b5aa5
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-34b5aa5?classifier=sources
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-454ce4f
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-454ce4f?classifier=sources
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-4797135
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-4797135?classifier=sources
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-48f65d5
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-48f65d5?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-5d6b246
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-5d6b246?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-5fc5e44
@@ -16,6 +22,8 @@
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-7d01cdb?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-8140612
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-8140612?classifier=sources
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-9a034ca
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-9a034ca?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-a0c11a2
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-a0c11a2?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-a404b48

@@ -2,3 +2,5 @@
 - pkg:maven/com.jalalkiswani/smart-cloud-service@5.0.0?classifier=sources
 - pkg:maven/com.jalalkiswani/smart-cloud-service@5.1.0
 - pkg:maven/com.jalalkiswani/smart-cloud-service@5.1.0?classifier=sources
+- pkg:maven/com.jalalkiswani/smart-cloud-service@5.2.5
+- pkg:maven/com.jalalkiswani/smart-cloud-service@5.2.5?classifier=sources

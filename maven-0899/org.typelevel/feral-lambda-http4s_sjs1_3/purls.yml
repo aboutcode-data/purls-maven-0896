@@ -84,3 +84,5 @@
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.1.0-M6?classifier=sources
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.1.0-M7
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.1.0-M7?classifier=sources
+- pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.1.0-M8
+- pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.1.0-M8?classifier=sources

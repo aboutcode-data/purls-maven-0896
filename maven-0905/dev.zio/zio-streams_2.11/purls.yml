@@ -77,6 +77,8 @@
 - pkg:maven/dev.zio/zio-streams_2.11@1.0.12?classifier=sources
 - pkg:maven/dev.zio/zio-streams_2.11@1.0.13
 - pkg:maven/dev.zio/zio-streams_2.11@1.0.13?classifier=sources
+- pkg:maven/dev.zio/zio-streams_2.11@1.0.14
+- pkg:maven/dev.zio/zio-streams_2.11@1.0.14?classifier=sources
 - pkg:maven/dev.zio/zio-streams_2.11@1.0.1?classifier=sources
 - pkg:maven/dev.zio/zio-streams_2.11@1.0.2
 - pkg:maven/dev.zio/zio-streams_2.11@1.0.2?classifier=sources
@@ -122,3 +124,7 @@
 - pkg:maven/dev.zio/zio-streams_2.11@2.0.0-RC3?classifier=sources
 - pkg:maven/dev.zio/zio-streams_2.11@2.0.0-RC4
 - pkg:maven/dev.zio/zio-streams_2.11@2.0.0-RC4?classifier=sources
+- pkg:maven/dev.zio/zio-streams_2.11@2.0.0-RC5
+- pkg:maven/dev.zio/zio-streams_2.11@2.0.0-RC5?classifier=sources
+- pkg:maven/dev.zio/zio-streams_2.11@2.0.0-RC6
+- pkg:maven/dev.zio/zio-streams_2.11@2.0.0-RC6?classifier=sources

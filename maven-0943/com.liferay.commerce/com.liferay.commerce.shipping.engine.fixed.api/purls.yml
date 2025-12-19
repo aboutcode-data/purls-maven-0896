@@ -43,6 +43,15 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.2.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.2.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.2.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.2.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@11.2.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@2.0.0?classifier=sources-commercial
@@ -166,6 +175,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@5.3.2
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@5.3.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@5.3.2?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@5.3.3
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@5.3.3?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@5.3.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@6.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@6.0.0?classifier=sources-commercial

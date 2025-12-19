@@ -1,0 +1,2 @@
+- pkg:maven/com.pig4cloud.plugin/license-server@0.0.1
+- pkg:maven/com.pig4cloud.plugin/license-server@0.0.1?classifier=sources

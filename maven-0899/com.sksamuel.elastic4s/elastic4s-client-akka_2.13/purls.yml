@@ -120,3 +120,7 @@
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.2?classifier=sources
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.3
 - pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@7.9.3?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@8.0.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@8.0.0?classifier=sources
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@8.1.0
+- pkg:maven/com.sksamuel.elastic4s/elastic4s-client-akka_2.13@8.1.0?classifier=sources

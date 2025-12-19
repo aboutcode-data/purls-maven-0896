@@ -1,0 +1,6 @@
+- pkg:maven/io.starburst.openx.data/json-serde@1.3.9-e.10
+- pkg:maven/io.starburst.openx.data/json-serde@1.3.9-e.10?classifier=sources
+- pkg:maven/io.starburst.openx.data/json-serde@1.3.9-e.8
+- pkg:maven/io.starburst.openx.data/json-serde@1.3.9-e.8?classifier=sources
+- pkg:maven/io.starburst.openx.data/json-serde@1.3.9-e.9
+- pkg:maven/io.starburst.openx.data/json-serde@1.3.9-e.9?classifier=sources

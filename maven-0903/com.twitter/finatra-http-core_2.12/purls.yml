@@ -22,3 +22,5 @@
 - pkg:maven/com.twitter/finatra-http-core_2.12@22.2.0?classifier=sources
 - pkg:maven/com.twitter/finatra-http-core_2.12@22.3.0
 - pkg:maven/com.twitter/finatra-http-core_2.12@22.3.0?classifier=sources
+- pkg:maven/com.twitter/finatra-http-core_2.12@22.4.0
+- pkg:maven/com.twitter/finatra-http-core_2.12@22.4.0?classifier=sources

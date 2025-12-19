@@ -60,3 +60,7 @@
 - pkg:maven/org.webjars.npm/d3-array@3.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/d3-array@3.1.4
 - pkg:maven/org.webjars.npm/d3-array@3.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/d3-array@3.1.5
+- pkg:maven/org.webjars.npm/d3-array@3.1.5?classifier=sources
+- pkg:maven/org.webjars.npm/d3-array@3.1.6
+- pkg:maven/org.webjars.npm/d3-array@3.1.6?classifier=sources

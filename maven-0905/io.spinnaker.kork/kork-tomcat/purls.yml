@@ -33,6 +33,8 @@
 - pkg:maven/io.spinnaker.kork/kork-tomcat@7.135.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-tomcat@7.136.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-tomcat@7.137.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-tomcat@7.138.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-tomcat@7.139.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-tomcat@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-tomcat@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-tomcat@7.92.5?classifier=sources
