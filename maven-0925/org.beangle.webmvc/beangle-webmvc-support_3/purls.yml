@@ -58,3 +58,7 @@
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-support_3@0.9.2?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-support_3@0.9.3
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-support_3@0.9.3?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-support_3@0.9.4
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-support_3@0.9.4?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-support_3@0.9.5
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-support_3@0.9.5?classifier=sources

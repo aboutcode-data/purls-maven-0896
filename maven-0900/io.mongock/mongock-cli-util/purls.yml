@@ -20,3 +20,7 @@
 - pkg:maven/io.mongock/mongock-cli-util@5.0.29?classifier=sources
 - pkg:maven/io.mongock/mongock-cli-util@5.0.30
 - pkg:maven/io.mongock/mongock-cli-util@5.0.30?classifier=sources
+- pkg:maven/io.mongock/mongock-cli-util@5.0.31
+- pkg:maven/io.mongock/mongock-cli-util@5.0.31?classifier=sources
+- pkg:maven/io.mongock/mongock-cli-util@5.0.32
+- pkg:maven/io.mongock/mongock-cli-util@5.0.32?classifier=sources

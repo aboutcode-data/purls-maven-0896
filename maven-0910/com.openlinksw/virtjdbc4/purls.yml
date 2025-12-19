@@ -17,3 +17,5 @@
 - pkg:maven/com.openlinksw/virtjdbc4@3.121?classifier=sources
 - pkg:maven/com.openlinksw/virtjdbc4@3.122
 - pkg:maven/com.openlinksw/virtjdbc4@3.122?classifier=sources
+- pkg:maven/com.openlinksw/virtjdbc4@3.123
+- pkg:maven/com.openlinksw/virtjdbc4@3.123?classifier=sources

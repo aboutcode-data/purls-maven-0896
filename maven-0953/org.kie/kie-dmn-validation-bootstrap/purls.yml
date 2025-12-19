@@ -100,6 +100,8 @@
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@7.73.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@7.74.0.Final
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@7.74.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@7.74.1.Final
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@7.74.1.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.13.0.Beta
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.13.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.14.0.Beta
@@ -166,3 +168,5 @@
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.39.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.40.0.Final
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.40.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.41.0.Final
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.41.0.Final?classifier=sources

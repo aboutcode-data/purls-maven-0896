@@ -14,3 +14,5 @@
 - pkg:maven/net.hasor/dbvisitor-faker@5.3.1?classifier=sources
 - pkg:maven/net.hasor/dbvisitor-faker@5.3.2
 - pkg:maven/net.hasor/dbvisitor-faker@5.3.2?classifier=sources
+- pkg:maven/net.hasor/dbvisitor-faker@5.3.3
+- pkg:maven/net.hasor/dbvisitor-faker@5.3.3?classifier=sources

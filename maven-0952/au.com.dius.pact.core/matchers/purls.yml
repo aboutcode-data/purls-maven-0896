@@ -121,4 +121,6 @@
 - pkg:maven/au.com.dius.pact.core/matchers@4.5.4?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.5.5?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.5.6?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.5.7?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.6.0?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.6.1?classifier=sources

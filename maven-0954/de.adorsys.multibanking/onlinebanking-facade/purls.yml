@@ -415,6 +415,8 @@
 - pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.41?classifier=sources
 - pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.42
 - pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.42?classifier=sources
+- pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.43
+- pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.43?classifier=sources
 - pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.4?classifier=sources
 - pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.5
 - pkg:maven/de.adorsys.multibanking/onlinebanking-facade@5.5.5?classifier=sources

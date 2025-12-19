@@ -1,2 +1,6 @@
 - pkg:maven/com.sigpwned/emoji4j-core@14.0.0
 - pkg:maven/com.sigpwned/emoji4j-core@14.0.0?classifier=sources
+- pkg:maven/com.sigpwned/emoji4j-core@15.0.0
+- pkg:maven/com.sigpwned/emoji4j-core@15.0.0?classifier=sources
+- pkg:maven/com.sigpwned/emoji4j-core@15.0.1
+- pkg:maven/com.sigpwned/emoji4j-core@15.0.1?classifier=sources

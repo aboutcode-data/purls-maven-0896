@@ -1,0 +1,2 @@
+- pkg:maven/org.ternlang/tern-dx@1.4.7
+- pkg:maven/org.ternlang/tern-dx@1.4.7?classifier=sources

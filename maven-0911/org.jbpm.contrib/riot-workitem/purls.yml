@@ -66,3 +66,4 @@
 - pkg:maven/org.jbpm.contrib/riot-workitem@7.72.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/riot-workitem@7.73.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/riot-workitem@7.74.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/riot-workitem@7.74.1.Final?classifier=sources

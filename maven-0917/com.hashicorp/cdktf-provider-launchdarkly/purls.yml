@@ -1,0 +1,4 @@
+- pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@0.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@0.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@1.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@1.0.0?classifier=sources

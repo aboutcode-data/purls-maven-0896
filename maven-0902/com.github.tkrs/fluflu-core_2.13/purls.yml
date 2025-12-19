@@ -20,3 +20,5 @@
 - pkg:maven/com.github.tkrs/fluflu-core_2.13@0.24.7?classifier=sources
 - pkg:maven/com.github.tkrs/fluflu-core_2.13@0.24.8
 - pkg:maven/com.github.tkrs/fluflu-core_2.13@0.24.8?classifier=sources
+- pkg:maven/com.github.tkrs/fluflu-core_2.13@0.24.9
+- pkg:maven/com.github.tkrs/fluflu-core_2.13@0.24.9?classifier=sources

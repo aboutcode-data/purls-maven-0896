@@ -4,4 +4,5 @@
 - pkg:maven/io.falu/falu-identity@2.1.13?classifier=sources
 - pkg:maven/io.falu/falu-identity@2.1.1?classifier=sources
 - pkg:maven/io.falu/falu-identity@2.2.0?classifier=sources
+- pkg:maven/io.falu/falu-identity@2.2.11?classifier=sources
 - pkg:maven/io.falu/falu-identity@2.2.1?classifier=sources

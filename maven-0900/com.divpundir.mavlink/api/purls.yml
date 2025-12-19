@@ -5,3 +5,11 @@
 - pkg:maven/com.divpundir.mavlink/api@0.18.0?classifier=sources
 - pkg:maven/com.divpundir.mavlink/api@0.19.0-alpha?classifier=sources
 - pkg:maven/com.divpundir.mavlink/api@0.19.0?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.20.0-alpha.2?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.20.0-alpha.3?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.20.0-alpha.4?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.20.0-alpha.5?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.20.0-alpha?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.20.0?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.30.0-alpha?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@0.30.0?classifier=sources

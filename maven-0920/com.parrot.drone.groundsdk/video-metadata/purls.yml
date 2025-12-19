@@ -10,3 +10,5 @@
 - pkg:maven/com.parrot.drone.groundsdk/video-metadata@7.5.2?classifier=sources
 - pkg:maven/com.parrot.drone.groundsdk/video-metadata@7.6.0-rc1?classifier=sources
 - pkg:maven/com.parrot.drone.groundsdk/video-metadata@7.6.0?classifier=sources
+- pkg:maven/com.parrot.drone.groundsdk/video-metadata@7.7.0-rc1?classifier=sources
+- pkg:maven/com.parrot.drone.groundsdk/video-metadata@7.7.0?classifier=sources

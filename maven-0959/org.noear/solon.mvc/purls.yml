@@ -4,3 +4,6 @@
 - pkg:maven/org.noear/solon.mvc@1.10.0-M2
 - pkg:maven/org.noear/solon.mvc@1.10.0-M2?classifier=sources
 - pkg:maven/org.noear/solon.mvc@1.10.0?classifier=sources
+- pkg:maven/org.noear/solon.mvc@2.4.1
+- pkg:maven/org.noear/solon.mvc@2.4.1-M2
+- pkg:maven/org.noear/solon.mvc@2.4.2-M1

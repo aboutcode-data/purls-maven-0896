@@ -42,5 +42,7 @@
 - pkg:maven/io.seata/seata-config-etcd3@1.6.0?classifier=sources
 - pkg:maven/io.seata/seata-config-etcd3@1.6.1
 - pkg:maven/io.seata/seata-config-etcd3@1.6.1?classifier=sources
+- pkg:maven/io.seata/seata-config-etcd3@1.7.0
 - pkg:maven/io.seata/seata-config-etcd3@1.7.0-native-rc2
 - pkg:maven/io.seata/seata-config-etcd3@1.7.0-native-rc2?classifier=sources
+- pkg:maven/io.seata/seata-config-etcd3@1.7.0?classifier=sources

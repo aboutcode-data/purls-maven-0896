@@ -2,6 +2,8 @@
 - pkg:maven/io.edurt.datacap/datacap-parser@1.10.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-parser@1.11.0
 - pkg:maven/io.edurt.datacap/datacap-parser@1.11.0?classifier=sources
+- pkg:maven/io.edurt.datacap/datacap-parser@1.12.0
+- pkg:maven/io.edurt.datacap/datacap-parser@1.12.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-parser@1.5.0
 - pkg:maven/io.edurt.datacap/datacap-parser@1.5.0?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-parser@1.6.0

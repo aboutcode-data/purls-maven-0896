@@ -367,6 +367,8 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.14?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.15
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.15?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.16
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.16?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.1?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.2
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.2.2?classifier=sources
@@ -408,6 +410,8 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.3.4?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.3.5
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.3.5?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.3.6
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.3.6?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.4.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.4.0?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.4.1
@@ -460,6 +464,8 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.6.7?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.6.8
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.6.8?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.6.9
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@3.6.9?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.0-m01
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.0-m01?classifier=sources
@@ -502,12 +508,14 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.4?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.5
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.5?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6-4491f51e
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6-4491f51e?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6-51be90b4
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6-51be90b4?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6-f3a69459
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6-f3a69459?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.0.6?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.1.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.1.0-04b63d10
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.1.0-04b63d10?classifier=sources
@@ -536,6 +544,8 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.1.3?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.2.0-jira
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.2.0-jira?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.2.1-jira
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@4.2.1-jira?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.0-m01
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.0-m01?classifier=sources
@@ -570,6 +580,8 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.2-d60f2531d
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.2-d60f2531d?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.2?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.3
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.0.3?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.1.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.1.0-m01
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.1.0-m01?classifier=sources
@@ -582,9 +594,11 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.0-2ccf9383
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.0-2ccf9383?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.0?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.1
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.1-a238a2e0a
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.1-a238a2e0a?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.1-c99c271be
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.1-c99c271be?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.2.1?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.3.0-ae51b13b5
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@5.3.0-ae51b13b5?classifier=sources

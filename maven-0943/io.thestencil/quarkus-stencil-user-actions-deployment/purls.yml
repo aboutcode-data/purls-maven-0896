@@ -24,3 +24,7 @@
 - pkg:maven/io.thestencil/quarkus-stencil-user-actions-deployment@1.148.27?classifier=sources
 - pkg:maven/io.thestencil/quarkus-stencil-user-actions-deployment@1.148.28
 - pkg:maven/io.thestencil/quarkus-stencil-user-actions-deployment@1.148.28?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-user-actions-deployment@1.148.29
+- pkg:maven/io.thestencil/quarkus-stencil-user-actions-deployment@1.148.29?classifier=sources
+- pkg:maven/io.thestencil/quarkus-stencil-user-actions-deployment@1.148.30
+- pkg:maven/io.thestencil/quarkus-stencil-user-actions-deployment@1.148.30?classifier=sources

@@ -7,6 +7,8 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@1.0.2
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@1.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@1.0.3
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.0?classifier=sources-commercial
@@ -16,6 +18,8 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.2
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.3
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@2.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.0?classifier=sources-commercial
@@ -40,6 +44,8 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.7
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.8
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.0?classifier=sources-commercial
@@ -55,3 +61,5 @@
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.4
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.5
+- pkg:maven/com.liferay/com.liferay.site.navigation.admin.api@4.0.5?classifier=sources

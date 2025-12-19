@@ -1,1 +1,2 @@
 - pkg:maven/net.mamoe/mirai-core-androidRelease@2.15.0-RC?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-androidRelease@2.15.0?classifier=sources

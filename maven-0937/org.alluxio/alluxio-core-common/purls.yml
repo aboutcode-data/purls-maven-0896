@@ -132,3 +132,7 @@
 - pkg:maven/org.alluxio/alluxio-core-common@295?classifier=sources
 - pkg:maven/org.alluxio/alluxio-core-common@300
 - pkg:maven/org.alluxio/alluxio-core-common@300?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-common@301
+- pkg:maven/org.alluxio/alluxio-core-common@301?classifier=sources
+- pkg:maven/org.alluxio/alluxio-core-common@302
+- pkg:maven/org.alluxio/alluxio-core-common@302?classifier=sources

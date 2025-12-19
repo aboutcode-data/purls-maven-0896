@@ -34,3 +34,5 @@
 - pkg:maven/org.wikimedia.search/extra-common@7.10.2-wmf4?classifier=sources
 - pkg:maven/org.wikimedia.search/extra-common@7.10.2-wmf8
 - pkg:maven/org.wikimedia.search/extra-common@7.10.2-wmf8?classifier=sources
+- pkg:maven/org.wikimedia.search/extra-common@7.10.2-wmf9
+- pkg:maven/org.wikimedia.search/extra-common@7.10.2-wmf9?classifier=sources

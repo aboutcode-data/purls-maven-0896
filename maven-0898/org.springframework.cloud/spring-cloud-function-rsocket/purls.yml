@@ -46,3 +46,7 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-function-rsocket@4.0.2?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-function-rsocket@4.0.3
 - pkg:maven/org.springframework.cloud/spring-cloud-function-rsocket@4.0.3?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-function-rsocket@4.0.4
+- pkg:maven/org.springframework.cloud/spring-cloud-function-rsocket@4.0.4?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-function-rsocket@4.0.5
+- pkg:maven/org.springframework.cloud/spring-cloud-function-rsocket@4.0.5?classifier=sources

@@ -106,6 +106,12 @@
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.17.0?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.18.0
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.18.0?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.18.1
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.18.1?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.19.0
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.19.0?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.19.1
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.19.1?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.2.0
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.2.0?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.2.1
@@ -146,7 +152,9 @@
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.9.0?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.9.1
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@3.9.1?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@4.0.0
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@4.0.0-M1
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@4.0.0-M1?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@4.0.0-M2
 - pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@4.0.0-M2?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-sofa-boot-starter@4.0.0?classifier=sources

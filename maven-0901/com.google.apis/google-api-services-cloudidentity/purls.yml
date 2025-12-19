@@ -262,6 +262,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev20230321-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev20230530-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev20230530-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev20230606-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev20230606-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1-rev21-1.22.0
@@ -786,6 +788,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev20230523-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev20230530-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev20230530-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev20230606-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev20230606-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudidentity@v1beta1-rev21-1.22.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-single-distsql-parser@5.4.0
+- pkg:maven/org.apache.shardingsphere/shardingsphere-single-distsql-parser@5.4.0?classifier=sources

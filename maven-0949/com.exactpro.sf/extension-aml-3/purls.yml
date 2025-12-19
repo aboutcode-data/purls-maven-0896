@@ -43,7 +43,10 @@
 - pkg:maven/com.exactpro.sf/extension-aml-3@3.2.1881?classifier=sources
 - pkg:maven/com.exactpro.sf/extension-aml-3@3.3.106?classifier=sources
 - pkg:maven/com.exactpro.sf/extension-aml-3@3.3.10?classifier=sources
+- pkg:maven/com.exactpro.sf/extension-aml-3@3.3.111?classifier=sources
 - pkg:maven/com.exactpro.sf/extension-aml-3@3.3.11?classifier=sources
+- pkg:maven/com.exactpro.sf/extension-aml-3@3.3.122?classifier=sources
+- pkg:maven/com.exactpro.sf/extension-aml-3@3.3.127?classifier=sources
 - pkg:maven/com.exactpro.sf/extension-aml-3@3.3.13?classifier=sources
 - pkg:maven/com.exactpro.sf/extension-aml-3@3.3.26?classifier=sources
 - pkg:maven/com.exactpro.sf/extension-aml-3@3.3.49?classifier=sources

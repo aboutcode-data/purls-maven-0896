@@ -40,3 +40,5 @@
 - pkg:maven/pl.wrzasq.cform/cform-data-cognito-domain@1.1.9?classifier=sources
 - pkg:maven/pl.wrzasq.cform/cform-data-cognito-domain@1.2.0
 - pkg:maven/pl.wrzasq.cform/cform-data-cognito-domain@1.2.0?classifier=sources
+- pkg:maven/pl.wrzasq.cform/cform-data-cognito-domain@1.2.1
+- pkg:maven/pl.wrzasq.cform/cform-data-cognito-domain@1.2.1?classifier=sources

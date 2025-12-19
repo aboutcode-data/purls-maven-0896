@@ -80,3 +80,9 @@
 - pkg:maven/org.qbicc/qbicc-plugin-vfs@0.71.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-vfs@0.72.0
 - pkg:maven/org.qbicc/qbicc-plugin-vfs@0.72.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.73.0
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.73.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.74.0
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.74.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.75.0
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.75.0?classifier=sources

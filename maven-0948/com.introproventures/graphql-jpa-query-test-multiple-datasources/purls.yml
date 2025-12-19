@@ -1,2 +1,4 @@
 - pkg:maven/com.introproventures/graphql-jpa-query-test-multiple-datasources@1.0.0
 - pkg:maven/com.introproventures/graphql-jpa-query-test-multiple-datasources@1.0.0?classifier=sources
+- pkg:maven/com.introproventures/graphql-jpa-query-test-multiple-datasources@1.1.0
+- pkg:maven/com.introproventures/graphql-jpa-query-test-multiple-datasources@1.1.0?classifier=sources

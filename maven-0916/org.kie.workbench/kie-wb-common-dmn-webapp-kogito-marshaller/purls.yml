@@ -98,3 +98,5 @@
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.73.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.74.0.Final
 - pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.74.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.74.1.Final
+- pkg:maven/org.kie.workbench/kie-wb-common-dmn-webapp-kogito-marshaller@7.74.1.Final?classifier=sources

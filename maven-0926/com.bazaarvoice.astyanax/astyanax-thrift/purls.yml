@@ -4,6 +4,8 @@
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv12?classifier=sources
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv13
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv13?classifier=sources
+- pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv14
+- pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv14?classifier=sources
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv8
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv8?classifier=sources
 - pkg:maven/com.bazaarvoice.astyanax/astyanax-thrift@3.8.0-bv9

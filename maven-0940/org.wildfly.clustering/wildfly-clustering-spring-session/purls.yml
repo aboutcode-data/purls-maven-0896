@@ -16,3 +16,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session@7.0.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session@7.0.1.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session@8.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-spring-session@9.0.0.Final?classifier=source-release&type=zip

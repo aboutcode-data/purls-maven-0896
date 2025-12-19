@@ -128,6 +128,8 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.23.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.24.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.24.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.25.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.25.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.3.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.3.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@3.3.1
@@ -160,3 +162,7 @@
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@4.6.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@4.7.0
 - pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@4.7.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@4.8.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@4.8.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@4.9.0
+- pkg:maven/io.smallrye.reactive/smallrye-reactive-messaging-camel@4.9.0?classifier=sources

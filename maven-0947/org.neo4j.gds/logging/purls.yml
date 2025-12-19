@@ -1,1 +1,2 @@
 - pkg:maven/org.neo4j.gds/logging@2.5.0-alpha01?classifier=sources
+- pkg:maven/org.neo4j.gds/logging@2.5.0-alpha02?classifier=sources

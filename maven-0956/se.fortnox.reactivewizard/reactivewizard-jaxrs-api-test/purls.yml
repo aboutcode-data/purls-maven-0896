@@ -146,6 +146,8 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@21.3.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@21.4.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@21.4.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@21.5.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@21.5.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@3.1.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@3.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-jaxrs-api-test@3.2.0

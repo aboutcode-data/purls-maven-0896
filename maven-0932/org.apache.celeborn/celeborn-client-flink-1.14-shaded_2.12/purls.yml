@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.celeborn/celeborn-client-flink-1.14-shaded_2.12@0.3.0-incubating
+- pkg:maven/org.apache.celeborn/celeborn-client-flink-1.14-shaded_2.12@0.3.0-incubating?classifier=sources

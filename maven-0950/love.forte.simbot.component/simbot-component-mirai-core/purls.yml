@@ -41,3 +41,4 @@
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-core@3.0.0.preview.4.0-21000.0.2?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-core@3.0.0.preview.5.0-21000.1.0?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-mirai-core@3.1.0.0-M8?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-mirai-core@3.2.0.0?classifier=sources

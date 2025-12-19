@@ -58,3 +58,5 @@
 - pkg:maven/com.raquo/airstream_sjs1_2.12@15.0.0-M5
 - pkg:maven/com.raquo/airstream_sjs1_2.12@15.0.0-M5?classifier=sources
 - pkg:maven/com.raquo/airstream_sjs1_2.12@15.0.0?classifier=sources
+- pkg:maven/com.raquo/airstream_sjs1_2.12@16.0.0
+- pkg:maven/com.raquo/airstream_sjs1_2.12@16.0.0?classifier=sources

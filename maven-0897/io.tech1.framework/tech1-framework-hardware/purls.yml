@@ -4,6 +4,8 @@
 - pkg:maven/io.tech1.framework/tech1-framework-hardware@1.11?classifier=sources
 - pkg:maven/io.tech1.framework/tech1-framework-hardware@1.12
 - pkg:maven/io.tech1.framework/tech1-framework-hardware@1.12?classifier=sources
+- pkg:maven/io.tech1.framework/tech1-framework-hardware@1.13
+- pkg:maven/io.tech1.framework/tech1-framework-hardware@1.13?classifier=sources
 - pkg:maven/io.tech1.framework/tech1-framework-hardware@1.4
 - pkg:maven/io.tech1.framework/tech1-framework-hardware@1.4?classifier=sources
 - pkg:maven/io.tech1.framework/tech1-framework-hardware@1.5

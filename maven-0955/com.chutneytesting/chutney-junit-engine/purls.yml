@@ -62,3 +62,5 @@
 - pkg:maven/com.chutneytesting/chutney-junit-engine@1.7.0?classifier=sources
 - pkg:maven/com.chutneytesting/chutney-junit-engine@1.7.1
 - pkg:maven/com.chutneytesting/chutney-junit-engine@1.7.1?classifier=sources
+- pkg:maven/com.chutneytesting/chutney-junit-engine@2.0.0
+- pkg:maven/com.chutneytesting/chutney-junit-engine@2.0.0?classifier=sources

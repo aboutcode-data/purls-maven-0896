@@ -32,6 +32,7 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.10.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.10.1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.10.2?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.11.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.2.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.2.1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.3.0?classifier=sources
@@ -48,6 +49,8 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.9.1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@4.9.2?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M10?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M11?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M12?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M2?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M3?classifier=sources
@@ -57,3 +60,5 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M7?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M8?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0-M9?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.0?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-common@5.0.1?classifier=sources

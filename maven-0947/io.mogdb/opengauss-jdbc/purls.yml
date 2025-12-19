@@ -1,0 +1,14 @@
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-og
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-og.1
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-og.1?classifier=sources
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-og?classifier=sources
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-pg
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-pg.1
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-pg.1?classifier=sources
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0-pg?classifier=sources
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.0?classifier=sources
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.1
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.1-og
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.1-og?classifier=sources
+- pkg:maven/io.mogdb/opengauss-jdbc@5.0.1?classifier=sources

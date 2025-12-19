@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/vueuse__metadata@10.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/vueuse__metadata@10.1.2
 - pkg:maven/org.webjars.npm/vueuse__metadata@10.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/vueuse__metadata@10.2.1
+- pkg:maven/org.webjars.npm/vueuse__metadata@10.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/vueuse__metadata@8.0.0-beta.3
 - pkg:maven/org.webjars.npm/vueuse__metadata@8.0.0-beta.3?classifier=sources
 - pkg:maven/org.webjars.npm/vueuse__metadata@8.1.2

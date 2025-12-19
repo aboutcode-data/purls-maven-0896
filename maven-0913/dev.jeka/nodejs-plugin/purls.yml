@@ -27,6 +27,8 @@
 - pkg:maven/dev.jeka/nodejs-plugin@0.10.20?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.10.21
 - pkg:maven/dev.jeka/nodejs-plugin@0.10.21?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.10.22
+- pkg:maven/dev.jeka/nodejs-plugin@0.10.22?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.10.2?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.10.3
 - pkg:maven/dev.jeka/nodejs-plugin@0.10.3?classifier=sources

@@ -27,6 +27,8 @@
 - pkg:maven/org.graalvm.nativeimage/svm@20.3.1.2?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm@20.3.10
 - pkg:maven/org.graalvm.nativeimage/svm@20.3.10?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm@20.3.11
+- pkg:maven/org.graalvm.nativeimage/svm@20.3.11?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm@20.3.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm@20.3.2
 - pkg:maven/org.graalvm.nativeimage/svm@20.3.2?classifier=sources
@@ -74,6 +76,8 @@
 - pkg:maven/org.graalvm.nativeimage/svm@21.3.5?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm@21.3.6
 - pkg:maven/org.graalvm.nativeimage/svm@21.3.6?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm@21.3.7
+- pkg:maven/org.graalvm.nativeimage/svm@21.3.7?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm@22.0.0
 - pkg:maven/org.graalvm.nativeimage/svm@22.0.0.2
 - pkg:maven/org.graalvm.nativeimage/svm@22.0.0.2?classifier=sources
@@ -92,5 +96,9 @@
 - pkg:maven/org.graalvm.nativeimage/svm@22.3.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm@22.3.2
 - pkg:maven/org.graalvm.nativeimage/svm@22.3.2?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm@22.3.3
+- pkg:maven/org.graalvm.nativeimage/svm@22.3.3?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/svm@23.0.0
 - pkg:maven/org.graalvm.nativeimage/svm@23.0.0?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/svm@23.0.1
+- pkg:maven/org.graalvm.nativeimage/svm@23.0.1?classifier=sources

@@ -1206,3 +1206,7 @@
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@5.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@6.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@6.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-postgresql@7.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-postgresql@7.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-postgresql@8.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-postgresql@8.0.0?classifier=sources

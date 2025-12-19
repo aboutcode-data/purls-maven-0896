@@ -107,6 +107,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.41
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.41?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.41?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.42
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.42?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.43
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.43?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@1.0.5
@@ -128,6 +133,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.10
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.10?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.11
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.11?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@2.0.2
@@ -212,6 +222,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.26
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.26?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.27
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.27?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@3.0.3
@@ -305,6 +317,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.3
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.30
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.30?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.30?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.31
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.31?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.mercanet@4.0.4

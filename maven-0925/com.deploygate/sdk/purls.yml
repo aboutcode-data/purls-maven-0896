@@ -8,3 +8,4 @@
 - pkg:maven/com.deploygate/sdk@4.2.0?classifier=sources
 - pkg:maven/com.deploygate/sdk@4.3.0?classifier=sources
 - pkg:maven/com.deploygate/sdk@4.4.0?classifier=sources
+- pkg:maven/com.deploygate/sdk@4.5.0?classifier=sources

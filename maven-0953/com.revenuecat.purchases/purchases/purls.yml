@@ -181,5 +181,11 @@
 - pkg:maven/com.revenuecat.purchases/purchases@6.2.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@6.3.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@6.4.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@6.5.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@6.5.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@6.5.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@6.6.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@6.7.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@6.8.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@AMAZON.RC1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@AMAZON.RC1?type=aar

@@ -18,3 +18,5 @@
 - pkg:maven/fun.pplm.framework.poplar/poplar-starter-mqtt@1.5.8?classifier=sources
 - pkg:maven/fun.pplm.framework.poplar/poplar-starter-mqtt@1.5.9
 - pkg:maven/fun.pplm.framework.poplar/poplar-starter-mqtt@1.5.9?classifier=sources
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-mqtt@1.6.10
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-mqtt@1.6.10?classifier=sources

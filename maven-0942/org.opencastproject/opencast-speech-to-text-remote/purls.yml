@@ -52,3 +52,5 @@
 - pkg:maven/org.opencastproject/opencast-speech-to-text-remote@13.7?classifier=sources
 - pkg:maven/org.opencastproject/opencast-speech-to-text-remote@14.0
 - pkg:maven/org.opencastproject/opencast-speech-to-text-remote@14.0?classifier=sources
+- pkg:maven/org.opencastproject/opencast-speech-to-text-remote@14.1
+- pkg:maven/org.opencastproject/opencast-speech-to-text-remote@14.1?classifier=sources

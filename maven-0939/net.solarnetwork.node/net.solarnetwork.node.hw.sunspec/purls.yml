@@ -6,3 +6,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sunspec@4.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sunspec@4.1.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sunspec@4.1.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sunspec@4.2.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.sunspec@4.2.0?classifier=sources

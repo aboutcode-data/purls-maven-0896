@@ -92,6 +92,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.37
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.37?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.38
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.38?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.39
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.39?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@1.0.4
@@ -116,6 +121,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.10
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.10?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.10?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.11
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.11?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@2.0.2
@@ -185,6 +195,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.21
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.21?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.22
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.22?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@3.0.3
@@ -260,6 +272,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.24
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.24?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.25
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.25?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.25?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.26
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.26?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.payment.method.authorize.net@4.0.3

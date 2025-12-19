@@ -18,3 +18,4 @@
 - pkg:maven/com.agorapulse/pierrot-hub4j@0.9.7?classifier=sources
 - pkg:maven/com.agorapulse/pierrot-hub4j@0.9.8?classifier=sources
 - pkg:maven/com.agorapulse/pierrot-hub4j@0.9.9?classifier=sources
+- pkg:maven/com.agorapulse/pierrot-hub4j@1.0.0?classifier=sources

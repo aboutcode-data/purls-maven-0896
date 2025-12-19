@@ -15,6 +15,10 @@
 - pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.15?classifier=sources
 - pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.16
 - pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.16?classifier=sources
+- pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.17
+- pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.17?classifier=sources
+- pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.18
+- pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.18?classifier=sources
 - pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.1?classifier=sources
 - pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.2
 - pkg:maven/io.github.mr-tolmach/raf-generators_2.13@0.1.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.software-hardware-codesign/jector-monkey@1.0.0-pre-alpha
+- pkg:maven/io.github.software-hardware-codesign/jector-monkey@1.0.0-pre-alpha?classifier=sources
+- pkg:maven/io.github.software-hardware-codesign/jector-monkey@incubator-2
+- pkg:maven/io.github.software-hardware-codesign/jector-monkey@incubator-2?classifier=sources

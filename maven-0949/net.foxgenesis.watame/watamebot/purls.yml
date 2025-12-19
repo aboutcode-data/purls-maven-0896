@@ -8,3 +8,5 @@
 - pkg:maven/net.foxgenesis.watame/watamebot@1.0.6?classifier=sources
 - pkg:maven/net.foxgenesis.watame/watamebot@1.0.7
 - pkg:maven/net.foxgenesis.watame/watamebot@1.0.7?classifier=sources
+- pkg:maven/net.foxgenesis.watame/watamebot@1.1.0
+- pkg:maven/net.foxgenesis.watame/watamebot@1.1.0?classifier=sources

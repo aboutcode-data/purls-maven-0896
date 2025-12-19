@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/workspaces-web@835.2.1307.0?classifier=sources
 - pkg:maven/com.cognitect.aws/workspaces-web@847.2.1365.0
 - pkg:maven/com.cognitect.aws/workspaces-web@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/workspaces-web@847.2.1398.0
+- pkg:maven/com.cognitect.aws/workspaces-web@847.2.1398.0?classifier=sources

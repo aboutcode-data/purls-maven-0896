@@ -1304,3 +1304,9 @@
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@7.0.5?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@7.0.6
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@7.0.6?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@8.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@8.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@9.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@9.0.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@9.0.1
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@9.0.1?classifier=sources

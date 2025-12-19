@@ -14,3 +14,5 @@
 - pkg:maven/org.jeecgframework.archetype/jeecg-cloud-gen@3.4.0
 - pkg:maven/org.jeecgframework.archetype/jeecg-cloud-gen@3.4.0?classifier=sources
 - pkg:maven/org.jeecgframework.archetype/jeecg-cloud-gen@3.4?classifier=sources
+- pkg:maven/org.jeecgframework.archetype/jeecg-cloud-gen@3.5.0
+- pkg:maven/org.jeecgframework.archetype/jeecg-cloud-gen@3.5.0?classifier=sources

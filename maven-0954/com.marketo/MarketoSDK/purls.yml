@@ -7,3 +7,4 @@
 - pkg:maven/com.marketo/MarketoSDK@0.8.7?classifier=sources
 - pkg:maven/com.marketo/MarketoSDK@0.8.7?type=aar
 - pkg:maven/com.marketo/MarketoSDK@0.8.8?classifier=sources
+- pkg:maven/com.marketo/MarketoSDK@0.8.9?classifier=sources

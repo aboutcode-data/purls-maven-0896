@@ -2,3 +2,7 @@
 - pkg:maven/com.pinterest.memq/memq-commons@0.2.17?classifier=sources
 - pkg:maven/com.pinterest.memq/memq-commons@0.2.18
 - pkg:maven/com.pinterest.memq/memq-commons@0.2.18?classifier=sources
+- pkg:maven/com.pinterest.memq/memq-commons@0.2.19
+- pkg:maven/com.pinterest.memq/memq-commons@0.2.19?classifier=sources
+- pkg:maven/com.pinterest.memq/memq-commons@0.2.20
+- pkg:maven/com.pinterest.memq/memq-commons@0.2.20?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/com.weisiliang/springservice-core@0.0.1.1
 - pkg:maven/com.weisiliang/springservice-core@0.0.1.2
 - pkg:maven/com.weisiliang/springservice-core@0.0.1.2?classifier=sources
+- pkg:maven/com.weisiliang/springservice-core@0.0.2
+- pkg:maven/com.weisiliang/springservice-core@0.0.2?classifier=sources

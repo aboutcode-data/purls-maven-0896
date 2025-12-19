@@ -27,3 +27,6 @@
 - pkg:maven/io.micronaut.spring/micronaut-spring@5.0.0-M3?classifier=sources
 - pkg:maven/io.micronaut.spring/micronaut-spring@5.0.0-M4?classifier=sources
 - pkg:maven/io.micronaut.spring/micronaut-spring@5.0.0-M6?classifier=sources
+- pkg:maven/io.micronaut.spring/micronaut-spring@5.0.0-M7?classifier=sources
+- pkg:maven/io.micronaut.spring/micronaut-spring@5.0.0?classifier=sources
+- pkg:maven/io.micronaut.spring/micronaut-spring@5.0.1?classifier=sources

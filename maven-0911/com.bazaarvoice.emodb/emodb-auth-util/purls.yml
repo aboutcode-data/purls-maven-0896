@@ -12,3 +12,5 @@
 - pkg:maven/com.bazaarvoice.emodb/emodb-auth-util@6.5.28?classifier=sources
 - pkg:maven/com.bazaarvoice.emodb/emodb-auth-util@6.5.29
 - pkg:maven/com.bazaarvoice.emodb/emodb-auth-util@6.5.29?classifier=sources
+- pkg:maven/com.bazaarvoice.emodb/emodb-auth-util@6.5.31
+- pkg:maven/com.bazaarvoice.emodb/emodb-auth-util@6.5.31?classifier=sources

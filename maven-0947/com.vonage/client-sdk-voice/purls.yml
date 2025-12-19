@@ -12,3 +12,4 @@
 - pkg:maven/com.vonage/client-sdk-voice@0.1.3-alpha.7?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@0.1.3-alpha.8?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@0.1.3-alpha.9?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@1.1.0-alpha.14?classifier=sources

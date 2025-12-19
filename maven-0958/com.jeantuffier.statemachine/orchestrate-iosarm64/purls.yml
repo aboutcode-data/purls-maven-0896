@@ -1,0 +1,4 @@
+- pkg:maven/com.jeantuffier.statemachine/orchestrate-iosarm64@0.2.0-dev11?classifier=sources
+- pkg:maven/com.jeantuffier.statemachine/orchestrate-iosarm64@0.2.0-dev12?classifier=sources
+- pkg:maven/com.jeantuffier.statemachine/orchestrate-iosarm64@0.2.0-dev13?classifier=sources
+- pkg:maven/com.jeantuffier.statemachine/orchestrate-iosarm64@0.2.0-rc1?classifier=sources

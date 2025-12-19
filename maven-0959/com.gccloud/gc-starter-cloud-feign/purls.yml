@@ -1,0 +1,2 @@
+- pkg:maven/com.gccloud/gc-starter-cloud-feign@2.0.0.RELEASE
+- pkg:maven/com.gccloud/gc-starter-cloud-feign@2.0.0.RELEASE?classifier=sources

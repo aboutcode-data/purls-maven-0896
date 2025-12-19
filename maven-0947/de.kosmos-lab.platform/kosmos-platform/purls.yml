@@ -1,3 +1,4 @@
 - pkg:maven/de.kosmos-lab.platform/kosmos-platform@0.8.3
 - pkg:maven/de.kosmos-lab.platform/kosmos-platform@0.8.3?classifier=sources
 - pkg:maven/de.kosmos-lab.platform/kosmos-platform@0.8.7a?classifier=sources
+- pkg:maven/de.kosmos-lab.platform/kosmos-platform@0.9?classifier=sources

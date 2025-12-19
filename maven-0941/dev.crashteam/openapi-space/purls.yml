@@ -1,0 +1,4 @@
+- pkg:maven/dev.crashteam/openapi-space@1.4-dfa8b0a-client
+- pkg:maven/dev.crashteam/openapi-space@1.4-dfa8b0a-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-space@1.4-dfa8b0a-server
+- pkg:maven/dev.crashteam/openapi-space@1.4-dfa8b0a-server?classifier=sources

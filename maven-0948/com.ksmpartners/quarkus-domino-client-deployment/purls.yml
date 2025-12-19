@@ -1,0 +1,2 @@
+- pkg:maven/com.ksmpartners/quarkus-domino-client-deployment@5.5.1
+- pkg:maven/com.ksmpartners/quarkus-domino-client-deployment@5.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sinnatec/sinnatec-distributed-lock@1.0.0-RELEASE
+- pkg:maven/com.sinnatec/sinnatec-distributed-lock@1.0.0-RELEASE?classifier=sources

@@ -134,6 +134,8 @@
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.0.9?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC10
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC10?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC11
+- pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC11?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC2
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC2?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC3
@@ -152,6 +154,8 @@
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-RC9?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-noshaded-RC10
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-noshaded-RC10?classifier=sources
+- pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-noshaded-RC11
+- pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-noshaded-RC11?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-noshaded-RC2
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-noshaded-RC2?classifier=sources
 - pkg:maven/org.reactivemongo/reactivemongo_2.13@1.1.0-noshaded-RC3

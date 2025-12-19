@@ -112,6 +112,14 @@
 - pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.1-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.2-RELEASE
 - pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.2-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.3-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.3-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.4-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.4-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.5-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.5-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.6-RELEASE
+- pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.23.6-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.3.0-RELEASE
 - pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.3.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-saga-microservice-demo@3.3.1-RELEASE

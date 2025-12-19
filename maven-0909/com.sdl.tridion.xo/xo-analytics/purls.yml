@@ -28,3 +28,5 @@
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.5.0-1208?classifier=sources
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.6.0-1176
 - pkg:maven/com.sdl.tridion.xo/xo-analytics@11.6.0-1176?classifier=sources
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@12.0.0-1334
+- pkg:maven/com.sdl.tridion.xo/xo-analytics@12.0.0-1334?classifier=sources

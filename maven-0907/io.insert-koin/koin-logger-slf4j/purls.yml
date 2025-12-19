@@ -23,3 +23,4 @@
 - pkg:maven/io.insert-koin/koin-logger-slf4j@3.3.1?classifier=sources
 - pkg:maven/io.insert-koin/koin-logger-slf4j@3.4.0?classifier=sources
 - pkg:maven/io.insert-koin/koin-logger-slf4j@3.4.1?classifier=sources
+- pkg:maven/io.insert-koin/koin-logger-slf4j@3.4.3?classifier=sources

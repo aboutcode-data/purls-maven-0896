@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.jackrabbit.vault/vault-hook-externalclass-test@3.6.6?classifier=sources
 - pkg:maven/org.apache.jackrabbit.vault/vault-hook-externalclass-test@3.6.8
 - pkg:maven/org.apache.jackrabbit.vault/vault-hook-externalclass-test@3.6.8?classifier=sources
+- pkg:maven/org.apache.jackrabbit.vault/vault-hook-externalclass-test@3.7.0
+- pkg:maven/org.apache.jackrabbit.vault/vault-hook-externalclass-test@3.7.0?classifier=sources

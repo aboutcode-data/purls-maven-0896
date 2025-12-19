@@ -1,3 +1,11 @@
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.10-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.10-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.11-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.11-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.12-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.12-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.14-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.14-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.7-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.7-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.8-release

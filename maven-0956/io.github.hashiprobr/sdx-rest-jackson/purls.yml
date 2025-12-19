@@ -28,3 +28,5 @@
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.8.1?classifier=sources
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.0
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.0?classifier=sources
+- pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.9
+- pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.9?classifier=sources

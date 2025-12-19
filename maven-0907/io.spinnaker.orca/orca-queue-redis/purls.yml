@@ -38,3 +38,5 @@
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.31.2?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.32.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.33.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@8.34.0?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@8.35.0?classifier=sources

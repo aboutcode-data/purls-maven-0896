@@ -8,3 +8,5 @@
 - pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-common@5.0.0?classifier=sources
 - pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-common@5.1.0
 - pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-common@5.1.0?classifier=sources
+- pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-common@5.2.0
+- pkg:maven/io.javaoperatorsdk/operator-framework-spring-boot-starter-samples-common@5.2.0?classifier=sources

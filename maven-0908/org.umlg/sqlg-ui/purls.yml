@@ -8,3 +8,5 @@
 - pkg:maven/org.umlg/sqlg-ui@2.1.6?classifier=sources
 - pkg:maven/org.umlg/sqlg-ui@3.0.0
 - pkg:maven/org.umlg/sqlg-ui@3.0.0?classifier=sources
+- pkg:maven/org.umlg/sqlg-ui@3.0.1
+- pkg:maven/org.umlg/sqlg-ui@3.0.1?classifier=sources

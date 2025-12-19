@@ -23,4 +23,5 @@
 - pkg:maven/io.seata/seata-discovery-all@1.6.0
 - pkg:maven/io.seata/seata-discovery-all@1.6.0-RC1
 - pkg:maven/io.seata/seata-discovery-all@1.6.1
+- pkg:maven/io.seata/seata-discovery-all@1.7.0
 - pkg:maven/io.seata/seata-discovery-all@1.7.0-native-rc2

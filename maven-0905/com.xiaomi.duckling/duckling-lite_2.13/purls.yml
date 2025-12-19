@@ -53,4 +53,8 @@
 - pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4.8.5
 - pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4.8.5?classifier=sources
 - pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4.8?classifier=sources
+- pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4.9
+- pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4.9.1
+- pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4.9.1?classifier=sources
+- pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4.9?classifier=sources
 - pkg:maven/com.xiaomi.duckling/duckling-lite_2.13@1.4?classifier=sources

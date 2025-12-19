@@ -20,3 +20,5 @@
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.5.9?classifier=sources
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.6.6
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.6.6?classifier=sources
+- pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.7.11
+- pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.7.11?classifier=sources

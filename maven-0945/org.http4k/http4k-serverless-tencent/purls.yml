@@ -249,3 +249,7 @@
 - pkg:maven/org.http4k/http4k-serverless-tencent@5.1.2.1?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-tencent@5.2.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-serverless-tencent@5.2.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-tencent@5.3.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-tencent@5.4.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-tencent@5.4.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-serverless-tencent@5.5.0.0?classifier=sources

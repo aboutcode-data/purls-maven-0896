@@ -8,3 +8,7 @@
 - pkg:maven/com.oracle.database.graph/pgx-common_core@23.1.1?classifier=sources
 - pkg:maven/com.oracle.database.graph/pgx-common_core@23.2.1
 - pkg:maven/com.oracle.database.graph/pgx-common_core@23.2.1?classifier=sources
+- pkg:maven/com.oracle.database.graph/pgx-common_core@23.2.2
+- pkg:maven/com.oracle.database.graph/pgx-common_core@23.2.2?classifier=sources
+- pkg:maven/com.oracle.database.graph/pgx-common_core@23.3.1
+- pkg:maven/com.oracle.database.graph/pgx-common_core@23.3.1?classifier=sources

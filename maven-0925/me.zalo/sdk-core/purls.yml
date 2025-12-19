@@ -52,3 +52,5 @@
 - pkg:maven/me.zalo/sdk-core@4.2.0524?type=aar
 - pkg:maven/me.zalo/sdk-core@4.2.0704?classifier=sources
 - pkg:maven/me.zalo/sdk-core@4.2.0704?type=aar
+- pkg:maven/me.zalo/sdk-core@4.2.0724?classifier=sources
+- pkg:maven/me.zalo/sdk-core@4.2.0724?type=aar

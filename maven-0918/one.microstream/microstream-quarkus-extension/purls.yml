@@ -6,3 +6,5 @@
 - pkg:maven/one.microstream/microstream-quarkus-extension@08.00.00-MS-GA?classifier=sources
 - pkg:maven/one.microstream/microstream-quarkus-extension@08.01.00-MS-GA
 - pkg:maven/one.microstream/microstream-quarkus-extension@08.01.00-MS-GA?classifier=sources
+- pkg:maven/one.microstream/microstream-quarkus-extension@08.01.01-MS-GA
+- pkg:maven/one.microstream/microstream-quarkus-extension@08.01.01-MS-GA?classifier=sources
