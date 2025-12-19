@@ -30,6 +30,8 @@
 - pkg:maven/org.nasdanika.html/app-model@2022.1.3?classifier=sources
 - pkg:maven/org.nasdanika.html/app-model@2022.1.4
 - pkg:maven/org.nasdanika.html/app-model@2022.1.4?classifier=sources
+- pkg:maven/org.nasdanika.html/app-model@2022.10.0
+- pkg:maven/org.nasdanika.html/app-model@2022.10.0?classifier=sources
 - pkg:maven/org.nasdanika.html/app-model@2022.2.0
 - pkg:maven/org.nasdanika.html/app-model@2022.2.0?classifier=sources
 - pkg:maven/org.nasdanika.html/app-model@2022.2.1

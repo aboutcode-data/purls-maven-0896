@@ -3,3 +3,4 @@
 - pkg:maven/com.episode6.redux/subscriber-aware-jvm@1.0.0-alpha03?classifier=sources
 - pkg:maven/com.episode6.redux/subscriber-aware-jvm@1.0.0-beta01?classifier=sources
 - pkg:maven/com.episode6.redux/subscriber-aware-jvm@1.0.0?classifier=sources
+- pkg:maven/com.episode6.redux/subscriber-aware-jvm@1.0.1?classifier=sources

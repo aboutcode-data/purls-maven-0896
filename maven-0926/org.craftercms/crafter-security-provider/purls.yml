@@ -265,6 +265,7 @@
 - pkg:maven/org.craftercms/crafter-security-provider@4.0.0-rc2E
 - pkg:maven/org.craftercms/crafter-security-provider@4.0.0-rc2E?classifier=sources
 - pkg:maven/org.craftercms/crafter-security-provider@4.0.1
+- pkg:maven/org.craftercms/crafter-security-provider@4.0.2
 - pkg:maven/org.craftercms/crafter-security-provider@v2.4.1-RC2
 - pkg:maven/org.craftercms/crafter-security-provider@v2.4.1-RC2?classifier=sources
 - pkg:maven/org.craftercms/crafter-security-provider@v2.4.1-RC3

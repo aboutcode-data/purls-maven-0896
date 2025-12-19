@@ -1,1 +1,2 @@
 - pkg:maven/com.transferwise.envoy/envoy-api@1.17.0?classifier=sources
+- pkg:maven/com.transferwise.envoy/envoy-api@1.18.0?classifier=sources

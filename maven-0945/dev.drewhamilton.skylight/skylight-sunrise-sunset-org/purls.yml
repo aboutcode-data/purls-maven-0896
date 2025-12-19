@@ -1,1 +1,3 @@
 - pkg:maven/dev.drewhamilton.skylight/skylight-sunrise-sunset-org@0.12.0?classifier=sources
+- pkg:maven/dev.drewhamilton.skylight/skylight-sunrise-sunset-org@0.13.0?classifier=sources
+- pkg:maven/dev.drewhamilton.skylight/skylight-sunrise-sunset-org@0.13.1?classifier=sources

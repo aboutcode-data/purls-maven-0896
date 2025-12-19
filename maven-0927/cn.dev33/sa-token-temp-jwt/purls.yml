@@ -28,3 +28,15 @@
 - pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.0.RC
 - pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.0.RC?classifier=sources
 - pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.1.temp
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.1.temp?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.1.trial
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.1.trial?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.2.temp
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.2.temp?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.3.temp
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.3.temp?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.32.0
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.32.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.33.0
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.33.0?classifier=sources

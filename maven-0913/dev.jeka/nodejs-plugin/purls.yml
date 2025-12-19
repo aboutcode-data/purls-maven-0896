@@ -1,3 +1,5 @@
+- pkg:maven/dev.jeka/nodejs-plugin@0.10.0
+- pkg:maven/dev.jeka/nodejs-plugin@0.10.0?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC30
 - pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC30?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC31
@@ -12,3 +14,19 @@
 - pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC37?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC38
 - pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC38?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC39
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC39?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC40
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC40?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC41
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC41?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC42
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC42?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC43
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC43?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC44
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC44?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC46
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC46?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC47
+- pkg:maven/dev.jeka/nodejs-plugin@0.9.20.RC47?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.orbit.httpcomponents/httpcore-nio@4.4.15-wso2v2
+- pkg:maven/org.wso2.orbit.httpcomponents/httpcore-nio@4.4.15-wso2v2?classifier=sources

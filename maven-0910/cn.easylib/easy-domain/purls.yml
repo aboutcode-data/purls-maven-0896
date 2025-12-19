@@ -1,0 +1,4 @@
+- pkg:maven/cn.easylib/easy-domain@1.5
+- pkg:maven/cn.easylib/easy-domain@1.5.1
+- pkg:maven/cn.easylib/easy-domain@1.5.1?classifier=sources
+- pkg:maven/cn.easylib/easy-domain@1.5?classifier=sources

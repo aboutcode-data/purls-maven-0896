@@ -1,2 +1,6 @@
 - pkg:maven/com.javaoffers/mybatis-model-core@3.5.11.2
 - pkg:maven/com.javaoffers/mybatis-model-core@3.5.11.2?classifier=sources
+- pkg:maven/com.javaoffers/mybatis-model-core@3.5.11.3
+- pkg:maven/com.javaoffers/mybatis-model-core@3.5.11.3?classifier=sources
+- pkg:maven/com.javaoffers/mybatis-model-core@3.5.11.4
+- pkg:maven/com.javaoffers/mybatis-model-core@3.5.11.4?classifier=sources

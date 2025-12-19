@@ -23,6 +23,10 @@
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.1
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.10
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.10?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.11
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.11-rc-iterable
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.11-rc-iterable?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.11?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.2
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.10.1.2?classifier=sources
@@ -170,6 +174,8 @@
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.8.4.0-rc1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.8.4.1
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.8.4.1?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.8.4.2
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.8.4.2?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.0-rc-202108131436
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.0-rc-202108131436?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.0.0-rc-1
@@ -223,6 +229,14 @@
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.13?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.14
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.14?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.15
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.15?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.16
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.16?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.17
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.17?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.18
+- pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.18?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.1?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.2
 - pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory@2.9.3.2?classifier=sources

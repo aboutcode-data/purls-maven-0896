@@ -10,3 +10,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-eais@2.0.3?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-eais@2.0.4
 - pkg:maven/com.aliyun/aliyun-java-sdk-eais@2.0.4?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-eais@2.0.5
+- pkg:maven/com.aliyun/aliyun-java-sdk-eais@2.0.5?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-eais@2.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-eais@2.1.0?classifier=sources

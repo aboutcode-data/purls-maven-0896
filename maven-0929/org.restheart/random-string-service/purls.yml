@@ -1,0 +1,2 @@
+- pkg:maven/org.restheart/random-string-service@7.0.0
+- pkg:maven/org.restheart/random-string-service@7.0.0?classifier=sources

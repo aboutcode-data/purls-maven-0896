@@ -190,6 +190,16 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.53.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.54.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.54.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.55.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.55.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.56.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.56.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.57.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.57.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.58.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.58.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.59.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.59.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.6.20
 - pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.6.21
 - pkg:maven/com.amazonaws/aws-android-sdk-comprehend@2.6.21?classifier=sources

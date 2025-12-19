@@ -1,4 +1,5 @@
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.10?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-script@5.15.11?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.5?classifier=sources

@@ -18,3 +18,11 @@
 - pkg:maven/org.flyte/integration-tests@0.3.19?classifier=sources
 - pkg:maven/org.flyte/integration-tests@0.3.20
 - pkg:maven/org.flyte/integration-tests@0.3.20?classifier=sources
+- pkg:maven/org.flyte/integration-tests@0.3.21
+- pkg:maven/org.flyte/integration-tests@0.3.21?classifier=sources
+- pkg:maven/org.flyte/integration-tests@0.3.22
+- pkg:maven/org.flyte/integration-tests@0.3.22?classifier=sources
+- pkg:maven/org.flyte/integration-tests@0.3.23
+- pkg:maven/org.flyte/integration-tests@0.3.23?classifier=sources
+- pkg:maven/org.flyte/integration-tests@0.3.24
+- pkg:maven/org.flyte/integration-tests@0.3.24?classifier=sources

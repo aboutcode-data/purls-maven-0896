@@ -18,3 +18,5 @@
 - pkg:maven/de.julielab/jcore-iexml-consumer@2.4.0?classifier=sources
 - pkg:maven/de.julielab/jcore-iexml-consumer@2.5.0
 - pkg:maven/de.julielab/jcore-iexml-consumer@2.5.0?classifier=sources
+- pkg:maven/de.julielab/jcore-iexml-consumer@2.6.0
+- pkg:maven/de.julielab/jcore-iexml-consumer@2.6.0?classifier=sources

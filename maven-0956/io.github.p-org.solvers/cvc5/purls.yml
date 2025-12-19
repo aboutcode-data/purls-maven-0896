@@ -1,0 +1,3 @@
+- pkg:maven/io.github.p-org.solvers/cvc5@0.0.7-v1
+- pkg:maven/io.github.p-org.solvers/cvc5@0.0.7-v5
+- pkg:maven/io.github.p-org.solvers/cvc5@0.0.7-v5?classifier=sources

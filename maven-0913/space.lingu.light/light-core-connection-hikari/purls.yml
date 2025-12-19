@@ -1,0 +1,4 @@
+- pkg:maven/space.lingu.light/light-core-connection-hikari@0.3.0
+- pkg:maven/space.lingu.light/light-core-connection-hikari@0.3.0?classifier=sources
+- pkg:maven/space.lingu.light/light-core-connection-hikari@0.3.1
+- pkg:maven/space.lingu.light/light-core-connection-hikari@0.3.1?classifier=sources

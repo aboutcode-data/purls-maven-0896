@@ -38,3 +38,5 @@
 - pkg:maven/org.ergoplatform/ergo-appkit_2.11@4.0.8?classifier=sources
 - pkg:maven/org.ergoplatform/ergo-appkit_2.11@4.0.9
 - pkg:maven/org.ergoplatform/ergo-appkit_2.11@4.0.9?classifier=sources
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@5.0.0
+- pkg:maven/org.ergoplatform/ergo-appkit_2.11@5.0.0?classifier=sources

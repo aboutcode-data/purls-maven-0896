@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.procedure/apoc-extended@5.1.0?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-extended@5.2.0?classifier=sources

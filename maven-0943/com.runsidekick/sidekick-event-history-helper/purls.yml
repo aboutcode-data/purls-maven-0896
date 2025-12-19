@@ -1,0 +1,4 @@
+- pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.10
+- pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.10?classifier=sources
+- pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.9
+- pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.9?classifier=sources

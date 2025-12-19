@@ -14,3 +14,7 @@
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@1.0.6-beta?classifier=sources
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@1.0.7-beta
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@1.0.7-beta?classifier=sources
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@1.0.8-beta
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@1.0.8-beta?classifier=sources
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@1.0.9-beta
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@1.0.9-beta?classifier=sources

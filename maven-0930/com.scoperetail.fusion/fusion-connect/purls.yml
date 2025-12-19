@@ -18,3 +18,7 @@
 - pkg:maven/com.scoperetail.fusion/fusion-connect@0.73?classifier=sources
 - pkg:maven/com.scoperetail.fusion/fusion-connect@0.76
 - pkg:maven/com.scoperetail.fusion/fusion-connect@0.76?classifier=sources
+- pkg:maven/com.scoperetail.fusion/fusion-connect@0.78
+- pkg:maven/com.scoperetail.fusion/fusion-connect@0.78?classifier=sources
+- pkg:maven/com.scoperetail.fusion/fusion-connect@0.79
+- pkg:maven/com.scoperetail.fusion/fusion-connect@0.79?classifier=sources

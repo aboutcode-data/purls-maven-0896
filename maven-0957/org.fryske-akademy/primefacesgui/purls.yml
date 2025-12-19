@@ -110,3 +110,5 @@
 - pkg:maven/org.fryske-akademy/primefacesgui@18.8?classifier=sources
 - pkg:maven/org.fryske-akademy/primefacesgui@18.9
 - pkg:maven/org.fryske-akademy/primefacesgui@18.9?classifier=sources
+- pkg:maven/org.fryske-akademy/primefacesgui@19.0
+- pkg:maven/org.fryske-akademy/primefacesgui@19.0?classifier=sources

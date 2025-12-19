@@ -6,3 +6,5 @@
 - pkg:maven/org.bitbucket.cpointe.mash/mash-core@3?classifier=sources
 - pkg:maven/org.bitbucket.cpointe.mash/mash-core@4
 - pkg:maven/org.bitbucket.cpointe.mash/mash-core@4?classifier=sources
+- pkg:maven/org.bitbucket.cpointe.mash/mash-core@5
+- pkg:maven/org.bitbucket.cpointe.mash/mash-core@5?classifier=sources

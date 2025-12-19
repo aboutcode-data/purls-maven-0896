@@ -6,3 +6,5 @@
 - pkg:maven/com.softwaremill.diffx/diffx-scalatest-must_sjs1_3@0.8.0?classifier=sources
 - pkg:maven/com.softwaremill.diffx/diffx-scalatest-must_sjs1_3@0.8.1
 - pkg:maven/com.softwaremill.diffx/diffx-scalatest-must_sjs1_3@0.8.1?classifier=sources
+- pkg:maven/com.softwaremill.diffx/diffx-scalatest-must_sjs1_3@0.8.2
+- pkg:maven/com.softwaremill.diffx/diffx-scalatest-must_sjs1_3@0.8.2?classifier=sources

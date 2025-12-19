@@ -1,0 +1,6 @@
+- pkg:maven/net.onedaybeard.sift/cli@0.1.0
+- pkg:maven/net.onedaybeard.sift/cli@0.1.0?classifier=sources
+- pkg:maven/net.onedaybeard.sift/cli@0.2.0
+- pkg:maven/net.onedaybeard.sift/cli@0.2.0?classifier=sources
+- pkg:maven/net.onedaybeard.sift/cli@0.3.0
+- pkg:maven/net.onedaybeard.sift/cli@0.3.0?classifier=sources

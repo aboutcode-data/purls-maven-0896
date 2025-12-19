@@ -18,6 +18,8 @@
 - pkg:maven/com.github.sonus21/rqueue-spring@2.10.0-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-spring@2.10.1-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-spring@2.10.2-RELEASE?classifier=sources
+- pkg:maven/com.github.sonus21/rqueue-spring@2.11-RELEASE?classifier=sources
+- pkg:maven/com.github.sonus21/rqueue-spring@2.11.1-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-spring@2.2.0-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-spring@2.3.0-RELEASE?classifier=sources
 - pkg:maven/com.github.sonus21/rqueue-spring@2.4.0-RELEASE?classifier=sources

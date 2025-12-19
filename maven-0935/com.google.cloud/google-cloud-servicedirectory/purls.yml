@@ -86,3 +86,7 @@
 - pkg:maven/com.google.cloud/google-cloud-servicedirectory@2.4.5?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-servicedirectory@2.5.0
 - pkg:maven/com.google.cloud/google-cloud-servicedirectory@2.5.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-servicedirectory@2.6.0
+- pkg:maven/com.google.cloud/google-cloud-servicedirectory@2.6.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-servicedirectory@2.7.0
+- pkg:maven/com.google.cloud/google-cloud-servicedirectory@2.7.0?classifier=sources

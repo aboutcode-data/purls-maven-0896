@@ -14,3 +14,5 @@
 - pkg:maven/org.webjars.npm/babel__standalone@7.19.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__standalone@7.19.2
 - pkg:maven/org.webjars.npm/babel__standalone@7.19.2?classifier=sources
+- pkg:maven/org.webjars.npm/babel__standalone@7.20.4
+- pkg:maven/org.webjars.npm/babel__standalone@7.20.4?classifier=sources

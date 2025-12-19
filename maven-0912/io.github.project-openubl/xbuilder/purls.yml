@@ -38,3 +38,5 @@
 - pkg:maven/io.github.project-openubl/xbuilder@2.0.0.Alpha6?classifier=sources
 - pkg:maven/io.github.project-openubl/xbuilder@2.0.0.Alpha7
 - pkg:maven/io.github.project-openubl/xbuilder@2.0.0.Alpha7?classifier=sources
+- pkg:maven/io.github.project-openubl/xbuilder@2.0.0.Beta1
+- pkg:maven/io.github.project-openubl/xbuilder@2.0.0.Beta1?classifier=sources

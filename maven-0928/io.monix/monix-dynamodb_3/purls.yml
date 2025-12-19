@@ -1,0 +1,2 @@
+- pkg:maven/io.monix/monix-dynamodb_3@0.9.0
+- pkg:maven/io.monix/monix-dynamodb_3@0.9.0?classifier=sources

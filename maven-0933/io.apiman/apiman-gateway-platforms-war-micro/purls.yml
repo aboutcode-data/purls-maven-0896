@@ -102,3 +102,5 @@
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@2.2.2.Final?classifier=sources
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@2.2.3.Final
 - pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@2.2.3.Final?classifier=sources
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@3.0.0.RC6
+- pkg:maven/io.apiman/apiman-gateway-platforms-war-micro@3.0.0.RC6?classifier=sources

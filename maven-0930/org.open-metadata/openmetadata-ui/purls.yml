@@ -1,3 +1,5 @@
 - pkg:maven/org.open-metadata/openmetadata-ui@0.11.4
 - pkg:maven/org.open-metadata/openmetadata-ui@0.12.1
 - pkg:maven/org.open-metadata/openmetadata-ui@0.12.1.preview
+- pkg:maven/org.open-metadata/openmetadata-ui@0.12.2
+- pkg:maven/org.open-metadata/openmetadata-ui@0.12.2-REPUBLISHED

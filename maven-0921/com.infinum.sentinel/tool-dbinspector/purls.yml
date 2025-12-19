@@ -12,3 +12,4 @@
 - pkg:maven/com.infinum.sentinel/tool-dbinspector@1.1.8?classifier=sources
 - pkg:maven/com.infinum.sentinel/tool-dbinspector@1.1.9?classifier=sources
 - pkg:maven/com.infinum.sentinel/tool-dbinspector@1.2.1?classifier=sources
+- pkg:maven/com.infinum.sentinel/tool-dbinspector@1.2.2?classifier=sources

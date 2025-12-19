@@ -40,3 +40,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-hashicups@1.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-hashicups@1.0.2
 - pkg:maven/com.hashicorp/cdktf-provider-hashicups@1.0.2?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-hashicups@2.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-hashicups@2.0.0?classifier=sources

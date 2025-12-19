@@ -90,3 +90,5 @@
 - pkg:maven/org.duracloud.mill/bitlog@3.2.0?classifier=sources
 - pkg:maven/org.duracloud.mill/bitlog@4.0.0
 - pkg:maven/org.duracloud.mill/bitlog@4.0.0?classifier=sources
+- pkg:maven/org.duracloud.mill/bitlog@4.1.0
+- pkg:maven/org.duracloud.mill/bitlog@4.1.0?classifier=sources

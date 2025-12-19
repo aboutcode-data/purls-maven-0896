@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.integration/spring-integration-graphql@6.0.0
+- pkg:maven/org.springframework.integration/spring-integration-graphql@6.0.0?classifier=sources

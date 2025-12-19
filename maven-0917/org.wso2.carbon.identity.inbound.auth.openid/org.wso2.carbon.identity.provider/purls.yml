@@ -48,5 +48,7 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/org.wso2.carbon.identity.provider@5.6.9?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/org.wso2.carbon.identity.provider@5.7.0
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/org.wso2.carbon.identity.provider@5.7.0?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/org.wso2.carbon.identity.provider@5.8.0
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/org.wso2.carbon.identity.provider@5.8.0?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/org.wso2.carbon.identity.provider@5.9.0
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.openid/org.wso2.carbon.identity.provider@5.9.0?classifier=sources

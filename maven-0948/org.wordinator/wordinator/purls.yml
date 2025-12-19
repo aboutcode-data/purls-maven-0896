@@ -26,3 +26,5 @@
 - pkg:maven/org.wordinator/wordinator@1.0.3?classifier=sources
 - pkg:maven/org.wordinator/wordinator@1.0.4
 - pkg:maven/org.wordinator/wordinator@1.0.4?classifier=sources
+- pkg:maven/org.wordinator/wordinator@1.1.1
+- pkg:maven/org.wordinator/wordinator@1.1.1?classifier=sources

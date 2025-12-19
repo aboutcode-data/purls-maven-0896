@@ -100,6 +100,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@1.0.8?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@1.0.9
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@1.0.9?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@2.0.0
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@2.0.1
@@ -189,6 +191,7 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@7.0.16
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@7.0.16?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@7.0.17?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@7.0.18?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@7.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@7.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@7.0.2?classifier=sources
@@ -215,6 +218,11 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@8.0.5?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@8.0.6?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@8.0.7?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@8.0.8?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@8.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@9.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@9.0.1
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@9.0.1?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@9.0.2?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@9.0.3?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@9.0.4?classifier=sources

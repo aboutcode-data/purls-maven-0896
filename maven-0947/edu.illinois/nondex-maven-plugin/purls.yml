@@ -8,3 +8,7 @@
 - pkg:maven/edu.illinois/nondex-maven-plugin@1.1.1?classifier=sources
 - pkg:maven/edu.illinois/nondex-maven-plugin@1.1.2
 - pkg:maven/edu.illinois/nondex-maven-plugin@1.1.2?classifier=sources
+- pkg:maven/edu.illinois/nondex-maven-plugin@2.1
+- pkg:maven/edu.illinois/nondex-maven-plugin@2.1.1
+- pkg:maven/edu.illinois/nondex-maven-plugin@2.1.1?classifier=sources
+- pkg:maven/edu.illinois/nondex-maven-plugin@2.1?classifier=sources

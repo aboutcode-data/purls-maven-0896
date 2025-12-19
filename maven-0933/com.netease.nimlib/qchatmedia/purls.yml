@@ -14,3 +14,7 @@
 - pkg:maven/com.netease.nimlib/qchatmedia@9.6.1?type=aar
 - pkg:maven/com.netease.nimlib/qchatmedia@9.6.2?classifier=sources
 - pkg:maven/com.netease.nimlib/qchatmedia@9.6.2?type=aar
+- pkg:maven/com.netease.nimlib/qchatmedia@9.6.3?classifier=sources
+- pkg:maven/com.netease.nimlib/qchatmedia@9.6.3?type=aar
+- pkg:maven/com.netease.nimlib/qchatmedia@9.6.4?classifier=sources
+- pkg:maven/com.netease.nimlib/qchatmedia@9.6.4?type=aar

@@ -10,3 +10,5 @@
 - pkg:maven/io.siddhi.extension.io.email/siddhi-io-email@2.0.6?classifier=sources
 - pkg:maven/io.siddhi.extension.io.email/siddhi-io-email@2.0.7
 - pkg:maven/io.siddhi.extension.io.email/siddhi-io-email@2.0.7?classifier=sources
+- pkg:maven/io.siddhi.extension.io.email/siddhi-io-email@2.0.8
+- pkg:maven/io.siddhi.extension.io.email/siddhi-io-email@2.0.8?classifier=sources

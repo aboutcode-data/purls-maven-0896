@@ -8,3 +8,4 @@
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.2.1?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.3.0?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.3.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.causeway/causeway@2.4.1?classifier=source-release&type=zip

@@ -28,3 +28,5 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2022.6.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2022.6.1
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2022.6.1?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2023.0.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2023.0.0?classifier=sources

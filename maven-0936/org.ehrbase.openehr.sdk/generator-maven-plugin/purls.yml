@@ -6,3 +6,5 @@
 - pkg:maven/org.ehrbase.openehr.sdk/generator-maven-plugin@1.21.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/generator-maven-plugin@1.22.0
 - pkg:maven/org.ehrbase.openehr.sdk/generator-maven-plugin@1.22.0?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/generator-maven-plugin@1.23.0
+- pkg:maven/org.ehrbase.openehr.sdk/generator-maven-plugin@1.23.0?classifier=sources

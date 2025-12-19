@@ -76,3 +76,7 @@
 - pkg:maven/com.github.swagger-akka-http/swagger-akka-http_2.12@2.7.0?classifier=sources
 - pkg:maven/com.github.swagger-akka-http/swagger-akka-http_2.12@2.8.0
 - pkg:maven/com.github.swagger-akka-http/swagger-akka-http_2.12@2.8.0?classifier=sources
+- pkg:maven/com.github.swagger-akka-http/swagger-akka-http_2.12@2.9.0
+- pkg:maven/com.github.swagger-akka-http/swagger-akka-http_2.12@2.9.0?classifier=sources
+- pkg:maven/com.github.swagger-akka-http/swagger-akka-http_2.12@2.9.1
+- pkg:maven/com.github.swagger-akka-http/swagger-akka-http_2.12@2.9.1?classifier=sources

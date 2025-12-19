@@ -1,3 +1,10 @@
+- pkg:maven/com.yandex.div/div-states@10.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@11.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@12.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@13.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@14.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@15.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@16.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@7.0.0?classifier=sources

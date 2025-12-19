@@ -1,3 +1,7 @@
 - pkg:maven/io.github.fern-api/tpastream@0.0.11?classifier=sources
 - pkg:maven/io.github.fern-api/tpastream@0.0.12?classifier=sources
+- pkg:maven/io.github.fern-api/tpastream@0.0.17?classifier=sources
+- pkg:maven/io.github.fern-api/tpastream@0.0.18?classifier=sources
+- pkg:maven/io.github.fern-api/tpastream@0.0.19?classifier=sources
+- pkg:maven/io.github.fern-api/tpastream@0.0.20?classifier=sources
 - pkg:maven/io.github.fern-api/tpastream@0.0.9?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/net.mready.json/fluidjson-iosarm64@1.0.0-beta10?classifier=sources
 - pkg:maven/net.mready.json/fluidjson-iosarm64@1.0.0-beta5?classifier=sources
 - pkg:maven/net.mready.json/fluidjson-iosarm64@1.0.0-beta6?classifier=sources
 - pkg:maven/net.mready.json/fluidjson-iosarm64@1.0.0-beta7?classifier=sources
+- pkg:maven/net.mready.json/fluidjson-iosarm64@1.0.0?classifier=sources

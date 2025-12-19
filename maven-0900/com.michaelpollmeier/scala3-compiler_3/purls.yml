@@ -1,2 +1,8 @@
 - pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.0%2B1-extensible-repl
 - pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.0%2B1-extensible-repl?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.0%2B3-extensible-repl
+- pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.0%2B3-extensible-repl?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.1%2B1-extensible-repl
+- pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.1%2B1-extensible-repl?classifier=sources
+- pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.2-RC1-bin-20221101-d84007c-NIGHTLY%2B1-extensible-repl
+- pkg:maven/com.michaelpollmeier/scala3-compiler_3@3.2.2-RC1-bin-20221101-d84007c-NIGHTLY%2B1-extensible-repl?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-beanshell@3.6.2?classifier=sources
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-beanshell@3.6.4
 - pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-beanshell@3.6.4?classifier=sources
+- pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-beanshell@3.7.0
+- pkg:maven/org.apache.maven.plugin-tools/maven-plugin-tools-beanshell@3.7.0?classifier=sources

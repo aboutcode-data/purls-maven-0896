@@ -1,0 +1,2 @@
+- pkg:maven/org.tyamashi/kafka-consumer-side-offset-store-jdbc@0.1-alpha-01
+- pkg:maven/org.tyamashi/kafka-consumer-side-offset-store-jdbc@0.1-alpha-01?classifier=sources

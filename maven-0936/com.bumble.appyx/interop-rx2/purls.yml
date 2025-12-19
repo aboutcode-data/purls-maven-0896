@@ -8,3 +8,6 @@
 - pkg:maven/com.bumble.appyx/interop-rx2@1.0-alpha08?classifier=sources
 - pkg:maven/com.bumble.appyx/interop-rx2@1.0-alpha09?classifier=sources
 - pkg:maven/com.bumble.appyx/interop-rx2@1.0.0-rc01?classifier=sources
+- pkg:maven/com.bumble.appyx/interop-rx2@1.0.0-rc02?classifier=sources
+- pkg:maven/com.bumble.appyx/interop-rx2@1.0.0?classifier=sources
+- pkg:maven/com.bumble.appyx/interop-rx2@1.0.1?classifier=sources

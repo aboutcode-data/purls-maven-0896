@@ -33,3 +33,6 @@
 - pkg:maven/io.github.duduhuang88/gradle-plugin@1.9.0?classifier=sources
 - pkg:maven/io.github.duduhuang88/gradle-plugin@2.0.0?classifier=sources
 - pkg:maven/io.github.duduhuang88/gradle-plugin@3.0.0?classifier=sources
+- pkg:maven/io.github.duduhuang88/gradle-plugin@3.1.0?classifier=sources
+- pkg:maven/io.github.duduhuang88/gradle-plugin@3.2.0?classifier=sources
+- pkg:maven/io.github.duduhuang88/gradle-plugin@3.3.0?classifier=sources

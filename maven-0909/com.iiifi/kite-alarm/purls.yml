@@ -1,0 +1,4 @@
+- pkg:maven/com.iiifi/kite-alarm@1.2.3.RELEASE
+- pkg:maven/com.iiifi/kite-alarm@1.2.3.RELEASE?classifier=sources
+- pkg:maven/com.iiifi/kite-alarm@1.2.4.RELEASE
+- pkg:maven/com.iiifi/kite-alarm@1.2.4.RELEASE?classifier=sources

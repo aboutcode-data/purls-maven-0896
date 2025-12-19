@@ -50,3 +50,5 @@
 - pkg:maven/io.yupiik.batch/excel-iterator@0.0.9?classifier=sources
 - pkg:maven/io.yupiik.batch/excel-iterator@1.0.0
 - pkg:maven/io.yupiik.batch/excel-iterator@1.0.0?classifier=sources
+- pkg:maven/io.yupiik.batch/excel-iterator@1.0.1
+- pkg:maven/io.yupiik.batch/excel-iterator@1.0.1?classifier=sources

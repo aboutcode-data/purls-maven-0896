@@ -252,3 +252,5 @@
 - pkg:maven/org.aoju/bus-cron@6.5.8?classifier=sources
 - pkg:maven/org.aoju/bus-cron@6.5.9
 - pkg:maven/org.aoju/bus-cron@6.5.9?classifier=sources
+- pkg:maven/org.aoju/bus-cron@6.6.0
+- pkg:maven/org.aoju/bus-cron@6.6.0?classifier=sources

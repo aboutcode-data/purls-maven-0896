@@ -1,0 +1,2 @@
+- pkg:maven/io.github.aliyun-mq/rocketmq-slf4j-api-bridge@1.0.0
+- pkg:maven/io.github.aliyun-mq/rocketmq-slf4j-api-bridge@1.0.0?classifier=sources

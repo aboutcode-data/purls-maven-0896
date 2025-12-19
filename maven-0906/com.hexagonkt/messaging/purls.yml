@@ -19,3 +19,4 @@
 - pkg:maven/com.hexagonkt/messaging@2.0.6?classifier=sources
 - pkg:maven/com.hexagonkt/messaging@2.0.7?classifier=sources
 - pkg:maven/com.hexagonkt/messaging@2.0.9?classifier=sources
+- pkg:maven/com.hexagonkt/messaging@2.1.2?classifier=sources

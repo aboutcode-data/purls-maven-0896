@@ -1,2 +1,4 @@
 - pkg:maven/com.khubla.com.pragmatach.examples/yamlexample@1.40?classifier=sources
 - pkg:maven/com.khubla.com.pragmatach.examples/yamlexample@1.40?type=war
+- pkg:maven/com.khubla.com.pragmatach.examples/yamlexample@1.42.0?classifier=sources
+- pkg:maven/com.khubla.com.pragmatach.examples/yamlexample@1.42.0?type=war

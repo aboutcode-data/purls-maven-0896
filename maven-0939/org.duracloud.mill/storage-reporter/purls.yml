@@ -30,3 +30,5 @@
 - pkg:maven/org.duracloud.mill/storage-reporter@3.2.0?classifier=sources
 - pkg:maven/org.duracloud.mill/storage-reporter@4.0.0
 - pkg:maven/org.duracloud.mill/storage-reporter@4.0.0?classifier=sources
+- pkg:maven/org.duracloud.mill/storage-reporter@4.1.0
+- pkg:maven/org.duracloud.mill/storage-reporter@4.1.0?classifier=sources

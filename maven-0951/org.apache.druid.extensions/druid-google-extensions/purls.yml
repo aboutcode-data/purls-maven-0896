@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-google-extensions@0.23.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-google-extensions@24.0.0
 - pkg:maven/org.apache.druid.extensions/druid-google-extensions@24.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-google-extensions@24.0.1
+- pkg:maven/org.apache.druid.extensions/druid-google-extensions@24.0.1?classifier=sources

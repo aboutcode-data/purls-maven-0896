@@ -5,3 +5,4 @@
 - pkg:maven/com.palantir.config.crypto/encrypted-config-value-bundle-dropwizard1@4.0.0?classifier=sources
 - pkg:maven/com.palantir.config.crypto/encrypted-config-value-bundle-dropwizard1@4.1.0?classifier=sources
 - pkg:maven/com.palantir.config.crypto/encrypted-config-value-bundle-dropwizard1@5.0.0?classifier=sources
+- pkg:maven/com.palantir.config.crypto/encrypted-config-value-bundle-dropwizard1@5.1.0?classifier=sources

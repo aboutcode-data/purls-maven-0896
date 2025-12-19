@@ -1,3 +1,4 @@
 - pkg:maven/org.phoebus/service-alarm-config-logger@4.6.7?classifier=sources
 - pkg:maven/org.phoebus/service-alarm-config-logger@4.6.8?classifier=sources
 - pkg:maven/org.phoebus/service-alarm-config-logger@4.7.0?classifier=sources
+- pkg:maven/org.phoebus/service-alarm-config-logger@4.7.1?classifier=sources

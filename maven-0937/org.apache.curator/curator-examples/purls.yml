@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.curator/curator-examples@5.2.1?classifier=sources
 - pkg:maven/org.apache.curator/curator-examples@5.3.0
 - pkg:maven/org.apache.curator/curator-examples@5.3.0?classifier=sources
+- pkg:maven/org.apache.curator/curator-examples@5.4.0
+- pkg:maven/org.apache.curator/curator-examples@5.4.0?classifier=sources

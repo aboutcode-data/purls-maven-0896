@@ -12,3 +12,7 @@
 - pkg:maven/dev.vality/token-keeper-proto@1.28-094b4f0?classifier=sources
 - pkg:maven/dev.vality/token-keeper-proto@1.29-ea6e935
 - pkg:maven/dev.vality/token-keeper-proto@1.29-ea6e935?classifier=sources
+- pkg:maven/dev.vality/token-keeper-proto@1.30-db150ee
+- pkg:maven/dev.vality/token-keeper-proto@1.30-db150ee?classifier=sources
+- pkg:maven/dev.vality/token-keeper-proto@1.31-80690dc
+- pkg:maven/dev.vality/token-keeper-proto@1.31-80690dc?classifier=sources

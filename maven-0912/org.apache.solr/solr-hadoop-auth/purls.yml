@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.solr/solr-hadoop-auth@9.0.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-hadoop-auth@9.1.0?classifier=sources

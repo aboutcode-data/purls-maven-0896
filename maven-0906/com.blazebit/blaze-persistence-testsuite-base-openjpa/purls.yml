@@ -106,3 +106,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-openjpa@1.6.6?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-openjpa@1.6.7
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-openjpa@1.6.7?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-testsuite-base-openjpa@1.6.8
+- pkg:maven/com.blazebit/blaze-persistence-testsuite-base-openjpa@1.6.8?classifier=sources

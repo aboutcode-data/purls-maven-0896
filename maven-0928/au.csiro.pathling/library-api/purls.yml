@@ -4,3 +4,13 @@
 - pkg:maven/au.csiro.pathling/library-api@5.3.2?classifier=sources
 - pkg:maven/au.csiro.pathling/library-api@5.4.0
 - pkg:maven/au.csiro.pathling/library-api@5.4.0?classifier=sources
+- pkg:maven/au.csiro.pathling/library-api@6.0.0
+- pkg:maven/au.csiro.pathling/library-api@6.0.0?classifier=sources
+- pkg:maven/au.csiro.pathling/library-api@6.0.1
+- pkg:maven/au.csiro.pathling/library-api@6.0.1?classifier=sources
+- pkg:maven/au.csiro.pathling/library-api@6.0.2
+- pkg:maven/au.csiro.pathling/library-api@6.0.2?classifier=sources
+- pkg:maven/au.csiro.pathling/library-api@6.0.3
+- pkg:maven/au.csiro.pathling/library-api@6.0.3?classifier=sources
+- pkg:maven/au.csiro.pathling/library-api@6.0.4
+- pkg:maven/au.csiro.pathling/library-api@6.0.4?classifier=sources

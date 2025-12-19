@@ -20,6 +20,14 @@
 - pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.18?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.19
 - pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.19?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.20
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.20?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.21
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.21?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.22
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.22?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.23
+- pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.23?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.3
 - pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.3?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest-xbean@0.4

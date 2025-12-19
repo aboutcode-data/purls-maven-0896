@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.pnc/test-quarkus-release@1.0.1
+- pkg:maven/org.jboss.pnc/test-quarkus-release@1.0.1?classifier=sources

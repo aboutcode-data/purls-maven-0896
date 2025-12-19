@@ -90,6 +90,10 @@
 - pkg:maven/com.adobe.testing/s3mock-testng@2.1.8?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-testng@2.1.9
 - pkg:maven/com.adobe.testing/s3mock-testng@2.1.9?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testng@2.10.0
+- pkg:maven/com.adobe.testing/s3mock-testng@2.10.0?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testng@2.10.1
+- pkg:maven/com.adobe.testing/s3mock-testng@2.10.1?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-testng@2.2.0
 - pkg:maven/com.adobe.testing/s3mock-testng@2.2.0?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-testng@2.2.1
@@ -146,3 +150,7 @@
 - pkg:maven/com.adobe.testing/s3mock-testng@2.7.2?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-testng@2.8.0
 - pkg:maven/com.adobe.testing/s3mock-testng@2.8.0?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testng@2.9.0
+- pkg:maven/com.adobe.testing/s3mock-testng@2.9.0?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testng@2.9.1
+- pkg:maven/com.adobe.testing/s3mock-testng@2.9.1?classifier=sources

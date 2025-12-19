@@ -4,3 +4,5 @@
 - pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.2-billing-3.0.10?classifier=sources
 - pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.3-billing-3.0.13
 - pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.3-billing-3.0.13?classifier=sources
+- pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.4-billing-3.0.13
+- pkg:maven/no.digipost/peppol-bis-billing-3-generator-validation@v0.4-billing-3.0.13?classifier=sources

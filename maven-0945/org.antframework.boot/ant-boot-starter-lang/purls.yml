@@ -16,3 +16,5 @@
 - pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.4.0?classifier=sources
 - pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.4.4
 - pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.4.4?classifier=sources
+- pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.7.4
+- pkg:maven/org.antframework.boot/ant-boot-starter-lang@2.7.4?classifier=sources

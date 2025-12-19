@@ -11,3 +11,4 @@
 - pkg:maven/com.hazelcast/hazelcast-jdbc@5.2-BETA-1
 - pkg:maven/com.hazelcast/hazelcast-jdbc@5.2-BETA-1?classifier=sources
 - pkg:maven/com.hazelcast/hazelcast-jdbc@5.2.0
+- pkg:maven/com.hazelcast/hazelcast-jdbc@5.2.0?classifier=sources

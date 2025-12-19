@@ -7,6 +7,9 @@
 - pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.17?classifier=sources
 - pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.18?classifier=sources
 - pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.19?classifier=sources
+- pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.20?classifier=sources
+- pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.21?classifier=sources
+- pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.22?classifier=sources
 - pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.7?classifier=sources
 - pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.8?classifier=sources
 - pkg:maven/com.eygraber/gradle-utils-kotlin@0.0.9?classifier=sources

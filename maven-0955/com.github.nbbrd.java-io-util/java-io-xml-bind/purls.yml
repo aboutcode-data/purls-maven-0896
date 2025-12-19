@@ -8,3 +8,5 @@
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.18?classifier=sources
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.19
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.19?classifier=sources
+- pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.20
+- pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.20?classifier=sources

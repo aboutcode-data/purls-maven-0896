@@ -11,6 +11,8 @@
 - pkg:maven/org.aya-prover/base@0.20?classifier=sources
 - pkg:maven/org.aya-prover/base@0.21?classifier=sources
 - pkg:maven/org.aya-prover/base@0.22?classifier=sources
+- pkg:maven/org.aya-prover/base@0.23?classifier=sources
+- pkg:maven/org.aya-prover/base@0.24?classifier=sources
 - pkg:maven/org.aya-prover/base@0.8.1?classifier=sources
 - pkg:maven/org.aya-prover/base@0.8.2?classifier=sources
 - pkg:maven/org.aya-prover/base@0.8.3?classifier=sources

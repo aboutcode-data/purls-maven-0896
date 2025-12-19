@@ -75,8 +75,16 @@
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.45?classifier=sources
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.47
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.47?classifier=sources
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.48
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.48?classifier=sources
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.49
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.49?classifier=sources
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.4?classifier=sources
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.5
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.50
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.50?classifier=sources
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.51
+- pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.51?classifier=sources
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.5?classifier=sources
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.6
 - pkg:maven/in.hocg.boot/excel-spring-boot-starter@1.0.6?classifier=sources

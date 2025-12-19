@@ -6,6 +6,11 @@
 - pkg:maven/com.linkedin.coral/src@2.0.105?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.0.106?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.0.107?classifier=sources
+- pkg:maven/com.linkedin.coral/src@2.0.108?classifier=sources
+- pkg:maven/com.linkedin.coral/src@2.0.109?classifier=sources
+- pkg:maven/com.linkedin.coral/src@2.0.110?classifier=sources
+- pkg:maven/com.linkedin.coral/src@2.0.111?classifier=sources
+- pkg:maven/com.linkedin.coral/src@2.0.112?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.0.74?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.0.75?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.0.76?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/rocks.cleancode/hamcrest-optional@1.0.0
 - pkg:maven/rocks.cleancode/hamcrest-optional@1.0.0?classifier=sources
+- pkg:maven/rocks.cleancode/hamcrest-optional@1.1.0
+- pkg:maven/rocks.cleancode/hamcrest-optional@1.1.0?classifier=sources

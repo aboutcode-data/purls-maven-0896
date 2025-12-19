@@ -56,3 +56,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2022.7.2?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2022.7.3
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2022.7.3?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2022.8.0
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2022.8.0?classifier=sources

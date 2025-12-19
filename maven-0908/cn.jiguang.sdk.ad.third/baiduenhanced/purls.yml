@@ -4,5 +4,9 @@
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.225?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.22?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.22?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.241?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.241?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.24?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.24?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.25?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.25?type=aar

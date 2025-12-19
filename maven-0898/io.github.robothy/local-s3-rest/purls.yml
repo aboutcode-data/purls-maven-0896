@@ -1,0 +1,2 @@
+- pkg:maven/io.github.robothy/local-s3-rest@1.2?classifier=sources
+- pkg:maven/io.github.robothy/local-s3-rest@1.4?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/io.alapierre.ksef/ksef-sample@2.0.10
 - pkg:maven/io.alapierre.ksef/ksef-sample@2.0.10?classifier=sources
+- pkg:maven/io.alapierre.ksef/ksef-sample@2.0.12
+- pkg:maven/io.alapierre.ksef/ksef-sample@2.0.12?classifier=sources
+- pkg:maven/io.alapierre.ksef/ksef-sample@2.0.14
+- pkg:maven/io.alapierre.ksef/ksef-sample@2.0.14?classifier=sources
 - pkg:maven/io.alapierre.ksef/ksef-sample@2.0.4.RC1
 - pkg:maven/io.alapierre.ksef/ksef-sample@2.0.4.RC1?classifier=sources

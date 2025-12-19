@@ -1,0 +1,8 @@
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b0
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b0?classifier=sources
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b1
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b1?classifier=sources
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b2
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b2?classifier=sources
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b3
+- pkg:maven/com.sigpwned/hermes-aws-sns@0.0.0-b3?classifier=sources

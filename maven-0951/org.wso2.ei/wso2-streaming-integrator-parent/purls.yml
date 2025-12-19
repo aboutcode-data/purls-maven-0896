@@ -20,3 +20,4 @@
 - pkg:maven/org.wso2.ei/wso2-streaming-integrator-parent@4.1.0-m1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2-streaming-integrator-parent@4.1.0-m2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2-streaming-integrator-parent@4.1.0-m3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2-streaming-integrator-parent@4.2.0-m1?classifier=source-release&type=zip

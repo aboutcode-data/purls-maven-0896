@@ -62,6 +62,10 @@
 - pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@19.0.2?classifier=sources
 - pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@19.0.3
 - pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@19.0.3?classifier=sources
+- pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@20.0.0
+- pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@20.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@20.0.1
+- pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@20.0.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@3.4.1.CR1
 - pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@3.4.1.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-distribution-licenses-maven-plugin@3.4.1.Final

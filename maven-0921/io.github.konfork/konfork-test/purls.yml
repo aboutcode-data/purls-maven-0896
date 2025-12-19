@@ -1,0 +1,2 @@
+- pkg:maven/io.github.konfork/konfork-test@0.0.3?classifier=sources
+- pkg:maven/io.github.konfork/konfork-test@0.0.4?classifier=sources

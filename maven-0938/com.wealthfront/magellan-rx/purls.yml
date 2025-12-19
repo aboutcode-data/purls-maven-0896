@@ -20,3 +20,4 @@
 - pkg:maven/com.wealthfront/magellan-rx@2.1.8-beta?classifier=sources
 - pkg:maven/com.wealthfront/magellan-rx@2.1.9-beta?classifier=sources
 - pkg:maven/com.wealthfront/magellan-rx@2.2.1-beta?classifier=sources
+- pkg:maven/com.wealthfront/magellan-rx@2.2.2-beta?classifier=sources

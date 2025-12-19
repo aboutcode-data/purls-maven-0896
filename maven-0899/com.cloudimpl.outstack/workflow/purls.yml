@@ -112,3 +112,9 @@
 - pkg:maven/com.cloudimpl.outstack/workflow@4.0.537?classifier=sources
 - pkg:maven/com.cloudimpl.outstack/workflow@4.0.538
 - pkg:maven/com.cloudimpl.outstack/workflow@4.0.538?classifier=sources
+- pkg:maven/com.cloudimpl.outstack/workflow@4.0.544
+- pkg:maven/com.cloudimpl.outstack/workflow@4.0.544?classifier=sources
+- pkg:maven/com.cloudimpl.outstack/workflow@4.0.549
+- pkg:maven/com.cloudimpl.outstack/workflow@4.0.549?classifier=sources
+- pkg:maven/com.cloudimpl.outstack/workflow@4.0.551
+- pkg:maven/com.cloudimpl.outstack/workflow@4.0.551?classifier=sources

@@ -60,3 +60,7 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@6.2.0?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@7.0.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@7.0.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@7.1.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@7.1.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.0.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.0.0?classifier=sources

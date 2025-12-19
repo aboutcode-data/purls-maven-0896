@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/amplitude-js@4.5.2
 - pkg:maven/org.webjars.npm/amplitude-js@4.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/amplitude-js@8.21.2
+- pkg:maven/org.webjars.npm/amplitude-js@8.21.2?classifier=sources

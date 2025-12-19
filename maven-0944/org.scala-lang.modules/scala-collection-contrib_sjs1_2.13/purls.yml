@@ -1,2 +1,4 @@
 - pkg:maven/org.scala-lang.modules/scala-collection-contrib_sjs1_2.13@0.2.2
 - pkg:maven/org.scala-lang.modules/scala-collection-contrib_sjs1_2.13@0.2.2?classifier=sources
+- pkg:maven/org.scala-lang.modules/scala-collection-contrib_sjs1_2.13@0.3.0
+- pkg:maven/org.scala-lang.modules/scala-collection-contrib_sjs1_2.13@0.3.0?classifier=sources

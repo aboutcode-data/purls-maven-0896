@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.0
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.0?classifier=sources

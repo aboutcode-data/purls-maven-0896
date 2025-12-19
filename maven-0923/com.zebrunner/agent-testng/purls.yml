@@ -18,3 +18,5 @@
 - pkg:maven/com.zebrunner/agent-testng@1.7.4?classifier=sources
 - pkg:maven/com.zebrunner/agent-testng@1.8.0?classifier=sources
 - pkg:maven/com.zebrunner/agent-testng@1.8.1?classifier=sources
+- pkg:maven/com.zebrunner/agent-testng@1.9.0?classifier=sources
+- pkg:maven/com.zebrunner/agent-testng@1.9.1?classifier=sources

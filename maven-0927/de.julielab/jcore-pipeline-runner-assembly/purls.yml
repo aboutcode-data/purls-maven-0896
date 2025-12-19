@@ -2,3 +2,7 @@
 - pkg:maven/de.julielab/jcore-pipeline-runner-assembly@0.2.6
 - pkg:maven/de.julielab/jcore-pipeline-runner-assembly@0.2.7
 - pkg:maven/de.julielab/jcore-pipeline-runner-assembly@0.2.8
+- pkg:maven/de.julielab/jcore-pipeline-runner-assembly@0.5.0
+- pkg:maven/de.julielab/jcore-pipeline-runner-assembly@0.5.0?classifier=sources
+- pkg:maven/de.julielab/jcore-pipeline-runner-assembly@0.5.1
+- pkg:maven/de.julielab/jcore-pipeline-runner-assembly@0.5.1?classifier=sources
