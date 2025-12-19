@@ -10,3 +10,5 @@
 - pkg:maven/com.manorrock.herring/herring-thread@23.2.0?classifier=sources
 - pkg:maven/com.manorrock.herring/herring-thread@23.3.0
 - pkg:maven/com.manorrock.herring/herring-thread@23.3.0?classifier=sources
+- pkg:maven/com.manorrock.herring/herring-thread@23.4.0
+- pkg:maven/com.manorrock.herring/herring-thread@23.4.0?classifier=sources

@@ -12,6 +12,9 @@
 - pkg:maven/io.velocitycareerlabs/vcl@1.1.7?classifier=sources
 - pkg:maven/io.velocitycareerlabs/vcl@1.1.8?classifier=sources
 - pkg:maven/io.velocitycareerlabs/vcl@1.1.9?classifier=sources
+- pkg:maven/io.velocitycareerlabs/vcl@1.10.0?classifier=sources
+- pkg:maven/io.velocitycareerlabs/vcl@1.10.2?classifier=sources
+- pkg:maven/io.velocitycareerlabs/vcl@1.10.3?classifier=sources
 - pkg:maven/io.velocitycareerlabs/vcl@1.2.0?classifier=sources
 - pkg:maven/io.velocitycareerlabs/vcl@1.2.1?classifier=sources
 - pkg:maven/io.velocitycareerlabs/vcl@1.2.2?classifier=sources

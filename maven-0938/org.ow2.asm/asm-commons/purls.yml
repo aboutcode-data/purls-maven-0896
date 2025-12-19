@@ -66,3 +66,4 @@
 - pkg:maven/org.ow2.asm/asm-commons@9.2?classifier=sources
 - pkg:maven/org.ow2.asm/asm-commons@9.3?classifier=sources
 - pkg:maven/org.ow2.asm/asm-commons@9.4?classifier=sources
+- pkg:maven/org.ow2.asm/asm-commons@9.5?classifier=sources

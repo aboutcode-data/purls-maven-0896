@@ -33,6 +33,8 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@10.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@10.0.6
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@10.0.6?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@10.0.7
+- pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@10.0.7?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.2
@@ -43,6 +45,8 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.5?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.7?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.8?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@11.0.9?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@2.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-trace-cli@2.0.1

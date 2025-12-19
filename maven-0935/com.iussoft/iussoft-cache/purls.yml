@@ -33,6 +33,10 @@
 - pkg:maven/com.iussoft/iussoft-cache@3.3.22082909?classifier=sources
 - pkg:maven/com.iussoft/iussoft-cache@3.3.22092310
 - pkg:maven/com.iussoft/iussoft-cache@3.3.22092310?classifier=sources
+- pkg:maven/com.iussoft/iussoft-cache@3.3.23032915
+- pkg:maven/com.iussoft/iussoft-cache@3.3.23032915?classifier=sources
+- pkg:maven/com.iussoft/iussoft-cache@3.3.23040312
+- pkg:maven/com.iussoft/iussoft-cache@3.3.23040312?classifier=sources
 - pkg:maven/com.iussoft/iussoft-cache@3.3.2?classifier=sources
 - pkg:maven/com.iussoft/iussoft-cache@3.3.3.22031616
 - pkg:maven/com.iussoft/iussoft-cache@3.3.3.22031616?classifier=sources

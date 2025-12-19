@@ -1,0 +1,4 @@
+- pkg:maven/com.github.sbt/sbt-sdlc_2.12_1.0@0.3.0
+- pkg:maven/com.github.sbt/sbt-sdlc_2.12_1.0@0.3.0-M1
+- pkg:maven/com.github.sbt/sbt-sdlc_2.12_1.0@0.3.0-M1?classifier=sources
+- pkg:maven/com.github.sbt/sbt-sdlc_2.12_1.0@0.3.0?classifier=sources

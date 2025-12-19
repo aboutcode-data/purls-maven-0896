@@ -5,3 +5,6 @@
 - pkg:maven/com.baidu.lbsyun/carnavi@5.8.3?classifier=sources
 - pkg:maven/com.baidu.lbsyun/carnavi@5.8.4?classifier=sources
 - pkg:maven/com.baidu.lbsyun/carnavi@5.8.5?classifier=sources
+- pkg:maven/com.baidu.lbsyun/carnavi@6.0.0?classifier=sources
+- pkg:maven/com.baidu.lbsyun/carnavi@6.0.1.1?classifier=sources
+- pkg:maven/com.baidu.lbsyun/carnavi@6.0.1?classifier=sources

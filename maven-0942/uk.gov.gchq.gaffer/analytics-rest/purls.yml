@@ -46,3 +46,5 @@
 - pkg:maven/uk.gov.gchq.gaffer/analytics-rest@1.21.2?type=war
 - pkg:maven/uk.gov.gchq.gaffer/analytics-rest@1.22.0?classifier=sources
 - pkg:maven/uk.gov.gchq.gaffer/analytics-rest@1.22.0?type=war
+- pkg:maven/uk.gov.gchq.gaffer/analytics-rest@1.23.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/analytics-rest@1.23.0?type=war

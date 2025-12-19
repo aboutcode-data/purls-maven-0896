@@ -12,4 +12,8 @@
 - pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-21?classifier=sources
 - pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-22?classifier=sources
 - pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-23?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-24?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-25?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-27?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-28?classifier=sources
 - pkg:maven/io.github.oshai/kotlin-logging-macosx64@4.0.0-beta-9?classifier=sources

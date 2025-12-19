@@ -1,3 +1,4 @@
 - pkg:maven/org.lsposed.lsplt/lsplt-standalone@1.0?classifier=sources
 - pkg:maven/org.lsposed.lsplt/lsplt-standalone@1.1?classifier=sources
 - pkg:maven/org.lsposed.lsplt/lsplt-standalone@2.0?classifier=sources
+- pkg:maven/org.lsposed.lsplt/lsplt-standalone@2.1?classifier=sources

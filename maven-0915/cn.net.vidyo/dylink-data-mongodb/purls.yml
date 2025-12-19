@@ -30,3 +30,5 @@
 - pkg:maven/cn.net.vidyo/dylink-data-mongodb@2.1.0.38.RELEASE?classifier=sources
 - pkg:maven/cn.net.vidyo/dylink-data-mongodb@2.1.0.39.RELEASE
 - pkg:maven/cn.net.vidyo/dylink-data-mongodb@2.1.0.39.RELEASE?classifier=sources
+- pkg:maven/cn.net.vidyo/dylink-data-mongodb@2.1.0.41.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-data-mongodb@2.1.0.41.RELEASE?classifier=sources

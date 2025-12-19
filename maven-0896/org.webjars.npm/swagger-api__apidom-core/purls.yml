@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/swagger-api__apidom-core@0.69.0
 - pkg:maven/org.webjars.npm/swagger-api__apidom-core@0.69.0?classifier=sources
+- pkg:maven/org.webjars.npm/swagger-api__apidom-core@0.69.1
+- pkg:maven/org.webjars.npm/swagger-api__apidom-core@0.69.1?classifier=sources

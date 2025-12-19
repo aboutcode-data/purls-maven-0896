@@ -1,0 +1,4 @@
+- pkg:maven/io.gardenerframework.camellia/wechat-mini-program-qrcode-user-authentication-service@1.0.0-Beta-4?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/wechat-mini-program-qrcode-user-authentication-service@1.0.0?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/wechat-mini-program-qrcode-user-authentication-service@1.0.1?classifier=sources
+- pkg:maven/io.gardenerframework.camellia/wechat-mini-program-qrcode-user-authentication-service@1.0.2?classifier=sources

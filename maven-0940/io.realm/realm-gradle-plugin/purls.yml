@@ -7,7 +7,11 @@
 - pkg:maven/io.realm/realm-gradle-plugin@10.13.0-transformer-api?classifier=sources
 - pkg:maven/io.realm/realm-gradle-plugin@10.13.0?classifier=sources
 - pkg:maven/io.realm/realm-gradle-plugin@10.13.1-transformer-api?classifier=sources
+- pkg:maven/io.realm/realm-gradle-plugin@10.13.1?classifier=sources
 - pkg:maven/io.realm/realm-gradle-plugin@10.13.2-transformer-api?classifier=sources
+- pkg:maven/io.realm/realm-gradle-plugin@10.13.3-transformer-api?classifier=sources
+- pkg:maven/io.realm/realm-gradle-plugin@10.14.0-transformer-api?classifier=sources
+- pkg:maven/io.realm/realm-gradle-plugin@10.14.0?classifier=sources
 - pkg:maven/io.realm/realm-gradle-plugin@10.4.0-RC.1?classifier=sources
 - pkg:maven/io.realm/realm-gradle-plugin@10.4.0?classifier=sources
 - pkg:maven/io.realm/realm-gradle-plugin@10.5.0?classifier=sources

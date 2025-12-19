@@ -22,6 +22,8 @@
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@1.9.4?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@10.0.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@11.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@11.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@11.2.0?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@2.0.2
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@2.0.2?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@2.0.3

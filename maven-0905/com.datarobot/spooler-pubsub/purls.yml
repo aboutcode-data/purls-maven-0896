@@ -1,0 +1,4 @@
+- pkg:maven/com.datarobot/spooler-pubsub@9.0.6
+- pkg:maven/com.datarobot/spooler-pubsub@9.0.6?classifier=sources
+- pkg:maven/com.datarobot/spooler-pubsub@9.0.7
+- pkg:maven/com.datarobot/spooler-pubsub@9.0.7?classifier=sources

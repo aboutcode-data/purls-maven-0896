@@ -106,6 +106,8 @@
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.38.7?classifier=sources
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.38.8
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.38.8?classifier=sources
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.38.9
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.38.9?classifier=sources
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.39.0
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.39.0?classifier=sources
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.39.1
@@ -190,3 +192,9 @@
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.54.1?classifier=sources
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.55.0
 - pkg:maven/org.talend.sdk.component/patternvalidation-component@1.55.0?classifier=sources
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.55.1
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.55.1?classifier=sources
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.55.2
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.55.2?classifier=sources
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.56.0
+- pkg:maven/org.talend.sdk.component/patternvalidation-component@1.56.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/dev.inmo/kslog-linuxx64@0.5.3?classifier=sources
 - pkg:maven/dev.inmo/kslog-linuxx64@0.5.4?classifier=sources
 - pkg:maven/dev.inmo/kslog-linuxx64@1.0.0?classifier=sources
+- pkg:maven/dev.inmo/kslog-linuxx64@1.1.0?classifier=sources
+- pkg:maven/dev.inmo/kslog-linuxx64@1.1.1?classifier=sources

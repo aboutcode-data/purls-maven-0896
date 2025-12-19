@@ -48,6 +48,11 @@
 - pkg:maven/me.proton.core/auth@1.6.1?classifier=sources
 - pkg:maven/me.proton.core/auth@1.6?classifier=sources
 - pkg:maven/me.proton.core/auth@1.7?classifier=sources
+- pkg:maven/me.proton.core/auth@10.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth@10.1.0?classifier=sources
+- pkg:maven/me.proton.core/auth@10.2.0?classifier=sources
+- pkg:maven/me.proton.core/auth@10.2.1?classifier=sources
+- pkg:maven/me.proton.core/auth@10.3.0?classifier=sources
 - pkg:maven/me.proton.core/auth@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/auth@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth@3.0.0?classifier=sources
@@ -103,6 +108,12 @@
 - pkg:maven/me.proton.core/auth@9.13.0?classifier=sources
 - pkg:maven/me.proton.core/auth@9.14.0?classifier=sources
 - pkg:maven/me.proton.core/auth@9.15.0?classifier=sources
+- pkg:maven/me.proton.core/auth@9.16.0?classifier=sources
+- pkg:maven/me.proton.core/auth@9.16.1?classifier=sources
+- pkg:maven/me.proton.core/auth@9.17.0?classifier=sources
+- pkg:maven/me.proton.core/auth@9.17.1?classifier=sources
+- pkg:maven/me.proton.core/auth@9.18.0?classifier=sources
+- pkg:maven/me.proton.core/auth@9.19.0?classifier=sources
 - pkg:maven/me.proton.core/auth@9.2.0?classifier=sources
 - pkg:maven/me.proton.core/auth@9.2.1?classifier=sources
 - pkg:maven/me.proton.core/auth@9.2.2?classifier=sources

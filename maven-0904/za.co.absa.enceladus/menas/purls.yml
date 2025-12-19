@@ -86,3 +86,4 @@
 - pkg:maven/za.co.absa.enceladus/menas@2.8.0?type=war
 - pkg:maven/za.co.absa.enceladus/menas@2.9.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/menas@2.9.0?type=war
+- pkg:maven/za.co.absa.enceladus/menas@3.0.0?type=war

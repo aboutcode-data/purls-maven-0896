@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.7.0
+- pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.7.0?classifier=sources

@@ -12,3 +12,7 @@
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.19.1?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.20.0
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.20.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.21.0
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.21.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.21.1
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.21.1?classifier=sources

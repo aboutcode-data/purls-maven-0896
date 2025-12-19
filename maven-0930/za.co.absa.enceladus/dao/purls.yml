@@ -86,3 +86,5 @@
 - pkg:maven/za.co.absa.enceladus/dao@2.8.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.9.0
 - pkg:maven/za.co.absa.enceladus/dao@2.9.0?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@3.0.0
+- pkg:maven/za.co.absa.enceladus/dao@3.0.0?classifier=sources

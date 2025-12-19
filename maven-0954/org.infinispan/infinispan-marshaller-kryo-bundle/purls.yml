@@ -226,6 +226,8 @@
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@14.0.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@14.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@14.0.8.Final
+- pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@14.0.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@9.0.0.Beta1
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@9.0.0.Beta1?classifier=sources
 - pkg:maven/org.infinispan/infinispan-marshaller-kryo-bundle@9.0.0.Beta2

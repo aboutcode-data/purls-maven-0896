@@ -28,6 +28,8 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.2-EXT200?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.2-EXT201
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.2-EXT201?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.2-EXT202
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.2-EXT202?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT300-alpha
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT300-alpha?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT301-alpha
@@ -40,3 +42,7 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT304-alpha?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT305-alpha
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT305-alpha?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT306
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT306.1
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT306.1?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.3.1-EXT306?classifier=sources

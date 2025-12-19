@@ -44,3 +44,5 @@
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-tools@0.24.2?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-tools@0.24.3
 - pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-tools@0.24.3?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-tools@0.24.4
+- pkg:maven/com.gitlab.cdc-java.impex/cdc-impex-tools@0.24.4?classifier=sources

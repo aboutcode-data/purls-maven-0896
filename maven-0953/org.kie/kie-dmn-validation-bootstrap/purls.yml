@@ -154,3 +154,7 @@
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.34.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.35.0.Final
 - pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.35.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.36.0.Final
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.36.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.37.0.Final
+- pkg:maven/org.kie/kie-dmn-validation-bootstrap@8.37.0.Final?classifier=sources

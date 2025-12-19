@@ -18,3 +18,5 @@
 - pkg:maven/org.webjars.npm/agentkeepalive@4.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/agentkeepalive@4.2.0
 - pkg:maven/org.webjars.npm/agentkeepalive@4.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/agentkeepalive@4.3.0
+- pkg:maven/org.webjars.npm/agentkeepalive@4.3.0?classifier=sources

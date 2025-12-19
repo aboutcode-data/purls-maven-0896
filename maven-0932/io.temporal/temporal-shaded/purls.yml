@@ -1,0 +1,2 @@
+- pkg:maven/io.temporal/temporal-shaded@1.19.0?classifier=sources
+- pkg:maven/io.temporal/temporal-shaded@1.19.1?classifier=sources

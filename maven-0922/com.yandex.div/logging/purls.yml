@@ -13,6 +13,12 @@
 - pkg:maven/com.yandex.div/logging@23.3.0?classifier=sources
 - pkg:maven/com.yandex.div/logging@23.3.1?classifier=sources
 - pkg:maven/com.yandex.div/logging@23.4.0?classifier=sources
+- pkg:maven/com.yandex.div/logging@23.5.0?classifier=sources
+- pkg:maven/com.yandex.div/logging@23.5.1?classifier=sources
+- pkg:maven/com.yandex.div/logging@23.6.0?classifier=sources
+- pkg:maven/com.yandex.div/logging@23.7.0?classifier=sources
+- pkg:maven/com.yandex.div/logging@24.0.0?classifier=sources
+- pkg:maven/com.yandex.div/logging@24.1.0?classifier=sources
 - pkg:maven/com.yandex.div/logging@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/logging@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/logging@7.0.0?classifier=sources

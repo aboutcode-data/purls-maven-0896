@@ -362,6 +362,16 @@
 - pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.33.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.34.0
 - pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.34.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.35.0
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.35.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.36.0
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.36.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.37.0
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.37.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.38.0
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.38.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.39.0
+- pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.39.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.4.0
 - pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.4.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/cloudfrontapigateway@2.5.0

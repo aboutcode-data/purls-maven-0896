@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/connector-iceberg-hadoop3-e2e@2.3.1
+- pkg:maven/org.apache.seatunnel/connector-iceberg-hadoop3-e2e@2.3.1?classifier=sources

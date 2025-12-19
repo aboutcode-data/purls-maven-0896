@@ -20,3 +20,5 @@
 - pkg:maven/io.github.qiunet/ProjectInit@7.0.8?classifier=sources
 - pkg:maven/io.github.qiunet/ProjectInit@7.0.9
 - pkg:maven/io.github.qiunet/ProjectInit@7.0.9?classifier=sources
+- pkg:maven/io.github.qiunet/ProjectInit@7.1.1
+- pkg:maven/io.github.qiunet/ProjectInit@7.1.1?classifier=sources

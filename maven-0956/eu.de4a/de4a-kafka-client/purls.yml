@@ -39,6 +39,8 @@
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.13?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.14
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.14?classifier=sources
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.15
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.15?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.1?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.2
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.2?classifier=sources

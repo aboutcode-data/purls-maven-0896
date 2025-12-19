@@ -30,3 +30,6 @@
 - pkg:maven/org.openrewrite/rewrite-java-17@7.37.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@7.37.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@7.38.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@7.39.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@7.39.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@7.40.0?classifier=sources

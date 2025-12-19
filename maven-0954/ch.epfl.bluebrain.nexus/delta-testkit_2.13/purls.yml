@@ -30,5 +30,9 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-M4?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-M5
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-M5?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-M6-1
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-M6-1?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-M7
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-M7?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-MX
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-testkit_2.13@1.8.0-MX?classifier=sources

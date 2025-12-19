@@ -380,3 +380,7 @@
 - pkg:maven/org.drools/default-kiesession-from-file@8.34.0.Final?classifier=sources
 - pkg:maven/org.drools/default-kiesession-from-file@8.35.0.Final
 - pkg:maven/org.drools/default-kiesession-from-file@8.35.0.Final?classifier=sources
+- pkg:maven/org.drools/default-kiesession-from-file@8.36.0.Final
+- pkg:maven/org.drools/default-kiesession-from-file@8.36.0.Final?classifier=sources
+- pkg:maven/org.drools/default-kiesession-from-file@8.37.0.Final
+- pkg:maven/org.drools/default-kiesession-from-file@8.37.0.Final?classifier=sources

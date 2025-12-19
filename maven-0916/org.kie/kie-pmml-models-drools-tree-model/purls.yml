@@ -162,3 +162,7 @@
 - pkg:maven/org.kie/kie-pmml-models-drools-tree-model@8.34.0.Final?classifier=sources
 - pkg:maven/org.kie/kie-pmml-models-drools-tree-model@8.35.0.Final
 - pkg:maven/org.kie/kie-pmml-models-drools-tree-model@8.35.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-models-drools-tree-model@8.36.0.Final
+- pkg:maven/org.kie/kie-pmml-models-drools-tree-model@8.36.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-pmml-models-drools-tree-model@8.37.0.Final
+- pkg:maven/org.kie/kie-pmml-models-drools-tree-model@8.37.0.Final?classifier=sources

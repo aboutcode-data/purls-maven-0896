@@ -170,3 +170,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.8.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.9.0
 - pkg:maven/net.sourceforge.pmd/pmd-matlab@6.9.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-matlab@7.0.0-rc1
+- pkg:maven/net.sourceforge.pmd/pmd-matlab@7.0.0-rc1?classifier=sources

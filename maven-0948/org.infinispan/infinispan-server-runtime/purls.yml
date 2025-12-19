@@ -216,3 +216,7 @@
 - pkg:maven/org.infinispan/infinispan-server-runtime@14.0.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-runtime@14.0.7.Final
 - pkg:maven/org.infinispan/infinispan-server-runtime@14.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-runtime@14.0.8.Final
+- pkg:maven/org.infinispan/infinispan-server-runtime@14.0.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-runtime@15.0.0.Dev01
+- pkg:maven/org.infinispan/infinispan-server-runtime@15.0.0.Dev01?classifier=sources

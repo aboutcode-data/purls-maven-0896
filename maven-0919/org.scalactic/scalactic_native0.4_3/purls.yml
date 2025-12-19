@@ -6,3 +6,5 @@
 - pkg:maven/org.scalactic/scalactic_native0.4_3@3.2.14?classifier=sources
 - pkg:maven/org.scalactic/scalactic_native0.4_3@3.2.15
 - pkg:maven/org.scalactic/scalactic_native0.4_3@3.2.15?classifier=sources
+- pkg:maven/org.scalactic/scalactic_native0.4_3@3.3.0-SNAP4
+- pkg:maven/org.scalactic/scalactic_native0.4_3@3.3.0-SNAP4?classifier=sources

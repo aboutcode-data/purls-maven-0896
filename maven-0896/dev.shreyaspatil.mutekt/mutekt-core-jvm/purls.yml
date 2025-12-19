@@ -1,3 +1,7 @@
 - pkg:maven/dev.shreyaspatil.mutekt/mutekt-core-jvm@1.0.0-alpha04-kmp-dev01?classifier=sources
 - pkg:maven/dev.shreyaspatil.mutekt/mutekt-core-jvm@1.0.0-alpha04-kmp?classifier=sources
 - pkg:maven/dev.shreyaspatil.mutekt/mutekt-core-jvm@1.0.0-beta01?classifier=sources
+- pkg:maven/dev.shreyaspatil.mutekt/mutekt-core-jvm@1.0.0-ios?classifier=sources
+- pkg:maven/dev.shreyaspatil.mutekt/mutekt-core-jvm@1.0.0?classifier=sources
+- pkg:maven/dev.shreyaspatil.mutekt/mutekt-core-jvm@1.0.1?classifier=sources
+- pkg:maven/dev.shreyaspatil.mutekt/mutekt-core-jvm@v1.0.0?classifier=sources

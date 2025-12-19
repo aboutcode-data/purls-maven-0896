@@ -1,4 +1,6 @@
 - pkg:maven/org.xworker/xworker_web_extjs@2.0.1
 - pkg:maven/org.xworker/xworker_web_extjs@2.0.1?classifier=sources
+- pkg:maven/org.xworker/xworker_web_extjs@2.0.2
+- pkg:maven/org.xworker/xworker_web_extjs@2.0.2?classifier=sources
 - pkg:maven/org.xworker/xworker_web_extjs@3.4.0
 - pkg:maven/org.xworker/xworker_web_extjs@3.4.0?classifier=sources

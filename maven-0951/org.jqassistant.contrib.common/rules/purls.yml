@@ -36,3 +36,7 @@
 - pkg:maven/org.jqassistant.contrib.common/rules@1.8.2?classifier=sources
 - pkg:maven/org.jqassistant.contrib.common/rules@1.9.0
 - pkg:maven/org.jqassistant.contrib.common/rules@1.9.0?classifier=sources
+- pkg:maven/org.jqassistant.contrib.common/rules@2.0.0
+- pkg:maven/org.jqassistant.contrib.common/rules@2.0.0?classifier=sources
+- pkg:maven/org.jqassistant.contrib.common/rules@2.0.1
+- pkg:maven/org.jqassistant.contrib.common/rules@2.0.1?classifier=sources

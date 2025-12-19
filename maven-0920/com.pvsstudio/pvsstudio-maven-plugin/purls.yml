@@ -52,3 +52,5 @@
 - pkg:maven/com.pvsstudio/pvsstudio-maven-plugin@7.23.68482?classifier=sources
 - pkg:maven/com.pvsstudio/pvsstudio-maven-plugin@7.23.69221
 - pkg:maven/com.pvsstudio/pvsstudio-maven-plugin@7.23.69221?classifier=sources
+- pkg:maven/com.pvsstudio/pvsstudio-maven-plugin@7.24.70333
+- pkg:maven/com.pvsstudio/pvsstudio-maven-plugin@7.24.70333?classifier=sources

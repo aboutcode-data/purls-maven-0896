@@ -64,3 +64,5 @@
 - pkg:maven/com.lihaoyi/ujson_sjs1_2.13@3.0.0-M2
 - pkg:maven/com.lihaoyi/ujson_sjs1_2.13@3.0.0-M2?classifier=sources
 - pkg:maven/com.lihaoyi/ujson_sjs1_2.13@3.0.0?classifier=sources
+- pkg:maven/com.lihaoyi/ujson_sjs1_2.13@3.1.0
+- pkg:maven/com.lihaoyi/ujson_sjs1_2.13@3.1.0?classifier=sources

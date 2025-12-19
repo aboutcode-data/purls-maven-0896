@@ -18,3 +18,5 @@
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-deployment@0.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-deployment@1.0.0
 - pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-deployment@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-deployment@2.0.0
+- pkg:maven/io.quarkiverse.file-vault/quarkus-file-vault-deployment@2.0.0?classifier=sources

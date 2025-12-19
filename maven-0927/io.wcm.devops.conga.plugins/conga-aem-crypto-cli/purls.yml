@@ -64,3 +64,5 @@
 - pkg:maven/io.wcm.devops.conga.plugins/conga-aem-crypto-cli@2.19.0?classifier=sources
 - pkg:maven/io.wcm.devops.conga.plugins/conga-aem-crypto-cli@2.19.2
 - pkg:maven/io.wcm.devops.conga.plugins/conga-aem-crypto-cli@2.19.2?classifier=sources
+- pkg:maven/io.wcm.devops.conga.plugins/conga-aem-crypto-cli@2.19.4
+- pkg:maven/io.wcm.devops.conga.plugins/conga-aem-crypto-cli@2.19.4?classifier=sources

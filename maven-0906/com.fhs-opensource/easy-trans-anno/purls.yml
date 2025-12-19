@@ -39,6 +39,20 @@
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.0
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.0?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.1
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.10
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.10?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.11
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.11?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.12
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.12?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.13
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.13?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.14
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.14?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.15
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.15?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.16
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.16?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.1?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.2
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.2?classifier=sources
@@ -54,3 +68,5 @@
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.7?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.8
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.8?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.9
+- pkg:maven/com.fhs-opensource/easy-trans-anno@2.1.9?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/net.mamoe/mirai-core-mock@2.13.4?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-mock@2.14.0-RC?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-mock@2.14.0?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-mock@2.15.0-M1?classifier=sources

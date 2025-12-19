@@ -2,3 +2,5 @@
 - pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-api@1.1.4?classifier=sources
 - pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-api@1.1.5
 - pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-api@1.1.5?classifier=sources
+- pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-api@1.1.6
+- pkg:maven/com.alibaba.dts.client/dts-uniform-subscribe-sdk-api@1.1.6?classifier=sources

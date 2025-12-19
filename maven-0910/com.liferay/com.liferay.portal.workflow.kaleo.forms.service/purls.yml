@@ -157,6 +157,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.39
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.39?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.40
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.0?classifier=sources-commercial
@@ -248,6 +251,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.36
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.36?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.37
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.38
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.38?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.4

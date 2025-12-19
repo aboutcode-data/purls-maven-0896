@@ -44,3 +44,5 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_native0.4_3@0.17.3?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_native0.4_3@0.17.4
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_native0.4_3@0.17.4?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_native0.4_3@0.17.5
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-tests_native0.4_3@0.17.5?classifier=sources

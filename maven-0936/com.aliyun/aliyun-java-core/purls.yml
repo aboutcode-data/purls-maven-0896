@@ -20,6 +20,10 @@
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.10-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.11-beta
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.11-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-core@0.1.12-beta
+- pkg:maven/com.aliyun/aliyun-java-core@0.1.12-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-core@0.1.13-beta
+- pkg:maven/com.aliyun/aliyun-java-core@0.1.13-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.2-beta
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.2-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.3-beta

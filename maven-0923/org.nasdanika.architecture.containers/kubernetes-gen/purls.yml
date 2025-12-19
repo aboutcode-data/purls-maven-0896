@@ -1,0 +1,2 @@
+- pkg:maven/org.nasdanika.architecture.containers/kubernetes-gen@2023.4.0
+- pkg:maven/org.nasdanika.architecture.containers/kubernetes-gen@2023.4.0?classifier=sources

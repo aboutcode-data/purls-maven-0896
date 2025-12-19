@@ -18,3 +18,4 @@
 - pkg:maven/com.facebook.fresco/nativeimagefilters@2.3.0?type=aar
 - pkg:maven/com.facebook.fresco/nativeimagefilters@2.5.0?classifier=sources
 - pkg:maven/com.facebook.fresco/nativeimagefilters@2.6.0?classifier=sources
+- pkg:maven/com.facebook.fresco/nativeimagefilters@3.0.0?classifier=sources

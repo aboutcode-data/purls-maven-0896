@@ -1,0 +1,4 @@
+- pkg:maven/com.chungkui/big-num-2-str@1.0-bate
+- pkg:maven/com.chungkui/big-num-2-str@1.0-bate?classifier=sources
+- pkg:maven/com.chungkui/big-num-2-str@1.1-bate
+- pkg:maven/com.chungkui/big-num-2-str@1.1-bate?classifier=sources

@@ -8,6 +8,12 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.13.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.14.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.14.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.15.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.15.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.16.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.16.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.17.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.17.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.2.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.2.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-retail-v2alpha@2.2.1

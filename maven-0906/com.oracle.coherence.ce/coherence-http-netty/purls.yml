@@ -68,3 +68,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-http-netty@22.06?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-http-netty@22.09
 - pkg:maven/com.oracle.coherence.ce/coherence-http-netty@22.09?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-http-netty@23.03
+- pkg:maven/com.oracle.coherence.ce/coherence-http-netty@23.03?classifier=sources

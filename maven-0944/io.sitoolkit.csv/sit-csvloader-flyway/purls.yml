@@ -1,0 +1,2 @@
+- pkg:maven/io.sitoolkit.csv/sit-csvloader-flyway@0.9
+- pkg:maven/io.sitoolkit.csv/sit-csvloader-flyway@0.9?classifier=sources

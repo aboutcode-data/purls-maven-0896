@@ -1,0 +1,2 @@
+- pkg:maven/stream.scotty/flink-connector@0.4
+- pkg:maven/stream.scotty/flink-connector@0.4?classifier=sources

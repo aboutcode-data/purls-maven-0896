@@ -1,0 +1,2 @@
+- pkg:maven/stream.scotty/core@0.4
+- pkg:maven/stream.scotty/core@0.4?classifier=sources

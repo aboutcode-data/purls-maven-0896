@@ -55,4 +55,7 @@
 - pkg:maven/org.openrewrite/rewrite-hcl@7.37.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@7.37.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@7.38.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-hcl@7.39.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-hcl@7.39.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-hcl@7.40.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@7.9.0?classifier=sources

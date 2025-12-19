@@ -33,6 +33,12 @@
 - pkg:maven/com.iussoft/iussoft-api@3.3.22082510?classifier=sources
 - pkg:maven/com.iussoft/iussoft-api@3.3.22092310
 - pkg:maven/com.iussoft/iussoft-api@3.3.22092310?classifier=sources
+- pkg:maven/com.iussoft/iussoft-api@3.3.23032711
+- pkg:maven/com.iussoft/iussoft-api@3.3.23032711?classifier=sources
+- pkg:maven/com.iussoft/iussoft-api@3.3.23040209
+- pkg:maven/com.iussoft/iussoft-api@3.3.23040209?classifier=sources
+- pkg:maven/com.iussoft/iussoft-api@3.3.23041115
+- pkg:maven/com.iussoft/iussoft-api@3.3.23041115?classifier=sources
 - pkg:maven/com.iussoft/iussoft-api@3.3.2?classifier=sources
 - pkg:maven/com.iussoft/iussoft-api@3.3.3.22031616
 - pkg:maven/com.iussoft/iussoft-api@3.3.3.22031616?classifier=sources

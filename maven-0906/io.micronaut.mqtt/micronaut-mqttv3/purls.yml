@@ -6,3 +6,4 @@
 - pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@2.1.1?classifier=sources
 - pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@2.2.0?classifier=sources
 - pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@2.3.0?classifier=sources
+- pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@3.0.0-M1?classifier=sources

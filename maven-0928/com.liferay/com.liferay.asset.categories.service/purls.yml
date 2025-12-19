@@ -292,6 +292,9 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.35
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.36
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.asset.categories.service@5.0.4

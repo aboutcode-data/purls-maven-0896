@@ -25,3 +25,5 @@
 - pkg:maven/com.waitmoon.ice/ice-common@1.0.4?classifier=sources
 - pkg:maven/com.waitmoon.ice/ice-common@1.1.0
 - pkg:maven/com.waitmoon.ice/ice-common@1.1.0?classifier=sources
+- pkg:maven/com.waitmoon.ice/ice-common@1.2.0
+- pkg:maven/com.waitmoon.ice/ice-common@1.2.0?classifier=sources

@@ -100,3 +100,17 @@
 - pkg:maven/org.jboss.windup/windup-module-spec@6.1.5.Final?classifier=sources
 - pkg:maven/org.jboss.windup/windup-module-spec@6.1.6.Final
 - pkg:maven/org.jboss.windup/windup-module-spec@6.1.6.Final?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.1.7.Final
+- pkg:maven/org.jboss.windup/windup-module-spec@6.1.7.Final?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.1.8.Final
+- pkg:maven/org.jboss.windup/windup-module-spec@6.1.8.Final?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.1.9.Final
+- pkg:maven/org.jboss.windup/windup-module-spec@6.1.9.Final?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.0.Alpha1
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.0.Alpha1?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.0.Alpha2
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.0.Alpha2?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.0.Final
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.0.Final?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.1.Final
+- pkg:maven/org.jboss.windup/windup-module-spec@6.2.1.Final?classifier=sources

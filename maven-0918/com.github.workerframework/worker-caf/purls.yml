@@ -44,3 +44,5 @@
 - pkg:maven/com.github.workerframework/worker-caf@5.0.0-886?classifier=sources
 - pkg:maven/com.github.workerframework/worker-caf@5.1.0-919
 - pkg:maven/com.github.workerframework/worker-caf@5.1.0-919?classifier=sources
+- pkg:maven/com.github.workerframework/worker-caf@6.0.0-1107
+- pkg:maven/com.github.workerframework/worker-caf@6.0.0-1107?classifier=sources

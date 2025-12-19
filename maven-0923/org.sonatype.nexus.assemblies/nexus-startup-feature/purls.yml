@@ -95,6 +95,9 @@
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.5.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.5.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.5.2-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.50.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.51.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.52.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.6.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.6.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.assemblies/nexus-startup-feature@3.6.2-01?classifier=sources

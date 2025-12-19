@@ -8,6 +8,8 @@
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.12?classifier=sources
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.13
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.13?classifier=sources
+- pkg:maven/com.scoperetail.commons/commons-azure-storage@1.14
+- pkg:maven/com.scoperetail.commons/commons-azure-storage@1.14?classifier=sources
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.2
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.2?classifier=sources
 - pkg:maven/com.scoperetail.commons/commons-azure-storage@1.3

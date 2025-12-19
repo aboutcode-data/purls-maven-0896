@@ -78,3 +78,5 @@
 - pkg:maven/org.nasdanika.html/app-model@2023.2.2?classifier=sources
 - pkg:maven/org.nasdanika.html/app-model@2023.3.0
 - pkg:maven/org.nasdanika.html/app-model@2023.3.0?classifier=sources
+- pkg:maven/org.nasdanika.html/app-model@2023.4.0
+- pkg:maven/org.nasdanika.html/app-model@2023.4.0?classifier=sources

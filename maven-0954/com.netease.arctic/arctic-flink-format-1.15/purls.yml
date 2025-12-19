@@ -1,2 +1,4 @@
 - pkg:maven/com.netease.arctic/arctic-flink-format-1.15@0.4.0
 - pkg:maven/com.netease.arctic/arctic-flink-format-1.15@0.4.0?classifier=sources
+- pkg:maven/com.netease.arctic/arctic-flink-format-1.15@0.4.1
+- pkg:maven/com.netease.arctic/arctic-flink-format-1.15@0.4.1?classifier=sources

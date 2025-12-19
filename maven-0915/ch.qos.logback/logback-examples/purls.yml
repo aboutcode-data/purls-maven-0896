@@ -129,6 +129,8 @@
 - pkg:maven/ch.qos.logback/logback-examples@1.2.10?classifier=sources
 - pkg:maven/ch.qos.logback/logback-examples@1.2.11
 - pkg:maven/ch.qos.logback/logback-examples@1.2.11?classifier=sources
+- pkg:maven/ch.qos.logback/logback-examples@1.2.12
+- pkg:maven/ch.qos.logback/logback-examples@1.2.12?classifier=sources
 - pkg:maven/ch.qos.logback/logback-examples@1.2.1?classifier=sources
 - pkg:maven/ch.qos.logback/logback-examples@1.2.2
 - pkg:maven/ch.qos.logback/logback-examples@1.2.2?classifier=sources

@@ -28,4 +28,8 @@
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@5.4.1?classifier=sources
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@5.5.0?classifier=sources
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@5.6.0?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@5.6.1?classifier=sources
 - pkg:maven/io.micronaut.liquibase/micronaut-liquibase@5.7.0?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@5.7.1?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@5.7.2?classifier=sources
+- pkg:maven/io.micronaut.liquibase/micronaut-liquibase@6.0.0-M1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.alibaba.dingtalk/dingtalk-bundle-gradle-open@2.0
+- pkg:maven/com.alibaba.dingtalk/dingtalk-bundle-gradle-open@2.0?classifier=sources
+- pkg:maven/com.alibaba.dingtalk/dingtalk-bundle-gradle-open@2.1
+- pkg:maven/com.alibaba.dingtalk/dingtalk-bundle-gradle-open@2.1?classifier=sources

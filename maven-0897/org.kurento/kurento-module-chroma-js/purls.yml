@@ -17,3 +17,5 @@
 - pkg:maven/org.kurento/kurento-module-chroma-js@6.5.0?classifier=sources
 - pkg:maven/org.kurento/kurento-module-chroma-js@6.6.0
 - pkg:maven/org.kurento/kurento-module-chroma-js@6.6.0?classifier=sources
+- pkg:maven/org.kurento/kurento-module-chroma-js@7.0.0?classifier=sources
+- pkg:maven/org.kurento/kurento-module-chroma-js@7.0.0?type=zip

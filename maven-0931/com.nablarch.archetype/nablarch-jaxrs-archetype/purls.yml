@@ -10,6 +10,7 @@
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u19?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u20?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u21?classifier=sources
+- pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u22?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u6?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u7?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u8?classifier=sources

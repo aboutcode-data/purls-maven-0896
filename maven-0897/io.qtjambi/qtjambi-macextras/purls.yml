@@ -2,6 +2,7 @@
 - pkg:maven/io.qtjambi/qtjambi-macextras@5.15.11?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-macextras@5.15.12?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-macextras@5.15.13?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-macextras@5.15.14?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-macextras@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-macextras@5.15.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-macextras@5.15.5?classifier=sources

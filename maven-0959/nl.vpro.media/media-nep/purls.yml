@@ -198,3 +198,7 @@
 - pkg:maven/nl.vpro.media/media-nep@7.2.4?classifier=sources
 - pkg:maven/nl.vpro.media/media-nep@7.3.0
 - pkg:maven/nl.vpro.media/media-nep@7.3.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-nep@7.4.0
+- pkg:maven/nl.vpro.media/media-nep@7.4.0?classifier=sources
+- pkg:maven/nl.vpro.media/media-nep@7.4.1
+- pkg:maven/nl.vpro.media/media-nep@7.4.1?classifier=sources

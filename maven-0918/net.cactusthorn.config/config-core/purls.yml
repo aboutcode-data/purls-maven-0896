@@ -10,3 +10,5 @@
 - pkg:maven/net.cactusthorn.config/config-core@0.70?classifier=sources
 - pkg:maven/net.cactusthorn.config/config-core@0.80
 - pkg:maven/net.cactusthorn.config/config-core@0.80?classifier=sources
+- pkg:maven/net.cactusthorn.config/config-core@0.81
+- pkg:maven/net.cactusthorn.config/config-core@0.81?classifier=sources

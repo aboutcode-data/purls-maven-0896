@@ -1,0 +1,8 @@
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@0.2.9
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@0.2.9?classifier=sources
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@1.0.3
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@1.0.3?classifier=sources
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@1.0.4
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@1.0.4?classifier=sources
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@1.0.5
+- pkg:maven/io.quarkiverse.helm/quarkus-helm-integration-tests-knative-minimal@1.0.5?classifier=sources

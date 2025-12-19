@@ -18,3 +18,4 @@
 - pkg:maven/org.lwjgl/lwjgl-tinyexr@3.2.3?classifier=sources
 - pkg:maven/org.lwjgl/lwjgl-tinyexr@3.3.0?classifier=sources
 - pkg:maven/org.lwjgl/lwjgl-tinyexr@3.3.1?classifier=sources
+- pkg:maven/org.lwjgl/lwjgl-tinyexr@3.3.2?classifier=sources

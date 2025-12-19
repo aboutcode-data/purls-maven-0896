@@ -42,6 +42,8 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.7?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.8
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.8?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.9
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.9?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-01c4a03
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-01c4a03?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-01f5b3a
@@ -60,6 +62,8 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-9ba870f?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-be6325d
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-be6325d?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-c760a55
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-c760a55?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-e3fbc49
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-e3fbc49?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-e4f2b71
@@ -70,3 +74,7 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC2?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC3
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC3?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC4
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC4?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.6-1f95fd7
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.6-1f95fd7?classifier=sources

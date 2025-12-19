@@ -6,9 +6,15 @@
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@1.1.0?classifier=sources
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@1.1.1
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@1.1.1?classifier=sources
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@1.1.2
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@1.1.2?classifier=sources
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha1
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha1?classifier=sources
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha2
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha2?classifier=sources
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha3
 - pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha3?classifier=sources
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha4
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0.Alpha4?classifier=sources
+- pkg:maven/io.quarkiverse.xmlsec/quarkus-xmlsec@2.0.0?classifier=sources

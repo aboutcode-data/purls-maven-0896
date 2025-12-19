@@ -1,0 +1,3 @@
+- pkg:maven/io.github.jcohy/jcohy-maven@3.0.0.2?classifier=sources
+- pkg:maven/io.github.jcohy/jcohy-maven@3.0.0.3?classifier=sources
+- pkg:maven/io.github.jcohy/jcohy-maven@3.0.0.4?classifier=sources

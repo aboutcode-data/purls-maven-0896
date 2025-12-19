@@ -22,6 +22,8 @@
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.23?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.24
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.24?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.25
+- pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.25?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.3
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.3?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.oauth.addons/org.wso2.carbon.identity.dpop@2.4.4

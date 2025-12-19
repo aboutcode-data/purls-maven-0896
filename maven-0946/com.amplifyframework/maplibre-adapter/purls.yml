@@ -16,6 +16,14 @@
 - pkg:maven/com.amplifyframework/maplibre-adapter@0.4.0?type=aar
 - pkg:maven/com.amplifyframework/maplibre-adapter@1.0.0?classifier=sources
 - pkg:maven/com.amplifyframework/maplibre-adapter@1.0.0?type=aar
+- pkg:maven/com.amplifyframework/maplibre-adapter@1.0.1?classifier=sources
+- pkg:maven/com.amplifyframework/maplibre-adapter@1.0.1?type=aar
 - pkg:maven/com.amplifyframework/maplibre-adapter@2.0.0?classifier=sources
 - pkg:maven/com.amplifyframework/maplibre-adapter@2.0.0?type=aar
 - pkg:maven/com.amplifyframework/maplibre-adapter@2.3.0?classifier=sources
+- pkg:maven/com.amplifyframework/maplibre-adapter@2.4.0?classifier=sources
+- pkg:maven/com.amplifyframework/maplibre-adapter@2.4.1?classifier=sources
+- pkg:maven/com.amplifyframework/maplibre-adapter@2.5.0?classifier=sources
+- pkg:maven/com.amplifyframework/maplibre-adapter@2.6.0?classifier=sources
+- pkg:maven/com.amplifyframework/maplibre-adapter@2.7.0?classifier=sources
+- pkg:maven/com.amplifyframework/maplibre-adapter@2.7.1?classifier=sources

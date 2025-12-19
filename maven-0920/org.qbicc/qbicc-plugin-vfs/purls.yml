@@ -72,3 +72,7 @@
 - pkg:maven/org.qbicc/qbicc-plugin-vfs@0.67.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-vfs@0.68.0
 - pkg:maven/org.qbicc/qbicc-plugin-vfs@0.68.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.69.0
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.69.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.70.0
+- pkg:maven/org.qbicc/qbicc-plugin-vfs@0.70.0?classifier=sources

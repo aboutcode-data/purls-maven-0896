@@ -4,3 +4,5 @@
 - pkg:maven/network.oxalis.peppol/peppol-ubl21@1.0.0?classifier=sources
 - pkg:maven/network.oxalis.peppol/peppol-ubl21@1.1.0
 - pkg:maven/network.oxalis.peppol/peppol-ubl21@1.1.0?classifier=sources
+- pkg:maven/network.oxalis.peppol/peppol-ubl21@2.0.0
+- pkg:maven/network.oxalis.peppol/peppol-ubl21@2.0.0?classifier=sources

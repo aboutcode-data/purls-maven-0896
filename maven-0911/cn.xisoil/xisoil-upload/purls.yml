@@ -1,0 +1,4 @@
+- pkg:maven/cn.xisoil/xisoil-upload@2.0.1-RELEASE
+- pkg:maven/cn.xisoil/xisoil-upload@2.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.xisoil/xisoil-upload@2.0.5-RELEASE
+- pkg:maven/cn.xisoil/xisoil-upload@2.0.5-RELEASE?classifier=sources

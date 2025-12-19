@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.zodiacstack/zodiac-client-netty@1.5.14
+- pkg:maven/com.gitee.zodiacstack/zodiac-client-netty@1.5.14?classifier=sources
+- pkg:maven/com.gitee.zodiacstack/zodiac-client-netty@1.5.15
+- pkg:maven/com.gitee.zodiacstack/zodiac-client-netty@1.5.15?classifier=sources

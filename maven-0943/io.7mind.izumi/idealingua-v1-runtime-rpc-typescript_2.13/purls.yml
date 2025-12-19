@@ -206,6 +206,7 @@
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.0.8?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.0.9
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.0.9?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0-M1
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0-M10
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0-M10?classifier=sources
@@ -220,3 +221,6 @@
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0-M6?classifier=sources
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0-M7
 - pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0-M7?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.0?classifier=sources
+- pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.1
+- pkg:maven/io.7mind.izumi/idealingua-v1-runtime-rpc-typescript_2.13@1.1.1?classifier=sources

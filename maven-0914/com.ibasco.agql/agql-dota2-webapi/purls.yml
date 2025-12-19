@@ -34,3 +34,5 @@
 - pkg:maven/com.ibasco.agql/agql-dota2-webapi@1.0.8?classifier=sources
 - pkg:maven/com.ibasco.agql/agql-dota2-webapi@1.1.0
 - pkg:maven/com.ibasco.agql/agql-dota2-webapi@1.1.0?classifier=sources
+- pkg:maven/com.ibasco.agql/agql-dota2-webapi@1.2.0
+- pkg:maven/com.ibasco.agql/agql-dota2-webapi@1.2.0?classifier=sources

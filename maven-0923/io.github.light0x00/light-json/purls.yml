@@ -1,0 +1,6 @@
+- pkg:maven/io.github.light0x00/light-json@0.0.1-beta
+- pkg:maven/io.github.light0x00/light-json@0.0.1-beta?classifier=sources
+- pkg:maven/io.github.light0x00/light-json@0.0.2
+- pkg:maven/io.github.light0x00/light-json@0.0.2?classifier=sources
+- pkg:maven/io.github.light0x00/light-json@0.0.3
+- pkg:maven/io.github.light0x00/light-json@0.0.3?classifier=sources
