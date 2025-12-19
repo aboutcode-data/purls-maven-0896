@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE160?classifier=sources

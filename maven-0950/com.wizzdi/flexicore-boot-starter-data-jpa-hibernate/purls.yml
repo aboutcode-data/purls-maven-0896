@@ -12,3 +12,5 @@
 - pkg:maven/com.wizzdi/flexicore-boot-starter-data-jpa-hibernate@1.2.0?classifier=sources
 - pkg:maven/com.wizzdi/flexicore-boot-starter-data-jpa-hibernate@2.0.0
 - pkg:maven/com.wizzdi/flexicore-boot-starter-data-jpa-hibernate@2.0.0?classifier=sources
+- pkg:maven/com.wizzdi/flexicore-boot-starter-data-jpa-hibernate@3.0.0
+- pkg:maven/com.wizzdi/flexicore-boot-starter-data-jpa-hibernate@3.0.0?classifier=sources

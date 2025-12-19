@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ide-workspace@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ide-workspace@7.1.0?classifier=sources

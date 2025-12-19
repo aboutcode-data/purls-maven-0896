@@ -1,2 +1,4 @@
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu117@1.13.0
 - pkg:maven/ai.djl.pytorch/pytorch-native-cu117@1.13.0?classifier=sources
+- pkg:maven/ai.djl.pytorch/pytorch-native-cu117@1.13.1
+- pkg:maven/ai.djl.pytorch/pytorch-native-cu117@1.13.1?classifier=sources

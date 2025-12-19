@@ -45,7 +45,10 @@
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.13.0?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.13.1?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.13.2-kotlin-1.8.0-Beta?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.13.2-kotlin-1.8.0-RC2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.13.2-kotlin-1.8.0-RC?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.13.2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.13.3?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.6.0?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.7.0?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.8.0-kotlin-1.6.0-new-mm?classifier=sources
@@ -57,3 +60,6 @@
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.9.0-new-mm?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@0.9.0?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@1.0.0-ALPHA-1?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@1.0.0-ALPHA-2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@1.0.0-ALPHA-3?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-nativecoroutines-annotations-tvossimulatorarm64@1.0.0-ALPHA-4?classifier=sources

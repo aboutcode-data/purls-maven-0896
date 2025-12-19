@@ -4,3 +4,4 @@
 - pkg:maven/com.speechly/android-client@0.1.9?classifier=sources
 - pkg:maven/com.speechly/android-client@0.2.0?classifier=sources
 - pkg:maven/com.speechly/android-client@0.2.1?classifier=sources
+- pkg:maven/com.speechly/android-client@0.3.0?classifier=sources

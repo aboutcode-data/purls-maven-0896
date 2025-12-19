@@ -4,3 +4,4 @@
 - pkg:maven/com.facebook.litho/litho-rendercore@0.42.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-rendercore@0.43.0?classifier=sources
 - pkg:maven/com.facebook.litho/litho-rendercore@0.44.0?classifier=sources
+- pkg:maven/com.facebook.litho/litho-rendercore@0.45.0?classifier=sources

@@ -22,6 +22,8 @@
 - pkg:maven/io.wcm/io.wcm.handler.url@1.1.4?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.url@1.1.6
 - pkg:maven/io.wcm/io.wcm.handler.url@1.1.6?classifier=sources
+- pkg:maven/io.wcm/io.wcm.handler.url@1.10.0
+- pkg:maven/io.wcm/io.wcm.handler.url@1.10.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.url@1.2.0
 - pkg:maven/io.wcm/io.wcm.handler.url@1.2.0?classifier=sources
 - pkg:maven/io.wcm/io.wcm.handler.url@1.2.2

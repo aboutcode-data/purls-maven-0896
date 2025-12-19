@@ -18,3 +18,5 @@
 - pkg:maven/org.ff4j/ff4j-store-arangodb@1.8.8?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-arangodb@1.8.9
 - pkg:maven/org.ff4j/ff4j-store-arangodb@1.8.9?classifier=sources
+- pkg:maven/org.ff4j/ff4j-store-arangodb@1.9
+- pkg:maven/org.ff4j/ff4j-store-arangodb@1.9?classifier=sources

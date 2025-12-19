@@ -104,3 +104,5 @@
 - pkg:maven/org.sakaiproject.common/sakai-privacy-hbm@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.common/sakai-privacy-hbm@22.1
 - pkg:maven/org.sakaiproject.common/sakai-privacy-hbm@22.1?classifier=sources
+- pkg:maven/org.sakaiproject.common/sakai-privacy-hbm@22.2
+- pkg:maven/org.sakaiproject.common/sakai-privacy-hbm@22.2?classifier=sources

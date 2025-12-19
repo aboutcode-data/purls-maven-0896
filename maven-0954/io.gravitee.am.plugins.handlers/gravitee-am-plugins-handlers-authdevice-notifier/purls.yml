@@ -11,6 +11,10 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.13?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.14
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.14?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.15
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.15?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.16
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.16?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.15.2?classifier=sources
@@ -59,6 +63,10 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.11?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.12
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.12?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.13
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.13?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.14
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.14?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.18.2?classifier=sources
@@ -84,3 +92,13 @@
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.19.2
 - pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.19.2?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.19.3
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.19.3?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.19.4
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.19.4?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.20.0
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.20.0-alpha.1
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.20.0-alpha.1?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.20.0-alpha.2
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.20.0-alpha.2?classifier=sources
+- pkg:maven/io.gravitee.am.plugins.handlers/gravitee-am-plugins-handlers-authdevice-notifier@3.20.0?classifier=sources

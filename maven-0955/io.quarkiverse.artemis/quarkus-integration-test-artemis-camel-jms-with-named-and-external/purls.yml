@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-camel-jms-with-named-and-external@2.0.4
+- pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-camel-jms-with-named-and-external@2.0.4?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.camel.springboot/camel-cli-connector-starter@3.19.0
 - pkg:maven/org.apache.camel.springboot/camel-cli-connector-starter@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-cli-connector-starter@3.20.0
+- pkg:maven/org.apache.camel.springboot/camel-cli-connector-starter@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-cli-connector-starter@3.20.1
+- pkg:maven/org.apache.camel.springboot/camel-cli-connector-starter@3.20.1?classifier=sources

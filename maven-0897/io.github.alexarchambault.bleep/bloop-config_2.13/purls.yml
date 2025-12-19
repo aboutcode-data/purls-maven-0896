@@ -32,3 +32,5 @@
 - pkg:maven/io.github.alexarchambault.bleep/bloop-config_2.13@1.5.4-sc-2?classifier=sources
 - pkg:maven/io.github.alexarchambault.bleep/bloop-config_2.13@1.5.4-sc-3
 - pkg:maven/io.github.alexarchambault.bleep/bloop-config_2.13@1.5.4-sc-3?classifier=sources
+- pkg:maven/io.github.alexarchambault.bleep/bloop-config_2.13@1.5.4-sc-4
+- pkg:maven/io.github.alexarchambault.bleep/bloop-config_2.13@1.5.4-sc-4?classifier=sources

@@ -60,6 +60,7 @@
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@4.0.1-RC1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@4.0.1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@4.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0-RC1
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0-RC1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0-RC2
@@ -68,3 +69,4 @@
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0-RC3?classifier=sources
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0-RC4
 - pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0-RC4?classifier=sources
+- pkg:maven/org.eclipse.microprofile.metrics/microprofile-metrics-optional-tck@5.0.0?classifier=sources

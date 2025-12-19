@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.nifi/nifi-key-service-nar@1.19.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-key-service-nar@1.19.1?classifier=sources

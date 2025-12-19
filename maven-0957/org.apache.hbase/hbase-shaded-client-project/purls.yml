@@ -170,6 +170,10 @@
 - pkg:maven/org.apache.hbase/hbase-shaded-client-project@2.5.0?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-shaded-client-project@2.5.1
 - pkg:maven/org.apache.hbase/hbase-shaded-client-project@2.5.1?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-shaded-client-project@2.5.2
+- pkg:maven/org.apache.hbase/hbase-shaded-client-project@2.5.2-hadoop3
+- pkg:maven/org.apache.hbase/hbase-shaded-client-project@2.5.2-hadoop3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-shaded-client-project@2.5.2?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-shaded-client-project@3.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-shaded-client-project@3.0.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-shaded-client-project@3.0.0-alpha-2

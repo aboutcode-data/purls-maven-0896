@@ -7,3 +7,5 @@
 - pkg:maven/com.tencent.imsdk/imsdk-customer@6.8.3374?classifier=sources
 - pkg:maven/com.tencent.imsdk/imsdk-customer@6.8.3374?type=aar
 - pkg:maven/com.tencent.imsdk/imsdk-customer@6.9.3557?classifier=sources
+- pkg:maven/com.tencent.imsdk/imsdk-customer@7.0.1212?classifier=sources
+- pkg:maven/com.tencent.imsdk/imsdk-customer@7.0.3754?classifier=sources

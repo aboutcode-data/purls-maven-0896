@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE160?classifier=sources

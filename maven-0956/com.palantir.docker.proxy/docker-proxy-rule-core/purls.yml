@@ -12,3 +12,4 @@
 - pkg:maven/com.palantir.docker.proxy/docker-proxy-rule-core@1.4.0?classifier=sources
 - pkg:maven/com.palantir.docker.proxy/docker-proxy-rule-core@1.5.0?classifier=sources
 - pkg:maven/com.palantir.docker.proxy/docker-proxy-rule-core@1.6.0?classifier=sources
+- pkg:maven/com.palantir.docker.proxy/docker-proxy-rule-core@1.7.0?classifier=sources

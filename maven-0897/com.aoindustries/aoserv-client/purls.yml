@@ -58,3 +58,5 @@
 - pkg:maven/com.aoindustries/aoserv-client@1.91.6?classifier=sources
 - pkg:maven/com.aoindustries/aoserv-client@1.91.7
 - pkg:maven/com.aoindustries/aoserv-client@1.91.7?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-client@1.91.8
+- pkg:maven/com.aoindustries/aoserv-client@1.91.8?classifier=sources

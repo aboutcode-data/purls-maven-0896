@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-properties@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-properties@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-properties@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-properties@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-bindings-properties@RELEASE90?classifier=sources

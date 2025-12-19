@@ -1,0 +1,8 @@
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.67.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.67.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.68.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.68.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.68.1
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.68.1?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.69.0
+- pkg:maven/net.sc8s/akka-components-persistence-projection-lagom-api_sjs1_2.13@0.69.0?classifier=sources

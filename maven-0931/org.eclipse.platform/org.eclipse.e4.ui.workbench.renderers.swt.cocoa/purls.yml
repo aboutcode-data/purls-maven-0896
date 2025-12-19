@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt.cocoa@0.12.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt.cocoa@0.12.600
 - pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt.cocoa@0.12.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt.cocoa@0.13.0
+- pkg:maven/org.eclipse.platform/org.eclipse.e4.ui.workbench.renderers.swt.cocoa@0.13.0?classifier=sources

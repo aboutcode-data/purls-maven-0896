@@ -76,3 +76,7 @@
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.8.2?classifier=sources
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.9.0
 - pkg:maven/com.smartling.api/smartling-jobs-api@0.9.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-jobs-api@1.0.0
+- pkg:maven/com.smartling.api/smartling-jobs-api@1.0.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-jobs-api@1.1.0
+- pkg:maven/com.smartling.api/smartling-jobs-api@1.1.0?classifier=sources

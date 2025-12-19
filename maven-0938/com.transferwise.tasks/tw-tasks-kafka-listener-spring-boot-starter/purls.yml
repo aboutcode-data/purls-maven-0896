@@ -6,3 +6,4 @@
 - pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.35.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.36.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.37.0?classifier=sources
+- pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.37.1?classifier=sources

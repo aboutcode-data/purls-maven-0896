@@ -220,6 +220,10 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.5.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.5.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.5.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.50.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.50.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.51.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.51.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@2.7.0
@@ -242,3 +246,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@3.0.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@3.0.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@3.0.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@3.1.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@3.1.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@3.2.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-cims@3.2.0?classifier=sources

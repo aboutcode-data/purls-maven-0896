@@ -2,3 +2,5 @@
 - pkg:maven/net.corda/corda-ledger-utxo@5.0.0.190-DevPreview-2?classifier=sources
 - pkg:maven/net.corda/corda-ledger-utxo@5.0.0.435-Eagle
 - pkg:maven/net.corda/corda-ledger-utxo@5.0.0.435-Eagle?classifier=sources
+- pkg:maven/net.corda/corda-ledger-utxo@5.0.0.523-Fox1.0
+- pkg:maven/net.corda/corda-ledger-utxo@5.0.0.523-Fox1.0?classifier=sources

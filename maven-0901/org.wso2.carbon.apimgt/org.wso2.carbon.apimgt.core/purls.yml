@@ -5180,6 +5180,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.22.63?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.22.64
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.22.64?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.22.69
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.22.69?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.23.0
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.23.0?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.23.1
@@ -5431,6 +5433,10 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.1
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.1?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.2
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.27
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.27?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.28
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.28?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.2?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.3
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.core@9.28.3?classifier=sources

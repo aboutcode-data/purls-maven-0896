@@ -23,4 +23,6 @@
 - pkg:maven/com.webauthn4j/webauthn4j-device-check@0.20.3.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-device-check@0.20.4.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-device-check@0.20.5.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-device-check@0.20.6.RELEASE?classifier=sources
+- pkg:maven/com.webauthn4j/webauthn4j-device-check@0.20.7.RELEASE?classifier=sources
 - pkg:maven/com.webauthn4j/webauthn4j-device-check@0.3.5.RELEASE?classifier=sources

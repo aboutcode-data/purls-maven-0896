@@ -76,3 +76,5 @@
 - pkg:maven/xyz.migoo/migoo@4.0.7?classifier=sources
 - pkg:maven/xyz.migoo/migoo@4.1.0
 - pkg:maven/xyz.migoo/migoo@4.1.0?classifier=sources
+- pkg:maven/xyz.migoo/migoo@5.0.0
+- pkg:maven/xyz.migoo/migoo@5.0.0?classifier=sources

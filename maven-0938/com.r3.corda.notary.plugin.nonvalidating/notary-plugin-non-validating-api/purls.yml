@@ -1,0 +1,2 @@
+- pkg:maven/com.r3.corda.notary.plugin.nonvalidating/notary-plugin-non-validating-api@5.0.0.0-Fox1.0
+- pkg:maven/com.r3.corda.notary.plugin.nonvalidating/notary-plugin-non-validating-api@5.0.0.0-Fox1.0?classifier=sources

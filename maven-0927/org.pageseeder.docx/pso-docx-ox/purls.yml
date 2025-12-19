@@ -23,3 +23,4 @@
 - pkg:maven/org.pageseeder.docx/pso-docx-ox@0.8.28?classifier=sources
 - pkg:maven/org.pageseeder.docx/pso-docx-ox@0.8.29?classifier=sources
 - pkg:maven/org.pageseeder.docx/pso-docx-ox@0.8.30?classifier=sources
+- pkg:maven/org.pageseeder.docx/pso-docx-ox@1.0.0?classifier=sources

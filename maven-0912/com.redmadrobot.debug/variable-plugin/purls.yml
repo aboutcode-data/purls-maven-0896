@@ -1,1 +1,2 @@
 - pkg:maven/com.redmadrobot.debug/variable-plugin@0.7.4?classifier=sources
+- pkg:maven/com.redmadrobot.debug/variable-plugin@0.7.5?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/qa.hedgehog/hedgehog-runner_3@0.10.0
 - pkg:maven/qa.hedgehog/hedgehog-runner_3@0.10.0?classifier=sources
+- pkg:maven/qa.hedgehog/hedgehog-runner_3@0.10.1
+- pkg:maven/qa.hedgehog/hedgehog-runner_3@0.10.1?classifier=sources
 - pkg:maven/qa.hedgehog/hedgehog-runner_3@0.7.0
 - pkg:maven/qa.hedgehog/hedgehog-runner_3@0.7.0?classifier=sources
 - pkg:maven/qa.hedgehog/hedgehog-runner_3@0.8.0

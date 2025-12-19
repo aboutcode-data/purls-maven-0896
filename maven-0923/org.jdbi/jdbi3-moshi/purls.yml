@@ -40,5 +40,9 @@
 - pkg:maven/org.jdbi/jdbi3-moshi@3.33.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-moshi@3.34.0
 - pkg:maven/org.jdbi/jdbi3-moshi@3.34.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-moshi@3.35.0
 - pkg:maven/org.jdbi/jdbi3-moshi@3.35.0-rc1
 - pkg:maven/org.jdbi/jdbi3-moshi@3.35.0-rc1?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-moshi@3.35.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-moshi@3.36.0
+- pkg:maven/org.jdbi/jdbi3-moshi@3.36.0?classifier=sources

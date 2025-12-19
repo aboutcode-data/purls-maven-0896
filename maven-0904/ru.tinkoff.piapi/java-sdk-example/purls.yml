@@ -30,3 +30,7 @@
 - pkg:maven/ru.tinkoff.piapi/java-sdk-example@1.0.17?classifier=sources
 - pkg:maven/ru.tinkoff.piapi/java-sdk-example@1.0.18
 - pkg:maven/ru.tinkoff.piapi/java-sdk-example@1.0.18?classifier=sources
+- pkg:maven/ru.tinkoff.piapi/java-sdk-example@1.0.19
+- pkg:maven/ru.tinkoff.piapi/java-sdk-example@1.0.19?classifier=sources
+- pkg:maven/ru.tinkoff.piapi/java-sdk-example@1.1
+- pkg:maven/ru.tinkoff.piapi/java-sdk-example@1.1?classifier=sources

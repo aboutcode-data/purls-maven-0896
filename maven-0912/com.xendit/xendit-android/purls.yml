@@ -34,3 +34,7 @@
 - pkg:maven/com.xendit/xendit-android@3.6.2?type=aar
 - pkg:maven/com.xendit/xendit-android@3.6.3?classifier=sources
 - pkg:maven/com.xendit/xendit-android@3.6.3?type=aar
+- pkg:maven/com.xendit/xendit-android@3.6.4?classifier=sources
+- pkg:maven/com.xendit/xendit-android@3.6.4?type=aar
+- pkg:maven/com.xendit/xendit-android@3.7.0?classifier=sources
+- pkg:maven/com.xendit/xendit-android@3.7.0?type=aar

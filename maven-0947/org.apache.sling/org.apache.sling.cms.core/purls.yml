@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.sling/org.apache.sling.cms.core@1.1.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.cms.core@1.1.2
 - pkg:maven/org.apache.sling/org.apache.sling.cms.core@1.1.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.cms.core@1.1.4
+- pkg:maven/org.apache.sling/org.apache.sling.cms.core@1.1.4?classifier=sources

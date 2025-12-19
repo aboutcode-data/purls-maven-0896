@@ -8,3 +8,7 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.0.1-beta?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.0.2-beta
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.0.2-beta?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.3.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.3.0?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.3.2
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.3.2?classifier=sources

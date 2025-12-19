@@ -21,6 +21,7 @@
 - pkg:maven/com.netflix.eureka/eureka-examples@1.10.15?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-examples@1.10.16?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-examples@1.10.17?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-examples@1.10.18?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-examples@1.10.1?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-examples@1.10.2?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-examples@1.10.4?classifier=sources
@@ -245,3 +246,4 @@
 - pkg:maven/com.netflix.eureka/eureka-examples@1.9.8?classifier=sources
 - pkg:maven/com.netflix.eureka/eureka-examples@1.9.9
 - pkg:maven/com.netflix.eureka/eureka-examples@1.9.9?classifier=sources
+- pkg:maven/com.netflix.eureka/eureka-examples@2.0.0?classifier=sources

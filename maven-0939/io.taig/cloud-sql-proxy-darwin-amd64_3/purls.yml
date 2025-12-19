@@ -1,0 +1,2 @@
+- pkg:maven/io.taig/cloud-sql-proxy-darwin-amd64_3@0.0.1
+- pkg:maven/io.taig/cloud-sql-proxy-darwin-amd64_3@0.0.1?classifier=sources

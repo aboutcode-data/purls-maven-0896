@@ -16,3 +16,5 @@
 - pkg:maven/com.bluecirclesoft.open/json-interface-generator-annotations@0.30?classifier=sources
 - pkg:maven/com.bluecirclesoft.open/json-interface-generator-annotations@1.0
 - pkg:maven/com.bluecirclesoft.open/json-interface-generator-annotations@1.0?classifier=sources
+- pkg:maven/com.bluecirclesoft.open/json-interface-generator-annotations@1.1
+- pkg:maven/com.bluecirclesoft.open/json-interface-generator-annotations@1.1?classifier=sources

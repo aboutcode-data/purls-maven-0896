@@ -10,3 +10,5 @@
 - pkg:maven/org.bardframework.form/bard-form@1.6.19?classifier=sources
 - pkg:maven/org.bardframework.form/bard-form@1.7.4
 - pkg:maven/org.bardframework.form/bard-form@1.7.4?classifier=sources
+- pkg:maven/org.bardframework.form/bard-form@1.9.4
+- pkg:maven/org.bardframework.form/bard-form@1.9.4?classifier=sources

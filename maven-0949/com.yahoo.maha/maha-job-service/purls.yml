@@ -38,6 +38,8 @@
 - pkg:maven/com.yahoo.maha/maha-job-service@6.119?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.120
 - pkg:maven/com.yahoo.maha/maha-job-service@6.120?classifier=sources
+- pkg:maven/com.yahoo.maha/maha-job-service@6.121
+- pkg:maven/com.yahoo.maha/maha-job-service@6.121?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.53
 - pkg:maven/com.yahoo.maha/maha-job-service@6.53?classifier=sources
 - pkg:maven/com.yahoo.maha/maha-job-service@6.54

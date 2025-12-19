@@ -30,3 +30,5 @@
 - pkg:maven/io.gatling/gatling-http-java@3.8.3?classifier=sources
 - pkg:maven/io.gatling/gatling-http-java@3.8.4
 - pkg:maven/io.gatling/gatling-http-java@3.8.4?classifier=sources
+- pkg:maven/io.gatling/gatling-http-java@3.9.0
+- pkg:maven/io.gatling/gatling-http-java@3.9.0?classifier=sources

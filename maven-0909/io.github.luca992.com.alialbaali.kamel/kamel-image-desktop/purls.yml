@@ -1,3 +1,4 @@
 - pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-image-desktop@0.3.0-ktor2?classifier=sources
 - pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-image-desktop@0.5-darwin0?classifier=sources
 - pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-image-desktop@0.5-darwinandjs0?classifier=sources
+- pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-image-desktop@0.5-darwinandjs1?classifier=sources

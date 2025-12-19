@@ -22,3 +22,7 @@
 - pkg:maven/org.nachc.cad.tools/yaorma@1.0.009?classifier=sources
 - pkg:maven/org.nachc.cad.tools/yaorma@1.1.009
 - pkg:maven/org.nachc.cad.tools/yaorma@1.1.009?classifier=sources
+- pkg:maven/org.nachc.cad.tools/yaorma@1.1.010
+- pkg:maven/org.nachc.cad.tools/yaorma@1.1.010?classifier=sources
+- pkg:maven/org.nachc.cad.tools/yaorma@1.1.011
+- pkg:maven/org.nachc.cad.tools/yaorma@1.1.011?classifier=sources

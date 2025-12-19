@@ -76,6 +76,11 @@
 - pkg:maven/org.http4k/http4k-connect-github@3.25.2.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-github@3.25.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-github@3.25.4.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-github@3.25.5.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-github@3.26.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-github@3.26.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-github@3.26.2.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-github@3.26.3.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-github@3.3.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-github@3.3.1.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-github@3.3.2.0?classifier=sources

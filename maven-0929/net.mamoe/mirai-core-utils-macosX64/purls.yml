@@ -2,3 +2,5 @@
 - pkg:maven/net.mamoe/mirai-core-utils-macosX64@2.13.0-RC2?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-utils-macosX64@2.13.0-RC?classifier=sources
 - pkg:maven/net.mamoe/mirai-core-utils-macosX64@2.13.0?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-utils-macosX64@2.13.1?classifier=sources
+- pkg:maven/net.mamoe/mirai-core-utils-macosX64@2.13.2?classifier=sources

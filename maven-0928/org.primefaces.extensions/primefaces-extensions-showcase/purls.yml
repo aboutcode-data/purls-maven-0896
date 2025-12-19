@@ -14,3 +14,5 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@12.0.1?type=war
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@12.0.2?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@12.0.2?type=war
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@12.0.3?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@12.0.3?type=war

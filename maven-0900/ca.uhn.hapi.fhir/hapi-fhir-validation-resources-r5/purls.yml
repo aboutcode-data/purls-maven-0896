@@ -100,3 +100,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.1
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.1?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.2
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.2?classifier=sources

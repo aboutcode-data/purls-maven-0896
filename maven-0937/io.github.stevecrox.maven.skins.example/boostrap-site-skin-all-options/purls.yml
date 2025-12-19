@@ -8,6 +8,8 @@
 - pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@0.9.21?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@0.9.22?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@1.0.0?classifier=sources
+- pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@1.0.10?classifier=sources
+- pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@1.0.11?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@1.0.1?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@1.0.2?classifier=sources
 - pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-all-options@1.0.5?classifier=sources

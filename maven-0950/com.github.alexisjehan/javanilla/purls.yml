@@ -20,3 +20,5 @@
 - pkg:maven/com.github.alexisjehan/javanilla@1.6.0?classifier=sources
 - pkg:maven/com.github.alexisjehan/javanilla@1.7.0
 - pkg:maven/com.github.alexisjehan/javanilla@1.7.0?classifier=sources
+- pkg:maven/com.github.alexisjehan/javanilla@1.8.0
+- pkg:maven/com.github.alexisjehan/javanilla@1.8.0?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.14.5?classifier=sources
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.14.6
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.14.6?classifier=sources
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.14.7
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.14.7?classifier=sources
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.15.0
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.16.0
@@ -48,8 +50,14 @@
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.18.2?classifier=sources
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.18.3
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.18.3?classifier=sources
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.18.4
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.18.4?classifier=sources
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.19.0
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.19.0?classifier=sources
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.20.0
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.20.0?classifier=sources
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.20.1
+- pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.20.1?classifier=sources
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.3.0
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.3.0?classifier=sources
 - pkg:maven/org.apache.camel/sync-properties-maven-plugin@3.4.0

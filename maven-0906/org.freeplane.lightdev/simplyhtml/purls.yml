@@ -1,4 +1,5 @@
 - pkg:maven/org.freeplane.lightdev/simplyhtml@0.18.10?classifier=sources
+- pkg:maven/org.freeplane.lightdev/simplyhtml@0.18.11?classifier=sources
 - pkg:maven/org.freeplane.lightdev/simplyhtml@0.18.3?classifier=sources
 - pkg:maven/org.freeplane.lightdev/simplyhtml@0.18.4?classifier=sources
 - pkg:maven/org.freeplane.lightdev/simplyhtml@0.18.5?classifier=sources

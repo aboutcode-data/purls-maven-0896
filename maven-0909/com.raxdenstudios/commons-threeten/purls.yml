@@ -7,6 +7,9 @@
 - pkg:maven/com.raxdenstudios/commons-threeten@4.16.4?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-threeten@4.17.2?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-threeten@4.18.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-threeten@4.29.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-threeten@4.30.0?classifier=sources
+- pkg:maven/com.raxdenstudios/commons-threeten@4.32.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-threeten@4.5.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-threeten@4.6.0?classifier=sources
 - pkg:maven/com.raxdenstudios/commons-threeten@4.9.1?classifier=sources

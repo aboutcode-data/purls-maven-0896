@@ -3,3 +3,4 @@
 - pkg:maven/org.eclipse.app4mc.migration/org.eclipse.app4mc.amalthea.converters.094@2.0.0?classifier=sources
 - pkg:maven/org.eclipse.app4mc.migration/org.eclipse.app4mc.amalthea.converters.094@2.1.0?classifier=sources
 - pkg:maven/org.eclipse.app4mc.migration/org.eclipse.app4mc.amalthea.converters.094@2.2.0?classifier=sources
+- pkg:maven/org.eclipse.app4mc.migration/org.eclipse.app4mc.amalthea.converters.094@3.0.0?classifier=sources

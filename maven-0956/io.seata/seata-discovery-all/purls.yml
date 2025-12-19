@@ -20,4 +20,6 @@
 - pkg:maven/io.seata/seata-discovery-all@1.5.1
 - pkg:maven/io.seata/seata-discovery-all@1.5.1.1
 - pkg:maven/io.seata/seata-discovery-all@1.5.2
+- pkg:maven/io.seata/seata-discovery-all@1.6.0
 - pkg:maven/io.seata/seata-discovery-all@1.6.0-RC1
+- pkg:maven/io.seata/seata-discovery-all@1.6.1

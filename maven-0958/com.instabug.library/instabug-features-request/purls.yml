@@ -67,6 +67,7 @@
 - pkg:maven/com.instabug.library/instabug-features-request@11.5.3?classifier=sources
 - pkg:maven/com.instabug.library/instabug-features-request@11.5.4?classifier=sources
 - pkg:maven/com.instabug.library/instabug-features-request@11.6.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-features-request@11.7.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-features-request@4.13.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-features-request@4.13.0?type=aar
 - pkg:maven/com.instabug.library/instabug-features-request@4.13.1?classifier=sources

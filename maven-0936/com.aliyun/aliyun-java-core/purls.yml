@@ -30,3 +30,5 @@
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.7-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.8-beta
 - pkg:maven/com.aliyun/aliyun-java-core@0.1.8-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-core@0.1.9-beta
+- pkg:maven/com.aliyun/aliyun-java-core@0.1.9-beta?classifier=sources

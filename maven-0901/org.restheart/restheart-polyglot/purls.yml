@@ -72,3 +72,5 @@
 - pkg:maven/org.restheart/restheart-polyglot@6.6.1?classifier=sources
 - pkg:maven/org.restheart/restheart-polyglot@7.0.0
 - pkg:maven/org.restheart/restheart-polyglot@7.0.0?classifier=sources
+- pkg:maven/org.restheart/restheart-polyglot@7.1.0
+- pkg:maven/org.restheart/restheart-polyglot@7.1.0?classifier=sources

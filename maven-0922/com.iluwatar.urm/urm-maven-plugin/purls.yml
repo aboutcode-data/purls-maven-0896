@@ -6,3 +6,7 @@
 - pkg:maven/com.iluwatar.urm/urm-maven-plugin@1.4.8?classifier=sources
 - pkg:maven/com.iluwatar.urm/urm-maven-plugin@2.0.0
 - pkg:maven/com.iluwatar.urm/urm-maven-plugin@2.0.0?classifier=sources
+- pkg:maven/com.iluwatar.urm/urm-maven-plugin@2.1.0
+- pkg:maven/com.iluwatar.urm/urm-maven-plugin@2.1.0?classifier=sources
+- pkg:maven/com.iluwatar.urm/urm-maven-plugin@2.1.1
+- pkg:maven/com.iluwatar.urm/urm-maven-plugin@2.1.1?classifier=sources

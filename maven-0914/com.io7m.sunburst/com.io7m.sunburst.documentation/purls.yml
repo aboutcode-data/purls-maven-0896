@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.3?classifier=sources
 - pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.3?type=zip
+- pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.4?classifier=sources
+- pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.4?type=zip

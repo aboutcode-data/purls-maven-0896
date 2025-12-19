@@ -87,10 +87,15 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.26
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.27
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.28
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.29
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.3
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.30
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.31
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.4
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.5
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.6
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.7
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.8
 - pkg:maven/org.eclipse.dirigible/dirigible-templating-all@6.3.9
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-all@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-templating-all@7.1.0

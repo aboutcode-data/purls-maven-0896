@@ -24,11 +24,15 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@3.35.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@3.36.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@3.36.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@3.37.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@3.37.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.11.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.11.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.1
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.10
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.10?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.1?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.2
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.12.2?classifier=sources
@@ -66,3 +70,5 @@
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.18.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.19.0
 - pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.19.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.20.0
+- pkg:maven/com.nepxion/discovery-plugin-strategy-starter-sentinel-limiter@6.20.0?classifier=sources

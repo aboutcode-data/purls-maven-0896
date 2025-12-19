@@ -119,6 +119,8 @@
 - pkg:maven/info.unterrainer.commons/http-server@0.3.10
 - pkg:maven/info.unterrainer.commons/http-server@0.3.10?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.3.11
+- pkg:maven/info.unterrainer.commons/http-server@0.3.11-2-g8b9e6ef
+- pkg:maven/info.unterrainer.commons/http-server@0.3.11-2-g8b9e6ef?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.3.11?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.3.1?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.3.2

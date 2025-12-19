@@ -112,6 +112,8 @@
 - pkg:maven/com.immomo.momomedia/glcore@2.3.3-20221115115700?type=aar
 - pkg:maven/com.immomo.momomedia/glcore@2.3.3-20221115144700?classifier=sources
 - pkg:maven/com.immomo.momomedia/glcore@2.3.3-20221115144700?type=aar
+- pkg:maven/com.immomo.momomedia/glcore@2.3.3-20221201204500?classifier=sources
+- pkg:maven/com.immomo.momomedia/glcore@2.3.3-20221201204500?type=aar
 - pkg:maven/com.immomo.momomedia/glcore@2.4.1-20211011000001?classifier=sources
 - pkg:maven/com.immomo.momomedia/glcore@2.4.1-20211011000001?type=aar
 - pkg:maven/com.immomo.momomedia/glcore@2.4.2-20212201507001?classifier=sources

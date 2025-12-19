@@ -46,6 +46,10 @@
 - pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.10.9?classifier=sources
 - pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.10.beta
 - pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.10.beta?classifier=sources
+- pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.11.1
+- pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.11.1?classifier=sources
+- pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.11.2
+- pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.11.2?classifier=sources
 - pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.6.10
 - pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.6.10?classifier=sources
 - pkg:maven/xyz.erupt/erupt-tpl-ui.amis@1.6.11

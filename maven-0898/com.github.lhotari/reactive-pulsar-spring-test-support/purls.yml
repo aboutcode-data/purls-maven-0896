@@ -6,3 +6,4 @@
 - pkg:maven/com.github.lhotari/reactive-pulsar-spring-test-support@0.0.8?classifier=sources
 - pkg:maven/com.github.lhotari/reactive-pulsar-spring-test-support@0.1.0?classifier=sources
 - pkg:maven/com.github.lhotari/reactive-pulsar-spring-test-support@0.2.0?classifier=sources
+- pkg:maven/com.github.lhotari/reactive-pulsar-spring-test-support@0.2.1?classifier=sources

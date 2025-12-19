@@ -1,0 +1,4 @@
+- pkg:maven/cn.bigcore/micro-apollot@11.0.1-RELEASE
+- pkg:maven/cn.bigcore/micro-apollot@11.0.1-RELEASE?classifier=sources
+- pkg:maven/cn.bigcore/micro-apollot@11.0.1.101-RELEASE
+- pkg:maven/cn.bigcore/micro-apollot@11.0.1.101-RELEASE?classifier=sources

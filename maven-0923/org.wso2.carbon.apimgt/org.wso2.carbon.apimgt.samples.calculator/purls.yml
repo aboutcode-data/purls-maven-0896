@@ -4666,6 +4666,8 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.22.63?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.22.64?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.22.64?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.22.69?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.22.69?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.23.0?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.23.0?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.23.10?classifier=sources
@@ -4916,6 +4918,10 @@
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.0?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.1?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.1?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.27?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.27?type=war
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.28?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.28?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.2?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.2?type=war
 - pkg:maven/org.wso2.carbon.apimgt/org.wso2.carbon.apimgt.samples.calculator@9.28.3?classifier=sources

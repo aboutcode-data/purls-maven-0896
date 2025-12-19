@@ -7,6 +7,8 @@
 - pkg:maven/com.appier/common-android@1.4.0?classifier=sources
 - pkg:maven/com.appier/common-android@7.10.0?classifier=sources
 - pkg:maven/com.appier/common-android@7.11.0?classifier=sources
+- pkg:maven/com.appier/common-android@7.12.0?classifier=sources
+- pkg:maven/com.appier/common-android@7.13.0?classifier=sources
 - pkg:maven/com.appier/common-android@7.6.1?classifier=sources
 - pkg:maven/com.appier/common-android@7.7.0?classifier=sources
 - pkg:maven/com.appier/common-android@7.8.0?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/com.decathlon.vitamin.compose/tabs@0.1.0-alpha05?classifier=sources
 - pkg:maven/com.decathlon.vitamin.compose/tabs@0.1.0-beta01?classifier=sources
 - pkg:maven/com.decathlon.vitamin.compose/tabs@0.1.0-beta02?classifier=sources
+- pkg:maven/com.decathlon.vitamin.compose/tabs@0.1.0?classifier=sources
+- pkg:maven/com.decathlon.vitamin.compose/tabs@0.2.0-alpha01?classifier=sources

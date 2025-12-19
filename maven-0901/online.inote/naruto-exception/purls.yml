@@ -1,5 +1,7 @@
 - pkg:maven/online.inote/naruto-exception@0.0.1-RELEASE
 - pkg:maven/online.inote/naruto-exception@0.0.1-RELEASE?classifier=sources
+- pkg:maven/online.inote/naruto-exception@0.0.10-RELEASE
+- pkg:maven/online.inote/naruto-exception@0.0.10-RELEASE?classifier=sources
 - pkg:maven/online.inote/naruto-exception@0.0.2-RELEASE
 - pkg:maven/online.inote/naruto-exception@0.0.2-RELEASE?classifier=sources
 - pkg:maven/online.inote/naruto-exception@0.0.3-RELEASE

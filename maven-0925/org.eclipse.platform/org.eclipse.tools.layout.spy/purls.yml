@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.0.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.1.0
 - pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.1.100
+- pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.1.100?classifier=sources

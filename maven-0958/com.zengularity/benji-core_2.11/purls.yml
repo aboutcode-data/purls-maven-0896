@@ -22,3 +22,5 @@
 - pkg:maven/com.zengularity/benji-core_2.11@2.1.9?classifier=sources
 - pkg:maven/com.zengularity/benji-core_2.11@2.2.0
 - pkg:maven/com.zengularity/benji-core_2.11@2.2.0?classifier=sources
+- pkg:maven/com.zengularity/benji-core_2.11@2.2.1
+- pkg:maven/com.zengularity/benji-core_2.11@2.2.1?classifier=sources

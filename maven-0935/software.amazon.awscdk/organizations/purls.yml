@@ -1,0 +1,16 @@
+- pkg:maven/software.amazon.awscdk/organizations@1.182.0
+- pkg:maven/software.amazon.awscdk/organizations@1.182.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/organizations@1.183.0
+- pkg:maven/software.amazon.awscdk/organizations@1.183.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/organizations@1.184.0
+- pkg:maven/software.amazon.awscdk/organizations@1.184.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/organizations@1.184.1
+- pkg:maven/software.amazon.awscdk/organizations@1.184.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/organizations@1.185.0
+- pkg:maven/software.amazon.awscdk/organizations@1.185.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/organizations@1.186.0
+- pkg:maven/software.amazon.awscdk/organizations@1.186.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/organizations@1.186.1
+- pkg:maven/software.amazon.awscdk/organizations@1.186.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/organizations@1.187.0
+- pkg:maven/software.amazon.awscdk/organizations@1.187.0?classifier=sources

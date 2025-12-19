@@ -34,6 +34,8 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.16.100?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.16.200
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.16.200?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.17.0
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.17.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.7.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.7.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core.manipulation@1.9.0

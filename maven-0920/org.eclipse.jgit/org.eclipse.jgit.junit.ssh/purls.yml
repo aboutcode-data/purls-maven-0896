@@ -66,3 +66,5 @@
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@6.2.0.202206071550-r?classifier=sources
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@6.3.0.202209071007-r
 - pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@6.3.0.202209071007-r?classifier=sources
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@6.4.0.202211300538-r
+- pkg:maven/org.eclipse.jgit/org.eclipse.jgit.junit.ssh@6.4.0.202211300538-r?classifier=sources

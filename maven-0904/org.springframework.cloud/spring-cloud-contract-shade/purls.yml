@@ -86,3 +86,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-shade@3.1.4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-shade@3.1.5
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-shade@3.1.5?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-shade@4.0.0
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-shade@4.0.0?classifier=sources

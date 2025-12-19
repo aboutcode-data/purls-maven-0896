@@ -3,3 +3,4 @@
 - pkg:maven/com.intel.dal/dal@2021.4.0.83?classifier=sources
 - pkg:maven/com.intel.dal/dal@2021.5.0.91?classifier=sources
 - pkg:maven/com.intel.dal/dal@2021.7.0.96?classifier=sources
+- pkg:maven/com.intel.dal/dal@2023.0.0.437?classifier=sources

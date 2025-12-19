@@ -130,6 +130,8 @@
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@1.8.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@1.9.0
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@1.9.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-cdi@1.9.1
+- pkg:maven/io.smallrye/smallrye-graphql-cdi@1.9.1?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.0
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.0.RC1
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.0.RC10
@@ -158,3 +160,7 @@
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.0.RC9
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.0.RC9?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.0?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.1
+- pkg:maven/io.smallrye/smallrye-graphql-cdi@2.0.1?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-cdi@2.1.0.Beta1
+- pkg:maven/io.smallrye/smallrye-graphql-cdi@2.1.0.Beta1?classifier=sources

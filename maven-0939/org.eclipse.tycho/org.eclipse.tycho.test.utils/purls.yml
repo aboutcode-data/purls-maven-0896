@@ -35,3 +35,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@2.7.4?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@2.7.5?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@3.0.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.test.utils@3.0.1?classifier=sources

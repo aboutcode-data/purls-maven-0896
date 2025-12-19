@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl/djl-zero@0.20.0
+- pkg:maven/ai.djl/djl-zero@0.20.0?classifier=sources

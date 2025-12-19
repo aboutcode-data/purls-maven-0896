@@ -14,3 +14,5 @@
 - pkg:maven/com.fermyon/teavm-samples-benchmark@0.2.5?type=war
 - pkg:maven/com.fermyon/teavm-samples-benchmark@0.2.6?classifier=sources
 - pkg:maven/com.fermyon/teavm-samples-benchmark@0.2.6?type=war
+- pkg:maven/com.fermyon/teavm-samples-benchmark@0.2.7?classifier=sources
+- pkg:maven/com.fermyon/teavm-samples-benchmark@0.2.7?type=war

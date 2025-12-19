@@ -8,3 +8,5 @@
 - pkg:maven/com.cognitect.aws/iotdeviceadvisor@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iotdeviceadvisor@822.2.1181.0
 - pkg:maven/com.cognitect.aws/iotdeviceadvisor@822.2.1181.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iotdeviceadvisor@825.2.1283.0
+- pkg:maven/com.cognitect.aws/iotdeviceadvisor@825.2.1283.0?classifier=sources

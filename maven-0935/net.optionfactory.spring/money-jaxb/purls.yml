@@ -61,6 +61,10 @@
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.11?classifier=sources
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.13
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.13?classifier=sources
+- pkg:maven/net.optionfactory.spring/money-jaxb@7.14
+- pkg:maven/net.optionfactory.spring/money-jaxb@7.14?classifier=sources
+- pkg:maven/net.optionfactory.spring/money-jaxb@7.15
+- pkg:maven/net.optionfactory.spring/money-jaxb@7.15?classifier=sources
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.1?classifier=sources
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.2
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.2?classifier=sources
@@ -78,3 +82,5 @@
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.8?classifier=sources
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.9
 - pkg:maven/net.optionfactory.spring/money-jaxb@7.9?classifier=sources
+- pkg:maven/net.optionfactory.spring/money-jaxb@8.0
+- pkg:maven/net.optionfactory.spring/money-jaxb@8.0?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.17
 - pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.17?classifier=sources
+- pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.23
+- pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.23?classifier=sources
 - pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.8
 - pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.8?classifier=sources
 - pkg:maven/org.webjars.npm/jscad__json-serializer@2.0.9

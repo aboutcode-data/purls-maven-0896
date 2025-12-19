@@ -2,6 +2,8 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.10.0?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.10.100
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.10.100?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.10.200
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.10.200?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.6.401
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.6.401?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.launching@3.7.0

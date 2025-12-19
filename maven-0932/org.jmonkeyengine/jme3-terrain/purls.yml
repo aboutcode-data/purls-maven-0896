@@ -67,3 +67,4 @@
 - pkg:maven/org.jmonkeyengine/jme3-terrain@3.5.0-stable?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-terrain@3.5.1-stable?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-terrain@3.5.2-stable?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-terrain@3.6.0-alpha1?classifier=sources

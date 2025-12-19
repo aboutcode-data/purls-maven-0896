@@ -1,0 +1,6 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-core@6.3.31
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-core@6.3.31?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-core@7.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-core@7.0.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-core@7.1.0
+- pkg:maven/org.eclipse.dirigible/dirigible-components-api-core@7.1.0?classifier=sources

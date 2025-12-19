@@ -1,0 +1,2 @@
+- pkg:maven/org.genesys-pgr/genesys-client-common@3.0.0
+- pkg:maven/org.genesys-pgr/genesys-client-common@3.0.0?classifier=sources

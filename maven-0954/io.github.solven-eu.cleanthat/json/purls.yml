@@ -14,3 +14,7 @@
 - pkg:maven/io.github.solven-eu.cleanthat/json@1.6?classifier=sources
 - pkg:maven/io.github.solven-eu.cleanthat/json@1.7
 - pkg:maven/io.github.solven-eu.cleanthat/json@1.7?classifier=sources
+- pkg:maven/io.github.solven-eu.cleanthat/json@1.8
+- pkg:maven/io.github.solven-eu.cleanthat/json@1.8?classifier=sources
+- pkg:maven/io.github.solven-eu.cleanthat/json@1.9
+- pkg:maven/io.github.solven-eu.cleanthat/json@1.9?classifier=sources

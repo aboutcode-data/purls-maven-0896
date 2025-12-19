@@ -86,3 +86,5 @@
 - pkg:maven/ch.admin.bag.covidcertificate/sdk-android@2.3.1?classifier=sources
 - pkg:maven/ch.admin.bag.covidcertificate/sdk-android@2.3.2-dev-73?classifier=sources
 - pkg:maven/ch.admin.bag.covidcertificate/sdk-android@2.3.2?classifier=sources
+- pkg:maven/ch.admin.bag.covidcertificate/sdk-android@2.3.3-dev-74?classifier=sources
+- pkg:maven/ch.admin.bag.covidcertificate/sdk-android@2.3.3?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/fr.maif/jooq-async-reactive@2.0.0-TEST3?classifier=sources
 - pkg:maven/fr.maif/jooq-async-reactive@2.0.0-TEST4?classifier=sources
 - pkg:maven/fr.maif/jooq-async-reactive@2.0.0-TEST5?classifier=sources
+- pkg:maven/fr.maif/jooq-async-reactive@2.0.0?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.activemq/artemis-unit-test-support@2.26.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-unit-test-support@2.27.0
 - pkg:maven/org.apache.activemq/artemis-unit-test-support@2.27.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-unit-test-support@2.27.1
+- pkg:maven/org.apache.activemq/artemis-unit-test-support@2.27.1?classifier=sources

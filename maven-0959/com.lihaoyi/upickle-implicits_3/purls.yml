@@ -20,3 +20,5 @@
 - pkg:maven/com.lihaoyi/upickle-implicits_3@1.6.0?classifier=sources
 - pkg:maven/com.lihaoyi/upickle-implicits_3@2.0.0
 - pkg:maven/com.lihaoyi/upickle-implicits_3@2.0.0?classifier=sources
+- pkg:maven/com.lihaoyi/upickle-implicits_3@3.0.0-M1
+- pkg:maven/com.lihaoyi/upickle-implicits_3@3.0.0-M1?classifier=sources

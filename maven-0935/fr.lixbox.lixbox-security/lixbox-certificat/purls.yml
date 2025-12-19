@@ -1,3 +1,4 @@
 - pkg:maven/fr.lixbox.lixbox-security/lixbox-certificat@11.1.2.2?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-security/lixbox-certificat@11.1.2.3?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-security/lixbox-certificat@11.1.2.7?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-security/lixbox-certificat@11.2.0.8?classifier=sources
