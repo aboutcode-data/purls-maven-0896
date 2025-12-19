@@ -14,3 +14,4 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.shared.tests@2.4.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.shared.tests@2.5.0?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.shared.tests@2.6.0?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.p2.resolver.shared.tests@2.7.0?classifier=sources

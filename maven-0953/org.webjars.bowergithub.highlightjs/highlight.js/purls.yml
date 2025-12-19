@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bowergithub.highlightjs/highlight.js@11.4.0
+- pkg:maven/org.webjars.bowergithub.highlightjs/highlight.js@11.4.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.highlightjs/highlight.js@7.0.1
 - pkg:maven/org.webjars.bowergithub.highlightjs/highlight.js@7.0.1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.highlightjs/highlight.js@9.12.0

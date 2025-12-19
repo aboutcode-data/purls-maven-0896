@@ -120,6 +120,8 @@
 - pkg:maven/nl.vpro.media/media-organizations@5.26.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-organizations@5.27.2
 - pkg:maven/nl.vpro.media/media-organizations@5.27.2?classifier=sources
+- pkg:maven/nl.vpro.media/media-organizations@5.27.4
+- pkg:maven/nl.vpro.media/media-organizations@5.27.4?classifier=sources
 - pkg:maven/nl.vpro.media/media-organizations@5.29.0
 - pkg:maven/nl.vpro.media/media-organizations@5.29.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-organizations@5.30
@@ -134,3 +136,5 @@
 - pkg:maven/nl.vpro.media/media-organizations@5.30.4
 - pkg:maven/nl.vpro.media/media-organizations@5.30.4?classifier=sources
 - pkg:maven/nl.vpro.media/media-organizations@5.30?classifier=sources
+- pkg:maven/nl.vpro.media/media-organizations@5.31.0
+- pkg:maven/nl.vpro.media/media-organizations@5.31.0?classifier=sources

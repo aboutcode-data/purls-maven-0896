@@ -64,3 +64,7 @@
 - pkg:maven/org.jboss.pnc.causeway/causeway-web@2.1.2?type=war
 - pkg:maven/org.jboss.pnc.causeway/causeway-web@2.2.0?classifier=sources
 - pkg:maven/org.jboss.pnc.causeway/causeway-web@2.2.0?type=war
+- pkg:maven/org.jboss.pnc.causeway/causeway-web@2.2.1?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-web@2.2.1?type=war
+- pkg:maven/org.jboss.pnc.causeway/causeway-web@2.3.0?classifier=sources
+- pkg:maven/org.jboss.pnc.causeway/causeway-web@2.3.0?type=war

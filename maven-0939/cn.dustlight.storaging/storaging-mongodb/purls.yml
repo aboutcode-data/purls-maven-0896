@@ -1,2 +1,4 @@
 - pkg:maven/cn.dustlight.storaging/storaging-mongodb@0.0.3-alpha
 - pkg:maven/cn.dustlight.storaging/storaging-mongodb@0.0.3-alpha?classifier=sources
+- pkg:maven/cn.dustlight.storaging/storaging-mongodb@0.0.4-alpha
+- pkg:maven/cn.dustlight.storaging/storaging-mongodb@0.0.4-alpha?classifier=sources

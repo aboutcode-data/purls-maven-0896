@@ -4,3 +4,6 @@
 - pkg:maven/com.stripe/stripe-wechatpay@19.1.0?classifier=sources
 - pkg:maven/com.stripe/stripe-wechatpay@19.1.1?classifier=sources
 - pkg:maven/com.stripe/stripe-wechatpay@19.2.0?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@19.2.2?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@19.3.0?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@19.3.1?classifier=sources

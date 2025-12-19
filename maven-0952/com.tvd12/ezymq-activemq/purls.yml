@@ -8,3 +8,5 @@
 - pkg:maven/com.tvd12/ezymq-activemq@1.1.1c?classifier=sources
 - pkg:maven/com.tvd12/ezymq-activemq@1.1.2
 - pkg:maven/com.tvd12/ezymq-activemq@1.1.2?classifier=sources
+- pkg:maven/com.tvd12/ezymq-activemq@1.1.6
+- pkg:maven/com.tvd12/ezymq-activemq@1.1.6?classifier=sources

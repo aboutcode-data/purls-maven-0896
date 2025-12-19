@@ -20,6 +20,12 @@
 - pkg:maven/com.github.penfeizhou.android.animation/awebp@2.17.1?type=aar
 - pkg:maven/com.github.penfeizhou.android.animation/awebp@2.17.2?classifier=sources
 - pkg:maven/com.github.penfeizhou.android.animation/awebp@2.17.2?type=aar
+- pkg:maven/com.github.penfeizhou.android.animation/awebp@2.18.0?classifier=sources
+- pkg:maven/com.github.penfeizhou.android.animation/awebp@2.18.0?type=aar
+- pkg:maven/com.github.penfeizhou.android.animation/awebp@2.20.0?classifier=sources
+- pkg:maven/com.github.penfeizhou.android.animation/awebp@2.20.0?type=aar
+- pkg:maven/com.github.penfeizhou.android.animation/awebp@2.21.0?classifier=sources
+- pkg:maven/com.github.penfeizhou.android.animation/awebp@2.21.0?type=aar
 - pkg:maven/com.github.penfeizhou.android.animation/awebp@2.8.0?classifier=sources
 - pkg:maven/com.github.penfeizhou.android.animation/awebp@2.8.0?type=aar
 - pkg:maven/com.github.penfeizhou.android.animation/awebp@2.9.0?classifier=sources

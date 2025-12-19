@@ -9,6 +9,8 @@
 - pkg:maven/org.kurento/kms-api-filters@6.13.0
 - pkg:maven/org.kurento/kms-api-filters@6.14.0
 - pkg:maven/org.kurento/kms-api-filters@6.16.0
+- pkg:maven/org.kurento/kms-api-filters@6.17.0
+- pkg:maven/org.kurento/kms-api-filters@6.17.0?classifier=source-release&type=zip
 - pkg:maven/org.kurento/kms-api-filters@6.2.0
 - pkg:maven/org.kurento/kms-api-filters@6.3.0
 - pkg:maven/org.kurento/kms-api-filters@6.4.0

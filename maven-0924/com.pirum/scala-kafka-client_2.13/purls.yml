@@ -6,3 +6,5 @@
 - pkg:maven/com.pirum/scala-kafka-client_2.13@2.4.1-2
 - pkg:maven/com.pirum/scala-kafka-client_2.13@2.4.1-2?classifier=sources
 - pkg:maven/com.pirum/scala-kafka-client_2.13@2.4.1?classifier=sources
+- pkg:maven/com.pirum/scala-kafka-client_2.13@2.5.0
+- pkg:maven/com.pirum/scala-kafka-client_2.13@2.5.0?classifier=sources

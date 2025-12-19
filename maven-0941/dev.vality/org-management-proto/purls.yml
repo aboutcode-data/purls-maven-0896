@@ -1,3 +1,5 @@
+- pkg:maven/dev.vality/org-management-proto@1.10-f433223
+- pkg:maven/dev.vality/org-management-proto@1.10-f433223?classifier=sources
 - pkg:maven/dev.vality/org-management-proto@1.4-432e037
 - pkg:maven/dev.vality/org-management-proto@1.4-432e037?classifier=sources
 - pkg:maven/dev.vality/org-management-proto@1.6-abb4b4d

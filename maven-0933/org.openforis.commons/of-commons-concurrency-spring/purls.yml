@@ -14,3 +14,5 @@
 - pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.30?classifier=sources
 - pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.31
 - pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.31?classifier=sources
+- pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.32
+- pkg:maven/org.openforis.commons/of-commons-concurrency-spring@0.1.32?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.nablarch.archetype/nablarch-container-jaxrs-archetype@5u18?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-container-jaxrs-archetype@5u19?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-container-jaxrs-archetype@5u20?classifier=sources
+- pkg:maven/com.nablarch.archetype/nablarch-container-jaxrs-archetype@5u21?classifier=sources

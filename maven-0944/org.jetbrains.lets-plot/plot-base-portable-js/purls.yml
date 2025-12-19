@@ -11,3 +11,6 @@
 - pkg:maven/org.jetbrains.lets-plot/plot-base-portable-js@2.2.0?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/plot-base-portable-js@2.2.1-rc1?classifier=sources
 - pkg:maven/org.jetbrains.lets-plot/plot-base-portable-js@2.2.1?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/plot-base-portable-js@2.3.0-rc1?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/plot-base-portable-js@2.3.0-rc2?classifier=sources
+- pkg:maven/org.jetbrains.lets-plot/plot-base-portable-js@2.3.0?classifier=sources

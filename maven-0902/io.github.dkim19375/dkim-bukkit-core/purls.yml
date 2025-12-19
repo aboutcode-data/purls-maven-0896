@@ -40,6 +40,8 @@
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.32?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.33?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.34?classifier=sources
+- pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.35?classifier=sources
+- pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.36?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.3?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.4?classifier=sources
 - pkg:maven/io.github.dkim19375/dkim-bukkit-core@3.3.5?classifier=sources

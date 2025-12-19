@@ -2,6 +2,8 @@
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.10.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.11.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.11.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.12.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.12.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.4.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-muzzle@1.5.0-alpha?classifier=sources

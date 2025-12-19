@@ -1,0 +1,4 @@
+- pkg:maven/io.github.fzdwx/sky-infrastructure@0.08
+- pkg:maven/io.github.fzdwx/sky-infrastructure@0.08?classifier=sources
+- pkg:maven/io.github.fzdwx/sky-infrastructure@0.09
+- pkg:maven/io.github.fzdwx/sky-infrastructure@0.09?classifier=sources

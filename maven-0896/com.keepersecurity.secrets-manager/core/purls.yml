@@ -10,3 +10,5 @@
 - pkg:maven/com.keepersecurity.secrets-manager/core@16.2.6?classifier=sources
 - pkg:maven/com.keepersecurity.secrets-manager/core@16.2.7?classifier=sources
 - pkg:maven/com.keepersecurity.secrets-manager/core@16.2.8?classifier=sources
+- pkg:maven/com.keepersecurity.secrets-manager/core@16.3.0?classifier=sources
+- pkg:maven/com.keepersecurity.secrets-manager/core@16.3.1?classifier=sources

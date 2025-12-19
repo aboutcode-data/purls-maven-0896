@@ -1,3 +1,5 @@
+- pkg:maven/co.topl/common_2.13@1.10.2
+- pkg:maven/co.topl/common_2.13@1.10.2?classifier=sources
 - pkg:maven/co.topl/common_2.13@1.4.2
 - pkg:maven/co.topl/common_2.13@1.4.2?classifier=sources
 - pkg:maven/co.topl/common_2.13@1.4.3
@@ -10,3 +12,5 @@
 - pkg:maven/co.topl/common_2.13@1.6.7?classifier=sources
 - pkg:maven/co.topl/common_2.13@1.7.0
 - pkg:maven/co.topl/common_2.13@1.7.0?classifier=sources
+- pkg:maven/co.topl/common_2.13@1.9.5
+- pkg:maven/co.topl/common_2.13@1.9.5?classifier=sources

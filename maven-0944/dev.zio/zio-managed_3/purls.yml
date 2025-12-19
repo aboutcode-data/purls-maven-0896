@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-managed_3@2.0.0-RC3
+- pkg:maven/dev.zio/zio-managed_3@2.0.0-RC3?classifier=sources
+- pkg:maven/dev.zio/zio-managed_3@2.0.0-RC4
+- pkg:maven/dev.zio/zio-managed_3@2.0.0-RC4?classifier=sources

@@ -9,3 +9,5 @@
 - pkg:maven/io.github.selcukes/selcukes-extent-reports@1.4.1?classifier=sources
 - pkg:maven/io.github.selcukes/selcukes-extent-reports@1.5.0
 - pkg:maven/io.github.selcukes/selcukes-extent-reports@1.5.0?classifier=sources
+- pkg:maven/io.github.selcukes/selcukes-extent-reports@1.5.1
+- pkg:maven/io.github.selcukes/selcukes-extent-reports@1.5.1?classifier=sources

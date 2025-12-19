@@ -8,3 +8,5 @@
 - pkg:maven/dev.akif/e-java@1.1.2?classifier=sources
 - pkg:maven/dev.akif/e-java@2.0.0
 - pkg:maven/dev.akif/e-java@2.0.0?classifier=sources
+- pkg:maven/dev.akif/e-java@2.0.1
+- pkg:maven/dev.akif/e-java@2.0.1?classifier=sources

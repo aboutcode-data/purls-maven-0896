@@ -11,6 +11,7 @@
 - pkg:maven/com.vaadin/vaadin-testbench@10.0.18
 - pkg:maven/com.vaadin/vaadin-testbench@10.0.19
 - pkg:maven/com.vaadin/vaadin-testbench@10.0.2
+- pkg:maven/com.vaadin/vaadin-testbench@10.0.20
 - pkg:maven/com.vaadin/vaadin-testbench@10.0.3
 - pkg:maven/com.vaadin/vaadin-testbench@10.0.4
 - pkg:maven/com.vaadin/vaadin-testbench@10.0.5
@@ -135,6 +136,9 @@
 - pkg:maven/com.vaadin/vaadin-testbench@14.8.2
 - pkg:maven/com.vaadin/vaadin-testbench@14.8.3
 - pkg:maven/com.vaadin/vaadin-testbench@14.8.4
+- pkg:maven/com.vaadin/vaadin-testbench@14.8.5
+- pkg:maven/com.vaadin/vaadin-testbench@14.8.6
+- pkg:maven/com.vaadin/vaadin-testbench@14.8.7
 - pkg:maven/com.vaadin/vaadin-testbench@15.0.0
 - pkg:maven/com.vaadin/vaadin-testbench@15.0.1
 - pkg:maven/com.vaadin/vaadin-testbench@15.0.2
@@ -198,8 +202,19 @@
 - pkg:maven/com.vaadin/vaadin-testbench@21.0.9
 - pkg:maven/com.vaadin/vaadin-testbench@22.0.0
 - pkg:maven/com.vaadin/vaadin-testbench@22.0.1
+- pkg:maven/com.vaadin/vaadin-testbench@22.0.10
+- pkg:maven/com.vaadin/vaadin-testbench@22.0.11
+- pkg:maven/com.vaadin/vaadin-testbench@22.0.12
 - pkg:maven/com.vaadin/vaadin-testbench@22.0.2
 - pkg:maven/com.vaadin/vaadin-testbench@22.0.3
 - pkg:maven/com.vaadin/vaadin-testbench@22.0.4
 - pkg:maven/com.vaadin/vaadin-testbench@22.0.5
 - pkg:maven/com.vaadin/vaadin-testbench@22.0.6
+- pkg:maven/com.vaadin/vaadin-testbench@22.0.7
+- pkg:maven/com.vaadin/vaadin-testbench@22.0.8
+- pkg:maven/com.vaadin/vaadin-testbench@22.0.9
+- pkg:maven/com.vaadin/vaadin-testbench@23.0.0
+- pkg:maven/com.vaadin/vaadin-testbench@23.0.1
+- pkg:maven/com.vaadin/vaadin-testbench@23.0.2
+- pkg:maven/com.vaadin/vaadin-testbench@23.0.3
+- pkg:maven/com.vaadin/vaadin-testbench@23.0.4

@@ -84,3 +84,5 @@
 - pkg:maven/org.apache.poi/poi-ooxml@5.0.0?classifier=sources
 - pkg:maven/org.apache.poi/poi-ooxml@5.1.0?classifier=sources
 - pkg:maven/org.apache.poi/poi-ooxml@5.2.0?classifier=sources
+- pkg:maven/org.apache.poi/poi-ooxml@5.2.1?classifier=sources
+- pkg:maven/org.apache.poi/poi-ooxml@5.2.2?classifier=sources

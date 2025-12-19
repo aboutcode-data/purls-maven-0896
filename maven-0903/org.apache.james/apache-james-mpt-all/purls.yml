@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.6.0?classifier=src&type=zip
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.6.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.6.2?classifier=src&type=zip
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.7.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.7.0?classifier=src&type=zip

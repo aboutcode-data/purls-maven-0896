@@ -43,5 +43,6 @@
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0-rc1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0-rc2?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0-rc3?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-core-common@5.0.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@AMAZON.RC1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases-core-common@AMAZON.RC1?type=aar

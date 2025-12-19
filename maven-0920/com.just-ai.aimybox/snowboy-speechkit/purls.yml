@@ -15,4 +15,8 @@
 - pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.4-alpha.1?classifier=sources
 - pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.4-alpha.2?classifier=sources
 - pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.4-alpha.3?classifier=sources
+- pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.4?classifier=sources
 - pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.5-alpha.1?classifier=sources
+- pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.5-alpha.2?classifier=sources
+- pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.5.1?classifier=sources
+- pkg:maven/com.just-ai.aimybox/snowboy-speechkit@0.17.5?classifier=sources

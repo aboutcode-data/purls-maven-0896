@@ -4,3 +4,5 @@
 - pkg:maven/love.forte.simbot.boot/simboot-core-annotation@3.0.0.preview.2.0?classifier=sources
 - pkg:maven/love.forte.simbot.boot/simboot-core-annotation@3.0.0.preview.3.0?classifier=sources
 - pkg:maven/love.forte.simbot.boot/simboot-core-annotation@3.0.0.preview.4.0?classifier=sources
+- pkg:maven/love.forte.simbot.boot/simboot-core-annotation@3.0.0.preview.4.1?classifier=sources
+- pkg:maven/love.forte.simbot.boot/simboot-core-annotation@3.0.0.preview.5.0?classifier=sources

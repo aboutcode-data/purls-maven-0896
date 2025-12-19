@@ -46,3 +46,5 @@
 - pkg:maven/com.gitee.starblues/springboot-plugin-framework@2.4.5-RELEASE?classifier=sources
 - pkg:maven/com.gitee.starblues/springboot-plugin-framework@2.4.6-RELEASE
 - pkg:maven/com.gitee.starblues/springboot-plugin-framework@2.4.6-RELEASE?classifier=sources
+- pkg:maven/com.gitee.starblues/springboot-plugin-framework@3.0.0
+- pkg:maven/com.gitee.starblues/springboot-plugin-framework@3.0.0?classifier=sources

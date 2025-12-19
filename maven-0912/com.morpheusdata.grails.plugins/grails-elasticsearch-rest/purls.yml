@@ -1,1 +1,2 @@
 - pkg:maven/com.morpheusdata.grails.plugins/grails-elasticsearch-rest@0.2.2?classifier=sources
+- pkg:maven/com.morpheusdata.grails.plugins/grails-elasticsearch-rest@0.2.3?classifier=sources

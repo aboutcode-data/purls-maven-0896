@@ -35,6 +35,10 @@
 - pkg:maven/de.dagere.kopeme/kopeme-junit@0.17.4?classifier=sources
 - pkg:maven/de.dagere.kopeme/kopeme-junit@0.17.5
 - pkg:maven/de.dagere.kopeme/kopeme-junit@0.17.5?classifier=sources
+- pkg:maven/de.dagere.kopeme/kopeme-junit@0.18.0
+- pkg:maven/de.dagere.kopeme/kopeme-junit@0.18.0?classifier=sources
+- pkg:maven/de.dagere.kopeme/kopeme-junit@0.18.1
+- pkg:maven/de.dagere.kopeme/kopeme-junit@0.18.1?classifier=sources
 - pkg:maven/de.dagere.kopeme/kopeme-junit@0.1?classifier=sources
 - pkg:maven/de.dagere.kopeme/kopeme-junit@0.2
 - pkg:maven/de.dagere.kopeme/kopeme-junit@0.2?classifier=sources

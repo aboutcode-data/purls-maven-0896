@@ -42,3 +42,4 @@
 - pkg:maven/dk.cachet.carp.common/carp.common-jvm@1.0.0-alpha.7?classifier=sources
 - pkg:maven/dk.cachet.carp.common/carp.common-jvm@1.0.0-alpha.8?classifier=sources
 - pkg:maven/dk.cachet.carp.common/carp.common-jvm@1.0.0-alpha.9?classifier=sources
+- pkg:maven/dk.cachet.carp.common/carp.common-jvm@1.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.mpetruska/uk-modulo-scala_2.13@6.60.0?classifier=sources
 - pkg:maven/com.github.mpetruska/uk-modulo-scala_2.13@6.80.0
 - pkg:maven/com.github.mpetruska/uk-modulo-scala_2.13@6.80.0?classifier=sources
+- pkg:maven/com.github.mpetruska/uk-modulo-scala_2.13@6.90.0
+- pkg:maven/com.github.mpetruska/uk-modulo-scala_2.13@6.90.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/tech.codingzen/kdi-kata-res@1.0.0
+- pkg:maven/tech.codingzen/kdi-kata-res@1.0.0?classifier=sources
+- pkg:maven/tech.codingzen/kdi-kata-res@2.0.0
+- pkg:maven/tech.codingzen/kdi-kata-res@2.0.0?classifier=sources
+- pkg:maven/tech.codingzen/kdi-kata-res@2.0.1
+- pkg:maven/tech.codingzen/kdi-kata-res@2.0.1?classifier=sources

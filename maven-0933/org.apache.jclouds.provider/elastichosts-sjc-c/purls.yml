@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.jclouds.provider/elastichosts-sjc-c@2.3.0?classifier=sources
 - pkg:maven/org.apache.jclouds.provider/elastichosts-sjc-c@2.4.0
 - pkg:maven/org.apache.jclouds.provider/elastichosts-sjc-c@2.4.0?classifier=sources
+- pkg:maven/org.apache.jclouds.provider/elastichosts-sjc-c@2.5.0
+- pkg:maven/org.apache.jclouds.provider/elastichosts-sjc-c@2.5.0?classifier=sources

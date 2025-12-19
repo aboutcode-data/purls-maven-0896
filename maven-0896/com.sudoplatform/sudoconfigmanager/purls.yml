@@ -11,3 +11,5 @@
 - pkg:maven/com.sudoplatform/sudoconfigmanager@1.3.0?type=aar
 - pkg:maven/com.sudoplatform/sudoconfigmanager@1.4.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoconfigmanager@1.4.0?type=aar
+- pkg:maven/com.sudoplatform/sudoconfigmanager@2.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoconfigmanager@2.0.0?type=aar

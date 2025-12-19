@@ -6,6 +6,8 @@
 - pkg:maven/org.webjars.npm/preact@10.5.14?classifier=sources
 - pkg:maven/org.webjars.npm/preact@10.6.4
 - pkg:maven/org.webjars.npm/preact@10.6.4?classifier=sources
+- pkg:maven/org.webjars.npm/preact@11.0.0-experimental.1
+- pkg:maven/org.webjars.npm/preact@11.0.0-experimental.1?classifier=sources
 - pkg:maven/org.webjars.npm/preact@7.0.3
 - pkg:maven/org.webjars.npm/preact@7.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/preact@7.1.0

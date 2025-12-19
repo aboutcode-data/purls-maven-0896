@@ -46,3 +46,4 @@
 - pkg:maven/org.jmonkeyengine/jme3-vr@3.5.0-beta7?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-vr@3.5.0-beta9?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-vr@3.5.0-stable?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-vr@3.5.1-stable?classifier=sources

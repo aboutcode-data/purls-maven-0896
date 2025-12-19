@@ -193,6 +193,8 @@
 - pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1
 - pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1%2B1-a19bda77
 - pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1%2B1-a19bda77?classifier=sources
+- pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1%2B10-b56837f7
+- pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1%2B10-b56837f7?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1%2B2-cb12078d
 - pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1%2B2-cb12078d?classifier=sources
 - pkg:maven/me.shadaj/scalapy-core_2.13@0.5.1%2B3-36ef9fbd

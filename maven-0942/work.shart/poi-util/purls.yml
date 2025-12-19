@@ -12,3 +12,7 @@
 - pkg:maven/work.shart/poi-util@0.0.4-release?classifier=sources
 - pkg:maven/work.shart/poi-util@0.0.5-release
 - pkg:maven/work.shart/poi-util@0.0.5-release?classifier=sources
+- pkg:maven/work.shart/poi-util@1.0.0-release
+- pkg:maven/work.shart/poi-util@1.0.0-release?classifier=sources
+- pkg:maven/work.shart/poi-util@1.0.1-release
+- pkg:maven/work.shart/poi-util@1.0.1-release?classifier=sources

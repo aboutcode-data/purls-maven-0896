@@ -1,3 +1,6 @@
 - pkg:maven/net.hydromatic/flight-data-hsqldb@0.1
 - pkg:maven/net.hydromatic/flight-data-hsqldb@0.1?classifier=source-release&type=zip
 - pkg:maven/net.hydromatic/flight-data-hsqldb@0.1?classifier=sources
+- pkg:maven/net.hydromatic/flight-data-hsqldb@0.2
+- pkg:maven/net.hydromatic/flight-data-hsqldb@0.2?classifier=source-release&type=zip
+- pkg:maven/net.hydromatic/flight-data-hsqldb@0.2?classifier=sources

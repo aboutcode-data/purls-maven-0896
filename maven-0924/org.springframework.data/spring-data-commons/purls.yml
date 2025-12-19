@@ -293,6 +293,8 @@
 - pkg:maven/org.springframework.data/spring-data-commons@2.5.0
 - pkg:maven/org.springframework.data/spring-data-commons@2.5.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.5.1
+- pkg:maven/org.springframework.data/spring-data-commons@2.5.10
+- pkg:maven/org.springframework.data/spring-data-commons@2.5.10?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.5.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.5.2
 - pkg:maven/org.springframework.data/spring-data-commons@2.5.2?classifier=sources
@@ -316,3 +318,5 @@
 - pkg:maven/org.springframework.data/spring-data-commons@2.6.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@2.6.2
 - pkg:maven/org.springframework.data/spring-data-commons@2.6.2?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@2.6.3
+- pkg:maven/org.springframework.data/spring-data-commons@2.6.3?classifier=sources

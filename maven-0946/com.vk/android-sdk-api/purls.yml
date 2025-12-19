@@ -13,3 +13,5 @@
 - pkg:maven/com.vk/android-sdk-api@3.4.0?classifier=sources
 - pkg:maven/com.vk/android-sdk-api@3.4.1?classifier=sources
 - pkg:maven/com.vk/android-sdk-api@3.5.0?classifier=sources
+- pkg:maven/com.vk/android-sdk-api@3.5.1?classifier=sources
+- pkg:maven/com.vk/android-sdk-api@3.5.2?classifier=sources

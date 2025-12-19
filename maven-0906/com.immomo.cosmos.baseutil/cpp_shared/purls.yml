@@ -1,2 +1,6 @@
+- pkg:maven/com.immomo.cosmos.baseutil/cpp_shared@r17c-2022022401?classifier=sources
+- pkg:maven/com.immomo.cosmos.baseutil/cpp_shared@r17c-2022022401?type=aar
+- pkg:maven/com.immomo.cosmos.baseutil/cpp_shared@r17c-2022022402?classifier=sources
+- pkg:maven/com.immomo.cosmos.baseutil/cpp_shared@r17c-2022022402?type=aar
 - pkg:maven/com.immomo.cosmos.baseutil/cpp_shared@r17c?classifier=sources
 - pkg:maven/com.immomo.cosmos.baseutil/cpp_shared@r17c?type=aar

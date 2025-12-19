@@ -66,6 +66,8 @@
 - pkg:maven/za.co.absa.enceladus/dao@2.26.1?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.26.2
 - pkg:maven/za.co.absa.enceladus/dao@2.26.2?classifier=sources
+- pkg:maven/za.co.absa.enceladus/dao@2.27.0
+- pkg:maven/za.co.absa.enceladus/dao@2.27.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.3.0
 - pkg:maven/za.co.absa.enceladus/dao@2.3.0?classifier=sources
 - pkg:maven/za.co.absa.enceladus/dao@2.3.1

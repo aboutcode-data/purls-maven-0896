@@ -8,3 +8,5 @@
 - pkg:maven/org.codelibs.fess/fess-script-ognl@13.15.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-script-ognl@13.16.0
 - pkg:maven/org.codelibs.fess/fess-script-ognl@13.16.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-script-ognl@14.0.0
+- pkg:maven/org.codelibs.fess/fess-script-ognl@14.0.0?classifier=sources

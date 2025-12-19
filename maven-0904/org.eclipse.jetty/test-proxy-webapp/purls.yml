@@ -135,6 +135,7 @@
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.43.v20210629?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.44.v20210927?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.45.v20220203?type=war
+- pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.46.v20220331?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.5.v20170502?classifier=sources
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.5.v20170502?type=war
 - pkg:maven/org.eclipse.jetty/test-proxy-webapp@9.4.5.v20180619?classifier=sources

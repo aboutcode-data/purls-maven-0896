@@ -32,3 +32,5 @@
 - pkg:maven/org.keycloak/keycloak-examples-providers-rest@16.1.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-examples-providers-rest@17.0.0
 - pkg:maven/org.keycloak/keycloak-examples-providers-rest@17.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-examples-providers-rest@17.0.1
+- pkg:maven/org.keycloak/keycloak-examples-providers-rest@17.0.1?classifier=sources

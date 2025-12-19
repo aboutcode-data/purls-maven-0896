@@ -20,3 +20,5 @@
 - pkg:maven/eu.dariolucia.ccsds/eu.dariolucia.ccsds.sle.utlfx@0.3.6?classifier=sources
 - pkg:maven/eu.dariolucia.ccsds/eu.dariolucia.ccsds.sle.utlfx@0.4.0
 - pkg:maven/eu.dariolucia.ccsds/eu.dariolucia.ccsds.sle.utlfx@0.4.0?classifier=sources
+- pkg:maven/eu.dariolucia.ccsds/eu.dariolucia.ccsds.sle.utlfx@0.4.1
+- pkg:maven/eu.dariolucia.ccsds/eu.dariolucia.ccsds.sle.utlfx@0.4.1?classifier=sources

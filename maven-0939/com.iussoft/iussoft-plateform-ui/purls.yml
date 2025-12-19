@@ -2,3 +2,9 @@
 - pkg:maven/com.iussoft/iussoft-plateform-ui@3.1.1
 - pkg:maven/com.iussoft/iussoft-plateform-ui@3.2.1
 - pkg:maven/com.iussoft/iussoft-plateform-ui@3.2.1?classifier=sources
+- pkg:maven/com.iussoft/iussoft-plateform-ui@3.3.2
+- pkg:maven/com.iussoft/iussoft-plateform-ui@3.3.22031723
+- pkg:maven/com.iussoft/iussoft-plateform-ui@3.3.22031723?classifier=sources
+- pkg:maven/com.iussoft/iussoft-plateform-ui@3.3.22031801
+- pkg:maven/com.iussoft/iussoft-plateform-ui@3.3.22031801?classifier=sources
+- pkg:maven/com.iussoft/iussoft-plateform-ui@3.3.2?classifier=sources

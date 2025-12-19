@@ -1,3 +1,4 @@
 - pkg:maven/org.opencadc/cadc-storage-adapter-fs@0.6.3?classifier=sources
 - pkg:maven/org.opencadc/cadc-storage-adapter-fs@0.7.0?classifier=sources
 - pkg:maven/org.opencadc/cadc-storage-adapter-fs@0.8.0?classifier=sources
+- pkg:maven/org.opencadc/cadc-storage-adapter-fs@0.8.1?classifier=sources

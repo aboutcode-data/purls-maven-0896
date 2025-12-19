@@ -56,3 +56,4 @@
 - pkg:maven/fish.payara.api/payara-api@5.Beta2
 - pkg:maven/fish.payara.api/payara-api@5.Beta2?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@6.2021.1.Alpha1?classifier=sources
+- pkg:maven/fish.payara.api/payara-api@6.2022.1.Alpha2?classifier=sources

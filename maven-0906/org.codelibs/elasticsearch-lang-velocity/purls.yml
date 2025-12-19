@@ -28,6 +28,8 @@
 - pkg:maven/org.codelibs/elasticsearch-lang-velocity@6.6.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-lang-velocity@6.7.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-lang-velocity@6.7.0?type=zip
+- pkg:maven/org.codelibs/elasticsearch-lang-velocity@7.16.0?classifier=sources
+- pkg:maven/org.codelibs/elasticsearch-lang-velocity@7.16.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-lang-velocity@7.5.0?classifier=sources
 - pkg:maven/org.codelibs/elasticsearch-lang-velocity@7.5.0?type=zip
 - pkg:maven/org.codelibs/elasticsearch-lang-velocity@7.6.0?classifier=sources

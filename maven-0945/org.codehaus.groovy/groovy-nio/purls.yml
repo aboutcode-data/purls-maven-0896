@@ -116,6 +116,7 @@
 - pkg:maven/org.codehaus.groovy/groovy-nio@2.5.14
 - pkg:maven/org.codehaus.groovy/groovy-nio@2.5.14?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@2.5.15?classifier=sources
+- pkg:maven/org.codehaus.groovy/groovy-nio@2.5.16?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@2.5.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@2.5.2
 - pkg:maven/org.codehaus.groovy/groovy-nio@2.5.2?classifier=sources
@@ -164,6 +165,7 @@
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.0-rc-3?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.0?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.1
+- pkg:maven/org.codehaus.groovy/groovy-nio@3.0.10?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.1?classifier=sources
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.2
 - pkg:maven/org.codehaus.groovy/groovy-nio@3.0.2?classifier=sources

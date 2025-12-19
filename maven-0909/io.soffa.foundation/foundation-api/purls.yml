@@ -1,8 +1,14 @@
+- pkg:maven/io.soffa.foundation/foundation-api@1.10.0?classifier=sources
+- pkg:maven/io.soffa.foundation/foundation-api@1.10.1?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.10?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.11?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.12?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.13?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.14?classifier=sources
+- pkg:maven/io.soffa.foundation/foundation-api@1.9.15?classifier=sources
+- pkg:maven/io.soffa.foundation/foundation-api@1.9.16?classifier=sources
+- pkg:maven/io.soffa.foundation/foundation-api@1.9.17?classifier=sources
+- pkg:maven/io.soffa.foundation/foundation-api@1.9.18?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.4?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.6?classifier=sources
 - pkg:maven/io.soffa.foundation/foundation-api@1.9.7?classifier=sources

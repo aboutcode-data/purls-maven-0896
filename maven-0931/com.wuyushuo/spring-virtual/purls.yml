@@ -1,2 +1,4 @@
 - pkg:maven/com.wuyushuo/spring-virtual@1.9.3
 - pkg:maven/com.wuyushuo/spring-virtual@1.9.3?classifier=sources
+- pkg:maven/com.wuyushuo/spring-virtual@1.9.4
+- pkg:maven/com.wuyushuo/spring-virtual@1.9.4?classifier=sources

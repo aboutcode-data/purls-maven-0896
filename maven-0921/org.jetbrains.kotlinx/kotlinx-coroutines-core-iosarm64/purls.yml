@@ -44,3 +44,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-iosarm64@1.6.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-iosarm64@1.6.0-native-mt?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-iosarm64@1.6.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-iosarm64@1.6.1-native-mt?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-core-iosarm64@1.6.1?classifier=sources

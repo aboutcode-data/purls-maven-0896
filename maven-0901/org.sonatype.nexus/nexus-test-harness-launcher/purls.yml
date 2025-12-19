@@ -169,6 +169,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.14.8-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.14.9-01
 - pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.14.9-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.15.0-04
+- pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.15.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.15.1-02
+- pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.15.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.1?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.2
 - pkg:maven/org.sonatype.nexus/nexus-test-harness-launcher@2.2-01

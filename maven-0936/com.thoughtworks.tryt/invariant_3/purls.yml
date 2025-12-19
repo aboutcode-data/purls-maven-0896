@@ -5,6 +5,18 @@
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B1-e4642f11
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B1-e4642f11?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B10-d75ca024
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B10-d75ca024?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B11-180b91ee
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B11-180b91ee?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B12-d0544f64
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B12-d0544f64?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B13-94a2a0b3
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B13-94a2a0b3?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B14-0c88c233
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B14-0c88c233?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B15-8ede6719
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B15-8ede6719?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B2-a4fb1c71
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B2-a4fb1c71?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B3-4ac1fa8b
@@ -19,6 +31,8 @@
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B7-96d0cd5f?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B8-a40513e8
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B8-a40513e8?classifier=sources
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B9-70509b0e
+- pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0%2B9-70509b0e?classifier=sources
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0-M0
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0-M0%2B1-102f3789
 - pkg:maven/com.thoughtworks.tryt/invariant_3@3.0.0-M0%2B1-102f3789?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/io.ebean/ebean-platform-sqlserver@13.0.0
+- pkg:maven/io.ebean/ebean-platform-sqlserver@13.0.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-sqlserver@13.1.0
+- pkg:maven/io.ebean/ebean-platform-sqlserver@13.1.0?classifier=sources
+- pkg:maven/io.ebean/ebean-platform-sqlserver@13.2.0
+- pkg:maven/io.ebean/ebean-platform-sqlserver@13.2.0?classifier=sources

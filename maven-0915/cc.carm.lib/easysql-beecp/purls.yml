@@ -8,3 +8,5 @@
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.6?classifier=sources
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.7
 - pkg:maven/cc.carm.lib/easysql-beecp@0.3.7?classifier=sources
+- pkg:maven/cc.carm.lib/easysql-beecp@0.3.8
+- pkg:maven/cc.carm.lib/easysql-beecp@0.3.8?classifier=sources

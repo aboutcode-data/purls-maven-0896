@@ -3,6 +3,14 @@
 - pkg:maven/org.protelis/protelis.parser@10.0.2?classifier=sources
 - pkg:maven/org.protelis/protelis.parser@10.1.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser@10.2.0?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.10?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.11?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.12?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.13?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.6?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.7?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.8?classifier=sources
+- pkg:maven/org.protelis/protelis.parser@10.2.9?classifier=sources
 - pkg:maven/org.protelis/protelis.parser@4.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser@5.0.0?classifier=sources
 - pkg:maven/org.protelis/protelis.parser@6.0.0?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.1.8?classifier=sources
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.1.9
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.1.9?classifier=sources
+- pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.0
+- pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.0?classifier=sources

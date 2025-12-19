@@ -138,6 +138,8 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.10.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.10.1
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.10.1?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.10.2
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.10.2?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.11.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.11.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@8.11.1
@@ -186,3 +188,5 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.6.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.7.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.7.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.8.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-jquery-ui-theme-smoothness@9.8.0?classifier=sources

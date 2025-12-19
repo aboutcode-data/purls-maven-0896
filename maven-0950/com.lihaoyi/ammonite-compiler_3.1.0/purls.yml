@@ -7,4 +7,6 @@
 - pkg:maven/com.lihaoyi/ammonite-compiler_3.1.0@2.5.1-7-cd989427
 - pkg:maven/com.lihaoyi/ammonite-compiler_3.1.0@2.5.1-7-cd989427?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-compiler_3.1.0@2.5.2
+- pkg:maven/com.lihaoyi/ammonite-compiler_3.1.0@2.5.2-1-fcc95af4
+- pkg:maven/com.lihaoyi/ammonite-compiler_3.1.0@2.5.2-1-fcc95af4?classifier=sources
 - pkg:maven/com.lihaoyi/ammonite-compiler_3.1.0@2.5.2?classifier=sources

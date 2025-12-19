@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC5
 - pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC5?classifier=sources
+- pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC6
+- pkg:maven/com.typesafe.play/play-json-joda_3@2.10.0-RC6?classifier=sources

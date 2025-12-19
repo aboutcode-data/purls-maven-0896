@@ -40,4 +40,6 @@
 - pkg:maven/vn.netacom/NetAloFull-Dev@2.0.16?classifier=sources
 - pkg:maven/vn.netacom/NetAloFull-Dev@2.0.17?classifier=sources
 - pkg:maven/vn.netacom/NetAloFull-Dev@2.0.18?classifier=sources
+- pkg:maven/vn.netacom/NetAloFull-Dev@2.3.43?classifier=sources
 - pkg:maven/vn.netacom/NetAloFull-Dev@3.0.0?classifier=sources
+- pkg:maven/vn.netacom/NetAloFull-Dev@3.0.1?classifier=sources

@@ -29,6 +29,7 @@
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@12.2.0
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@12.2.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@12.3.0?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@12.3.1?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.3.0
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.3.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-themify-pack@2.4.0

@@ -1,0 +1,4 @@
+- pkg:maven/sh.bader.common/id@1.0.0
+- pkg:maven/sh.bader.common/id@1.0.0?classifier=sources
+- pkg:maven/sh.bader.common/id@1.0.1
+- pkg:maven/sh.bader.common/id@1.0.1?classifier=sources

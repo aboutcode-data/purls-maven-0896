@@ -16,3 +16,5 @@
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.28.0?classifier=sources
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.28.1
 - pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.28.1?classifier=sources
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.29.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-source@0.29.0?classifier=sources

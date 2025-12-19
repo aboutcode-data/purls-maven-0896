@@ -12,7 +12,11 @@
 - pkg:maven/io.lighty.core/lighty-codecs-util@14.2.1?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@14.3.0
 - pkg:maven/io.lighty.core/lighty-codecs-util@14.3.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-codecs-util@14.4.0
+- pkg:maven/io.lighty.core/lighty-codecs-util@14.4.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@15.0.0
 - pkg:maven/io.lighty.core/lighty-codecs-util@15.0.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@15.1.0
 - pkg:maven/io.lighty.core/lighty-codecs-util@15.1.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-codecs-util@15.2.0
+- pkg:maven/io.lighty.core/lighty-codecs-util@15.2.0?classifier=sources

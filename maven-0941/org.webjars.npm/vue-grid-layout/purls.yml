@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/vue-grid-layout@2.3.12
+- pkg:maven/org.webjars.npm/vue-grid-layout@2.3.12?classifier=sources
 - pkg:maven/org.webjars.npm/vue-grid-layout@2.3.4
 - pkg:maven/org.webjars.npm/vue-grid-layout@2.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/vue-grid-layout@2.3.6

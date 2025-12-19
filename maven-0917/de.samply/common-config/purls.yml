@@ -1,2 +1,4 @@
 - pkg:maven/de.samply/common-config@5.1.0
 - pkg:maven/de.samply/common-config@5.1.0?classifier=sources
+- pkg:maven/de.samply/common-config@5.2.0
+- pkg:maven/de.samply/common-config@5.2.0?classifier=sources

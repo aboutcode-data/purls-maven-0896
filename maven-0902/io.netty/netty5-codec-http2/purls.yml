@@ -1,0 +1,2 @@
+- pkg:maven/io.netty/netty5-codec-http2@5.0.0.Alpha1
+- pkg:maven/io.netty/netty5-codec-http2@5.0.0.Alpha1?classifier=sources

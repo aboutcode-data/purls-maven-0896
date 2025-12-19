@@ -10,3 +10,5 @@
 - pkg:maven/com.codenameone/coderad-android@2.0-pre3?classifier=sources
 - pkg:maven/com.codenameone/coderad-android@2.0-pre4
 - pkg:maven/com.codenameone/coderad-android@2.0-pre4?classifier=sources
+- pkg:maven/com.codenameone/coderad-android@2.0.1
+- pkg:maven/com.codenameone/coderad-android@2.0.1?classifier=sources

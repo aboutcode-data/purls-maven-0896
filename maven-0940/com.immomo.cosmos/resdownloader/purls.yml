@@ -37,3 +37,5 @@
 - pkg:maven/com.immomo.cosmos/resdownloader@2.1.5.20220121.1423?type=aar
 - pkg:maven/com.immomo.cosmos/resdownloader@2.1.6.20211216.1455?classifier=sources
 - pkg:maven/com.immomo.cosmos/resdownloader@2.1.6.20211216.1455?type=aar
+- pkg:maven/com.immomo.cosmos/resdownloader@2.1.7.20220223.1212?classifier=sources
+- pkg:maven/com.immomo.cosmos/resdownloader@2.1.7.20220223.1212?type=aar

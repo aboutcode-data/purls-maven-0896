@@ -147,4 +147,6 @@
 - pkg:maven/org.axonframework/axon-spring@4.5.7?classifier=sources
 - pkg:maven/org.axonframework/axon-spring@4.5.8
 - pkg:maven/org.axonframework/axon-spring@4.5.8?classifier=sources
+- pkg:maven/org.axonframework/axon-spring@4.5.9
+- pkg:maven/org.axonframework/axon-spring@4.5.9?classifier=sources
 - pkg:maven/org.axonframework/axon-spring@4.5?classifier=sources

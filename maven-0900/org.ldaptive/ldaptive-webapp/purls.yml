@@ -30,3 +30,4 @@
 - pkg:maven/org.ldaptive/ldaptive-webapp@1.2.4?type=war
 - pkg:maven/org.ldaptive/ldaptive-webapp@1.3.0?classifier=sources
 - pkg:maven/org.ldaptive/ldaptive-webapp@1.3.0?type=war
+- pkg:maven/org.ldaptive/ldaptive-webapp@1.3.1?classifier=sources

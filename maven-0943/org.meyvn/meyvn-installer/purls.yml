@@ -3,3 +3,8 @@
 - pkg:maven/org.meyvn/meyvn-installer@1.3.6
 - pkg:maven/org.meyvn/meyvn-installer@1.3.7
 - pkg:maven/org.meyvn/meyvn-installer@1.3.8
+- pkg:maven/org.meyvn/meyvn-installer@1.3.9
+- pkg:maven/org.meyvn/meyvn-installer@1.4.0
+- pkg:maven/org.meyvn/meyvn-installer@1.4.0?classifier=sources
+- pkg:maven/org.meyvn/meyvn-installer@1.4.1
+- pkg:maven/org.meyvn/meyvn-installer@1.4.1?classifier=sources

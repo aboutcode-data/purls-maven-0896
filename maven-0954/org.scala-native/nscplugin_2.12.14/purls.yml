@@ -10,3 +10,5 @@
 - pkg:maven/org.scala-native/nscplugin_2.12.14@0.4.3-RC2
 - pkg:maven/org.scala-native/nscplugin_2.12.14@0.4.3-RC2?classifier=sources
 - pkg:maven/org.scala-native/nscplugin_2.12.14@0.4.3?classifier=sources
+- pkg:maven/org.scala-native/nscplugin_2.12.14@0.4.4
+- pkg:maven/org.scala-native/nscplugin_2.12.14@0.4.4?classifier=sources

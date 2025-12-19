@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-deadlock-detector@RELEASE90?classifier=sources

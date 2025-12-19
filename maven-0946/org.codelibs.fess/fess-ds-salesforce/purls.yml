@@ -26,3 +26,5 @@
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.8.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.9.0
 - pkg:maven/org.codelibs.fess/fess-ds-salesforce@13.9.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess-ds-salesforce@14.0.0
+- pkg:maven/org.codelibs.fess/fess-ds-salesforce@14.0.0?classifier=sources

@@ -36,6 +36,8 @@
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.14.7-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.14.8-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.14.9-01?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.15.0-04?classifier=sources
+- pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.15.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.plugins/nexus-yum-repository-plugin@2.7.0-03?classifier=sources

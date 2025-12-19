@@ -17,3 +17,4 @@
 - pkg:maven/com.o19s/elasticsearch-learning-to-rank@1.5.8-es7.16.2?classifier=sources
 - pkg:maven/com.o19s/elasticsearch-learning-to-rank@1.5.8-es7.16.3?classifier=sources
 - pkg:maven/com.o19s/elasticsearch-learning-to-rank@1.5.8-es7.17.0?classifier=sources
+- pkg:maven/com.o19s/elasticsearch-learning-to-rank@1.5.8-es7.17.1?classifier=sources

@@ -2,6 +2,9 @@
 - pkg:maven/aws.sdk.kotlin/voiceid@0.10.1-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/voiceid@0.11.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/voiceid@0.12.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/voiceid@0.13.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/voiceid@0.13.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/voiceid@0.14.0-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/voiceid@0.8.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/voiceid@0.9.0-alpha?classifier=sources
 - pkg:maven/aws.sdk.kotlin/voiceid@0.9.1-alpha?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/net.corda/corda-tools-blob-inspector@4.6?classifier=sources
 - pkg:maven/net.corda/corda-tools-blob-inspector@4.8
 - pkg:maven/net.corda/corda-tools-blob-inspector@4.8?classifier=sources
+- pkg:maven/net.corda/corda-tools-blob-inspector@4.9
+- pkg:maven/net.corda/corda-tools-blob-inspector@4.9?classifier=sources

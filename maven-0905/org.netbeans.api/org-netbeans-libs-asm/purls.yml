@@ -12,4 +12,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-asm@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-asm@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-asm@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-asm@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-asm@RELEASE90?classifier=sources

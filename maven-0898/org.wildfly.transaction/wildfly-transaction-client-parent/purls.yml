@@ -1,1 +1,2 @@
 - pkg:maven/org.wildfly.transaction/wildfly-transaction-client-parent@2.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.transaction/wildfly-transaction-client-parent@2.0.1.Final?classifier=source-release&type=zip

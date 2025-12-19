@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.nifi.registry/nifi-registry-aws-extensions@1.15.2?classifier=sources
 - pkg:maven/org.apache.nifi.registry/nifi-registry-aws-extensions@1.15.3
 - pkg:maven/org.apache.nifi.registry/nifi-registry-aws-extensions@1.15.3?classifier=sources
+- pkg:maven/org.apache.nifi.registry/nifi-registry-aws-extensions@1.16.0
+- pkg:maven/org.apache.nifi.registry/nifi-registry-aws-extensions@1.16.0?classifier=sources

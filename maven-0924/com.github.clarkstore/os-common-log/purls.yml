@@ -1,0 +1,6 @@
+- pkg:maven/com.github.clarkstore/os-common-log@0.6.2
+- pkg:maven/com.github.clarkstore/os-common-log@0.6.2?classifier=sources
+- pkg:maven/com.github.clarkstore/os-common-log@0.6.4
+- pkg:maven/com.github.clarkstore/os-common-log@0.6.4?classifier=sources
+- pkg:maven/com.github.clarkstore/os-common-log@0.6.5
+- pkg:maven/com.github.clarkstore/os-common-log@0.6.5?classifier=sources

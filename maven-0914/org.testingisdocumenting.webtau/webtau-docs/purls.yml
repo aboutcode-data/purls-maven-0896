@@ -52,3 +52,5 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.45?classifier=sources
 - pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.46
 - pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.46?classifier=sources
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.47
+- pkg:maven/org.testingisdocumenting.webtau/webtau-docs@1.47?classifier=sources

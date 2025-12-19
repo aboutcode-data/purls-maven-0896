@@ -1,0 +1,2 @@
+- pkg:maven/tools.bestquality/maven-ci-plugin@0.0.1
+- pkg:maven/tools.bestquality/maven-ci-plugin@0.0.1?classifier=sources

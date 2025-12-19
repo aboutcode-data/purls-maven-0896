@@ -34,3 +34,5 @@
 - pkg:maven/com.momagic/notification-sdk@1.4.2?type=aar
 - pkg:maven/com.momagic/notification-sdk@1.4.3?classifier=sources
 - pkg:maven/com.momagic/notification-sdk@1.4.3?type=aar
+- pkg:maven/com.momagic/notification-sdk@1.4.4?classifier=sources
+- pkg:maven/com.momagic/notification-sdk@1.4.4?type=aar

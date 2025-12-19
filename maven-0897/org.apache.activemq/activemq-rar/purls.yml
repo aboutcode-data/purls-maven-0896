@@ -47,6 +47,7 @@
 - pkg:maven/org.apache.activemq/activemq-rar@5.16.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-rar@5.16.3?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-rar@5.16.4?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-rar@5.17.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-rar@5.2.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-rar@5.3.0?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-rar@5.3.1?classifier=sources

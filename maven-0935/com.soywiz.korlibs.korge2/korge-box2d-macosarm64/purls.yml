@@ -4,3 +4,9 @@
 - pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.4.9?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.5.0?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.5.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.5.3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.6.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.6.1?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.6.2?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.6.3?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korge2/korge-box2d-macosarm64@2.7.0?classifier=sources

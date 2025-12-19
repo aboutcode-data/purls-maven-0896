@@ -1,0 +1,4 @@
+- pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing@0.4.1?classifier=sources
+- pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing@0.5.0?classifier=sources
+- pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing@0.5.1?classifier=sources
+- pkg:maven/city.smartb.s2/s2-spring-boot-starter-sourcing@0.6.0?classifier=sources

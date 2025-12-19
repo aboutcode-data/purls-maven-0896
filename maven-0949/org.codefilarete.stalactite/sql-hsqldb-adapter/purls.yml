@@ -1,0 +1,2 @@
+- pkg:maven/org.codefilarete.stalactite/sql-hsqldb-adapter@1.0.0
+- pkg:maven/org.codefilarete.stalactite/sql-hsqldb-adapter@1.0.0?classifier=sources

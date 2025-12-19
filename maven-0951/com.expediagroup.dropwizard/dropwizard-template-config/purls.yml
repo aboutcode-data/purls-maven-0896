@@ -1,2 +1,4 @@
 - pkg:maven/com.expediagroup.dropwizard/dropwizard-template-config@2.0.0
 - pkg:maven/com.expediagroup.dropwizard/dropwizard-template-config@2.0.0?classifier=sources
+- pkg:maven/com.expediagroup.dropwizard/dropwizard-template-config@3.0.0
+- pkg:maven/com.expediagroup.dropwizard/dropwizard-template-config@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.kubernetes/client-java-examples-release-14@15.0.0
+- pkg:maven/io.kubernetes/client-java-examples-release-14@15.0.0?classifier=sources

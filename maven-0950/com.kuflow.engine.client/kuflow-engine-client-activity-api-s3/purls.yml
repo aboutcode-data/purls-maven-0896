@@ -2,3 +2,15 @@
 - pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.4?classifier=sources
 - pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.5
 - pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.5?classifier=sources
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.6
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.6?classifier=sources
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.10.0
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.10.0?classifier=sources
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.11.0
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.11.0?classifier=sources
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.7.0
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.7.0?classifier=sources
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.8.0
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.8.0?classifier=sources
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.9.0
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.9.0?classifier=sources

@@ -61,6 +61,9 @@
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.14.8?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.14.9
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.14.9?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.15.0
+- pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.15.0?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.15.1?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.4.0-Boron
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.4.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-encrypt-service@0.4.1-Boron-SR1

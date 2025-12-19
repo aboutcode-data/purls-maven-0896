@@ -42,3 +42,5 @@
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.9.2?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.9.3
 - pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.9.3?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.9.4
+- pkg:maven/org.dynamoframework/dynamo-functional-domain-frontend@2.9.4?classifier=sources
