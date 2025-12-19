@@ -8,3 +8,5 @@
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.3.Final?type=zip
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.4.Final?classifier=sources
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.4.Final?type=zip
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.5.Final?type=zip
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.6.Final?type=zip

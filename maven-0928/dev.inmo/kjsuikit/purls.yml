@@ -68,3 +68,6 @@
 - pkg:maven/dev.inmo/kjsuikit@0.4.1?classifier=sources
 - pkg:maven/dev.inmo/kjsuikit@0.4.2?classifier=sources
 - pkg:maven/dev.inmo/kjsuikit@0.4.3?classifier=sources
+- pkg:maven/dev.inmo/kjsuikit@0.5.0?classifier=sources
+- pkg:maven/dev.inmo/kjsuikit@0.5.1?classifier=sources
+- pkg:maven/dev.inmo/kjsuikit@0.5.2?classifier=sources

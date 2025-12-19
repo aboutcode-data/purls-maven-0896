@@ -1,0 +1,4 @@
+- pkg:maven/com.google.cloud/google-cloud-api-gateway-spring-starter@4.0.0-preview
+- pkg:maven/com.google.cloud/google-cloud-api-gateway-spring-starter@4.0.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-api-gateway-spring-starter@4.1.0-preview
+- pkg:maven/com.google.cloud/google-cloud-api-gateway-spring-starter@4.1.0-preview?classifier=sources

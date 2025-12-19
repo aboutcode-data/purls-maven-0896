@@ -274,6 +274,8 @@
 - pkg:maven/org.wso2.andes.wso2/andes-client@3.3.21?classifier=sources
 - pkg:maven/org.wso2.andes.wso2/andes-client@3.3.24
 - pkg:maven/org.wso2.andes.wso2/andes-client@3.3.24?classifier=sources
+- pkg:maven/org.wso2.andes.wso2/andes-client@3.3.25
+- pkg:maven/org.wso2.andes.wso2/andes-client@3.3.25?classifier=sources
 - pkg:maven/org.wso2.andes.wso2/andes-client@3.3.5
 - pkg:maven/org.wso2.andes.wso2/andes-client@3.3.5?classifier=sources
 - pkg:maven/org.wso2.andes.wso2/andes-client@4.0.0

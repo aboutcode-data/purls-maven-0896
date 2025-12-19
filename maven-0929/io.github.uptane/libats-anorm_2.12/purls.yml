@@ -4,3 +4,7 @@
 - pkg:maven/io.github.uptane/libats-anorm_2.12@2.0.11?classifier=sources
 - pkg:maven/io.github.uptane/libats-anorm_2.12@2.0.7
 - pkg:maven/io.github.uptane/libats-anorm_2.12@2.0.7?classifier=sources
+- pkg:maven/io.github.uptane/libats-anorm_2.12@2.1.0
+- pkg:maven/io.github.uptane/libats-anorm_2.12@2.1.0?classifier=sources
+- pkg:maven/io.github.uptane/libats-anorm_2.12@2.1.1
+- pkg:maven/io.github.uptane/libats-anorm_2.12@2.1.1?classifier=sources

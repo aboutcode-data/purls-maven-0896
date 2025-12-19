@@ -74,3 +74,11 @@
 - pkg:maven/com.hexagonkt/logging_logback@2.2.8?classifier=sources
 - pkg:maven/com.hexagonkt/logging_logback@2.3.0?classifier=sources
 - pkg:maven/com.hexagonkt/logging_logback@2.3.1?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.4.0?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.4.1?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.4.2?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.4.3?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.4.4?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.4.5?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.5.0?classifier=sources
+- pkg:maven/com.hexagonkt/logging_logback@2.5.1?classifier=sources

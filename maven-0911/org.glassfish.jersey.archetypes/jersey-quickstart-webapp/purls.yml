@@ -141,6 +141,7 @@
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@2.36?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@2.37?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@2.38?classifier=sources
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@2.4
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@2.4.1
@@ -181,3 +182,4 @@
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@3.1.0-M7?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@3.1.0-M8?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@3.1.0?classifier=sources
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-webapp@3.1.1?classifier=sources

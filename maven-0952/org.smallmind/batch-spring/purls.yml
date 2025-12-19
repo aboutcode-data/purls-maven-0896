@@ -26,6 +26,8 @@
 - pkg:maven/org.smallmind/batch-spring@4.0.0?classifier=sources
 - pkg:maven/org.smallmind/batch-spring@4.1.0
 - pkg:maven/org.smallmind/batch-spring@4.1.0?classifier=sources
+- pkg:maven/org.smallmind/batch-spring@4.10.0
+- pkg:maven/org.smallmind/batch-spring@4.10.0?classifier=sources
 - pkg:maven/org.smallmind/batch-spring@4.2.0
 - pkg:maven/org.smallmind/batch-spring@4.2.0?classifier=sources
 - pkg:maven/org.smallmind/batch-spring@4.3.0

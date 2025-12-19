@@ -76,3 +76,7 @@
 - pkg:maven/com.aliyun.odps/odps-sdk-udf@0.40.10-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-sdk-udf@0.40.8-public
 - pkg:maven/com.aliyun.odps/odps-sdk-udf@0.40.8-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-sdk-udf@0.41.1-public
+- pkg:maven/com.aliyun.odps/odps-sdk-udf@0.41.1-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-sdk-udf@0.43.0-table-api-public
+- pkg:maven/com.aliyun.odps/odps-sdk-udf@0.43.0-table-api-public?classifier=sources

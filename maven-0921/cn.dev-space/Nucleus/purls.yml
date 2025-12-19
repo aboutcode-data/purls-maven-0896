@@ -1,0 +1,6 @@
+- pkg:maven/cn.dev-space/Nucleus@0.0.2
+- pkg:maven/cn.dev-space/Nucleus@0.0.2-API
+- pkg:maven/cn.dev-space/Nucleus@0.0.2-API?classifier=sources
+- pkg:maven/cn.dev-space/Nucleus@0.0.2?classifier=sources
+- pkg:maven/cn.dev-space/Nucleus@0.0.3-API
+- pkg:maven/cn.dev-space/Nucleus@0.0.3-API?classifier=sources

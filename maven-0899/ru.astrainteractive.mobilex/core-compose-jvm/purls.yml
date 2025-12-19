@@ -1,0 +1,6 @@
+- pkg:maven/ru.astrainteractive.mobilex/core-compose-jvm@2.1.0?classifier=sources
+- pkg:maven/ru.astrainteractive.mobilex/core-compose-jvm@2.3.2?classifier=sources
+- pkg:maven/ru.astrainteractive.mobilex/core-compose-jvm@2.4.3?classifier=sources
+- pkg:maven/ru.astrainteractive.mobilex/core-compose-jvm@2.4.7?classifier=sources
+- pkg:maven/ru.astrainteractive.mobilex/core-compose-jvm@2.5.0?classifier=sources
+- pkg:maven/ru.astrainteractive.mobilex/core-compose-jvm@2.5.2?classifier=sources

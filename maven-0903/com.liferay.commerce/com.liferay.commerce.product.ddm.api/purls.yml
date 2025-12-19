@@ -34,6 +34,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@4.0.2
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@4.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@4.0.3
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@4.0.3?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@5.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@5.0.0?classifier=sources-commercial
@@ -82,3 +85,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.5
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.6
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.6?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.7
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.7?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.ddm.api@6.0.7?classifier=sources-commercial

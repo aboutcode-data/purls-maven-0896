@@ -10,3 +10,5 @@
 - pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-core-with-default-change-url@2.0.4?classifier=sources
 - pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-core-with-default-change-url@3.0.0.Alpha4
 - pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-core-with-default-change-url@3.0.0.Alpha4?classifier=sources
+- pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-core-with-default-change-url@3.0.0.Alpha5
+- pkg:maven/io.quarkiverse.artemis/quarkus-integration-test-artemis-core-with-default-change-url@3.0.0.Alpha5?classifier=sources

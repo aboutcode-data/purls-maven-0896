@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pnoker/dc3-common-rabbitmq@2022.2.6
+- pkg:maven/io.github.pnoker/dc3-common-rabbitmq@2022.2.6?classifier=sources

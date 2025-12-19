@@ -48,6 +48,10 @@
 - pkg:maven/io.continual/continualOnapMrProcessor@0.2.43?classifier=sources
 - pkg:maven/io.continual/continualOnapMrProcessor@0.2.44
 - pkg:maven/io.continual/continualOnapMrProcessor@0.2.44?classifier=sources
+- pkg:maven/io.continual/continualOnapMrProcessor@0.2.45
+- pkg:maven/io.continual/continualOnapMrProcessor@0.2.45?classifier=sources
+- pkg:maven/io.continual/continualOnapMrProcessor@0.2.46
+- pkg:maven/io.continual/continualOnapMrProcessor@0.2.46?classifier=sources
 - pkg:maven/io.continual/continualOnapMrProcessor@0.9.0
 - pkg:maven/io.continual/continualOnapMrProcessor@0.9.0?classifier=sources
 - pkg:maven/io.continual/continualOnapMrProcessor@0.9.1

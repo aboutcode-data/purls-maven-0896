@@ -7,3 +7,9 @@
 - pkg:maven/io.github.effiban/scala2java-test-utils_2.13@3.1.0?classifier=sources
 - pkg:maven/io.github.effiban/scala2java-test-utils_2.13@3.2.0?classifier=sources
 - pkg:maven/io.github.effiban/scala2java-test-utils_2.13@4.0.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-test-utils_2.13@5.0.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-test-utils_2.13@5.0.1?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-test-utils_2.13@5.1.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-test-utils_2.13@6.0.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-test-utils_2.13@6.1.0?classifier=sources
+- pkg:maven/io.github.effiban/scala2java-test-utils_2.13@6.2.0?classifier=sources

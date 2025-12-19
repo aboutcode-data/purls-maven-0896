@@ -66,6 +66,8 @@
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.20?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.21
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.21?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.22
+- pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.22?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.3
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.3?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.15.4
@@ -123,6 +125,8 @@
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.16?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.17
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.17?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.18
+- pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.18?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.2
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.18.2?classifier=sources
@@ -152,6 +156,8 @@
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.19.5?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.19.6
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.19.6?classifier=sources
+- pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.19.7
+- pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.19.7?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.20.0
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.20.0?classifier=sources
 - pkg:maven/io.gravitee.apim.gateway.standalone/gravitee-apim-gateway-standalone-bootstrap@3.5.25

@@ -2,3 +2,5 @@
 - pkg:maven/org.ff4j/ff4j-store-gcp-datastore@1.8.13?classifier=sources
 - pkg:maven/org.ff4j/ff4j-store-gcp-datastore@1.9
 - pkg:maven/org.ff4j/ff4j-store-gcp-datastore@1.9?classifier=sources
+- pkg:maven/org.ff4j/ff4j-store-gcp-datastore@2.0.0
+- pkg:maven/org.ff4j/ff4j-store-gcp-datastore@2.0.0?classifier=sources

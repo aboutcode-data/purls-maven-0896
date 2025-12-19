@@ -4,6 +4,10 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@1.6.1?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@1.6.3
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@1.6.3?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouperClient@1.99.1
+- pkg:maven/edu.internet2.middleware.grouper/grouperClient@1.99.1?classifier=sources
+- pkg:maven/edu.internet2.middleware.grouper/grouperClient@1.99.2
+- pkg:maven/edu.internet2.middleware.grouper/grouperClient@1.99.2?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.0.0
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.0.0?classifier=sources
 - pkg:maven/edu.internet2.middleware.grouper/grouperClient@2.0.2

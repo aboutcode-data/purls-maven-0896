@@ -146,3 +146,15 @@
 - pkg:maven/software.amazon.awscdk/aps@1.186.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/aps@1.187.0
 - pkg:maven/software.amazon.awscdk/aps@1.187.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.188.0
+- pkg:maven/software.amazon.awscdk/aps@1.188.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.189.0
+- pkg:maven/software.amazon.awscdk/aps@1.189.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.190.0
+- pkg:maven/software.amazon.awscdk/aps@1.190.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.191.0
+- pkg:maven/software.amazon.awscdk/aps@1.191.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.192.0
+- pkg:maven/software.amazon.awscdk/aps@1.192.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/aps@1.193.0
+- pkg:maven/software.amazon.awscdk/aps@1.193.0?classifier=sources

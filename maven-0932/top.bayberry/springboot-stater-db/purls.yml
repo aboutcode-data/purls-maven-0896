@@ -10,3 +10,5 @@
 - pkg:maven/top.bayberry/springboot-stater-db@2.7.1.GA.0.0.17?classifier=sources
 - pkg:maven/top.bayberry/springboot-stater-db@2.7.1.GA.0.0.18
 - pkg:maven/top.bayberry/springboot-stater-db@2.7.1.GA.0.0.18?classifier=sources
+- pkg:maven/top.bayberry/springboot-stater-db@2.7.1.GA.0.0.20
+- pkg:maven/top.bayberry/springboot-stater-db@2.7.1.GA.0.0.20?classifier=sources

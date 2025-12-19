@@ -25,3 +25,5 @@
 - pkg:maven/com.metamap/android-sdk@3.26.0?classifier=sources
 - pkg:maven/com.metamap/android-sdk@3.26.1?classifier=sources
 - pkg:maven/com.metamap/android-sdk@3.27.0?classifier=sources
+- pkg:maven/com.metamap/android-sdk@3.28.0?classifier=sources
+- pkg:maven/com.metamap/android-sdk@3.29.0?classifier=sources

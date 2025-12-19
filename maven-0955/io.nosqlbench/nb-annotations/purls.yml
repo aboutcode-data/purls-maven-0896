@@ -242,3 +242,5 @@
 - pkg:maven/io.nosqlbench/nb-annotations@4.17.31?classifier=sources
 - pkg:maven/io.nosqlbench/nb-annotations@4.17.32
 - pkg:maven/io.nosqlbench/nb-annotations@4.17.32?classifier=sources
+- pkg:maven/io.nosqlbench/nb-annotations@5.17.0
+- pkg:maven/io.nosqlbench/nb-annotations@5.17.0?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.mobius-software.cluster/timers@8.0.0-32?classifier=sources
 - pkg:maven/com.mobius-software.cluster/timers@8.0.0-33
 - pkg:maven/com.mobius-software.cluster/timers@8.0.0-33?classifier=sources
+- pkg:maven/com.mobius-software.cluster/timers@8.0.0-35
+- pkg:maven/com.mobius-software.cluster/timers@8.0.0-35?classifier=sources

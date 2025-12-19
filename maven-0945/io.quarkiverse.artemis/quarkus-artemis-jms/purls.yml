@@ -40,3 +40,5 @@
 - pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms@3.0.0.Alpha3?classifier=sources
 - pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms@3.0.0.Alpha4
 - pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms@3.0.0.Alpha4?classifier=sources
+- pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms@3.0.0.Alpha5
+- pkg:maven/io.quarkiverse.artemis/quarkus-artemis-jms@3.0.0.Alpha5?classifier=sources

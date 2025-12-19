@@ -52,3 +52,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-gradle-plugin@3.1.4?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-gradle-plugin@3.1.5?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-contract-gradle-plugin@4.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-contract-gradle-plugin@4.0.1?classifier=sources

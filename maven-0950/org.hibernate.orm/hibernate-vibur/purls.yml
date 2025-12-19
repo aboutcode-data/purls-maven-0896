@@ -29,4 +29,6 @@
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.1.4.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.1.5.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.1.6.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.1.7.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.0.CR1?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.0.CR2?classifier=sources

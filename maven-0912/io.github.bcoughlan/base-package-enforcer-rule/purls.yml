@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bcoughlan/base-package-enforcer-rule@1.0.0
+- pkg:maven/io.github.bcoughlan/base-package-enforcer-rule@1.0.0?classifier=sources

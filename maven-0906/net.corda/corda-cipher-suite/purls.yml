@@ -1,5 +1,7 @@
 - pkg:maven/net.corda/corda-cipher-suite@5.0.0.0-Fox1.0
 - pkg:maven/net.corda/corda-cipher-suite@5.0.0.0-Fox1.0?classifier=sources
+- pkg:maven/net.corda/corda-cipher-suite@5.0.0.0-Fox1.1
+- pkg:maven/net.corda/corda-cipher-suite@5.0.0.0-Fox1.1?classifier=sources
 - pkg:maven/net.corda/corda-cipher-suite@5.0.0.190-DevPreview-2
 - pkg:maven/net.corda/corda-cipher-suite@5.0.0.190-DevPreview-2?classifier=sources
 - pkg:maven/net.corda/corda-cipher-suite@5.0.0.435-Eagle

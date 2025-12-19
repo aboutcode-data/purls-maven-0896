@@ -102,6 +102,8 @@
 - pkg:maven/org.grails/grails-web-taglib@3.2.9?classifier=sources
 - pkg:maven/org.grails/grails-web-taglib@4.0.3
 - pkg:maven/org.grails/grails-web-taglib@4.0.3?classifier=sources
+- pkg:maven/org.grails/grails-web-taglib@4.0.4
+- pkg:maven/org.grails/grails-web-taglib@4.0.4?classifier=sources
 - pkg:maven/org.grails/grails-web-taglib@5.0.0-RC3?classifier=sources
 - pkg:maven/org.grails/grails-web-taglib@5.0.0-RC4?classifier=sources
 - pkg:maven/org.grails/grails-web-taglib@5.0.0.M1?classifier=sources
@@ -113,3 +115,4 @@
 - pkg:maven/org.grails/grails-web-taglib@5.1.0?classifier=sources
 - pkg:maven/org.grails/grails-web-taglib@5.2.0?classifier=sources
 - pkg:maven/org.grails/grails-web-taglib@5.2.1?classifier=sources
+- pkg:maven/org.grails/grails-web-taglib@5.2.2?classifier=sources

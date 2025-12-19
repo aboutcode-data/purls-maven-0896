@@ -12,6 +12,8 @@
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.15?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.16
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.16?classifier=sources
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.17
+- pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.17?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.7
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.7?classifier=sources
 - pkg:maven/ch.codeblock.qrinvoice.pdfbox/qrinvoice-pdfbox@1.8

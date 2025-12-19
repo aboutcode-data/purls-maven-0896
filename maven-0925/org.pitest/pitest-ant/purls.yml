@@ -50,6 +50,8 @@
 - pkg:maven/org.pitest/pitest-ant@1.10.3?classifier=sources
 - pkg:maven/org.pitest/pitest-ant@1.10.4
 - pkg:maven/org.pitest/pitest-ant@1.10.4?classifier=sources
+- pkg:maven/org.pitest/pitest-ant@1.11.0
+- pkg:maven/org.pitest/pitest-ant@1.11.0?classifier=sources
 - pkg:maven/org.pitest/pitest-ant@1.2.0
 - pkg:maven/org.pitest/pitest-ant@1.2.0?classifier=sources
 - pkg:maven/org.pitest/pitest-ant@1.2.1

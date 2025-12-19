@@ -1,3 +1,10 @@
+- pkg:maven/org.lucee/mssql@10.2.3.jre11
+- pkg:maven/org.lucee/mssql@10.2.3.jre8
+- pkg:maven/org.lucee/mssql@11.2.3.jre11
+- pkg:maven/org.lucee/mssql@11.2.3.jre8
+- pkg:maven/org.lucee/mssql@12.2.0.jre11
+- pkg:maven/org.lucee/mssql@12.2.0.jre8
 - pkg:maven/org.lucee/mssql@7.2.0.0
 - pkg:maven/org.lucee/mssql@7.2.1.0
 - pkg:maven/org.lucee/mssql@9.4.1.jre16
+- pkg:maven/org.lucee/mssql@9.4.1.jre8

@@ -3,4 +3,12 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.10.2?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.10.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.10.4?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.10.5?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.10.6?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.10.7?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.11.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.11.1?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.12.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.12.1?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.13.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@3.13.1?classifier=sources

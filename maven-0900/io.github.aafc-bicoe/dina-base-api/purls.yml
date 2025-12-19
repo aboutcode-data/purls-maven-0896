@@ -1,5 +1,9 @@
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.100
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.100?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.101
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.101?classifier=sources
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.102
+- pkg:maven/io.github.aafc-bicoe/dina-base-api@0.102?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.49
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.49?classifier=sources
 - pkg:maven/io.github.aafc-bicoe/dina-base-api@0.50

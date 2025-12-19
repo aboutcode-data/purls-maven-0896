@@ -287,3 +287,5 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@7.2.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@7.2.9
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.node@7.2.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@8.0.0
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.node@8.0.0?classifier=sources

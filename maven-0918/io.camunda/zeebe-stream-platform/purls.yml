@@ -2,3 +2,5 @@
 - pkg:maven/io.camunda/zeebe-stream-platform@8.2.0-alpha2?classifier=sources
 - pkg:maven/io.camunda/zeebe-stream-platform@8.2.0-alpha3
 - pkg:maven/io.camunda/zeebe-stream-platform@8.2.0-alpha3?classifier=sources
+- pkg:maven/io.camunda/zeebe-stream-platform@8.2.0-alpha4
+- pkg:maven/io.camunda/zeebe-stream-platform@8.2.0-alpha4?classifier=sources

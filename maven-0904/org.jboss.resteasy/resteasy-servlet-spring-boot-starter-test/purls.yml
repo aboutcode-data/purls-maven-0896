@@ -2,3 +2,4 @@
 - pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-starter-test@6.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-starter-test@6.0.0.Beta2
 - pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-starter-test@6.0.0.Final
+- pkg:maven/org.jboss.resteasy/resteasy-servlet-spring-boot-starter-test@6.0.1.Final

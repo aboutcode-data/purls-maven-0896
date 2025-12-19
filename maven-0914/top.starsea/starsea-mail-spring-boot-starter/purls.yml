@@ -1,0 +1,4 @@
+- pkg:maven/top.starsea/starsea-mail-spring-boot-starter@1.1?classifier=sources
+- pkg:maven/top.starsea/starsea-mail-spring-boot-starter@2.1.2?classifier=sources
+- pkg:maven/top.starsea/starsea-mail-spring-boot-starter@3.0.0?classifier=sources
+- pkg:maven/top.starsea/starsea-mail-spring-boot-starter@3.0.1?classifier=sources

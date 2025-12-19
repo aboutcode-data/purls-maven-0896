@@ -1,1 +1,4 @@
 - pkg:maven/com.pulumi/vsphere@4.4.0-alpha.1668632155%2Bd533ab43?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.4.0-alpha.1673556417%2B39abf701?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.4.0-alpha.1675060917%2B54a53e26?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.4.0-alpha.1675064470%2B9d57c204?classifier=sources

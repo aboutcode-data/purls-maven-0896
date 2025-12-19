@@ -101,6 +101,10 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.11-RC1
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.11-RC1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.11?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.12
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.12-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.12-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.12?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@2.7.2-RC1
@@ -186,3 +190,5 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@4.0.0-RC2
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@4.0.0-RC2?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@4.0.0?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@4.0.1-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.moxy@4.0.1-RC1?classifier=sources

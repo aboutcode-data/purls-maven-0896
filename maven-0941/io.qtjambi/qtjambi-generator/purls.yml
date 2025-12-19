@@ -1,3 +1,6 @@
 - pkg:maven/io.qtjambi/qtjambi-generator@5.15.12?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-generator@5.15.13?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-generator@6.2.10?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-generator@6.2.11?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-generator@6.4.2?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-generator@6.4.3?classifier=sources

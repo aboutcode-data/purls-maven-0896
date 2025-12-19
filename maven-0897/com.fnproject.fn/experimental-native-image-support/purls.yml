@@ -74,3 +74,9 @@
 - pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.161?classifier=sources
 - pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.162
 - pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.162?classifier=sources
+- pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.163
+- pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.163?classifier=sources
+- pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.164
+- pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.164?classifier=sources
+- pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.165
+- pkg:maven/com.fnproject.fn/experimental-native-image-support@1.0.165?classifier=sources

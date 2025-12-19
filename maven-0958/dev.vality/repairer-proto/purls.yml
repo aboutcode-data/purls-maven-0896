@@ -14,3 +14,5 @@
 - pkg:maven/dev.vality/repairer-proto@1.7-df9f11d?classifier=sources
 - pkg:maven/dev.vality/repairer-proto@1.8-7df4489
 - pkg:maven/dev.vality/repairer-proto@1.8-7df4489?classifier=sources
+- pkg:maven/dev.vality/repairer-proto@1.9-8f7973d
+- pkg:maven/dev.vality/repairer-proto@1.9-8f7973d?classifier=sources

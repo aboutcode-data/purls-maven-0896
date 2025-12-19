@@ -83,6 +83,7 @@
 - pkg:maven/au.com.dius.pact.provider/lein@4.3.16?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.3.17?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.3.18?classifier=sources
+- pkg:maven/au.com.dius.pact.provider/lein@4.3.19?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.3.1?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.3.2?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.3.3?classifier=sources
@@ -105,4 +106,6 @@
 - pkg:maven/au.com.dius.pact.provider/lein@4.4.1?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.4.2?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.4.3?classifier=sources
+- pkg:maven/au.com.dius.pact.provider/lein@4.4.4?classifier=sources
+- pkg:maven/au.com.dius.pact.provider/lein@4.4.5?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.5.0-beta.0?classifier=sources

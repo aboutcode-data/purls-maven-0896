@@ -12,6 +12,8 @@
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@2.0.6?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@2.0.7
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@2.0.7?classifier=sources
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@2.0.8
+- pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@2.0.8?classifier=sources
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@3.0.0
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@3.0.0-alpha
 - pkg:maven/org.apache.dolphinscheduler/dolphinscheduler-datasource-db2@3.0.0-alpha?classifier=sources

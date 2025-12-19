@@ -78,6 +78,8 @@
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.5.1?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.6.0
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.6.0?classifier=sources
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.7.1
+- pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@3.7.1?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@4.0.0-beta.1
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@4.0.0-beta.1?classifier=sources
 - pkg:maven/de.hu-berlin.german.korpling.annis/annis-libgui@4.0.0-beta.2

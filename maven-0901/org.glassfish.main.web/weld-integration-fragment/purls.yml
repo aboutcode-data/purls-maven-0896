@@ -40,3 +40,4 @@
 - pkg:maven/org.glassfish.main.web/weld-integration-fragment@7.0.0-M3?classifier=sources
 - pkg:maven/org.glassfish.main.web/weld-integration-fragment@7.0.0-M4?classifier=sources
 - pkg:maven/org.glassfish.main.web/weld-integration-fragment@7.0.0?classifier=sources
+- pkg:maven/org.glassfish.main.web/weld-integration-fragment@7.0.1?classifier=sources

@@ -30,6 +30,12 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.3?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.4
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.4?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.5
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.5?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.6
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.6?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.7
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.4.7?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-01c4a03
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-01c4a03?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-01f5b3a
@@ -46,3 +52,13 @@
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-6581dc4?classifier=sources
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-9ba870f
 - pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-9ba870f?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-be6325d
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-be6325d?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-e3fbc49
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-e3fbc49?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-e4f2b71
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5-e4f2b71?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC1
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC1?classifier=sources
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC2
+- pkg:maven/org.typelevel/cats-effect-kernel-testkit_native0.4_3@3.5.0-RC2?classifier=sources

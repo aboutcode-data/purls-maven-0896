@@ -2,3 +2,5 @@
 - pkg:maven/com.thesamet.scalapb/protobuf-runtime-scala_sjs1_3@0.8.12?classifier=sources
 - pkg:maven/com.thesamet.scalapb/protobuf-runtime-scala_sjs1_3@0.8.13
 - pkg:maven/com.thesamet.scalapb/protobuf-runtime-scala_sjs1_3@0.8.13?classifier=sources
+- pkg:maven/com.thesamet.scalapb/protobuf-runtime-scala_sjs1_3@0.8.14
+- pkg:maven/com.thesamet.scalapb/protobuf-runtime-scala_sjs1_3@0.8.14?classifier=sources

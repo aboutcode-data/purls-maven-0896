@@ -40,3 +40,5 @@
 - pkg:maven/org.spf4j/spf4j-jaxrs-avro-sql@2.1.39?classifier=sources
 - pkg:maven/org.spf4j/spf4j-jaxrs-avro-sql@2.1.40
 - pkg:maven/org.spf4j/spf4j-jaxrs-avro-sql@2.1.40?classifier=sources
+- pkg:maven/org.spf4j/spf4j-jaxrs-avro-sql@2.1.41
+- pkg:maven/org.spf4j/spf4j-jaxrs-avro-sql@2.1.41?classifier=sources

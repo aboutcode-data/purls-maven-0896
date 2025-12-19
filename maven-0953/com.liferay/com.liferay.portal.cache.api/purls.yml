@@ -37,6 +37,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@1.2.2
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@1.2.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@1.2.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@10.0.0
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@10.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@10.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@11.0.0
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@11.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@11.0.0?classifier=sources-commercial
@@ -142,3 +145,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.cache.api@5.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@6.0.0
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@6.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@7.0.0
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@7.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@8.0.0
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@8.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@9.0.0
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.cache.api@9.0.0?classifier=sources-commercial

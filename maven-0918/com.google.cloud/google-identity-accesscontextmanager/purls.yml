@@ -1,3 +1,7 @@
+- pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.10.0
+- pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.10.0?classifier=sources
+- pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.11.0
+- pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.11.0?classifier=sources
 - pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.2.0
 - pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.2.0?classifier=sources
 - pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.2.1
@@ -42,3 +46,5 @@
 - pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.8.0
 - pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.8.0?classifier=sources
+- pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.9.0
+- pkg:maven/com.google.cloud/google-identity-accesscontextmanager@1.9.0?classifier=sources

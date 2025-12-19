@@ -13,3 +13,7 @@
 - pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@0.7.0?classifier=sources
 - pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@0.8.0
 - pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@0.8.0?classifier=sources
+- pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@1.0.0
+- pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@1.0.0?classifier=sources
+- pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@2.0.0
+- pkg:maven/fish.payara.cloud.connectors.amazonsqs/amazon-sqs-jca-api@2.0.0?classifier=sources

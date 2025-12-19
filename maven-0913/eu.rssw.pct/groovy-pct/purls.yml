@@ -6,3 +6,5 @@
 - pkg:maven/eu.rssw.pct/groovy-pct@223?classifier=sources
 - pkg:maven/eu.rssw.pct/groovy-pct@224
 - pkg:maven/eu.rssw.pct/groovy-pct@224?classifier=sources
+- pkg:maven/eu.rssw.pct/groovy-pct@225
+- pkg:maven/eu.rssw.pct/groovy-pct@225?classifier=sources

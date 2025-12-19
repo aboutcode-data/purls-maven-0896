@@ -107,6 +107,10 @@
 - pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.44?classifier=sources
 - pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.45
 - pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.45?classifier=sources
+- pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.46
+- pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.46?classifier=sources
+- pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.47
+- pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.47?classifier=sources
 - pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.4?classifier=sources
 - pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.6
 - pkg:maven/io.github.d2a4u/meteor-scanamo_2.13@1.0.6?classifier=sources

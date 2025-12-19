@@ -1,0 +1,4 @@
+- pkg:maven/io.github.tdxtxt/socialCore_beta@0.0.1-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/socialCore_beta@0.0.1-release?type=aar
+- pkg:maven/io.github.tdxtxt/socialCore_beta@0.0.2-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/socialCore_beta@0.0.2-release?type=aar

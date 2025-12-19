@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.streampipes/streampipes-messaging-nats@0.90.0
+- pkg:maven/org.apache.streampipes/streampipes-messaging-nats@0.90.0?classifier=sources

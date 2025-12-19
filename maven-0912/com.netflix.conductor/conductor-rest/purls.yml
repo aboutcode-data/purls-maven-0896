@@ -22,6 +22,7 @@
 - pkg:maven/com.netflix.conductor/conductor-rest@3.13.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-rest@3.13.1?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-rest@3.13.2?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-rest@3.13.3?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-rest@3.2.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-rest@3.2.1?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-rest@3.3.0?classifier=sources

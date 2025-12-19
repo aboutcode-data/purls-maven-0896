@@ -20,6 +20,7 @@
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@1.6.0
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@10.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@10.0.0-beta
+- pkg:maven/com.okta.sdk/okta-sdk-integration-tests@10.1.0
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@2.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@2.0.1
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@3.0.0
@@ -38,4 +39,5 @@
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@8.2.0
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@8.2.1
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@8.2.2
+- pkg:maven/com.okta.sdk/okta-sdk-integration-tests@8.2.3
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@9.0.0-beta

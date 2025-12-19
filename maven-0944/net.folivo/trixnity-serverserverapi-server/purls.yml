@@ -22,3 +22,6 @@
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@3.0.0-beta3?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@3.0.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@3.1.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-server@3.2.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-server@3.3.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-server@3.3.1?classifier=sources

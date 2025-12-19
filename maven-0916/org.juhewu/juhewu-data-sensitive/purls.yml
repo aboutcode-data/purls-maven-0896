@@ -1,2 +1,4 @@
+- pkg:maven/org.juhewu/juhewu-data-sensitive@1.0.0
 - pkg:maven/org.juhewu/juhewu-data-sensitive@1.0.0-SNAPSHOTS
 - pkg:maven/org.juhewu/juhewu-data-sensitive@1.0.0-SNAPSHOTS?classifier=sources
+- pkg:maven/org.juhewu/juhewu-data-sensitive@1.0.0?classifier=sources

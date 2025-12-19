@@ -4,3 +4,5 @@
 - pkg:maven/io.github.scala-ts/scala-ts-core_3@0.5.14?classifier=sources
 - pkg:maven/io.github.scala-ts/scala-ts-core_3@0.5.15
 - pkg:maven/io.github.scala-ts/scala-ts-core_3@0.5.15?classifier=sources
+- pkg:maven/io.github.scala-ts/scala-ts-core_3@0.5.16
+- pkg:maven/io.github.scala-ts/scala-ts-core_3@0.5.16?classifier=sources

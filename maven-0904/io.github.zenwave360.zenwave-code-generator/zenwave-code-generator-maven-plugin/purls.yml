@@ -1,2 +1,14 @@
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.10
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.10?classifier=sources
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.11
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.11?classifier=sources
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.12
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.12?classifier=sources
 - pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.7
 - pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.7?classifier=sources
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.8
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.8?classifier=sources
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.9
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@0.9.9?classifier=sources
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@1.0.0.RC1
+- pkg:maven/io.github.zenwave360.zenwave-code-generator/zenwave-code-generator-maven-plugin@1.0.0.RC1?classifier=sources

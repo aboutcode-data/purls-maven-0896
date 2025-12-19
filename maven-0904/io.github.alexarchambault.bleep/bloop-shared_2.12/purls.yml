@@ -40,3 +40,5 @@
 - pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.5.6-sc-1?classifier=sources
 - pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.5.6-sc-2
 - pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.5.6-sc-2?classifier=sources
+- pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.5.6-sc-3
+- pkg:maven/io.github.alexarchambault.bleep/bloop-shared_2.12@1.5.6-sc-3?classifier=sources

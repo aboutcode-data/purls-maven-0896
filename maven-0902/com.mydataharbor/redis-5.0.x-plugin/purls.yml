@@ -1,2 +1,6 @@
 - pkg:maven/com.mydataharbor/redis-5.0.x-plugin@1.1.0
 - pkg:maven/com.mydataharbor/redis-5.0.x-plugin@1.1.0?classifier=sources
+- pkg:maven/com.mydataharbor/redis-5.0.x-plugin@2.0.0
+- pkg:maven/com.mydataharbor/redis-5.0.x-plugin@2.0.0?classifier=sources
+- pkg:maven/com.mydataharbor/redis-5.0.x-plugin@2.0.1
+- pkg:maven/com.mydataharbor/redis-5.0.x-plugin@2.0.1?classifier=sources

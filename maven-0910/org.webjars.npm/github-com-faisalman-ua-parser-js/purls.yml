@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/github-com-faisalman-ua-parser-js@0.7.18
 - pkg:maven/org.webjars.npm/github-com-faisalman-ua-parser-js@0.7.18?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-faisalman-ua-parser-js@0.7.33
+- pkg:maven/org.webjars.npm/github-com-faisalman-ua-parser-js@0.7.33?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-faisalman-ua-parser-js@1.0.33
+- pkg:maven/org.webjars.npm/github-com-faisalman-ua-parser-js@1.0.33?classifier=sources

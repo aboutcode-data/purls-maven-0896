@@ -370,3 +370,9 @@
 - pkg:maven/com.actelion.research/openchemlib@2022.9.2?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2022.9.3
 - pkg:maven/com.actelion.research/openchemlib@2022.9.3?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2023.1.0
+- pkg:maven/com.actelion.research/openchemlib@2023.1.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2023.1.1
+- pkg:maven/com.actelion.research/openchemlib@2023.1.1?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2023.2.0
+- pkg:maven/com.actelion.research/openchemlib@2023.2.0?classifier=sources

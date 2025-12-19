@@ -8,6 +8,8 @@
 - pkg:maven/org.beangle.commons/beangle-commons-web@3.0.2?classifier=sources
 - pkg:maven/org.beangle.commons/beangle-commons-web@3.1.0
 - pkg:maven/org.beangle.commons/beangle-commons-web@3.1.0?classifier=sources
+- pkg:maven/org.beangle.commons/beangle-commons-web@3.10.0
+- pkg:maven/org.beangle.commons/beangle-commons-web@3.10.0?classifier=sources
 - pkg:maven/org.beangle.commons/beangle-commons-web@3.2.0
 - pkg:maven/org.beangle.commons/beangle-commons-web@3.2.0?classifier=sources
 - pkg:maven/org.beangle.commons/beangle-commons-web@3.3.0

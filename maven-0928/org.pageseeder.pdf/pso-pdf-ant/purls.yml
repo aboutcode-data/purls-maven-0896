@@ -2,3 +2,4 @@
 - pkg:maven/org.pageseeder.pdf/pso-pdf-ant@0.4.14?classifier=sources
 - pkg:maven/org.pageseeder.pdf/pso-pdf-ant@0.4.15?classifier=sources
 - pkg:maven/org.pageseeder.pdf/pso-pdf-ant@1.0.0?classifier=sources
+- pkg:maven/org.pageseeder.pdf/pso-pdf-ant@1.0.1?classifier=sources

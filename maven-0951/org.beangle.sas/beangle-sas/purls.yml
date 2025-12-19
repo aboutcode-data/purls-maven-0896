@@ -9,6 +9,8 @@
 - pkg:maven/org.beangle.sas/beangle-sas@0.11.1?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas@0.11.2?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas@0.12.0?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas@0.12.1?classifier=sources
+- pkg:maven/org.beangle.sas/beangle-sas@0.12.2?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas@0.3.0?classifier=sources
 - pkg:maven/org.beangle.sas/beangle-sas@0.3.0?type=zip
 - pkg:maven/org.beangle.sas/beangle-sas@0.3.1?classifier=sources

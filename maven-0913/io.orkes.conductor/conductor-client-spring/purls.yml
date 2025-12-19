@@ -1,2 +1,4 @@
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.7.3-a?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.0-orkes-g?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.0-orkes-h?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.0-orkes-j?classifier=sources

@@ -51,6 +51,12 @@
 - pkg:maven/com.contentful.java/java-sdk@10.5.0
 - pkg:maven/com.contentful.java/java-sdk@10.5.0?classifier=sources
 - pkg:maven/com.contentful.java/java-sdk@10.5.1
+- pkg:maven/com.contentful.java/java-sdk@10.5.10
+- pkg:maven/com.contentful.java/java-sdk@10.5.10?classifier=sources
+- pkg:maven/com.contentful.java/java-sdk@10.5.11
+- pkg:maven/com.contentful.java/java-sdk@10.5.11?classifier=sources
+- pkg:maven/com.contentful.java/java-sdk@10.5.12
+- pkg:maven/com.contentful.java/java-sdk@10.5.12?classifier=sources
 - pkg:maven/com.contentful.java/java-sdk@10.5.1?classifier=sources
 - pkg:maven/com.contentful.java/java-sdk@10.5.2
 - pkg:maven/com.contentful.java/java-sdk@10.5.2?classifier=sources

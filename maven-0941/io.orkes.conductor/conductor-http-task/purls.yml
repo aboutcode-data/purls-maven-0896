@@ -1,1 +1,3 @@
 - pkg:maven/io.orkes.conductor/conductor-http-task@3.9.0-orkes-g?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-http-task@3.9.0-orkes-h?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-http-task@3.9.0-orkes-j?classifier=sources

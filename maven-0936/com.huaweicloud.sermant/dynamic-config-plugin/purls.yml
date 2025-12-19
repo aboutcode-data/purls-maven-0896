@@ -48,3 +48,5 @@
 - pkg:maven/com.huaweicloud.sermant/dynamic-config-plugin@0.9.0?classifier=sources
 - pkg:maven/com.huaweicloud.sermant/dynamic-config-plugin@1.0.0
 - pkg:maven/com.huaweicloud.sermant/dynamic-config-plugin@1.0.0?classifier=sources
+- pkg:maven/com.huaweicloud.sermant/dynamic-config-plugin@1.0.1
+- pkg:maven/com.huaweicloud.sermant/dynamic-config-plugin@1.0.1?classifier=sources

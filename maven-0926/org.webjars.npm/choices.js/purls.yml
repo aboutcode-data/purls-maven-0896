@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/choices.js@10.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/choices.js@10.1.0
 - pkg:maven/org.webjars.npm/choices.js@10.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/choices.js@10.2.0
+- pkg:maven/org.webjars.npm/choices.js@10.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/choices.js@3.0.4
 - pkg:maven/org.webjars.npm/choices.js@3.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/choices.js@4.1.3

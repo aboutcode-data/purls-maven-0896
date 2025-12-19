@@ -112,5 +112,7 @@
 - pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.3.18?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.3.19
 - pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.3.19?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.3.27
+- pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.3.27?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.3.7
 - pkg:maven/org.wso2.carbon.messaging/org.wso2.carbon.andes.cluster.mgt@3.3.7?classifier=source-release&type=zip

@@ -20,3 +20,9 @@
 - pkg:maven/com.bigossp/ironsource-mediation@2.5.0.0?type=aar
 - pkg:maven/com.bigossp/ironsource-mediation@2.5.1.0?classifier=sources
 - pkg:maven/com.bigossp/ironsource-mediation@2.5.1.0?type=aar
+- pkg:maven/com.bigossp/ironsource-mediation@2.5.2.0?classifier=sources
+- pkg:maven/com.bigossp/ironsource-mediation@2.5.2.0?type=aar
+- pkg:maven/com.bigossp/ironsource-mediation@2.6.2.0?classifier=sources
+- pkg:maven/com.bigossp/ironsource-mediation@2.6.2.0?type=aar
+- pkg:maven/com.bigossp/ironsource-mediation@2.7.0.0?classifier=sources
+- pkg:maven/com.bigossp/ironsource-mediation@2.7.0.0?type=aar

@@ -217,3 +217,4 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.2.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.3.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.4.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.5.0?classifier=sources

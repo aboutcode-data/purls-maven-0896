@@ -1,4 +1,14 @@
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.10
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.10?classifier=sources
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.11
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.11?classifier=sources
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.12
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.12?classifier=sources
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.13
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.13?classifier=sources
 - pkg:maven/com.gitee.kamismile/stone-common@1.1.6
 - pkg:maven/com.gitee.kamismile/stone-common@1.1.6?classifier=sources
 - pkg:maven/com.gitee.kamismile/stone-common@1.1.8
 - pkg:maven/com.gitee.kamismile/stone-common@1.1.8?classifier=sources
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.9
+- pkg:maven/com.gitee.kamismile/stone-common@1.1.9?classifier=sources

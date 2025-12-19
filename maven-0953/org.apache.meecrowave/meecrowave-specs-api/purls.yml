@@ -8,6 +8,8 @@
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.13?classifier=sources
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.14
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.14?classifier=sources
+- pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.15
+- pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.15?classifier=sources
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.2
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.2?classifier=sources
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.3

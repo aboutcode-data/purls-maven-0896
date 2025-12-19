@@ -8,3 +8,4 @@
 - pkg:maven/org.rodnansol/openapi-extender-resource-generator@0.2.0?classifier=sources
 - pkg:maven/org.rodnansol/openapi-extender-resource-generator@0.3.0
 - pkg:maven/org.rodnansol/openapi-extender-resource-generator@0.3.0?classifier=sources
+- pkg:maven/org.rodnansol/openapi-extender-resource-generator@0.3.1?classifier=sources

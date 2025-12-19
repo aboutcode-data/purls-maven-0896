@@ -1,2 +1,4 @@
 - pkg:maven/com.github.shijingsh/pay-java-wx@2.14.3
 - pkg:maven/com.github.shijingsh/pay-java-wx@2.14.3?classifier=sources
+- pkg:maven/com.github.shijingsh/pay-java-wx@2.14.4
+- pkg:maven/com.github.shijingsh/pay-java-wx@2.14.4?classifier=sources

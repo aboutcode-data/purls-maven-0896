@@ -32,3 +32,7 @@
 - pkg:maven/io.github.liewhite/config_3@0.17.5?classifier=sources
 - pkg:maven/io.github.liewhite/config_3@1.0.0
 - pkg:maven/io.github.liewhite/config_3@1.0.0?classifier=sources
+- pkg:maven/io.github.liewhite/config_3@2.0.0
+- pkg:maven/io.github.liewhite/config_3@2.0.0?classifier=sources
+- pkg:maven/io.github.liewhite/config_3@2.0.2
+- pkg:maven/io.github.liewhite/config_3@2.0.2?classifier=sources

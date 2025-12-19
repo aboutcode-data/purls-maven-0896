@@ -23,4 +23,7 @@
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.35?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.36?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.37?classifier=sources
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.38?classifier=sources
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.39?classifier=sources
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.40?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.8?classifier=sources

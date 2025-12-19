@@ -12,3 +12,5 @@
 - pkg:maven/com.helger.xsd/ph-xsds-wsaddr@2.5.0?classifier=sources
 - pkg:maven/com.helger.xsd/ph-xsds-wsaddr@2.6.0
 - pkg:maven/com.helger.xsd/ph-xsds-wsaddr@2.6.0?classifier=sources
+- pkg:maven/com.helger.xsd/ph-xsds-wsaddr@3.0.0
+- pkg:maven/com.helger.xsd/ph-xsds-wsaddr@3.0.0?classifier=sources

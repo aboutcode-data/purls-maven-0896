@@ -16,3 +16,5 @@
 - pkg:maven/com.codenameone/coderad-annotation-processor@2.0.3?classifier=sources
 - pkg:maven/com.codenameone/coderad-annotation-processor@2.0.4
 - pkg:maven/com.codenameone/coderad-annotation-processor@2.0.4?classifier=sources
+- pkg:maven/com.codenameone/coderad-annotation-processor@2.0.5
+- pkg:maven/com.codenameone/coderad-annotation-processor@2.0.5?classifier=sources

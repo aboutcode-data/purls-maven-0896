@@ -12,5 +12,7 @@
 - pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.15?classifier=sources
 - pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.16
 - pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.16?classifier=sources
+- pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.17
+- pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.17?classifier=sources
 - pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.9
 - pkg:maven/com.runsidekick/sidekick-event-history-helper@0.0.9?classifier=sources

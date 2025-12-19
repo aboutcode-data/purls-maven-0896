@@ -4,3 +4,5 @@
 - pkg:maven/com.manorrock.herring/herring-thread@21.11.0?classifier=sources
 - pkg:maven/com.manorrock.herring/herring-thread@21.9.1
 - pkg:maven/com.manorrock.herring/herring-thread@21.9.1?classifier=sources
+- pkg:maven/com.manorrock.herring/herring-thread@23.1.0
+- pkg:maven/com.manorrock.herring/herring-thread@23.1.0?classifier=sources

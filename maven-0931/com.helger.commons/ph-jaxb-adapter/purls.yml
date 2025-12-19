@@ -26,3 +26,5 @@
 - pkg:maven/com.helger.commons/ph-jaxb-adapter@10.2.2?classifier=sources
 - pkg:maven/com.helger.commons/ph-jaxb-adapter@11.0.0
 - pkg:maven/com.helger.commons/ph-jaxb-adapter@11.0.0?classifier=sources
+- pkg:maven/com.helger.commons/ph-jaxb-adapter@11.0.1
+- pkg:maven/com.helger.commons/ph-jaxb-adapter@11.0.1?classifier=sources

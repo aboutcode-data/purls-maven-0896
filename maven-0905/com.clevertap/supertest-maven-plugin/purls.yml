@@ -1,5 +1,6 @@
 - pkg:maven/com.clevertap/supertest-maven-plugin@1.10
 - pkg:maven/com.clevertap/supertest-maven-plugin@1.11
+- pkg:maven/com.clevertap/supertest-maven-plugin@1.12
 - pkg:maven/com.clevertap/supertest-maven-plugin@1.6
 - pkg:maven/com.clevertap/supertest-maven-plugin@1.7
 - pkg:maven/com.clevertap/supertest-maven-plugin@1.8

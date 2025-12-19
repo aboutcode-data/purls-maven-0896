@@ -320,3 +320,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@7.0.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@7.1.0
 - pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@7.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@7.1.1
+- pkg:maven/org.eclipse.dirigible/dirigible-anonymous-all@7.1.1?classifier=sources

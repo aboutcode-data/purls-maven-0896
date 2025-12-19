@@ -74,6 +74,8 @@
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.20.7?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.20.8
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.20.8?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.20.9
+- pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.20.9?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.3.0
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.3.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.perfs/cdc-perfs-ui@0.4.0

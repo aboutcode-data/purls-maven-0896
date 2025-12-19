@@ -74,3 +74,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-function-kotlin@3.2.8?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-function-kotlin@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-function-kotlin@4.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-function-kotlin@4.0.1
+- pkg:maven/org.springframework.cloud/spring-cloud-function-kotlin@4.0.1?classifier=sources

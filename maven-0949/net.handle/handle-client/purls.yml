@@ -2,3 +2,5 @@
 - pkg:maven/net.handle/handle-client@9.2.0?classifier=sources
 - pkg:maven/net.handle/handle-client@9.3.0
 - pkg:maven/net.handle/handle-client@9.3.0?classifier=sources
+- pkg:maven/net.handle/handle-client@9.3.1
+- pkg:maven/net.handle/handle-client@9.3.1?classifier=sources

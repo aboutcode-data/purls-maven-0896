@@ -149,5 +149,7 @@
 - pkg:maven/org.springframework.boot/spring-boot-properties-migrator@2.7.5?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-properties-migrator@2.7.6?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-properties-migrator@2.7.7?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-properties-migrator@2.7.8?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-properties-migrator@3.0.0?classifier=sources
 - pkg:maven/org.springframework.boot/spring-boot-properties-migrator@3.0.1?classifier=sources
+- pkg:maven/org.springframework.boot/spring-boot-properties-migrator@3.0.2?classifier=sources

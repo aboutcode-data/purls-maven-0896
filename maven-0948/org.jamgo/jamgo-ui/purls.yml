@@ -11,3 +11,5 @@
 - pkg:maven/org.jamgo/jamgo-ui@5.0.0?classifier=sources
 - pkg:maven/org.jamgo/jamgo-ui@6.0.0
 - pkg:maven/org.jamgo/jamgo-ui@6.0.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-ui@7.0.0-M1
+- pkg:maven/org.jamgo/jamgo-ui@7.0.0-M1?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/org.smallmind/web-jetty@4.0.0?classifier=sources
 - pkg:maven/org.smallmind/web-jetty@4.1.0
 - pkg:maven/org.smallmind/web-jetty@4.1.0?classifier=sources
+- pkg:maven/org.smallmind/web-jetty@4.10.0
+- pkg:maven/org.smallmind/web-jetty@4.10.0?classifier=sources
 - pkg:maven/org.smallmind/web-jetty@4.2.0
 - pkg:maven/org.smallmind/web-jetty@4.2.0?classifier=sources
 - pkg:maven/org.smallmind/web-jetty@4.3.0

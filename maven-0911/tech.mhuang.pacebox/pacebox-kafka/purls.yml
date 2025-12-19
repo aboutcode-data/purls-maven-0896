@@ -22,3 +22,5 @@
 - pkg:maven/tech.mhuang.pacebox/pacebox-kafka@1.0.8-jdk17
 - pkg:maven/tech.mhuang.pacebox/pacebox-kafka@1.0.8-jdk17?classifier=sources
 - pkg:maven/tech.mhuang.pacebox/pacebox-kafka@1.0.8?classifier=sources
+- pkg:maven/tech.mhuang.pacebox/pacebox-kafka@1.0.9-jdk17
+- pkg:maven/tech.mhuang.pacebox/pacebox-kafka@1.0.9-jdk17?classifier=sources

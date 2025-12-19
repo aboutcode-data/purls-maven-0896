@@ -1,5 +1,9 @@
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1-rev20220909-2.0.0
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1-rev20220909-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1-rev20230116-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1-rev20230116-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1-rev20230127-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1-rev20230127-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220427-1.32.1
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220427-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220501-1.32.1
@@ -14,3 +18,7 @@
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220808-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220909-2.0.0
 - pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20220909-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20230116-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20230116-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20230127-2.0.0
+- pkg:maven/com.google.apis/google-api-services-analyticshub@v1beta1-rev20230127-2.0.0?classifier=sources
