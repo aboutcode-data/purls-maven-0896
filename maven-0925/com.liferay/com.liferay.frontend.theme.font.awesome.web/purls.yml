@@ -224,6 +224,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.42
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.42?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.42?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.43
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.43?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@2.0.5
@@ -380,6 +383,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.50
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.50?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.51
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.51?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.51?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.52
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.52?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.52?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.6

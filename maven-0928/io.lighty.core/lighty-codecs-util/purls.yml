@@ -34,6 +34,8 @@
 - pkg:maven/io.lighty.core/lighty-codecs-util@16.2.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@16.3.0
 - pkg:maven/io.lighty.core/lighty-codecs-util@16.3.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-codecs-util@16.4.0
+- pkg:maven/io.lighty.core/lighty-codecs-util@16.4.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@17.0.0
 - pkg:maven/io.lighty.core/lighty-codecs-util@17.0.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@17.1.0
@@ -42,3 +44,5 @@
 - pkg:maven/io.lighty.core/lighty-codecs-util@17.2.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@18.0.0
 - pkg:maven/io.lighty.core/lighty-codecs-util@18.0.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-codecs-util@18.1.0
+- pkg:maven/io.lighty.core/lighty-codecs-util@18.1.0?classifier=sources

@@ -326,6 +326,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.20
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.20?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.21
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.21?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.21?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@7.0.3
@@ -410,6 +413,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.27
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.27?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.27?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.28
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.28?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.28?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.3

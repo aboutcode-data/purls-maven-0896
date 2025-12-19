@@ -22,3 +22,5 @@
 - pkg:maven/com.ttlock/ttlock@3.2.7?classifier=sources
 - pkg:maven/com.ttlock/ttlock@3.2.8?classifier=sources
 - pkg:maven/com.ttlock/ttlock@3.2.9?classifier=sources
+- pkg:maven/com.ttlock/ttlock@3.3.0?classifier=sources
+- pkg:maven/com.ttlock/ttlock@3.3.1?classifier=sources

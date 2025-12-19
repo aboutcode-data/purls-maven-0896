@@ -1,0 +1,4 @@
+- pkg:maven/cn.gmlee.tools/tools-dt@4.20.0
+- pkg:maven/cn.gmlee.tools/tools-dt@4.20.0?classifier=sources
+- pkg:maven/cn.gmlee.tools/tools-dt@5.0.0
+- pkg:maven/cn.gmlee.tools/tools-dt@5.0.0?classifier=sources

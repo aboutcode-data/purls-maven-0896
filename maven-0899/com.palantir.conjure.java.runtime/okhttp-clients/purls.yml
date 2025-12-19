@@ -48,6 +48,10 @@
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.50.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.51.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.52.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.53.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.54.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.55.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.6.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.7.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@7.8.0?classifier=sources

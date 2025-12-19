@@ -212,6 +212,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.28
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.28?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.29
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.29?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@3.0.3
@@ -278,6 +281,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.21
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.21?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.22
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.22?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.headless.commerce.admin.site.setting.client@4.0.3

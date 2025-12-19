@@ -44,3 +44,13 @@
 - pkg:maven/com.smartling.api/smartling-attachments-api@1.5.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-attachments-api@1.6.0
 - pkg:maven/com.smartling.api/smartling-attachments-api@1.6.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.7.0
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.7.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.8.0
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.8.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.8.2
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.8.2?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.8.4
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.8.4?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.9.0
+- pkg:maven/com.smartling.api/smartling-attachments-api@1.9.0?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/io.github.adrianmo/jmeter.backendlistener.azure@0.2.7?classifier=sources
 - pkg:maven/io.github.adrianmo/jmeter.backendlistener.azure@0.2.8
 - pkg:maven/io.github.adrianmo/jmeter.backendlistener.azure@0.2.8?classifier=sources
+- pkg:maven/io.github.adrianmo/jmeter.backendlistener.azure@0.2.9
+- pkg:maven/io.github.adrianmo/jmeter.backendlistener.azure@0.2.9-rc6
+- pkg:maven/io.github.adrianmo/jmeter.backendlistener.azure@0.2.9-rc6?classifier=sources
+- pkg:maven/io.github.adrianmo/jmeter.backendlistener.azure@0.2.9?classifier=sources

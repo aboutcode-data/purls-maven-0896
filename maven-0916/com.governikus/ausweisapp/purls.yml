@@ -42,3 +42,5 @@
 - pkg:maven/com.governikus/ausweisapp@1.26.2?type=aar
 - pkg:maven/com.governikus/ausweisapp@1.26.3?classifier=sources
 - pkg:maven/com.governikus/ausweisapp@1.26.3?type=aar
+- pkg:maven/com.governikus/ausweisapp@1.26.4?classifier=sources
+- pkg:maven/com.governikus/ausweisapp@1.26.4?type=aar

@@ -22,4 +22,5 @@
 - pkg:maven/io.spinnaker.front50/front50-core@2.27.3?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-core@2.28.0?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-core@2.28.1?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@2.28.2?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-core@version-0.27.1?classifier=sources

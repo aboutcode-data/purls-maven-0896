@@ -96,3 +96,9 @@
 - pkg:maven/org.alluxio/alluxio-underfs-kodo@291-beta?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-kodo@291-gamma
 - pkg:maven/org.alluxio/alluxio-underfs-kodo@291-gamma?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-kodo@294
+- pkg:maven/org.alluxio/alluxio-underfs-kodo@294?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-kodo@295
+- pkg:maven/org.alluxio/alluxio-underfs-kodo@295?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-kodo@300
+- pkg:maven/org.alluxio/alluxio-underfs-kodo@300?classifier=sources

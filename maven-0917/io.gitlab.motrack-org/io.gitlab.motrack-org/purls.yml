@@ -1,1 +1,2 @@
 - pkg:maven/io.gitlab.motrack-org/io.gitlab.motrack-org@0.1.1-preAlpha?classifier=sources
+- pkg:maven/io.gitlab.motrack-org/io.gitlab.motrack-org@1.0.0?classifier=sources

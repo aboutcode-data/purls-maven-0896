@@ -51,6 +51,10 @@
 - pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.23.2?classifier=sources
 - pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.23.3
 - pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.23.3?classifier=sources
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.23.5
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.23.5?classifier=sources
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.23.6
+- pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.23.6?classifier=sources
 - pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.3.0
 - pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.3.0?classifier=sources
 - pkg:maven/org.finos.legend.shared/legend-shared-opentracing-jersey@0.4.0

@@ -49,3 +49,4 @@
 - pkg:maven/org.odpi.egeria/generic-handlers@3.9
 - pkg:maven/org.odpi.egeria/generic-handlers@3.9?classifier=sources
 - pkg:maven/org.odpi.egeria/generic-handlers@4.0?classifier=sources
+- pkg:maven/org.odpi.egeria/generic-handlers@4.1?classifier=sources

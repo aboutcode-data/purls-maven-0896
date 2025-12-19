@@ -101,5 +101,11 @@
 - pkg:maven/com.immomo.cosmos/resdownloader@2.2.6.20230329.1037?type=aar
 - pkg:maven/com.immomo.cosmos/resdownloader@2.2.6.20230404.1549?classifier=sources
 - pkg:maven/com.immomo.cosmos/resdownloader@2.2.6.20230404.1549?type=aar
+- pkg:maven/com.immomo.cosmos/resdownloader@2.2.6.20230418.1645?classifier=sources
+- pkg:maven/com.immomo.cosmos/resdownloader@2.2.6.20230418.1645?type=aar
 - pkg:maven/com.immomo.cosmos/resdownloader@2.3.0.20230331.1143?classifier=sources
 - pkg:maven/com.immomo.cosmos/resdownloader@2.3.0.20230331.1143?type=aar
+- pkg:maven/com.immomo.cosmos/resdownloader@2.3.0.20230421.1057?classifier=sources
+- pkg:maven/com.immomo.cosmos/resdownloader@2.3.0.20230421.1057?type=aar
+- pkg:maven/com.immomo.cosmos/resdownloader@2.3.0.20230421.1118?classifier=sources
+- pkg:maven/com.immomo.cosmos/resdownloader@2.3.0.20230421.1118?type=aar

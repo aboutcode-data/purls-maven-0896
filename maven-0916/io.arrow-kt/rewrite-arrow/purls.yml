@@ -2,4 +2,5 @@
 - pkg:maven/io.arrow-kt/rewrite-arrow@1.0.0-RC3?classifier=sources
 - pkg:maven/io.arrow-kt/rewrite-arrow@1.0.0-RC4?classifier=sources
 - pkg:maven/io.arrow-kt/rewrite-arrow@1.0.0-RC5?classifier=sources
+- pkg:maven/io.arrow-kt/rewrite-arrow@1.0.0-RC6?classifier=sources
 - pkg:maven/io.arrow-kt/rewrite-arrow@1.0.0-RC?classifier=sources

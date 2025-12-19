@@ -67,6 +67,9 @@
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.11?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.12?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.13?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.14?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.15?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.16?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.1?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.2?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.3?classifier=sources
@@ -75,6 +78,16 @@
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.7?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.8?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.53.9?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.54.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.55.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.55.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.55.2?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.55.3?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.56.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.57.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.57.1?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.58.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.58.1?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.6.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.7.0?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.toolkit/testkit@0.8.0?classifier=sources

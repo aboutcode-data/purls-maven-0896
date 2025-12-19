@@ -1,0 +1,3 @@
+- pkg:maven/org.projectnessie.nessie/nessie-events-spi@0.59.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-events-spi@0.60.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-events-spi@0.60.1?classifier=sources

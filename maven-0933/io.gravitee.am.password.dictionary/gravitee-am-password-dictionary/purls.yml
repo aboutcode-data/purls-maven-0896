@@ -75,6 +75,10 @@
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.16?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.17
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.17?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.18
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.18?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.19
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.19?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.1?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.2
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.18.2?classifier=sources
@@ -99,6 +103,10 @@
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.1
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.10
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.10?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.11
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.11?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.12
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.12?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.1?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.2
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.19.2?classifier=sources
@@ -128,6 +136,13 @@
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.2?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.3
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.3?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.4
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.4?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.5
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.5?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.6
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.20.6?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0-alpha.1
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0-alpha.2
@@ -138,3 +153,4 @@
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0-alpha.5
 - pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0-alpha.5?classifier=sources
+- pkg:maven/io.gravitee.am.password.dictionary/gravitee-am-password-dictionary@3.21.0?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/nl.42/jarb@5.3.2?classifier=sources
 - pkg:maven/nl.42/jarb@6.0.0
 - pkg:maven/nl.42/jarb@6.0.0?classifier=sources
+- pkg:maven/nl.42/jarb@6.1.0
+- pkg:maven/nl.42/jarb@6.1.0?classifier=sources
+- pkg:maven/nl.42/jarb@6.2.0
+- pkg:maven/nl.42/jarb@6.2.0?classifier=sources

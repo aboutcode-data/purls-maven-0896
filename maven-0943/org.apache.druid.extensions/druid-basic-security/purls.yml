@@ -48,3 +48,5 @@
 - pkg:maven/org.apache.druid.extensions/druid-basic-security@24.0.2?classifier=sources
 - pkg:maven/org.apache.druid.extensions/druid-basic-security@25.0.0
 - pkg:maven/org.apache.druid.extensions/druid-basic-security@25.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions/druid-basic-security@26.0.0
+- pkg:maven/org.apache.druid.extensions/druid-basic-security@26.0.0?classifier=sources

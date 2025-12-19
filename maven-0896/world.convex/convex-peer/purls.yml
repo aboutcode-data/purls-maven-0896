@@ -9,6 +9,10 @@
 - pkg:maven/world.convex/convex-peer@0.7.0-rc4?classifier=sources
 - pkg:maven/world.convex/convex-peer@0.7.0?classifier=sources
 - pkg:maven/world.convex/convex-peer@0.7.1
+- pkg:maven/world.convex/convex-peer@0.7.10
+- pkg:maven/world.convex/convex-peer@0.7.10?classifier=sources
+- pkg:maven/world.convex/convex-peer@0.7.11
+- pkg:maven/world.convex/convex-peer@0.7.11?classifier=sources
 - pkg:maven/world.convex/convex-peer@0.7.1?classifier=sources
 - pkg:maven/world.convex/convex-peer@0.7.2
 - pkg:maven/world.convex/convex-peer@0.7.2?classifier=sources

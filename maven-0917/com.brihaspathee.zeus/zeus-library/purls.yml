@@ -177,4 +177,6 @@
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.9
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.90
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.90?classifier=sources
+- pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.91
+- pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.91?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/zeus-library@1.0.9?classifier=sources

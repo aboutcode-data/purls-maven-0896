@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.solr/solr-hadoop-auth@9.1.0?classifier=sources
 - pkg:maven/org.apache.solr/solr-hadoop-auth@9.1.1?classifier=sources
 - pkg:maven/org.apache.solr/solr-hadoop-auth@9.2.0?classifier=sources
+- pkg:maven/org.apache.solr/solr-hadoop-auth@9.2.1?classifier=sources

@@ -2,5 +2,11 @@
 - pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@0.1.0-M1
 - pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@0.1.0-M1?classifier=sources
 - pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@0.1.0?classifier=sources
+- pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@0.2.0
+- pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@0.2.0-M39
+- pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@0.2.0-M39?classifier=sources
+- pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@0.2.0?classifier=sources
 - pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@1.0.0-M39
 - pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@1.0.0-M39?classifier=sources
+- pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@1.0.0-M40
+- pkg:maven/org.http4s/http4s-fs2-data-xml_native0.4_3@1.0.0-M40?classifier=sources

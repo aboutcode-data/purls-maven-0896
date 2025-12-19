@@ -10,3 +10,4 @@
 - pkg:maven/org.opentcs/opentcs-commadapter-loopback@5.8.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-commadapter-loopback@5.8.1?classifier=sources
 - pkg:maven/org.opentcs/opentcs-commadapter-loopback@5.8.2?classifier=sources
+- pkg:maven/org.opentcs/opentcs-commadapter-loopback@5.9.0?classifier=sources

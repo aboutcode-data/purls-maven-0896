@@ -21,4 +21,6 @@
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.24
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.24.1
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.24.1?classifier=sources
+- pkg:maven/io.hyperfoil/hyperfoil-http@0.24.2
+- pkg:maven/io.hyperfoil/hyperfoil-http@0.24.2?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.24?classifier=sources

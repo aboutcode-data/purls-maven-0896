@@ -9,3 +9,5 @@
 - pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@1.4.0?classifier=sources
 - pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@1.5.0?classifier=sources
 - pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@1.6.0?classifier=sources
+- pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@1.7.0?classifier=sources
+- pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@1.7.1?classifier=sources

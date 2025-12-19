@@ -19,3 +19,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosx86@4.5.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosx86@5.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosx86@5.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-core-watchosx86@5.2.0?classifier=sources

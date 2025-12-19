@@ -33,6 +33,8 @@
 - pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.36.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.36.1.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.37.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.38.0.Final
+- pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.39.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.4.0.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.4.1.Final
 - pkg:maven/org.kie.kogito/kogito-quarkus-decisions-integration-test-hot-reload@1.5.0.Final

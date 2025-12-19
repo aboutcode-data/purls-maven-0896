@@ -16,3 +16,4 @@
 - pkg:maven/com.github.bancolombia/commons-jms-api@0.5.3?classifier=sources
 - pkg:maven/com.github.bancolombia/commons-jms-api@0.6.0?classifier=sources
 - pkg:maven/com.github.bancolombia/commons-jms-api@1.0.0?classifier=sources
+- pkg:maven/com.github.bancolombia/commons-jms-api@1.0.1?classifier=sources

@@ -369,7 +369,15 @@
 - pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.149.36?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.15.63?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.151.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.153.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.154.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.155.19?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.156.36?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.157.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.158.10?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.159.53?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.16.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.161.74?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.17.19?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.18.12?classifier=sources
 - pkg:maven/com.yahoo.vespa/zookeeper-server-common@8.19.24?classifier=sources

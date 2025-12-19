@@ -30,6 +30,8 @@
 - pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.20.2?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.21.0
 - pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.21.0?classifier=sources
+- pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.21.1
+- pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.21.1?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.3.0
 - pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.3.0?classifier=sources
 - pkg:maven/org.apache.drill.contrib/drill-storage-hbase@1.4.0

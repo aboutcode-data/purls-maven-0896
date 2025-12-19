@@ -212,3 +212,5 @@
 - pkg:maven/com.riskified/riskified-sdk@v2.4.0?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v2.5.0
 - pkg:maven/com.riskified/riskified-sdk@v2.5.0?classifier=sources
+- pkg:maven/com.riskified/riskified-sdk@v2.6.0
+- pkg:maven/com.riskified/riskified-sdk@v2.6.0?classifier=sources

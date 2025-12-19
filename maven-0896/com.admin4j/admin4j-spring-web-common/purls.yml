@@ -1,0 +1,4 @@
+- pkg:maven/com.admin4j/admin4j-spring-web-common@0.0.5
+- pkg:maven/com.admin4j/admin4j-spring-web-common@0.0.5?classifier=sources
+- pkg:maven/com.admin4j/admin4j-spring-web-common@0.0.7
+- pkg:maven/com.admin4j/admin4j-spring-web-common@0.0.7?classifier=sources

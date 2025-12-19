@@ -30,6 +30,8 @@
 - pkg:maven/org.wurbelizer/ant-wurbelizer@17.4.0.0?classifier=sources
 - pkg:maven/org.wurbelizer/ant-wurbelizer@17.5.0.0
 - pkg:maven/org.wurbelizer/ant-wurbelizer@17.5.0.0?classifier=sources
+- pkg:maven/org.wurbelizer/ant-wurbelizer@17.5.1.0
+- pkg:maven/org.wurbelizer/ant-wurbelizer@17.5.1.0?classifier=sources
 - pkg:maven/org.wurbelizer/ant-wurbelizer@2.0.10
 - pkg:maven/org.wurbelizer/ant-wurbelizer@2.0.10?classifier=sources
 - pkg:maven/org.wurbelizer/ant-wurbelizer@2.0.3

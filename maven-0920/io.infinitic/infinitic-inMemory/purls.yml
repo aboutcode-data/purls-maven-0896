@@ -3,6 +3,7 @@
 - pkg:maven/io.infinitic/infinitic-inMemory@0.11.1?classifier=sources
 - pkg:maven/io.infinitic/infinitic-inMemory@0.11.2?classifier=sources
 - pkg:maven/io.infinitic/infinitic-inMemory@0.11.3?classifier=sources
+- pkg:maven/io.infinitic/infinitic-inMemory@0.11.4?classifier=sources
 - pkg:maven/io.infinitic/infinitic-inMemory@0.4.1?classifier=sources
 - pkg:maven/io.infinitic/infinitic-inMemory@0.4.2?classifier=sources
 - pkg:maven/io.infinitic/infinitic-inMemory@0.4.3?classifier=sources

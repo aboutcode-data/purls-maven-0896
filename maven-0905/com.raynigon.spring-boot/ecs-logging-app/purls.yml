@@ -8,3 +8,4 @@
 - pkg:maven/com.raynigon.spring-boot/ecs-logging-app@1.1.3?classifier=sources
 - pkg:maven/com.raynigon.spring-boot/ecs-logging-app@1.1.4?classifier=sources
 - pkg:maven/com.raynigon.spring-boot/ecs-logging-app@2.0.0?classifier=sources
+- pkg:maven/com.raynigon.spring-boot/ecs-logging-app@2.1.0?classifier=sources

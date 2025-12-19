@@ -1,3 +1,5 @@
+- pkg:maven/com.safety-data/cloakroom-root_2.13@0.5.12
+- pkg:maven/com.safety-data/cloakroom-root_2.13@0.5.12?classifier=sources
 - pkg:maven/com.safety-data/cloakroom-root_2.13@0.5.4
 - pkg:maven/com.safety-data/cloakroom-root_2.13@0.5.4?classifier=sources
 - pkg:maven/com.safety-data/cloakroom-root_2.13@0.5.5

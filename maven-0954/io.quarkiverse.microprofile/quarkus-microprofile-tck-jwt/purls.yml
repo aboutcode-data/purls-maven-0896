@@ -5,3 +5,4 @@
 - pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@2.4.1.Final
 - pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@2.7.2.Final
 - pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@3.0.0.Alpha3
+- pkg:maven/io.quarkiverse.microprofile/quarkus-microprofile-tck-jwt@3.0.0.Final

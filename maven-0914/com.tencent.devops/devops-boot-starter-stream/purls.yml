@@ -1,1 +1,2 @@
 - pkg:maven/com.tencent.devops/devops-boot-starter-stream@0.0.6?classifier=sources
+- pkg:maven/com.tencent.devops/devops-boot-starter-stream@0.0.7?classifier=sources

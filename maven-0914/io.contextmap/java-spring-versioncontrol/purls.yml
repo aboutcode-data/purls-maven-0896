@@ -50,3 +50,5 @@
 - pkg:maven/io.contextmap/java-spring-versioncontrol@1.8.1?classifier=sources
 - pkg:maven/io.contextmap/java-spring-versioncontrol@1.9.0
 - pkg:maven/io.contextmap/java-spring-versioncontrol@1.9.0?classifier=sources
+- pkg:maven/io.contextmap/java-spring-versioncontrol@2.0.0
+- pkg:maven/io.contextmap/java-spring-versioncontrol@2.0.0?classifier=sources

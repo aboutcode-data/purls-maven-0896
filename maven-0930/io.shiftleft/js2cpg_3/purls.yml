@@ -250,6 +250,12 @@
 - pkg:maven/io.shiftleft/js2cpg_3@0.2.225?classifier=sources
 - pkg:maven/io.shiftleft/js2cpg_3@0.2.226
 - pkg:maven/io.shiftleft/js2cpg_3@0.2.226?classifier=sources
+- pkg:maven/io.shiftleft/js2cpg_3@0.2.228
+- pkg:maven/io.shiftleft/js2cpg_3@0.2.228?classifier=sources
+- pkg:maven/io.shiftleft/js2cpg_3@0.2.229
+- pkg:maven/io.shiftleft/js2cpg_3@0.2.229?classifier=sources
+- pkg:maven/io.shiftleft/js2cpg_3@0.2.230
+- pkg:maven/io.shiftleft/js2cpg_3@0.2.230?classifier=sources
 - pkg:maven/io.shiftleft/js2cpg_3@0.2.91
 - pkg:maven/io.shiftleft/js2cpg_3@0.2.91?classifier=sources
 - pkg:maven/io.shiftleft/js2cpg_3@0.2.92

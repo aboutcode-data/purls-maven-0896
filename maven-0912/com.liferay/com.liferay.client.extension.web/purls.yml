@@ -101,6 +101,9 @@
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.4
+- pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.40
+- pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.40?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.client.extension.web@1.0.5

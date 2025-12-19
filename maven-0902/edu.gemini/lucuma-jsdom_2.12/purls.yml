@@ -2,3 +2,5 @@
 - pkg:maven/edu.gemini/lucuma-jsdom_2.12@0.10.11?classifier=sources
 - pkg:maven/edu.gemini/lucuma-jsdom_2.12@0.10.12
 - pkg:maven/edu.gemini/lucuma-jsdom_2.12@0.10.12?classifier=sources
+- pkg:maven/edu.gemini/lucuma-jsdom_2.12@0.10.13
+- pkg:maven/edu.gemini/lucuma-jsdom_2.12@0.10.13?classifier=sources

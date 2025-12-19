@@ -48,7 +48,11 @@
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.0-M1
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.0-M1?classifier=sources
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.0?classifier=sources
+- pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1-M2
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1-M2?classifier=sources
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1-M3
 - pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1-M3?classifier=sources
+- pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1-M4
+- pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1-M4?classifier=sources
+- pkg:maven/io.kalix/kalix-codegen-scala_2.12@1.2.1?classifier=sources

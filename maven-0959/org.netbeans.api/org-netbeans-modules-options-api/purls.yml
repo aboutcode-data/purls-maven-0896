@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-options-api@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-options-api@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-options-api@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-options-api@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-options-api@RELEASE90?classifier=sources

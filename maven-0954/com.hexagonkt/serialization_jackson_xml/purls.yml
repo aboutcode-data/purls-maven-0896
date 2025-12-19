@@ -65,3 +65,7 @@
 - pkg:maven/com.hexagonkt/serialization_jackson_xml@2.6.8?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_xml@2.7.0?classifier=sources
 - pkg:maven/com.hexagonkt/serialization_jackson_xml@2.8.0?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_xml@2.8.1?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_xml@2.8.2?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_xml@2.8.3?classifier=sources
+- pkg:maven/com.hexagonkt/serialization_jackson_xml@2.8.4?classifier=sources

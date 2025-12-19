@@ -54,6 +54,8 @@
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@2.5.6?classifier=sources
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@2.6.0
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@2.6.0?classifier=sources
+- pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@2.6.1
+- pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@2.6.1?classifier=sources
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.0.0
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.0.0-M1
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.0.0-M1?classifier=sources
@@ -76,6 +78,8 @@
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.1.2?classifier=sources
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.2.0
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.2.0?classifier=sources
+- pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.2.1
+- pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@3.2.1?classifier=sources
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@4.0.0-ALPHA1
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@4.0.0-ALPHA1?classifier=sources
 - pkg:maven/io.helidon.microprofile.reactive-streams/helidon-microprofile-reactive-streams@4.0.0-ALPHA2

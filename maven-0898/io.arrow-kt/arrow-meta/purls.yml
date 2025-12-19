@@ -33,3 +33,5 @@
 - pkg:maven/io.arrow-kt/arrow-meta@1.6.1?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-meta@1.6.2-alpha.1?classifier=sources
 - pkg:maven/io.arrow-kt/arrow-meta@1.6.2-alpha.5?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-meta@1.6.2?classifier=sources
+- pkg:maven/io.arrow-kt/arrow-meta@1.6.3-alpha.1?classifier=sources

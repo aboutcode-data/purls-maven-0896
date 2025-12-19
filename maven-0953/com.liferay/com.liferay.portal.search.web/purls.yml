@@ -1153,6 +1153,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.116
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.116?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.116?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.117
+- pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.117?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.117?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.12
@@ -1448,6 +1451,12 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.1
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.10
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.100
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.100?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.100?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.101
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.101?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.101?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.11
@@ -1735,5 +1744,11 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.97
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.97?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.97?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.98
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.98?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.98?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.99
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.99?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.99?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.9?classifier=sources-commercial

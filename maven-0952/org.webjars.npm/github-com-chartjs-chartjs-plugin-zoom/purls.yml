@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/github-com-chartjs-chartjs-plugin-zoom@0.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-chartjs-chartjs-plugin-zoom@0.4.4
 - pkg:maven/org.webjars.npm/github-com-chartjs-chartjs-plugin-zoom@0.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-chartjs-chartjs-plugin-zoom@2.0.1
+- pkg:maven/org.webjars.npm/github-com-chartjs-chartjs-plugin-zoom@2.0.1?classifier=sources

@@ -166,3 +166,4 @@
 - pkg:maven/com.sap.cloud.security.xsuaa/api@2.8.9?classifier=sources
 - pkg:maven/com.sap.cloud.security.xsuaa/api@2.9.0
 - pkg:maven/com.sap.cloud.security.xsuaa/api@2.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.security.xsuaa/api@3.0.0

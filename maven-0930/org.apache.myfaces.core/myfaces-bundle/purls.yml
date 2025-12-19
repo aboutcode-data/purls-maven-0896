@@ -176,3 +176,5 @@
 - pkg:maven/org.apache.myfaces.core/myfaces-bundle@4.0.0-RC5
 - pkg:maven/org.apache.myfaces.core/myfaces-bundle@4.0.0-RC5?classifier=sources
 - pkg:maven/org.apache.myfaces.core/myfaces-bundle@4.0.0?classifier=sources
+- pkg:maven/org.apache.myfaces.core/myfaces-bundle@4.0.1
+- pkg:maven/org.apache.myfaces.core/myfaces-bundle@4.0.1?classifier=sources

@@ -59,6 +59,8 @@
 - pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.2
 - pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.20
 - pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.20?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.21
+- pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.21?classifier=sources
 - pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.2?classifier=sources
 - pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.3
 - pkg:maven/me.hsgamer/hscore-bukkit-clicktype@4.2.3?classifier=sources

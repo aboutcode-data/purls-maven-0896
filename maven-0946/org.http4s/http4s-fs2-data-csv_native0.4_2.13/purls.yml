@@ -1,0 +1,6 @@
+- pkg:maven/org.http4s/http4s-fs2-data-csv_native0.4_2.13@0.2.0
+- pkg:maven/org.http4s/http4s-fs2-data-csv_native0.4_2.13@0.2.0-M39
+- pkg:maven/org.http4s/http4s-fs2-data-csv_native0.4_2.13@0.2.0-M39?classifier=sources
+- pkg:maven/org.http4s/http4s-fs2-data-csv_native0.4_2.13@0.2.0?classifier=sources
+- pkg:maven/org.http4s/http4s-fs2-data-csv_native0.4_2.13@1.0.0-M40
+- pkg:maven/org.http4s/http4s-fs2-data-csv_native0.4_2.13@1.0.0-M40?classifier=sources

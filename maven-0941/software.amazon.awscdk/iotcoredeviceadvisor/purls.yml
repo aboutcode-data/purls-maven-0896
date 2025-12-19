@@ -210,3 +210,11 @@
 - pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.198.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.199.0
 - pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.199.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.200.0
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.200.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.201.0
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.201.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.202.0
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.202.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.203.0
+- pkg:maven/software.amazon.awscdk/iotcoredeviceadvisor@1.203.0?classifier=sources

@@ -39,3 +39,6 @@
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.6.1-1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.7.0-1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.7.1-1?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.8.0?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.8.1?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-jdbi@5.9.0?classifier=sources

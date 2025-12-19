@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fileanalysissuite.restadapters.filesystem/restadapter-filesystem-dropwizard@1.0.0-244
+- pkg:maven/io.github.fileanalysissuite.restadapters.filesystem/restadapter-filesystem-dropwizard@1.0.0-244?classifier=sources

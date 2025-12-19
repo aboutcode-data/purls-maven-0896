@@ -6,3 +6,5 @@
 - pkg:maven/io.github.joelzhu/scanner-runtime@1.6?classifier=sources
 - pkg:maven/io.github.joelzhu/scanner-runtime@1.7?classifier=sources
 - pkg:maven/io.github.joelzhu/scanner-runtime@1.8.0?classifier=sources
+- pkg:maven/io.github.joelzhu/scanner-runtime@2.0.0?classifier=sources
+- pkg:maven/io.github.joelzhu/scanner-runtime@2.1.0?classifier=sources

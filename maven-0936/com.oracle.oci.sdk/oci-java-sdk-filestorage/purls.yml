@@ -345,6 +345,14 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.59.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.6.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.60.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.60.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.60.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.60.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.61.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.61.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.61.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.61.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.7.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.7.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@2.7.1
@@ -371,6 +379,12 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.10.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.11.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.11.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.12.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.12.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.12.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.12.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.13.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.13.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.2.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.2.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-filestorage@3.2.1

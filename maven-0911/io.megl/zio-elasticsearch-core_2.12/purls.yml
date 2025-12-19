@@ -1,2 +1,4 @@
 - pkg:maven/io.megl/zio-elasticsearch-core_2.12@0.0.12
 - pkg:maven/io.megl/zio-elasticsearch-core_2.12@0.0.12?classifier=sources
+- pkg:maven/io.megl/zio-elasticsearch-core_2.12@2.0.0
+- pkg:maven/io.megl/zio-elasticsearch-core_2.12@2.0.0?classifier=sources

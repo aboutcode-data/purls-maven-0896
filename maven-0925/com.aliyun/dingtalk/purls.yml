@@ -808,3 +808,11 @@
 - pkg:maven/com.aliyun/dingtalk@1.5.63?classifier=sources
 - pkg:maven/com.aliyun/dingtalk@1.5.64
 - pkg:maven/com.aliyun/dingtalk@1.5.64?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@1.5.65
+- pkg:maven/com.aliyun/dingtalk@1.5.65?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@2.0.0
+- pkg:maven/com.aliyun/dingtalk@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@2.0.10
+- pkg:maven/com.aliyun/dingtalk@2.0.10?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@2.0.11
+- pkg:maven/com.aliyun/dingtalk@2.0.11?classifier=sources

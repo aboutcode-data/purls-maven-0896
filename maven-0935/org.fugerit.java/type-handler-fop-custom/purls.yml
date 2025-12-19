@@ -4,3 +4,5 @@
 - pkg:maven/org.fugerit.java/type-handler-fop-custom@0.3.9.5-b4?classifier=sources
 - pkg:maven/org.fugerit.java/type-handler-fop-custom@0.5.0
 - pkg:maven/org.fugerit.java/type-handler-fop-custom@0.5.0?classifier=sources
+- pkg:maven/org.fugerit.java/type-handler-fop-custom@0.8.9
+- pkg:maven/org.fugerit.java/type-handler-fop-custom@0.8.9?classifier=sources

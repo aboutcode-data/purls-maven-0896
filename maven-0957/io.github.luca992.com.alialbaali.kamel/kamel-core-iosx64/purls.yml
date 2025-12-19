@@ -1,3 +1,6 @@
 - pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-core-iosx64@0.5-darwin0?classifier=sources
 - pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-core-iosx64@0.5-darwinandjs0?classifier=sources
 - pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-core-iosx64@0.5-darwinandjs1?classifier=sources
+- pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-core-iosx64@0.5-darwinandjs2?classifier=sources
+- pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-core-iosx64@0.5-darwinandjs3?classifier=sources
+- pkg:maven/io.github.luca992.com.alialbaali.kamel/kamel-core-iosx64@0.5-darwinandjs4?classifier=sources

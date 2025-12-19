@@ -1,8 +1,12 @@
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@2.1.13
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@2.1.13?classifier=sources
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@2.1.14
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@2.1.14?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.0
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.0?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.1
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.1?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.2
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.2?classifier=sources
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.3
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.3?classifier=sources

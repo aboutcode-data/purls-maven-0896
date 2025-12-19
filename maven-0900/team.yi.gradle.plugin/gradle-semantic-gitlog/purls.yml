@@ -3,3 +3,4 @@
 - pkg:maven/team.yi.gradle.plugin/gradle-semantic-gitlog@0.5.12?classifier=sources
 - pkg:maven/team.yi.gradle.plugin/gradle-semantic-gitlog@0.5.13?classifier=sources
 - pkg:maven/team.yi.gradle.plugin/gradle-semantic-gitlog@0.5.3?classifier=sources
+- pkg:maven/team.yi.gradle.plugin/gradle-semantic-gitlog@0.6.5?classifier=sources

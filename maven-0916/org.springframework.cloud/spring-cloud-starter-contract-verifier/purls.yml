@@ -50,6 +50,8 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@3.1.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@3.1.5
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@3.1.6
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@3.1.7
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@4.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@4.0.2
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-contract-verifier@4.0.3

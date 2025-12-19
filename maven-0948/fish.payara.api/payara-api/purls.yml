@@ -68,3 +68,4 @@
 - pkg:maven/fish.payara.api/payara-api@6.2023.1?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@6.2023.2?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@6.2023.3?classifier=sources
+- pkg:maven/fish.payara.api/payara-api@6.2023.4?classifier=sources

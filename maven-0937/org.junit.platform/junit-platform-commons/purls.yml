@@ -34,6 +34,7 @@
 - pkg:maven/org.junit.platform/junit-platform-commons@1.1.0?classifier=sources
 - pkg:maven/org.junit.platform/junit-platform-commons@1.1.1
 - pkg:maven/org.junit.platform/junit-platform-commons@1.1.1?classifier=sources
+- pkg:maven/org.junit.platform/junit-platform-commons@1.10.0-M1?classifier=sources
 - pkg:maven/org.junit.platform/junit-platform-commons@1.2.0
 - pkg:maven/org.junit.platform/junit-platform-commons@1.2.0-M1
 - pkg:maven/org.junit.platform/junit-platform-commons@1.2.0-M1?classifier=sources
@@ -95,3 +96,4 @@
 - pkg:maven/org.junit.platform/junit-platform-commons@1.9.0?classifier=sources
 - pkg:maven/org.junit.platform/junit-platform-commons@1.9.1?classifier=sources
 - pkg:maven/org.junit.platform/junit-platform-commons@1.9.2?classifier=sources
+- pkg:maven/org.junit.platform/junit-platform-commons@1.9.3?classifier=sources

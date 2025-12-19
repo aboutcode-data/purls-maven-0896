@@ -306,6 +306,14 @@
 - pkg:maven/software.amazon.awscdk/ram@1.2.0.DEVPREVIEW?classifier=sources
 - pkg:maven/software.amazon.awscdk/ram@1.20.0
 - pkg:maven/software.amazon.awscdk/ram@1.20.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.200.0
+- pkg:maven/software.amazon.awscdk/ram@1.200.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.201.0
+- pkg:maven/software.amazon.awscdk/ram@1.201.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.202.0
+- pkg:maven/software.amazon.awscdk/ram@1.202.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ram@1.203.0
+- pkg:maven/software.amazon.awscdk/ram@1.203.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ram@1.21.0
 - pkg:maven/software.amazon.awscdk/ram@1.21.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ram@1.21.1

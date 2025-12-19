@@ -8,3 +8,7 @@
 - pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-dbutils@4.0.3?classifier=sources
 - pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-dbutils@4.0.4
 - pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-dbutils@4.0.4?classifier=sources
+- pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-dbutils@4.0.5
+- pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-dbutils@4.0.5?classifier=sources
+- pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-dbutils@4.0.6
+- pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-dbutils@4.0.6?classifier=sources

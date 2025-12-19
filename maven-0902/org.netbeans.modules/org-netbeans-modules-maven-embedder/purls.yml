@@ -17,4 +17,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-embedder@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-embedder@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-embedder@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-embedder@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-embedder@RELEASE90?classifier=sources

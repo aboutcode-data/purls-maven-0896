@@ -68,3 +68,5 @@
 - pkg:maven/com.github.adminfaces/admin-template@1.6.0
 - pkg:maven/com.github.adminfaces/admin-template@1.6.0?classifier=sources
 - pkg:maven/com.github.adminfaces/admin-template@1.6.1?classifier=sources
+- pkg:maven/com.github.adminfaces/admin-template@2.0
+- pkg:maven/com.github.adminfaces/admin-template@2.0?classifier=sources

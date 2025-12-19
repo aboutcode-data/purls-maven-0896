@@ -1,0 +1,4 @@
+- pkg:maven/com.yiruibim.cairo/cairo-core@1.1.0-snapshot-20230508134319?classifier=sources
+- pkg:maven/com.yiruibim.cairo/cairo-core@1.1.0-snapshot-20230508135127?classifier=sources
+- pkg:maven/com.yiruibim.cairo/cairo-core@1.1.0-snapshot1?classifier=sources
+- pkg:maven/com.yiruibim.cairo/cairo-core@1.1.1-snapshot1?classifier=sources

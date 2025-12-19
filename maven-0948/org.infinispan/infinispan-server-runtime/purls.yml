@@ -172,6 +172,8 @@
 - pkg:maven/org.infinispan/infinispan-server-runtime@13.0.14.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-runtime@13.0.15.Final
 - pkg:maven/org.infinispan/infinispan-server-runtime@13.0.15.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-runtime@13.0.16.Final
+- pkg:maven/org.infinispan/infinispan-server-runtime@13.0.16.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-runtime@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-server-runtime@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-runtime@13.0.3.Final
@@ -218,5 +220,7 @@
 - pkg:maven/org.infinispan/infinispan-server-runtime@14.0.7.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-runtime@14.0.8.Final
 - pkg:maven/org.infinispan/infinispan-server-runtime@14.0.8.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-server-runtime@14.0.9.Final
+- pkg:maven/org.infinispan/infinispan-server-runtime@14.0.9.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-server-runtime@15.0.0.Dev01
 - pkg:maven/org.infinispan/infinispan-server-runtime@15.0.0.Dev01?classifier=sources

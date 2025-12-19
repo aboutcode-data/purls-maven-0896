@@ -1,0 +1,4 @@
+- pkg:maven/pt.tecnico.dsi/scala-nova-client_3@0.10.0
+- pkg:maven/pt.tecnico.dsi/scala-nova-client_3@0.10.0?classifier=sources
+- pkg:maven/pt.tecnico.dsi/scala-nova-client_3@0.10.1
+- pkg:maven/pt.tecnico.dsi/scala-nova-client_3@0.10.1?classifier=sources

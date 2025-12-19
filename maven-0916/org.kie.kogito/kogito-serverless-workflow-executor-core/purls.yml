@@ -1,0 +1,4 @@
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-executor-core@1.38.0.Final
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-executor-core@1.38.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-executor-core@1.39.0.Final
+- pkg:maven/org.kie.kogito/kogito-serverless-workflow-executor-core@1.39.0.Final?classifier=sources

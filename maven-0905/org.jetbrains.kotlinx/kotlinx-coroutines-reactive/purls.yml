@@ -146,3 +146,5 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@1.6.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@1.7.0-Beta?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@1.7.0-RC?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@1.7.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-coroutines-reactive@1.7.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/net.wicp.tams/common-cassandra@3.6.14?classifier=sources
 - pkg:maven/net.wicp.tams/common-cassandra@3.6.7
 - pkg:maven/net.wicp.tams/common-cassandra@3.6.7?classifier=sources
+- pkg:maven/net.wicp.tams/common-cassandra@6.0.0
+- pkg:maven/net.wicp.tams/common-cassandra@6.0.0?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/se.ansman.dagger.auto/android@0.3.0?classifier=sources
 - pkg:maven/se.ansman.dagger.auto/android@0.4.0?classifier=sources
 - pkg:maven/se.ansman.dagger.auto/android@0.5.0?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/android@0.5.1?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/android@0.6.0?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/android@0.6.1?classifier=sources
+- pkg:maven/se.ansman.dagger.auto/android@0.6.2?classifier=sources

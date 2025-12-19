@@ -48,3 +48,5 @@
 - pkg:maven/io.airlift/security-jwks@228?classifier=sources
 - pkg:maven/io.airlift/security-jwks@229
 - pkg:maven/io.airlift/security-jwks@229?classifier=sources
+- pkg:maven/io.airlift/security-jwks@230
+- pkg:maven/io.airlift/security-jwks@230?classifier=sources

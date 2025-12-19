@@ -34,3 +34,5 @@
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.2?type=war
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.3?classifier=sources
 - pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.11.3?type=war
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.12.0?classifier=sources
+- pkg:maven/org.apache.jspwiki.it/jspwiki-it-test-custom@2.12.0?type=war

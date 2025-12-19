@@ -1,0 +1,4 @@
+- pkg:maven/io.github.holmofy/spring-data-criteria-jpa-example@3.0.6
+- pkg:maven/io.github.holmofy/spring-data-criteria-jpa-example@3.0.6?classifier=sources
+- pkg:maven/io.github.holmofy/spring-data-criteria-jpa-example@3.0.7
+- pkg:maven/io.github.holmofy/spring-data-criteria-jpa-example@3.0.7?classifier=sources

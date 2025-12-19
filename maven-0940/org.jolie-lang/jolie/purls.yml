@@ -26,3 +26,5 @@
 - pkg:maven/org.jolie-lang/jolie@1.10.8?classifier=sources
 - pkg:maven/org.jolie-lang/jolie@1.10.9
 - pkg:maven/org.jolie-lang/jolie@1.10.9?classifier=sources
+- pkg:maven/org.jolie-lang/jolie@1.11.0
+- pkg:maven/org.jolie-lang/jolie@1.11.0?classifier=sources

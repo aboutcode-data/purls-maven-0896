@@ -18,3 +18,4 @@
 - pkg:maven/org.carrot2.lang/carrot2-lang-lucene@4.4.2?classifier=sources
 - pkg:maven/org.carrot2.lang/carrot2-lang-lucene@4.4.3?classifier=sources
 - pkg:maven/org.carrot2.lang/carrot2-lang-lucene@4.5.0?classifier=sources
+- pkg:maven/org.carrot2.lang/carrot2-lang-lucene@4.5.1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.geckoprojects.search/org.apache.lucene.spatial@9.5.0
 - pkg:maven/org.geckoprojects.search/org.apache.lucene.spatial@9.5.0?classifier=sources
+- pkg:maven/org.geckoprojects.search/org.apache.lucene.spatial@9.6.0
+- pkg:maven/org.geckoprojects.search/org.apache.lucene.spatial@9.6.0?classifier=sources

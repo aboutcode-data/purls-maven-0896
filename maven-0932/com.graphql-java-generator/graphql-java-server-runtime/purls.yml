@@ -20,5 +20,7 @@
 - pkg:maven/com.graphql-java-generator/graphql-java-server-runtime@1.18.8?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-java-server-runtime@1.18.9
 - pkg:maven/com.graphql-java-generator/graphql-java-server-runtime@1.18.9?classifier=sources
+- pkg:maven/com.graphql-java-generator/graphql-java-server-runtime@2.0
+- pkg:maven/com.graphql-java-generator/graphql-java-server-runtime@2.0?classifier=sources
 - pkg:maven/com.graphql-java-generator/graphql-java-server-runtime@2.0RC1
 - pkg:maven/com.graphql-java-generator/graphql-java-server-runtime@2.0RC1?classifier=sources

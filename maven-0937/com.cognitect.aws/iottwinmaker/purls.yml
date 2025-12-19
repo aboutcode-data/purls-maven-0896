@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/iottwinmaker@845.2.1326.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iottwinmaker@845.2.1345.0
 - pkg:maven/com.cognitect.aws/iottwinmaker@845.2.1345.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iottwinmaker@847.2.1365.0
+- pkg:maven/com.cognitect.aws/iottwinmaker@847.2.1365.0?classifier=sources

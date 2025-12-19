@@ -1,2 +1,4 @@
 - pkg:maven/org.caseine/caseine.vpl.tests.Bissextile@0.0.60
 - pkg:maven/org.caseine/caseine.vpl.tests.Bissextile@0.0.60?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tests.Bissextile@0.0.63
+- pkg:maven/org.caseine/caseine.vpl.tests.Bissextile@0.0.63?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.seppiko.glf/scl-over-glf@2.0.0
 - pkg:maven/org.seppiko.glf/scl-over-glf@2.0.0?classifier=sources
+- pkg:maven/org.seppiko.glf/scl-over-glf@2.1.0
+- pkg:maven/org.seppiko.glf/scl-over-glf@2.1.0?classifier=sources
