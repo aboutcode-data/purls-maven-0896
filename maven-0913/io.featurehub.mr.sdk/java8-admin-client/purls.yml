@@ -1,0 +1,2 @@
+- pkg:maven/io.featurehub.mr.sdk/java8-admin-client@1.1
+- pkg:maven/io.featurehub.mr.sdk/java8-admin-client@1.1?classifier=sources

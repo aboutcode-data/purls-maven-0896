@@ -575,8 +575,16 @@
 - pkg:maven/com.spotify/styx-standalone-service@2.1.132?classifier=sources
 - pkg:maven/com.spotify/styx-standalone-service@2.1.138
 - pkg:maven/com.spotify/styx-standalone-service@2.1.138?classifier=sources
+- pkg:maven/com.spotify/styx-standalone-service@2.1.139
+- pkg:maven/com.spotify/styx-standalone-service@2.1.139?classifier=sources
 - pkg:maven/com.spotify/styx-standalone-service@2.1.13?classifier=sources
 - pkg:maven/com.spotify/styx-standalone-service@2.1.14
+- pkg:maven/com.spotify/styx-standalone-service@2.1.140
+- pkg:maven/com.spotify/styx-standalone-service@2.1.140?classifier=sources
+- pkg:maven/com.spotify/styx-standalone-service@2.1.141
+- pkg:maven/com.spotify/styx-standalone-service@2.1.141?classifier=sources
+- pkg:maven/com.spotify/styx-standalone-service@2.1.142
+- pkg:maven/com.spotify/styx-standalone-service@2.1.142?classifier=sources
 - pkg:maven/com.spotify/styx-standalone-service@2.1.14?classifier=sources
 - pkg:maven/com.spotify/styx-standalone-service@2.1.15
 - pkg:maven/com.spotify/styx-standalone-service@2.1.15?classifier=sources

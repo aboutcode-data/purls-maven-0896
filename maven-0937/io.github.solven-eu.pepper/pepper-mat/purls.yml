@@ -1,0 +1,4 @@
+- pkg:maven/io.github.solven-eu.pepper/pepper-mat@3.0
+- pkg:maven/io.github.solven-eu.pepper/pepper-mat@3.0?classifier=sources
+- pkg:maven/io.github.solven-eu.pepper/pepper-mat@3.1
+- pkg:maven/io.github.solven-eu.pepper/pepper-mat@3.1?classifier=sources

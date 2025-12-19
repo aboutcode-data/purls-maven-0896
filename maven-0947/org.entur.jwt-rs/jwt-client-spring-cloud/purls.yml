@@ -6,3 +6,5 @@
 - pkg:maven/org.entur.jwt-rs/jwt-client-spring-cloud@1.1.15?classifier=sources
 - pkg:maven/org.entur.jwt-rs/jwt-client-spring-cloud@1.1.16
 - pkg:maven/org.entur.jwt-rs/jwt-client-spring-cloud@1.1.16?classifier=sources
+- pkg:maven/org.entur.jwt-rs/jwt-client-spring-cloud@2.0.0
+- pkg:maven/org.entur.jwt-rs/jwt-client-spring-cloud@2.0.0?classifier=sources

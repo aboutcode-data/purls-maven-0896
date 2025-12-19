@@ -1,3 +1,7 @@
 - pkg:maven/io.github.gciatto/kt-math@0.3.4?classifier=sources
 - pkg:maven/io.github.gciatto/kt-math@0.3.5?classifier=sources
+- pkg:maven/io.github.gciatto/kt-math@0.4.0-dev0d%2Ba6b029e?classifier=sources
+- pkg:maven/io.github.gciatto/kt-math@0.4.0-dev0s%2Ba66de22?classifier=sources
+- pkg:maven/io.github.gciatto/kt-math@0.4.0-dev0t%2B23b2558?classifier=sources
 - pkg:maven/io.github.gciatto/kt-math@0.4.0?classifier=sources
+- pkg:maven/io.github.gciatto/kt-math@0.5.0?classifier=sources

@@ -103,6 +103,12 @@
 - pkg:maven/org.openforis.collect/collect-server@4.0.39?classifier=sources
 - pkg:maven/org.openforis.collect/collect-server@4.0.3?classifier=sources
 - pkg:maven/org.openforis.collect/collect-server@4.0.4
+- pkg:maven/org.openforis.collect/collect-server@4.0.40
+- pkg:maven/org.openforis.collect/collect-server@4.0.40?classifier=sources
+- pkg:maven/org.openforis.collect/collect-server@4.0.41
+- pkg:maven/org.openforis.collect/collect-server@4.0.41?classifier=sources
+- pkg:maven/org.openforis.collect/collect-server@4.0.42
+- pkg:maven/org.openforis.collect/collect-server@4.0.42?classifier=sources
 - pkg:maven/org.openforis.collect/collect-server@4.0.4?classifier=sources
 - pkg:maven/org.openforis.collect/collect-server@4.0.5
 - pkg:maven/org.openforis.collect/collect-server@4.0.5?classifier=sources

@@ -7,3 +7,9 @@
 - pkg:maven/com.softicar.platform/platform-common-testing@13.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-testing@13.0.1?classifier=sources
 - pkg:maven/com.softicar.platform/platform-common-testing@13.1.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-testing@14.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-testing@15.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-testing@16.0.0%2Bpatch1?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-testing@16.0.0%2Bpatch2?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-testing@16.0.0%2Bpatch3?classifier=sources
+- pkg:maven/com.softicar.platform/platform-common-testing@16.0.0?classifier=sources

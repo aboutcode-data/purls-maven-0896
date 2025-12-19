@@ -1,0 +1,4 @@
+- pkg:maven/org.http4s/http4s-fabric_3@1.0.0-M30
+- pkg:maven/org.http4s/http4s-fabric_3@1.0.0-M30?classifier=sources
+- pkg:maven/org.http4s/http4s-fabric_3@1.0.0-M31
+- pkg:maven/org.http4s/http4s-fabric_3@1.0.0-M31?classifier=sources

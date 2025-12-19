@@ -1,0 +1,4 @@
+- pkg:maven/com.xenoamess/formatter-maven-plugin@2.18.0.0x
+- pkg:maven/com.xenoamess/formatter-maven-plugin@2.18.0.0x?classifier=sources
+- pkg:maven/com.xenoamess/formatter-maven-plugin@2.18.0.1x
+- pkg:maven/com.xenoamess/formatter-maven-plugin@2.18.0.1x?classifier=sources

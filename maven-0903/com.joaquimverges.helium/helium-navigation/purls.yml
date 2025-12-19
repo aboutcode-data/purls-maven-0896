@@ -7,3 +7,4 @@
 - pkg:maven/com.joaquimverges.helium/helium-navigation@0.6.0?classifier=sources
 - pkg:maven/com.joaquimverges.helium/helium-navigation@0.6.0?type=aar
 - pkg:maven/com.joaquimverges.helium/helium-navigation@0.8.0?classifier=sources
+- pkg:maven/com.joaquimverges.helium/helium-navigation@0.8.1?classifier=sources

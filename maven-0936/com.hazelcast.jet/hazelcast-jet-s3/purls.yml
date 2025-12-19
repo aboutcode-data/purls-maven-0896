@@ -36,3 +36,5 @@
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@5.0.2
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@5.0.2?classifier=sources
 - pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@5.0?classifier=sources
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@5.1-BETA-1
+- pkg:maven/com.hazelcast.jet/hazelcast-jet-s3@5.1-BETA-1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.lihaoyi/scalatags_3@0.11.0
 - pkg:maven/com.lihaoyi/scalatags_3@0.11.0?classifier=sources
+- pkg:maven/com.lihaoyi/scalatags_3@0.11.1
+- pkg:maven/com.lihaoyi/scalatags_3@0.11.1?classifier=sources

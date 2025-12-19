@@ -46,3 +46,5 @@
 - pkg:maven/com.github.thierrysquirrel/sparrow-server-spring-boot-common@2.2.1.0-RELEASE?classifier=sources
 - pkg:maven/com.github.thierrysquirrel/sparrow-server-spring-boot-common@2.2.1.1-RELEASE
 - pkg:maven/com.github.thierrysquirrel/sparrow-server-spring-boot-common@2.2.1.1-RELEASE?classifier=sources
+- pkg:maven/com.github.thierrysquirrel/sparrow-server-spring-boot-common@2.2.1.2-RELEASE
+- pkg:maven/com.github.thierrysquirrel/sparrow-server-spring-boot-common@2.2.1.2-RELEASE?classifier=sources

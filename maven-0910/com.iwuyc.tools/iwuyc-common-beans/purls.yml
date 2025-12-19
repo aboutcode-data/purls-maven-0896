@@ -1,2 +1,4 @@
 - pkg:maven/com.iwuyc.tools/iwuyc-common-beans@0.0.1-SNAPSHOT01
 - pkg:maven/com.iwuyc.tools/iwuyc-common-beans@0.0.1-SNAPSHOT01?classifier=sources
+- pkg:maven/com.iwuyc.tools/iwuyc-common-beans@2021.4
+- pkg:maven/com.iwuyc.tools/iwuyc-common-beans@2021.4?classifier=sources

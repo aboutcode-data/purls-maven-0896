@@ -1,0 +1,12 @@
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.140.0
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.140.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.141.0
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.141.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.142.0
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.142.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.143.0
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.143.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.144.0
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.144.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.145.0
+- pkg:maven/software.amazon.awscdk/inspectorv2@1.145.0?classifier=sources

@@ -74,6 +74,8 @@
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@3.1.7.SP1?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@3.1.8.Final
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@3.1.8.Final?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@3.1.9.Final
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@3.1.9.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.0.Alpha1
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.0.Alpha2
@@ -100,7 +102,13 @@
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.1.SP1?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.2.Final
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.3.Final
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@4.0.3.Final?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.Alpha1
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.Alpha1?classifier=sources
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.Alpha2
 - pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.Alpha2?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.Beta1
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.CR1
+- pkg:maven/org.jboss.weld.se/weld-se-shaded@5.0.0.CR1?classifier=sources

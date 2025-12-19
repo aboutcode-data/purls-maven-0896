@@ -1,0 +1,4 @@
+- pkg:maven/com.protocol180/protocol-aggregator-enclave@0.1.4
+- pkg:maven/com.protocol180/protocol-aggregator-enclave@0.1.4?classifier=sources
+- pkg:maven/com.protocol180/protocol-aggregator-enclave@0.1.5
+- pkg:maven/com.protocol180/protocol-aggregator-enclave@0.1.5?classifier=sources

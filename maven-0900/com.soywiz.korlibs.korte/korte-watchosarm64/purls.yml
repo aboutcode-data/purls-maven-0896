@@ -2,3 +2,4 @@
 - pkg:maven/com.soywiz.korlibs.korte/korte-watchosarm64@2.0.8?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korte/korte-watchosarm64@2.1.1?classifier=sources
 - pkg:maven/com.soywiz.korlibs.korte/korte-watchosarm64@2.2.0?classifier=sources
+- pkg:maven/com.soywiz.korlibs.korte/korte-watchosarm64@2.4.12?classifier=sources

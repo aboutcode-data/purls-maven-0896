@@ -25,6 +25,7 @@
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.31?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.32?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.33?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.1.34?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.3?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.4?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.1.5?classifier=sources
@@ -48,6 +49,7 @@
 - pkg:maven/au.com.dius.pact.core/matchers@4.2.18?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.2.19?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.2.1?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.2.20?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.2.2?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.2.3?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.2.4?classifier=sources
@@ -68,3 +70,4 @@
 - pkg:maven/au.com.dius.pact.core/matchers@4.3.2?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.3.3?classifier=sources
 - pkg:maven/au.com.dius.pact.core/matchers@4.3.4?classifier=sources
+- pkg:maven/au.com.dius.pact.core/matchers@4.3.5?classifier=sources

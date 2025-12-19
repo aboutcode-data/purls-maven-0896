@@ -5,3 +5,5 @@
 - pkg:maven/com.juul.tuulbox/logging-android@4.7.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-android@4.8.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/logging-android@5.0.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging-android@5.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/logging-android@6.0.0?classifier=sources

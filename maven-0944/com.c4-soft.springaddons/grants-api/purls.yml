@@ -1,3 +1,6 @@
 - pkg:maven/com.c4-soft.springaddons/grants-api@3.1.13-jdk1.8
 - pkg:maven/com.c4-soft.springaddons/grants-api@3.1.13-jdk11
 - pkg:maven/com.c4-soft.springaddons/grants-api@3.1.13-jdk17
+- pkg:maven/com.c4-soft.springaddons/grants-api@3.1.14-jdk1.8
+- pkg:maven/com.c4-soft.springaddons/grants-api@3.1.14-jdk11
+- pkg:maven/com.c4-soft.springaddons/grants-api@3.1.14-jdk17

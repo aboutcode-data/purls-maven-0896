@@ -12,6 +12,8 @@
 - pkg:maven/org.graalvm.tools/warmup@20.3.3?classifier=sources
 - pkg:maven/org.graalvm.tools/warmup@20.3.4
 - pkg:maven/org.graalvm.tools/warmup@20.3.4?classifier=sources
+- pkg:maven/org.graalvm.tools/warmup@20.3.5
+- pkg:maven/org.graalvm.tools/warmup@20.3.5?classifier=sources
 - pkg:maven/org.graalvm.tools/warmup@21.0.0
 - pkg:maven/org.graalvm.tools/warmup@21.0.0.2
 - pkg:maven/org.graalvm.tools/warmup@21.0.0.2?classifier=sources

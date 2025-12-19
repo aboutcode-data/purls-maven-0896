@@ -1,2 +1,4 @@
 - pkg:maven/org.commandmosaic/commandmosaic-spring-container-server@1.0.0
 - pkg:maven/org.commandmosaic/commandmosaic-spring-container-server@1.0.0?classifier=sources
+- pkg:maven/org.commandmosaic/commandmosaic-spring-container-server@2.0.0
+- pkg:maven/org.commandmosaic/commandmosaic-spring-container-server@2.0.0?classifier=sources

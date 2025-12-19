@@ -20,3 +20,7 @@
 - pkg:maven/group.rxcloud/example@1.11.13.2.RELEASE?classifier=sources
 - pkg:maven/group.rxcloud/example@1.11.13.3.RELEASE
 - pkg:maven/group.rxcloud/example@1.11.13.3.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/example@1.11.13.4.RELEASE
+- pkg:maven/group.rxcloud/example@1.11.13.4.RELEASE?classifier=sources
+- pkg:maven/group.rxcloud/example@1.11.13.5.RELEASE
+- pkg:maven/group.rxcloud/example@1.11.13.5.RELEASE?classifier=sources

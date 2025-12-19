@@ -34,6 +34,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@1.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@1.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@1.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@10.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@10.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@10.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@2.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@2.0.0?classifier=sources-commercial
@@ -196,3 +199,12 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@7.2.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@7.2.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@7.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@8.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@8.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@8.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@9.0.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@9.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@9.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@9.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.shipping.engine.fixed.api@9.1.0?classifier=sources-commercial

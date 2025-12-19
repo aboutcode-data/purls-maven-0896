@@ -52,3 +52,7 @@
 - pkg:maven/com.influxdb/influxdb-client-core@3.4.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-core@4.0.0
 - pkg:maven/com.influxdb/influxdb-client-core@4.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-core@4.1.0
+- pkg:maven/com.influxdb/influxdb-client-core@4.1.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-core@4.2.0
+- pkg:maven/com.influxdb/influxdb-client-core@4.2.0?classifier=sources

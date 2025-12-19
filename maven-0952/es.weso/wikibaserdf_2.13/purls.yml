@@ -11,7 +11,13 @@
 - pkg:maven/es.weso/wikibaserdf_2.13@0.1.107
 - pkg:maven/es.weso/wikibaserdf_2.13@0.1.107?classifier=sources
 - pkg:maven/es.weso/wikibaserdf_2.13@0.1.108
+- pkg:maven/es.weso/wikibaserdf_2.13@0.1.108-ult
+- pkg:maven/es.weso/wikibaserdf_2.13@0.1.108-ult?classifier=sources
+- pkg:maven/es.weso/wikibaserdf_2.13@0.1.108-ult_0
+- pkg:maven/es.weso/wikibaserdf_2.13@0.1.108-ult_0?classifier=sources
 - pkg:maven/es.weso/wikibaserdf_2.13@0.1.108?classifier=sources
+- pkg:maven/es.weso/wikibaserdf_2.13@0.1.109
+- pkg:maven/es.weso/wikibaserdf_2.13@0.1.109?classifier=sources
 - pkg:maven/es.weso/wikibaserdf_2.13@0.1.91
 - pkg:maven/es.weso/wikibaserdf_2.13@0.1.91?classifier=sources
 - pkg:maven/es.weso/wikibaserdf_2.13@0.1.93

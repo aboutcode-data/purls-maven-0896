@@ -255,5 +255,7 @@
 - pkg:maven/org.springframework.security/spring-security-remoting@5.5.2?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-remoting@5.5.3?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-remoting@5.5.4?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-remoting@5.5.5?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-remoting@5.6.0?classifier=sources
 - pkg:maven/org.springframework.security/spring-security-remoting@5.6.1?classifier=sources
+- pkg:maven/org.springframework.security/spring-security-remoting@5.6.2?classifier=sources

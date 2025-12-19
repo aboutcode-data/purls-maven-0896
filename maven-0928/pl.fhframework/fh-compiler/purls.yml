@@ -1,0 +1,2 @@
+- pkg:maven/pl.fhframework/fh-compiler@4.9.23
+- pkg:maven/pl.fhframework/fh-compiler@4.9.23?classifier=sources

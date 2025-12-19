@@ -66,3 +66,5 @@
 - pkg:maven/com.alibaba.testable/testable-core@0.7.2?classifier=sources
 - pkg:maven/com.alibaba.testable/testable-core@0.7.3
 - pkg:maven/com.alibaba.testable/testable-core@0.7.3?classifier=sources
+- pkg:maven/com.alibaba.testable/testable-core@0.7.4
+- pkg:maven/com.alibaba.testable/testable-core@0.7.4?classifier=sources

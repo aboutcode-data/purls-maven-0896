@@ -1,0 +1,2 @@
+- pkg:maven/io.parapet/spark_2.13@0.0.1-RC6
+- pkg:maven/io.parapet/spark_2.13@0.0.1-RC6?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss.resteasy.spring/galleon-feature-pack@2.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy.spring/galleon-feature-pack@3.0.0.Alpha1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.onelogin/onelogin-aws-assume-role-jsp@1.1.1?type=war
 - pkg:maven/com.onelogin/onelogin-aws-assume-role-jsp@1.1.2?classifier=sources
 - pkg:maven/com.onelogin/onelogin-aws-assume-role-jsp@1.1.2?type=war
+- pkg:maven/com.onelogin/onelogin-aws-assume-role-jsp@1.1.3?classifier=sources
+- pkg:maven/com.onelogin/onelogin-aws-assume-role-jsp@1.1.3?type=war

@@ -1,2 +1,6 @@
+- pkg:maven/org.eclipse.angus/logging-mailhandler@1.0.0
 - pkg:maven/org.eclipse.angus/logging-mailhandler@1.0.0-M1
 - pkg:maven/org.eclipse.angus/logging-mailhandler@1.0.0-M1?classifier=sources
+- pkg:maven/org.eclipse.angus/logging-mailhandler@1.0.0-M2
+- pkg:maven/org.eclipse.angus/logging-mailhandler@1.0.0-M2?classifier=sources
+- pkg:maven/org.eclipse.angus/logging-mailhandler@1.0.0?classifier=sources

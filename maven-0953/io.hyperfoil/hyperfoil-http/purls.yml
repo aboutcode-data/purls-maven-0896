@@ -8,3 +8,5 @@
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.17?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.18
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.18?classifier=sources
+- pkg:maven/io.hyperfoil/hyperfoil-http@0.19
+- pkg:maven/io.hyperfoil/hyperfoil-http@0.19?classifier=sources

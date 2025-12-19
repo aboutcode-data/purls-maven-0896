@@ -1,0 +1,2 @@
+- pkg:maven/com.github.davidmoten/ppk-maven-plugin@0.1.9
+- pkg:maven/com.github.davidmoten/ppk-maven-plugin@0.1.9?classifier=sources

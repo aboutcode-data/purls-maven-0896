@@ -1,0 +1,2 @@
+- pkg:maven/io.featurehub.sdk.composites/sdk-composite-logging-api@1.1
+- pkg:maven/io.featurehub.sdk.composites/sdk-composite-logging-api@1.1?classifier=sources

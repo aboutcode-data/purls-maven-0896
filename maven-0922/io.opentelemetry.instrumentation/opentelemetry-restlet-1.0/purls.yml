@@ -1,3 +1,7 @@
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-restlet-1.0@1.10.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-restlet-1.0@1.10.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-restlet-1.0@1.11.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-restlet-1.0@1.11.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-restlet-1.0@1.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-restlet-1.0@1.6.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-restlet-1.0@1.6.2-alpha?classifier=sources

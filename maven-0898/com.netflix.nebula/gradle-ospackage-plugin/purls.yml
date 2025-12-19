@@ -177,3 +177,5 @@
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@8.6.2?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@8.6.3?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@9.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@9.1.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-ospackage-plugin@9.1.1?classifier=sources

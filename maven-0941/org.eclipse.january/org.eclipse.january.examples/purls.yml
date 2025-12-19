@@ -8,3 +8,5 @@
 - pkg:maven/org.eclipse.january/org.eclipse.january.examples@2.2.1?classifier=sources
 - pkg:maven/org.eclipse.january/org.eclipse.january.examples@2.2.2?classifier=sources
 - pkg:maven/org.eclipse.january/org.eclipse.january.examples@2.3.0?classifier=sources
+- pkg:maven/org.eclipse.january/org.eclipse.january.examples@2.3.1?classifier=sources
+- pkg:maven/org.eclipse.january/org.eclipse.january.examples@2.3.2?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.netxms/netxms-base@3.8.366?classifier=sources
 - pkg:maven/org.netxms/netxms-base@3.9.229
 - pkg:maven/org.netxms/netxms-base@3.9.229?classifier=sources
+- pkg:maven/org.netxms/netxms-base@4.0.2156
+- pkg:maven/org.netxms/netxms-base@4.0.2156?classifier=sources

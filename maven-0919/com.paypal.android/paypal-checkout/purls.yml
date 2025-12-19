@@ -1,0 +1,4 @@
+- pkg:maven/com.paypal.android/paypal-checkout@0.0.0-test-sdk-1?classifier=sources
+- pkg:maven/com.paypal.android/paypal-checkout@0.0.0-test-sdk-2?classifier=sources
+- pkg:maven/com.paypal.android/paypal-checkout@0.0.0-test-sdk-3?classifier=sources
+- pkg:maven/com.paypal.android/paypal-checkout@0.0.0-test-sdk-4?classifier=sources

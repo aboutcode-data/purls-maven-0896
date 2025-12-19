@@ -1,2 +1,4 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-maven-jakarta@1.5.4.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-maven-jakarta@1.5.4.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-maven-jakarta@1.5.5.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-maven-jakarta@1.5.5.Final?classifier=sources

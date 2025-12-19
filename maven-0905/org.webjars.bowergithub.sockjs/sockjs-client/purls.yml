@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.bowergithub.sockjs/sockjs-client@1.4.0?classifier=sources
 - pkg:maven/org.webjars.bowergithub.sockjs/sockjs-client@1.5.0
 - pkg:maven/org.webjars.bowergithub.sockjs/sockjs-client@1.5.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.sockjs/sockjs-client@1.5.2
+- pkg:maven/org.webjars.bowergithub.sockjs/sockjs-client@1.5.2?classifier=sources

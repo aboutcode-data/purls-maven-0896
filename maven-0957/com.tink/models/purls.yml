@@ -6,3 +6,5 @@
 - pkg:maven/com.tink/models@0.6.6?classifier=sources
 - pkg:maven/com.tink/models@0.6.7?classifier=sources
 - pkg:maven/com.tink/models@0.6.8?classifier=sources
+- pkg:maven/com.tink/models@0.7.0?classifier=sources
+- pkg:maven/com.tink/models@0.8.0?classifier=sources

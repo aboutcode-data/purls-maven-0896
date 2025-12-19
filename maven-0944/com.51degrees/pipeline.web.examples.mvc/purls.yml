@@ -36,6 +36,8 @@
 - pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.11?type=war
 - pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.12?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.12?type=war
+- pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.13?classifier=sources
+- pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.13?type=war
 - pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.2?classifier=sources
 - pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.2?type=war
 - pkg:maven/com.51degrees/pipeline.web.examples.mvc@4.3.3?classifier=sources

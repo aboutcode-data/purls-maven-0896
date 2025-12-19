@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.james/james-server-filesystem-api@3.5.0?classifier=sources
 - pkg:maven/org.apache.james/james-server-filesystem-api@3.6.0
 - pkg:maven/org.apache.james/james-server-filesystem-api@3.6.0?classifier=sources
+- pkg:maven/org.apache.james/james-server-filesystem-api@3.6.2
+- pkg:maven/org.apache.james/james-server-filesystem-api@3.6.2?classifier=sources

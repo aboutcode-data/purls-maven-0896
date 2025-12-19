@@ -1,0 +1,2 @@
+- pkg:maven/io.microlam/aws-lambda-java-runtime-interface-client@2.1.0
+- pkg:maven/io.microlam/aws-lambda-java-runtime-interface-client@2.1.0?classifier=sources

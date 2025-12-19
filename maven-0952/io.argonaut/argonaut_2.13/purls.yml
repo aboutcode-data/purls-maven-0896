@@ -4,6 +4,8 @@
 - pkg:maven/io.argonaut/argonaut_2.13@6.2.4?classifier=sources
 - pkg:maven/io.argonaut/argonaut_2.13@6.2.5
 - pkg:maven/io.argonaut/argonaut_2.13@6.2.5?classifier=sources
+- pkg:maven/io.argonaut/argonaut_2.13@6.2.6
+- pkg:maven/io.argonaut/argonaut_2.13@6.2.6?classifier=sources
 - pkg:maven/io.argonaut/argonaut_2.13@6.3.0
 - pkg:maven/io.argonaut/argonaut_2.13@6.3.0-M1
 - pkg:maven/io.argonaut/argonaut_2.13@6.3.0-M1?classifier=sources
@@ -24,3 +26,5 @@
 - pkg:maven/io.argonaut/argonaut_2.13@6.3.6?classifier=sources
 - pkg:maven/io.argonaut/argonaut_2.13@6.3.7
 - pkg:maven/io.argonaut/argonaut_2.13@6.3.7?classifier=sources
+- pkg:maven/io.argonaut/argonaut_2.13@6.3.8
+- pkg:maven/io.argonaut/argonaut_2.13@6.3.8?classifier=sources

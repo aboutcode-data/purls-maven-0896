@@ -60,3 +60,5 @@
 - pkg:maven/eu.benschroeder/mockito-extension@4.0.0?classifier=sources
 - pkg:maven/eu.benschroeder/mockito-extension@4.1.0
 - pkg:maven/eu.benschroeder/mockito-extension@4.1.0?classifier=sources
+- pkg:maven/eu.benschroeder/mockito-extension@4.2.0
+- pkg:maven/eu.benschroeder/mockito-extension@4.2.0?classifier=sources

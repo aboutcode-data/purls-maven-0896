@@ -8,6 +8,7 @@
 - pkg:maven/eu.europa.ec.itb/template-processing-service@1.14.0?classifier=sources
 - pkg:maven/eu.europa.ec.itb/template-processing-service@1.14.1?classifier=sources
 - pkg:maven/eu.europa.ec.itb/template-processing-service@1.15.0?classifier=sources
+- pkg:maven/eu.europa.ec.itb/template-processing-service@1.15.1?classifier=sources
 - pkg:maven/eu.europa.ec.itb/template-processing-service@1.4.0.1?classifier=sources
 - pkg:maven/eu.europa.ec.itb/template-processing-service@1.4.0?classifier=sources
 - pkg:maven/eu.europa.ec.itb/template-processing-service@1.4.1?classifier=sources

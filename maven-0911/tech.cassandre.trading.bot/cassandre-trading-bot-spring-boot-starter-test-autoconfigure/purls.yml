@@ -42,3 +42,5 @@
 - pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test-autoconfigure@5.0.6?classifier=sources
 - pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test-autoconfigure@5.0.7
 - pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test-autoconfigure@5.0.7?classifier=sources
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test-autoconfigure@5.0.8
+- pkg:maven/tech.cassandre.trading.bot/cassandre-trading-bot-spring-boot-starter-test-autoconfigure@5.0.8?classifier=sources

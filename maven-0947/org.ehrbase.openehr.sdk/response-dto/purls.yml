@@ -1,2 +1,4 @@
+- pkg:maven/org.ehrbase.openehr.sdk/response-dto@1.17.0
+- pkg:maven/org.ehrbase.openehr.sdk/response-dto@1.17.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@1.6.0
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@1.6.0?classifier=sources

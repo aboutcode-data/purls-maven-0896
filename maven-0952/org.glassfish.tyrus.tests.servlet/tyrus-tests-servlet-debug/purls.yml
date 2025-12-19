@@ -17,3 +17,4 @@
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-debug@2.0.0-RC1?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-debug@2.0.0?type=war
 - pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-debug@2.0.1?type=war
+- pkg:maven/org.glassfish.tyrus.tests.servlet/tyrus-tests-servlet-debug@2.0.2?type=war

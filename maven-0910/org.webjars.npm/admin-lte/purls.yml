@@ -32,3 +32,5 @@
 - pkg:maven/org.webjars.npm/admin-lte@3.1.0-rc
 - pkg:maven/org.webjars.npm/admin-lte@3.1.0-rc?classifier=sources
 - pkg:maven/org.webjars.npm/admin-lte@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/admin-lte@3.2.0
+- pkg:maven/org.webjars.npm/admin-lte@3.2.0?classifier=sources

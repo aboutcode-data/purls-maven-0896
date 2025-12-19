@@ -32,3 +32,5 @@
 - pkg:maven/org.odpi.egeria/digital-service-server@3.3?classifier=sources
 - pkg:maven/org.odpi.egeria/digital-service-server@3.4
 - pkg:maven/org.odpi.egeria/digital-service-server@3.4?classifier=sources
+- pkg:maven/org.odpi.egeria/digital-service-server@3.5
+- pkg:maven/org.odpi.egeria/digital-service-server@3.5?classifier=sources

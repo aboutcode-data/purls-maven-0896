@@ -50,6 +50,8 @@
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.37?classifier=sources
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.39
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.39?classifier=sources
+- pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.40
+- pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.40?classifier=sources
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.6
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.6?classifier=sources
 - pkg:maven/com.qunar.qmq/qmq-delay-server@1.1.7

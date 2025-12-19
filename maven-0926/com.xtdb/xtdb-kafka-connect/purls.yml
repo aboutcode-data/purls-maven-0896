@@ -4,3 +4,5 @@
 - pkg:maven/com.xtdb/xtdb-kafka-connect@1.19.0?classifier=sources
 - pkg:maven/com.xtdb/xtdb-kafka-connect@1.20.0
 - pkg:maven/com.xtdb/xtdb-kafka-connect@1.20.0?classifier=sources
+- pkg:maven/com.xtdb/xtdb-kafka-connect@1.21.0-beta1
+- pkg:maven/com.xtdb/xtdb-kafka-connect@1.21.0-beta1?classifier=sources

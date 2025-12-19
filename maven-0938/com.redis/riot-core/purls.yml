@@ -4,3 +4,9 @@
 - pkg:maven/com.redis/riot-core@2.14.2?classifier=sources
 - pkg:maven/com.redis/riot-core@2.14.3?classifier=sources
 - pkg:maven/com.redis/riot-core@2.14.4?classifier=sources
+- pkg:maven/com.redis/riot-core@2.14.5?classifier=sources
+- pkg:maven/com.redis/riot-core@2.14.6?classifier=sources
+- pkg:maven/com.redis/riot-core@2.15.0?classifier=sources
+- pkg:maven/com.redis/riot-core@2.15.1?classifier=sources
+- pkg:maven/com.redis/riot-core@2.15.2?classifier=sources
+- pkg:maven/com.redis/riot-core@2.15.4?classifier=sources

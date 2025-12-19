@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.springboot/camel-componentdsl-starter@3.15.0
+- pkg:maven/org.apache.camel.springboot/camel-componentdsl-starter@3.15.0?classifier=sources

@@ -48,3 +48,7 @@
 - pkg:maven/net.apexes.commons/apexes-commons-lunar@1.6.0?classifier=sources
 - pkg:maven/net.apexes.commons/apexes-commons-lunar@1.6.1
 - pkg:maven/net.apexes.commons/apexes-commons-lunar@1.6.1?classifier=sources
+- pkg:maven/net.apexes.commons/apexes-commons-lunar@1.7.0
+- pkg:maven/net.apexes.commons/apexes-commons-lunar@1.7.0?classifier=sources
+- pkg:maven/net.apexes.commons/apexes-commons-lunar@1.7.1
+- pkg:maven/net.apexes.commons/apexes-commons-lunar@1.7.1?classifier=sources

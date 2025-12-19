@@ -85,3 +85,7 @@
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@4.2.0.2266
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@4.2.0.2266?classifier=sources
 - pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@8.0.0.41925?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@8.0.1.42120?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@8.0.2.42487?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@8.1.0.43110?classifier=sources
+- pkg:maven/org.sonarsource.sonarlint.core/sonarlint-rule-extractor@8.2.0.43778?classifier=sources

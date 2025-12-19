@@ -1,2 +1,4 @@
 - pkg:maven/org.polyvariant/better-tostring_2.13.8@0.3.13
 - pkg:maven/org.polyvariant/better-tostring_2.13.8@0.3.13?classifier=sources
+- pkg:maven/org.polyvariant/better-tostring_2.13.8@0.3.14
+- pkg:maven/org.polyvariant/better-tostring_2.13.8@0.3.14?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/se.alipsa/maven-3.8.4-utils@1.0.0
+- pkg:maven/se.alipsa/maven-3.8.4-utils@1.0.0?classifier=sources
+- pkg:maven/se.alipsa/maven-3.8.4-utils@1.0.1
+- pkg:maven/se.alipsa/maven-3.8.4-utils@1.0.1?classifier=sources

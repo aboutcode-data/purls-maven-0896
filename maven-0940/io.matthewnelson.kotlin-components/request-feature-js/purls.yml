@@ -1,2 +1,4 @@
 - pkg:maven/io.matthewnelson.kotlin-components/request-feature-js@1.0.0?classifier=sources
 - pkg:maven/io.matthewnelson.kotlin-components/request-feature-js@2.0.0?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/request-feature-js@3.0.0?classifier=sources
+- pkg:maven/io.matthewnelson.kotlin-components/request-feature-js@3.0.1?classifier=sources

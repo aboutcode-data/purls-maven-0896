@@ -42,3 +42,5 @@
 - pkg:maven/com.idea-aedi/common-spring@2023.03?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@2023.04
 - pkg:maven/com.idea-aedi/common-spring@2023.04?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2023.05
+- pkg:maven/com.idea-aedi/common-spring@2023.05?classifier=sources

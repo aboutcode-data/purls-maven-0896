@@ -14,3 +14,5 @@
 - pkg:maven/org.scala-exercises/exercise-compiler_2.12@0.6.6?classifier=sources
 - pkg:maven/org.scala-exercises/exercise-compiler_2.12@0.6.7
 - pkg:maven/org.scala-exercises/exercise-compiler_2.12@0.6.7?classifier=sources
+- pkg:maven/org.scala-exercises/exercise-compiler_2.12@0.7.1
+- pkg:maven/org.scala-exercises/exercise-compiler_2.12@0.7.1?classifier=sources

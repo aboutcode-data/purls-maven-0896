@@ -2,3 +2,5 @@
 - pkg:maven/org.apereo.cas/cas-server-support-sms-smsmode@6.5.0-RC2?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-sms-smsmode@6.5.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-sms-smsmode@6.5.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-sms-smsmode@6.5.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-sms-smsmode@6.5.0?classifier=sources

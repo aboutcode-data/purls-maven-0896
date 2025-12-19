@@ -15,6 +15,7 @@
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.transform.basicprofiles@3.1.9
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.transform.basicprofiles@3.1.9?classifier=sources
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.transform.basicprofiles@3.2.10?classifier=sources
+- pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.transform.basicprofiles@3.2.11?classifier=sources
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.transform.basicprofiles@3.2.3
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.transform.basicprofiles@3.2.3?classifier=sources
 - pkg:maven/org.smarthomej.addons.bundles/org.smarthomej.transform.basicprofiles@3.2.4

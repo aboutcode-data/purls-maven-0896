@@ -936,6 +936,8 @@
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.55?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.56
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.56?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.57
+- pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.57?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.8
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/org.wso2.carbon.editor.log.appender@3.0.9

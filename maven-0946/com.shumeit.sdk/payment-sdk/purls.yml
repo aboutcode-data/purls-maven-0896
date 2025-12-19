@@ -1,0 +1,4 @@
+- pkg:maven/com.shumeit.sdk/payment-sdk@1.0.0-RELEASE
+- pkg:maven/com.shumeit.sdk/payment-sdk@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.shumeit.sdk/payment-sdk@1.0.1-RELEASE
+- pkg:maven/com.shumeit.sdk/payment-sdk@1.0.1-RELEASE?classifier=sources

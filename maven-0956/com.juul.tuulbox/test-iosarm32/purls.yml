@@ -6,3 +6,5 @@
 - pkg:maven/com.juul.tuulbox/test-iosarm32@4.7.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/test-iosarm32@4.8.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/test-iosarm32@5.0.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm32@5.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm32@6.0.0?classifier=sources

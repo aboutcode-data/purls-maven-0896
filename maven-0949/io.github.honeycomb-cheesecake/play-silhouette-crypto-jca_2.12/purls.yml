@@ -2,3 +2,7 @@
 - pkg:maven/io.github.honeycomb-cheesecake/play-silhouette-crypto-jca_2.12@7.0.1?classifier=sources
 - pkg:maven/io.github.honeycomb-cheesecake/play-silhouette-crypto-jca_2.12@7.0.2
 - pkg:maven/io.github.honeycomb-cheesecake/play-silhouette-crypto-jca_2.12@7.0.2?classifier=sources
+- pkg:maven/io.github.honeycomb-cheesecake/play-silhouette-crypto-jca_2.12@7.0.3
+- pkg:maven/io.github.honeycomb-cheesecake/play-silhouette-crypto-jca_2.12@7.0.3?classifier=sources
+- pkg:maven/io.github.honeycomb-cheesecake/play-silhouette-crypto-jca_2.12@7.0.4
+- pkg:maven/io.github.honeycomb-cheesecake/play-silhouette-crypto-jca_2.12@7.0.4?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/dev.b3nedikt.applocale/applocale@2.0.2?type=aar
 - pkg:maven/dev.b3nedikt.applocale/applocale@2.0.3?classifier=sources
 - pkg:maven/dev.b3nedikt.applocale/applocale@2.0.3?type=aar
+- pkg:maven/dev.b3nedikt.applocale/applocale@3.0.0?classifier=sources

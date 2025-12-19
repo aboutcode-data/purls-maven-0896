@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.msha/client-channel@0.2
+- pkg:maven/com.alibaba.msha/client-channel@0.2?classifier=sources

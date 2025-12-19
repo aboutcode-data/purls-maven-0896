@@ -4,3 +4,5 @@
 - pkg:maven/de.justjanne.libquassel/libquassel-protocol@0.5.3?classifier=sources
 - pkg:maven/de.justjanne.libquassel/libquassel-protocol@0.6.0?classifier=sources
 - pkg:maven/de.justjanne.libquassel/libquassel-protocol@0.6.1?classifier=sources
+- pkg:maven/de.justjanne.libquassel/libquassel-protocol@0.7.0?classifier=sources
+- pkg:maven/de.justjanne.libquassel/libquassel-protocol@0.8.0?classifier=sources

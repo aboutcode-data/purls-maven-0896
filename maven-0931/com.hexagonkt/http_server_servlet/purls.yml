@@ -46,3 +46,7 @@
 - pkg:maven/com.hexagonkt/http_server_servlet@2.0.0-B1?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_servlet@2.0.0-B2?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_servlet@2.0.0-B3?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_servlet@2.0.0-B4?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_servlet@2.0.0?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_servlet@2.0.1?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_servlet@2.0.2?classifier=sources

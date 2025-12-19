@@ -1,0 +1,4 @@
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.4
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.4?classifier=sources
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.5
+- pkg:maven/com.kuflow.engine.client/kuflow-engine-client-activity-api-s3@0.0.5?classifier=sources

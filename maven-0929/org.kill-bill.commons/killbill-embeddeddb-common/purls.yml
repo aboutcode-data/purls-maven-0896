@@ -185,6 +185,8 @@
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.19
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.19?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.2
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.20
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.20?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.2?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.3
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.3?classifier=sources
@@ -200,6 +202,8 @@
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.8?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.9
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.24.9?classifier=sources
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.25.0
+- pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.25.0?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.3
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.3?classifier=sources
 - pkg:maven/org.kill-bill.commons/killbill-embeddeddb-common@0.4

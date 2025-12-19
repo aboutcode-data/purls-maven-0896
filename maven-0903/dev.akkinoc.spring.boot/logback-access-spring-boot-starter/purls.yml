@@ -8,3 +8,7 @@
 - pkg:maven/dev.akkinoc.spring.boot/logback-access-spring-boot-starter@3.1.2?classifier=sources
 - pkg:maven/dev.akkinoc.spring.boot/logback-access-spring-boot-starter@3.2.0
 - pkg:maven/dev.akkinoc.spring.boot/logback-access-spring-boot-starter@3.2.0?classifier=sources
+- pkg:maven/dev.akkinoc.spring.boot/logback-access-spring-boot-starter@3.2.1
+- pkg:maven/dev.akkinoc.spring.boot/logback-access-spring-boot-starter@3.2.1?classifier=sources
+- pkg:maven/dev.akkinoc.spring.boot/logback-access-spring-boot-starter@3.2.2
+- pkg:maven/dev.akkinoc.spring.boot/logback-access-spring-boot-starter@3.2.2?classifier=sources

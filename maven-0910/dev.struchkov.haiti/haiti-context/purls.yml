@@ -1,0 +1,8 @@
+- pkg:maven/dev.struchkov.haiti/haiti-context@0.0.2
+- pkg:maven/dev.struchkov.haiti/haiti-context@0.0.2?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-context@0.0.3
+- pkg:maven/dev.struchkov.haiti/haiti-context@0.0.3?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-context@0.0.4
+- pkg:maven/dev.struchkov.haiti/haiti-context@0.0.4?classifier=sources
+- pkg:maven/dev.struchkov.haiti/haiti-context@1.0.0
+- pkg:maven/dev.struchkov.haiti/haiti-context@1.0.0?classifier=sources

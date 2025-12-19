@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.10
+- pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.10?classifier=sources
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.7
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.7?classifier=sources
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.8

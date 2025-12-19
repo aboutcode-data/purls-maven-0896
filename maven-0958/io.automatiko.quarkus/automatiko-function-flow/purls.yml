@@ -4,6 +4,8 @@
 - pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.10.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.11.0
 - pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.11.0?classifier=sources
+- pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.12.0
+- pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.12.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.2.0
 - pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.2.0?classifier=sources
 - pkg:maven/io.automatiko.quarkus/automatiko-function-flow@0.3.0

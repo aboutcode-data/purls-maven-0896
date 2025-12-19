@@ -32,3 +32,5 @@
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@6.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@7.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-integration-tests@8.0.0
+- pkg:maven/com.okta.sdk/okta-sdk-integration-tests@8.1.0
+- pkg:maven/com.okta.sdk/okta-sdk-integration-tests@9.0.0-beta

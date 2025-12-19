@@ -13,3 +13,5 @@
 - pkg:maven/org.keycloak/google-authentication@15.1.1?type=war
 - pkg:maven/org.keycloak/google-authentication@16.0.0?type=war
 - pkg:maven/org.keycloak/google-authentication@16.1.0?type=war
+- pkg:maven/org.keycloak/google-authentication@16.1.1?type=war
+- pkg:maven/org.keycloak/google-authentication@17.0.0?type=war

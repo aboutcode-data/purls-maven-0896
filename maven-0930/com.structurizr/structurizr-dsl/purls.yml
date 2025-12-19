@@ -16,3 +16,5 @@
 - pkg:maven/com.structurizr/structurizr-dsl@1.16.0?classifier=sources
 - pkg:maven/com.structurizr/structurizr-dsl@1.17.0
 - pkg:maven/com.structurizr/structurizr-dsl@1.17.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-dsl@1.18.0
+- pkg:maven/com.structurizr/structurizr-dsl@1.18.0?classifier=sources

@@ -44,3 +44,13 @@
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.42?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.43
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.43?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.44
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.44?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.45
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.45?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.46
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.46?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.47
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.47?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.48
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.10.48?classifier=sources

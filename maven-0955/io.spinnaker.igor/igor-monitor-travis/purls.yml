@@ -3,4 +3,5 @@
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.5.2?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.5.3?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.5.4?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.6.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@version-1.18.0?classifier=sources

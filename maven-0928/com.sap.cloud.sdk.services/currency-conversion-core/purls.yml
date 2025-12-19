@@ -66,3 +66,11 @@
 - pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.59.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.60.0
 - pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.60.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.61.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.61.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.62.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.62.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.63.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.63.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.64.0
+- pkg:maven/com.sap.cloud.sdk.services/currency-conversion-core@3.64.0?classifier=sources

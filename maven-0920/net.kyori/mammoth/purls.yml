@@ -1,1 +1,2 @@
 - pkg:maven/net.kyori/mammoth@1.0.0?classifier=sources
+- pkg:maven/net.kyori/mammoth@1.1.0?classifier=sources

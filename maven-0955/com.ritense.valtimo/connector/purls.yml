@@ -1,3 +1,6 @@
 - pkg:maven/com.ritense.valtimo/connector@9.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/connector@9.1.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/connector@9.2.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/connector@9.3.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/connector@9.4.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/connector@9.5.0.RELEASE?classifier=sources

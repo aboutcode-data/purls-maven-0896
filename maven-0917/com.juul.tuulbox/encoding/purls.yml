@@ -12,3 +12,5 @@
 - pkg:maven/com.juul.tuulbox/encoding@4.7.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/encoding@4.8.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/encoding@5.0.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/encoding@5.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/encoding@6.0.0?classifier=sources

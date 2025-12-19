@@ -1,0 +1,4 @@
+- pkg:maven/org.tupol/scala-utils-jdbc_2.12@1.1.1
+- pkg:maven/org.tupol/scala-utils-jdbc_2.12@1.1.1?classifier=sources
+- pkg:maven/org.tupol/scala-utils-jdbc_2.12@1.1.2
+- pkg:maven/org.tupol/scala-utils-jdbc_2.12@1.1.2?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.10.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.11.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.4.0
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.4.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.5.0

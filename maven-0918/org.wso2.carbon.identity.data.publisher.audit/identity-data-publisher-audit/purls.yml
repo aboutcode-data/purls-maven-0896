@@ -6,3 +6,4 @@
 - pkg:maven/org.wso2.carbon.identity.data.publisher.audit/identity-data-publisher-audit@1.3.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.data.publisher.audit/identity-data-publisher-audit@1.3.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.data.publisher.audit/identity-data-publisher-audit@1.3.4?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.data.publisher.audit/identity-data-publisher-audit@1.4.0?classifier=source-release&type=zip

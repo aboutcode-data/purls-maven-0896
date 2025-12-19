@@ -1,3 +1,5 @@
+- pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.10.0
+- pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.10.0?classifier=sources
 - pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.11
 - pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.11?classifier=sources
 - pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.12
@@ -8,3 +10,5 @@
 - pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.14?classifier=sources
 - pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.15
 - pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.15?classifier=sources
+- pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.16
+- pkg:maven/com.geirsson/metaconfig-sconfig_native0.4_2.13@0.9.16?classifier=sources

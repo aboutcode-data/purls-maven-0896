@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/blueimp-load-image@2.24.0?classifier=sources
 - pkg:maven/org.webjars.npm/blueimp-load-image@2.26.0
 - pkg:maven/org.webjars.npm/blueimp-load-image@2.26.0?classifier=sources
+- pkg:maven/org.webjars.npm/blueimp-load-image@5.16.0
+- pkg:maven/org.webjars.npm/blueimp-load-image@5.16.0?classifier=sources

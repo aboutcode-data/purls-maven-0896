@@ -1,0 +1,5 @@
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@10.20.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@11.15.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@12.10.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@13.6.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@14.2.0?classifier=sources

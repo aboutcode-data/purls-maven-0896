@@ -24,3 +24,7 @@
 - pkg:maven/cloud.piranha.http/piranha-http-webapp@21.8.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-webapp@21.9.0
 - pkg:maven/cloud.piranha.http/piranha-http-webapp@21.9.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@22.1.0
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@22.1.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@22.2.0
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@22.2.0?classifier=sources

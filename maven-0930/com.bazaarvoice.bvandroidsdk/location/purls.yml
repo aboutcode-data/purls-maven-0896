@@ -90,6 +90,8 @@
 - pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.0.2?type=aar
 - pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.1.0?classifier=sources
 - pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.1.0?type=aar
+- pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.10.0?classifier=sources
+- pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.10.0?type=aar
 - pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.2.0?classifier=sources
 - pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.2.0?type=aar
 - pkg:maven/com.bazaarvoice.bvandroidsdk/location@8.2.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/dev.zio/zio-prelude-scala-parallel-collections_2.11@1.0.0-RC10
+- pkg:maven/dev.zio/zio-prelude-scala-parallel-collections_2.11@1.0.0-RC10?classifier=sources
 - pkg:maven/dev.zio/zio-prelude-scala-parallel-collections_2.11@1.0.0-RC3
 - pkg:maven/dev.zio/zio-prelude-scala-parallel-collections_2.11@1.0.0-RC3?classifier=sources
 - pkg:maven/dev.zio/zio-prelude-scala-parallel-collections_2.11@1.0.0-RC4

@@ -23,3 +23,4 @@
 - pkg:maven/org.minidns/minidns-async@1.0.0?classifier=sources
 - pkg:maven/org.minidns/minidns-async@1.0.1?classifier=sources
 - pkg:maven/org.minidns/minidns-async@1.0.2?classifier=sources
+- pkg:maven/org.minidns/minidns-async@1.0.3?classifier=sources
