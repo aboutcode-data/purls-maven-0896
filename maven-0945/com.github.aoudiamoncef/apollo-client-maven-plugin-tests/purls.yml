@@ -10,6 +10,8 @@
 - pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@4.0.4?classifier=sources
 - pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@4.0.5
 - pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@4.0.5?classifier=sources
+- pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@4.0.6
+- pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@4.0.6?classifier=sources
 - pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@5.0.0
 - pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@5.0.0?classifier=sources
 - pkg:maven/com.github.aoudiamoncef/apollo-client-maven-plugin-tests@v4.0.5

@@ -18,3 +18,5 @@
 - pkg:maven/com.loadcoder/loadcoder-testutilities@3.0.0?classifier=sources
 - pkg:maven/com.loadcoder/loadcoder-testutilities@3.1.0
 - pkg:maven/com.loadcoder/loadcoder-testutilities@3.1.0?classifier=sources
+- pkg:maven/com.loadcoder/loadcoder-testutilities@3.1.1
+- pkg:maven/com.loadcoder/loadcoder-testutilities@3.1.1?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/de.osshangar/java-plugin-framework@1.0
+- pkg:maven/de.osshangar/java-plugin-framework@1.0?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@3.0
+- pkg:maven/de.osshangar/java-plugin-framework@3.0?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@3.1
+- pkg:maven/de.osshangar/java-plugin-framework@3.1?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@3.3
+- pkg:maven/de.osshangar/java-plugin-framework@3.3?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@3.4
+- pkg:maven/de.osshangar/java-plugin-framework@3.4?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@3.6
+- pkg:maven/de.osshangar/java-plugin-framework@3.6?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@3.7
+- pkg:maven/de.osshangar/java-plugin-framework@3.7?classifier=sources
+- pkg:maven/de.osshangar/java-plugin-framework@3.8
+- pkg:maven/de.osshangar/java-plugin-framework@3.8?classifier=sources

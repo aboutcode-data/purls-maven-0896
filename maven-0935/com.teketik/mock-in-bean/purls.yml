@@ -6,5 +6,9 @@
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.2?classifier=sources
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.3
 - pkg:maven/com.teketik/mock-in-bean@boot2-v1.3?classifier=sources
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.4
+- pkg:maven/com.teketik/mock-in-bean@boot2-v1.4?classifier=sources
 - pkg:maven/com.teketik/mock-in-bean@boot2-v2.0-RC
 - pkg:maven/com.teketik/mock-in-bean@boot2-v2.0-RC?classifier=sources
+- pkg:maven/com.teketik/mock-in-bean@boot2-v2.1-RC
+- pkg:maven/com.teketik/mock-in-bean@boot2-v2.1-RC?classifier=sources

@@ -244,3 +244,9 @@
 - pkg:maven/org.aoju/bus-storage@6.5.2?classifier=sources
 - pkg:maven/org.aoju/bus-storage@6.5.3
 - pkg:maven/org.aoju/bus-storage@6.5.3?classifier=sources
+- pkg:maven/org.aoju/bus-storage@6.5.5
+- pkg:maven/org.aoju/bus-storage@6.5.5?classifier=sources
+- pkg:maven/org.aoju/bus-storage@6.5.6
+- pkg:maven/org.aoju/bus-storage@6.5.6?classifier=sources
+- pkg:maven/org.aoju/bus-storage@6.5.8
+- pkg:maven/org.aoju/bus-storage@6.5.8?classifier=sources

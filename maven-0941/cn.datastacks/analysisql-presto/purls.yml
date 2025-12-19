@@ -1,0 +1,2 @@
+- pkg:maven/cn.datastacks/analysisql-presto@1.1
+- pkg:maven/cn.datastacks/analysisql-presto@1.1?classifier=sources

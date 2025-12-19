@@ -64,5 +64,6 @@
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@21.1?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@21.2?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@21.4?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.kernel/sakai-kernel-impl@22.1?classifier=sources

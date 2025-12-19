@@ -2,6 +2,10 @@
 - pkg:maven/io.github.humbleui/skija-linux@0.100.0?classifier=sources
 - pkg:maven/io.github.humbleui/skija-linux@0.102.0
 - pkg:maven/io.github.humbleui/skija-linux@0.102.0?classifier=sources
+- pkg:maven/io.github.humbleui/skija-linux@0.105.0
+- pkg:maven/io.github.humbleui/skija-linux@0.105.0?classifier=sources
+- pkg:maven/io.github.humbleui/skija-linux@0.106.0
+- pkg:maven/io.github.humbleui/skija-linux@0.106.0?classifier=sources
 - pkg:maven/io.github.humbleui/skija-linux@0.98.0
 - pkg:maven/io.github.humbleui/skija-linux@0.98.0?classifier=sources
 - pkg:maven/io.github.humbleui/skija-linux@0.98.1

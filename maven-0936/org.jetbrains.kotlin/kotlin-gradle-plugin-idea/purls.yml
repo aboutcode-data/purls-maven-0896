@@ -9,3 +9,4 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.7.10
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.7.10?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.7.20-Beta?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.7.20-RC?classifier=sources

@@ -29,3 +29,5 @@
 - pkg:maven/org.projectnessie/nessie-spark-3.2-extensions@0.40.2?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-3.2-extensions@0.40.3?classifier=sources
 - pkg:maven/org.projectnessie/nessie-spark-3.2-extensions@0.41.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-spark-3.2-extensions@0.42.0?classifier=sources
+- pkg:maven/org.projectnessie/nessie-spark-3.2-extensions@0.43.0?classifier=sources

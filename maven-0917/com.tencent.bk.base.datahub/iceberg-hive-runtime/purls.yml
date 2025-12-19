@@ -8,3 +8,5 @@
 - pkg:maven/com.tencent.bk.base.datahub/iceberg-hive-runtime@0.13.1-bkbase.2?classifier=sources
 - pkg:maven/com.tencent.bk.base.datahub/iceberg-hive-runtime@0.13.1-bkbase.3?classifier=sources
 - pkg:maven/com.tencent.bk.base.datahub/iceberg-hive-runtime@0.13.1-bkbase.4?classifier=sources
+- pkg:maven/com.tencent.bk.base.datahub/iceberg-hive-runtime@0.14.0-bkbase.1?classifier=sources
+- pkg:maven/com.tencent.bk.base.datahub/iceberg-hive-runtime@0.14.0-bkbase.2?classifier=sources

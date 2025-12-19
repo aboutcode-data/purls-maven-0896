@@ -7,3 +7,4 @@
 - pkg:maven/org.spekframework.spek2/spek-runtime-native-linux@2.0.16?classifier=sources
 - pkg:maven/org.spekframework.spek2/spek-runtime-native-linux@2.0.17?classifier=sources
 - pkg:maven/org.spekframework.spek2/spek-runtime-native-linux@2.0.18?classifier=sources
+- pkg:maven/org.spekframework.spek2/spek-runtime-native-linux@2.0.19?classifier=sources

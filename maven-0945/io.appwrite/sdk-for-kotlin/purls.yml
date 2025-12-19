@@ -9,3 +9,4 @@
 - pkg:maven/io.appwrite/sdk-for-kotlin@0.4.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-kotlin@0.5.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-kotlin@0.6.0?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-kotlin@1.0.0?classifier=sources

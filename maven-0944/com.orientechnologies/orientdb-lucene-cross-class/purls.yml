@@ -2,3 +2,5 @@
 - pkg:maven/com.orientechnologies/orientdb-lucene-cross-class@3.0.42?classifier=sources
 - pkg:maven/com.orientechnologies/orientdb-lucene-cross-class@3.0.43
 - pkg:maven/com.orientechnologies/orientdb-lucene-cross-class@3.0.43?classifier=sources
+- pkg:maven/com.orientechnologies/orientdb-lucene-cross-class@3.0.44
+- pkg:maven/com.orientechnologies/orientdb-lucene-cross-class@3.0.44?classifier=sources

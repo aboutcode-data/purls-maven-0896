@@ -4,3 +4,5 @@
 - pkg:maven/com.couchbase.lite/couchbase-lite-android-ktx@3.0.0-beta02?type=aar
 - pkg:maven/com.couchbase.lite/couchbase-lite-android-ktx@3.0.0?classifier=sources
 - pkg:maven/com.couchbase.lite/couchbase-lite-android-ktx@3.0.0?type=aar
+- pkg:maven/com.couchbase.lite/couchbase-lite-android-ktx@3.0.2?classifier=sources
+- pkg:maven/com.couchbase.lite/couchbase-lite-android-ktx@3.0.2?type=aar

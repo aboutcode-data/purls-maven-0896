@@ -1,0 +1,2 @@
+- pkg:maven/com.corgibytes/versions-maven-plugin@2.11.1
+- pkg:maven/com.corgibytes/versions-maven-plugin@2.11.1?classifier=sources

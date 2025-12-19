@@ -6,3 +6,4 @@
 - pkg:maven/me.madhead.aws-junit5/ses-v2@7.0.1?classifier=sources
 - pkg:maven/me.madhead.aws-junit5/ses-v2@7.1.0?classifier=sources
 - pkg:maven/me.madhead.aws-junit5/ses-v2@7.1.1?classifier=sources
+- pkg:maven/me.madhead.aws-junit5/ses-v2@7.1.2?classifier=sources

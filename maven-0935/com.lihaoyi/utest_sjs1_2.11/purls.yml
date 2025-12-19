@@ -12,3 +12,5 @@
 - pkg:maven/com.lihaoyi/utest_sjs1_2.11@0.7.9?classifier=sources
 - pkg:maven/com.lihaoyi/utest_sjs1_2.11@0.8.0
 - pkg:maven/com.lihaoyi/utest_sjs1_2.11@0.8.0?classifier=sources
+- pkg:maven/com.lihaoyi/utest_sjs1_2.11@0.8.1
+- pkg:maven/com.lihaoyi/utest_sjs1_2.11@0.8.1?classifier=sources

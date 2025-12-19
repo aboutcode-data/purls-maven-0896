@@ -1,0 +1,4 @@
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@1.1.1
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@1.1.1?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.0.0-beta
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.0.0-beta?classifier=sources

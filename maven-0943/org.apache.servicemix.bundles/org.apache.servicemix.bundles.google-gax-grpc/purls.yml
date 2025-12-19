@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-gax-grpc@2.18.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-gax-grpc@2.18.1_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-gax-grpc@2.18.1_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.google-gax-grpc@2.18.1_1?classifier=src&type=zip

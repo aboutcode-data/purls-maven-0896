@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/babel__standalone@7.17.2?classifier=sources
 - pkg:maven/org.webjars.npm/babel__standalone@7.18.1
 - pkg:maven/org.webjars.npm/babel__standalone@7.18.1?classifier=sources
+- pkg:maven/org.webjars.npm/babel__standalone@7.19.0
+- pkg:maven/org.webjars.npm/babel__standalone@7.19.0?classifier=sources

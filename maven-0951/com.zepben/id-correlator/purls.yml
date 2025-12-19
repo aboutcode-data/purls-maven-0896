@@ -1,2 +1,4 @@
 - pkg:maven/com.zepben/id-correlator@1.5.0
 - pkg:maven/com.zepben/id-correlator@1.5.0?classifier=sources
+- pkg:maven/com.zepben/id-correlator@1.6.0-SNAPSHOT1
+- pkg:maven/com.zepben/id-correlator@1.6.0-SNAPSHOT1?classifier=sources

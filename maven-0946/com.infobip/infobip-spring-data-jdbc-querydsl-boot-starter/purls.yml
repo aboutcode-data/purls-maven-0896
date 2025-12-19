@@ -46,3 +46,7 @@
 - pkg:maven/com.infobip/infobip-spring-data-jdbc-querydsl-boot-starter@6.2.2?classifier=sources
 - pkg:maven/com.infobip/infobip-spring-data-jdbc-querydsl-boot-starter@7.0.0
 - pkg:maven/com.infobip/infobip-spring-data-jdbc-querydsl-boot-starter@7.0.0?classifier=sources
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-querydsl-boot-starter@7.1.0
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-querydsl-boot-starter@7.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-querydsl-boot-starter@7.2.0
+- pkg:maven/com.infobip/infobip-spring-data-jdbc-querydsl-boot-starter@7.2.0?classifier=sources

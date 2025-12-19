@@ -12,3 +12,5 @@
 - pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud@4.4?classifier=sources
 - pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud@4.5
 - pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud@4.5?classifier=sources
+- pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud@4.6.0
+- pkg:maven/org.axonframework.extensions.springcloud/axon-springcloud@4.6.0?classifier=sources

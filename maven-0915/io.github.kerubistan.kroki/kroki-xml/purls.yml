@@ -14,3 +14,5 @@
 - pkg:maven/io.github.kerubistan.kroki/kroki-xml@1.21?classifier=sources
 - pkg:maven/io.github.kerubistan.kroki/kroki-xml@1.22
 - pkg:maven/io.github.kerubistan.kroki/kroki-xml@1.22?classifier=sources
+- pkg:maven/io.github.kerubistan.kroki/kroki-xml@1.23
+- pkg:maven/io.github.kerubistan.kroki/kroki-xml@1.23?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/com.yandex.div/div-states@5.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@6.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@7.0.0?classifier=sources

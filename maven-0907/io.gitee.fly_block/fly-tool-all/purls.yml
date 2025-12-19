@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.fly_block/fly-tool-all@1.0-test
+- pkg:maven/io.gitee.fly_block/fly-tool-all@1.0-test?classifier=sources
+- pkg:maven/io.gitee.fly_block/fly-tool-all@1.0.1-test
+- pkg:maven/io.gitee.fly_block/fly-tool-all@1.0.1-test?classifier=sources

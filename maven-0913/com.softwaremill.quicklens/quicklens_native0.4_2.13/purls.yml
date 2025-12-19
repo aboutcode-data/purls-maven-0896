@@ -10,6 +10,8 @@
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.7.4?classifier=sources
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.7.5
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.7.5?classifier=sources
+- pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.10
+- pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.10?classifier=sources
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.2
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.2?classifier=sources
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.3
@@ -24,3 +26,7 @@
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.7?classifier=sources
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.8
 - pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.8?classifier=sources
+- pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.9
+- pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.8.9?classifier=sources
+- pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.9.0
+- pkg:maven/com.softwaremill.quicklens/quicklens_native0.4_2.13@1.9.0?classifier=sources

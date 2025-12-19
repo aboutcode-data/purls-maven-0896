@@ -30,6 +30,7 @@
 - pkg:maven/org.zalando/fahrschein-inmemory@0.21.1?classifier=sources
 - pkg:maven/org.zalando/fahrschein-inmemory@0.22.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-inmemory@0.23.0?classifier=sources
+- pkg:maven/org.zalando/fahrschein-inmemory@0.24.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-inmemory@0.8.0
 - pkg:maven/org.zalando/fahrschein-inmemory@0.8.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-inmemory@0.8.1

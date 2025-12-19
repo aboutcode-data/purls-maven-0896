@@ -12,3 +12,5 @@
 - pkg:maven/org.apache.unomi/unomi-scripting@1.5.7?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-scripting@1.6.0
 - pkg:maven/org.apache.unomi/unomi-scripting@1.6.0?classifier=sources
+- pkg:maven/org.apache.unomi/unomi-scripting@1.6.1
+- pkg:maven/org.apache.unomi/unomi-scripting@1.6.1?classifier=sources

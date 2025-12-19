@@ -12,3 +12,5 @@
 - pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.3?classifier=sources
 - pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.4
 - pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@11.9.4?classifier=sources
+- pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@12.0.0
+- pkg:maven/com.precisely.apis/PreciselyAPISJavaSDK@12.0.0?classifier=sources

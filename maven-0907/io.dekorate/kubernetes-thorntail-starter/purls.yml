@@ -82,6 +82,8 @@
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.10.0
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.11.0
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.11.1
+- pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.11.2
+- pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.11.3
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.2.0
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.2.1
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.2.2
@@ -99,3 +101,4 @@
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.9.1
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.9.2
 - pkg:maven/io.dekorate/kubernetes-thorntail-starter@2.9.3
+- pkg:maven/io.dekorate/kubernetes-thorntail-starter@3.0.0

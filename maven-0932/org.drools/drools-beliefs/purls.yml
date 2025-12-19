@@ -314,3 +314,5 @@
 - pkg:maven/org.drools/drools-beliefs@8.25.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-beliefs@8.26.0.Beta
 - pkg:maven/org.drools/drools-beliefs@8.26.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-beliefs@8.27.0.Beta
+- pkg:maven/org.drools/drools-beliefs@8.27.0.Beta?classifier=sources

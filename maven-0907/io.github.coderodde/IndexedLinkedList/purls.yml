@@ -4,6 +4,8 @@
 - pkg:maven/io.github.coderodde/IndexedLinkedList@1.61803
 - pkg:maven/io.github.coderodde/IndexedLinkedList@1.618033
 - pkg:maven/io.github.coderodde/IndexedLinkedList@1.6180339
+- pkg:maven/io.github.coderodde/IndexedLinkedList@1.61803398
+- pkg:maven/io.github.coderodde/IndexedLinkedList@1.61803398?classifier=sources
 - pkg:maven/io.github.coderodde/IndexedLinkedList@1.6180339?classifier=sources
 - pkg:maven/io.github.coderodde/IndexedLinkedList@1.618033?classifier=sources
 - pkg:maven/io.github.coderodde/IndexedLinkedList@1.61803?classifier=sources

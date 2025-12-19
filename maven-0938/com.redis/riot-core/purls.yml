@@ -13,3 +13,8 @@
 - pkg:maven/com.redis/riot-core@2.15.5?classifier=sources
 - pkg:maven/com.redis/riot-core@2.16.0?classifier=sources
 - pkg:maven/com.redis/riot-core@2.16.1?classifier=sources
+- pkg:maven/com.redis/riot-core@2.16.2?classifier=sources
+- pkg:maven/com.redis/riot-core@2.17.0?classifier=sources
+- pkg:maven/com.redis/riot-core@2.18.0?classifier=sources
+- pkg:maven/com.redis/riot-core@2.18.1?classifier=sources
+- pkg:maven/com.redis/riot-core@2.18.2?classifier=sources

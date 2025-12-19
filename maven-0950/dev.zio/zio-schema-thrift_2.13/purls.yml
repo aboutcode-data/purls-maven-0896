@@ -1,3 +1,5 @@
+- pkg:maven/dev.zio/zio-schema-thrift_2.13@0.1.11
+- pkg:maven/dev.zio/zio-schema-thrift_2.13@0.1.11?classifier=sources
 - pkg:maven/dev.zio/zio-schema-thrift_2.13@0.1.8
 - pkg:maven/dev.zio/zio-schema-thrift_2.13@0.1.8?classifier=sources
 - pkg:maven/dev.zio/zio-schema-thrift_2.13@0.1.9
@@ -16,3 +18,5 @@
 - pkg:maven/dev.zio/zio-schema-thrift_2.13@0.2.0-RC6-2?classifier=sources
 - pkg:maven/dev.zio/zio-schema-thrift_2.13@0.2.0-RC6?classifier=sources
 - pkg:maven/dev.zio/zio-schema-thrift_2.13@0.2.0?classifier=sources
+- pkg:maven/dev.zio/zio-schema-thrift_2.13@0.2.1
+- pkg:maven/dev.zio/zio-schema-thrift_2.13@0.2.1?classifier=sources

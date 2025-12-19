@@ -10,3 +10,7 @@
 - pkg:maven/com.codenameone/coderad-annotation-processor@2.0-pre4?classifier=sources
 - pkg:maven/com.codenameone/coderad-annotation-processor@2.0.1
 - pkg:maven/com.codenameone/coderad-annotation-processor@2.0.1?classifier=sources
+- pkg:maven/com.codenameone/coderad-annotation-processor@2.0.2
+- pkg:maven/com.codenameone/coderad-annotation-processor@2.0.2?classifier=sources
+- pkg:maven/com.codenameone/coderad-annotation-processor@2.0.3
+- pkg:maven/com.codenameone/coderad-annotation-processor@2.0.3?classifier=sources

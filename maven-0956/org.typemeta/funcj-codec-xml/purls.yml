@@ -4,3 +4,5 @@
 - pkg:maven/org.typemeta/funcj-codec-xml@0.6.15?classifier=sources
 - pkg:maven/org.typemeta/funcj-codec-xml@0.6.16
 - pkg:maven/org.typemeta/funcj-codec-xml@0.6.16?classifier=sources
+- pkg:maven/org.typemeta/funcj-codec-xml@0.6.18
+- pkg:maven/org.typemeta/funcj-codec-xml@0.6.18?classifier=sources

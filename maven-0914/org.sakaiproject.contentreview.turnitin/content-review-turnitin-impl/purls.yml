@@ -50,6 +50,8 @@
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@21.2?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@21.3
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@21.3?classifier=sources
+- pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@21.4
+- pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@21.4?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@22.0
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.contentreview.turnitin/content-review-turnitin-impl@22.1

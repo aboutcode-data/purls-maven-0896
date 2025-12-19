@@ -1,3 +1,4 @@
+- pkg:maven/hu.blackbelt.judo.eclipse.jdk.zulu/test.rcp@11.0.15.20220919_083240?classifier=sources
 - pkg:maven/hu.blackbelt.judo.eclipse.jdk.zulu/test.rcp@11.0.8?classifier=sources
 - pkg:maven/hu.blackbelt.judo.eclipse.jdk.zulu/test.rcp@8.0.232?classifier=sources
 - pkg:maven/hu.blackbelt.judo.eclipse.jdk.zulu/test.rcp@8.0.242?classifier=sources

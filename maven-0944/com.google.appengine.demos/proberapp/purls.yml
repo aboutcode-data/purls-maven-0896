@@ -1,0 +1,2 @@
+- pkg:maven/com.google.appengine.demos/proberapp@2.0.7?classifier=sources
+- pkg:maven/com.google.appengine.demos/proberapp@2.0.7?type=war

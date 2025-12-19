@@ -22,3 +22,7 @@
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.5.3?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.5.4
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.5.4?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.5.5
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.5.5?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.6.0
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-bootstrap_3@0.6.0?classifier=sources

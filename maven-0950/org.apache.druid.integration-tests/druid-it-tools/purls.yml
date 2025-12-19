@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid.integration-tests/druid-it-tools@24.0.0
+- pkg:maven/org.apache.druid.integration-tests/druid-it-tools@24.0.0?classifier=sources

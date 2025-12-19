@@ -3,3 +3,5 @@
 - pkg:maven/io.github.joreilly/peopleinspace-lib-android@0.0.5?classifier=sources
 - pkg:maven/io.github.joreilly/peopleinspace-lib-android@0.0.6?classifier=sources
 - pkg:maven/io.github.joreilly/peopleinspace-lib-android@0.4.0?classifier=sources
+- pkg:maven/io.github.joreilly/peopleinspace-lib-android@0.5.1?classifier=sources
+- pkg:maven/io.github.joreilly/peopleinspace-lib-android@0.5.2?classifier=sources

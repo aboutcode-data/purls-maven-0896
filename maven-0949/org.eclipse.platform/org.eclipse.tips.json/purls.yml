@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.2.100
 - pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.2.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.2.200
+- pkg:maven/org.eclipse.platform/org.eclipse.tips.json@0.2.200?classifier=sources

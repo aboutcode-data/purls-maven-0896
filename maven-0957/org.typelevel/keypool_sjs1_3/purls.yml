@@ -1,4 +1,8 @@
 - pkg:maven/org.typelevel/keypool_sjs1_3@0.4.6
 - pkg:maven/org.typelevel/keypool_sjs1_3@0.4.6?classifier=sources
 - pkg:maven/org.typelevel/keypool_sjs1_3@0.4.7
+- pkg:maven/org.typelevel/keypool_sjs1_3@0.4.7-270-390cae0
+- pkg:maven/org.typelevel/keypool_sjs1_3@0.4.7-270-390cae0?classifier=sources
 - pkg:maven/org.typelevel/keypool_sjs1_3@0.4.7?classifier=sources
+- pkg:maven/org.typelevel/keypool_sjs1_3@0.4.8
+- pkg:maven/org.typelevel/keypool_sjs1_3@0.4.8?classifier=sources

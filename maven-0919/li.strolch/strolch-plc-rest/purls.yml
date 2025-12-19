@@ -1,2 +1,6 @@
 - pkg:maven/li.strolch/strolch-plc-rest@1.0.7
 - pkg:maven/li.strolch/strolch-plc-rest@1.0.7?classifier=sources
+- pkg:maven/li.strolch/strolch-plc-rest@1.2.2
+- pkg:maven/li.strolch/strolch-plc-rest@1.2.2?classifier=sources
+- pkg:maven/li.strolch/strolch-plc-rest@1.2.3
+- pkg:maven/li.strolch/strolch-plc-rest@1.2.3?classifier=sources

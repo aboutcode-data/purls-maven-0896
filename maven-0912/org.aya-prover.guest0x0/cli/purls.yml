@@ -1,1 +1,10 @@
+- pkg:maven/org.aya-prover.guest0x0/cli@0.14.1?classifier=sources
 - pkg:maven/org.aya-prover.guest0x0/cli@0.14?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.15.1?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.15?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.16.1?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.16.2?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.16.3?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.16?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.17.0?classifier=sources
+- pkg:maven/org.aya-prover.guest0x0/cli@0.17.1?classifier=sources

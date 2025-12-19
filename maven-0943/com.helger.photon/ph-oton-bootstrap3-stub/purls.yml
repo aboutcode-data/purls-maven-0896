@@ -24,3 +24,7 @@
 - pkg:maven/com.helger.photon/ph-oton-bootstrap3-stub@8.3.6?classifier=sources
 - pkg:maven/com.helger.photon/ph-oton-bootstrap3-stub@8.4.0
 - pkg:maven/com.helger.photon/ph-oton-bootstrap3-stub@8.4.0?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-bootstrap3-stub@8.4.1
+- pkg:maven/com.helger.photon/ph-oton-bootstrap3-stub@8.4.1?classifier=sources
+- pkg:maven/com.helger.photon/ph-oton-bootstrap3-stub@8.4.2
+- pkg:maven/com.helger.photon/ph-oton-bootstrap3-stub@8.4.2?classifier=sources

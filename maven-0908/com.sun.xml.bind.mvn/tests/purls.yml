@@ -57,3 +57,5 @@
 - pkg:maven/com.sun.xml.bind.mvn/tests@4.0.0-M4
 - pkg:maven/com.sun.xml.bind.mvn/tests@4.0.0-M4?classifier=sources
 - pkg:maven/com.sun.xml.bind.mvn/tests@4.0.0?classifier=sources
+- pkg:maven/com.sun.xml.bind.mvn/tests@4.0.1
+- pkg:maven/com.sun.xml.bind.mvn/tests@4.0.1?classifier=sources

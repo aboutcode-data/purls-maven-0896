@@ -36,3 +36,6 @@
 - pkg:maven/com.squareup.workflow1/workflow-core-jvm@1.8.0-beta05?classifier=sources
 - pkg:maven/com.squareup.workflow1/workflow-core-jvm@1.8.0-beta06?classifier=sources
 - pkg:maven/com.squareup.workflow1/workflow-core-jvm@1.8.0-beta07?classifier=sources
+- pkg:maven/com.squareup.workflow1/workflow-core-jvm@1.8.0-beta08?classifier=sources
+- pkg:maven/com.squareup.workflow1/workflow-core-jvm@1.8.0-beta09?classifier=sources
+- pkg:maven/com.squareup.workflow1/workflow-core-jvm@1.8.0-beta10?classifier=sources

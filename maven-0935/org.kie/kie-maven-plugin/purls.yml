@@ -236,3 +236,5 @@
 - pkg:maven/org.kie/kie-maven-plugin@8.25.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-maven-plugin@8.26.0.Beta
 - pkg:maven/org.kie/kie-maven-plugin@8.26.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-maven-plugin@8.27.0.Beta
+- pkg:maven/org.kie/kie-maven-plugin@8.27.0.Beta?classifier=sources

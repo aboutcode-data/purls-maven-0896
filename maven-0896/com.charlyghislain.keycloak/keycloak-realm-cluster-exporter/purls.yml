@@ -1,2 +1,4 @@
 - pkg:maven/com.charlyghislain.keycloak/keycloak-realm-cluster-exporter@16.0.0
 - pkg:maven/com.charlyghislain.keycloak/keycloak-realm-cluster-exporter@16.0.0?classifier=sources
+- pkg:maven/com.charlyghislain.keycloak/keycloak-realm-cluster-exporter@19.0.1
+- pkg:maven/com.charlyghislain.keycloak/keycloak-realm-cluster-exporter@19.0.1?classifier=sources

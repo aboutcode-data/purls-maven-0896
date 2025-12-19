@@ -64,3 +64,5 @@
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-scala@7.18.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-scala@7.18.0-alpha4
 - pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-scala@7.18.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-scala@7.18.0-alpha5
+- pkg:maven/org.camunda.bpm.dmn/camunda-engine-feel-scala@7.18.0-alpha5?classifier=sources

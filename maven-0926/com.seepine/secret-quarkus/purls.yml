@@ -1,0 +1,4 @@
+- pkg:maven/com.seepine/secret-quarkus@0.0.2
+- pkg:maven/com.seepine/secret-quarkus@0.0.2-beta.2
+- pkg:maven/com.seepine/secret-quarkus@0.0.2-beta.2?classifier=sources
+- pkg:maven/com.seepine/secret-quarkus@0.0.2?classifier=sources

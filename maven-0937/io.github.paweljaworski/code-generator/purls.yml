@@ -1,0 +1,4 @@
+- pkg:maven/io.github.paweljaworski/code-generator@0.0.2-RELEASE
+- pkg:maven/io.github.paweljaworski/code-generator@0.0.2-RELEASE?classifier=sources
+- pkg:maven/io.github.paweljaworski/code-generator@0.0.3
+- pkg:maven/io.github.paweljaworski/code-generator@0.0.3?classifier=sources

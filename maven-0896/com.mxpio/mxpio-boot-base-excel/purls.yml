@@ -5,6 +5,10 @@
 - pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.11?classifier=sources
 - pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.12-beta.1
 - pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.12-beta.1?classifier=sources
+- pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.12-beta.2
+- pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.12-beta.2?classifier=sources
+- pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.12-beta.3
+- pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.12-beta.3?classifier=sources
 - pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.1?classifier=sources
 - pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.2
 - pkg:maven/com.mxpio/mxpio-boot-base-excel@1.0.2?classifier=sources

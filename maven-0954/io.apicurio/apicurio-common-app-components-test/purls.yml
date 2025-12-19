@@ -2,6 +2,10 @@
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.10.Final
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.10.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.11.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.11.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.12.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.12.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.2.Final
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.2.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@0.1.3.Final

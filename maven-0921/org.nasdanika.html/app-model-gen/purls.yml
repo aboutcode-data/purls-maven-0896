@@ -58,3 +58,5 @@
 - pkg:maven/org.nasdanika.html/app-model-gen@2022.7.0?classifier=sources
 - pkg:maven/org.nasdanika.html/app-model-gen@2022.8.0
 - pkg:maven/org.nasdanika.html/app-model-gen@2022.8.0?classifier=sources
+- pkg:maven/org.nasdanika.html/app-model-gen@2022.9.0
+- pkg:maven/org.nasdanika.html/app-model-gen@2022.9.0?classifier=sources

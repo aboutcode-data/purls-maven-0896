@@ -41,6 +41,12 @@
 - pkg:maven/com.bihe0832.android/lib-lifecycle@4.20.32?type=aar
 - pkg:maven/com.bihe0832.android/lib-lifecycle@4.20.8?type=aar
 - pkg:maven/com.bihe0832.android/lib-lifecycle@4.20.9?type=aar
+- pkg:maven/com.bihe0832.android/lib-lifecycle@4.21.12?type=aar
+- pkg:maven/com.bihe0832.android/lib-lifecycle@4.21.13?type=aar
+- pkg:maven/com.bihe0832.android/lib-lifecycle@4.21.14?type=aar
+- pkg:maven/com.bihe0832.android/lib-lifecycle@4.22.25?type=aar
+- pkg:maven/com.bihe0832.android/lib-lifecycle@4.22.27?type=aar
+- pkg:maven/com.bihe0832.android/lib-lifecycle@4.23.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-lifecycle@4.3.1?type=aar
 - pkg:maven/com.bihe0832.android/lib-lifecycle@4.5.5?type=aar
 - pkg:maven/com.bihe0832.android/lib-lifecycle@4.5.6?type=aar

@@ -1,0 +1,10 @@
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.0
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.001
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.001?classifier=sources
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.002
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.002?classifier=sources
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.003
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.003?classifier=sources
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.004
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.004?classifier=sources
+- pkg:maven/io.github.uedsonreis/lib-ws-api@1.0.0?classifier=sources

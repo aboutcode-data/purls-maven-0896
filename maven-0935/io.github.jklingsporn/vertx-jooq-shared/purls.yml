@@ -76,3 +76,5 @@
 - pkg:maven/io.github.jklingsporn/vertx-jooq-shared@6.5.3?classifier=sources
 - pkg:maven/io.github.jklingsporn/vertx-jooq-shared@6.5.4
 - pkg:maven/io.github.jklingsporn/vertx-jooq-shared@6.5.4?classifier=sources
+- pkg:maven/io.github.jklingsporn/vertx-jooq-shared@6.5.5
+- pkg:maven/io.github.jklingsporn/vertx-jooq-shared@6.5.5?classifier=sources

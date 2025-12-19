@@ -154,6 +154,8 @@
 - pkg:maven/net.sourceforge.pmd/pmd-cpp@6.47.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-cpp@6.48.0
 - pkg:maven/net.sourceforge.pmd/pmd-cpp@6.48.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-cpp@6.49.0
+- pkg:maven/net.sourceforge.pmd/pmd-cpp@6.49.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-cpp@6.5.0
 - pkg:maven/net.sourceforge.pmd/pmd-cpp@6.5.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-cpp@6.6.0

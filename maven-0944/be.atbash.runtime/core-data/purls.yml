@@ -1,2 +1,4 @@
 - pkg:maven/be.atbash.runtime/core-data@0.3
 - pkg:maven/be.atbash.runtime/core-data@0.3?classifier=sources
+- pkg:maven/be.atbash.runtime/core-data@0.4
+- pkg:maven/be.atbash.runtime/core-data@0.4?classifier=sources

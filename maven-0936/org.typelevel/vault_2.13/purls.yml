@@ -47,4 +47,8 @@
 - pkg:maven/org.typelevel/vault_2.13@3.1.0
 - pkg:maven/org.typelevel/vault_2.13@3.1.0?classifier=sources
 - pkg:maven/org.typelevel/vault_2.13@3.2.1
+- pkg:maven/org.typelevel/vault_2.13@3.2.1-33-97a8eb2
+- pkg:maven/org.typelevel/vault_2.13@3.2.1-33-97a8eb2?classifier=sources
 - pkg:maven/org.typelevel/vault_2.13@3.2.1?classifier=sources
+- pkg:maven/org.typelevel/vault_2.13@3.3.0
+- pkg:maven/org.typelevel/vault_2.13@3.3.0?classifier=sources

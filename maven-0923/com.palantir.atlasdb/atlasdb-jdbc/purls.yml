@@ -288,6 +288,7 @@
 - pkg:maven/com.palantir.atlasdb/atlasdb-jdbc@0.563.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jdbc@0.564.0-rc1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jdbc@0.564.0?classifier=sources
+- pkg:maven/com.palantir.atlasdb/atlasdb-jdbc@0.564.1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jdbc@0.565.0?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jdbc@0.566.0-rc1?classifier=sources
 - pkg:maven/com.palantir.atlasdb/atlasdb-jdbc@0.566.0?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.scoverage/scalac-scoverage-domain_2.13@2.0.1?classifier=sources
 - pkg:maven/org.scoverage/scalac-scoverage-domain_2.13@2.0.2
 - pkg:maven/org.scoverage/scalac-scoverage-domain_2.13@2.0.2?classifier=sources
+- pkg:maven/org.scoverage/scalac-scoverage-domain_2.13@2.0.3
+- pkg:maven/org.scoverage/scalac-scoverage-domain_2.13@2.0.3?classifier=sources

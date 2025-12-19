@@ -106,3 +106,5 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.44?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.45
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.45?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.46
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.46?classifier=sources

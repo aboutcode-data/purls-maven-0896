@@ -18,6 +18,7 @@
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@2.0.1-RC2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@2.0.1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@2.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0-RC1
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0-RC1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0-RC2
@@ -26,3 +27,4 @@
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0-RC3?classifier=sources
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0-RC4
 - pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0-RC4?classifier=sources
+- pkg:maven/org.eclipse.microprofile.reactive.messaging/microprofile-reactive-messaging-tck@3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.spotify/magnolify-neo4j_2.13@0.5.1
+- pkg:maven/com.spotify/magnolify-neo4j_2.13@0.5.1?classifier=sources

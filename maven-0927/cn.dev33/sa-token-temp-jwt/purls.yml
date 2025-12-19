@@ -24,3 +24,7 @@
 - pkg:maven/cn.dev33/sa-token-temp-jwt@1.30.0.RC
 - pkg:maven/cn.dev33/sa-token-temp-jwt@1.30.0.RC?classifier=sources
 - pkg:maven/cn.dev33/sa-token-temp-jwt@1.30.0?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.0
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.0.RC
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.0.RC?classifier=sources
+- pkg:maven/cn.dev33/sa-token-temp-jwt@1.31.0?classifier=sources

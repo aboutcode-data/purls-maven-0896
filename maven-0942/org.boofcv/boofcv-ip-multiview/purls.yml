@@ -4,3 +4,4 @@
 - pkg:maven/org.boofcv/boofcv-ip-multiview@0.39?classifier=sources
 - pkg:maven/org.boofcv/boofcv-ip-multiview@0.40.1?classifier=sources
 - pkg:maven/org.boofcv/boofcv-ip-multiview@0.40?classifier=sources
+- pkg:maven/org.boofcv/boofcv-ip-multiview@0.41?classifier=sources

@@ -8,3 +8,13 @@
 - pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.50?classifier=sources
 - pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.60
 - pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.60?classifier=sources
+- pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.70
+- pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.70?classifier=sources
+- pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.80
+- pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.80?classifier=sources
+- pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.90
+- pkg:maven/cn.easy-es/easy-es-boot-starter@0.9.90?classifier=sources
+- pkg:maven/cn.easy-es/easy-es-boot-starter@1.0.0
+- pkg:maven/cn.easy-es/easy-es-boot-starter@1.0.0?classifier=sources
+- pkg:maven/cn.easy-es/easy-es-boot-starter@1.0.1
+- pkg:maven/cn.easy-es/easy-es-boot-starter@1.0.1?classifier=sources

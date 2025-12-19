@@ -4,3 +4,5 @@
 - pkg:maven/org.kie/kie-drl-api@8.25.0.Beta?classifier=sources
 - pkg:maven/org.kie/kie-drl-api@8.26.0.Beta
 - pkg:maven/org.kie/kie-drl-api@8.26.0.Beta?classifier=sources
+- pkg:maven/org.kie/kie-drl-api@8.27.0.Beta
+- pkg:maven/org.kie/kie-drl-api@8.27.0.Beta?classifier=sources

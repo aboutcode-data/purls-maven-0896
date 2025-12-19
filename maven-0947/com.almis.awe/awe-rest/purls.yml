@@ -88,3 +88,5 @@
 - pkg:maven/com.almis.awe/awe-rest@4.5.3?classifier=sources
 - pkg:maven/com.almis.awe/awe-rest@4.6.0
 - pkg:maven/com.almis.awe/awe-rest@4.6.0?classifier=sources
+- pkg:maven/com.almis.awe/awe-rest@4.6.1
+- pkg:maven/com.almis.awe/awe-rest@4.6.1?classifier=sources

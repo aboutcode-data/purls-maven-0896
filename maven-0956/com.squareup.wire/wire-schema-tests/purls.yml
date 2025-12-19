@@ -1,1 +1,2 @@
 - pkg:maven/com.squareup.wire/wire-schema-tests@4.4.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-tests@4.4.1?classifier=sources

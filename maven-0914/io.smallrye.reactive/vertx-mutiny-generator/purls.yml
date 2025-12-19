@@ -86,6 +86,10 @@
 - pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.24.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.24.1
 - pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.24.1?classifier=sources
+- pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.25.0
+- pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.25.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.26.0
+- pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.26.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.3.0
 - pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.3.0?classifier=sources
 - pkg:maven/io.smallrye.reactive/vertx-mutiny-generator@2.4.0

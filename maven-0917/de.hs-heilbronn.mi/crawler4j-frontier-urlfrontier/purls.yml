@@ -1,5 +1,7 @@
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.10.0
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.10.0?classifier=sources
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.10.1
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.10.1?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.8.0
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.8.0?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.8.1
@@ -12,3 +14,5 @@
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.9.0?classifier=sources
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.9.1
 - pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@4.9.1?classifier=sources
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@5.0.0
+- pkg:maven/de.hs-heilbronn.mi/crawler4j-frontier-urlfrontier@5.0.0?classifier=sources

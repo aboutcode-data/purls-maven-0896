@@ -66,3 +66,5 @@
 - pkg:maven/com.mailosaur/mailosaur-java@7.8.0?classifier=sources
 - pkg:maven/com.mailosaur/mailosaur-java@7.9.6
 - pkg:maven/com.mailosaur/mailosaur-java@7.9.6?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@7.9.7
+- pkg:maven/com.mailosaur/mailosaur-java@7.9.7?classifier=sources

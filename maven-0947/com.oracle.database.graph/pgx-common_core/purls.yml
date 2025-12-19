@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.database.graph/pgx-common_core@22.3.1
+- pkg:maven/com.oracle.database.graph/pgx-common_core@22.3.1?classifier=sources

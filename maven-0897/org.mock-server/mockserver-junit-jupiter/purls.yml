@@ -16,6 +16,8 @@
 - pkg:maven/org.mock-server/mockserver-junit-jupiter@5.13.1?classifier=sources
 - pkg:maven/org.mock-server/mockserver-junit-jupiter@5.13.2
 - pkg:maven/org.mock-server/mockserver-junit-jupiter@5.13.2?classifier=sources
+- pkg:maven/org.mock-server/mockserver-junit-jupiter@5.14.0
+- pkg:maven/org.mock-server/mockserver-junit-jupiter@5.14.0?classifier=sources
 - pkg:maven/org.mock-server/mockserver-junit-jupiter@5.7.0
 - pkg:maven/org.mock-server/mockserver-junit-jupiter@5.7.0?classifier=sources
 - pkg:maven/org.mock-server/mockserver-junit-jupiter@5.7.1

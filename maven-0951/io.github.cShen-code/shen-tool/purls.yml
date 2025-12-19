@@ -8,3 +8,5 @@
 - pkg:maven/io.github.cShen-code/shen-tool@2.0.0-RELEASE?classifier=sources
 - pkg:maven/io.github.cShen-code/shen-tool@2.0.1-RELEASE
 - pkg:maven/io.github.cShen-code/shen-tool@2.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.cShen-code/shen-tool@2.0.3-RELEASE
+- pkg:maven/io.github.cShen-code/shen-tool@2.0.3-RELEASE?classifier=sources

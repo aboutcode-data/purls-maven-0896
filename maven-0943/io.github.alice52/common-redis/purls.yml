@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alice52/common-redis@0.0.1
+- pkg:maven/io.github.alice52/common-redis@0.0.1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.29.0?classifier=sources
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.30.0
 - pkg:maven/com.smartling.api/smartling-attachments-api@0.30.0?classifier=sources
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.31.2
+- pkg:maven/com.smartling.api/smartling-attachments-api@0.31.2?classifier=sources

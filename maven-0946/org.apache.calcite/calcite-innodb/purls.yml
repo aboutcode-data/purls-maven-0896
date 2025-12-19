@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.calcite/calcite-innodb@1.30.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-innodb@1.31.0
 - pkg:maven/org.apache.calcite/calcite-innodb@1.31.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-innodb@1.32.0
+- pkg:maven/org.apache.calcite/calcite-innodb@1.32.0?classifier=sources

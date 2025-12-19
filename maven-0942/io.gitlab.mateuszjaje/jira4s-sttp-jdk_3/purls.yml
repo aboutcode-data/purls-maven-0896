@@ -1,0 +1,8 @@
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.3.2
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.3.2?classifier=sources
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.3.3
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.3.3?classifier=sources
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.3.4
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.3.4?classifier=sources
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.4.0
+- pkg:maven/io.gitlab.mateuszjaje/jira4s-sttp-jdk_3@2.4.0?classifier=sources

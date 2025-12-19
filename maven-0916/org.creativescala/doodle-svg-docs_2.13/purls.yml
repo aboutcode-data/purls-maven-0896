@@ -1,4 +1,6 @@
 - pkg:maven/org.creativescala/doodle-svg-docs_2.13@0.11.2
 - pkg:maven/org.creativescala/doodle-svg-docs_2.13@0.11.2?classifier=sources
+- pkg:maven/org.creativescala/doodle-svg-docs_2.13@0.11.3
+- pkg:maven/org.creativescala/doodle-svg-docs_2.13@0.11.3?classifier=sources
 - pkg:maven/org.creativescala/doodle-svg-docs_2.13@0.2
 - pkg:maven/org.creativescala/doodle-svg-docs_2.13@0.2?classifier=sources

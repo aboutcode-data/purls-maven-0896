@@ -1,0 +1,4 @@
+- pkg:maven/com.github.seratch/notion-sdk-jvm-slf4j2@1.7.0
+- pkg:maven/com.github.seratch/notion-sdk-jvm-slf4j2@1.7.0?classifier=sources
+- pkg:maven/com.github.seratch/notion-sdk-jvm-slf4j2@1.7.1
+- pkg:maven/com.github.seratch/notion-sdk-jvm-slf4j2@1.7.1?classifier=sources

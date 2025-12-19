@@ -7,6 +7,8 @@
 - pkg:maven/eu.de4a/de4a-kafka-client@0.1.11?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.1.12
 - pkg:maven/eu.de4a/de4a-kafka-client@0.1.12?classifier=sources
+- pkg:maven/eu.de4a/de4a-kafka-client@0.1.13
+- pkg:maven/eu.de4a/de4a-kafka-client@0.1.13?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.1.1?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.1.2
 - pkg:maven/eu.de4a/de4a-kafka-client@0.1.2?classifier=sources
@@ -29,6 +31,12 @@
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.1
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.10
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.10?classifier=sources
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.11
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.11?classifier=sources
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.12
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.12?classifier=sources
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.13
+- pkg:maven/eu.de4a/de4a-kafka-client@0.2.13?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.1?classifier=sources
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.2
 - pkg:maven/eu.de4a/de4a-kafka-client@0.2.2?classifier=sources

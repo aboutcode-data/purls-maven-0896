@@ -4,3 +4,4 @@
 - pkg:maven/com.fasterxml.jackson.jakarta.rs/jackson-jakarta-rs-cbor-provider@2.13.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jakarta.rs/jackson-jakarta-rs-cbor-provider@2.13.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jakarta.rs/jackson-jakarta-rs-cbor-provider@2.13.3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jakarta.rs/jackson-jakarta-rs-cbor-provider@2.13.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.sudoplatform/sudodiwallet@0.5.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudodiwallet@0.5.0?type=aar

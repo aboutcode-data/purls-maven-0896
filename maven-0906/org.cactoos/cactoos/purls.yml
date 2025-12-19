@@ -167,6 +167,8 @@
 - pkg:maven/org.cactoos/cactoos@0.52.0?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.53.0
 - pkg:maven/org.cactoos/cactoos@0.53.0?classifier=sources
+- pkg:maven/org.cactoos/cactoos@0.54.0
+- pkg:maven/org.cactoos/cactoos@0.54.0?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.5?classifier=sources
 - pkg:maven/org.cactoos/cactoos@0.6
 - pkg:maven/org.cactoos/cactoos@0.6?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE150?classifier=sources

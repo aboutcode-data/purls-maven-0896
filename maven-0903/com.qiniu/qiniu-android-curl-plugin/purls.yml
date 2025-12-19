@@ -1,0 +1,2 @@
+- pkg:maven/com.qiniu/qiniu-android-curl-plugin@1.0.0?classifier=sources
+- pkg:maven/com.qiniu/qiniu-android-curl-plugin@1.0.0?type=aar
