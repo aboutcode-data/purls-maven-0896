@@ -12,3 +12,5 @@
 - pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.18.7
 - pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.18.7?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.18?classifier=sources
+- pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.19
+- pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.19?classifier=sources

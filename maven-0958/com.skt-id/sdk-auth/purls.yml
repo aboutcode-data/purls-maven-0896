@@ -1,2 +1,3 @@
 - pkg:maven/com.skt-id/sdk-auth@2.4.5?classifier=sources
 - pkg:maven/com.skt-id/sdk-auth@2.5.0?classifier=sources
+- pkg:maven/com.skt-id/sdk-auth@2.5.1?classifier=sources

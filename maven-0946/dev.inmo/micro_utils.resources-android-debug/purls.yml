@@ -43,3 +43,4 @@
 - pkg:maven/dev.inmo/micro_utils.resources-android-debug@0.22.8?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.resources-android-debug@0.22.9?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.resources-android-debug@0.23.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.resources-android-debug@0.23.1?classifier=sources

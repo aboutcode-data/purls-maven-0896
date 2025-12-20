@@ -6,3 +6,5 @@
 - pkg:maven/global.maplink/planning-schema@1.5.13?classifier=sources
 - pkg:maven/global.maplink/planning-schema@1.5.14
 - pkg:maven/global.maplink/planning-schema@1.5.14?classifier=sources
+- pkg:maven/global.maplink/planning-schema@1.5.15
+- pkg:maven/global.maplink/planning-schema@1.5.15?classifier=sources

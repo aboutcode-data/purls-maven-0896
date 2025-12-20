@@ -92,6 +92,8 @@
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.10?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.11?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.12?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.13?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.12.3?classifier=sources
@@ -108,6 +110,10 @@
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.13.4?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.13.5?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.13.6?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-wavefront@1.13.7?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-wavefront@1.13.8?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-wavefront@1.14.0?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-wavefront@1.14.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.2.0
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.2.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-wavefront@1.2.1

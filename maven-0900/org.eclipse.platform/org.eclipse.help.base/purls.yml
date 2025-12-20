@@ -64,3 +64,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.4.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.4.500
 - pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.4.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.4.600
+- pkg:maven/org.eclipse.platform/org.eclipse.help.base@4.4.600?classifier=sources

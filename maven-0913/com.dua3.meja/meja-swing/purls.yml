@@ -68,3 +68,10 @@
 - pkg:maven/com.dua3.meja/meja-swing@5.0.1?classifier=sources
 - pkg:maven/com.dua3.meja/meja-swing@5.0?classifier=sources
 - pkg:maven/com.dua3.meja/meja-swing@6-BETA-1?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@6-beta-2?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@6-rc-2?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@6-rc?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@6.0.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@6.1.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@6.2.0?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@6.2.1?classifier=sources

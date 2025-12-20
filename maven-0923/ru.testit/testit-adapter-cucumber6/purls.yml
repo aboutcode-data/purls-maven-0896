@@ -50,3 +50,5 @@
 - pkg:maven/ru.testit/testit-adapter-cucumber6@2.3.6?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-cucumber6@2.3.7?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-cucumber6@2.3.8?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-cucumber6@2.4.0?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-cucumber6@2.4.1?classifier=sources

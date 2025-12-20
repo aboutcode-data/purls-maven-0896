@@ -1,0 +1,2 @@
+- pkg:maven/io.github.openfeign.querydsl/querydsl-ksp-codegen@6.9
+- pkg:maven/io.github.openfeign.querydsl/querydsl-ksp-codegen@6.9?classifier=sources

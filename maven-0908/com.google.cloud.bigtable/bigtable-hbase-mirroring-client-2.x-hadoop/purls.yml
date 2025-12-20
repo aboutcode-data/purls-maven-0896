@@ -66,3 +66,7 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.9.5?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.9.6
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.9.6?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.9.7
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.9.7?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.9.8
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-mirroring-client-2.x-hadoop@0.9.8?classifier=sources

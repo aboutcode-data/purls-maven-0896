@@ -6,3 +6,4 @@
 - pkg:maven/eu.binjr/binjr-adapter-jfr@3.18.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-jfr@3.19.0?classifier=sources
 - pkg:maven/eu.binjr/binjr-adapter-jfr@3.20.0?classifier=sources
+- pkg:maven/eu.binjr/binjr-adapter-jfr@3.20.1?classifier=sources

@@ -1,3 +1,5 @@
 - pkg:maven/org.kie.j2cl.tools.jakarta.jaxb/api@0.3?classifier=sources
 - pkg:maven/org.kie.j2cl.tools.jakarta.jaxb/api@0.4
 - pkg:maven/org.kie.j2cl.tools.jakarta.jaxb/api@0.4?classifier=sources
+- pkg:maven/org.kie.j2cl.tools.jakarta.jaxb/api@0.5
+- pkg:maven/org.kie.j2cl.tools.jakarta.jaxb/api@0.5?classifier=sources

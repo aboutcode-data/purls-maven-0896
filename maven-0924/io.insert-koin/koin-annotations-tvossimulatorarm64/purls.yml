@@ -16,3 +16,4 @@
 - pkg:maven/io.insert-koin/koin-annotations-tvossimulatorarm64@1.4.0-RC4?classifier=sources
 - pkg:maven/io.insert-koin/koin-annotations-tvossimulatorarm64@1.4.0?classifier=sources
 - pkg:maven/io.insert-koin/koin-annotations-tvossimulatorarm64@2.0.0-Beta1?classifier=sources
+- pkg:maven/io.insert-koin/koin-annotations-tvossimulatorarm64@2.0.0-Beta2?classifier=sources

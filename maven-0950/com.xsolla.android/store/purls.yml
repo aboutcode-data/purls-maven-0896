@@ -9,6 +9,7 @@
 - pkg:maven/com.xsolla.android/store@2.3.0?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.4.0?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.10?classifier=sources
+- pkg:maven/com.xsolla.android/store@2.5.11?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.2?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.3?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.4?classifier=sources

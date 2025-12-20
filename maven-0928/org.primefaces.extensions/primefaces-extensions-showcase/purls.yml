@@ -82,3 +82,11 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.5?type=war
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.6?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.6?type=war
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.7.1?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.7.1?type=war
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.7?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.7?type=war
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.8?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@14.0.8?type=war
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.0-RC1?classifier=sources
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.0-RC1?type=war

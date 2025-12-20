@@ -150,3 +150,7 @@
 - pkg:maven/com.tencent.polaris/polaris-protobuf@2.0.0.0-RC2?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-protobuf@2.0.0.0-RC3
 - pkg:maven/com.tencent.polaris/polaris-protobuf@2.0.0.0-RC3?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-protobuf@2.0.0.0-RC4
+- pkg:maven/com.tencent.polaris/polaris-protobuf@2.0.0.0-RC4?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-protobuf@2.0.0.0-RC5
+- pkg:maven/com.tencent.polaris/polaris-protobuf@2.0.0.0-RC5?classifier=sources

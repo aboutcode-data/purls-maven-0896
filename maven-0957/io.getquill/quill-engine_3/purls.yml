@@ -64,3 +64,5 @@
 - pkg:maven/io.getquill/quill-engine_3@4.8.3?classifier=sources
 - pkg:maven/io.getquill/quill-engine_3@4.8.4
 - pkg:maven/io.getquill/quill-engine_3@4.8.4?classifier=sources
+- pkg:maven/io.getquill/quill-engine_3@4.8.5
+- pkg:maven/io.getquill/quill-engine_3@4.8.5?classifier=sources

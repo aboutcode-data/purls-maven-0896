@@ -2,4 +2,5 @@
 - pkg:maven/dev.larf/larf-core@0.86?classifier=sources
 - pkg:maven/dev.larf/larf-core@0.87?classifier=sources
 - pkg:maven/dev.larf/larf-core@0.88?classifier=sources
+- pkg:maven/dev.larf/larf-core@0.89?classifier=sources
 - pkg:maven/dev.larf/larf-core@0.8?classifier=sources

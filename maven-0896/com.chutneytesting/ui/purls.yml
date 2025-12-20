@@ -90,3 +90,5 @@
 - pkg:maven/com.chutneytesting/ui@2.8.0?classifier=sources
 - pkg:maven/com.chutneytesting/ui@2.9.0
 - pkg:maven/com.chutneytesting/ui@2.9.0?classifier=sources
+- pkg:maven/com.chutneytesting/ui@3.0.0
+- pkg:maven/com.chutneytesting/ui@3.0.0?classifier=sources

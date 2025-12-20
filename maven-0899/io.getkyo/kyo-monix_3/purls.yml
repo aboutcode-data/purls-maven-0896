@@ -1,0 +1,4 @@
+- pkg:maven/io.getkyo/kyo-monix_3@0.15.0
+- pkg:maven/io.getkyo/kyo-monix_3@0.15.0?classifier=sources
+- pkg:maven/io.getkyo/kyo-monix_3@0.15.1
+- pkg:maven/io.getkyo/kyo-monix_3@0.15.1?classifier=sources

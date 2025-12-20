@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tools1000.packager1000/packager1000-libs@4.0.0
+- pkg:maven/io.github.tools1000.packager1000/packager1000-libs@4.0.0?classifier=sources

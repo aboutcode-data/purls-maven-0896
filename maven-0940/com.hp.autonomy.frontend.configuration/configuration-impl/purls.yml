@@ -48,3 +48,5 @@
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-impl@3.1.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-impl@3.2.0
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-impl@3.2.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.configuration/configuration-impl@3.3.0
+- pkg:maven/com.hp.autonomy.frontend.configuration/configuration-impl@3.3.0?classifier=sources

@@ -129,3 +129,10 @@
 - pkg:maven/io.airlift/security-jwks@282?classifier=sources
 - pkg:maven/io.airlift/security-jwks@283?classifier=sources
 - pkg:maven/io.airlift/security-jwks@284?classifier=sources
+- pkg:maven/io.airlift/security-jwks@285?classifier=sources
+- pkg:maven/io.airlift/security-jwks@286?classifier=sources
+- pkg:maven/io.airlift/security-jwks@287?classifier=sources
+- pkg:maven/io.airlift/security-jwks@288?classifier=sources
+- pkg:maven/io.airlift/security-jwks@289?classifier=sources
+- pkg:maven/io.airlift/security-jwks@290?classifier=sources
+- pkg:maven/io.airlift/security-jwks@291?classifier=sources

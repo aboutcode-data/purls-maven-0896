@@ -6,3 +6,4 @@
 - pkg:maven/so.cello.android/cello-sdk@0.2.3?classifier=sources
 - pkg:maven/so.cello.android/cello-sdk@0.3.0?classifier=sources
 - pkg:maven/so.cello.android/cello-sdk@0.3.1?classifier=sources
+- pkg:maven/so.cello.android/cello-sdk@0.3.2?classifier=sources

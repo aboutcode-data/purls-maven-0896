@@ -48,3 +48,5 @@
 - pkg:maven/pl.mareklangiewicz/kommandjupyter-jvm@0.0.84?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandjupyter-jvm@0.0.85?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kommandjupyter-jvm@0.0.86?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandjupyter-jvm@0.0.87?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kommandjupyter-jvm@0.0.88?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.storm/flux-core@2.6.4?classifier=sources
 - pkg:maven/org.apache.storm/flux-core@2.7.0
 - pkg:maven/org.apache.storm/flux-core@2.7.0?classifier=sources
+- pkg:maven/org.apache.storm/flux-core@2.7.1
+- pkg:maven/org.apache.storm/flux-core@2.7.1?classifier=sources

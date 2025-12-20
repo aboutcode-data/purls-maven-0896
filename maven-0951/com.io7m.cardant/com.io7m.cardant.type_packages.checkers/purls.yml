@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.cardant/com.io7m.cardant.type_packages.checkers@0.0.2
 - pkg:maven/com.io7m.cardant/com.io7m.cardant.type_packages.checkers@0.0.2?classifier=sources
+- pkg:maven/com.io7m.cardant/com.io7m.cardant.type_packages.checkers@1.0.0-beta0001
+- pkg:maven/com.io7m.cardant/com.io7m.cardant.type_packages.checkers@1.0.0-beta0001?classifier=sources

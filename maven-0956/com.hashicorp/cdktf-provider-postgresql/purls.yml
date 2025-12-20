@@ -1028,6 +1028,8 @@
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@11.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@11.3.0
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@11.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-postgresql@11.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-postgresql@11.4.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-postgresql@2.0.1

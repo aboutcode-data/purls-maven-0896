@@ -20,3 +20,5 @@
 - pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@1.0.2?classifier=sources
 - pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@1.1.0
 - pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@1.1.0?classifier=sources
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@1.1.1
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@1.1.1?classifier=sources

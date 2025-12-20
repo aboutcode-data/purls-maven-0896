@@ -8,6 +8,8 @@
 - pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.13?classifier=sources
 - pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.14
 - pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.14?classifier=sources
+- pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.15
+- pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.15?classifier=sources
 - pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.8
 - pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.8?classifier=sources
 - pkg:maven/io.cequence/cohere-client-domain_2.12@0.1.9

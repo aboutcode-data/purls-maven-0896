@@ -30,3 +30,5 @@
 - pkg:maven/com.jeramtough/jtcomponent@1.7.2-RELEASE?classifier=sources
 - pkg:maven/com.jeramtough/jtcomponent@1.7.5-RELEASE
 - pkg:maven/com.jeramtough/jtcomponent@1.7.5-RELEASE?classifier=sources
+- pkg:maven/com.jeramtough/jtcomponent@1.7.7-RELEASE
+- pkg:maven/com.jeramtough/jtcomponent@1.7.7-RELEASE?classifier=sources

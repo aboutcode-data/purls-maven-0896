@@ -51,3 +51,7 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/gdt@4.602.1472.06034?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/gdt@4.602.1472.09061?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/gdt@4.602.1472.09061?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/gdt@4.602.1472.11111?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/gdt@4.602.1472.11111?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/gdt@4.610.1480.12021?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/gdt@4.610.1480.12021?type=aar

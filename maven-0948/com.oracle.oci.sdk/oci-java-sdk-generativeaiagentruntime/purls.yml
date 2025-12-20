@@ -12,3 +12,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiagentruntime@3.52.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiagentruntime@3.53.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiagentruntime@3.53.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiagentruntime@3.53.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiagentruntime@3.53.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiagentruntime@3.54.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiagentruntime@3.54.0?classifier=sources

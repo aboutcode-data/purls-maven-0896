@@ -4,3 +4,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-io-iosx64@7.2.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-io-iosx64@7.3.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-io-iosx64@8.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-io-iosx64@8.1.0?classifier=sources

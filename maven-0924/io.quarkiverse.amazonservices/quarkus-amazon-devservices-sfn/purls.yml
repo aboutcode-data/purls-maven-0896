@@ -36,6 +36,8 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.18.1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.19.0.alpha2?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.19.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.20.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.20.1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.9.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.9.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@2.9.1
@@ -44,3 +46,6 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@3.0.0.alpha1?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@3.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@3.0.1?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@3.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@3.1.1?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-sfn@3.2.0?classifier=sources

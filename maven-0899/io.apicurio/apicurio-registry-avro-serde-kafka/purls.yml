@@ -8,3 +8,7 @@
 - pkg:maven/io.apicurio/apicurio-registry-avro-serde-kafka@3.0.2?classifier=sources
 - pkg:maven/io.apicurio/apicurio-registry-avro-serde-kafka@3.0.3
 - pkg:maven/io.apicurio/apicurio-registry-avro-serde-kafka@3.0.3?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-avro-serde-kafka@3.0.4
+- pkg:maven/io.apicurio/apicurio-registry-avro-serde-kafka@3.0.4?classifier=sources
+- pkg:maven/io.apicurio/apicurio-registry-avro-serde-kafka@3.0.5
+- pkg:maven/io.apicurio/apicurio-registry-avro-serde-kafka@3.0.5?classifier=sources

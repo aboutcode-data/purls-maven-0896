@@ -36,3 +36,5 @@
 - pkg:maven/com.rapidclipse/rap-server-persistence-jpa@13.0.5?classifier=sources
 - pkg:maven/com.rapidclipse/rap-server-persistence-jpa@14.0.0
 - pkg:maven/com.rapidclipse/rap-server-persistence-jpa@14.0.0?classifier=sources
+- pkg:maven/com.rapidclipse/rap-server-persistence-jpa@14.0.2
+- pkg:maven/com.rapidclipse/rap-server-persistence-jpa@14.0.2?classifier=sources

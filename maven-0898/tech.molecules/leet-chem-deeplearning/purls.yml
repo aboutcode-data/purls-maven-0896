@@ -1,2 +1,4 @@
+- pkg:maven/tech.molecules/leet-chem-deeplearning@0.0.11
+- pkg:maven/tech.molecules/leet-chem-deeplearning@0.0.11?classifier=sources
 - pkg:maven/tech.molecules/leet-chem-deeplearning@0.0.5
 - pkg:maven/tech.molecules/leet-chem-deeplearning@0.0.5?classifier=sources

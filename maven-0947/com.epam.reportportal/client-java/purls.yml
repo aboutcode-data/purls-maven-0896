@@ -68,6 +68,9 @@
 - pkg:maven/com.epam.reportportal/client-java@5.2.19?classifier=sources
 - pkg:maven/com.epam.reportportal/client-java@5.2.1?classifier=sources
 - pkg:maven/com.epam.reportportal/client-java@5.2.20?classifier=sources
+- pkg:maven/com.epam.reportportal/client-java@5.2.21?classifier=sources
+- pkg:maven/com.epam.reportportal/client-java@5.2.22?classifier=sources
+- pkg:maven/com.epam.reportportal/client-java@5.2.23?classifier=sources
 - pkg:maven/com.epam.reportportal/client-java@5.2.2?classifier=sources
 - pkg:maven/com.epam.reportportal/client-java@5.2.3?classifier=sources
 - pkg:maven/com.epam.reportportal/client-java@5.2.4?classifier=sources

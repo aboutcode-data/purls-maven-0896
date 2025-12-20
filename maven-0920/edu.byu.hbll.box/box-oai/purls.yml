@@ -70,3 +70,7 @@
 - pkg:maven/edu.byu.hbll.box/box-oai@2.5.2?classifier=sources
 - pkg:maven/edu.byu.hbll.box/box-oai@2.5.3
 - pkg:maven/edu.byu.hbll.box/box-oai@2.5.3?classifier=sources
+- pkg:maven/edu.byu.hbll.box/box-oai@2.6.0
+- pkg:maven/edu.byu.hbll.box/box-oai@2.6.0?classifier=sources
+- pkg:maven/edu.byu.hbll.box/box-oai@2.7.0
+- pkg:maven/edu.byu.hbll.box/box-oai@2.7.0?classifier=sources

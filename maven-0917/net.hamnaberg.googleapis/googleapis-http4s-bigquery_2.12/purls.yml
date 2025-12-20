@@ -18,3 +18,5 @@
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-bigquery_2.12@0.4.5-v2-20240905?classifier=sources
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-bigquery_2.12@0.6.0-v2-20240919
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-bigquery_2.12@0.6.0-v2-20240919?classifier=sources
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-bigquery_2.12@0.6.1-v2-20241111
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-bigquery_2.12@0.6.1-v2-20241111?classifier=sources

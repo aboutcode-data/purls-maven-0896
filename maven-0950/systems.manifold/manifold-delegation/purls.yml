@@ -137,6 +137,8 @@
 - pkg:maven/systems.manifold/manifold-delegation@2024.1.40?classifier=sources
 - pkg:maven/systems.manifold/manifold-delegation@2024.1.41
 - pkg:maven/systems.manifold/manifold-delegation@2024.1.41?classifier=sources
+- pkg:maven/systems.manifold/manifold-delegation@2024.1.42
+- pkg:maven/systems.manifold/manifold-delegation@2024.1.42?classifier=sources
 - pkg:maven/systems.manifold/manifold-delegation@2024.1.4?classifier=sources
 - pkg:maven/systems.manifold/manifold-delegation@2024.1.5
 - pkg:maven/systems.manifold/manifold-delegation@2024.1.5?classifier=sources

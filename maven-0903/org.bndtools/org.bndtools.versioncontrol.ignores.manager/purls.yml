@@ -32,3 +32,5 @@
 - pkg:maven/org.bndtools/org.bndtools.versioncontrol.ignores.manager@6.4.0?classifier=sources
 - pkg:maven/org.bndtools/org.bndtools.versioncontrol.ignores.manager@7.0.0
 - pkg:maven/org.bndtools/org.bndtools.versioncontrol.ignores.manager@7.0.0?classifier=sources
+- pkg:maven/org.bndtools/org.bndtools.versioncontrol.ignores.manager@7.1.0
+- pkg:maven/org.bndtools/org.bndtools.versioncontrol.ignores.manager@7.1.0?classifier=sources

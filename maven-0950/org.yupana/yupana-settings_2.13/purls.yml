@@ -22,3 +22,5 @@
 - pkg:maven/org.yupana/yupana-settings_2.13@0.38.2?classifier=sources
 - pkg:maven/org.yupana/yupana-settings_2.13@0.38.3
 - pkg:maven/org.yupana/yupana-settings_2.13@0.38.3?classifier=sources
+- pkg:maven/org.yupana/yupana-settings_2.13@0.39.0
+- pkg:maven/org.yupana/yupana-settings_2.13@0.39.0?classifier=sources

@@ -100,3 +100,5 @@
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.5.0?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.5.1
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.5.1?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.6.0
+- pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.6.0?classifier=sources

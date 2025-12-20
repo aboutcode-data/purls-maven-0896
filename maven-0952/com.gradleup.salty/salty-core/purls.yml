@@ -1,0 +1,2 @@
+- pkg:maven/com.gradleup.salty/salty-core@0.0.0?classifier=sources
+- pkg:maven/com.gradleup.salty/salty-core@0.0.1?classifier=sources

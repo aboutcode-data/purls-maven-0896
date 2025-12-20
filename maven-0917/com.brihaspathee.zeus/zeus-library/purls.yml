@@ -284,3 +284,4 @@
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.8?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.9
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.9?classifier=sources
+- pkg:maven/com.brihaspathee.zeus/zeus-library@3.0.0?classifier=sources

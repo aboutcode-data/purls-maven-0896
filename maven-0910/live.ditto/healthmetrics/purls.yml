@@ -1,3 +1,5 @@
 - pkg:maven/live.ditto/healthmetrics@1.1.0?classifier=sources
 - pkg:maven/live.ditto/healthmetrics@2.0.0?classifier=sources
 - pkg:maven/live.ditto/healthmetrics@2.1.0?classifier=sources
+- pkg:maven/live.ditto/healthmetrics@3.0.0?classifier=sources
+- pkg:maven/live.ditto/healthmetrics@3.0.1?classifier=sources

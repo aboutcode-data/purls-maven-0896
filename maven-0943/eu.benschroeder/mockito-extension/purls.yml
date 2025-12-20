@@ -70,3 +70,5 @@
 - pkg:maven/eu.benschroeder/mockito-extension@4.4.0?classifier=sources
 - pkg:maven/eu.benschroeder/mockito-extension@4.5.0
 - pkg:maven/eu.benschroeder/mockito-extension@4.5.0?classifier=sources
+- pkg:maven/eu.benschroeder/mockito-extension@5.14.2
+- pkg:maven/eu.benschroeder/mockito-extension@5.14.2?classifier=sources

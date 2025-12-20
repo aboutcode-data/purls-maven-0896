@@ -5,6 +5,8 @@
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.11?classifier=sources
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.12-6.2
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.12-6.2?classifier=sources
+- pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.14
+- pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.14?classifier=sources
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.1?classifier=sources
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.2
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.2?classifier=sources
@@ -24,3 +26,5 @@
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.0.9?classifier=sources
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.1.0
 - pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.1.0?classifier=sources
+- pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.1.1
+- pkg:maven/com.namics.oss.magnolia/magnolia-flexible-image-generator@0.1.1?classifier=sources

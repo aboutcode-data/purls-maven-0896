@@ -111,3 +111,5 @@
 - pkg:maven/com.apihug/it-common-spring-cache@1.0.7-RELEASE?classifier=sources
 - pkg:maven/com.apihug/it-common-spring-cache@1.0.8-RELEASE?classifier=sources
 - pkg:maven/com.apihug/it-common-spring-cache@1.0.9-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@1.1.1-RELEASE?classifier=sources

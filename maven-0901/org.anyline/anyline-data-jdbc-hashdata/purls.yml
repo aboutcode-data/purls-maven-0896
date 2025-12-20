@@ -458,6 +458,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-20241107
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-20241107?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-20241120
+- pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-20241120?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk11-20240826
@@ -598,6 +600,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk17-20240930?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk17-20241015
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk17-20241015?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk17-20241125
+- pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk17-20241125?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20240505
@@ -742,3 +746,5 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20241022?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20241025
 - pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20241025?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20241203
+- pkg:maven/org.anyline/anyline-data-jdbc-hashdata@8.7.2-jdk21-20241203?classifier=sources

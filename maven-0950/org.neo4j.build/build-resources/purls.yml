@@ -169,6 +169,7 @@
 - pkg:maven/org.neo4j.build/build-resources@4.4.36
 - pkg:maven/org.neo4j.build/build-resources@4.4.37
 - pkg:maven/org.neo4j.build/build-resources@4.4.38
+- pkg:maven/org.neo4j.build/build-resources@4.4.39
 - pkg:maven/org.neo4j.build/build-resources@4.4.4
 - pkg:maven/org.neo4j.build/build-resources@4.4.5
 - pkg:maven/org.neo4j.build/build-resources@4.4.6

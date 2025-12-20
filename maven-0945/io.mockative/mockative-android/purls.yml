@@ -1,1 +1,2 @@
 - pkg:maven/io.mockative/mockative-android@3.0.0?classifier=sources
+- pkg:maven/io.mockative/mockative-android@3.0.1?classifier=sources

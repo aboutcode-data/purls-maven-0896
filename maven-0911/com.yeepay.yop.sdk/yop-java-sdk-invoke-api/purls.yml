@@ -4,6 +4,10 @@
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.11?classifier=sources
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.12
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.12?classifier=sources
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.13
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.13?classifier=sources
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.14
+- pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.14?classifier=sources
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.8
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.8?classifier=sources
 - pkg:maven/com.yeepay.yop.sdk/yop-java-sdk-invoke-api@4.4.9

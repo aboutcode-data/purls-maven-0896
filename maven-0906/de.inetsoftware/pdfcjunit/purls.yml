@@ -37,6 +37,10 @@
 - pkg:maven/de.inetsoftware/pdfcjunit@21.4.229?classifier=sources
 - pkg:maven/de.inetsoftware/pdfcjunit@24.10.176
 - pkg:maven/de.inetsoftware/pdfcjunit@24.10.176?classifier=sources
+- pkg:maven/de.inetsoftware/pdfcjunit@24.10.221
+- pkg:maven/de.inetsoftware/pdfcjunit@24.10.221?classifier=sources
+- pkg:maven/de.inetsoftware/pdfcjunit@24.10.238
+- pkg:maven/de.inetsoftware/pdfcjunit@24.10.238?classifier=sources
 - pkg:maven/de.inetsoftware/pdfcjunit@24.4
 - pkg:maven/de.inetsoftware/pdfcjunit@24.4.240
 - pkg:maven/de.inetsoftware/pdfcjunit@24.4.240?classifier=sources

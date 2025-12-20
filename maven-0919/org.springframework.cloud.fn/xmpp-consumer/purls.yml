@@ -1,2 +1,4 @@
 - pkg:maven/org.springframework.cloud.fn/xmpp-consumer@4.0.0
 - pkg:maven/org.springframework.cloud.fn/xmpp-consumer@4.0.0?classifier=sources
+- pkg:maven/org.springframework.cloud.fn/xmpp-consumer@4.0.1
+- pkg:maven/org.springframework.cloud.fn/xmpp-consumer@4.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-impl-core@7.0.0-alpha5.1
+- pkg:maven/io.serverlessworkflow/serverlessworkflow-impl-core@7.0.0-alpha5.1?classifier=sources

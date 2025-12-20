@@ -96,3 +96,7 @@
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-core-main@1.5.1?classifier=sources
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-core-main@1.5.2
 - pkg:maven/dev.struchkov.godfather.telegram/telegram-core-main@1.5.2?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-core-main@1.6.0
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-core-main@1.6.0?classifier=sources
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-core-main@1.6.1
+- pkg:maven/dev.struchkov.godfather.telegram/telegram-core-main@1.6.1?classifier=sources

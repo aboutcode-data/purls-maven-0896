@@ -36,3 +36,5 @@
 - pkg:maven/org.apache.unomi/unomi-scripting@2.4.0?classifier=sources
 - pkg:maven/org.apache.unomi/unomi-scripting@2.5.0
 - pkg:maven/org.apache.unomi/unomi-scripting@2.5.0?classifier=sources
+- pkg:maven/org.apache.unomi/unomi-scripting@2.6.0
+- pkg:maven/org.apache.unomi/unomi-scripting@2.6.0?classifier=sources

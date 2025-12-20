@@ -44,3 +44,5 @@
 - pkg:maven/com.google.apis/google-api-services-contactcenteraiplatform@v1alpha1-rev20241002-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-contactcenteraiplatform@v1alpha1-rev20241009-2.0.0
 - pkg:maven/com.google.apis/google-api-services-contactcenteraiplatform@v1alpha1-rev20241009-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-contactcenteraiplatform@v1alpha1-rev20241107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-contactcenteraiplatform@v1alpha1-rev20241107-2.0.0?classifier=sources

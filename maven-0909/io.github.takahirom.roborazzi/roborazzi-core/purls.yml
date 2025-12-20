@@ -50,6 +50,9 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.32.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.32.1?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.32.2?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.33.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.34.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.35.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.4.0-alpha-1?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.4.0-alpha-2?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.4.0-alpha-3?classifier=sources

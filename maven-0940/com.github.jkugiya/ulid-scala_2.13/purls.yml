@@ -8,3 +8,5 @@
 - pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.2?classifier=sources
 - pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.3
 - pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.3?classifier=sources
+- pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.5
+- pkg:maven/com.github.jkugiya/ulid-scala_2.13@1.0.5?classifier=sources

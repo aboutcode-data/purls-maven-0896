@@ -26,6 +26,9 @@
 - pkg:maven/io.dock2dock/ui@0.1.6-alpha?classifier=sources
 - pkg:maven/io.dock2dock/ui@0.2.0-alpha?classifier=sources
 - pkg:maven/io.dock2dock/ui@0.2.1-alpha?classifier=sources
+- pkg:maven/io.dock2dock/ui@0.2.10?classifier=sources
+- pkg:maven/io.dock2dock/ui@0.2.11?classifier=sources
+- pkg:maven/io.dock2dock/ui@0.2.12?classifier=sources
 - pkg:maven/io.dock2dock/ui@0.2.2-alpha?classifier=sources
 - pkg:maven/io.dock2dock/ui@0.2.3-alpha?classifier=sources
 - pkg:maven/io.dock2dock/ui@0.2.4-alpha?classifier=sources
