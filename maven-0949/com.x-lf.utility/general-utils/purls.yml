@@ -5,3 +5,5 @@
 - pkg:maven/com.x-lf.utility/general-utils@1.0.9-beta.2.0?classifier=sources
 - pkg:maven/com.x-lf.utility/general-utils@1.0.9-beta.2.2?classifier=sources
 - pkg:maven/com.x-lf.utility/general-utils@1.0.9-beta.2.5?classifier=sources
+- pkg:maven/com.x-lf.utility/general-utils@1.0.9-beta.2.6?classifier=sources
+- pkg:maven/com.x-lf.utility/general-utils@1.0.9-beta.2.7?classifier=sources

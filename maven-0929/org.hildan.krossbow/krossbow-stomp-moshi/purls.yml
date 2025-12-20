@@ -29,3 +29,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-moshi@7.3.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-moshi@8.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-moshi@8.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-moshi@8.2.0?classifier=sources

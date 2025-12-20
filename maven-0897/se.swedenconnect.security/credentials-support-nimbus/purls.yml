@@ -1,2 +1,4 @@
 - pkg:maven/se.swedenconnect.security/credentials-support-nimbus@2.0.0
 - pkg:maven/se.swedenconnect.security/credentials-support-nimbus@2.0.0?classifier=sources
+- pkg:maven/se.swedenconnect.security/credentials-support-nimbus@2.0.1
+- pkg:maven/se.swedenconnect.security/credentials-support-nimbus@2.0.1?classifier=sources

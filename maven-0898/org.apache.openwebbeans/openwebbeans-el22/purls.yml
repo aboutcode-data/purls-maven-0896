@@ -102,3 +102,5 @@
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@4.0.1?classifier=sources
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@4.0.2
 - pkg:maven/org.apache.openwebbeans/openwebbeans-el22@4.0.2?classifier=sources
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@4.0.3
+- pkg:maven/org.apache.openwebbeans/openwebbeans-el22@4.0.3?classifier=sources

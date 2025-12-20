@@ -23,3 +23,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript-karma@RELEASE240?classifier=sources

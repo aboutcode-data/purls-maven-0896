@@ -1,1 +1,2 @@
 - pkg:maven/org.firebirdsql.jdbc/chacha64-plugin@6.0.0-beta-1?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/chacha64-plugin@6.0.0?classifier=sources

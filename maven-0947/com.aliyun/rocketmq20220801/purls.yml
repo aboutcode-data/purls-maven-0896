@@ -36,3 +36,7 @@
 - pkg:maven/com.aliyun/rocketmq20220801@1.4.0?classifier=sources
 - pkg:maven/com.aliyun/rocketmq20220801@1.4.1
 - pkg:maven/com.aliyun/rocketmq20220801@1.4.1?classifier=sources
+- pkg:maven/com.aliyun/rocketmq20220801@2.0.0
+- pkg:maven/com.aliyun/rocketmq20220801@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/rocketmq20220801@2.1.0
+- pkg:maven/com.aliyun/rocketmq20220801@2.1.0?classifier=sources

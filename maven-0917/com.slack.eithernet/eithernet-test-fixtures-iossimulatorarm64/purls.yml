@@ -1,1 +1,2 @@
 - pkg:maven/com.slack.eithernet/eithernet-test-fixtures-iossimulatorarm64@2.0.0-alpha01?classifier=sources
+- pkg:maven/com.slack.eithernet/eithernet-test-fixtures-iossimulatorarm64@2.0.0?classifier=sources

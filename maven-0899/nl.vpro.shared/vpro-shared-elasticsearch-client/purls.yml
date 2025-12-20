@@ -208,3 +208,9 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.3.2?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.3.3
 - pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.3.3?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.3.4
+- pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.3.4?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.4.0
+- pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.4.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.4.1
+- pkg:maven/nl.vpro.shared/vpro-shared-elasticsearch-client@5.4.1?classifier=sources

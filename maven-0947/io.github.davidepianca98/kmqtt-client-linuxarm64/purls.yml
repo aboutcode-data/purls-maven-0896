@@ -4,3 +4,4 @@
 - pkg:maven/io.github.davidepianca98/kmqtt-client-linuxarm64@0.4.6?classifier=sources
 - pkg:maven/io.github.davidepianca98/kmqtt-client-linuxarm64@0.4.7?classifier=sources
 - pkg:maven/io.github.davidepianca98/kmqtt-client-linuxarm64@0.4.8?classifier=sources
+- pkg:maven/io.github.davidepianca98/kmqtt-client-linuxarm64@1.0.0?classifier=sources

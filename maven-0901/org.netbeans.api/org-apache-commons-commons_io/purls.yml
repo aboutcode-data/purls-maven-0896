@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.api/org-apache-commons-commons_io@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-commons-commons_io@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-commons-commons_io@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-apache-commons-commons_io@RELEASE240?classifier=sources

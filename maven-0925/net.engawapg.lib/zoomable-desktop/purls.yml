@@ -1,3 +1,10 @@
+- pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-RC1?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-RC2?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-RC3?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-RC4?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-alpha02?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-alpha03?classifier=sources
 - pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-beta01?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-test1?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0-test2?classifier=sources
+- pkg:maven/net.engawapg.lib/zoomable-desktop@2.0.0?classifier=sources

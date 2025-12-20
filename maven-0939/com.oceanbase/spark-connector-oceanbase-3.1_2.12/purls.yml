@@ -1,0 +1,2 @@
+- pkg:maven/com.oceanbase/spark-connector-oceanbase-3.1_2.12@1.0
+- pkg:maven/com.oceanbase/spark-connector-oceanbase-3.1_2.12@1.0?classifier=sources

@@ -24,3 +24,6 @@
 - pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.17.1
 - pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.17.2
 - pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.17.3
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.17.4
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.17.5
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.17.6

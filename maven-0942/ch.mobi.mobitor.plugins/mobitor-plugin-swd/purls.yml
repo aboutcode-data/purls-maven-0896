@@ -107,6 +107,10 @@
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.402?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.406?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.409?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.413?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.416?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.417?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.420?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.64
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.64?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.71

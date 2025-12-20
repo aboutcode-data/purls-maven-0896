@@ -21,6 +21,7 @@
 - pkg:maven/com.newrelic.agent.java/newrelic-cats-effect3-api_2.12@8.14.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-cats-effect3-api_2.12@8.15.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-cats-effect3-api_2.12@8.16.0?classifier=sources
+- pkg:maven/com.newrelic.agent.java/newrelic-cats-effect3-api_2.12@8.17.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-cats-effect3-api_2.12@8.2.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-cats-effect3-api_2.12@8.3.0?classifier=sources
 - pkg:maven/com.newrelic.agent.java/newrelic-cats-effect3-api_2.12@8.4.0?classifier=sources

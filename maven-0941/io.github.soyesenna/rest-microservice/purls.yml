@@ -16,3 +16,7 @@
 - pkg:maven/io.github.soyesenna/rest-microservice@0.0.25-beta?classifier=sources
 - pkg:maven/io.github.soyesenna/rest-microservice@0.0.26-beta?classifier=sources
 - pkg:maven/io.github.soyesenna/rest-microservice@0.0.27-beta?classifier=sources
+- pkg:maven/io.github.soyesenna/rest-microservice@0.0.28-beta?classifier=sources
+- pkg:maven/io.github.soyesenna/rest-microservice@0.1.0-beta?classifier=sources
+- pkg:maven/io.github.soyesenna/rest-microservice@0.1.1-beta?classifier=sources
+- pkg:maven/io.github.soyesenna/rest-microservice@0.1.2-beta?classifier=sources

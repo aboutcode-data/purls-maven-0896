@@ -26,3 +26,4 @@
 - pkg:maven/org.hildan.har/har-parser-tvosx64@3.2.2?classifier=sources
 - pkg:maven/org.hildan.har/har-parser-tvosx64@3.2.3?classifier=sources
 - pkg:maven/org.hildan.har/har-parser-tvosx64@3.3.0?classifier=sources
+- pkg:maven/org.hildan.har/har-parser-tvosx64@3.4.0?classifier=sources

@@ -282,3 +282,7 @@
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.v1@1.2.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.v1@1.2.9
 - pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.v1@1.2.9?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.v1@1.3.18
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.v1@1.3.18?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.v1@1.3.19
+- pkg:maven/org.wso2.carbon.identity.server.api/org.wso2.carbon.identity.api.server.authenticators.v1@1.3.19?classifier=sources

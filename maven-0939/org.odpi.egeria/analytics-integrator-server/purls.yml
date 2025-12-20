@@ -38,3 +38,4 @@
 - pkg:maven/org.odpi.egeria/analytics-integrator-server@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/analytics-integrator-server@5.0?classifier=sources
 - pkg:maven/org.odpi.egeria/analytics-integrator-server@5.1?classifier=sources
+- pkg:maven/org.odpi.egeria/analytics-integrator-server@5.2?classifier=sources

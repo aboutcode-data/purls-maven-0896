@@ -64,3 +64,5 @@
 - pkg:maven/com.github.jsqlparser/jsqlparser@4.9?classifier=sources
 - pkg:maven/com.github.jsqlparser/jsqlparser@5.0
 - pkg:maven/com.github.jsqlparser/jsqlparser@5.0?classifier=sources
+- pkg:maven/com.github.jsqlparser/jsqlparser@5.1
+- pkg:maven/com.github.jsqlparser/jsqlparser@5.1?classifier=sources

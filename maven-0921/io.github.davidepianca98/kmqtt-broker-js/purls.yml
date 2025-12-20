@@ -4,3 +4,4 @@
 - pkg:maven/io.github.davidepianca98/kmqtt-broker-js@0.4.6?classifier=sources
 - pkg:maven/io.github.davidepianca98/kmqtt-broker-js@0.4.7?classifier=sources
 - pkg:maven/io.github.davidepianca98/kmqtt-broker-js@0.4.8?classifier=sources
+- pkg:maven/io.github.davidepianca98/kmqtt-broker-js@1.0.0?classifier=sources

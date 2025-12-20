@@ -24,3 +24,4 @@
 - pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@1.9.10?classifier=sources
 - pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@1.9.20?classifier=sources
 - pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@2.0.0-Beta?classifier=sources
+- pkg:maven/org.jetbrains.dokka/dokka-maven-plugin@2.0.0?classifier=sources

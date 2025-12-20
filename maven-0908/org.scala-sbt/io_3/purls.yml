@@ -4,6 +4,10 @@
 - pkg:maven/org.scala-sbt/io_3@1.10.1?classifier=sources
 - pkg:maven/org.scala-sbt/io_3@1.10.2
 - pkg:maven/org.scala-sbt/io_3@1.10.2?classifier=sources
+- pkg:maven/org.scala-sbt/io_3@1.10.3
+- pkg:maven/org.scala-sbt/io_3@1.10.3?classifier=sources
+- pkg:maven/org.scala-sbt/io_3@1.10.4
+- pkg:maven/org.scala-sbt/io_3@1.10.4?classifier=sources
 - pkg:maven/org.scala-sbt/io_3@1.6.0
 - pkg:maven/org.scala-sbt/io_3@1.6.0-M2
 - pkg:maven/org.scala-sbt/io_3@1.6.0-M2?classifier=sources

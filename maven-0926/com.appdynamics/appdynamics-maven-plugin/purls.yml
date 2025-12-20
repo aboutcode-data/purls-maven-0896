@@ -50,6 +50,8 @@
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@23.7.2?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@24.1.0
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@24.1.0?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@24.12.0
+- pkg:maven/com.appdynamics/appdynamics-maven-plugin@24.12.0?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@24.4.0
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@24.4.0?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-maven-plugin@24.4.1

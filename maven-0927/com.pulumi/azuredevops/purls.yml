@@ -140,3 +140,4 @@
 - pkg:maven/com.pulumi/azuredevops@3.5.0-alpha.1732598567?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@3.5.0-alpha.1732684911?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@3.5.0-alpha.1732771310?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@3.5.0?classifier=sources

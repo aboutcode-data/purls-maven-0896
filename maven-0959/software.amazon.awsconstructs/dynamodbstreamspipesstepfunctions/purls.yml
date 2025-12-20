@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awsconstructs/dynamodbstreamspipesstepfunctions@2.75.0
+- pkg:maven/software.amazon.awsconstructs/dynamodbstreamspipesstepfunctions@2.75.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/dynamodbstreamspipesstepfunctions@2.76.0
+- pkg:maven/software.amazon.awsconstructs/dynamodbstreamspipesstepfunctions@2.76.0?classifier=sources

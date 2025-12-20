@@ -17,3 +17,4 @@
 - pkg:maven/com.zgamelogic/spring-boot-starter-discord@1.4.2-uia?classifier=sources
 - pkg:maven/com.zgamelogic/spring-boot-starter-discord@1.4.2?classifier=sources
 - pkg:maven/com.zgamelogic/spring-boot-starter-discord@1.4.3?classifier=sources
+- pkg:maven/com.zgamelogic/spring-boot-starter-discord@1.4.4?classifier=sources

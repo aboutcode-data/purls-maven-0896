@@ -1,5 +1,7 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-zio_native0.5_2.13@1.11.10
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-zio_native0.5_2.13@1.11.10?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-json-zio_native0.5_2.13@1.11.11
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-json-zio_native0.5_2.13@1.11.11?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-zio_native0.5_2.13@1.11.3
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-zio_native0.5_2.13@1.11.3?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-json-zio_native0.5_2.13@1.11.4

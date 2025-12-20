@@ -1,3 +1,5 @@
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotvideoindustry@3.1.1172
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotvideoindustry@3.1.1172?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotvideoindustry@3.1.228
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotvideoindustry@3.1.228?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-iotvideoindustry@3.1.229

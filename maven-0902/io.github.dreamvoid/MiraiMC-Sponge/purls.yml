@@ -28,3 +28,5 @@
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.9-pre2?classifier=sources
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.9-pre3
 - pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.9-pre3?classifier=sources
+- pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.9-rc1
+- pkg:maven/io.github.dreamvoid/MiraiMC-Sponge@1.9-rc1?classifier=sources

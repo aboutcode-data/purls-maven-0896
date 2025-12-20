@@ -3,6 +3,7 @@
 - pkg:maven/io.quarkiverse.doma/quarkus-doma@0.0.10?classifier=sources
 - pkg:maven/io.quarkiverse.doma/quarkus-doma@0.0.11?classifier=sources
 - pkg:maven/io.quarkiverse.doma/quarkus-doma@0.0.12?classifier=sources
+- pkg:maven/io.quarkiverse.doma/quarkus-doma@0.0.13?classifier=sources
 - pkg:maven/io.quarkiverse.doma/quarkus-doma@0.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.doma/quarkus-doma@0.0.2
 - pkg:maven/io.quarkiverse.doma/quarkus-doma@0.0.2?classifier=sources

@@ -81,3 +81,4 @@
 - pkg:maven/com.mailosaur/mailosaur-java@8.1.0
 - pkg:maven/com.mailosaur/mailosaur-java@8.1.0?classifier=sources
 - pkg:maven/com.mailosaur/mailosaur-java@8.2.6?classifier=sources
+- pkg:maven/com.mailosaur/mailosaur-java@8.3.0?classifier=sources

@@ -126,6 +126,10 @@
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.23-rc.4?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.23-rc.5
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.23-rc.5?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.24
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.24?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.25-rc.1
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.25-rc.1?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.3
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.3?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.4

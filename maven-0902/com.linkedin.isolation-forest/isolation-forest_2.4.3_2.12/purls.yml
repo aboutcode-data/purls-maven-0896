@@ -21,8 +21,10 @@
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.1.1?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.1.2?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.0?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.10?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.1?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.2?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.3?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.5?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.7?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.9?classifier=sources

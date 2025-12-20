@@ -1,4 +1,6 @@
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.10.1?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.11.0?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.12.0?classifier=sources
+- pkg:maven/org.neo4j.gds/model-catalog-applications@2.13.1?classifier=sources
+- pkg:maven/org.neo4j.gds/model-catalog-applications@2.13.2?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.9.0?classifier=sources

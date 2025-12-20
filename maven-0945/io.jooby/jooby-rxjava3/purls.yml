@@ -88,3 +88,7 @@
 - pkg:maven/io.jooby/jooby-rxjava3@3.5.3?classifier=sources
 - pkg:maven/io.jooby/jooby-rxjava3@3.5.4
 - pkg:maven/io.jooby/jooby-rxjava3@3.5.4?classifier=sources
+- pkg:maven/io.jooby/jooby-rxjava3@3.5.5
+- pkg:maven/io.jooby/jooby-rxjava3@3.5.5?classifier=sources
+- pkg:maven/io.jooby/jooby-rxjava3@3.6.0
+- pkg:maven/io.jooby/jooby-rxjava3@3.6.0?classifier=sources

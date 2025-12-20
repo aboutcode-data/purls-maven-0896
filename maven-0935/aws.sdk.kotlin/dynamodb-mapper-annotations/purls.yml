@@ -1,3 +1,8 @@
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.100-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.101-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.102-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.103-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.104-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.64-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.65-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.66-beta?classifier=sources
@@ -20,3 +25,17 @@
 - pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.83-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.84-beta?classifier=sources
 - pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.85-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.86-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.87-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.88-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.89-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.90-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.91-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.92-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.93-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.94-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.95-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.96-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.97-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.98-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/dynamodb-mapper-annotations@1.3.99-beta?classifier=sources

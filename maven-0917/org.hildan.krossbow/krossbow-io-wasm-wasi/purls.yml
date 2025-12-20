@@ -1,2 +1,3 @@
 - pkg:maven/org.hildan.krossbow/krossbow-io-wasm-wasi@8.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-io-wasm-wasi@8.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-io-wasm-wasi@8.2.0?classifier=sources

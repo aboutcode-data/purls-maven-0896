@@ -1,0 +1,4 @@
+- pkg:maven/software.xdev/music-maven-plugin@1.0.0
+- pkg:maven/software.xdev/music-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/software.xdev/music-maven-plugin@1.0.1
+- pkg:maven/software.xdev/music-maven-plugin@1.0.1?classifier=sources

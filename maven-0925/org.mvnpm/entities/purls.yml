@@ -3,3 +3,4 @@
 - pkg:maven/org.mvnpm/entities@4.4.0?classifier=sources
 - pkg:maven/org.mvnpm/entities@4.5.0?classifier=sources
 - pkg:maven/org.mvnpm/entities@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm/entities@6.0.0?classifier=sources

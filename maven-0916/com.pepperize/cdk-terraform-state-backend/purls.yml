@@ -53,6 +53,14 @@
 - pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.106
 - pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.106?classifier=sources
 - pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.107
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1071
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1071?classifier=sources
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1072
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1072?classifier=sources
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1073
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1073?classifier=sources
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1074
+- pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.1074?classifier=sources
 - pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.107?classifier=sources
 - pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.108
 - pkg:maven/com.pepperize/cdk-terraform-state-backend@0.1.108?classifier=sources

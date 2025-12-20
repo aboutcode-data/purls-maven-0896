@@ -23,4 +23,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-libraries-ui@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-libraries-ui@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-libraries-ui@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-project-libraries-ui@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-project-libraries-ui@RELEASE90?classifier=sources

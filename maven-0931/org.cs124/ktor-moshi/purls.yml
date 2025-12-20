@@ -2,3 +2,4 @@
 - pkg:maven/org.cs124/ktor-moshi@2024.10.0?classifier=sources
 - pkg:maven/org.cs124/ktor-moshi@2024.3.0?classifier=sources
 - pkg:maven/org.cs124/ktor-moshi@2024.6.0?classifier=sources
+- pkg:maven/org.cs124/ktor-moshi@2025.1.0?classifier=sources

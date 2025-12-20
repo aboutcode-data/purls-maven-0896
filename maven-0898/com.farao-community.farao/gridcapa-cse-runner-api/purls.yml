@@ -106,6 +106,12 @@
 - pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.35.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.36.0
 - pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.36.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.37.0
+- pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.37.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.38.0
+- pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.38.0?classifier=sources
+- pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.39.0
+- pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.39.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.4.0
 - pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.4.0?classifier=sources
 - pkg:maven/com.farao-community.farao/gridcapa-cse-runner-api@1.4.1

@@ -884,6 +884,12 @@
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.2?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.30
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.30?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.32
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.32?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.33
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.33?classifier=sources
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.34
+- pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.34?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.5
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.5?classifier=sources
 - pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend@5.5.6

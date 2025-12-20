@@ -35,3 +35,4 @@
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-function-cloudevents@5.7.0?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-function-cloudevents@5.7.1?classifier=sources
 - pkg:maven/io.micronaut.gcp/micronaut-gcp-function-cloudevents@5.8.0?classifier=sources
+- pkg:maven/io.micronaut.gcp/micronaut-gcp-function-cloudevents@5.8.1?classifier=sources

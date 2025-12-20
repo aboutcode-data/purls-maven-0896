@@ -38,3 +38,5 @@
 - pkg:maven/xyz.ronella.casual/trivial-chunk@2.9.0?classifier=sources
 - pkg:maven/xyz.ronella.casual/trivial-chunk@3.0.0?classifier=sources
 - pkg:maven/xyz.ronella.casual/trivial-chunk@3.1.0?classifier=sources
+- pkg:maven/xyz.ronella.casual/trivial-chunk@3.2.0?classifier=sources
+- pkg:maven/xyz.ronella.casual/trivial-chunk@3.3.0?classifier=sources

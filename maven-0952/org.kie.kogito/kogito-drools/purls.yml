@@ -109,5 +109,7 @@
 - pkg:maven/org.kie.kogito/kogito-drools@1.8.0.Final
 - pkg:maven/org.kie.kogito/kogito-drools@1.9.0.Final
 - pkg:maven/org.kie.kogito/kogito-drools@1.9.1.Final
+- pkg:maven/org.kie.kogito/kogito-drools@10.0.0
+- pkg:maven/org.kie.kogito/kogito-drools@10.0.0?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-drools@2.44.0.Alpha
 - pkg:maven/org.kie.kogito/kogito-drools@2.44.0.Alpha?classifier=sources

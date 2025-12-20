@@ -230,3 +230,4 @@
 - pkg:maven/com.bertramlabs.plugins/karman-core@2.3.1?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-core@2.3.2?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-core@2.3.3?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-core@3.0.0?classifier=sources

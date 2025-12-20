@@ -50,5 +50,7 @@
 - pkg:maven/de.team33.patterns/lazy-narvi@1.21.0?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@1.21.1
 - pkg:maven/de.team33.patterns/lazy-narvi@1.21.1?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@1.22.0
+- pkg:maven/de.team33.patterns/lazy-narvi@1.22.0?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@1.9.0
 - pkg:maven/de.team33.patterns/lazy-narvi@1.9.0?classifier=sources

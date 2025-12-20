@@ -383,6 +383,7 @@
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-lib@8.32.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-lib@8.34.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-lib@8.35.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-undertow-lib@8.36.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-lib@8.4.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-lib@8.5.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java/conjure-undertow-lib@8.6.0?classifier=sources

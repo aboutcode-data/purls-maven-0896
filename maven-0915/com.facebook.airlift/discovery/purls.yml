@@ -56,3 +56,5 @@
 - pkg:maven/com.facebook.airlift/discovery@0.214?classifier=sources
 - pkg:maven/com.facebook.airlift/discovery@0.215
 - pkg:maven/com.facebook.airlift/discovery@0.215?classifier=sources
+- pkg:maven/com.facebook.airlift/discovery@0.216
+- pkg:maven/com.facebook.airlift/discovery@0.216?classifier=sources

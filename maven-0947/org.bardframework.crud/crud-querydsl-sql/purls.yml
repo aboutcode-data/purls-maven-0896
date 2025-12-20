@@ -60,3 +60,7 @@
 - pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.6.2?classifier=sources
 - pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.7.2
 - pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.7.2?classifier=sources
+- pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.8.2
+- pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.8.2?classifier=sources
+- pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.9.2
+- pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.9.2?classifier=sources

@@ -41,6 +41,7 @@
 - pkg:maven/com.truelayer/truelayer-java@16.0.0?classifier=sources
 - pkg:maven/com.truelayer/truelayer-java@16.0.1?classifier=sources
 - pkg:maven/com.truelayer/truelayer-java@16.1.0?classifier=sources
+- pkg:maven/com.truelayer/truelayer-java@16.2.0?classifier=sources
 - pkg:maven/com.truelayer/truelayer-java@2.0.0?classifier=sources
 - pkg:maven/com.truelayer/truelayer-java@2.0.1?classifier=sources
 - pkg:maven/com.truelayer/truelayer-java@2.0.2?classifier=sources

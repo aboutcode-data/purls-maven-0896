@@ -33,3 +33,4 @@
 - pkg:maven/ru.astrainteractive.gradleplugin/minecraft@1.4.0?classifier=sources
 - pkg:maven/ru.astrainteractive.gradleplugin/minecraft@1.5.0-alpha01?classifier=sources
 - pkg:maven/ru.astrainteractive.gradleplugin/minecraft@1.5.0-alpha02?classifier=sources
+- pkg:maven/ru.astrainteractive.gradleplugin/minecraft@1.5.1?classifier=sources

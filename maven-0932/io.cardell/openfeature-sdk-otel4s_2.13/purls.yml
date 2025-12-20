@@ -1,2 +1,4 @@
 - pkg:maven/io.cardell/openfeature-sdk-otel4s_2.13@0.4.0
 - pkg:maven/io.cardell/openfeature-sdk-otel4s_2.13@0.4.0?classifier=sources
+- pkg:maven/io.cardell/openfeature-sdk-otel4s_2.13@0.5.0
+- pkg:maven/io.cardell/openfeature-sdk-otel4s_2.13@0.5.0?classifier=sources

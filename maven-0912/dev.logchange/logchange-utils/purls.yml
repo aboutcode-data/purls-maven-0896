@@ -1,0 +1,4 @@
+- pkg:maven/dev.logchange/logchange-utils@1.13.0
+- pkg:maven/dev.logchange/logchange-utils@1.13.0?classifier=sources
+- pkg:maven/dev.logchange/logchange-utils@1.14.0
+- pkg:maven/dev.logchange/logchange-utils@1.14.0?classifier=sources

@@ -55,6 +55,10 @@
 - pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha3
 - pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha30
 - pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha30?classifier=sources
+- pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha31
+- pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha31?classifier=sources
+- pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha32
+- pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha32?classifier=sources
 - pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha3?classifier=sources
 - pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha4
 - pkg:maven/io.foldright/cffu-kotlin@1.0.0-Alpha4?classifier=sources

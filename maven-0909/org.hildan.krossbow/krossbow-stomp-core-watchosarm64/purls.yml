@@ -36,3 +36,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-watchosarm64@7.3.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-watchosarm64@8.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-watchosarm64@8.1.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-core-watchosarm64@8.2.0?classifier=sources

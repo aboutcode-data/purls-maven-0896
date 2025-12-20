@@ -22,6 +22,8 @@
 - pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.12-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.13-preview
 - pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.13-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.14-preview
+- pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.14-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.2-preview
 - pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.2-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-assured-workloads-spring-starter@4.10.3-preview

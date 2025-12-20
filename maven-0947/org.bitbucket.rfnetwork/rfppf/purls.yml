@@ -79,6 +79,12 @@
 - pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.5
 - pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.50
 - pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.50?classifier=sources
+- pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.53
+- pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.53?classifier=sources
+- pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.54
+- pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.54?classifier=sources
+- pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.56
+- pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.56?classifier=sources
 - pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.5?classifier=sources
 - pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.8
 - pkg:maven/org.bitbucket.rfnetwork/rfppf@3.0.8?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/com.beeproduced/bee.generative@0.3.0?classifier=sources
 - pkg:maven/com.beeproduced/bee.generative@0.3.1?classifier=sources
 - pkg:maven/com.beeproduced/bee.generative@0.4.0?classifier=sources
+- pkg:maven/com.beeproduced/bee.generative@0.5.0?classifier=sources

@@ -96,6 +96,7 @@
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.6.1.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.6.2.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.6.3.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-hikaricp@6.6.4.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@7.0.0.Alpha1?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@7.0.0.Alpha2?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-hikaricp@7.0.0.Alpha3?classifier=sources

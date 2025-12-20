@@ -2,3 +2,4 @@
 - pkg:maven/tech.icey/glfw@0.1.2?classifier=sources
 - pkg:maven/tech.icey/glfw@0.2.0?classifier=sources
 - pkg:maven/tech.icey/glfw@0.2.1?classifier=sources
+- pkg:maven/tech.icey/glfw@0.2.2?classifier=sources

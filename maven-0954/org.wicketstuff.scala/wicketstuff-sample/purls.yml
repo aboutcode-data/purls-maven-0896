@@ -230,6 +230,8 @@
 - pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.17.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.18.0
 - pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.18.0?classifier=sources
+- pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.19.0
+- pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.2.0
 - pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.2.0?classifier=sources
 - pkg:maven/org.wicketstuff.scala/wicketstuff-sample@9.3.0

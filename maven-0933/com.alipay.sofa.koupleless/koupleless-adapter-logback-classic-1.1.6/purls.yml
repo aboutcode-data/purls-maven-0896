@@ -1,0 +1,4 @@
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-logback-classic-1.1.6@1.2.4
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-logback-classic-1.1.6@1.2.4?classifier=sources
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-logback-classic-1.1.6@1.2.5
+- pkg:maven/com.alipay.sofa.koupleless/koupleless-adapter-logback-classic-1.1.6@1.2.5?classifier=sources

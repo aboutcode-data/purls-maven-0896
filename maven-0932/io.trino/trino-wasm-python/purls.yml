@@ -1,2 +1,4 @@
 - pkg:maven/io.trino/trino-wasm-python@3.13-1
 - pkg:maven/io.trino/trino-wasm-python@3.13-1?classifier=sources
+- pkg:maven/io.trino/trino-wasm-python@3.13-2
+- pkg:maven/io.trino/trino-wasm-python@3.13-2?classifier=sources

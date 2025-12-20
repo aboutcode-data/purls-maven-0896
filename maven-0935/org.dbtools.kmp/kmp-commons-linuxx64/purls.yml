@@ -2,3 +2,5 @@
 - pkg:maven/org.dbtools.kmp/kmp-commons-linuxx64@0.0.2?classifier=sources
 - pkg:maven/org.dbtools.kmp/kmp-commons-linuxx64@0.0.3?classifier=sources
 - pkg:maven/org.dbtools.kmp/kmp-commons-linuxx64@1.0.0?classifier=sources
+- pkg:maven/org.dbtools.kmp/kmp-commons-linuxx64@1.1.0?classifier=sources
+- pkg:maven/org.dbtools.kmp/kmp-commons-linuxx64@1.1.1?classifier=sources

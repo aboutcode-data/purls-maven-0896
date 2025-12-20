@@ -22,6 +22,10 @@
 - pkg:maven/gov.nsa.emissary/emissary@8.17.0?classifier=sources
 - pkg:maven/gov.nsa.emissary/emissary@8.18.0
 - pkg:maven/gov.nsa.emissary/emissary@8.18.0?classifier=sources
+- pkg:maven/gov.nsa.emissary/emissary@8.19.0
+- pkg:maven/gov.nsa.emissary/emissary@8.19.0?classifier=sources
+- pkg:maven/gov.nsa.emissary/emissary@8.19.1
+- pkg:maven/gov.nsa.emissary/emissary@8.19.1?classifier=sources
 - pkg:maven/gov.nsa.emissary/emissary@8.2.0
 - pkg:maven/gov.nsa.emissary/emissary@8.2.0?classifier=sources
 - pkg:maven/gov.nsa.emissary/emissary@8.3.0

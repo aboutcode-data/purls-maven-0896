@@ -44,3 +44,5 @@
 - pkg:maven/com.gu/panda-hmac-play_3-0_2.13@6.0.0?classifier=sources
 - pkg:maven/com.gu/panda-hmac-play_3-0_2.13@7.0.0
 - pkg:maven/com.gu/panda-hmac-play_3-0_2.13@7.0.0?classifier=sources
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@7.0.1-PREVIEW.support-scala-3-drop-scala-212-and-play-28.2024-12-10T1132.d7c7a35e
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@7.0.1-PREVIEW.support-scala-3-drop-scala-212-and-play-28.2024-12-10T1132.d7c7a35e?classifier=sources

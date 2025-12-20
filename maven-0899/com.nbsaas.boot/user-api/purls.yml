@@ -28,6 +28,8 @@
 - pkg:maven/com.nbsaas.boot/user-api@1.0.7-2023?classifier=sources
 - pkg:maven/com.nbsaas.boot/user-api@1.0.8-2023
 - pkg:maven/com.nbsaas.boot/user-api@1.0.8-2023?classifier=sources
+- pkg:maven/com.nbsaas.boot/user-api@1.0.8-boot3?classifier=sources
+- pkg:maven/com.nbsaas.boot/user-api@1.0.9-boot3?classifier=sources
 - pkg:maven/com.nbsaas.boot/user-api@1.1.1-2024
 - pkg:maven/com.nbsaas.boot/user-api@1.1.1-2024?classifier=sources
 - pkg:maven/com.nbsaas.boot/user-api@1.1.10-2024?classifier=sources

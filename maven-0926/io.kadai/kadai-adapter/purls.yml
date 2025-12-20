@@ -1,1 +1,2 @@
 - pkg:maven/io.kadai/kadai-adapter@9.0.0?classifier=sources
+- pkg:maven/io.kadai/kadai-adapter@9.2.0?classifier=sources

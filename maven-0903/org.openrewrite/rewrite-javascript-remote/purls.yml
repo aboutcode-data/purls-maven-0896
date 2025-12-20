@@ -18,3 +18,6 @@
 - pkg:maven/org.openrewrite/rewrite-javascript-remote@0.23.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-javascript-remote@0.23.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-javascript-remote@0.24.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript-remote@0.25.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript-remote@0.25.4?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-javascript-remote@0.26.0?classifier=sources

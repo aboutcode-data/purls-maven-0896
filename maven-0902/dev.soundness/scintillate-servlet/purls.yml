@@ -1,0 +1,6 @@
+- pkg:maven/dev.soundness/scintillate-servlet@0.24.0
+- pkg:maven/dev.soundness/scintillate-servlet@0.24.0?classifier=sources
+- pkg:maven/dev.soundness/scintillate-servlet@0.25.0
+- pkg:maven/dev.soundness/scintillate-servlet@0.25.0?classifier=sources
+- pkg:maven/dev.soundness/scintillate-servlet@0.26.0
+- pkg:maven/dev.soundness/scintillate-servlet@0.26.0?classifier=sources

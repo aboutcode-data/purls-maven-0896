@@ -104,3 +104,5 @@
 - pkg:maven/com.segment.publicapi/segment-publicapi@50.1.0?classifier=sources
 - pkg:maven/com.segment.publicapi/segment-publicapi@50.2.0
 - pkg:maven/com.segment.publicapi/segment-publicapi@50.2.0?classifier=sources
+- pkg:maven/com.segment.publicapi/segment-publicapi@57.2.0
+- pkg:maven/com.segment.publicapi/segment-publicapi@57.2.0?classifier=sources

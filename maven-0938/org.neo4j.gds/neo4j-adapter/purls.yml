@@ -114,6 +114,8 @@
 - pkg:maven/org.neo4j.gds/neo4j-adapter@2.10.1?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-adapter@2.11.0?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-adapter@2.12.0?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-adapter@2.13.1?classifier=sources
+- pkg:maven/org.neo4j.gds/neo4j-adapter@2.13.2?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-adapter@2.2.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-adapter@2.2.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/neo4j-adapter@2.2.0-alpha03?classifier=sources

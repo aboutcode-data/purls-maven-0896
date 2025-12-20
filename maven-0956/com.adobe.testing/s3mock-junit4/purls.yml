@@ -194,6 +194,8 @@
 - pkg:maven/com.adobe.testing/s3mock-junit4@3.10.3?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-junit4@3.11.0
 - pkg:maven/com.adobe.testing/s3mock-junit4@3.11.0?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-junit4@3.12.0
+- pkg:maven/com.adobe.testing/s3mock-junit4@3.12.0?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-junit4@3.2.0
 - pkg:maven/com.adobe.testing/s3mock-junit4@3.2.0?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-junit4@3.3.0
