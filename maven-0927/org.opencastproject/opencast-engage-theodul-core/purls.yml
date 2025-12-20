@@ -77,6 +77,8 @@
 - pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.1
 - pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.10
 - pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.10?classifier=sources
+- pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.11
+- pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.11?classifier=sources
 - pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.12
 - pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.12?classifier=sources
 - pkg:maven/org.opencastproject/opencast-engage-theodul-core@13.1?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/io.helidon.webserver.testing.junit5/helidon-webserver-testing-junit5-http2@4.0.4?classifier=sources
 - pkg:maven/io.helidon.webserver.testing.junit5/helidon-webserver-testing-junit5-http2@4.0.5
 - pkg:maven/io.helidon.webserver.testing.junit5/helidon-webserver-testing-junit5-http2@4.0.5?classifier=sources
+- pkg:maven/io.helidon.webserver.testing.junit5/helidon-webserver-testing-junit5-http2@4.0.6
+- pkg:maven/io.helidon.webserver.testing.junit5/helidon-webserver-testing-junit5-http2@4.0.6?classifier=sources

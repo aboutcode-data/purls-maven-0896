@@ -8,3 +8,5 @@
 - pkg:maven/com.uid2/uid2-client@4.2.2-9c0ebaaaa9?classifier=sources
 - pkg:maven/com.uid2/uid2-client@4.2.4-dcf7ac1ce6
 - pkg:maven/com.uid2/uid2-client@4.2.4-dcf7ac1ce6?classifier=sources
+- pkg:maven/com.uid2/uid2-client@4.3.0-3f9bbbefc8
+- pkg:maven/com.uid2/uid2-client@4.3.0-3f9bbbefc8?classifier=sources

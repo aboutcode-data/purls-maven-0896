@@ -22,3 +22,4 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.accessibility@1.0.17
 - pkg:maven/com.liferay/com.liferay.product.navigation.accessibility@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.accessibility@1.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.accessibility@1.0.18?classifier=sources

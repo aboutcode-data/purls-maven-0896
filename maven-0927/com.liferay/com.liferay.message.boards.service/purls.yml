@@ -760,6 +760,8 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.6
 - pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.60?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.message.boards.service@4.0.7
@@ -1033,5 +1035,9 @@
 - pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.92?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.93?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.94?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.95?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.96?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.97?classifier=sources
+- pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.98?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.message.boards.service@5.0.9?classifier=sources-commercial

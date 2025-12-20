@@ -1,0 +1,4 @@
+- pkg:maven/com.bucket4j/bucket4j-mariadb@8.8.0
+- pkg:maven/com.bucket4j/bucket4j-mariadb@8.8.0?classifier=sources
+- pkg:maven/com.bucket4j/bucket4j-mariadb@8.9.0
+- pkg:maven/com.bucket4j/bucket4j-mariadb@8.9.0?classifier=sources

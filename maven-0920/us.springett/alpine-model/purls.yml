@@ -12,3 +12,5 @@
 - pkg:maven/us.springett/alpine-model@2.2.3?classifier=sources
 - pkg:maven/us.springett/alpine-model@2.2.4
 - pkg:maven/us.springett/alpine-model@2.2.4?classifier=sources
+- pkg:maven/us.springett/alpine-model@2.2.5
+- pkg:maven/us.springett/alpine-model@2.2.5?classifier=sources

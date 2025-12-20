@@ -1,4 +1,6 @@
 - pkg:maven/com.hubspot/s3-decorators-core@0.1
+- pkg:maven/com.hubspot/s3-decorators-core@0.10
+- pkg:maven/com.hubspot/s3-decorators-core@0.10?classifier=sources
 - pkg:maven/com.hubspot/s3-decorators-core@0.1?classifier=sources
 - pkg:maven/com.hubspot/s3-decorators-core@0.2
 - pkg:maven/com.hubspot/s3-decorators-core@0.2?classifier=sources

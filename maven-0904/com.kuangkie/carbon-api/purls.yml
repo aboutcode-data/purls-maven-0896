@@ -7,3 +7,5 @@
 - pkg:maven/com.kuangkie/carbon-api@1.7.0?classifier=sources
 - pkg:maven/com.kuangkie/carbon-api@2.1.0?classifier=sources
 - pkg:maven/com.kuangkie/carbon-api@2.1.1?classifier=sources
+- pkg:maven/com.kuangkie/carbon-api@3.0.0?classifier=sources
+- pkg:maven/com.kuangkie/carbon-api@3.1.0?classifier=sources

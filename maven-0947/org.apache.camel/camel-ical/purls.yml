@@ -366,3 +366,5 @@
 - pkg:maven/org.apache.camel/camel-ical@4.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-ical@4.4.0
 - pkg:maven/org.apache.camel/camel-ical@4.4.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-ical@4.4.1
+- pkg:maven/org.apache.camel/camel-ical@4.4.1?classifier=sources

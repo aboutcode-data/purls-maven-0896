@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.app@1.6.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.app@1.6.400
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.app@1.6.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.app@1.7.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.app@1.7.0?classifier=sources

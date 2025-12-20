@@ -10,6 +10,11 @@
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.19?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.20?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.21?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.22?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.23?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.24?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.25?classifier=sources
+- pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.26?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.2?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.3?classifier=sources
 - pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations@2.0.0-rc.4?classifier=sources

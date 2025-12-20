@@ -2,3 +2,5 @@
 - pkg:maven/cn.wustlinghang.mywust/mywust-network@0.0.2-beta?classifier=sources
 - pkg:maven/cn.wustlinghang.mywust/mywust-network@0.0.3-alpha
 - pkg:maven/cn.wustlinghang.mywust/mywust-network@0.0.3-alpha?classifier=sources
+- pkg:maven/cn.wustlinghang.mywust/mywust-network@0.0.4-alpha
+- pkg:maven/cn.wustlinghang.mywust/mywust-network@0.0.4-alpha?classifier=sources

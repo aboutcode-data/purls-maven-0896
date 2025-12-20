@@ -10,3 +10,5 @@
 - pkg:maven/com.tencent.polaris/polaris-assembly-client@1.14.3?classifier=sources
 - pkg:maven/com.tencent.polaris/polaris-assembly-client@1.15.0
 - pkg:maven/com.tencent.polaris/polaris-assembly-client@1.15.0?classifier=sources
+- pkg:maven/com.tencent.polaris/polaris-assembly-client@1.15.1
+- pkg:maven/com.tencent.polaris/polaris-assembly-client@1.15.1?classifier=sources

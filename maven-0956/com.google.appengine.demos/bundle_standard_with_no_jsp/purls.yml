@@ -6,3 +6,5 @@
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.23?type=war
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.24?classifier=sources
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.24?type=war
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.25?classifier=sources
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.25?type=war

@@ -6,6 +6,8 @@
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.13.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.14.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.15.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.15.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.15.2?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.4.0
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.4.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-xray-recorder-sdk-sql@2.5.0

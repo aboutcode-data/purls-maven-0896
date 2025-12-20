@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/microsoft__dynamicproto-js@1.1.11
+- pkg:maven/org.webjars.npm/microsoft__dynamicproto-js@1.1.11?classifier=sources
+- pkg:maven/org.webjars.npm/microsoft__dynamicproto-js@2.0.0
+- pkg:maven/org.webjars.npm/microsoft__dynamicproto-js@2.0.0?classifier=sources

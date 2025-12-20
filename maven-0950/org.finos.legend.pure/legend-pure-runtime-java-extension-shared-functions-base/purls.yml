@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-shared-functions-base@5.2.1
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-shared-functions-base@5.2.1?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-shared-functions-base@5.2.2
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-shared-functions-base@5.2.2?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-shared-functions-base@5.3.0
+- pkg:maven/org.finos.legend.pure/legend-pure-runtime-java-extension-shared-functions-base@5.3.0?classifier=sources

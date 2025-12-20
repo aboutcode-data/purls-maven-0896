@@ -6,3 +6,5 @@
 - pkg:maven/io.github.johlin/test@1.3?classifier=sources
 - pkg:maven/io.github.johlin/test@1.4
 - pkg:maven/io.github.johlin/test@1.4?classifier=sources
+- pkg:maven/io.github.johlin/test@1.5
+- pkg:maven/io.github.johlin/test@1.5?classifier=sources

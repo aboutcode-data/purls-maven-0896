@@ -5,6 +5,7 @@
 - pkg:maven/org.springframework.credhub/spring-credhub@2.1.0.RELEASE
 - pkg:maven/org.springframework.credhub/spring-credhub@2.1.1.RELEASE
 - pkg:maven/org.springframework.credhub/spring-credhub@2.2.0?classifier=sources
+- pkg:maven/org.springframework.credhub/spring-credhub@2.2.1?classifier=sources
 - pkg:maven/org.springframework.credhub/spring-credhub@2.3.0?classifier=sources
 - pkg:maven/org.springframework.credhub/spring-credhub@3.0.0?classifier=sources
 - pkg:maven/org.springframework.credhub/spring-credhub@3.1.0?classifier=sources

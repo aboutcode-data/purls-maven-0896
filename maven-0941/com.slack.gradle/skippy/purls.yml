@@ -1,2 +1,10 @@
 - pkg:maven/com.slack.gradle/skippy@0.15.2?classifier=sources
 - pkg:maven/com.slack.gradle/skippy@0.15.3?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.15.4?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.15.5?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.15.6?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.15.7?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.15.8?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.15.9?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.16.0?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.16.1?classifier=sources

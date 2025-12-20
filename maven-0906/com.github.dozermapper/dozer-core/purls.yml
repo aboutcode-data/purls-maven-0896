@@ -14,3 +14,5 @@
 - pkg:maven/com.github.dozermapper/dozer-core@6.5.0?classifier=sources
 - pkg:maven/com.github.dozermapper/dozer-core@6.5.2
 - pkg:maven/com.github.dozermapper/dozer-core@6.5.2?classifier=sources
+- pkg:maven/com.github.dozermapper/dozer-core@7.0.0
+- pkg:maven/com.github.dozermapper/dozer-core@7.0.0?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/org.ply-ct/plyex@1.1.4?classifier=sources
 - pkg:maven/org.ply-ct/plyex@2.0.1?classifier=sources
 - pkg:maven/org.ply-ct/plyex@2.0.2?classifier=sources
+- pkg:maven/org.ply-ct/plyex@2.1.0?classifier=sources

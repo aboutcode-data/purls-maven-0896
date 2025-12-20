@@ -1,0 +1,2 @@
+- pkg:maven/org.opennms.eclipsesource.jaxrs/provider-swagger@2.0.2
+- pkg:maven/org.opennms.eclipsesource.jaxrs/provider-swagger@2.0.2?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.inverno/inverno-core-annotation@1.5.3?classifier=sources
 - pkg:maven/io.inverno/inverno-core-annotation@1.5.4
 - pkg:maven/io.inverno/inverno-core-annotation@1.5.4?classifier=sources
+- pkg:maven/io.inverno/inverno-core-annotation@1.5.5
+- pkg:maven/io.inverno/inverno-core-annotation@1.5.5?classifier=sources

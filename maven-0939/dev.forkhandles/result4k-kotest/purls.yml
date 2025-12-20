@@ -11,6 +11,8 @@
 - pkg:maven/dev.forkhandles/result4k-kotest@2.12.3.1?classifier=sources
 - pkg:maven/dev.forkhandles/result4k-kotest@2.12.4.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k-kotest@2.13.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k-kotest@2.13.1.0?classifier=sources
+- pkg:maven/dev.forkhandles/result4k-kotest@2.14.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k-kotest@2.4.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k-kotest@2.5.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/result4k-kotest@2.6.0.0?classifier=sources

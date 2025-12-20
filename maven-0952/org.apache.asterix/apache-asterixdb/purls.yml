@@ -10,4 +10,6 @@
 - pkg:maven/org.apache.asterix/apache-asterixdb@0.9.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.asterix/apache-asterixdb@0.9.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.asterix/apache-asterixdb@0.9.8.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.asterix/apache-asterixdb@0.9.8.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.asterix/apache-asterixdb@0.9.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.asterix/apache-asterixdb@0.9.9?classifier=source-release&type=zip

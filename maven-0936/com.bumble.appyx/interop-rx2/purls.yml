@@ -21,3 +21,4 @@
 - pkg:maven/com.bumble.appyx/interop-rx2@1.2.0?classifier=sources
 - pkg:maven/com.bumble.appyx/interop-rx2@1.3.0?classifier=sources
 - pkg:maven/com.bumble.appyx/interop-rx2@1.4.0?classifier=sources
+- pkg:maven/com.bumble.appyx/interop-rx2@1.4.1-migrate-2.x?classifier=sources

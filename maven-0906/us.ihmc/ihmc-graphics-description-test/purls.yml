@@ -14,3 +14,4 @@
 - pkg:maven/us.ihmc/ihmc-graphics-description-test@0.20.6?classifier=sources
 - pkg:maven/us.ihmc/ihmc-graphics-description-test@0.20.7?classifier=sources
 - pkg:maven/us.ihmc/ihmc-graphics-description-test@0.25.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-graphics-description-test@0.25.1?classifier=sources

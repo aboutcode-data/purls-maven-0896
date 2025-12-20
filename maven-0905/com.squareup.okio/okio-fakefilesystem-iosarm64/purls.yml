@@ -18,3 +18,4 @@
 - pkg:maven/com.squareup.okio/okio-fakefilesystem-iosarm64@3.6.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-fakefilesystem-iosarm64@3.7.0?classifier=sources
 - pkg:maven/com.squareup.okio/okio-fakefilesystem-iosarm64@3.8.0?classifier=sources
+- pkg:maven/com.squareup.okio/okio-fakefilesystem-iosarm64@3.9.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.100.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.100.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.99.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.99.0?classifier=sources

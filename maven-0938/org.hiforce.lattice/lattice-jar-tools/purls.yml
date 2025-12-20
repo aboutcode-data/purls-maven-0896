@@ -3,4 +3,6 @@
 - pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.17
 - pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.17?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.18
+- pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.18.1
+- pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.18.1?classifier=sources
 - pkg:maven/org.hiforce.lattice/lattice-jar-tools@1.0.18?classifier=sources

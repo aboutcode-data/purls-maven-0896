@@ -8,6 +8,14 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@15.2.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@15.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@16.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@17.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@17.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@17.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@18.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@19.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@19.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@20.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@20.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@7.0.0?classifier=sources

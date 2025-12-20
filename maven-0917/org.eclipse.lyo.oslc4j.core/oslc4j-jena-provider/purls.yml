@@ -30,3 +30,5 @@
 - pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@5.1.0.Final?classifier=sources
 - pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@5.1.1.Final
 - pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@5.1.1.Final?classifier=sources
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@6.0.0.Alpha1
+- pkg:maven/org.eclipse.lyo.oslc4j.core/oslc4j-jena-provider@6.0.0.Alpha1?classifier=sources

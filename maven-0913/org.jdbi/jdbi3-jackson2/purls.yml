@@ -134,6 +134,8 @@
 - pkg:maven/org.jdbi/jdbi3-jackson2@3.44.1?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-jackson2@3.45.0
 - pkg:maven/org.jdbi/jdbi3-jackson2@3.45.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-jackson2@3.45.1
+- pkg:maven/org.jdbi/jdbi3-jackson2@3.45.1?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-jackson2@3.6.0
 - pkg:maven/org.jdbi/jdbi3-jackson2@3.6.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-jackson2@3.7.0

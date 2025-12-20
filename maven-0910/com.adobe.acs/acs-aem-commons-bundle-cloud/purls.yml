@@ -8,3 +8,5 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.3.6?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.3.8
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.3.8?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.4.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.4.0?classifier=sources

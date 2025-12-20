@@ -1,5 +1,15 @@
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.1.0
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.1.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.10.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.10.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.11.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.11.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.12.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.12.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.13.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.13.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.14.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.14.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.2.0
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.2.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-model@0.3.0

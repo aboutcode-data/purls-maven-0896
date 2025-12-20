@@ -308,3 +308,5 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@3.0.7.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@3.0.8.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@3.0.8.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@3.0.9.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-validator-ant@3.0.9.Final?classifier=sources

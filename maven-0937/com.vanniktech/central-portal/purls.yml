@@ -1,0 +1,2 @@
+- pkg:maven/com.vanniktech/central-portal@0.28.0-rc1?classifier=sources
+- pkg:maven/com.vanniktech/central-portal@0.28.0?classifier=sources

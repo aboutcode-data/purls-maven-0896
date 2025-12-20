@@ -106,6 +106,8 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.10.3?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.10.4
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.10.4?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.10.5
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.10.5?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.0
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.0?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.2.1
@@ -150,3 +152,11 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.8.4?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.8.5
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.8.5?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.8.7
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@6.8.7?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@7.0.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@7.0.0?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@7.0.1
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@7.0.1?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@7.0.2
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-validation-resources-r5@7.0.2?classifier=sources

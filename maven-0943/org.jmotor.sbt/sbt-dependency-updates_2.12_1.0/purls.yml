@@ -1,2 +1,4 @@
 - pkg:maven/org.jmotor.sbt/sbt-dependency-updates_2.12_1.0@1.2.8
 - pkg:maven/org.jmotor.sbt/sbt-dependency-updates_2.12_1.0@1.2.8?classifier=sources
+- pkg:maven/org.jmotor.sbt/sbt-dependency-updates_2.12_1.0@1.2.9
+- pkg:maven/org.jmotor.sbt/sbt-dependency-updates_2.12_1.0@1.2.9?classifier=sources

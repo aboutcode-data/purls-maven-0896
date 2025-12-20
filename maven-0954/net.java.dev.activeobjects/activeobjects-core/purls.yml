@@ -620,3 +620,7 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.0.0-m03-bcf80f13a
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.0.0-m03-bcf80f13a?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.0.0-m03?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.0.0-m05
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.0.0-m05-4be21cbd6
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.0.0-m05-4be21cbd6?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.0.0-m05?classifier=sources

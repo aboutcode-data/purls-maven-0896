@@ -17,3 +17,6 @@
 - pkg:maven/com.foilen/jl-smalltools-main@3.5.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.6.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.7.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-main@3.8.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-main@3.8.1?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-main@3.9.0?classifier=sources

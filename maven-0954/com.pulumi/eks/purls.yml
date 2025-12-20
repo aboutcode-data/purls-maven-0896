@@ -50,3 +50,13 @@
 - pkg:maven/com.pulumi/eks@2.2.0?classifier=sources
 - pkg:maven/com.pulumi/eks@2.2.1?classifier=sources
 - pkg:maven/com.pulumi/eks@2.3.0-alpha.1706633163%2Ba7375eed?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1708705403%2B78538263?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709111566%2B1cf34825?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709228752%2Bed274a49?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709256114%2B4cea2a96?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709256168%2Bc3915c1a?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709256183%2Bfd1ddb45?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709256203%2B16dbfb34?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709319950%2B60ca49fc?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709334025%2B8eb88aa2?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1709338857%2B990aa235?classifier=sources

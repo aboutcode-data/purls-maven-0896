@@ -48,6 +48,10 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@2.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@20.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@20.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@21.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@21.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@22.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@22.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@3.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@3.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-tomcat-8.5-catalina@4.0.0.Final

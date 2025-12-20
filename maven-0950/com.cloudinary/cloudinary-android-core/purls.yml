@@ -34,3 +34,5 @@
 - pkg:maven/com.cloudinary/cloudinary-android-core@2.7.0?type=aar
 - pkg:maven/com.cloudinary/cloudinary-android-core@2.7.1?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-android-core@2.7.1?type=aar
+- pkg:maven/com.cloudinary/cloudinary-android-core@2.8.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-android-core@2.8.0?type=aar

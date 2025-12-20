@@ -16,3 +16,5 @@
 - pkg:maven/org.fcrepo.camel/fcrepo-service-camel@5.0.0?classifier=sources
 - pkg:maven/org.fcrepo.camel/fcrepo-service-camel@6.0.0
 - pkg:maven/org.fcrepo.camel/fcrepo-service-camel@6.0.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-service-camel@6.1.0
+- pkg:maven/org.fcrepo.camel/fcrepo-service-camel@6.1.0?classifier=sources

@@ -1,0 +1,14 @@
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.10.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.10.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.11.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.11.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.12.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.12.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.7.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.7.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.8.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.8.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.9.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@1.0.9.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@2.0.0.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@2.0.0.Final?classifier=sources

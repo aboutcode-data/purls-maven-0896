@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/quickjs-emscripten-core@0.29.0
+- pkg:maven/org.webjars.npm/quickjs-emscripten-core@0.29.0?classifier=sources

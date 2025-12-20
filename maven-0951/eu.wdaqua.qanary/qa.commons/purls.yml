@@ -1,0 +1,4 @@
+- pkg:maven/eu.wdaqua.qanary/qa.commons@3.11.4
+- pkg:maven/eu.wdaqua.qanary/qa.commons@3.11.4?classifier=sources
+- pkg:maven/eu.wdaqua.qanary/qa.commons@3.11.5
+- pkg:maven/eu.wdaqua.qanary/qa.commons@3.11.5?classifier=sources

@@ -1,4 +1,8 @@
 - pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.1
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.10
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.10?classifier=sources
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.11
+- pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.11?classifier=sources
 - pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.1?classifier=sources
 - pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.2
 - pkg:maven/codes.rafael.modulemaker/modulemaker-maven-plugin@1.2?classifier=sources

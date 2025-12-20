@@ -8,6 +8,8 @@
 - pkg:maven/io.strimzi/kafka-oauth-server-plain@0.13.0?classifier=sources
 - pkg:maven/io.strimzi/kafka-oauth-server-plain@0.14.0
 - pkg:maven/io.strimzi/kafka-oauth-server-plain@0.14.0?classifier=sources
+- pkg:maven/io.strimzi/kafka-oauth-server-plain@0.15.0
+- pkg:maven/io.strimzi/kafka-oauth-server-plain@0.15.0?classifier=sources
 - pkg:maven/io.strimzi/kafka-oauth-server-plain@0.7.0
 - pkg:maven/io.strimzi/kafka-oauth-server-plain@0.7.0?classifier=sources
 - pkg:maven/io.strimzi/kafka-oauth-server-plain@0.7.1

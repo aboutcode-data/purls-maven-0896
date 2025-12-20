@@ -1,2 +1,4 @@
 - pkg:maven/io.fair-acc/generate@11.3.0
 - pkg:maven/io.fair-acc/generate@11.3.0?classifier=sources
+- pkg:maven/io.fair-acc/generate@11.3.1
+- pkg:maven/io.fair-acc/generate@11.3.1?classifier=sources

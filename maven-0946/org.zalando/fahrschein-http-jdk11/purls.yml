@@ -13,3 +13,4 @@
 - pkg:maven/org.zalando/fahrschein-http-jdk11@2.0.0-RC5?classifier=sources
 - pkg:maven/org.zalando/fahrschein-http-jdk11@2.0.0?classifier=sources
 - pkg:maven/org.zalando/fahrschein-http-jdk11@2.0.1?classifier=sources
+- pkg:maven/org.zalando/fahrschein-http-jdk11@2.0.2?classifier=sources

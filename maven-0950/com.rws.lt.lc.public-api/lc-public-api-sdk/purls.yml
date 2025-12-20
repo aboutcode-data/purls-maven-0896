@@ -52,3 +52,5 @@
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@23.0.0?classifier=sources
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@23.1.0
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@23.1.0?classifier=sources
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@23.2.0
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@23.2.0?classifier=sources

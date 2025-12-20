@@ -8,3 +8,5 @@
 - pkg:maven/org.fusio-project/sdk@2.0.0?classifier=sources
 - pkg:maven/org.fusio-project/sdk@3.0.0
 - pkg:maven/org.fusio-project/sdk@3.0.0?classifier=sources
+- pkg:maven/org.fusio-project/sdk@5.0.5
+- pkg:maven/org.fusio-project/sdk@5.0.5?classifier=sources

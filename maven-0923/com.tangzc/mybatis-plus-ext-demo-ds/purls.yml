@@ -144,3 +144,7 @@
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.5-EXT560-boot3
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.5-EXT560-boot3?classifier=sources
 - pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.5-EXT560?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.5-EXT561
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.5-EXT561-boot3
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.5-EXT561-boot3?classifier=sources
+- pkg:maven/com.tangzc/mybatis-plus-ext-demo-ds@3.5.5-EXT561?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/org.seasar.doma/doma-template@2.55.2?classifier=sources
 - pkg:maven/org.seasar.doma/doma-template@2.55.3?classifier=sources
 - pkg:maven/org.seasar.doma/doma-template@2.56.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-template@2.57.0?classifier=sources
+- pkg:maven/org.seasar.doma/doma-template@2.58.0?classifier=sources

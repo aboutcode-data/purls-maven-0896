@@ -5,6 +5,7 @@
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.3.5
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.3.6
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.3.7
+- pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.3.8
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.0
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.0-alpha1
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.0-alpha2
@@ -12,4 +13,6 @@
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.2
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.3
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.4
+- pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.5
 - pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.5.0-alpha1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.5.0-alpha2

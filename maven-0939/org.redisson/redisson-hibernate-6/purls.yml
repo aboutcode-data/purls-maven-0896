@@ -68,3 +68,7 @@
 - pkg:maven/org.redisson/redisson-hibernate-6@3.26.1?classifier=sources
 - pkg:maven/org.redisson/redisson-hibernate-6@3.27.0
 - pkg:maven/org.redisson/redisson-hibernate-6@3.27.0?classifier=sources
+- pkg:maven/org.redisson/redisson-hibernate-6@3.27.1
+- pkg:maven/org.redisson/redisson-hibernate-6@3.27.1?classifier=sources
+- pkg:maven/org.redisson/redisson-hibernate-6@3.27.2
+- pkg:maven/org.redisson/redisson-hibernate-6@3.27.2?classifier=sources

@@ -111,6 +111,8 @@
 - pkg:maven/net.ripe.rpki/rpki-commons@1.36?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-commons@1.37
 - pkg:maven/net.ripe.rpki/rpki-commons@1.37?classifier=sources
+- pkg:maven/net.ripe.rpki/rpki-commons@1.38
+- pkg:maven/net.ripe.rpki/rpki-commons@1.38?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-commons@1.3?classifier=sources
 - pkg:maven/net.ripe.rpki/rpki-commons@1.4
 - pkg:maven/net.ripe.rpki/rpki-commons@1.4?classifier=sources

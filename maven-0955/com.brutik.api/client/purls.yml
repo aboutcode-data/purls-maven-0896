@@ -1,0 +1,4 @@
+- pkg:maven/com.brutik.api/client@0.0.1-CANARY
+- pkg:maven/com.brutik.api/client@0.0.1-CANARY?classifier=sources
+- pkg:maven/com.brutik.api/client@1.0.0
+- pkg:maven/com.brutik.api/client@1.0.0?classifier=sources

@@ -79,4 +79,5 @@
 - pkg:maven/io.github.turansky.seskar/seskar-core-iossimulatorarm64@2.4.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-iossimulatorarm64@2.40.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-iossimulatorarm64@2.41.0?classifier=sources
+- pkg:maven/io.github.turansky.seskar/seskar-core-iossimulatorarm64@2.42.0?classifier=sources
 - pkg:maven/io.github.turansky.seskar/seskar-core-iossimulatorarm64@2.5.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.12.19@1.14.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.12.19@1.15.0
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.12.19@1.15.0?classifier=sources
+- pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.12.19@1.16.0
+- pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.12.19@1.16.0?classifier=sources

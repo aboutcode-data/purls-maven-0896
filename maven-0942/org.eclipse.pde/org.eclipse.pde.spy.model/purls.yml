@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.13.100?classifier=sources
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.13.200
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.13.200?classifier=sources
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.13.300
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.spy.model@0.13.300?classifier=sources

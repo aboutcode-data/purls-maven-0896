@@ -3,3 +3,4 @@
 - pkg:maven/io.github.panpf.sketch3/sketch-extensions-compose@3.3.0-rc01?classifier=sources
 - pkg:maven/io.github.panpf.sketch3/sketch-extensions-compose@3.3.0-rc02?classifier=sources
 - pkg:maven/io.github.panpf.sketch3/sketch-extensions-compose@3.3.0?classifier=sources
+- pkg:maven/io.github.panpf.sketch3/sketch-extensions-compose@3.3.1?classifier=sources

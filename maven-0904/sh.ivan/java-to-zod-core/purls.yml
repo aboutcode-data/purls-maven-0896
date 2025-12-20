@@ -1,0 +1,10 @@
+- pkg:maven/sh.ivan/java-to-zod-core@0.2.0
+- pkg:maven/sh.ivan/java-to-zod-core@0.2.0?classifier=sources
+- pkg:maven/sh.ivan/java-to-zod-core@0.3.0
+- pkg:maven/sh.ivan/java-to-zod-core@0.3.0?classifier=sources
+- pkg:maven/sh.ivan/java-to-zod-core@0.3.3
+- pkg:maven/sh.ivan/java-to-zod-core@0.3.3?classifier=sources
+- pkg:maven/sh.ivan/java-to-zod-core@0.4.0
+- pkg:maven/sh.ivan/java-to-zod-core@0.4.0?classifier=sources
+- pkg:maven/sh.ivan/java-to-zod-core@0.4.1
+- pkg:maven/sh.ivan/java-to-zod-core@0.4.1?classifier=sources

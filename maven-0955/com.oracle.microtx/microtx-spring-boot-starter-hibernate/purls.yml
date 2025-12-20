@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.microtx/microtx-spring-boot-starter-hibernate@23.4.1
 - pkg:maven/com.oracle.microtx/microtx-spring-boot-starter-hibernate@23.4.1?classifier=sources
+- pkg:maven/com.oracle.microtx/microtx-spring-boot-starter-hibernate@23.4.2
+- pkg:maven/com.oracle.microtx/microtx-spring-boot-starter-hibernate@23.4.2?classifier=sources

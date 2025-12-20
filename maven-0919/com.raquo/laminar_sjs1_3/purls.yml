@@ -34,3 +34,7 @@
 - pkg:maven/com.raquo/laminar_sjs1_3@17.0.0-M2?classifier=sources
 - pkg:maven/com.raquo/laminar_sjs1_3@17.0.0-M6
 - pkg:maven/com.raquo/laminar_sjs1_3@17.0.0-M6?classifier=sources
+- pkg:maven/com.raquo/laminar_sjs1_3@17.0.0-M8
+- pkg:maven/com.raquo/laminar_sjs1_3@17.0.0-M8?classifier=sources
+- pkg:maven/com.raquo/laminar_sjs1_3@17.0.0-RC1
+- pkg:maven/com.raquo/laminar_sjs1_3@17.0.0-RC1?classifier=sources

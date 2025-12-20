@@ -104,3 +104,5 @@
 - pkg:maven/net.anotheria/moskito-inspect-embedded@3.2.8?classifier=sources
 - pkg:maven/net.anotheria/moskito-inspect-embedded@4.0.0
 - pkg:maven/net.anotheria/moskito-inspect-embedded@4.0.0?classifier=sources
+- pkg:maven/net.anotheria/moskito-inspect-embedded@4.0.1
+- pkg:maven/net.anotheria/moskito-inspect-embedded@4.0.1?classifier=sources

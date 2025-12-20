@@ -70,3 +70,7 @@
 - pkg:maven/io.airlift/security-jwks@239?classifier=sources
 - pkg:maven/io.airlift/security-jwks@240
 - pkg:maven/io.airlift/security-jwks@240?classifier=sources
+- pkg:maven/io.airlift/security-jwks@241
+- pkg:maven/io.airlift/security-jwks@241?classifier=sources
+- pkg:maven/io.airlift/security-jwks@242
+- pkg:maven/io.airlift/security-jwks@242?classifier=sources

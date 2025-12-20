@@ -1,2 +1,4 @@
 - pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelservice-core@2.0.0-milestone-01
 - pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelservice-core@2.0.0-milestone-01?classifier=sources
+- pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelservice-core@2.0.0-milestone-02
+- pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelservice-core@2.0.0-milestone-02?classifier=sources

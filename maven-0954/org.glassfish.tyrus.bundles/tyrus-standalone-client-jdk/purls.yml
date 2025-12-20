@@ -80,3 +80,5 @@
 - pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.1.4?classifier=sources
 - pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.1.5
 - pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.1.5?classifier=sources
+- pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.2.0-M1
+- pkg:maven/org.glassfish.tyrus.bundles/tyrus-standalone-client-jdk@2.2.0-M1?classifier=sources

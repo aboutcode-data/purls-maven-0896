@@ -47,3 +47,5 @@
 - pkg:maven/args4j/args4j@2.32?classifier=sources
 - pkg:maven/args4j/args4j@2.33
 - pkg:maven/args4j/args4j@2.33?classifier=sources
+- pkg:maven/args4j/args4j@2.37
+- pkg:maven/args4j/args4j@2.37?classifier=sources

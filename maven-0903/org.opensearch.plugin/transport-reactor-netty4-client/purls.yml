@@ -1,1 +1,2 @@
 - pkg:maven/org.opensearch.plugin/transport-reactor-netty4-client@2.12.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/transport-reactor-netty4-client@2.13.0?classifier=sources

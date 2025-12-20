@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.certusine/com.io7m.certusine.grafana@2.0.0
 - pkg:maven/com.io7m.certusine/com.io7m.certusine.grafana@2.0.0?classifier=sources
+- pkg:maven/com.io7m.certusine/com.io7m.certusine.grafana@3.0.0
+- pkg:maven/com.io7m.certusine/com.io7m.certusine.grafana@3.0.0?classifier=sources

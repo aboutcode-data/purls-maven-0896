@@ -6,3 +6,5 @@
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-spring-boot-autoconfigure@2.0.2.RELEASE?classifier=sources
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-spring-boot-autoconfigure@2.0.3.RELEASE
 - pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-spring-boot-autoconfigure@2.0.3.RELEASE?classifier=sources
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-spring-boot-autoconfigure@3.0.0.RELEASE
+- pkg:maven/com.github.Andy-Shao/GearEE-Neo4j-spring-boot-autoconfigure@3.0.0.RELEASE?classifier=sources

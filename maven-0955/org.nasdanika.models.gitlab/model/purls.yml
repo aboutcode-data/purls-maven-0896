@@ -12,3 +12,7 @@
 - pkg:maven/org.nasdanika.models.gitlab/model@2023.9.2?classifier=sources
 - pkg:maven/org.nasdanika.models.gitlab/model@2024.1.0
 - pkg:maven/org.nasdanika.models.gitlab/model@2024.1.0?classifier=sources
+- pkg:maven/org.nasdanika.models.gitlab/model@2024.3.0
+- pkg:maven/org.nasdanika.models.gitlab/model@2024.3.0?classifier=sources
+- pkg:maven/org.nasdanika.models.gitlab/model@2024.4.0
+- pkg:maven/org.nasdanika.models.gitlab/model@2024.4.0?classifier=sources

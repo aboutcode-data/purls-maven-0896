@@ -44,6 +44,9 @@
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.1?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.20?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.21?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.22?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.23?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.24?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.2?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.3?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.4?classifier=sources
@@ -52,3 +55,8 @@
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.7?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.8?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-auth-composables@0.5.9?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.6.0?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.6.1?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.6.2?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.6.3?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-auth-composables@0.6.4?classifier=sources

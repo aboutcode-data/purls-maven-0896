@@ -11,3 +11,5 @@
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.5.Final?type=zip
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@1.0.6.Final?type=zip
 - pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@2.0.0.Final?type=zip
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@3.0.0.Final?type=zip
+- pkg:maven/org.hibernate.infra/hibernate-asciidoctor-theme@4.0.0.Final?type=zip

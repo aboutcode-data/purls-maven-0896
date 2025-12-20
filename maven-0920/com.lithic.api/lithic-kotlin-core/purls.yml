@@ -30,3 +30,7 @@
 - pkg:maven/com.lithic.api/lithic-kotlin-core@0.28.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-kotlin-core@0.28.1?classifier=sources
 - pkg:maven/com.lithic.api/lithic-kotlin-core@0.29.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.29.1?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.30.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.31.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.32.0?classifier=sources

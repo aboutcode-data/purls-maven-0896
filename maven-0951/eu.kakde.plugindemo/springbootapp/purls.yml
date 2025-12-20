@@ -1,0 +1,2 @@
+- pkg:maven/eu.kakde.plugindemo/springbootapp@1.0.0?classifier=sources
+- pkg:maven/eu.kakde.plugindemo/springbootapp@1.0.1?classifier=sources

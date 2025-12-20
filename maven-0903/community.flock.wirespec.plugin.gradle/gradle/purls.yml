@@ -19,6 +19,7 @@
 - pkg:maven/community.flock.wirespec.plugin.gradle/gradle@0.8.39?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.gradle/gradle@0.8.44?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.gradle/gradle@0.8.45?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.gradle/gradle@0.8.46?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.gradle/gradle@0.8.7?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.gradle/gradle@0.8.8?classifier=sources
 - pkg:maven/community.flock.wirespec.plugin.gradle/gradle@0.8.9?classifier=sources
