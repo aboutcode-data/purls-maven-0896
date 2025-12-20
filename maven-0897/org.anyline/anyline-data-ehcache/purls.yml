@@ -1,0 +1,6 @@
+- pkg:maven/org.anyline/anyline-data-ehcache@8.7.1-20231130
+- pkg:maven/org.anyline/anyline-data-ehcache@8.7.1-20231130?classifier=sources
+- pkg:maven/org.anyline/anyline-data-ehcache@8.7.1-jdk17-20231130
+- pkg:maven/org.anyline/anyline-data-ehcache@8.7.1-jdk17-20231130?classifier=sources
+- pkg:maven/org.anyline/anyline-data-ehcache@8.7.1-jdk17-20232101
+- pkg:maven/org.anyline/anyline-data-ehcache@8.7.1-jdk17-20232101?classifier=sources

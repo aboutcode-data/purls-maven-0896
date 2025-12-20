@@ -66,3 +66,5 @@
 - pkg:maven/gov.nasa.pds/exemplar@5.0.0?classifier=sources
 - pkg:maven/gov.nasa.pds/exemplar@5.2.0
 - pkg:maven/gov.nasa.pds/exemplar@5.2.0?classifier=sources
+- pkg:maven/gov.nasa.pds/exemplar@5.5.0
+- pkg:maven/gov.nasa.pds/exemplar@5.5.0?classifier=sources

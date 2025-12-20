@@ -6,3 +6,5 @@
 - pkg:maven/org.xerial.sbt/sbt-sql-sqlite_2.12_1.0@0.17?classifier=sources
 - pkg:maven/org.xerial.sbt/sbt-sql-sqlite_2.12_1.0@0.18
 - pkg:maven/org.xerial.sbt/sbt-sql-sqlite_2.12_1.0@0.18?classifier=sources
+- pkg:maven/org.xerial.sbt/sbt-sql-sqlite_2.12_1.0@0.19
+- pkg:maven/org.xerial.sbt/sbt-sql-sqlite_2.12_1.0@0.19?classifier=sources

@@ -1,5 +1,9 @@
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.1
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.10
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.100
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.100?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.101
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.101?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.10?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.11
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.11?classifier=sources

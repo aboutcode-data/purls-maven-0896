@@ -66,3 +66,4 @@
 - pkg:maven/com.skadistats/clarity-protobuf@4.8?classifier=sources
 - pkg:maven/com.skadistats/clarity-protobuf@4.9
 - pkg:maven/com.skadistats/clarity-protobuf@4.9?classifier=sources
+- pkg:maven/com.skadistats/clarity-protobuf@5.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-cleanroomsml@1.12.600
+- pkg:maven/com.amazonaws/aws-java-sdk-cleanroomsml@1.12.600?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-cleanroomsml@1.12.602
+- pkg:maven/com.amazonaws/aws-java-sdk-cleanroomsml@1.12.602?classifier=sources

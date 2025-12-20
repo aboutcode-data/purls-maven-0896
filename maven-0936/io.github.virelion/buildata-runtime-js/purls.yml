@@ -7,3 +7,4 @@
 - pkg:maven/io.github.virelion/buildata-runtime-js@0.8.0?classifier=sources
 - pkg:maven/io.github.virelion/buildata-runtime-js@0.9.0?classifier=sources
 - pkg:maven/io.github.virelion/buildata-runtime-js@1.0.0?classifier=sources
+- pkg:maven/io.github.virelion/buildata-runtime-js@1.1.0?classifier=sources

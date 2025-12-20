@@ -70,6 +70,10 @@
 - pkg:maven/io.cucumber/test-release-automation@0.0.48?classifier=sources
 - pkg:maven/io.cucumber/test-release-automation@0.0.49
 - pkg:maven/io.cucumber/test-release-automation@0.0.49?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.52
+- pkg:maven/io.cucumber/test-release-automation@0.0.52?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.53
+- pkg:maven/io.cucumber/test-release-automation@0.0.53?classifier=sources
 - pkg:maven/io.cucumber/test-release-automation@0.0.8
 - pkg:maven/io.cucumber/test-release-automation@0.0.8?classifier=sources
 - pkg:maven/io.cucumber/test-release-automation@0.0.9

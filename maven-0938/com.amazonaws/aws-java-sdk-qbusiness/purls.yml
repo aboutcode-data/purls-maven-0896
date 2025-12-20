@@ -1,0 +1,6 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-qbusiness@1.12.599
+- pkg:maven/com.amazonaws/aws-java-sdk-qbusiness@1.12.599?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-qbusiness@1.12.600
+- pkg:maven/com.amazonaws/aws-java-sdk-qbusiness@1.12.600?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-qbusiness@1.12.602
+- pkg:maven/com.amazonaws/aws-java-sdk-qbusiness@1.12.602?classifier=sources

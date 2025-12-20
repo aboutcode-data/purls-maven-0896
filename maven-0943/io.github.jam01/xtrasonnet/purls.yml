@@ -22,3 +22,5 @@
 - pkg:maven/io.github.jam01/xtrasonnet@0.5.4?classifier=sources
 - pkg:maven/io.github.jam01/xtrasonnet@0.6.0
 - pkg:maven/io.github.jam01/xtrasonnet@0.6.0?classifier=sources
+- pkg:maven/io.github.jam01/xtrasonnet@0.6.1
+- pkg:maven/io.github.jam01/xtrasonnet@0.6.1?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@2.0.0?classifier=sources
 - pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@2.1.0
 - pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@2.1.0?classifier=sources
+- pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@2.1.1
+- pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@2.1.1?classifier=sources
 - pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@3.0.0
 - pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@3.0.0?classifier=sources
 - pkg:maven/io.github.mjhaugsdal/er-m14-2008-12-12@4.0.0

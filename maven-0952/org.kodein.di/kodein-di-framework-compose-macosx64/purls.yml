@@ -3,3 +3,5 @@
 - pkg:maven/org.kodein.di/kodein-di-framework-compose-macosx64@7.20.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-framework-compose-macosx64@7.20.1?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di-framework-compose-macosx64@7.20.2?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-framework-compose-macosx64@7.21.0?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di-framework-compose-macosx64@7.21.1?classifier=sources

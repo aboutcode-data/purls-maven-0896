@@ -88,3 +88,5 @@
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.2.7?classifier=sources
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.2.9
 - pkg:maven/com.fhs-opensource/easy-trans-anno@2.2.9?classifier=sources
+- pkg:maven/com.fhs-opensource/easy-trans-anno@3.0.0
+- pkg:maven/com.fhs-opensource/easy-trans-anno@3.0.0?classifier=sources

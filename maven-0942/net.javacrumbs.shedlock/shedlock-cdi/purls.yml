@@ -1,5 +1,9 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.10.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.10.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.10.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.10.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.10.2
+- pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.10.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.3.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.3.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@5.4.0

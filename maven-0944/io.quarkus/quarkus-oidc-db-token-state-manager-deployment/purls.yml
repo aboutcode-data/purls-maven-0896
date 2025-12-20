@@ -4,3 +4,17 @@
 - pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.0?classifier=sources
 - pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.1
 - pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.2
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.3
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.3?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.0
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.0.CR1
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.0.CR1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.1
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.2
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.3
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.6.3?classifier=sources

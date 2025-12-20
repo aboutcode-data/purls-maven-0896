@@ -6,3 +6,5 @@
 - pkg:maven/com.xdev-software/sched-java-client@1.0.2?classifier=sources
 - pkg:maven/com.xdev-software/sched-java-client@1.1.0
 - pkg:maven/com.xdev-software/sched-java-client@1.1.0?classifier=sources
+- pkg:maven/com.xdev-software/sched-java-client@1.1.1
+- pkg:maven/com.xdev-software/sched-java-client@1.1.1?classifier=sources

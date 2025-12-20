@@ -34,3 +34,5 @@
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.9.20-RC2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.9.20-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.9.20?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@1.9.21?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-gradle-plugin-idea@2.0.0-Beta1?classifier=sources

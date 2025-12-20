@@ -14,3 +14,5 @@
 - pkg:maven/io.axoniq.console/console-framework-client-spring-boot-starter@1.0.3?classifier=sources
 - pkg:maven/io.axoniq.console/console-framework-client-spring-boot-starter@1.1.0
 - pkg:maven/io.axoniq.console/console-framework-client-spring-boot-starter@1.1.0?classifier=sources
+- pkg:maven/io.axoniq.console/console-framework-client-spring-boot-starter@1.2.0
+- pkg:maven/io.axoniq.console/console-framework-client-spring-boot-starter@1.2.0?classifier=sources

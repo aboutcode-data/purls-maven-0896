@@ -1,0 +1,10 @@
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.3.0
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.3.0?classifier=sources
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.4.0
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.4.0?classifier=sources
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.5.0
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.5.0?classifier=sources
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.6.0
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.6.0?classifier=sources
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.7.0
+- pkg:maven/com.github.houbb/logstash4j-plugins-input-file@0.7.0?classifier=sources

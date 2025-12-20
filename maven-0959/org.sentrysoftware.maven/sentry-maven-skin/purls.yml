@@ -4,3 +4,5 @@
 - pkg:maven/org.sentrysoftware.maven/sentry-maven-skin@6.0.01?classifier=sources
 - pkg:maven/org.sentrysoftware.maven/sentry-maven-skin@6.1.00
 - pkg:maven/org.sentrysoftware.maven/sentry-maven-skin@6.1.00?classifier=sources
+- pkg:maven/org.sentrysoftware.maven/sentry-maven-skin@6.2.00
+- pkg:maven/org.sentrysoftware.maven/sentry-maven-skin@6.2.00?classifier=sources

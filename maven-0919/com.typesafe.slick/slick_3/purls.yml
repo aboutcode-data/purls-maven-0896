@@ -1,2 +1,4 @@
 - pkg:maven/com.typesafe.slick/slick_3@3.5.0-M4
 - pkg:maven/com.typesafe.slick/slick_3@3.5.0-M4?classifier=sources
+- pkg:maven/com.typesafe.slick/slick_3@3.5.0-M5
+- pkg:maven/com.typesafe.slick/slick_3@3.5.0-M5?classifier=sources

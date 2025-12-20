@@ -15,3 +15,4 @@
 - pkg:maven/io.github.appoptics/solarwinds-otel-sdk@0.17.2?classifier=sources
 - pkg:maven/io.github.appoptics/solarwinds-otel-sdk@0.17.3?classifier=sources
 - pkg:maven/io.github.appoptics/solarwinds-otel-sdk@0.17.4?classifier=sources
+- pkg:maven/io.github.appoptics/solarwinds-otel-sdk@1.0.0?classifier=sources

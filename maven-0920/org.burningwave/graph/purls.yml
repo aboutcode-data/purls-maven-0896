@@ -26,6 +26,8 @@
 - pkg:maven/org.burningwave/graph@0.10.110?classifier=sources
 - pkg:maven/org.burningwave/graph@0.10.111
 - pkg:maven/org.burningwave/graph@0.10.111?classifier=sources
+- pkg:maven/org.burningwave/graph@0.10.112
+- pkg:maven/org.burningwave/graph@0.10.112?classifier=sources
 - pkg:maven/org.burningwave/graph@0.10.11?classifier=sources
 - pkg:maven/org.burningwave/graph@0.10.12
 - pkg:maven/org.burningwave/graph@0.10.12?classifier=sources

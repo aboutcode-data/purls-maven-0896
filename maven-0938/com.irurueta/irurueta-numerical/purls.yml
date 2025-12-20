@@ -2,3 +2,5 @@
 - pkg:maven/com.irurueta/irurueta-numerical@1.0.0?classifier=sources
 - pkg:maven/com.irurueta/irurueta-numerical@1.1.0
 - pkg:maven/com.irurueta/irurueta-numerical@1.1.0?classifier=sources
+- pkg:maven/com.irurueta/irurueta-numerical@1.2.1
+- pkg:maven/com.irurueta/irurueta-numerical@1.2.1?classifier=sources

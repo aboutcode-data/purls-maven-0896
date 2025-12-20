@@ -1,2 +1,3 @@
 - pkg:maven/app.softwork.kobol/util@0.2.7?classifier=sources
 - pkg:maven/app.softwork.kobol/util@0.2.8?classifier=sources
+- pkg:maven/app.softwork.kobol/util@0.2.9?classifier=sources

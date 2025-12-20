@@ -38,3 +38,5 @@
 - pkg:maven/it.ozimov/spring-boot-email-core@0.6.2?classifier=sources
 - pkg:maven/it.ozimov/spring-boot-email-core@0.6.3
 - pkg:maven/it.ozimov/spring-boot-email-core@0.6.3?classifier=sources
+- pkg:maven/it.ozimov/spring-boot-email-core@1.0.0
+- pkg:maven/it.ozimov/spring-boot-email-core@1.0.0?classifier=sources

@@ -22,5 +22,11 @@
 - pkg:maven/de.team33.patterns/lazy-narvi@1.14.1?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@1.14.2
 - pkg:maven/de.team33.patterns/lazy-narvi@1.14.2?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@1.15.0
+- pkg:maven/de.team33.patterns/lazy-narvi@1.15.0?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@1.16.0
+- pkg:maven/de.team33.patterns/lazy-narvi@1.16.0?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@1.17.0
+- pkg:maven/de.team33.patterns/lazy-narvi@1.17.0?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@1.9.0
 - pkg:maven/de.team33.patterns/lazy-narvi@1.9.0?classifier=sources

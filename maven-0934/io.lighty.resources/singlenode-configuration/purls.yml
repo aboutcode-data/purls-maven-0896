@@ -110,6 +110,8 @@
 - pkg:maven/io.lighty.resources/singlenode-configuration@17.2.0?classifier=sources
 - pkg:maven/io.lighty.resources/singlenode-configuration@17.3.0
 - pkg:maven/io.lighty.resources/singlenode-configuration@17.3.0?classifier=sources
+- pkg:maven/io.lighty.resources/singlenode-configuration@17.4.0
+- pkg:maven/io.lighty.resources/singlenode-configuration@17.4.0?classifier=sources
 - pkg:maven/io.lighty.resources/singlenode-configuration@18.0.0
 - pkg:maven/io.lighty.resources/singlenode-configuration@18.0.0?classifier=sources
 - pkg:maven/io.lighty.resources/singlenode-configuration@18.1.0
@@ -120,6 +122,8 @@
 - pkg:maven/io.lighty.resources/singlenode-configuration@18.3.0?classifier=sources
 - pkg:maven/io.lighty.resources/singlenode-configuration@19.0.0
 - pkg:maven/io.lighty.resources/singlenode-configuration@19.0.0?classifier=sources
+- pkg:maven/io.lighty.resources/singlenode-configuration@19.1.0
+- pkg:maven/io.lighty.resources/singlenode-configuration@19.1.0?classifier=sources
 - pkg:maven/io.lighty.resources/singlenode-configuration@8.4.1
 - pkg:maven/io.lighty.resources/singlenode-configuration@8.4.1?classifier=sources
 - pkg:maven/io.lighty.resources/singlenode-configuration@8.4.2

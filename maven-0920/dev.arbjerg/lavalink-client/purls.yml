@@ -1,1 +1,2 @@
 - pkg:maven/dev.arbjerg/lavalink-client@0.0.1?classifier=sources
+- pkg:maven/dev.arbjerg/lavalink-client@1.0.0?classifier=sources

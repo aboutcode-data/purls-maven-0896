@@ -54,6 +54,8 @@
 - pkg:maven/com.yelp.nrtsearch/clientlib@0.27.0?classifier=sources
 - pkg:maven/com.yelp.nrtsearch/clientlib@0.28.0
 - pkg:maven/com.yelp.nrtsearch/clientlib@0.28.0?classifier=sources
+- pkg:maven/com.yelp.nrtsearch/clientlib@0.29.0
+- pkg:maven/com.yelp.nrtsearch/clientlib@0.29.0?classifier=sources
 - pkg:maven/com.yelp.nrtsearch/clientlib@0.3.0
 - pkg:maven/com.yelp.nrtsearch/clientlib@0.3.0?classifier=sources
 - pkg:maven/com.yelp.nrtsearch/clientlib@0.4.0

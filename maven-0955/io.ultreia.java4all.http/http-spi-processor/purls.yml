@@ -2,3 +2,7 @@
 - pkg:maven/io.ultreia.java4all.http/http-spi-processor@1.0.46?classifier=sources
 - pkg:maven/io.ultreia.java4all.http/http-spi-processor@1.0.47
 - pkg:maven/io.ultreia.java4all.http/http-spi-processor@1.0.47?classifier=sources
+- pkg:maven/io.ultreia.java4all.http/http-spi-processor@2.0.0
+- pkg:maven/io.ultreia.java4all.http/http-spi-processor@2.0.0?classifier=sources
+- pkg:maven/io.ultreia.java4all.http/http-spi-processor@2.0.1
+- pkg:maven/io.ultreia.java4all.http/http-spi-processor@2.0.1?classifier=sources

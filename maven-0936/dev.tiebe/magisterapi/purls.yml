@@ -1,4 +1,5 @@
 - pkg:maven/dev.tiebe/magisterapi@1.1.10-alpha03?classifier=sources
+- pkg:maven/dev.tiebe/magisterapi@1.1.13-old?classifier=sources
 - pkg:maven/dev.tiebe/magisterapi@1.1.13?classifier=sources
 - pkg:maven/dev.tiebe/magisterapi@1.1.8?classifier=sources
 - pkg:maven/dev.tiebe/magisterapi@1.1.9?classifier=sources

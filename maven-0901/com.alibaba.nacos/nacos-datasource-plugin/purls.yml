@@ -10,5 +10,7 @@
 - pkg:maven/com.alibaba.nacos/nacos-datasource-plugin@2.2.3?classifier=sources
 - pkg:maven/com.alibaba.nacos/nacos-datasource-plugin@2.2.4
 - pkg:maven/com.alibaba.nacos/nacos-datasource-plugin@2.2.4?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-datasource-plugin@2.3.0
 - pkg:maven/com.alibaba.nacos/nacos-datasource-plugin@2.3.0-BETA
 - pkg:maven/com.alibaba.nacos/nacos-datasource-plugin@2.3.0-BETA?classifier=sources
+- pkg:maven/com.alibaba.nacos/nacos-datasource-plugin@2.3.0?classifier=sources

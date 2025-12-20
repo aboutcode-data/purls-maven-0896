@@ -1,0 +1,2 @@
+- pkg:maven/dev.hipo/hello@1.0.0
+- pkg:maven/dev.hipo/hello@1.0.0?classifier=sources

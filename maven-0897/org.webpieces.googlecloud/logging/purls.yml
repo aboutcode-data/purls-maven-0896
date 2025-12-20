@@ -1,3 +1,7 @@
 - pkg:maven/org.webpieces.googlecloud/logging@2.1.100?classifier=sources
+- pkg:maven/org.webpieces.googlecloud/logging@2.1.101?classifier=sources
+- pkg:maven/org.webpieces.googlecloud/logging@2.1.102?classifier=sources
+- pkg:maven/org.webpieces.googlecloud/logging@2.1.103?classifier=sources
+- pkg:maven/org.webpieces.googlecloud/logging@2.1.104?classifier=sources
 - pkg:maven/org.webpieces.googlecloud/logging@2.1.96?classifier=sources
 - pkg:maven/org.webpieces.googlecloud/logging@2.1.97?classifier=sources

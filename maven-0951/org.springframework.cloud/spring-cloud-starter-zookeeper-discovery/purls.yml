@@ -58,3 +58,4 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-discovery@3.1.4
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-discovery@4.0.0
 - pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-discovery@4.0.1
+- pkg:maven/org.springframework.cloud/spring-cloud-starter-zookeeper-discovery@4.1.0

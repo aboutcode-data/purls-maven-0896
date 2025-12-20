@@ -1,2 +1,4 @@
 - pkg:maven/fr.jrds/jrdsagent@2020.1
 - pkg:maven/fr.jrds/jrdsagent@2020.1?classifier=sources
+- pkg:maven/fr.jrds/jrdsagent@2023.1
+- pkg:maven/fr.jrds/jrdsagent@2023.1?classifier=sources

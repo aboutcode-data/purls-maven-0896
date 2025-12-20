@@ -20,3 +20,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.propertysheet@3.5.0?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.propertysheet@3.5.100
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.propertysheet@3.5.100?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.propertysheet@3.5.200
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.examples.propertysheet@3.5.200?classifier=sources

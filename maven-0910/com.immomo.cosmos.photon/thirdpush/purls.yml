@@ -100,3 +100,7 @@
 - pkg:maven/com.immomo.cosmos.photon/thirdpush@2.6_080201_tt?type=aar
 - pkg:maven/com.immomo.cosmos.photon/thirdpush@2.6_091201_tt?classifier=sources
 - pkg:maven/com.immomo.cosmos.photon/thirdpush@2.6_091201_tt?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush@2.6_111601_tt?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush@2.6_111601_tt?type=aar
+- pkg:maven/com.immomo.cosmos.photon/thirdpush@2.6_112001_tt?classifier=sources
+- pkg:maven/com.immomo.cosmos.photon/thirdpush@2.6_112001_tt?type=aar

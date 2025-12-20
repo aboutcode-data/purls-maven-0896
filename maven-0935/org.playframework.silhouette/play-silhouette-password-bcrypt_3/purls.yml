@@ -1,0 +1,6 @@
+- pkg:maven/org.playframework.silhouette/play-silhouette-password-bcrypt_3@10.0.0
+- pkg:maven/org.playframework.silhouette/play-silhouette-password-bcrypt_3@10.0.0?classifier=sources
+- pkg:maven/org.playframework.silhouette/play-silhouette-password-bcrypt_3@9.0.0
+- pkg:maven/org.playframework.silhouette/play-silhouette-password-bcrypt_3@9.0.0-M3
+- pkg:maven/org.playframework.silhouette/play-silhouette-password-bcrypt_3@9.0.0-M3?classifier=sources
+- pkg:maven/org.playframework.silhouette/play-silhouette-password-bcrypt_3@9.0.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/us.codecraft/webmagic-scripts@0.10.0
+- pkg:maven/us.codecraft/webmagic-scripts@0.10.0?classifier=sources
 - pkg:maven/us.codecraft/webmagic-scripts@0.4.1
 - pkg:maven/us.codecraft/webmagic-scripts@0.4.1?classifier=sources
 - pkg:maven/us.codecraft/webmagic-scripts@0.4.2

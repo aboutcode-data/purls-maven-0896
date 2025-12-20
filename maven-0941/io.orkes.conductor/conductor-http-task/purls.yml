@@ -19,6 +19,10 @@
 - pkg:maven/io.orkes.conductor/conductor-http-task@3.9.21-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-http-task@3.9.22-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-http-task@3.9.23-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-http-task@3.9.24-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-http-task@3.9.26-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-http-task@3.9.27-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-http-task@3.9.28-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-http-task@3.9.3-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-http-task@3.9.4-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-http-task@3.9.5-orkes?classifier=sources

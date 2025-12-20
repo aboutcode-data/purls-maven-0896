@@ -1,0 +1,4 @@
+- pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.3.1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.3.2
+- pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.0-alpha1
+- pkg:maven/io.camunda.connector/connectors-e2e-test-http@8.4.0-alpha2

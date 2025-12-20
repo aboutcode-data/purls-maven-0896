@@ -1,0 +1,4 @@
+- pkg:maven/org.mlflow/mlflow-spark_2.12@2.9.0
+- pkg:maven/org.mlflow/mlflow-spark_2.12@2.9.0?classifier=sources
+- pkg:maven/org.mlflow/mlflow-spark_2.12@2.9.1
+- pkg:maven/org.mlflow/mlflow-spark_2.12@2.9.1?classifier=sources

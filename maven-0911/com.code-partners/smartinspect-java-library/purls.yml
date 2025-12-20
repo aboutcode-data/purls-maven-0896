@@ -1,0 +1,4 @@
+- pkg:maven/com.code-partners/smartinspect-java-library@3.5.0
+- pkg:maven/com.code-partners/smartinspect-java-library@3.5.0?classifier=sources
+- pkg:maven/com.code-partners/smartinspect-java-library@4.0.0
+- pkg:maven/com.code-partners/smartinspect-java-library@4.0.0?classifier=sources

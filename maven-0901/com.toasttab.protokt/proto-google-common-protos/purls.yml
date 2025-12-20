@@ -3,3 +3,4 @@
 - pkg:maven/com.toasttab.protokt/proto-google-common-protos@1.0.0-alpha.6?classifier=sources
 - pkg:maven/com.toasttab.protokt/proto-google-common-protos@1.0.0-alpha.8?classifier=sources
 - pkg:maven/com.toasttab.protokt/proto-google-common-protos@1.0.0-alpha.9?classifier=sources
+- pkg:maven/com.toasttab.protokt/proto-google-common-protos@1.0.0-beta.0?classifier=sources

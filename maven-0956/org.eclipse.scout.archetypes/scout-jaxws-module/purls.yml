@@ -33,6 +33,9 @@
 - pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.1.6?classifier=sources
 - pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.1.8?classifier=sources
 - pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.2.0-beta.4?classifier=sources
+- pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.2.11?classifier=sources
+- pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.2.13?classifier=sources
+- pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.2.15?classifier=sources
 - pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.2.2?classifier=sources
 - pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.2.4?classifier=sources
 - pkg:maven/org.eclipse.scout.archetypes/scout-jaxws-module@23.2.5?classifier=sources

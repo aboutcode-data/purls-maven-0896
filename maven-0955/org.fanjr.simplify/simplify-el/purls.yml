@@ -12,3 +12,5 @@
 - pkg:maven/org.fanjr.simplify/simplify-el@1.0.6?classifier=sources
 - pkg:maven/org.fanjr.simplify/simplify-el@1.0.7
 - pkg:maven/org.fanjr.simplify/simplify-el@1.0.7?classifier=sources
+- pkg:maven/org.fanjr.simplify/simplify-el@1.1.0
+- pkg:maven/org.fanjr.simplify/simplify-el@1.1.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/eu.codlab/lorcana-data-js@0.0.3?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.0.4?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.1.0?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.2.0-alpha01?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.2.0?classifier=sources

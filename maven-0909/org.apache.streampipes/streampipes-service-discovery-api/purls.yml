@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-service-discovery-api@0.91.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-service-discovery-api@0.92.0
 - pkg:maven/org.apache.streampipes/streampipes-service-discovery-api@0.92.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-service-discovery-api@0.93.0
+- pkg:maven/org.apache.streampipes/streampipes-service-discovery-api@0.93.0?classifier=sources

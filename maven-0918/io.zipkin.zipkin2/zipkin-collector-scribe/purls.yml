@@ -156,6 +156,10 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.24.2?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.24.3
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.24.3?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.24.4
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.24.4?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.25.0
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.25.0?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.9.0
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.9.0?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.9.1
@@ -166,3 +170,5 @@
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.9.3?classifier=sources
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.9.4
 - pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@2.9.4?classifier=sources
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@3.0.0-rc0
+- pkg:maven/io.zipkin.zipkin2/zipkin-collector-scribe@3.0.0-rc0?classifier=sources

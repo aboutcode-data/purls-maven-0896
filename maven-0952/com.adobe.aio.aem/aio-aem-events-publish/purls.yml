@@ -38,6 +38,8 @@
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.0.7?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.0
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.0?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.12
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.12?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.2
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.2?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.4

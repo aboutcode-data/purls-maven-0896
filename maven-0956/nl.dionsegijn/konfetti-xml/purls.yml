@@ -4,3 +4,4 @@
 - pkg:maven/nl.dionsegijn/konfetti-xml@2.0.2-alpha01?classifier=sources
 - pkg:maven/nl.dionsegijn/konfetti-xml@2.0.2?classifier=sources
 - pkg:maven/nl.dionsegijn/konfetti-xml@2.0.3?classifier=sources
+- pkg:maven/nl.dionsegijn/konfetti-xml@2.0.4?classifier=sources

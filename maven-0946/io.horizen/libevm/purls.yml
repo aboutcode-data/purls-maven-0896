@@ -1,2 +1,4 @@
 - pkg:maven/io.horizen/libevm@0.1.0
 - pkg:maven/io.horizen/libevm@0.1.0?classifier=sources
+- pkg:maven/io.horizen/libevm@1.0.0
+- pkg:maven/io.horizen/libevm@1.0.0?classifier=sources

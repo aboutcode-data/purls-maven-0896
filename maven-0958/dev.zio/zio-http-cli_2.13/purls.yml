@@ -4,3 +4,5 @@
 - pkg:maven/dev.zio/zio-http-cli_2.13@3.0.0-RC2?classifier=sources
 - pkg:maven/dev.zio/zio-http-cli_2.13@3.0.0-RC3
 - pkg:maven/dev.zio/zio-http-cli_2.13@3.0.0-RC3?classifier=sources
+- pkg:maven/dev.zio/zio-http-cli_2.13@3.0.0-RC4
+- pkg:maven/dev.zio/zio-http-cli_2.13@3.0.0-RC4?classifier=sources

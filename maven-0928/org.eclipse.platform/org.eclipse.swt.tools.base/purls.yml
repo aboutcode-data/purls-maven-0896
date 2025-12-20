@@ -9,3 +9,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.base@3.107.300?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.base@3.107.400
 - pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.base@3.107.400?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.base@3.107.500
+- pkg:maven/org.eclipse.platform/org.eclipse.swt.tools.base@3.107.500?classifier=sources

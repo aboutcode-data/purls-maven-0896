@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.sttp.openai/fs2_2.13@0.0.8
+- pkg:maven/com.softwaremill.sttp.openai/fs2_2.13@0.0.8?classifier=sources
+- pkg:maven/com.softwaremill.sttp.openai/fs2_2.13@0.0.9
+- pkg:maven/com.softwaremill.sttp.openai/fs2_2.13@0.0.9?classifier=sources

@@ -10,3 +10,4 @@
 - pkg:maven/com.blacksquircle.ui/language-julia@2.6.0?classifier=sources
 - pkg:maven/com.blacksquircle.ui/language-julia@2.7.0?classifier=sources
 - pkg:maven/com.blacksquircle.ui/language-julia@2.8.0?classifier=sources
+- pkg:maven/com.blacksquircle.ui/language-julia@2.9.0?classifier=sources

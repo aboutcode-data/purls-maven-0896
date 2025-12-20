@@ -1,2 +1,4 @@
 - pkg:maven/com.rfksystems/blake2b@1.0.0
 - pkg:maven/com.rfksystems/blake2b@1.0.0?classifier=sources
+- pkg:maven/com.rfksystems/blake2b@2.0.0
+- pkg:maven/com.rfksystems/blake2b@2.0.0?classifier=sources

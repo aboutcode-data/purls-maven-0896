@@ -4,3 +4,5 @@
 - pkg:maven/dev.macula.boot/macula-boot-starter-auditlog@5.0.2?classifier=sources
 - pkg:maven/dev.macula.boot/macula-boot-starter-auditlog@5.0.3
 - pkg:maven/dev.macula.boot/macula-boot-starter-auditlog@5.0.3?classifier=sources
+- pkg:maven/dev.macula.boot/macula-boot-starter-auditlog@5.0.4
+- pkg:maven/dev.macula.boot/macula-boot-starter-auditlog@5.0.4?classifier=sources

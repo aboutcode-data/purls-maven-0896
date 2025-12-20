@@ -1,3 +1,5 @@
+- pkg:maven/com.blazebit/blaze-persistence-archetype-entity-view-sample-jakarta@1.6.10
+- pkg:maven/com.blazebit/blaze-persistence-archetype-entity-view-sample-jakarta@1.6.10?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-archetype-entity-view-sample-jakarta@1.6.7
 - pkg:maven/com.blazebit/blaze-persistence-archetype-entity-view-sample-jakarta@1.6.7?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-archetype-entity-view-sample-jakarta@1.6.8

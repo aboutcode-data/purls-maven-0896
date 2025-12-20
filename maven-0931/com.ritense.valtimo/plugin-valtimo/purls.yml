@@ -10,6 +10,8 @@
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@10.5.3.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@10.6.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@10.7.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/plugin-valtimo@10.8.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/plugin-valtimo@11.0.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@9.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@9.18.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@9.19.0?classifier=sources

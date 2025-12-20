@@ -18,3 +18,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websocket@RELEASE200?classifier=sources

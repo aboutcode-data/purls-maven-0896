@@ -6,5 +6,15 @@
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.3.3?classifier=sources
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.3.4
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.3.4?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.3.5
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.3.5?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.4.0
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.4.0.Beta1
 - pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.4.0.Beta1?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.4.0?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.4.1
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.4.1?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.5.0.Beta1
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.5.0.Beta1?classifier=sources
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.5.0.Beta2
+- pkg:maven/io.quarkiverse.operatorsdk/quarkus-operator-sdk-annotations@6.5.0.Beta2?classifier=sources

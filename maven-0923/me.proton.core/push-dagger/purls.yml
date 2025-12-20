@@ -30,6 +30,14 @@
 - pkg:maven/me.proton.core/push-dagger@17.3.0?classifier=sources
 - pkg:maven/me.proton.core/push-dagger@18.0.0?classifier=sources
 - pkg:maven/me.proton.core/push-dagger@18.1.0?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.1.1?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.2.0?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.2.1?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.2.2?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.2.3?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.2.4?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.3.0?classifier=sources
+- pkg:maven/me.proton.core/push-dagger@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/push-dagger@8.5.0?classifier=sources
 - pkg:maven/me.proton.core/push-dagger@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/push-dagger@9.0.1?classifier=sources

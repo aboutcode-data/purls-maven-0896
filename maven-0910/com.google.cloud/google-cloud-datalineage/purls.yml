@@ -24,6 +24,10 @@
 - pkg:maven/com.google.cloud/google-cloud-datalineage@0.21.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datalineage@0.22.0
 - pkg:maven/com.google.cloud/google-cloud-datalineage@0.22.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datalineage@0.23.0
+- pkg:maven/com.google.cloud/google-cloud-datalineage@0.23.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-datalineage@0.24.0
+- pkg:maven/com.google.cloud/google-cloud-datalineage@0.24.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datalineage@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-datalineage@0.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-datalineage@0.4.0

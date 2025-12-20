@@ -73,3 +73,5 @@
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-core@2.0.0?classifier=sources
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-core@2.0.1
 - pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-core@2.0.1?classifier=sources
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-core@2.0.2
+- pkg:maven/com.jkoolcloud.tnt4j.stream/tnt4j-stream-jmx-core@2.0.2?classifier=sources

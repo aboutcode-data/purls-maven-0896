@@ -1,2 +1,4 @@
+- pkg:maven/int.esa.ccsds.mo/transport-zmtp@10.0
+- pkg:maven/int.esa.ccsds.mo/transport-zmtp@10.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/transport-zmtp@9.0
 - pkg:maven/int.esa.ccsds.mo/transport-zmtp@9.0?classifier=sources

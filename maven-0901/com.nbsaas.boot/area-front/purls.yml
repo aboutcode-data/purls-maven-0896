@@ -2,6 +2,8 @@
 - pkg:maven/com.nbsaas.boot/area-front@1.0.10-2023?classifier=sources
 - pkg:maven/com.nbsaas.boot/area-front@1.0.11-2023
 - pkg:maven/com.nbsaas.boot/area-front@1.0.11-2023?classifier=sources
+- pkg:maven/com.nbsaas.boot/area-front@1.0.12-2023
+- pkg:maven/com.nbsaas.boot/area-front@1.0.12-2023?classifier=sources
 - pkg:maven/com.nbsaas.boot/area-front@1.0.4-2023
 - pkg:maven/com.nbsaas.boot/area-front@1.0.4-2023?classifier=sources
 - pkg:maven/com.nbsaas.boot/area-front@1.0.5-2023

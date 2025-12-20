@@ -1,2 +1,4 @@
+- pkg:maven/int.esa.ccsds.mo/basic-demo@10.0
+- pkg:maven/int.esa.ccsds.mo/basic-demo@10.0?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/basic-demo@9.0
 - pkg:maven/int.esa.ccsds.mo/basic-demo@9.0?classifier=sources

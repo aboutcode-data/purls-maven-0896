@@ -196,3 +196,5 @@
 - pkg:maven/org.axonframework/axon-spring-boot-autoconfigure@4.8.3?classifier=sources
 - pkg:maven/org.axonframework/axon-spring-boot-autoconfigure@4.9.0
 - pkg:maven/org.axonframework/axon-spring-boot-autoconfigure@4.9.0?classifier=sources
+- pkg:maven/org.axonframework/axon-spring-boot-autoconfigure@4.9.1
+- pkg:maven/org.axonframework/axon-spring-boot-autoconfigure@4.9.1?classifier=sources

@@ -8,3 +8,7 @@
 - pkg:maven/org.endpoints4s/algebra-testkit_sjs1_2.13@4.0.0?classifier=sources
 - pkg:maven/org.endpoints4s/algebra-testkit_sjs1_2.13@4.1.0
 - pkg:maven/org.endpoints4s/algebra-testkit_sjs1_2.13@4.1.0?classifier=sources
+- pkg:maven/org.endpoints4s/algebra-testkit_sjs1_2.13@5.0.0
+- pkg:maven/org.endpoints4s/algebra-testkit_sjs1_2.13@5.0.0?classifier=sources
+- pkg:maven/org.endpoints4s/algebra-testkit_sjs1_2.13@6.0.0
+- pkg:maven/org.endpoints4s/algebra-testkit_sjs1_2.13@6.0.0?classifier=sources

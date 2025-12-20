@@ -42,6 +42,8 @@
 - pkg:maven/com.appland/appmap-agent@1.22.2?classifier=sources
 - pkg:maven/com.appland/appmap-agent@1.22.3?classifier=sources
 - pkg:maven/com.appland/appmap-agent@1.23.0?classifier=sources
+- pkg:maven/com.appland/appmap-agent@1.24.0?classifier=sources
+- pkg:maven/com.appland/appmap-agent@1.24.1?classifier=sources
 - pkg:maven/com.appland/appmap-agent@1.4.0?classifier=sources
 - pkg:maven/com.appland/appmap-agent@1.4.1?classifier=sources
 - pkg:maven/com.appland/appmap-agent@1.5.0?classifier=sources

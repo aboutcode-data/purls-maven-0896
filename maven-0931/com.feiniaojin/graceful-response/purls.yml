@@ -10,3 +10,6 @@
 - pkg:maven/com.feiniaojin/graceful-response@3.2.0-boot2?classifier=sources
 - pkg:maven/com.feiniaojin/graceful-response@3.2.0-boot3
 - pkg:maven/com.feiniaojin/graceful-response@3.2.0-boot3?classifier=sources
+- pkg:maven/com.feiniaojin/graceful-response@3.2.1-boot2?classifier=sources
+- pkg:maven/com.feiniaojin/graceful-response@3.2.1-boot3
+- pkg:maven/com.feiniaojin/graceful-response@3.2.1-boot3?classifier=sources

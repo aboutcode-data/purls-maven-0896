@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jshell-support@RELEASE90?classifier=sources

@@ -42,3 +42,7 @@
 - pkg:maven/network.oxalis/oxalis-as2@6.1.1?classifier=sources
 - pkg:maven/network.oxalis/oxalis-as2@6.2.0
 - pkg:maven/network.oxalis/oxalis-as2@6.2.0?classifier=sources
+- pkg:maven/network.oxalis/oxalis-as2@6.3.0
+- pkg:maven/network.oxalis/oxalis-as2@6.3.0?classifier=sources
+- pkg:maven/network.oxalis/oxalis-as2@6.4.0
+- pkg:maven/network.oxalis/oxalis-as2@6.4.0?classifier=sources

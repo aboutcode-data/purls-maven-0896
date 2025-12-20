@@ -11,3 +11,7 @@
 - pkg:maven/io.github.thalescpl-io.cadp/CADP_for_JAVA@8.14.0.001?classifier=sources
 - pkg:maven/io.github.thalescpl-io.cadp/CADP_for_JAVA@8.14.1.000
 - pkg:maven/io.github.thalescpl-io.cadp/CADP_for_JAVA@8.14.1.000?classifier=sources
+- pkg:maven/io.github.thalescpl-io.cadp/CADP_for_JAVA@8.15.0.000
+- pkg:maven/io.github.thalescpl-io.cadp/CADP_for_JAVA@8.15.0.000?classifier=sources
+- pkg:maven/io.github.thalescpl-io.cadp/CADP_for_JAVA@8.15.0.001
+- pkg:maven/io.github.thalescpl-io.cadp/CADP_for_JAVA@8.15.0.001?classifier=sources

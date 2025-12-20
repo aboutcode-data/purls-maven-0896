@@ -67,6 +67,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.19?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.20
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.20?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@14.10.3?classifier=sources
@@ -141,6 +143,12 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.1-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.10-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.10-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.10.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.10.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.2-rc-1
@@ -163,6 +171,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.5.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.5.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.5.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.5.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.5.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.6
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@15.6-rc-1

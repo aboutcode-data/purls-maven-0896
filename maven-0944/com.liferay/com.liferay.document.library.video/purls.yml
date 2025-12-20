@@ -177,6 +177,8 @@
 - pkg:maven/com.liferay/com.liferay.document.library.video@1.0.64?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.video@1.0.65?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.video@1.0.66?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.video@1.0.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.video@1.0.68?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.video@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.video@1.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.video@1.0.7

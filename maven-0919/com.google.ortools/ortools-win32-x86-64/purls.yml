@@ -18,3 +18,5 @@
 - pkg:maven/com.google.ortools/ortools-win32-x86-64@9.6.2534?classifier=sources
 - pkg:maven/com.google.ortools/ortools-win32-x86-64@9.7.2996
 - pkg:maven/com.google.ortools/ortools-win32-x86-64@9.7.2996?classifier=sources
+- pkg:maven/com.google.ortools/ortools-win32-x86-64@9.8.3296
+- pkg:maven/com.google.ortools/ortools-win32-x86-64@9.8.3296?classifier=sources

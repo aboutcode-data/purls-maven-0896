@@ -1,0 +1,4 @@
+- pkg:maven/com.sigpwned/aws-java-sdk-lite-core@2.21.0
+- pkg:maven/com.sigpwned/aws-java-sdk-lite-core@2.21.0?classifier=sources
+- pkg:maven/com.sigpwned/aws-java-sdk-lite-core@2.21.1
+- pkg:maven/com.sigpwned/aws-java-sdk-lite-core@2.21.1?classifier=sources

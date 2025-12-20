@@ -26,7 +26,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@1.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@1.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@10.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@10.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@11.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@11.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@12.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@2.0.0?classifier=sources
@@ -204,3 +206,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@8.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@8.2.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.remote.jaxrs.whiteboard@9.0.1?classifier=sources

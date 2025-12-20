@@ -108,3 +108,5 @@
 - pkg:maven/com.farao-community.farao/farao-flowbased-computation-api@4.6.0?classifier=sources
 - pkg:maven/com.farao-community.farao/farao-flowbased-computation-api@4.6.1
 - pkg:maven/com.farao-community.farao/farao-flowbased-computation-api@4.6.1?classifier=sources
+- pkg:maven/com.farao-community.farao/farao-flowbased-computation-api@4.6.2
+- pkg:maven/com.farao-community.farao/farao-flowbased-computation-api@4.6.2?classifier=sources

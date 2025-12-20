@@ -1,0 +1,2 @@
+- pkg:maven/io.micronaut.eclipsestore/micronaut-eclipsestore-rest@1.0.0?classifier=sources
+- pkg:maven/io.micronaut.eclipsestore/micronaut-eclipsestore-rest@1.0.1?classifier=sources

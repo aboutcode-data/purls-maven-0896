@@ -48,3 +48,7 @@
 - pkg:maven/org.xipki/certprofile-xijson@6.3.0?classifier=sources
 - pkg:maven/org.xipki/certprofile-xijson@6.4.0
 - pkg:maven/org.xipki/certprofile-xijson@6.4.0?classifier=sources
+- pkg:maven/org.xipki/certprofile-xijson@6.5.0
+- pkg:maven/org.xipki/certprofile-xijson@6.5.0?classifier=sources
+- pkg:maven/org.xipki/certprofile-xijson@6.5.1
+- pkg:maven/org.xipki/certprofile-xijson@6.5.1?classifier=sources

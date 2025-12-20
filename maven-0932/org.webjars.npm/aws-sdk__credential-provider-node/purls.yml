@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.121.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.190.0
 - pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.190.0?classifier=sources
+- pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.451.0
+- pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.451.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.58.0
 - pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.58.0?classifier=sources
 - pkg:maven/org.webjars.npm/aws-sdk__credential-provider-node@3.6.1

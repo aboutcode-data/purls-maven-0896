@@ -134,3 +134,5 @@
 - pkg:maven/org.jboss.windup/windup-module-spec@6.3.2.Final?classifier=sources
 - pkg:maven/org.jboss.windup/windup-module-spec@6.3.3.Final
 - pkg:maven/org.jboss.windup/windup-module-spec@6.3.3.Final?classifier=sources
+- pkg:maven/org.jboss.windup/windup-module-spec@6.3.4.Final
+- pkg:maven/org.jboss.windup/windup-module-spec@6.3.4.Final?classifier=sources

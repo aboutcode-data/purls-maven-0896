@@ -1,2 +1,4 @@
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-snapshot@2.0.2
 - pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-snapshot@2.0.2?classifier=sources
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-snapshot@2.3.0
+- pkg:maven/be.vlaanderen.informatievlaanderen.vsds/ldes-snapshot@2.3.0?classifier=sources

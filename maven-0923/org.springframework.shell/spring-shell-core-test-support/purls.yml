@@ -15,6 +15,8 @@
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.13?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.14
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.14?classifier=sources
+- pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.15
+- pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.15?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.1?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.2
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@2.1.2?classifier=sources
@@ -35,6 +37,8 @@
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.0
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.0?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.1
+- pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.10
+- pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.10?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.1?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.2
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.0.2?classifier=sources
@@ -64,3 +68,5 @@
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.1.4?classifier=sources
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.1.5
 - pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.1.5?classifier=sources
+- pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.1.6
+- pkg:maven/org.springframework.shell/spring-shell-core-test-support@3.1.6?classifier=sources

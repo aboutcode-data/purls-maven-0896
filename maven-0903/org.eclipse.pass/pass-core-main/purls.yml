@@ -22,3 +22,5 @@
 - pkg:maven/org.eclipse.pass/pass-core-main@1.0.0?classifier=sources
 - pkg:maven/org.eclipse.pass/pass-core-main@1.1.0
 - pkg:maven/org.eclipse.pass/pass-core-main@1.1.0?classifier=sources
+- pkg:maven/org.eclipse.pass/pass-core-main@1.2.0
+- pkg:maven/org.eclipse.pass/pass-core-main@1.2.0?classifier=sources

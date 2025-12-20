@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-freeform@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-freeform@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-freeform@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-freeform@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-freeform@RELEASE90?classifier=sources

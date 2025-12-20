@@ -14,6 +14,8 @@
 - pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC16?classifier=sources
 - pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC17
 - pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC17?classifier=sources
+- pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC18
+- pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC18?classifier=sources
 - pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC3
 - pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC3?classifier=sources
 - pkg:maven/io.github.outwatch/outwatch_sjs1_2.13@1.0.0-RC4

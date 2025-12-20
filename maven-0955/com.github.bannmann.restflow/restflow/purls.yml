@@ -8,3 +8,5 @@
 - pkg:maven/com.github.bannmann.restflow/restflow@0.4?classifier=sources
 - pkg:maven/com.github.bannmann.restflow/restflow@0.5
 - pkg:maven/com.github.bannmann.restflow/restflow@0.5?classifier=sources
+- pkg:maven/com.github.bannmann.restflow/restflow@0.8
+- pkg:maven/com.github.bannmann.restflow/restflow@0.8?classifier=sources

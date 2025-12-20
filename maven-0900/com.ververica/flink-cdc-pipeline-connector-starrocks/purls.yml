@@ -1,0 +1,2 @@
+- pkg:maven/com.ververica/flink-cdc-pipeline-connector-starrocks@3.0.0
+- pkg:maven/com.ververica/flink-cdc-pipeline-connector-starrocks@3.0.0?classifier=sources

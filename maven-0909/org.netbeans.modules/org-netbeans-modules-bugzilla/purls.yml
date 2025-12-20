@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-bugzilla@RELEASE90?classifier=sources

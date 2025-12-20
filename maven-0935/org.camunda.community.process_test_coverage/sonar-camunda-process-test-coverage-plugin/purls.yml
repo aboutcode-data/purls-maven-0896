@@ -1,2 +1,3 @@
 - pkg:maven/org.camunda.community.process_test_coverage/sonar-camunda-process-test-coverage-plugin@2.2.0?classifier=sources
 - pkg:maven/org.camunda.community.process_test_coverage/sonar-camunda-process-test-coverage-plugin@2.3.0?classifier=sources
+- pkg:maven/org.camunda.community.process_test_coverage/sonar-camunda-process-test-coverage-plugin@2.3.1?classifier=sources

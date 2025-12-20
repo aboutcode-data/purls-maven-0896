@@ -1,3 +1,4 @@
 - pkg:maven/com.bennyhuo.kotlin/deepcopy-compiler-kcp-embeddable@1.7.10.0?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/deepcopy-compiler-kcp-embeddable@1.8.20-1.0.1?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/deepcopy-compiler-kcp-embeddable@1.8.20.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/deepcopy-compiler-kcp-embeddable@1.9.20-1.0.1?classifier=sources

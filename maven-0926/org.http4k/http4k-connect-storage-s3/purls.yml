@@ -207,3 +207,5 @@
 - pkg:maven/org.http4k/http4k-connect-storage-s3@5.4.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-s3@5.5.0.0?classifier=sources
 - pkg:maven/org.http4k/http4k-connect-storage-s3@5.5.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@5.5.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-storage-s3@5.6.0.0?classifier=sources

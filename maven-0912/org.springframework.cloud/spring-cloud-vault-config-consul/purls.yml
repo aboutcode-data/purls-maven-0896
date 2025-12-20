@@ -74,3 +74,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-vault-config-consul@4.0.0?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-vault-config-consul@4.0.1
 - pkg:maven/org.springframework.cloud/spring-cloud-vault-config-consul@4.0.1?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-vault-config-consul@4.1.0
+- pkg:maven/org.springframework.cloud/spring-cloud-vault-config-consul@4.1.0?classifier=sources

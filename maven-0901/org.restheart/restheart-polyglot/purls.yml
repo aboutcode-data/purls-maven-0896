@@ -128,3 +128,9 @@
 - pkg:maven/org.restheart/restheart-polyglot@7.6.0?classifier=sources
 - pkg:maven/org.restheart/restheart-polyglot@7.6.1
 - pkg:maven/org.restheart/restheart-polyglot@7.6.1?classifier=sources
+- pkg:maven/org.restheart/restheart-polyglot@7.6.2
+- pkg:maven/org.restheart/restheart-polyglot@7.6.2?classifier=sources
+- pkg:maven/org.restheart/restheart-polyglot@7.6.3
+- pkg:maven/org.restheart/restheart-polyglot@7.6.3?classifier=sources
+- pkg:maven/org.restheart/restheart-polyglot@7.6.4
+- pkg:maven/org.restheart/restheart-polyglot@7.6.4?classifier=sources

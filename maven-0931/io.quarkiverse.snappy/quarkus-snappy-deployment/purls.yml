@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.snappy/quarkus-snappy-deployment@0
+- pkg:maven/io.quarkiverse.snappy/quarkus-snappy-deployment@0?classifier=sources

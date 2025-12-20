@@ -20,3 +20,4 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core-linuxarm32hfp@1.5.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core-linuxarm32hfp@1.6.0-RC?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core-linuxarm32hfp@1.6.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-serialization-core-linuxarm32hfp@1.6.2?classifier=sources

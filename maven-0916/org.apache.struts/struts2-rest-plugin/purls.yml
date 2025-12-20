@@ -145,6 +145,8 @@
 - pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.31?classifier=sources
 - pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.32
 - pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.32?classifier=sources
+- pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.33
+- pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.33?classifier=sources
 - pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.5
 - pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.5?classifier=sources
 - pkg:maven/org.apache.struts/struts2-rest-plugin@2.5.8
@@ -167,4 +169,6 @@
 - pkg:maven/org.apache.struts/struts2-rest-plugin@6.3.0
 - pkg:maven/org.apache.struts/struts2-rest-plugin@6.3.0.1
 - pkg:maven/org.apache.struts/struts2-rest-plugin@6.3.0.1?classifier=sources
+- pkg:maven/org.apache.struts/struts2-rest-plugin@6.3.0.2
+- pkg:maven/org.apache.struts/struts2-rest-plugin@6.3.0.2?classifier=sources
 - pkg:maven/org.apache.struts/struts2-rest-plugin@6.3.0?classifier=sources
