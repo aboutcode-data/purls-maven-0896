@@ -100,3 +100,7 @@
 - pkg:maven/com.cognitect.aws/medialive@848.2.1413.0?classifier=sources
 - pkg:maven/com.cognitect.aws/medialive@857.2.1574.0
 - pkg:maven/com.cognitect.aws/medialive@857.2.1574.0?classifier=sources
+- pkg:maven/com.cognitect.aws/medialive@868.2.1599.0
+- pkg:maven/com.cognitect.aws/medialive@868.2.1599.0?classifier=sources
+- pkg:maven/com.cognitect.aws/medialive@869.2.1616.0
+- pkg:maven/com.cognitect.aws/medialive@869.2.1616.0?classifier=sources

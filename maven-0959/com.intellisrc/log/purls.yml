@@ -11,3 +11,4 @@
 - pkg:maven/com.intellisrc/log@2.8.8?classifier=sources
 - pkg:maven/com.intellisrc/log@2.8.9?classifier=sources
 - pkg:maven/com.intellisrc/log@2.9.0?classifier=sources
+- pkg:maven/com.intellisrc/log@2.9.1?classifier=sources

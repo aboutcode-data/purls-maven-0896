@@ -1,1 +1,2 @@
 - pkg:maven/dk.gtz.graphedit/graphedit-protobuf@1.1.0?classifier=sources
+- pkg:maven/dk.gtz.graphedit/graphedit-protobuf@1.2.0?classifier=sources

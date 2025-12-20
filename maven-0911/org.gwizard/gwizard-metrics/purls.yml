@@ -12,3 +12,5 @@
 - pkg:maven/org.gwizard/gwizard-metrics@0.8?classifier=sources
 - pkg:maven/org.gwizard/gwizard-metrics@0.9
 - pkg:maven/org.gwizard/gwizard-metrics@0.9?classifier=sources
+- pkg:maven/org.gwizard/gwizard-metrics@1.0-rc1
+- pkg:maven/org.gwizard/gwizard-metrics@1.0-rc1?classifier=sources

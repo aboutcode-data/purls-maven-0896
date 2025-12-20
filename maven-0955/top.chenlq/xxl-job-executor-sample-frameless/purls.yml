@@ -1,2 +1,4 @@
 - pkg:maven/top.chenlq/xxl-job-executor-sample-frameless@2.4.2
 - pkg:maven/top.chenlq/xxl-job-executor-sample-frameless@2.4.2?classifier=sources
+- pkg:maven/top.chenlq/xxl-job-executor-sample-frameless@2.4.3
+- pkg:maven/top.chenlq/xxl-job-executor-sample-frameless@2.4.3?classifier=sources

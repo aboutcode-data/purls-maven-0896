@@ -44,3 +44,9 @@
 - pkg:maven/tools.dynamia/tools.dynamia.ui@5.0.7?classifier=sources
 - pkg:maven/tools.dynamia/tools.dynamia.ui@5.0.8
 - pkg:maven/tools.dynamia/tools.dynamia.ui@5.0.8?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.ui@5.0.9
+- pkg:maven/tools.dynamia/tools.dynamia.ui@5.0.9?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.ui@5.1.0
+- pkg:maven/tools.dynamia/tools.dynamia.ui@5.1.0?classifier=sources
+- pkg:maven/tools.dynamia/tools.dynamia.ui@5.1.1
+- pkg:maven/tools.dynamia/tools.dynamia.ui@5.1.1?classifier=sources

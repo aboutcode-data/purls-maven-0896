@@ -122,3 +122,13 @@
 - pkg:maven/com.aliyun/dataworks_public20200518@5.0.0?classifier=sources
 - pkg:maven/com.aliyun/dataworks_public20200518@5.1.0
 - pkg:maven/com.aliyun/dataworks_public20200518@5.1.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20200518@5.2.0
+- pkg:maven/com.aliyun/dataworks_public20200518@5.2.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20200518@5.3.0
+- pkg:maven/com.aliyun/dataworks_public20200518@5.3.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20200518@5.3.1
+- pkg:maven/com.aliyun/dataworks_public20200518@5.3.1?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20200518@5.4.0
+- pkg:maven/com.aliyun/dataworks_public20200518@5.4.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20200518@5.5.0
+- pkg:maven/com.aliyun/dataworks_public20200518@5.5.0?classifier=sources

@@ -71,6 +71,10 @@
 - pkg:maven/me.proton.core/plan-data@22.1.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@22.2.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@23.0.0?classifier=sources
+- pkg:maven/me.proton.core/plan-data@23.0.1?classifier=sources
+- pkg:maven/me.proton.core/plan-data@23.1.0?classifier=sources
+- pkg:maven/me.proton.core/plan-data@23.2.0?classifier=sources
+- pkg:maven/me.proton.core/plan-data@24.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@4.1.0?classifier=sources

@@ -275,3 +275,4 @@
 - pkg:maven/com.didiglobal.booster/booster-transform-finalizer-watchdog-daemon@5.0.0-beta5?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-finalizer-watchdog-daemon@5.0.0-beta6?classifier=sources
 - pkg:maven/com.didiglobal.booster/booster-transform-finalizer-watchdog-daemon@5.0.0-beta7?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-finalizer-watchdog-daemon@5.0.0-rc1?classifier=sources

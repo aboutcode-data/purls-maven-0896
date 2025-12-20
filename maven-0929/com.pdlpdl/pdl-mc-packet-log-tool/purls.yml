@@ -12,3 +12,5 @@
 - pkg:maven/com.pdlpdl/pdl-mc-packet-log-tool@2.4.0?classifier=sources
 - pkg:maven/com.pdlpdl/pdl-mc-packet-log-tool@2.5.0
 - pkg:maven/com.pdlpdl/pdl-mc-packet-log-tool@2.5.0?classifier=sources
+- pkg:maven/com.pdlpdl/pdl-mc-packet-log-tool@3.0.1
+- pkg:maven/com.pdlpdl/pdl-mc-packet-log-tool@3.0.1?classifier=sources

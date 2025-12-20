@@ -23,3 +23,4 @@
 - pkg:maven/org.forgerock/forgerock-core@4.3.0?classifier=sources
 - pkg:maven/org.forgerock/forgerock-core@4.3.1?classifier=sources
 - pkg:maven/org.forgerock/forgerock-core@4.4.0?classifier=sources
+- pkg:maven/org.forgerock/forgerock-core@4.4.1-beta1?classifier=sources

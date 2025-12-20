@@ -34,3 +34,5 @@
 - pkg:maven/io.edurt.datacap/datacap-jdbc-dremio@2024.03.2?classifier=sources
 - pkg:maven/io.edurt.datacap/datacap-jdbc-dremio@2024.03.3
 - pkg:maven/io.edurt.datacap/datacap-jdbc-dremio@2024.03.3?classifier=sources
+- pkg:maven/io.edurt.datacap/datacap-jdbc-dremio@2024.03.4
+- pkg:maven/io.edurt.datacap/datacap-jdbc-dremio@2024.03.4?classifier=sources

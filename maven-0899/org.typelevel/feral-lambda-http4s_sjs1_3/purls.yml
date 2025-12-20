@@ -106,6 +106,7 @@
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.2.3?classifier=sources
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.2.4
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.2.4?classifier=sources
+- pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0-M1
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0-M1?classifier=sources
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0-M2
@@ -118,6 +119,7 @@
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0-RC2?classifier=sources
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0-RC3
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0-RC3?classifier=sources
+- pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@0.3.0?classifier=sources
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@1.0.0-M1
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@1.0.0-M1?classifier=sources
 - pkg:maven/org.typelevel/feral-lambda-http4s_sjs1_3@1.0.0-M2

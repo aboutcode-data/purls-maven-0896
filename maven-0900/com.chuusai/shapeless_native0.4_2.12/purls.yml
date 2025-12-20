@@ -1,5 +1,7 @@
 - pkg:maven/com.chuusai/shapeless_native0.4_2.12@2.3.10
 - pkg:maven/com.chuusai/shapeless_native0.4_2.12@2.3.10?classifier=sources
+- pkg:maven/com.chuusai/shapeless_native0.4_2.12@2.3.11
+- pkg:maven/com.chuusai/shapeless_native0.4_2.12@2.3.11?classifier=sources
 - pkg:maven/com.chuusai/shapeless_native0.4_2.12@2.3.4
 - pkg:maven/com.chuusai/shapeless_native0.4_2.12@2.3.4-M1
 - pkg:maven/com.chuusai/shapeless_native0.4_2.12@2.3.4-M1?classifier=sources

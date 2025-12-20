@@ -1,1 +1,3 @@
 - pkg:maven/at.asitplus.wallet/eupidcredential-iosarm64@1.0.0?classifier=sources
+- pkg:maven/at.asitplus.wallet/eupidcredential-iosarm64@2.0.0?classifier=sources
+- pkg:maven/at.asitplus.wallet/eupidcredential-iosarm64@2.0.1?classifier=sources

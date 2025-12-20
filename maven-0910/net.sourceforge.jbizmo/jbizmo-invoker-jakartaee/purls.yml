@@ -2,3 +2,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-jakartaee@7.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-jakartaee@8.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-jakartaee@8.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-jakartaee@9.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-invoker-jakartaee@9.0.0?classifier=sources

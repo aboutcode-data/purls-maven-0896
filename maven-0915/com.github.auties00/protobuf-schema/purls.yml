@@ -10,3 +10,5 @@
 - pkg:maven/com.github.auties00/protobuf-schema@3.0.3?classifier=sources
 - pkg:maven/com.github.auties00/protobuf-schema@3.0.4
 - pkg:maven/com.github.auties00/protobuf-schema@3.0.4?classifier=sources
+- pkg:maven/com.github.auties00/protobuf-schema@3.1.0
+- pkg:maven/com.github.auties00/protobuf-schema@3.1.0?classifier=sources

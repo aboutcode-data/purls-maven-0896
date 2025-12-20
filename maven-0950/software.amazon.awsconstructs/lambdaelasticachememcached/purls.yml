@@ -158,6 +158,8 @@
 - pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.55.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.56.0
 - pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.56.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.57.0
+- pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.57.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.7.0
 - pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.7.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/lambdaelasticachememcached@2.8.0

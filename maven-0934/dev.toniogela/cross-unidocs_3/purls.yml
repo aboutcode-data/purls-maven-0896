@@ -1,2 +1,4 @@
 - pkg:maven/dev.toniogela/cross-unidocs_3@0.0.2
 - pkg:maven/dev.toniogela/cross-unidocs_3@0.0.2?classifier=sources
+- pkg:maven/dev.toniogela/cross-unidocs_3@0.0.3
+- pkg:maven/dev.toniogela/cross-unidocs_3@0.0.3?classifier=sources

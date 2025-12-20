@@ -70,3 +70,5 @@
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@1.1.0.CR2
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@1.1.0.CR2?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-app-components-test@1.1.0?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-app-components-test@1.2.0
+- pkg:maven/io.apicurio/apicurio-common-app-components-test@1.2.0?classifier=sources

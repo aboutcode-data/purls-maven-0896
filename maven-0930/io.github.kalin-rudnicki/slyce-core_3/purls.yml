@@ -1,2 +1,4 @@
 - pkg:maven/io.github.kalin-rudnicki/slyce-core_3@2.0.3
 - pkg:maven/io.github.kalin-rudnicki/slyce-core_3@2.0.3?classifier=sources
+- pkg:maven/io.github.kalin-rudnicki/slyce-core_3@2.1.5
+- pkg:maven/io.github.kalin-rudnicki/slyce-core_3@2.1.5?classifier=sources

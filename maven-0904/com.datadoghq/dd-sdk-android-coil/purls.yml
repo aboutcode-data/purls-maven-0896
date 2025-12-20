@@ -52,3 +52,4 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.7.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.7.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.8.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-coil@2.9.0?classifier=sources

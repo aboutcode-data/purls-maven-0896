@@ -16,3 +16,5 @@
 - pkg:maven/org.terrier/terrier-realtime@5.7?classifier=sources
 - pkg:maven/org.terrier/terrier-realtime@5.8
 - pkg:maven/org.terrier/terrier-realtime@5.8?classifier=sources
+- pkg:maven/org.terrier/terrier-realtime@5.9
+- pkg:maven/org.terrier/terrier-realtime@5.9?classifier=sources

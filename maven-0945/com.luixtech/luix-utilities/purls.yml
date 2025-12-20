@@ -98,3 +98,5 @@
 - pkg:maven/com.luixtech/luix-utilities@1.2.3.8?classifier=sources
 - pkg:maven/com.luixtech/luix-utilities@1.2.3.9
 - pkg:maven/com.luixtech/luix-utilities@1.2.3.9?classifier=sources
+- pkg:maven/com.luixtech/luix-utilities@1.2.4.0
+- pkg:maven/com.luixtech/luix-utilities@1.2.4.0?classifier=sources

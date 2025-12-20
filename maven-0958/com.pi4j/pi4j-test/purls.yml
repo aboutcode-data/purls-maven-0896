@@ -16,3 +16,5 @@
 - pkg:maven/com.pi4j/pi4j-test@2.5.0?classifier=sources
 - pkg:maven/com.pi4j/pi4j-test@2.5.1
 - pkg:maven/com.pi4j/pi4j-test@2.5.1?classifier=sources
+- pkg:maven/com.pi4j/pi4j-test@2.6.0
+- pkg:maven/com.pi4j/pi4j-test@2.6.0?classifier=sources

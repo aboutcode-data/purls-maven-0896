@@ -30,3 +30,5 @@
 - pkg:maven/com.rapidclipse/rap-security-auth@13.0.0?classifier=sources
 - pkg:maven/com.rapidclipse/rap-security-auth@13.0.1
 - pkg:maven/com.rapidclipse/rap-security-auth@13.0.1?classifier=sources
+- pkg:maven/com.rapidclipse/rap-security-auth@13.0.4
+- pkg:maven/com.rapidclipse/rap-security-auth@13.0.4?classifier=sources

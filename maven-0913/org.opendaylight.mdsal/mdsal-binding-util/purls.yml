@@ -44,6 +44,7 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util@13.0.1
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util@13.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util@13.0.2?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-util@13.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util@2.0.0-Beryllium
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util@2.0.1-Beryllium-SR1
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-util@2.0.2-Beryllium-SR2

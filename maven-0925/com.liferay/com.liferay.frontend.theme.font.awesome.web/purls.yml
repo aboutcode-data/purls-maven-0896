@@ -426,6 +426,8 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.6
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.60?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.61?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.62?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.font.awesome.web@3.0.7

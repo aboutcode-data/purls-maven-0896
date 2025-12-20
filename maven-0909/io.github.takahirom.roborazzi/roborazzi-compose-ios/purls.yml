@@ -1,1 +1,5 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.13.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.14.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.15.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.16.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.16.1?classifier=sources

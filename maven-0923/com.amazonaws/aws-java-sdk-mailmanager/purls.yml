@@ -1,0 +1,6 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-mailmanager@1.12.727
+- pkg:maven/com.amazonaws/aws-java-sdk-mailmanager@1.12.727?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-mailmanager@1.12.728
+- pkg:maven/com.amazonaws/aws-java-sdk-mailmanager@1.12.728?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-mailmanager@1.12.729
+- pkg:maven/com.amazonaws/aws-java-sdk-mailmanager@1.12.729?classifier=sources

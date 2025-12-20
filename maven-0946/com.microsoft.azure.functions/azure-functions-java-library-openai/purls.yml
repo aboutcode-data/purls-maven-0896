@@ -1,1 +1,2 @@
 - pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-openai@0.1.0-preview?classifier=sources
+- pkg:maven/com.microsoft.azure.functions/azure-functions-java-library-openai@0.2.0-preview?classifier=sources

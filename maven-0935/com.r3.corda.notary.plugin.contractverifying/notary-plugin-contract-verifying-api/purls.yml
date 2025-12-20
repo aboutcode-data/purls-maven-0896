@@ -1,0 +1,2 @@
+- pkg:maven/com.r3.corda.notary.plugin.contractverifying/notary-plugin-contract-verifying-api@5.2.0.0
+- pkg:maven/com.r3.corda.notary.plugin.contractverifying/notary-plugin-contract-verifying-api@5.2.0.0?classifier=sources

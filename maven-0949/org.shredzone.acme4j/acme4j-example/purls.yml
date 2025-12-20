@@ -74,3 +74,5 @@
 - pkg:maven/org.shredzone.acme4j/acme4j-example@3.2.0?classifier=sources
 - pkg:maven/org.shredzone.acme4j/acme4j-example@3.2.1
 - pkg:maven/org.shredzone.acme4j/acme4j-example@3.2.1?classifier=sources
+- pkg:maven/org.shredzone.acme4j/acme4j-example@3.3.0
+- pkg:maven/org.shredzone.acme4j/acme4j-example@3.3.0?classifier=sources

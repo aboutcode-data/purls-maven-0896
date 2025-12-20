@@ -1,0 +1,8 @@
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.10-1.0.0-Beta1?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.10-1.0.0-Beta2?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.11-1.0.0?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.11-1.0.1?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.11-1.0.2?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.11-1.0.3?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.11-1.0.4?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/ktor-client-api@2.3.11-1.1.0?classifier=sources

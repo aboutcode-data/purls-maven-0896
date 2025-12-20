@@ -4,3 +4,5 @@
 - pkg:maven/dev.ikm.tinkar/coordinate@1.34.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/coordinate@1.37.0
 - pkg:maven/dev.ikm.tinkar/coordinate@1.37.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/coordinate@1.51.0
+- pkg:maven/dev.ikm.tinkar/coordinate@1.51.0?classifier=sources

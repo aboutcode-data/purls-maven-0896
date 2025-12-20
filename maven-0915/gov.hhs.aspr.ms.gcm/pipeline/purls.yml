@@ -1,1 +1,2 @@
 - pkg:maven/gov.hhs.aspr.ms.gcm/pipeline@1.0.0?classifier=sources
+- pkg:maven/gov.hhs.aspr.ms.gcm/pipeline@1.0.1?classifier=sources

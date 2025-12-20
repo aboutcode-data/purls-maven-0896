@@ -1,3 +1,5 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@2.72.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@2.72.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.32.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.32.1?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.33.0
@@ -22,3 +24,15 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.39.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.39.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.39.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.39.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.39.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.40.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.40.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.3
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.41.3?classifier=sources

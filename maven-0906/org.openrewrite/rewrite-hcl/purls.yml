@@ -126,6 +126,8 @@
 - pkg:maven/org.openrewrite/rewrite-hcl@8.23.2?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@8.23.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@8.24.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-hcl@8.25.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-hcl@8.26.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@8.3.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@8.4.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-hcl@8.4.1?classifier=sources

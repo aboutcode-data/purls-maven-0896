@@ -8,3 +8,6 @@
 - pkg:maven/com.polytomic/polytomic-java@0.1.6?classifier=sources
 - pkg:maven/com.polytomic/polytomic-java@0.1.7?classifier=sources
 - pkg:maven/com.polytomic/polytomic-java@0.1.9?classifier=sources
+- pkg:maven/com.polytomic/polytomic-java@0.2.0?classifier=sources
+- pkg:maven/com.polytomic/polytomic-java@1.0.0?classifier=sources
+- pkg:maven/com.polytomic/polytomic-java@1.2.0?classifier=sources

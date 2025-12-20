@@ -2,3 +2,5 @@
 - pkg:maven/com.raw-labs/raw-parsers@0.29.0?classifier=sources
 - pkg:maven/com.raw-labs/raw-parsers@0.29.1
 - pkg:maven/com.raw-labs/raw-parsers@0.29.1?classifier=sources
+- pkg:maven/com.raw-labs/raw-parsers@0.30.0
+- pkg:maven/com.raw-labs/raw-parsers@0.30.0?classifier=sources

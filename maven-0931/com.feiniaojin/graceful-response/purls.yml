@@ -37,3 +37,9 @@
 - pkg:maven/com.feiniaojin/graceful-response@3.5.2-boot2?classifier=sources
 - pkg:maven/com.feiniaojin/graceful-response@3.5.2-boot3
 - pkg:maven/com.feiniaojin/graceful-response@3.5.2-boot3?classifier=sources
+- pkg:maven/com.feiniaojin/graceful-response@4.0.0-boot3
+- pkg:maven/com.feiniaojin/graceful-response@4.0.0-boot3?classifier=sources
+- pkg:maven/com.feiniaojin/graceful-response@4.0.1-boot2
+- pkg:maven/com.feiniaojin/graceful-response@4.0.1-boot2?classifier=sources
+- pkg:maven/com.feiniaojin/graceful-response@4.0.1-boot3
+- pkg:maven/com.feiniaojin/graceful-response@4.0.1-boot3?classifier=sources

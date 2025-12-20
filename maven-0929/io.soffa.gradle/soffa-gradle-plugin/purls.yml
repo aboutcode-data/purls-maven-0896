@@ -66,3 +66,4 @@
 - pkg:maven/io.soffa.gradle/soffa-gradle-plugin@2.2.3?classifier=sources
 - pkg:maven/io.soffa.gradle/soffa-gradle-plugin@2.2.4?classifier=sources
 - pkg:maven/io.soffa.gradle/soffa-gradle-plugin@2.3.0?classifier=sources
+- pkg:maven/io.soffa.gradle/soffa-gradle-plugin@2.3.1?classifier=sources

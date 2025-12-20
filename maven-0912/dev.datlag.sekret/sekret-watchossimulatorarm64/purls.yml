@@ -6,3 +6,6 @@
 - pkg:maven/dev.datlag.sekret/sekret-watchossimulatorarm64@1.0.0?classifier=sources
 - pkg:maven/dev.datlag.sekret/sekret-watchossimulatorarm64@1.0.1?classifier=sources
 - pkg:maven/dev.datlag.sekret/sekret-watchossimulatorarm64@2.0.0-alpha-01?classifier=sources
+- pkg:maven/dev.datlag.sekret/sekret-watchossimulatorarm64@2.0.0-alpha-02?classifier=sources
+- pkg:maven/dev.datlag.sekret/sekret-watchossimulatorarm64@2.0.0-alpha-03?classifier=sources
+- pkg:maven/dev.datlag.sekret/sekret-watchossimulatorarm64@2.0.0-alpha-04?classifier=sources

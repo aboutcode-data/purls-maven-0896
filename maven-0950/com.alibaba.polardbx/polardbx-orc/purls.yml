@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.polardbx/polardbx-orc@5.4.19
+- pkg:maven/com.alibaba.polardbx/polardbx-orc@5.4.19?classifier=sources

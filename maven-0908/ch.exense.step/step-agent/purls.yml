@@ -124,3 +124,5 @@
 - pkg:maven/ch.exense.step/step-agent@3.24.4?classifier=sources
 - pkg:maven/ch.exense.step/step-agent@3.24.5
 - pkg:maven/ch.exense.step/step-agent@3.24.5?classifier=sources
+- pkg:maven/ch.exense.step/step-agent@3.25.0
+- pkg:maven/ch.exense.step/step-agent@3.25.0?classifier=sources

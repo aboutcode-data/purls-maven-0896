@@ -114,3 +114,9 @@
 - pkg:maven/cn.gmlee.tools/tools-redis@5.5.1?classifier=sources
 - pkg:maven/cn.gmlee.tools/tools-redis@5.5.3
 - pkg:maven/cn.gmlee.tools/tools-redis@5.5.3?classifier=sources
+- pkg:maven/cn.gmlee.tools/tools-redis@5.6.0
+- pkg:maven/cn.gmlee.tools/tools-redis@5.6.0?classifier=sources
+- pkg:maven/cn.gmlee.tools/tools-redis@5.6.1
+- pkg:maven/cn.gmlee.tools/tools-redis@5.6.1?classifier=sources
+- pkg:maven/cn.gmlee.tools/tools-redis@5.6.2
+- pkg:maven/cn.gmlee.tools/tools-redis@5.6.2?classifier=sources

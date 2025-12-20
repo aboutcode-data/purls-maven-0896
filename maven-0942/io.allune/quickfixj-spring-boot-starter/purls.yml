@@ -33,6 +33,7 @@
 - pkg:maven/io.allune/quickfixj-spring-boot-starter@2.16.4
 - pkg:maven/io.allune/quickfixj-spring-boot-starter@2.17.0
 - pkg:maven/io.allune/quickfixj-spring-boot-starter@2.17.1
+- pkg:maven/io.allune/quickfixj-spring-boot-starter@2.18.0
 - pkg:maven/io.allune/quickfixj-spring-boot-starter@2.2.0
 - pkg:maven/io.allune/quickfixj-spring-boot-starter@2.2.0?classifier=sources
 - pkg:maven/io.allune/quickfixj-spring-boot-starter@2.4.0

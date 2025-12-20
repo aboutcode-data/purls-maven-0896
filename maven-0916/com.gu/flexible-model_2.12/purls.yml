@@ -40,3 +40,5 @@
 - pkg:maven/com.gu/flexible-model_2.12@1.7.2-PREVIEW.timeline-element.2024-03-28T0957.2ec5744c
 - pkg:maven/com.gu/flexible-model_2.12@1.7.2-PREVIEW.timeline-element.2024-03-28T0957.2ec5744c?classifier=sources
 - pkg:maven/com.gu/flexible-model_2.12@1.7.2?classifier=sources
+- pkg:maven/com.gu/flexible-model_2.12@1.7.3
+- pkg:maven/com.gu/flexible-model_2.12@1.7.3?classifier=sources

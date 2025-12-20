@@ -22,6 +22,7 @@
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.2.2
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.2.2?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.2?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.1
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.1?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.2
@@ -32,3 +33,10 @@
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.4?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.5
 - pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.5?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.6
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.6?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.7
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3.7?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.3?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.4
+- pkg:maven/cn.ibizlab.plugin/ibizlab-boot-starter-data@2.6.12.4?classifier=sources

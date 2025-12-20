@@ -21,4 +21,6 @@
 - pkg:maven/com.clickhouse/clickhouse-r2dbc@0.6.0-patch2?classifier=sources
 - pkg:maven/com.clickhouse/clickhouse-r2dbc@0.6.0-patch3
 - pkg:maven/com.clickhouse/clickhouse-r2dbc@0.6.0-patch3?classifier=sources
+- pkg:maven/com.clickhouse/clickhouse-r2dbc@0.6.0-patch4
+- pkg:maven/com.clickhouse/clickhouse-r2dbc@0.6.0-patch4?classifier=sources
 - pkg:maven/com.clickhouse/clickhouse-r2dbc@0.6.0?classifier=sources

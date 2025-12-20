@@ -20,3 +20,4 @@
 - pkg:maven/ru.astrainteractive.gradleplugin/minecraft@0.5.2?classifier=sources
 - pkg:maven/ru.astrainteractive.gradleplugin/minecraft@1.0.0-alpha01?classifier=sources
 - pkg:maven/ru.astrainteractive.gradleplugin/minecraft@1.0.0-alpha02?classifier=sources
+- pkg:maven/ru.astrainteractive.gradleplugin/minecraft@1.0.0-alpha03?classifier=sources

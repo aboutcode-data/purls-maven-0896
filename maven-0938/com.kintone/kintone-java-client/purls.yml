@@ -12,3 +12,5 @@
 - pkg:maven/com.kintone/kintone-java-client@1.4.0?classifier=sources
 - pkg:maven/com.kintone/kintone-java-client@1.4.1?classifier=sources
 - pkg:maven/com.kintone/kintone-java-client@2.0.0?classifier=sources
+- pkg:maven/com.kintone/kintone-java-client@2.1.0?classifier=sources
+- pkg:maven/com.kintone/kintone-java-client@2.2.0?classifier=sources

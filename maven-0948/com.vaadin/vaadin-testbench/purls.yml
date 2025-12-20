@@ -101,12 +101,15 @@
 - pkg:maven/com.vaadin/vaadin-testbench@14.10.9
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.0
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.1
+- pkg:maven/com.vaadin/vaadin-testbench@14.11.10
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.2
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.3
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.4
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.5
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.6
 - pkg:maven/com.vaadin/vaadin-testbench@14.11.7
+- pkg:maven/com.vaadin/vaadin-testbench@14.11.8
+- pkg:maven/com.vaadin/vaadin-testbench@14.11.9
 - pkg:maven/com.vaadin/vaadin-testbench@14.2.0
 - pkg:maven/com.vaadin/vaadin-testbench@14.2.1
 - pkg:maven/com.vaadin/vaadin-testbench@14.2.2
@@ -366,6 +369,8 @@
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.31
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.32
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.33
+- pkg:maven/com.vaadin/vaadin-testbench@23.3.34
+- pkg:maven/com.vaadin/vaadin-testbench@23.3.35
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.4
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.5
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.6
@@ -373,6 +378,9 @@
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.8
 - pkg:maven/com.vaadin/vaadin-testbench@23.3.9
 - pkg:maven/com.vaadin/vaadin-testbench@23.4.0
+- pkg:maven/com.vaadin/vaadin-testbench@23.4.1
+- pkg:maven/com.vaadin/vaadin-testbench@23.5.0
+- pkg:maven/com.vaadin/vaadin-testbench@23.5.1
 - pkg:maven/com.vaadin/vaadin-testbench@24.0.0
 - pkg:maven/com.vaadin/vaadin-testbench@24.0.1
 - pkg:maven/com.vaadin/vaadin-testbench@24.0.10
@@ -420,6 +428,9 @@
 - pkg:maven/com.vaadin/vaadin-testbench@24.2.9
 - pkg:maven/com.vaadin/vaadin-testbench@24.3.0
 - pkg:maven/com.vaadin/vaadin-testbench@24.3.1
+- pkg:maven/com.vaadin/vaadin-testbench@24.3.10
+- pkg:maven/com.vaadin/vaadin-testbench@24.3.11
+- pkg:maven/com.vaadin/vaadin-testbench@24.3.12
 - pkg:maven/com.vaadin/vaadin-testbench@24.3.2
 - pkg:maven/com.vaadin/vaadin-testbench@24.3.3
 - pkg:maven/com.vaadin/vaadin-testbench@24.3.4

@@ -40,3 +40,4 @@
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.4.0.6?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.4.0.7?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.4.0?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.0?classifier=sources

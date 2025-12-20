@@ -38,3 +38,11 @@
 - pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240302-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240310-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240310-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240323-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240323-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240420-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240420-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240427-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240427-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240504-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataform@v1beta1-rev20240504-2.0.0?classifier=sources

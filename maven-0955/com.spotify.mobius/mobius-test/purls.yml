@@ -59,3 +59,4 @@
 - pkg:maven/com.spotify.mobius/mobius-test@1.5.9
 - pkg:maven/com.spotify.mobius/mobius-test@1.5.9?classifier=sources
 - pkg:maven/com.spotify.mobius/mobius-test@2.0.0?classifier=sources
+- pkg:maven/com.spotify.mobius/mobius-test@2.0.2?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/dev.medzik.librepass/client@1.5.0?classifier=sources
 - pkg:maven/dev.medzik.librepass/client@1.6.0
 - pkg:maven/dev.medzik.librepass/client@1.6.0?classifier=sources
+- pkg:maven/dev.medzik.librepass/client@1.6.2
+- pkg:maven/dev.medzik.librepass/client@1.6.2?classifier=sources

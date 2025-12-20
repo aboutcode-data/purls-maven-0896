@@ -12,3 +12,5 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.4.0?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.5.0
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.5.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.6.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.6.0?classifier=sources

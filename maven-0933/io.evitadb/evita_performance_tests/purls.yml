@@ -80,3 +80,9 @@
 - pkg:maven/io.evitadb/evita_performance_tests@2024.5.4?classifier=sources
 - pkg:maven/io.evitadb/evita_performance_tests@2024.5.5
 - pkg:maven/io.evitadb/evita_performance_tests@2024.5.5?classifier=sources
+- pkg:maven/io.evitadb/evita_performance_tests@2024.6.0
+- pkg:maven/io.evitadb/evita_performance_tests@2024.6.0?classifier=sources
+- pkg:maven/io.evitadb/evita_performance_tests@2024.6.1
+- pkg:maven/io.evitadb/evita_performance_tests@2024.6.1?classifier=sources
+- pkg:maven/io.evitadb/evita_performance_tests@2024.6.2
+- pkg:maven/io.evitadb/evita_performance_tests@2024.6.2?classifier=sources

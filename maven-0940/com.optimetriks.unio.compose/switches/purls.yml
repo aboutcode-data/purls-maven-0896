@@ -1,0 +1,5 @@
+- pkg:maven/com.optimetriks.unio.compose/switches@0.0.2?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/switches@0.0.3?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/switches@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/switches@6?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/switches@7?classifier=sources

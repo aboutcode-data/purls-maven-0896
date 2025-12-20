@@ -38,3 +38,7 @@
 - pkg:maven/com.lihaoyi/upickle-implicits_3@3.1.4?classifier=sources
 - pkg:maven/com.lihaoyi/upickle-implicits_3@3.2.0
 - pkg:maven/com.lihaoyi/upickle-implicits_3@3.2.0?classifier=sources
+- pkg:maven/com.lihaoyi/upickle-implicits_3@3.3.0
+- pkg:maven/com.lihaoyi/upickle-implicits_3@3.3.0?classifier=sources
+- pkg:maven/com.lihaoyi/upickle-implicits_3@3.3.1
+- pkg:maven/com.lihaoyi/upickle-implicits_3@3.3.1?classifier=sources

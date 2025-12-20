@@ -1,3 +1,4 @@
 - pkg:maven/org.dx42/Kibosh@0.1.0?classifier=sources
 - pkg:maven/org.dx42/Kibosh@0.1.1?classifier=sources
 - pkg:maven/org.dx42/Kibosh@0.2.0?classifier=sources
+- pkg:maven/org.dx42/Kibosh@0.3.0?classifier=sources

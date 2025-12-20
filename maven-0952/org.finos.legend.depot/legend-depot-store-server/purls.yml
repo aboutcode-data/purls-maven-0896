@@ -304,6 +304,8 @@
 - pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.32.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.32.1
 - pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.32.1?classifier=sources
+- pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.33.0
+- pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.33.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.4.0
 - pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.4.0?classifier=sources
 - pkg:maven/org.finos.legend.depot/legend-depot-store-server@2.5.0

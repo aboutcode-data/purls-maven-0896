@@ -88,3 +88,5 @@
 - pkg:maven/com.influxdb/influxdb-client-core@6.9.0?classifier=sources
 - pkg:maven/com.influxdb/influxdb-client-core@7.0.0
 - pkg:maven/com.influxdb/influxdb-client-core@7.0.0?classifier=sources
+- pkg:maven/com.influxdb/influxdb-client-core@7.1.0
+- pkg:maven/com.influxdb/influxdb-client-core@7.1.0?classifier=sources

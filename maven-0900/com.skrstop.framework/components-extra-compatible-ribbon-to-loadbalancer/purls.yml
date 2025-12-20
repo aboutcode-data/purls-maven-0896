@@ -1,2 +1,4 @@
 - pkg:maven/com.skrstop.framework/components-extra-compatible-ribbon-to-loadbalancer@1.2.1.20231221-RELEASE
 - pkg:maven/com.skrstop.framework/components-extra-compatible-ribbon-to-loadbalancer@1.2.1.20231221-RELEASE?classifier=sources
+- pkg:maven/com.skrstop.framework/components-extra-compatible-ribbon-to-loadbalancer@1.2.2.20240510-RELEASE
+- pkg:maven/com.skrstop.framework/components-extra-compatible-ribbon-to-loadbalancer@1.2.2.20240510-RELEASE?classifier=sources

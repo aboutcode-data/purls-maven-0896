@@ -56,6 +56,12 @@
 - pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.5?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.6
 - pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.6?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.7
+- pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.7?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.8
+- pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.8?classifier=sources
+- pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.9
+- pkg:maven/dk.cloudcreate.essentials/types-jackson@0.40.9?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials/types-jackson@0.5.0
 - pkg:maven/dk.cloudcreate.essentials/types-jackson@0.5.0?classifier=sources
 - pkg:maven/dk.cloudcreate.essentials/types-jackson@0.5.1

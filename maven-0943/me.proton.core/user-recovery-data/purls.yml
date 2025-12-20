@@ -1,3 +1,7 @@
 - pkg:maven/me.proton.core/user-recovery-data@22.1.0?classifier=sources
 - pkg:maven/me.proton.core/user-recovery-data@22.2.0?classifier=sources
 - pkg:maven/me.proton.core/user-recovery-data@23.0.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery-data@23.0.1?classifier=sources
+- pkg:maven/me.proton.core/user-recovery-data@23.1.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery-data@23.2.0?classifier=sources
+- pkg:maven/me.proton.core/user-recovery-data@24.0.0?classifier=sources

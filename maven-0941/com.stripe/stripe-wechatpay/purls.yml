@@ -96,6 +96,11 @@
 - pkg:maven/com.stripe/stripe-wechatpay@20.40.2?classifier=sources
 - pkg:maven/com.stripe/stripe-wechatpay@20.40.3?classifier=sources
 - pkg:maven/com.stripe/stripe-wechatpay@20.40.4?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@20.41.0?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@20.41.1?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@20.42.0?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@20.43.0?classifier=sources
+- pkg:maven/com.stripe/stripe-wechatpay@20.44.0?classifier=sources
 - pkg:maven/com.stripe/stripe-wechatpay@20.5.0?classifier=sources
 - pkg:maven/com.stripe/stripe-wechatpay@20.6.1?classifier=sources
 - pkg:maven/com.stripe/stripe-wechatpay@20.6.2?classifier=sources

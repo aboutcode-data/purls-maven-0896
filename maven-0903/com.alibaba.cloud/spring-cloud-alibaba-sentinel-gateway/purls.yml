@@ -76,3 +76,5 @@
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2022.0.0.0?classifier=sources
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2023.0.0.0-RC1
 - pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2023.0.0.0-RC1?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2023.0.1.0
+- pkg:maven/com.alibaba.cloud/spring-cloud-alibaba-sentinel-gateway@2023.0.1.0?classifier=sources

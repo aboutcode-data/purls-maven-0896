@@ -38,6 +38,7 @@
 - pkg:maven/com.juul.kable/core@0.3.0?classifier=sources
 - pkg:maven/com.juul.kable/core@0.30.0?classifier=sources
 - pkg:maven/com.juul.kable/core@0.31.0?classifier=sources
+- pkg:maven/com.juul.kable/core@0.31.1?classifier=sources
 - pkg:maven/com.juul.kable/core@0.4.1?classifier=sources
 - pkg:maven/com.juul.kable/core@0.5.0?classifier=sources
 - pkg:maven/com.juul.kable/core@0.5.1?classifier=sources

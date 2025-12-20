@@ -74,3 +74,5 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2024.6.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2024.7.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2024.7.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2024.7.1
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2024.7.1?classifier=sources

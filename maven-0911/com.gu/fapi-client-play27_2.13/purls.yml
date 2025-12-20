@@ -100,3 +100,5 @@
 - pkg:maven/com.gu/fapi-client-play27_2.13@6.0.0-PREVIEW.dbtest-content-api-client-prew-version-bump.2024-03-27T1128.53de8b71
 - pkg:maven/com.gu/fapi-client-play27_2.13@6.0.0-PREVIEW.dbtest-content-api-client-prew-version-bump.2024-03-27T1128.53de8b71?classifier=sources
 - pkg:maven/com.gu/fapi-client-play27_2.13@6.0.0?classifier=sources
+- pkg:maven/com.gu/fapi-client-play27_2.13@7.0.0
+- pkg:maven/com.gu/fapi-client-play27_2.13@7.0.0?classifier=sources

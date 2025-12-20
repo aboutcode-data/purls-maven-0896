@@ -37,8 +37,12 @@
 - pkg:maven/io.quarkus.code/code-quarkus@27?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@28
 - pkg:maven/io.quarkus.code/code-quarkus@28?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus@29
+- pkg:maven/io.quarkus.code/code-quarkus@29?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@2?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@3
+- pkg:maven/io.quarkus.code/code-quarkus@30
+- pkg:maven/io.quarkus.code/code-quarkus@30?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@3?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@4
 - pkg:maven/io.quarkus.code/code-quarkus@4?classifier=sources

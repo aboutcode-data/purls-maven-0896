@@ -1,0 +1,5 @@
+- pkg:maven/com.instabug.library/instabug-compiler-extension@1.9.10.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compiler-extension@1.9.20.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compiler-extension@1.9.21.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compiler-extension@1.9.22.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compiler-extension@1.9.23.0?classifier=sources

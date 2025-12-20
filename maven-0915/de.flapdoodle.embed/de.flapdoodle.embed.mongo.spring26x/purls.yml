@@ -24,6 +24,8 @@
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.12.3?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.12.6
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.12.6?classifier=sources
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.13.0
+- pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.13.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.3.0
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.3.0?classifier=sources
 - pkg:maven/de.flapdoodle.embed/de.flapdoodle.embed.mongo.spring26x@4.3.2

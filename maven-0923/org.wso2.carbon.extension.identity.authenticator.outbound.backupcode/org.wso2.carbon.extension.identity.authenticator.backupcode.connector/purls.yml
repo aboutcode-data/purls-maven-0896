@@ -6,6 +6,8 @@
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.12?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.13
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.13?classifier=sources
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.20
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.20?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.4
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.4?classifier=sources
 - pkg:maven/org.wso2.carbon.extension.identity.authenticator.outbound.backupcode/org.wso2.carbon.extension.identity.authenticator.backupcode.connector@0.0.5

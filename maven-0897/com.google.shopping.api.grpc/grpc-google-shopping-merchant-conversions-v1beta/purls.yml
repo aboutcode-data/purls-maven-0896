@@ -1,0 +1,6 @@
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-conversions-v1beta@0.1.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-conversions-v1beta@0.1.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-conversions-v1beta@0.2.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-conversions-v1beta@0.2.0?classifier=sources
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-conversions-v1beta@0.3.0
+- pkg:maven/com.google.shopping.api.grpc/grpc-google-shopping-merchant-conversions-v1beta@0.3.0?classifier=sources

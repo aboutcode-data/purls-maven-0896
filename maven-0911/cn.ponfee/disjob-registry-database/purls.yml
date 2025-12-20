@@ -1,3 +1,5 @@
+- pkg:maven/cn.ponfee/disjob-registry-database@2.0.10
+- pkg:maven/cn.ponfee/disjob-registry-database@2.0.10?classifier=sources
 - pkg:maven/cn.ponfee/disjob-registry-database@2.0.3
 - pkg:maven/cn.ponfee/disjob-registry-database@2.0.3?classifier=sources
 - pkg:maven/cn.ponfee/disjob-registry-database@2.0.4
@@ -12,3 +14,5 @@
 - pkg:maven/cn.ponfee/disjob-registry-database@2.0.8?classifier=sources
 - pkg:maven/cn.ponfee/disjob-registry-database@2.0.9
 - pkg:maven/cn.ponfee/disjob-registry-database@2.0.9?classifier=sources
+- pkg:maven/cn.ponfee/disjob-registry-database@2.1.0
+- pkg:maven/cn.ponfee/disjob-registry-database@2.1.0?classifier=sources

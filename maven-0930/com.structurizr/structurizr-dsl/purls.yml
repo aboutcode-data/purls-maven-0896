@@ -53,3 +53,4 @@
 - pkg:maven/com.structurizr/structurizr-dsl@2.0.0?classifier=sources
 - pkg:maven/com.structurizr/structurizr-dsl@2.1.0?classifier=sources
 - pkg:maven/com.structurizr/structurizr-dsl@2.1.1?classifier=sources
+- pkg:maven/com.structurizr/structurizr-dsl@2.1.2?classifier=sources
