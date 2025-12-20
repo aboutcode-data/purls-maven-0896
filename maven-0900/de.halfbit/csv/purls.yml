@@ -1,4 +1,6 @@
 - pkg:maven/de.halfbit/csv@0.10?classifier=sources
+- pkg:maven/de.halfbit/csv@0.11?classifier=sources
+- pkg:maven/de.halfbit/csv@0.12?classifier=sources
 - pkg:maven/de.halfbit/csv@0.2?classifier=sources
 - pkg:maven/de.halfbit/csv@0.3?classifier=sources
 - pkg:maven/de.halfbit/csv@0.4?classifier=sources

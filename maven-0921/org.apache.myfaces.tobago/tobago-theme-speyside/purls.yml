@@ -170,6 +170,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.1?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.2
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.2?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.3
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.3?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@3.0.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@3.0.0-alpha-1
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@3.0.0-alpha-1?classifier=sources
@@ -250,6 +252,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.11.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.12.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.12.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.13.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.13.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.2.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.2.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@5.3.0
@@ -284,3 +288,5 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@6.3.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@6.4.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@6.4.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@6.5.0
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@6.5.0?classifier=sources

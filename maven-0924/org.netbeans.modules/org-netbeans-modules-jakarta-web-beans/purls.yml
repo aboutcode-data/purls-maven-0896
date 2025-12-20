@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-web-beans@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-web-beans@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-web-beans@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-jakarta-web-beans@RELEASE230?classifier=sources

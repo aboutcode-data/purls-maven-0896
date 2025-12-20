@@ -68,6 +68,10 @@
 - pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.19.0?classifier=sources
 - pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.19.1
 - pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.19.1?classifier=sources
+- pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.19.2
+- pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.19.2?classifier=sources
+- pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.19.3
+- pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.19.3?classifier=sources
 - pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.8.0
 - pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.8.0?classifier=sources
 - pkg:maven/org.occurrent/mongodb-spring-sort-conversion@0.9.0

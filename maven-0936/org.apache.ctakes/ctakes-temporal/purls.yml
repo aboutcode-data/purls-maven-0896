@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-temporal@4.0.0?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-temporal@5.1.0
 - pkg:maven/org.apache.ctakes/ctakes-temporal@5.1.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-temporal@6.0.0
+- pkg:maven/org.apache.ctakes/ctakes-temporal@6.0.0?classifier=sources

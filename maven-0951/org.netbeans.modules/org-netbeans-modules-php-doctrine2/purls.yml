@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE230?classifier=sources

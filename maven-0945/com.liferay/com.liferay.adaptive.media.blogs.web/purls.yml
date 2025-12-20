@@ -168,6 +168,7 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.blogs.web@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.blogs.web@5.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.blogs.web@5.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.blogs.web@5.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.blogs.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.blogs.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.blogs.web@5.0.2

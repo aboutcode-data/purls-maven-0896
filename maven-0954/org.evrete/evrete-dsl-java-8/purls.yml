@@ -3,3 +3,5 @@
 - pkg:maven/org.evrete/evrete-dsl-java-8@3.2.02?classifier=sources
 - pkg:maven/org.evrete/evrete-dsl-java-8@4.0.0?classifier=sources
 - pkg:maven/org.evrete/evrete-dsl-java-8@4.0.1?classifier=sources
+- pkg:maven/org.evrete/evrete-dsl-java-8@4.0.2?classifier=sources
+- pkg:maven/org.evrete/evrete-dsl-java-8@4.0.3?classifier=sources

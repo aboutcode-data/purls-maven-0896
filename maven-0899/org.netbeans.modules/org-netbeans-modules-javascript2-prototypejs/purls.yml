@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-prototypejs@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-prototypejs@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-prototypejs@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-prototypejs@RELEASE230?classifier=sources

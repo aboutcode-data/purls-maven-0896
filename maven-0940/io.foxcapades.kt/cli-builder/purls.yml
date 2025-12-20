@@ -1,0 +1,17 @@
+- pkg:maven/io.foxcapades.kt/cli-builder@0.1.0?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.2.0?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.3.0?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.4.0?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.6.0?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.7.0?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.7.1?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.7.2?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.7.3?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.7.4?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.7.5?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.8.0?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.8.1?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.8.2?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.8.3?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.8.4?classifier=sources
+- pkg:maven/io.foxcapades.kt/cli-builder@0.8.5?classifier=sources

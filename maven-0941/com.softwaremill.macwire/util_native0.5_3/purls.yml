@@ -1,0 +1,4 @@
+- pkg:maven/com.softwaremill.macwire/util_native0.5_3@2.6.1
+- pkg:maven/com.softwaremill.macwire/util_native0.5_3@2.6.1?classifier=sources
+- pkg:maven/com.softwaremill.macwire/util_native0.5_3@2.6.2
+- pkg:maven/com.softwaremill.macwire/util_native0.5_3@2.6.2?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.github.adven27/env-db-elastic@5.0.2?classifier=sources
 - pkg:maven/io.github.adven27/env-db-elastic@5.1.0?classifier=sources
 - pkg:maven/io.github.adven27/env-db-elastic@5.1.1?classifier=sources
+- pkg:maven/io.github.adven27/env-db-elastic@5.2.0?classifier=sources

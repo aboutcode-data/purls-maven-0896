@@ -22,4 +22,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mercurial@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mercurial@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mercurial@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-mercurial@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-mercurial@RELEASE90?classifier=sources

@@ -28,6 +28,8 @@
 - pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.21.2?classifier=sources
 - pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.22.0
 - pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.22.0?classifier=sources
+- pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.23.0
+- pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.23.0?classifier=sources
 - pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.7.0
 - pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.7.0?classifier=sources
 - pkg:maven/org.neo4j.community/neo4j-slf4j-it@5.8.0

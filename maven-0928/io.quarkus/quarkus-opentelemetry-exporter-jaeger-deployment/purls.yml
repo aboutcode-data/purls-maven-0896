@@ -297,6 +297,7 @@
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger-deployment@3.8.3
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger-deployment@3.8.4
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger-deployment@3.8.5
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger-deployment@3.8.6
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger-deployment@3.9.0
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger-deployment@3.9.0.CR1
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger-deployment@3.9.0.CR2

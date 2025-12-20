@@ -66,3 +66,9 @@
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.8-2022.0.x?classifier=sources
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.8-2023.0.x
 - pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.8-2023.0.x?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.9-2021.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.9-2021.0.x?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.9-2022.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.9-2022.0.x?classifier=sources
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.9-2023.0.x
+- pkg:maven/com.huaweicloud/spring-cloud-huawei-router@1.11.9-2023.0.x?classifier=sources

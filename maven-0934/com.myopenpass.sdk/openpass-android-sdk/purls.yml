@@ -5,3 +5,5 @@
 - pkg:maven/com.myopenpass.sdk/openpass-android-sdk@2.1.0?classifier=sources
 - pkg:maven/com.myopenpass.sdk/openpass-android-sdk@2.2.0?classifier=sources
 - pkg:maven/com.myopenpass.sdk/openpass-android-sdk@2.3.0?classifier=sources
+- pkg:maven/com.myopenpass.sdk/openpass-android-sdk@2.4.0?classifier=sources
+- pkg:maven/com.myopenpass.sdk/openpass-android-sdk@2.4.1?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.wso2.carbon.identity.workflow.template.multisteps/identity-workflow-template-multisteps@5.4.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.workflow.template.multisteps/identity-workflow-template-multisteps@5.4.3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.workflow.template.multisteps/identity-workflow-template-multisteps@5.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.workflow.template.multisteps/identity-workflow-template-multisteps@5.5.3?classifier=source-release&type=zip

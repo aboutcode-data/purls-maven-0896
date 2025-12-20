@@ -26,3 +26,5 @@
 - pkg:maven/io.joynr.android.common/infrastructure-common@1.24.0?classifier=sources
 - pkg:maven/io.joynr.android.common/infrastructure-common@1.24.2
 - pkg:maven/io.joynr.android.common/infrastructure-common@1.24.2?classifier=sources
+- pkg:maven/io.joynr.android.common/infrastructure-common@1.25.0
+- pkg:maven/io.joynr.android.common/infrastructure-common@1.25.0?classifier=sources

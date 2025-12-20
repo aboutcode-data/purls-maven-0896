@@ -1,3 +1,4 @@
+- pkg:maven/org.opencadc/cadc-vodml@1.0.10?classifier=sources
 - pkg:maven/org.opencadc/cadc-vodml@1.0.7?classifier=sources
 - pkg:maven/org.opencadc/cadc-vodml@1.0.8?classifier=sources
 - pkg:maven/org.opencadc/cadc-vodml@1.0.9?classifier=sources

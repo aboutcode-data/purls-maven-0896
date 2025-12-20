@@ -121,5 +121,8 @@
 - pkg:maven/com.pulumi/command@1.0.0?classifier=sources
 - pkg:maven/com.pulumi/command@1.1.0-alpha.1720683853?classifier=sources
 - pkg:maven/com.pulumi/command@1.1.0-alpha.1722938629?classifier=sources
+- pkg:maven/com.pulumi/command@1.1.0-alpha.1724929079?classifier=sources
+- pkg:maven/com.pulumi/command@1.1.0-alpha.1726596324?classifier=sources
+- pkg:maven/com.pulumi/command@1.1.0-alpha.1726596437?classifier=sources
 - pkg:maven/com.pulumi/command@4.5.0?classifier=sources
 - pkg:maven/com.pulumi/command@4.6.0-alpha.1662390243%2B5c22c9dd?classifier=sources

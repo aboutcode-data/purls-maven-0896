@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jquery@RELEASE230?classifier=sources

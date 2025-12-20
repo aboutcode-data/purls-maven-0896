@@ -82,3 +82,4 @@
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.api@5.0.7
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.api@5.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.asset.categories.navigation.api@5.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.asset.categories.navigation.api@5.0.9?classifier=sources

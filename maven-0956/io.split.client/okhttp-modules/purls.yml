@@ -1,0 +1,4 @@
+- pkg:maven/io.split.client/okhttp-modules@4.13.0
+- pkg:maven/io.split.client/okhttp-modules@4.13.0-rc3
+- pkg:maven/io.split.client/okhttp-modules@4.13.0-rc3?classifier=sources
+- pkg:maven/io.split.client/okhttp-modules@4.13.0?classifier=sources

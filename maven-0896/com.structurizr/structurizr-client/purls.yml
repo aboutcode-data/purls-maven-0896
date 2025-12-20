@@ -132,3 +132,4 @@
 - pkg:maven/com.structurizr/structurizr-client@2.1.3?classifier=sources
 - pkg:maven/com.structurizr/structurizr-client@2.1.4?classifier=sources
 - pkg:maven/com.structurizr/structurizr-client@2.2.0?classifier=sources
+- pkg:maven/com.structurizr/structurizr-client@3.0.0?classifier=sources

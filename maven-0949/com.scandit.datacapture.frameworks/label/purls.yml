@@ -1,3 +1,7 @@
 - pkg:maven/com.scandit.datacapture.frameworks/label@6.26.0-beta.1?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@6.26.0-beta.2?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@6.26.0?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@6.27.0?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@6.27.1?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@6.27.2?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@6.28.0-beta.1?classifier=sources

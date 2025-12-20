@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-utils@4.0.0?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-utils@5.1.0
 - pkg:maven/org.apache.ctakes/ctakes-utils@5.1.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-utils@6.0.0
+- pkg:maven/org.apache.ctakes/ctakes-utils@6.0.0?classifier=sources

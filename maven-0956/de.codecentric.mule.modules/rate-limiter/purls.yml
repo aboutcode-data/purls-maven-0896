@@ -4,3 +4,5 @@
 - pkg:maven/de.codecentric.mule.modules/rate-limiter@1.0.6?classifier=sources
 - pkg:maven/de.codecentric.mule.modules/rate-limiter@1.0.7?classifier=sources
 - pkg:maven/de.codecentric.mule.modules/rate-limiter@1.1.0?classifier=sources
+- pkg:maven/de.codecentric.mule.modules/rate-limiter@1.2.0?classifier=sources
+- pkg:maven/de.codecentric.mule.modules/rate-limiter@1.2.1?classifier=sources

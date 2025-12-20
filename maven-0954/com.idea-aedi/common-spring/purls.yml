@@ -84,6 +84,14 @@
 - pkg:maven/com.idea-aedi/common-spring@2100.10.2.LTS17?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@2100.10.2.LTS8
 - pkg:maven/com.idea-aedi/common-spring@2100.10.2.LTS8?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.10.3.LTS17
+- pkg:maven/com.idea-aedi/common-spring@2100.10.3.LTS17?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.10.3.LTS8
+- pkg:maven/com.idea-aedi/common-spring@2100.10.3.LTS8?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.10.4.LTS17
+- pkg:maven/com.idea-aedi/common-spring@2100.10.4.LTS17?classifier=sources
+- pkg:maven/com.idea-aedi/common-spring@2100.10.4.LTS8
+- pkg:maven/com.idea-aedi/common-spring@2100.10.4.LTS8?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@2100.3.3
 - pkg:maven/com.idea-aedi/common-spring@2100.3.3?classifier=sources
 - pkg:maven/com.idea-aedi/common-spring@2100.3.4

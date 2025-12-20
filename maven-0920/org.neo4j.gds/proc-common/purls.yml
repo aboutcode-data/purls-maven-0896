@@ -170,3 +170,4 @@
 - pkg:maven/org.neo4j.gds/proc-common@2.7.0-alpha03?classifier=sources
 - pkg:maven/org.neo4j.gds/proc-common@2.7.0?classifier=sources
 - pkg:maven/org.neo4j.gds/proc-common@2.8.0?classifier=sources
+- pkg:maven/org.neo4j.gds/proc-common@2.9.0?classifier=sources

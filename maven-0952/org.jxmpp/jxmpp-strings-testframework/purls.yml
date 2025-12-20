@@ -5,3 +5,4 @@
 - pkg:maven/org.jxmpp/jxmpp-strings-testframework@1.0.3?classifier=sources
 - pkg:maven/org.jxmpp/jxmpp-strings-testframework@1.1.0-alpha1?classifier=sources
 - pkg:maven/org.jxmpp/jxmpp-strings-testframework@1.1.0-alpha2?classifier=sources
+- pkg:maven/org.jxmpp/jxmpp-strings-testframework@1.1.0-beta1?classifier=sources

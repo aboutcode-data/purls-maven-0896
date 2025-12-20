@@ -210,3 +210,5 @@
 - pkg:maven/org.camunda.spin/camunda-spin-core@7.22.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.spin/camunda-spin-core@7.22.0-alpha4
 - pkg:maven/org.camunda.spin/camunda-spin-core@7.22.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.spin/camunda-spin-core@7.22.0-alpha5
+- pkg:maven/org.camunda.spin/camunda-spin-core@7.22.0-alpha5?classifier=sources

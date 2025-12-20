@@ -30,3 +30,5 @@
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.40.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.41.0
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.41.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.42.0
+- pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.42.0?classifier=sources

@@ -111,3 +111,5 @@
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.47.7?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.47.8?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.47.9?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.48.0?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-pdfjs-js@0.48.1?classifier=sources

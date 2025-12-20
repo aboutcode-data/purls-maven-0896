@@ -3,3 +3,4 @@
 - pkg:maven/pro.streem.pbandk/pbandk-runtime-iossimulatorarm64@0.14.2?classifier=sources
 - pkg:maven/pro.streem.pbandk/pbandk-runtime-iossimulatorarm64@0.14.3?classifier=sources
 - pkg:maven/pro.streem.pbandk/pbandk-runtime-iossimulatorarm64@0.15.0?classifier=sources
+- pkg:maven/pro.streem.pbandk/pbandk-runtime-iossimulatorarm64@0.16.0?classifier=sources

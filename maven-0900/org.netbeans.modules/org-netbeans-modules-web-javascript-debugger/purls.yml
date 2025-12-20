@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-javascript-debugger@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-javascript-debugger@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-javascript-debugger@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-javascript-debugger@RELEASE230?classifier=sources

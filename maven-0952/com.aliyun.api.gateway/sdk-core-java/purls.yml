@@ -18,3 +18,5 @@
 - pkg:maven/com.aliyun.api.gateway/sdk-core-java@1.1.8?classifier=sources
 - pkg:maven/com.aliyun.api.gateway/sdk-core-java@1.1.9
 - pkg:maven/com.aliyun.api.gateway/sdk-core-java@1.1.9?classifier=sources
+- pkg:maven/com.aliyun.api.gateway/sdk-core-java@1.2.0
+- pkg:maven/com.aliyun.api.gateway/sdk-core-java@1.2.0?classifier=sources

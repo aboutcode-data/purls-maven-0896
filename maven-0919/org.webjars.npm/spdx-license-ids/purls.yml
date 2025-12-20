@@ -37,6 +37,7 @@
 - pkg:maven/org.webjars.npm/spdx-license-ids@3.0.17?classifier=sources
 - pkg:maven/org.webjars.npm/spdx-license-ids@3.0.1?classifier=sources
 - pkg:maven/org.webjars.npm/spdx-license-ids@3.0.2
+- pkg:maven/org.webjars.npm/spdx-license-ids@3.0.20
 - pkg:maven/org.webjars.npm/spdx-license-ids@3.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/spdx-license-ids@3.0.3
 - pkg:maven/org.webjars.npm/spdx-license-ids@3.0.3?classifier=sources

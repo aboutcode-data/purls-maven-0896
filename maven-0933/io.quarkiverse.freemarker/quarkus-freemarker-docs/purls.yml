@@ -4,3 +4,5 @@
 - pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-docs@1.0.0.Alpha2
 - pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-docs@1.0.0.Alpha2?classifier=sources
 - pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-docs@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-docs@1.1.0
+- pkg:maven/io.quarkiverse.freemarker/quarkus-freemarker-docs@1.1.0?classifier=sources

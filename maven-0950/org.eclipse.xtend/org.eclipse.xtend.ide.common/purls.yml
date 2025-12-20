@@ -179,6 +179,7 @@
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.36.0.M1?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.36.0.M2?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.36.0.M3?classifier=sources
+- pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.36.0?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.8.0
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.8.0?classifier=sources
 - pkg:maven/org.eclipse.xtend/org.eclipse.xtend.ide.common@2.8.1

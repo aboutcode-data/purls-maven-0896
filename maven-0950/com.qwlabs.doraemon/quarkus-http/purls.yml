@@ -66,3 +66,8 @@
 - pkg:maven/com.qwlabs.doraemon/quarkus-http@0.2.351?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-http@0.2.352?classifier=sources
 - pkg:maven/com.qwlabs.doraemon/quarkus-http@0.2.354?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-http@0.3.0?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-http@0.3.22?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-http@0.3.24?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-http@0.3.25?classifier=sources
+- pkg:maven/com.qwlabs.doraemon/quarkus-http@0.3.26?classifier=sources

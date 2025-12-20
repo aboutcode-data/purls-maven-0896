@@ -1,0 +1,4 @@
+- pkg:maven/com.quasiris.qsf.solr/qsf-integration-solr@7.0
+- pkg:maven/com.quasiris.qsf.solr/qsf-integration-solr@7.0?classifier=sources
+- pkg:maven/com.quasiris.qsf.solr/qsf-integration-solr@7.1
+- pkg:maven/com.quasiris.qsf.solr/qsf-integration-solr@7.1?classifier=sources

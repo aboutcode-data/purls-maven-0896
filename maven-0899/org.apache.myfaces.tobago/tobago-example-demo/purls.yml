@@ -148,6 +148,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@2.5.1?type=war
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@2.5.2?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@2.5.2?type=war
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@2.5.3?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@2.5.3?type=war
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@3.0.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@3.0.0-alpha-1?type=war
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@3.0.0-alpha-2?classifier=sources
@@ -221,6 +223,7 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.10.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.11.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.12.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.13.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.2.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.3.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@5.4.0?classifier=sources
@@ -238,3 +241,4 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@6.2.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@6.3.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@6.4.0?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-example-demo@6.5.0?classifier=sources

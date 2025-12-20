@@ -1,2 +1,4 @@
 - pkg:maven/io.helidon.metadata/helidon-metadata-hson@4.1.0
 - pkg:maven/io.helidon.metadata/helidon-metadata-hson@4.1.0?classifier=sources
+- pkg:maven/io.helidon.metadata/helidon-metadata-hson@4.1.1
+- pkg:maven/io.helidon.metadata/helidon-metadata-hson@4.1.1?classifier=sources

@@ -38,7 +38,13 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@27.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@28.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@29.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@29.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@30.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@31.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@32.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@32.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@5.1.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/dev.arbjerg/lavalink-client@2.4.0?classifier=sources
 - pkg:maven/dev.arbjerg/lavalink-client@2.4.1?classifier=sources
 - pkg:maven/dev.arbjerg/lavalink-client@3.0.0?classifier=sources
+- pkg:maven/dev.arbjerg/lavalink-client@3.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.graalvm.shadowed/jcodings@24.1.0
+- pkg:maven/org.graalvm.shadowed/jcodings@24.1.0?classifier=sources

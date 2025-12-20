@@ -8,3 +8,7 @@
 - pkg:maven/org.nasdanika.core/http@2024.7.0?classifier=sources
 - pkg:maven/org.nasdanika.core/http@2024.7.1
 - pkg:maven/org.nasdanika.core/http@2024.7.1?classifier=sources
+- pkg:maven/org.nasdanika.core/http@2024.8.0
+- pkg:maven/org.nasdanika.core/http@2024.8.0?classifier=sources
+- pkg:maven/org.nasdanika.core/http@2024.9.0
+- pkg:maven/org.nasdanika.core/http@2024.9.0?classifier=sources

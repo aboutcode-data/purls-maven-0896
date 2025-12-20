@@ -1,2 +1,3 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-collections-immutable-androidnativearm32@0.3.6?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-collections-immutable-androidnativearm32@0.3.7?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-collections-immutable-androidnativearm32@0.3.8?classifier=sources

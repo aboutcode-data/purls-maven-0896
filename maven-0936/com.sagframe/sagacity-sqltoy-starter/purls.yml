@@ -1337,6 +1337,10 @@
 - pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.105?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.106
 - pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.106?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.107
+- pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.107?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.108
+- pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.108?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.10?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.11
 - pkg:maven/com.sagframe/sagacity-sqltoy-starter@5.2.11.RC1

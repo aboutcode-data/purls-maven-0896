@@ -5,3 +5,4 @@
 - pkg:maven/com.jzbrooks/vgo-plugin@2.0.2?classifier=sources
 - pkg:maven/com.jzbrooks/vgo-plugin@2.1.0?classifier=sources
 - pkg:maven/com.jzbrooks/vgo-plugin@2.2.0?classifier=sources
+- pkg:maven/com.jzbrooks/vgo-plugin@2.2.1?classifier=sources

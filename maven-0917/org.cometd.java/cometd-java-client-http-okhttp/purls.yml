@@ -29,6 +29,8 @@
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.2
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.20
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.20?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.21
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.21?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.2?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.3
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@5.0.3?classifier=sources
@@ -61,6 +63,8 @@
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.15?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.16
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.16?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.17
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.17?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.1?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.2
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@6.0.2?classifier=sources
@@ -95,6 +99,8 @@
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.15?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.16
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.16?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.17
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.17?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.1?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.2
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.2?classifier=sources
@@ -128,3 +134,5 @@
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.3?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.4
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.4?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.5
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.5?classifier=sources

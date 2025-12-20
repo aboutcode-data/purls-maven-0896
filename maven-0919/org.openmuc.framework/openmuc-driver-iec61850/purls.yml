@@ -13,3 +13,4 @@
 - pkg:maven/org.openmuc.framework/openmuc-driver-iec61850@0.19.0?classifier=sources
 - pkg:maven/org.openmuc.framework/openmuc-driver-iec61850@0.19.1?classifier=sources
 - pkg:maven/org.openmuc.framework/openmuc-driver-iec61850@0.19.2?classifier=sources
+- pkg:maven/org.openmuc.framework/openmuc-driver-iec61850@0.20.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.manifoldcf/mcf-opensearchserver-connector@2.26
+- pkg:maven/org.apache.manifoldcf/mcf-opensearchserver-connector@2.26?classifier=sources

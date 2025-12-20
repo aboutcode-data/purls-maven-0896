@@ -1,0 +1,4 @@
+- pkg:maven/org.projectnessie.nessie/nessie-quarkus-secrets@0.96.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-quarkus-secrets@0.96.1?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-quarkus-secrets@0.97.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-quarkus-secrets@0.97.1?classifier=sources

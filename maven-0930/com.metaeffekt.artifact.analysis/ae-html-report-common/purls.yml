@@ -28,5 +28,17 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.113.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.114.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.114.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.115.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.115.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.116.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.116.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.117.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.117.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.118.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.118.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.119.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.119.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.120.0
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.120.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.99.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report-common@0.99.0?classifier=sources

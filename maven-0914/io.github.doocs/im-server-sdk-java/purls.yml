@@ -153,4 +153,6 @@
 - pkg:maven/io.github.doocs/im-server-sdk-java@0.4.05?classifier=sources
 - pkg:maven/io.github.doocs/im-server-sdk-java@0.4.06
 - pkg:maven/io.github.doocs/im-server-sdk-java@0.4.06?classifier=sources
+- pkg:maven/io.github.doocs/im-server-sdk-java@0.4.07
+- pkg:maven/io.github.doocs/im-server-sdk-java@0.4.07?classifier=sources
 - pkg:maven/io.github.doocs/im-server-sdk-java@0.4.0?classifier=sources

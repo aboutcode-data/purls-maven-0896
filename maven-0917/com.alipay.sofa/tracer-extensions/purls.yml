@@ -82,5 +82,7 @@
 - pkg:maven/com.alipay.sofa/tracer-extensions@3.1.4?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-extensions@3.1.5
 - pkg:maven/com.alipay.sofa/tracer-extensions@3.1.5?classifier=sources
+- pkg:maven/com.alipay.sofa/tracer-extensions@3.1.6
+- pkg:maven/com.alipay.sofa/tracer-extensions@3.1.6?classifier=sources
 - pkg:maven/com.alipay.sofa/tracer-extensions@4.0.0
 - pkg:maven/com.alipay.sofa/tracer-extensions@4.0.0?classifier=sources

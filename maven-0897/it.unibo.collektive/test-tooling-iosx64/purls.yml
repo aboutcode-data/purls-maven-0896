@@ -1,0 +1,4 @@
+- pkg:maven/it.unibo.collektive/test-tooling-iosx64@10.2.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling-iosx64@10.3.0?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling-iosx64@10.3.1?classifier=sources
+- pkg:maven/it.unibo.collektive/test-tooling-iosx64@10.3.2?classifier=sources

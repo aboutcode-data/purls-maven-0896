@@ -12,3 +12,6 @@
 - pkg:maven/io.trtc.uikit/rtc_room_engine@2.4.1.78?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@2.5.0.69?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@2.5.1.96?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@2.5.2.2?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@2.5.3.3?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@2.6.0.63?classifier=sources

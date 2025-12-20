@@ -420,6 +420,10 @@
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.3.9?classifier=sources
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.0
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.0?classifier=sources
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.10
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.10?classifier=sources
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.11
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.11?classifier=sources
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.3
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.3?classifier=sources
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.4
@@ -432,6 +436,10 @@
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.7?classifier=sources
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.8
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.8?classifier=sources
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.9
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.30.9?classifier=sources
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.31.1
+- pkg:maven/software.amazon.awssdk.crt/aws-crt@0.31.1?classifier=sources
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.4.1
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.4.10
 - pkg:maven/software.amazon.awssdk.crt/aws-crt@0.4.10?classifier=sources

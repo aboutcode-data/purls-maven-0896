@@ -1,0 +1,7 @@
+- pkg:maven/io.2060.dashboard/dashboard-sdk@0.0.1?classifier=sources
+- pkg:maven/io.2060.dashboard/dashboard-sdk@0.0.3?classifier=sources
+- pkg:maven/io.2060.dashboard/dashboard-sdk@fix-project-version-20240826171331?classifier=sources
+- pkg:maven/io.2060.dashboard/dashboard-sdk@fix-version-20240826161939?classifier=sources
+- pkg:maven/io.2060.dashboard/dashboard-sdk@main-20240826164024?classifier=sources
+- pkg:maven/io.2060.dashboard/dashboard-sdk@main-20240826190705?classifier=sources
+- pkg:maven/io.2060.dashboard/dashboard-sdk@main-20240910163955?classifier=sources

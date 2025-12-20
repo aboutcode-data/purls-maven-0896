@@ -42,3 +42,5 @@
 - pkg:maven/org.kurento/kurento-module-creator@6.9.0?classifier=sources
 - pkg:maven/org.kurento/kurento-module-creator@7.0.0
 - pkg:maven/org.kurento/kurento-module-creator@7.0.0?classifier=sources
+- pkg:maven/org.kurento/kurento-module-creator@7.1.0
+- pkg:maven/org.kurento/kurento-module-creator@7.1.0?classifier=sources

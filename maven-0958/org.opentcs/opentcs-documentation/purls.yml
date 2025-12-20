@@ -21,3 +21,6 @@
 - pkg:maven/org.opentcs/opentcs-documentation@5.8.2?classifier=sources
 - pkg:maven/org.opentcs/opentcs-documentation@5.9.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-documentation@6.0.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-documentation@6.1.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-documentation@6.1.1?classifier=sources
+- pkg:maven/org.opentcs/opentcs-documentation@6.1.2?classifier=sources

@@ -1568,6 +1568,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.14
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.140?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.15

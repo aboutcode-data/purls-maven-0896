@@ -66,3 +66,5 @@
 - pkg:maven/org.tpolecat/doobie-postgres-circe_2.13@1.0.0-RC4?classifier=sources
 - pkg:maven/org.tpolecat/doobie-postgres-circe_2.13@1.0.0-RC5
 - pkg:maven/org.tpolecat/doobie-postgres-circe_2.13@1.0.0-RC5?classifier=sources
+- pkg:maven/org.tpolecat/doobie-postgres-circe_2.13@1.0.0-RC6
+- pkg:maven/org.tpolecat/doobie-postgres-circe_2.13@1.0.0-RC6?classifier=sources

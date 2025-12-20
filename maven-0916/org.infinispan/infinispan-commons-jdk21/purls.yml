@@ -36,7 +36,11 @@
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.6.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.7.Final
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.7.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.8.Final
+- pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.8.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.1.0.Dev01
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.1.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.1.0.Dev02
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.1.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-commons-jdk21@15.1.0.Dev03
+- pkg:maven/org.infinispan/infinispan-commons-jdk21@15.1.0.Dev03?classifier=sources

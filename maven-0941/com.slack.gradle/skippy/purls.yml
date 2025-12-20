@@ -28,3 +28,8 @@
 - pkg:maven/com.slack.gradle/skippy@0.18.2?classifier=sources
 - pkg:maven/com.slack.gradle/skippy@0.18.3?classifier=sources
 - pkg:maven/com.slack.gradle/skippy@0.18.4?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.19.0?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.19.1?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.19.2?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.19.3?classifier=sources
+- pkg:maven/com.slack.gradle/skippy@0.19.4?classifier=sources

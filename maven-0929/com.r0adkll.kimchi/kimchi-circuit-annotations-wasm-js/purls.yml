@@ -1,0 +1,6 @@
+- pkg:maven/com.r0adkll.kimchi/kimchi-circuit-annotations-wasm-js@0.1.0?classifier=sources
+- pkg:maven/com.r0adkll.kimchi/kimchi-circuit-annotations-wasm-js@0.1.1?classifier=sources
+- pkg:maven/com.r0adkll.kimchi/kimchi-circuit-annotations-wasm-js@0.2.0?classifier=sources
+- pkg:maven/com.r0adkll.kimchi/kimchi-circuit-annotations-wasm-js@0.3.0?classifier=sources
+- pkg:maven/com.r0adkll.kimchi/kimchi-circuit-annotations-wasm-js@0.3.1?classifier=sources
+- pkg:maven/com.r0adkll.kimchi/kimchi-circuit-annotations-wasm-js@0.4.0?classifier=sources

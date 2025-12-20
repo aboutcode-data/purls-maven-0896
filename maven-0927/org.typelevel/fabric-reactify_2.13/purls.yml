@@ -28,3 +28,5 @@
 - pkg:maven/org.typelevel/fabric-reactify_2.13@1.15.2?classifier=sources
 - pkg:maven/org.typelevel/fabric-reactify_2.13@1.15.3
 - pkg:maven/org.typelevel/fabric-reactify_2.13@1.15.3?classifier=sources
+- pkg:maven/org.typelevel/fabric-reactify_2.13@1.15.4
+- pkg:maven/org.typelevel/fabric-reactify_2.13@1.15.4?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/io.github.egonw.bacting/net.bioclipse.managers.wikidata@0.5.2?classifier=sources
 - pkg:maven/io.github.egonw.bacting/net.bioclipse.managers.wikidata@1.0.0
 - pkg:maven/io.github.egonw.bacting/net.bioclipse.managers.wikidata@1.0.0?classifier=sources
+- pkg:maven/io.github.egonw.bacting/net.bioclipse.managers.wikidata@1.0.1
+- pkg:maven/io.github.egonw.bacting/net.bioclipse.managers.wikidata@1.0.1?classifier=sources

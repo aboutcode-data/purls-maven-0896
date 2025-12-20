@@ -1,0 +1,2 @@
+- pkg:maven/com.minlessika.erp/pulsar-client@0.1
+- pkg:maven/com.minlessika.erp/pulsar-client@0.1?classifier=sources

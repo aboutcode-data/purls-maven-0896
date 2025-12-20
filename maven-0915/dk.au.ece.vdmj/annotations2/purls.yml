@@ -10,3 +10,7 @@
 - pkg:maven/dk.au.ece.vdmj/annotations2@4.5.0-P
 - pkg:maven/dk.au.ece.vdmj/annotations2@4.5.0-P?classifier=sources
 - pkg:maven/dk.au.ece.vdmj/annotations2@4.5.0?classifier=sources
+- pkg:maven/dk.au.ece.vdmj/annotations2@4.6.0
+- pkg:maven/dk.au.ece.vdmj/annotations2@4.6.0-P
+- pkg:maven/dk.au.ece.vdmj/annotations2@4.6.0-P?classifier=sources
+- pkg:maven/dk.au.ece.vdmj/annotations2@4.6.0?classifier=sources

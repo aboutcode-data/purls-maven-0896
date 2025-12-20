@@ -22,3 +22,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE220?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE230?classifier=sources

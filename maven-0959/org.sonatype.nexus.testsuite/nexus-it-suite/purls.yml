@@ -218,3 +218,4 @@
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.70.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.71.0-06
 - pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.71.0-06?classifier=sources
+- pkg:maven/org.sonatype.nexus.testsuite/nexus-it-suite@3.72.0-04?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/io.github.quillraven.fleks/Fleks-mingwx64@2.6?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-mingwx64@2.7?classifier=sources
 - pkg:maven/io.github.quillraven.fleks/Fleks-mingwx64@2.8?classifier=sources
+- pkg:maven/io.github.quillraven.fleks/Fleks-mingwx64@2.9?classifier=sources

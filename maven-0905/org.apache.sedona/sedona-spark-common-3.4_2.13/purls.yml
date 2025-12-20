@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.sedona/sedona-spark-common-3.4_2.13@1.5.3?classifier=sources
 - pkg:maven/org.apache.sedona/sedona-spark-common-3.4_2.13@1.6.0
 - pkg:maven/org.apache.sedona/sedona-spark-common-3.4_2.13@1.6.0?classifier=sources
+- pkg:maven/org.apache.sedona/sedona-spark-common-3.4_2.13@1.6.1
+- pkg:maven/org.apache.sedona/sedona-spark-common-3.4_2.13@1.6.1?classifier=sources

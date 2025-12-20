@@ -21,3 +21,6 @@
 - pkg:maven/com.linecorp.bot/line-bot-insight-client@8.4.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-insight-client@8.5.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-insight-client@8.6.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-insight-client@9.0.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-insight-client@9.1.0?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-insight-client@9.2.0?classifier=sources

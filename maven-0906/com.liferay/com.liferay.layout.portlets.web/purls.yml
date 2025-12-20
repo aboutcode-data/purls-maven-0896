@@ -223,6 +223,7 @@
 - pkg:maven/com.liferay/com.liferay.layout.portlets.web@3.0.24
 - pkg:maven/com.liferay/com.liferay.layout.portlets.web@3.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.portlets.web@3.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.layout.portlets.web@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.portlets.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.layout.portlets.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.layout.portlets.web@3.0.3

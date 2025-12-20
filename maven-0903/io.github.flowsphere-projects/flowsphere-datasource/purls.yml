@@ -1,1 +1,2 @@
 - pkg:maven/io.github.flowsphere-projects/flowsphere-datasource@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.github.flowsphere-projects/flowsphere-datasource@1.0.0.RELEASE?classifier=sources
