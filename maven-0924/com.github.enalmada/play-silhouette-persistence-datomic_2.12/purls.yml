@@ -6,6 +6,10 @@
 - pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.12?classifier=sources
 - pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.13
 - pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.13?classifier=sources
+- pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.14
+- pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.14?classifier=sources
+- pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.15
+- pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.15?classifier=sources
 - pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.6
 - pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.6?classifier=sources
 - pkg:maven/com.github.enalmada/play-silhouette-persistence-datomic_2.12@0.1.7

@@ -17,3 +17,4 @@
 - pkg:maven/org.somda.sdc/glue@5.1.1
 - pkg:maven/org.somda.sdc/glue@5.1.1?classifier=sources
 - pkg:maven/org.somda.sdc/glue@6.0.0?classifier=sources
+- pkg:maven/org.somda.sdc/glue@6.1.0?classifier=sources

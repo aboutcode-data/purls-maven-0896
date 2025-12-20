@@ -1,0 +1,4 @@
+- pkg:maven/be.orbinson.osgi/opentelemetry-instrumentation-annotations@1.33.6.0000
+- pkg:maven/be.orbinson.osgi/opentelemetry-instrumentation-annotations@1.33.6.0000?classifier=sources
+- pkg:maven/be.orbinson.osgi/opentelemetry-instrumentation-annotations@2.9.0.0001
+- pkg:maven/be.orbinson.osgi/opentelemetry-instrumentation-annotations@2.9.0.0001?classifier=sources

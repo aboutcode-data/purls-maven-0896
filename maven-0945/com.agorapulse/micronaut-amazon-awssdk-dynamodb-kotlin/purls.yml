@@ -76,3 +76,5 @@
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-kotlin@3.1.14?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-kotlin@3.2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-kotlin@3.3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-kotlin@3.3.2?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-amazon-awssdk-dynamodb-kotlin@3.3.3?classifier=sources

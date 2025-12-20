@@ -1,2 +1,9 @@
 - pkg:maven/app.cash.burst/burst-watchosarm64@0.1.0?classifier=sources
 - pkg:maven/app.cash.burst/burst-watchosarm64@0.2.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm64@0.3.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm64@0.4.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm64@0.5.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm64@0.6.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm64@0.7.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm64@2.0.0?classifier=sources
+- pkg:maven/app.cash.burst/burst-watchosarm64@2.1.0?classifier=sources

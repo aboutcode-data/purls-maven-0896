@@ -64,6 +64,10 @@
 - pkg:maven/io.cucumber/cucumber-expressions@17.0.2?classifier=sources
 - pkg:maven/io.cucumber/cucumber-expressions@17.1.0
 - pkg:maven/io.cucumber/cucumber-expressions@17.1.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-expressions@18.0.0
+- pkg:maven/io.cucumber/cucumber-expressions@18.0.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-expressions@18.0.1
+- pkg:maven/io.cucumber/cucumber-expressions@18.0.1?classifier=sources
 - pkg:maven/io.cucumber/cucumber-expressions@2.0.0
 - pkg:maven/io.cucumber/cucumber-expressions@2.0.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-expressions@2.0.1

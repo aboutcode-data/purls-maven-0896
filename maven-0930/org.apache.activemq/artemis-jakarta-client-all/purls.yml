@@ -46,3 +46,5 @@
 - pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.36.0?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.37.0
 - pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.37.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.38.0
+- pkg:maven/org.apache.activemq/artemis-jakarta-client-all@2.38.0?classifier=sources

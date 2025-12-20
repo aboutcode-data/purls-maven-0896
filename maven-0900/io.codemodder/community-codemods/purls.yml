@@ -50,6 +50,8 @@
 - pkg:maven/io.codemodder/community-codemods@0.94.1?classifier=sources
 - pkg:maven/io.codemodder/community-codemods@0.95.0?classifier=sources
 - pkg:maven/io.codemodder/community-codemods@0.96.0?classifier=sources
+- pkg:maven/io.codemodder/community-codemods@0.97.0?classifier=sources
+- pkg:maven/io.codemodder/community-codemods@0.97.1?classifier=sources
 - pkg:maven/io.codemodder/community-codemods@v0.72.2?classifier=sources
 - pkg:maven/io.codemodder/community-codemods@v0.78.0?classifier=sources
 - pkg:maven/io.codemodder/community-codemods@v0.87.0?classifier=sources

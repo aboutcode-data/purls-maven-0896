@@ -40,3 +40,7 @@
 - pkg:maven/com.outr/scribe-config_3@3.14.0?classifier=sources
 - pkg:maven/com.outr/scribe-config_3@3.15.0
 - pkg:maven/com.outr/scribe-config_3@3.15.0?classifier=sources
+- pkg:maven/com.outr/scribe-config_3@3.15.1
+- pkg:maven/com.outr/scribe-config_3@3.15.1?classifier=sources
+- pkg:maven/com.outr/scribe-config_3@3.15.2
+- pkg:maven/com.outr/scribe-config_3@3.15.2?classifier=sources

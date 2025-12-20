@@ -22,3 +22,8 @@
 - pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.15.3?classifier=sources
 - pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.16.0?classifier=sources
 - pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.16.1?classifier=sources
+- pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.17.0?classifier=sources
+- pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.17.1?classifier=sources
+- pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.17.2?classifier=sources
+- pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.17.3?classifier=sources
+- pkg:maven/me.danwi.sqlex/native-darwin-amd64@0.18.0?classifier=sources

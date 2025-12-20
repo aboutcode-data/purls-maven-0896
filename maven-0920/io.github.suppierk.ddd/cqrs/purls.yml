@@ -1,0 +1,2 @@
+- pkg:maven/io.github.suppierk.ddd/cqrs@1.319.0?classifier=sources
+- pkg:maven/io.github.suppierk.ddd/cqrs@2.319.0?classifier=sources

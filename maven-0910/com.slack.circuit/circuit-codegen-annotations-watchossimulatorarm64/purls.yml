@@ -1,2 +1,3 @@
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-watchossimulatorarm64@0.24.0-alpha01-compose17?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-codegen-annotations-watchossimulatorarm64@0.24.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-codegen-annotations-watchossimulatorarm64@0.25.0?classifier=sources

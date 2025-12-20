@@ -25,3 +25,4 @@
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-cassandra-4.4@2.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-cassandra-4.4@2.7.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.instrumentation/opentelemetry-cassandra-4.4@2.8.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.instrumentation/opentelemetry-cassandra-4.4@2.9.0-alpha?classifier=sources

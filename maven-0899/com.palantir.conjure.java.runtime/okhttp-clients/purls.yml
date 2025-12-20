@@ -77,6 +77,7 @@
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@8.13.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@8.14.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@8.15.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@8.16.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@8.2.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@8.3.0?classifier=sources
 - pkg:maven/com.palantir.conjure.java.runtime/okhttp-clients@8.4.0?classifier=sources

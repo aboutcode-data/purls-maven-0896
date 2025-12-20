@@ -68,6 +68,7 @@
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.2.0-m3?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.2.0-rc2?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.2.0?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.2.10?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.2.2?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.2.3?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.2.4?classifier=sources
@@ -77,3 +78,7 @@
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.3.0-M2?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.3.2?classifier=sources
 - pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.3.3?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.3.4?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.3.5?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.4.0-m3?classifier=sources
+- pkg:maven/io.freefair.okhttp-spring-boot/okhttp4-spring-boot-starter@3.4.0-rc1?classifier=sources

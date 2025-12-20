@@ -76,3 +76,4 @@
 - pkg:maven/com.liferay/com.liferay.petra.sql.dsl.spi@3.3.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.sql.dsl.spi@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.petra.sql.dsl.spi@4.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.petra.sql.dsl.spi@4.1.1?classifier=sources

@@ -20,3 +20,11 @@
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.6.4?classifier=sources
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.7.0
 - pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.7.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.8.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.8.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.9.0
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.9.0?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.9.2
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.9.2?classifier=sources
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.9.4
+- pkg:maven/com.adobe.acs/acs-aem-commons-bundle-cloud@6.9.4?classifier=sources

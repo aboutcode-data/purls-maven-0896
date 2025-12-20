@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.storm/storm-metrics-prometheus@2.6.3?classifier=sources
 - pkg:maven/org.apache.storm/storm-metrics-prometheus@2.6.4
 - pkg:maven/org.apache.storm/storm-metrics-prometheus@2.6.4?classifier=sources
+- pkg:maven/org.apache.storm/storm-metrics-prometheus@2.7.0
+- pkg:maven/org.apache.storm/storm-metrics-prometheus@2.7.0?classifier=sources

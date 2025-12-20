@@ -192,6 +192,16 @@
 - pkg:maven/org.keycloak/keycloak-server-spi@25.0.6?classifier=sources
 - pkg:maven/org.keycloak/keycloak-server-spi@26.0.0
 - pkg:maven/org.keycloak/keycloak-server-spi@26.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.1
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.1?classifier=sources
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.2
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.2?classifier=sources
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.3
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.3?classifier=sources
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.4
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.4?classifier=sources
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.5
+- pkg:maven/org.keycloak/keycloak-server-spi@26.0.5?classifier=sources
 - pkg:maven/org.keycloak/keycloak-server-spi@3.0.0.CR1
 - pkg:maven/org.keycloak/keycloak-server-spi@3.0.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-server-spi@3.0.0.Final

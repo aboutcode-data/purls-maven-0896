@@ -1,0 +1,2 @@
+- pkg:maven/io.nemesis.platform.module.storage/nemesis-module-gcs@2.3.19.RELEASE
+- pkg:maven/io.nemesis.platform.module.storage/nemesis-module-gcs@2.3.19.RELEASE?classifier=sources

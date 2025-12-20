@@ -116,6 +116,8 @@
 - pkg:maven/com.google.cloud/google-iam-admin@3.44.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-admin@3.47.0
 - pkg:maven/com.google.cloud/google-iam-admin@3.47.0?classifier=sources
+- pkg:maven/com.google.cloud/google-iam-admin@3.48.0
+- pkg:maven/com.google.cloud/google-iam-admin@3.48.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-admin@3.5.0
 - pkg:maven/com.google.cloud/google-iam-admin@3.5.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-admin@3.6.0

@@ -1,2 +1,4 @@
 - pkg:maven/tech.ytsaurus/spark-yt-spark-adapter-impl-330_2.12@2.3.0
 - pkg:maven/tech.ytsaurus/spark-yt-spark-adapter-impl-330_2.12@2.3.0?classifier=sources
+- pkg:maven/tech.ytsaurus/spark-yt-spark-adapter-impl-330_2.12@2.4.1
+- pkg:maven/tech.ytsaurus/spark-yt-spark-adapter-impl-330_2.12@2.4.1?classifier=sources

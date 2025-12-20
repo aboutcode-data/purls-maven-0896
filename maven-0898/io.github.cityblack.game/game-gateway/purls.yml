@@ -1,2 +1,4 @@
 - pkg:maven/io.github.cityblack.game/game-gateway@0.1.4?classifier=sources
 - pkg:maven/io.github.cityblack.game/game-gateway@0.1.7?classifier=sources
+- pkg:maven/io.github.cityblack.game/game-gateway@0.1.8?classifier=sources
+- pkg:maven/io.github.cityblack.game/game-gateway@0.1.9?classifier=sources

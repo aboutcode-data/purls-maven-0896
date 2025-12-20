@@ -6,6 +6,8 @@
 - pkg:maven/org.nasdanika.core/graph-model@2024.1.0?classifier=sources
 - pkg:maven/org.nasdanika.core/graph-model@2024.10.0
 - pkg:maven/org.nasdanika.core/graph-model@2024.10.0?classifier=sources
+- pkg:maven/org.nasdanika.core/graph-model@2024.11.0
+- pkg:maven/org.nasdanika.core/graph-model@2024.11.0?classifier=sources
 - pkg:maven/org.nasdanika.core/graph-model@2024.3.0
 - pkg:maven/org.nasdanika.core/graph-model@2024.3.0?classifier=sources
 - pkg:maven/org.nasdanika.core/graph-model@2024.3.1

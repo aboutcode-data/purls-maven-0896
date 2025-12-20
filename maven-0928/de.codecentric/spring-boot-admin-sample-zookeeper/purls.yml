@@ -222,3 +222,5 @@
 - pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@3.3.3?classifier=sources
 - pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@3.3.4
 - pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@3.3.4?classifier=sources
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@3.3.5
+- pkg:maven/de.codecentric/spring-boot-admin-sample-zookeeper@3.3.5?classifier=sources

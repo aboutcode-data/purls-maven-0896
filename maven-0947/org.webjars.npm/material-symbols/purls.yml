@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/material-symbols@0.14.5?classifier=sources
 - pkg:maven/org.webjars.npm/material-symbols@0.18.0
 - pkg:maven/org.webjars.npm/material-symbols@0.22.1
+- pkg:maven/org.webjars.npm/material-symbols@0.25.3
+- pkg:maven/org.webjars.npm/material-symbols@0.26.0

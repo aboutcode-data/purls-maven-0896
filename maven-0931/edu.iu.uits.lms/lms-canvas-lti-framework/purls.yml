@@ -142,3 +142,5 @@
 - pkg:maven/edu.iu.uits.lms/lms-canvas-lti-framework@6.0.2?classifier=sources
 - pkg:maven/edu.iu.uits.lms/lms-canvas-lti-framework@6.0.3
 - pkg:maven/edu.iu.uits.lms/lms-canvas-lti-framework@6.0.3?classifier=sources
+- pkg:maven/edu.iu.uits.lms/lms-canvas-lti-framework@6.0.5
+- pkg:maven/edu.iu.uits.lms/lms-canvas-lti-framework@6.0.5?classifier=sources

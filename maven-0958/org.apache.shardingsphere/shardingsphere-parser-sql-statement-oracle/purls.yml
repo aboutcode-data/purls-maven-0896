@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.shardingsphere/shardingsphere-parser-sql-statement-oracle@5.5.1
+- pkg:maven/org.apache.shardingsphere/shardingsphere-parser-sql-statement-oracle@5.5.1?classifier=sources

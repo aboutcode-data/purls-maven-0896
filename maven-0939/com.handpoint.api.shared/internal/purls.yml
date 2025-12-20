@@ -64,3 +64,11 @@
 - pkg:maven/com.handpoint.api.shared/internal@7.1006.2?type=aar
 - pkg:maven/com.handpoint.api.shared/internal@7.1006.3?classifier=sources
 - pkg:maven/com.handpoint.api.shared/internal@7.1006.3?type=aar
+- pkg:maven/com.handpoint.api.shared/internal@7.1008.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/internal@7.1008.0?type=aar
+- pkg:maven/com.handpoint.api.shared/internal@7.1008.1?classifier=sources
+- pkg:maven/com.handpoint.api.shared/internal@7.1008.1?type=aar
+- pkg:maven/com.handpoint.api.shared/internal@7.1008.3?classifier=sources
+- pkg:maven/com.handpoint.api.shared/internal@7.1008.3?type=aar
+- pkg:maven/com.handpoint.api.shared/internal@7.1009.0?classifier=sources
+- pkg:maven/com.handpoint.api.shared/internal@7.1009.0?type=aar

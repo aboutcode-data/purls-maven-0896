@@ -1,1 +1,2 @@
 - pkg:maven/io.gitee.fenghlkevin/april-distributed-lock-redisson@1.1.0?classifier=sources
+- pkg:maven/io.gitee.fenghlkevin/april-distributed-lock-redisson@1.1.1?classifier=sources

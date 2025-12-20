@@ -1,3 +1,4 @@
 - pkg:maven/io.github.drawers/abecedary-lint@0.2.0?classifier=sources
 - pkg:maven/io.github.drawers/abecedary-lint@0.3.0?classifier=sources
 - pkg:maven/io.github.drawers/abecedary-lint@0.4.0?classifier=sources
+- pkg:maven/io.github.drawers/abecedary-lint@0.5.0?classifier=sources

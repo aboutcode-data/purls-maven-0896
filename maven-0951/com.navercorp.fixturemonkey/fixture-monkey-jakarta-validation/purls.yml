@@ -47,6 +47,7 @@
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.25?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.26?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.27?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.28?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.2?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.3?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.4?classifier=sources
@@ -55,3 +56,6 @@
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.7?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.8?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.0.9?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.1.0-RC1?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.1.0-RC2?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.1.0?classifier=sources

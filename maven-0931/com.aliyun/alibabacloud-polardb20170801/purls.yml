@@ -69,6 +69,10 @@
 - pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.21?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.22
 - pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.22?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.23
+- pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.23?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.24
+- pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.24?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.3
 - pkg:maven/com.aliyun/alibabacloud-polardb20170801@4.0.3?classifier=sources

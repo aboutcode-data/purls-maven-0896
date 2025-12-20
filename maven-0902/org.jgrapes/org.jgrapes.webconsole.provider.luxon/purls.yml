@@ -6,3 +6,4 @@
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.luxon@0.4.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.luxon@1.0.0?classifier=sources
 - pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.luxon@1.1.0?classifier=sources
+- pkg:maven/org.jgrapes/org.jgrapes.webconsole.provider.luxon@1.2.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.29?type=war
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.30?classifier=sources
 - pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.30?type=war
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.31?classifier=sources
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.31?type=war

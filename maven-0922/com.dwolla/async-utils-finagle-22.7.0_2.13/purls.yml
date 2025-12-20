@@ -4,3 +4,5 @@
 - pkg:maven/com.dwolla/async-utils-finagle-22.7.0_2.13@1.1.1?classifier=sources
 - pkg:maven/com.dwolla/async-utils-finagle-22.7.0_2.13@1.1.2
 - pkg:maven/com.dwolla/async-utils-finagle-22.7.0_2.13@1.1.2?classifier=sources
+- pkg:maven/com.dwolla/async-utils-finagle-22.7.0_2.13@1.2.0
+- pkg:maven/com.dwolla/async-utils-finagle-22.7.0_2.13@1.2.0?classifier=sources

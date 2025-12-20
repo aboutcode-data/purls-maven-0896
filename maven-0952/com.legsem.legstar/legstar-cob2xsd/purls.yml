@@ -26,3 +26,5 @@
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.1.0?type=zip
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.1.1?classifier=sources
 - pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.1.1?type=zip
+- pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.1.2?classifier=sources
+- pkg:maven/com.legsem.legstar/legstar-cob2xsd@2.1.2?type=zip

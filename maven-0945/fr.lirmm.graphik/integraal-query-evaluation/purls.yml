@@ -22,3 +22,5 @@
 - pkg:maven/fr.lirmm.graphik/integraal-query-evaluation@1.5.0?classifier=sources
 - pkg:maven/fr.lirmm.graphik/integraal-query-evaluation@1.5.1
 - pkg:maven/fr.lirmm.graphik/integraal-query-evaluation@1.5.1?classifier=sources
+- pkg:maven/fr.lirmm.graphik/integraal-query-evaluation@1.6.0
+- pkg:maven/fr.lirmm.graphik/integraal-query-evaluation@1.6.0?classifier=sources

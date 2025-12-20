@@ -38,6 +38,7 @@
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@12.3.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/plugin-valtimo@12.3.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@12.4.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@9.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/plugin-valtimo@9.18.0.RELEASE?classifier=sources

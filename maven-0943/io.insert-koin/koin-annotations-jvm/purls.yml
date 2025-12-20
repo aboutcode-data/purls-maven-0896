@@ -16,3 +16,5 @@
 - pkg:maven/io.insert-koin/koin-annotations-jvm@1.4.0-RC2?classifier=sources
 - pkg:maven/io.insert-koin/koin-annotations-jvm@1.4.0-RC3?classifier=sources
 - pkg:maven/io.insert-koin/koin-annotations-jvm@1.4.0-RC4?classifier=sources
+- pkg:maven/io.insert-koin/koin-annotations-jvm@1.4.0?classifier=sources
+- pkg:maven/io.insert-koin/koin-annotations-jvm@2.0.0-Beta1?classifier=sources

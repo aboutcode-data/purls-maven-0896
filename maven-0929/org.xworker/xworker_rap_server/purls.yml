@@ -1,0 +1,2 @@
+- pkg:maven/org.xworker/xworker_rap_server@2.0.3
+- pkg:maven/org.xworker/xworker_rap_server@2.0.3?classifier=sources

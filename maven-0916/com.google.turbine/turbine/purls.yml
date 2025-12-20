@@ -16,3 +16,5 @@
 - pkg:maven/com.google.turbine/turbine@0.6.0?classifier=sources
 - pkg:maven/com.google.turbine/turbine@0.7.0
 - pkg:maven/com.google.turbine/turbine@0.7.0?classifier=sources
+- pkg:maven/com.google.turbine/turbine@0.8.0
+- pkg:maven/com.google.turbine/turbine@0.8.0?classifier=sources

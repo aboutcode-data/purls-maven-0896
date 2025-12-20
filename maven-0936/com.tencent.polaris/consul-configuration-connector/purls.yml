@@ -1,5 +1,7 @@
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.10
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.10?classifier=sources
+- pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.11
+- pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.11?classifier=sources
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.7
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.7?classifier=sources
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.8
@@ -8,3 +10,7 @@
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@1.15.9?classifier=sources
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@2.0.0.0-RC1
 - pkg:maven/com.tencent.polaris/consul-configuration-connector@2.0.0.0-RC1?classifier=sources
+- pkg:maven/com.tencent.polaris/consul-configuration-connector@2.0.0.0-RC2
+- pkg:maven/com.tencent.polaris/consul-configuration-connector@2.0.0.0-RC2?classifier=sources
+- pkg:maven/com.tencent.polaris/consul-configuration-connector@2.0.0.0-RC3
+- pkg:maven/com.tencent.polaris/consul-configuration-connector@2.0.0.0-RC3?classifier=sources

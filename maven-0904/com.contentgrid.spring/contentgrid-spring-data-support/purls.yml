@@ -8,3 +8,4 @@
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-data-support@0.15.2?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-data-support@0.15.3?classifier=sources
 - pkg:maven/com.contentgrid.spring/contentgrid-spring-data-support@0.16.0?classifier=sources
+- pkg:maven/com.contentgrid.spring/contentgrid-spring-data-support@0.16.1?classifier=sources

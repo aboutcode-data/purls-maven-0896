@@ -49,3 +49,4 @@
 - pkg:maven/com.metamap/android-sdk@3.41.1?classifier=sources
 - pkg:maven/com.metamap/android-sdk@3.41.2?classifier=sources
 - pkg:maven/com.metamap/android-sdk@3.42.0?classifier=sources
+- pkg:maven/com.metamap/android-sdk@3.42.1?classifier=sources

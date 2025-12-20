@@ -4,3 +4,4 @@
 - pkg:maven/com.buession.canal/buession-canal-annotation@0.0.2?classifier=sources
 - pkg:maven/com.buession.canal/buession-canal-annotation@1.0.0
 - pkg:maven/com.buession.canal/buession-canal-annotation@1.0.0?classifier=sources
+- pkg:maven/com.buession.canal/buession-canal-annotation@2.0.0?classifier=sources

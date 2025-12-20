@@ -55,6 +55,10 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.0-0.2.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.0-0.2.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.0-0.3.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.0-0.4.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.10-0.2.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.10-0.2.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.10-0.3.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.10-0.4.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.20-0.4.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-rpc-compiler-plugin-backend@2.0.21-0.4.0?classifier=sources

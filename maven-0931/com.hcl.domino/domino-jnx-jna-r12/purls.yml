@@ -6,3 +6,7 @@
 - pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.42.2?classifier=sources
 - pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.42.3
 - pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.42.3?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.43.0
+- pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.43.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.44.0
+- pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.44.0?classifier=sources

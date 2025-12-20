@@ -40,6 +40,8 @@
 - pkg:maven/io.hyperfoil/hyperfoil-clustering@0.25.2
 - pkg:maven/io.hyperfoil/hyperfoil-clustering@0.26
 - pkg:maven/io.hyperfoil/hyperfoil-clustering@0.26?classifier=sources
+- pkg:maven/io.hyperfoil/hyperfoil-clustering@0.27
+- pkg:maven/io.hyperfoil/hyperfoil-clustering@0.27?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-clustering@0.2?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-clustering@0.3
 - pkg:maven/io.hyperfoil/hyperfoil-clustering@0.3?classifier=sources

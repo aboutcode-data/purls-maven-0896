@@ -379,4 +379,6 @@
 - pkg:maven/org.noear/weixin-java-qidian-solon-plugin@3.0.2-M6
 - pkg:maven/org.noear/weixin-java-qidian-solon-plugin@3.0.2-M6?classifier=sources
 - pkg:maven/org.noear/weixin-java-qidian-solon-plugin@3.0.2-RC
+- pkg:maven/org.noear/weixin-java-qidian-solon-plugin@3.0.2-RC2
+- pkg:maven/org.noear/weixin-java-qidian-solon-plugin@3.0.2-RC2?classifier=sources
 - pkg:maven/org.noear/weixin-java-qidian-solon-plugin@3.0.2-RC?classifier=sources

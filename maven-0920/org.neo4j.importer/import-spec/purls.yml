@@ -2,3 +2,5 @@
 - pkg:maven/org.neo4j.importer/import-spec@1.0.0-rc01?classifier=sources
 - pkg:maven/org.neo4j.importer/import-spec@1.0.0-rc02
 - pkg:maven/org.neo4j.importer/import-spec@1.0.0-rc02?classifier=sources
+- pkg:maven/org.neo4j.importer/import-spec@1.0.0-rc03
+- pkg:maven/org.neo4j.importer/import-spec@1.0.0-rc03?classifier=sources

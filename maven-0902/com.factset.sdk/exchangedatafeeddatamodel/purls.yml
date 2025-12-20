@@ -9,3 +9,4 @@
 - pkg:maven/com.factset.sdk/exchangedatafeeddatamodel@0.20.8?classifier=sources
 - pkg:maven/com.factset.sdk/exchangedatafeeddatamodel@0.20.9?classifier=sources
 - pkg:maven/com.factset.sdk/exchangedatafeeddatamodel@0.21.0?classifier=sources
+- pkg:maven/com.factset.sdk/exchangedatafeeddatamodel@0.21.1?classifier=sources

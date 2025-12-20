@@ -4,8 +4,10 @@
 - pkg:maven/org.webjars.npm/mui__material@5.11.2?classifier=sources
 - pkg:maven/org.webjars.npm/mui__material@5.14.14
 - pkg:maven/org.webjars.npm/mui__material@5.14.14?classifier=sources
+- pkg:maven/org.webjars.npm/mui__material@5.14.5
 - pkg:maven/org.webjars.npm/mui__material@5.14.9
 - pkg:maven/org.webjars.npm/mui__material@5.14.9?classifier=sources
 - pkg:maven/org.webjars.npm/mui__material@5.15.15
 - pkg:maven/org.webjars.npm/mui__material@5.15.15?classifier=sources
 - pkg:maven/org.webjars.npm/mui__material@5.15.19
+- pkg:maven/org.webjars.npm/mui__material@5.16.7

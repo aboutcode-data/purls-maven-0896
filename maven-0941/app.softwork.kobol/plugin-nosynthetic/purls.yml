@@ -30,6 +30,8 @@
 - pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.13?classifier=sources
 - pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.14?classifier=sources
 - pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.15?classifier=sources
+- pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.16?classifier=sources
+- pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.17?classifier=sources
 - pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.1?classifier=sources
 - pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.2?classifier=sources
 - pkg:maven/app.softwork.kobol/plugin-nosynthetic@0.2.3?classifier=sources

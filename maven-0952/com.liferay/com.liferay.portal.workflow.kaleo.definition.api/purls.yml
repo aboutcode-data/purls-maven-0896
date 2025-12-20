@@ -18,6 +18,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@12.1.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@12.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@12.2.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@13.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.definition.api@2.0.1

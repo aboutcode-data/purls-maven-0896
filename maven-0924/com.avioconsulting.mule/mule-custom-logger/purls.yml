@@ -3,3 +3,4 @@
 - pkg:maven/com.avioconsulting.mule/mule-custom-logger@2.1.1?classifier=sources
 - pkg:maven/com.avioconsulting.mule/mule-custom-logger@2.2.0?classifier=sources
 - pkg:maven/com.avioconsulting.mule/mule-custom-logger@2.3.0?classifier=sources
+- pkg:maven/com.avioconsulting.mule/mule-custom-logger@3.0.0?classifier=sources

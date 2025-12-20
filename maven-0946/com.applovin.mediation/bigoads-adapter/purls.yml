@@ -2,3 +2,5 @@
 - pkg:maven/com.applovin.mediation/bigoads-adapter@4.6.1.2?classifier=sources
 - pkg:maven/com.applovin.mediation/bigoads-adapter@4.7.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/bigoads-adapter@4.9.1.0?classifier=sources
+- pkg:maven/com.applovin.mediation/bigoads-adapter@4.9.1.1?classifier=sources
+- pkg:maven/com.applovin.mediation/bigoads-adapter@4.9.1.2?classifier=sources

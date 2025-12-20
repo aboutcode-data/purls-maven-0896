@@ -966,3 +966,11 @@
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@38.0.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@38.0.1
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@38.0.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.0
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.1
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.1?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.2
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.2?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.3
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@39.0.3?classifier=sources

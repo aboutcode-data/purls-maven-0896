@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.0.2?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.0.3?classifier=sources

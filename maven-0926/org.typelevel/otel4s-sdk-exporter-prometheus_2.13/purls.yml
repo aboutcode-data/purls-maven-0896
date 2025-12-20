@@ -1,0 +1,2 @@
+- pkg:maven/org.typelevel/otel4s-sdk-exporter-prometheus_2.13@0.11.0
+- pkg:maven/org.typelevel/otel4s-sdk-exporter-prometheus_2.13@0.11.0?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/identity-local-auth-smsotp@1.0.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.local.auth.smsotp/identity-local-auth-smsotp@1.0.7?classifier=source-release&type=zip

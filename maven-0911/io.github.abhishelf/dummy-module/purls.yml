@@ -1,0 +1,2 @@
+- pkg:maven/io.github.abhishelf/dummy-module@0.0.1-beta?classifier=sources
+- pkg:maven/io.github.abhishelf/dummy-module@0.0.2-beta?classifier=sources

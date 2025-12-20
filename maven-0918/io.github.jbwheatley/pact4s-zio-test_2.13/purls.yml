@@ -22,3 +22,5 @@
 - pkg:maven/io.github.jbwheatley/pact4s-zio-test_2.13@0.13.3?classifier=sources
 - pkg:maven/io.github.jbwheatley/pact4s-zio-test_2.13@0.14.0
 - pkg:maven/io.github.jbwheatley/pact4s-zio-test_2.13@0.14.0?classifier=sources
+- pkg:maven/io.github.jbwheatley/pact4s-zio-test_2.13@0.15.0
+- pkg:maven/io.github.jbwheatley/pact4s-zio-test_2.13@0.15.0?classifier=sources

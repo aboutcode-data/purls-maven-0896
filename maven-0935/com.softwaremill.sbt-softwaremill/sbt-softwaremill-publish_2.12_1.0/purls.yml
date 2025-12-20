@@ -14,3 +14,5 @@
 - pkg:maven/com.softwaremill.sbt-softwaremill/sbt-softwaremill-publish_2.12_1.0@2.0.19?classifier=sources
 - pkg:maven/com.softwaremill.sbt-softwaremill/sbt-softwaremill-publish_2.12_1.0@2.0.20
 - pkg:maven/com.softwaremill.sbt-softwaremill/sbt-softwaremill-publish_2.12_1.0@2.0.20?classifier=sources
+- pkg:maven/com.softwaremill.sbt-softwaremill/sbt-softwaremill-publish_2.12_1.0@2.0.21
+- pkg:maven/com.softwaremill.sbt-softwaremill/sbt-softwaremill-publish_2.12_1.0@2.0.21?classifier=sources

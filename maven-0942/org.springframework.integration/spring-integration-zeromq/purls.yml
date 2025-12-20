@@ -102,6 +102,7 @@
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.1.9
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.1.9?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.2.0?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-zeromq@6.2.10?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.2.1?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.2.2?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.2.3?classifier=sources
@@ -116,3 +117,4 @@
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.3.2?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.3.3?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-zeromq@6.3.4?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-zeromq@6.3.5?classifier=sources

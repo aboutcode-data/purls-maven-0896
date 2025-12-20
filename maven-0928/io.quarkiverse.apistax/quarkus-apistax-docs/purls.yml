@@ -32,6 +32,8 @@
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@1.7.3?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@1.7.4
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@1.7.4?classifier=sources
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@1.8.0
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@1.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.0.0
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.1.0
@@ -46,6 +48,8 @@
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.2.3?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.2.4
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.2.4?classifier=sources
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.3.0
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@2.3.0?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.0
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.0?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.1

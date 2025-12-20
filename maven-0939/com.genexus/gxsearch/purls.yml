@@ -60,6 +60,10 @@
 - pkg:maven/com.genexus/gxsearch@4.1.2?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.1.4
 - pkg:maven/com.genexus/gxsearch@4.1.4?classifier=sources
+- pkg:maven/com.genexus/gxsearch@4.1.5
+- pkg:maven/com.genexus/gxsearch@4.1.5?classifier=sources
+- pkg:maven/com.genexus/gxsearch@4.1.6
+- pkg:maven/com.genexus/gxsearch@4.1.6?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.2.1
 - pkg:maven/com.genexus/gxsearch@4.2.1?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.2.2
@@ -68,6 +72,8 @@
 - pkg:maven/com.genexus/gxsearch@4.2.3?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.2.4
 - pkg:maven/com.genexus/gxsearch@4.2.4?classifier=sources
+- pkg:maven/com.genexus/gxsearch@4.2.5
+- pkg:maven/com.genexus/gxsearch@4.2.5?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.3.0
 - pkg:maven/com.genexus/gxsearch@4.3.0?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.3.1
@@ -78,6 +84,8 @@
 - pkg:maven/com.genexus/gxsearch@4.4.0?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.4.1
 - pkg:maven/com.genexus/gxsearch@4.4.1?classifier=sources
+- pkg:maven/com.genexus/gxsearch@4.4.2
+- pkg:maven/com.genexus/gxsearch@4.4.2?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.5.0
 - pkg:maven/com.genexus/gxsearch@4.5.0?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.5.1
@@ -98,3 +106,7 @@
 - pkg:maven/com.genexus/gxsearch@4.6.6?classifier=sources
 - pkg:maven/com.genexus/gxsearch@4.6.7
 - pkg:maven/com.genexus/gxsearch@4.6.7?classifier=sources
+- pkg:maven/com.genexus/gxsearch@4.6.8
+- pkg:maven/com.genexus/gxsearch@4.6.8?classifier=sources
+- pkg:maven/com.genexus/gxsearch@4.7.0
+- pkg:maven/com.genexus/gxsearch@4.7.0?classifier=sources

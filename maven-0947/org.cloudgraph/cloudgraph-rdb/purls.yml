@@ -122,3 +122,5 @@
 - pkg:maven/org.cloudgraph/cloudgraph-rdb@2.0.2?classifier=sources
 - pkg:maven/org.cloudgraph/cloudgraph-rdb@2.0.3
 - pkg:maven/org.cloudgraph/cloudgraph-rdb@2.0.3?classifier=sources
+- pkg:maven/org.cloudgraph/cloudgraph-rdb@2.0.4
+- pkg:maven/org.cloudgraph/cloudgraph-rdb@2.0.4?classifier=sources

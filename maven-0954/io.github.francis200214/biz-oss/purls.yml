@@ -14,3 +14,7 @@
 - pkg:maven/io.github.francis200214/biz-oss@1.4.8?classifier=sources
 - pkg:maven/io.github.francis200214/biz-oss@1.4.9-release
 - pkg:maven/io.github.francis200214/biz-oss@1.4.9-release?classifier=sources
+- pkg:maven/io.github.francis200214/biz-oss@1.5.1
+- pkg:maven/io.github.francis200214/biz-oss@1.5.1?classifier=sources
+- pkg:maven/io.github.francis200214/biz-oss@1.5.2
+- pkg:maven/io.github.francis200214/biz-oss@1.5.2?classifier=sources

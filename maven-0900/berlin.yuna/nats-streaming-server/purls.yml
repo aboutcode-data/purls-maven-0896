@@ -216,7 +216,13 @@
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.26?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.27
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.27?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.28
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.28?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.29
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.29?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.3
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.30
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.30?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.3?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.5
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.5?classifier=sources

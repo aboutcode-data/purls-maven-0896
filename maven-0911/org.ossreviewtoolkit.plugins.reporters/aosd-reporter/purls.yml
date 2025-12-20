@@ -10,3 +10,6 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@34.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@39.0.0?classifier=sources

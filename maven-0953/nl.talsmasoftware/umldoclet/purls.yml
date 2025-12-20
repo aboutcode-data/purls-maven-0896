@@ -126,3 +126,5 @@
 - pkg:maven/nl.talsmasoftware/umldoclet@2.1.2?classifier=sources
 - pkg:maven/nl.talsmasoftware/umldoclet@2.2.0
 - pkg:maven/nl.talsmasoftware/umldoclet@2.2.0?classifier=sources
+- pkg:maven/nl.talsmasoftware/umldoclet@2.2.1
+- pkg:maven/nl.talsmasoftware/umldoclet@2.2.1?classifier=sources

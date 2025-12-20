@@ -190,6 +190,8 @@
 - pkg:maven/com.approvaltests/CounterDisplay@24.7.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@24.8.0
 - pkg:maven/com.approvaltests/CounterDisplay@24.8.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@24.9.0
+- pkg:maven/com.approvaltests/CounterDisplay@24.9.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@3.0.0
 - pkg:maven/com.approvaltests/CounterDisplay@3.0.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@3.1.0

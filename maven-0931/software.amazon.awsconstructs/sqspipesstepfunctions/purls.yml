@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awsconstructs/sqspipesstepfunctions@2.73.0
+- pkg:maven/software.amazon.awsconstructs/sqspipesstepfunctions@2.73.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/sqspipesstepfunctions@2.74.0
+- pkg:maven/software.amazon.awsconstructs/sqspipesstepfunctions@2.74.0?classifier=sources

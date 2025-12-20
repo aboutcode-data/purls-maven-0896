@@ -132,6 +132,8 @@
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.50.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.51.0
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.51.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.52.0
+- pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.52.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.6.0
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-policy-troubleshooter@1.7.0

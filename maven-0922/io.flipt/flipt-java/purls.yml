@@ -20,4 +20,5 @@
 - pkg:maven/io.flipt/flipt-java@1.0.2?classifier=sources
 - pkg:maven/io.flipt/flipt-java@1.1.0?classifier=sources
 - pkg:maven/io.flipt/flipt-java@1.1.1?classifier=sources
+- pkg:maven/io.flipt/flipt-java@1.1.2?classifier=sources
 - pkg:maven/io.flipt/flipt-java@v0.2.10?classifier=sources

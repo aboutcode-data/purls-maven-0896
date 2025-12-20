@@ -1,4 +1,6 @@
 - pkg:maven/build.bleep/bleep-nosbt_3@0.0.1
+- pkg:maven/build.bleep/bleep-nosbt_3@0.0.10
+- pkg:maven/build.bleep/bleep-nosbt_3@0.0.10?classifier=sources
 - pkg:maven/build.bleep/bleep-nosbt_3@0.0.1?classifier=sources
 - pkg:maven/build.bleep/bleep-nosbt_3@0.0.2
 - pkg:maven/build.bleep/bleep-nosbt_3@0.0.2?classifier=sources

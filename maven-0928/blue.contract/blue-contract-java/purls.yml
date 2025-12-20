@@ -8,3 +8,4 @@
 - pkg:maven/blue.contract/blue-contract-java@0.4.4?classifier=sources
 - pkg:maven/blue.contract/blue-contract-java@0.4.5?classifier=sources
 - pkg:maven/blue.contract/blue-contract-java@0.4.6?classifier=sources
+- pkg:maven/blue.contract/blue-contract-java@0.5.0?classifier=sources

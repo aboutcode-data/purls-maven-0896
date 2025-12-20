@@ -10,3 +10,5 @@
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.13@0.4.4-v1-20240721?classifier=sources
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.13@0.4.5-v1-20240916
 - pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.13@0.4.5-v1-20240916?classifier=sources
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.13@0.6.0-v1-20241012
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.13@0.6.0-v1-20241012?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.rooxteam.uidm.sdk/auth-lib-common@24.2-m182?classifier=sources
 - pkg:maven/com.rooxteam.uidm.sdk/auth-lib-common@3.15.3-122
 - pkg:maven/com.rooxteam.uidm.sdk/auth-lib-common@3.15.3-122?classifier=sources
 - pkg:maven/com.rooxteam.uidm.sdk/auth-lib-common@3.15.3-123?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.7?classifier=sources
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.8
 - pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.8?classifier=sources
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.9
+- pkg:maven/org.apache.syncope.ext.elasticsearch/syncope-ext-elasticsearch-logic@3.0.9?classifier=sources

@@ -195,6 +195,7 @@
 - pkg:maven/org.webjars.npm/core-js@3.37.1
 - pkg:maven/org.webjars.npm/core-js@3.38.0
 - pkg:maven/org.webjars.npm/core-js@3.38.1
+- pkg:maven/org.webjars.npm/core-js@3.39.0
 - pkg:maven/org.webjars.npm/core-js@3.4.0
 - pkg:maven/org.webjars.npm/core-js@3.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/core-js@3.4.2

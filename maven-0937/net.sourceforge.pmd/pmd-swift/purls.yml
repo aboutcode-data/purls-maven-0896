@@ -174,3 +174,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-swift@7.5.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-swift@7.6.0
 - pkg:maven/net.sourceforge.pmd/pmd-swift@7.6.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-swift@7.7.0
+- pkg:maven/net.sourceforge.pmd/pmd-swift@7.7.0?classifier=sources

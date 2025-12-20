@@ -8,3 +8,5 @@
 - pkg:maven/eu.unicore.xuudb/xuudb-admin-client@2.10.3?classifier=sources
 - pkg:maven/eu.unicore.xuudb/xuudb-admin-client@2.10.4
 - pkg:maven/eu.unicore.xuudb/xuudb-admin-client@2.10.4?classifier=sources
+- pkg:maven/eu.unicore.xuudb/xuudb-admin-client@2.10.5
+- pkg:maven/eu.unicore.xuudb/xuudb-admin-client@2.10.5?classifier=sources

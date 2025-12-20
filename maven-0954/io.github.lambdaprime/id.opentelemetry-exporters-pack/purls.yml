@@ -1,3 +1,4 @@
 - pkg:maven/io.github.lambdaprime/id.opentelemetry-exporters-pack@1.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/id.opentelemetry-exporters-pack@2.0?classifier=sources
 - pkg:maven/io.github.lambdaprime/id.opentelemetry-exporters-pack@3.0?classifier=sources
+- pkg:maven/io.github.lambdaprime/id.opentelemetry-exporters-pack@4.0?classifier=sources

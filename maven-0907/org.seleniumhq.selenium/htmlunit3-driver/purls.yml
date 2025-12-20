@@ -30,6 +30,10 @@
 - pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.22.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.23.0
 - pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.23.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.25.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.25.0?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.26.0
+- pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.26.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.8.1
 - pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.8.1?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/htmlunit3-driver@4.8.3

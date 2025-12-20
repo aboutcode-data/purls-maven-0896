@@ -34,3 +34,5 @@
 - pkg:maven/com.vmware.pscoe.maven.plugins/ssh-maven-plugin@2.42.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.maven.plugins/ssh-maven-plugin@2.43.0
 - pkg:maven/com.vmware.pscoe.maven.plugins/ssh-maven-plugin@2.43.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.maven.plugins/ssh-maven-plugin@2.44.0
+- pkg:maven/com.vmware.pscoe.maven.plugins/ssh-maven-plugin@2.44.0?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.bouncycastle/bcpkix-debug-jdk15to18@1.77?classifier=sources
 - pkg:maven/org.bouncycastle/bcpkix-debug-jdk15to18@1.78.1?classifier=sources
 - pkg:maven/org.bouncycastle/bcpkix-debug-jdk15to18@1.78?classifier=sources
+- pkg:maven/org.bouncycastle/bcpkix-debug-jdk15to18@1.79?classifier=sources

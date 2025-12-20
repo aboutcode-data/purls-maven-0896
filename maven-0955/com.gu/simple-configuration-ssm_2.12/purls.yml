@@ -18,3 +18,5 @@
 - pkg:maven/com.gu/simple-configuration-ssm_2.12@1.7.0?classifier=sources
 - pkg:maven/com.gu/simple-configuration-ssm_2.12@2.0.0
 - pkg:maven/com.gu/simple-configuration-ssm_2.12@2.0.0?classifier=sources
+- pkg:maven/com.gu/simple-configuration-ssm_2.12@3.0.0-PREVIEW.updateaws.2024-11-07T1052.7545af36
+- pkg:maven/com.gu/simple-configuration-ssm_2.12@3.0.0-PREVIEW.updateaws.2024-11-07T1052.7545af36?classifier=sources

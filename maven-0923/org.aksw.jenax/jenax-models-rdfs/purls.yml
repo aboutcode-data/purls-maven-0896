@@ -1,2 +1,4 @@
 - pkg:maven/org.aksw.jenax/jenax-models-rdfs@5.0.0-1
 - pkg:maven/org.aksw.jenax/jenax-models-rdfs@5.0.0-1?classifier=sources
+- pkg:maven/org.aksw.jenax/jenax-models-rdfs@5.2.0-1
+- pkg:maven/org.aksw.jenax/jenax-models-rdfs@5.2.0-1?classifier=sources

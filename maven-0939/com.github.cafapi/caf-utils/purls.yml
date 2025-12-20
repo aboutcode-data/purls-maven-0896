@@ -46,3 +46,5 @@
 - pkg:maven/com.github.cafapi/caf-utils@3.0.0-549?classifier=sources
 - pkg:maven/com.github.cafapi/caf-utils@3.1.0-596
 - pkg:maven/com.github.cafapi/caf-utils@3.1.0-596?classifier=sources
+- pkg:maven/com.github.cafapi/caf-utils@3.2.0-684
+- pkg:maven/com.github.cafapi/caf-utils@3.2.0-684?classifier=sources

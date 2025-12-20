@@ -2,6 +2,7 @@
 - pkg:maven/io.nstream/nstream-persistence@4.11.19?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.12.20?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.13.21?classifier=sources
+- pkg:maven/io.nstream/nstream-persistence@4.14.22?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.5.8?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.6.9?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.7.10?classifier=sources
