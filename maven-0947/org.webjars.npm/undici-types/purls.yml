@@ -2,3 +2,6 @@
 - pkg:maven/org.webjars.npm/undici-types@5.25.3?classifier=sources
 - pkg:maven/org.webjars.npm/undici-types@5.26.5
 - pkg:maven/org.webjars.npm/undici-types@5.26.5?classifier=sources
+- pkg:maven/org.webjars.npm/undici-types@6.13.0
+- pkg:maven/org.webjars.npm/undici-types@6.18.2
+- pkg:maven/org.webjars.npm/undici-types@6.19.6

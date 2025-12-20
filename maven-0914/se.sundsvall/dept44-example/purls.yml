@@ -48,3 +48,5 @@
 - pkg:maven/se.sundsvall/dept44-example@5.0.1?classifier=sources
 - pkg:maven/se.sundsvall/dept44-example@5.0.2
 - pkg:maven/se.sundsvall/dept44-example@5.0.2?classifier=sources
+- pkg:maven/se.sundsvall/dept44-example@5.1.0
+- pkg:maven/se.sundsvall/dept44-example@5.1.0?classifier=sources

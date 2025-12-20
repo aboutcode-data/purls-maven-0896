@@ -137,6 +137,7 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.21.6
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.21.6?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.21.7?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.22.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.9.0
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.9.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.9.1

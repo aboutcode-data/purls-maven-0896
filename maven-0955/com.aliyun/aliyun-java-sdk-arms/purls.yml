@@ -212,3 +212,7 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.34?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.35
 - pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.35?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.36
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.36?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.37
+- pkg:maven/com.aliyun/aliyun-java-sdk-arms@2.8.37?classifier=sources

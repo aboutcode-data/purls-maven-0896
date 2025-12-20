@@ -13,3 +13,4 @@
 - pkg:maven/io.github.github-yoyo/yoyo-base@1.0.0.5?classifier=sources
 - pkg:maven/io.github.github-yoyo/yoyo-base@3.7.2.10?classifier=sources
 - pkg:maven/io.github.github-yoyo/yoyo-base@3.8.5.0?classifier=sources
+- pkg:maven/io.github.github-yoyo/yoyo-base@4.1.0.3?classifier=sources

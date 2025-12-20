@@ -140,8 +140,16 @@
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.36.0?classifier=sources
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.37.0
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.37.0?classifier=sources
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.38.0
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.38.0?classifier=sources
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.38.1
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.38.1?classifier=sources
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.39.1
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.39.1?classifier=sources
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.4.0
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.4.0?classifier=sources
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.40.0
+- pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.40.0?classifier=sources
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.5.0
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.5.0?classifier=sources
 - pkg:maven/edu.gemini/clue-core_sjs1_2.13@0.6.0

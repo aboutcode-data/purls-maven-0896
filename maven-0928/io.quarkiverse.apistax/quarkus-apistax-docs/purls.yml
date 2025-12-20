@@ -56,3 +56,5 @@
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.3?classifier=sources
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.4
 - pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.4?classifier=sources
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.5
+- pkg:maven/io.quarkiverse.apistax/quarkus-apistax-docs@3.0.5?classifier=sources

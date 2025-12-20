@@ -1,0 +1,4 @@
+- pkg:maven/ch.usi.si.seart/git-submodule-maven-plugin@1.0.0
+- pkg:maven/ch.usi.si.seart/git-submodule-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/ch.usi.si.seart/git-submodule-maven-plugin@1.1.0
+- pkg:maven/ch.usi.si.seart/git-submodule-maven-plugin@1.1.0?classifier=sources

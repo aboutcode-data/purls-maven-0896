@@ -4,3 +4,5 @@
 - pkg:maven/eu.europa.ec.joinup.sat/demetra-workspace@2.2.4-RC2
 - pkg:maven/eu.europa.ec.joinup.sat/demetra-workspace@2.2.4-RC2?classifier=sources
 - pkg:maven/eu.europa.ec.joinup.sat/demetra-workspace@2.2.4?classifier=sources
+- pkg:maven/eu.europa.ec.joinup.sat/demetra-workspace@2.2.5
+- pkg:maven/eu.europa.ec.joinup.sat/demetra-workspace@2.2.5?classifier=sources

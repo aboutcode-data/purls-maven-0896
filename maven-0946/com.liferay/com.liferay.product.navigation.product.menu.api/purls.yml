@@ -128,3 +128,4 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@7.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@8.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@8.0.2?classifier=sources

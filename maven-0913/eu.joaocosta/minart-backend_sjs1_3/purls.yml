@@ -26,3 +26,5 @@
 - pkg:maven/eu.joaocosta/minart-backend_sjs1_3@0.6.0-M3
 - pkg:maven/eu.joaocosta/minart-backend_sjs1_3@0.6.0-M3?classifier=sources
 - pkg:maven/eu.joaocosta/minart-backend_sjs1_3@0.6.0?classifier=sources
+- pkg:maven/eu.joaocosta/minart-backend_sjs1_3@0.6.1
+- pkg:maven/eu.joaocosta/minart-backend_sjs1_3@0.6.1?classifier=sources

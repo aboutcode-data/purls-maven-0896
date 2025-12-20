@@ -316,5 +316,7 @@
 - pkg:maven/org.glassfish.jersey.examples/simple-console@3.1.6?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/simple-console@3.1.7
 - pkg:maven/org.glassfish.jersey.examples/simple-console@3.1.7?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/simple-console@3.1.8
+- pkg:maven/org.glassfish.jersey.examples/simple-console@3.1.8?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/simple-console@4.0.0-M1
 - pkg:maven/org.glassfish.jersey.examples/simple-console@4.0.0-M1?classifier=sources

@@ -99,3 +99,5 @@
 - pkg:maven/io.trino/trino-accumulo@450?classifier=sources
 - pkg:maven/io.trino/trino-accumulo@451?classifier=sources
 - pkg:maven/io.trino/trino-accumulo@452?classifier=sources
+- pkg:maven/io.trino/trino-accumulo@453?classifier=sources
+- pkg:maven/io.trino/trino-accumulo@454?classifier=sources

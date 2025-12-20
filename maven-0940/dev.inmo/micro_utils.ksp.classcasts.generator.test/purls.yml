@@ -1,1 +1,5 @@
 - pkg:maven/dev.inmo/micro_utils.ksp.classcasts.generator.test@0.21.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.ksp.classcasts.generator.test@0.21.3?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.ksp.classcasts.generator.test@0.21.4?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.ksp.classcasts.generator.test@0.21.5?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.ksp.classcasts.generator.test@0.22.0?classifier=sources

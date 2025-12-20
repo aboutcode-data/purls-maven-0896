@@ -323,6 +323,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.4
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.40?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.41?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.42?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.inventory.service@3.0.5

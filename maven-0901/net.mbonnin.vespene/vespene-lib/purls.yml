@@ -3,3 +3,4 @@
 - pkg:maven/net.mbonnin.vespene/vespene-lib@0.3?classifier=sources
 - pkg:maven/net.mbonnin.vespene/vespene-lib@0.4?classifier=sources
 - pkg:maven/net.mbonnin.vespene/vespene-lib@0.5?classifier=sources
+- pkg:maven/net.mbonnin.vespene/vespene-lib@0.6.0?classifier=sources

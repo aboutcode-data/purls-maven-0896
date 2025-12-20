@@ -48,6 +48,8 @@
 - pkg:maven/com.aliyun/aliyun-java-core@0.2.10-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.2.11-beta
 - pkg:maven/com.aliyun/aliyun-java-core@0.2.11-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-core@0.2.12-beta
+- pkg:maven/com.aliyun/aliyun-java-core@0.2.12-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.2.2-beta
 - pkg:maven/com.aliyun/aliyun-java-core@0.2.2-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.2.3-beta

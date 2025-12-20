@@ -24,6 +24,8 @@
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.2?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.3
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.3?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.4
+- pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.4?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.6.0
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.6.0?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.6.1

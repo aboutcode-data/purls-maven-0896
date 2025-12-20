@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.dubbo.extensions/dubbo-serialization-native-hessian@3.3.0
+- pkg:maven/org.apache.dubbo.extensions/dubbo-serialization-native-hessian@3.3.0?classifier=sources

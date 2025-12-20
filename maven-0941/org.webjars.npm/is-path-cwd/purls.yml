@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/is-path-cwd@1.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/is-path-cwd@2.2.0
 - pkg:maven/org.webjars.npm/is-path-cwd@2.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/is-path-cwd@3.0.0

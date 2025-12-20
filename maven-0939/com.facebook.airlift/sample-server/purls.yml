@@ -25,3 +25,5 @@
 - pkg:maven/com.facebook.airlift/sample-server@0.209?classifier=sources
 - pkg:maven/com.facebook.airlift/sample-server@0.210?classifier=sources
 - pkg:maven/com.facebook.airlift/sample-server@0.211?classifier=sources
+- pkg:maven/com.facebook.airlift/sample-server@0.214?classifier=sources
+- pkg:maven/com.facebook.airlift/sample-server@0.215?classifier=sources

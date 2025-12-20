@@ -16,6 +16,8 @@
 - pkg:maven/com.vantfo.framework/activiti@1.2.6?classifier=sources
 - pkg:maven/com.vantfo.framework/activiti@1.2.8
 - pkg:maven/com.vantfo.framework/activiti@1.2.8?classifier=sources
+- pkg:maven/com.vantfo.framework/activiti@1.4.0
+- pkg:maven/com.vantfo.framework/activiti@1.4.0?classifier=sources
 - pkg:maven/com.vantfo.framework/activiti@hbis-1.2.8
 - pkg:maven/com.vantfo.framework/activiti@hbis-1.2.8?classifier=sources
 - pkg:maven/com.vantfo.framework/activiti@hbis-1.2.9

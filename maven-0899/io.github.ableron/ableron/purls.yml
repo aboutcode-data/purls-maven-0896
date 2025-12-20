@@ -8,6 +8,10 @@
 - pkg:maven/io.github.ableron/ableron@1.0.2?classifier=sources
 - pkg:maven/io.github.ableron/ableron@1.1.0
 - pkg:maven/io.github.ableron/ableron@1.1.0?classifier=sources
+- pkg:maven/io.github.ableron/ableron@1.10.0
+- pkg:maven/io.github.ableron/ableron@1.10.0?classifier=sources
+- pkg:maven/io.github.ableron/ableron@1.11.0
+- pkg:maven/io.github.ableron/ableron@1.11.0?classifier=sources
 - pkg:maven/io.github.ableron/ableron@1.2.0
 - pkg:maven/io.github.ableron/ableron@1.2.0?classifier=sources
 - pkg:maven/io.github.ableron/ableron@1.3.0

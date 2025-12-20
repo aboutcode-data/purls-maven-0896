@@ -5,3 +5,4 @@
 - pkg:maven/com.exactpro.th2/codec-sailfish@4.2.3-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/codec-sailfish@5.0.0-dev?classifier=sources
 - pkg:maven/com.exactpro.th2/codec-sailfish@5.1.0-dev?classifier=sources
+- pkg:maven/com.exactpro.th2/codec-sailfish@5.2.0-dev?classifier=sources

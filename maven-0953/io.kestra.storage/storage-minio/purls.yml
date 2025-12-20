@@ -8,6 +8,7 @@
 - pkg:maven/io.kestra.storage/storage-minio@0.16.0?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.16.1?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.17.0?classifier=sources
+- pkg:maven/io.kestra.storage/storage-minio@0.18.0?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.2.0?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.2.1?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.3.0?classifier=sources

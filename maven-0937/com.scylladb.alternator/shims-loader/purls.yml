@@ -1,0 +1,4 @@
+- pkg:maven/com.scylladb.alternator/shims-loader@5.6.0
+- pkg:maven/com.scylladb.alternator/shims-loader@5.6.0?classifier=sources
+- pkg:maven/com.scylladb.alternator/shims-loader@5.6.1
+- pkg:maven/com.scylladb.alternator/shims-loader@5.6.1?classifier=sources

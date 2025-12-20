@@ -12,3 +12,5 @@
 - pkg:maven/top.minepay/MinePayApi@1.4-RELEASE?classifier=sources
 - pkg:maven/top.minepay/MinePayApi@1.5-RELEASE
 - pkg:maven/top.minepay/MinePayApi@1.5-RELEASE?classifier=sources
+- pkg:maven/top.minepay/MinePayApi@1.6-RELEASE
+- pkg:maven/top.minepay/MinePayApi@1.6-RELEASE?classifier=sources

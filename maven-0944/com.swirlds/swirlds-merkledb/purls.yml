@@ -16,3 +16,6 @@
 - pkg:maven/com.swirlds/swirlds-merkledb@0.51.3?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.51.4?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.51.5?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.52.1?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.52.2?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.53.0?classifier=sources

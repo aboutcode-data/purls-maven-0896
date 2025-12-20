@@ -44,3 +44,5 @@
 - pkg:maven/com.aliyun/alikafka20190916@1.7.3?classifier=sources
 - pkg:maven/com.aliyun/alikafka20190916@1.8.0
 - pkg:maven/com.aliyun/alikafka20190916@1.8.0?classifier=sources
+- pkg:maven/com.aliyun/alikafka20190916@1.8.1
+- pkg:maven/com.aliyun/alikafka20190916@1.8.1?classifier=sources

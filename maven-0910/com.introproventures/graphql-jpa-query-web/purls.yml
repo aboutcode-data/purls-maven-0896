@@ -130,3 +130,5 @@
 - pkg:maven/com.introproventures/graphql-jpa-query-web@1.2.6?classifier=sources
 - pkg:maven/com.introproventures/graphql-jpa-query-web@1.2.7
 - pkg:maven/com.introproventures/graphql-jpa-query-web@1.2.7?classifier=sources
+- pkg:maven/com.introproventures/graphql-jpa-query-web@1.2.8
+- pkg:maven/com.introproventures/graphql-jpa-query-web@1.2.8?classifier=sources

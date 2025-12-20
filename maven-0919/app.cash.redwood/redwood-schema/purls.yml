@@ -3,6 +3,7 @@
 - pkg:maven/app.cash.redwood/redwood-schema@0.10.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-schema@0.11.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-schema@0.12.0?classifier=sources
+- pkg:maven/app.cash.redwood/redwood-schema@0.13.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-schema@0.2.0?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-schema@0.2.1?classifier=sources
 - pkg:maven/app.cash.redwood/redwood-schema@0.3.0?classifier=sources

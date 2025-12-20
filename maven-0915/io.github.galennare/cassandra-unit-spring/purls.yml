@@ -1,0 +1,2 @@
+- pkg:maven/io.github.galennare/cassandra-unit-spring@5.0.0.0-rc1
+- pkg:maven/io.github.galennare/cassandra-unit-spring@5.0.0.0-rc1?classifier=sources

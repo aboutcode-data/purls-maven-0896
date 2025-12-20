@@ -306,3 +306,9 @@
 - pkg:maven/org.noear/redisson-solon-plugin@2.8.5?classifier=sources
 - pkg:maven/org.noear/redisson-solon-plugin@2.8.6
 - pkg:maven/org.noear/redisson-solon-plugin@2.8.6?classifier=sources
+- pkg:maven/org.noear/redisson-solon-plugin@2.9.0-M9
+- pkg:maven/org.noear/redisson-solon-plugin@2.9.0-M9?classifier=sources
+- pkg:maven/org.noear/redisson-solon-plugin@2.9.0-RC
+- pkg:maven/org.noear/redisson-solon-plugin@2.9.0-RC2
+- pkg:maven/org.noear/redisson-solon-plugin@2.9.0-RC2?classifier=sources
+- pkg:maven/org.noear/redisson-solon-plugin@2.9.0-RC?classifier=sources

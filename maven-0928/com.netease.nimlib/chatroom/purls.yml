@@ -32,6 +32,8 @@
 - pkg:maven/com.netease.nimlib/chatroom@10.2.6-beta?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@10.3.0-beta?classifier=sources
 - pkg:maven/com.netease.nimlib/chatroom@10.3.0-beta?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@10.3.1-beta?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@10.3.1-beta?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@2.5.0?classifier=sources
 - pkg:maven/com.netease.nimlib/chatroom@2.5.0?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@2.6.0?classifier=sources
@@ -450,8 +452,14 @@
 - pkg:maven/com.netease.nimlib/chatroom@9.16.3?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@9.16.4?classifier=sources
 - pkg:maven/com.netease.nimlib/chatroom@9.16.4?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@9.16.500?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@9.16.500?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@9.17.0?classifier=sources
 - pkg:maven/com.netease.nimlib/chatroom@9.17.0?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@9.17.1?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@9.17.1?type=aar
+- pkg:maven/com.netease.nimlib/chatroom@9.17.2?classifier=sources
+- pkg:maven/com.netease.nimlib/chatroom@9.17.2?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@9.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/chatroom@9.2.0?type=aar
 - pkg:maven/com.netease.nimlib/chatroom@9.2.1?classifier=sources

@@ -185,6 +185,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.43
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@4.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.0
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.0?classifier=sources-commercial
@@ -306,6 +307,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.5
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.50?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.forms.service@5.0.6

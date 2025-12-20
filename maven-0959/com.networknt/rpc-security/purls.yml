@@ -198,3 +198,5 @@
 - pkg:maven/com.networknt/rpc-security@2.0.8?classifier=sources
 - pkg:maven/com.networknt/rpc-security@2.0.9
 - pkg:maven/com.networknt/rpc-security@2.0.9?classifier=sources
+- pkg:maven/com.networknt/rpc-security@2.1.35
+- pkg:maven/com.networknt/rpc-security@2.1.35?classifier=sources

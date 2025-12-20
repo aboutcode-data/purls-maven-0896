@@ -14,3 +14,11 @@
 - pkg:maven/com.gu/panda-hmac-play_3-0_2.13@4.0.0-PREVIEW.antest-auto-release.2024-04-17T0901.b30caa15
 - pkg:maven/com.gu/panda-hmac-play_3-0_2.13@4.0.0-PREVIEW.antest-auto-release.2024-04-17T0901.b30caa15?classifier=sources
 - pkg:maven/com.gu/panda-hmac-play_3-0_2.13@4.0.0?classifier=sources
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@5.0.0
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@5.0.0?classifier=sources
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1103.af01b6ba
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1103.af01b6ba?classifier=sources
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1351.c4835010
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-08T1351.c4835010?classifier=sources
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-09T1450.4c87946a
+- pkg:maven/com.gu/panda-hmac-play_3-0_2.13@6.0.0-PREVIEW.update-settings-loading-and-parsing-code.2024-08-09T1450.4c87946a?classifier=sources

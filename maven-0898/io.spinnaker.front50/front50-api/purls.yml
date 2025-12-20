@@ -39,3 +39,6 @@
 - pkg:maven/io.spinnaker.front50/front50-api@2.31.1?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-api@2.31.2?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-api@2.32.0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-api@2.32.1?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-api@2.33.0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-api@2.34.0?classifier=sources

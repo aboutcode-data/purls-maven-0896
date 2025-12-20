@@ -20,3 +20,4 @@
 - pkg:maven/com.braze/android-sdk-unity@30.4.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-unity@31.0.0?classifier=sources
 - pkg:maven/com.braze/android-sdk-unity@31.1.0?classifier=sources
+- pkg:maven/com.braze/android-sdk-unity@32.0.0?classifier=sources

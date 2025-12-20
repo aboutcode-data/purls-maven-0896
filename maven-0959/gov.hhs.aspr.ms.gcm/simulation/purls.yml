@@ -2,3 +2,4 @@
 - pkg:maven/gov.hhs.aspr.ms.gcm/simulation@4.2.1?classifier=sources
 - pkg:maven/gov.hhs.aspr.ms.gcm/simulation@4.2.2?classifier=sources
 - pkg:maven/gov.hhs.aspr.ms.gcm/simulation@4.2.3?classifier=sources
+- pkg:maven/gov.hhs.aspr.ms.gcm/simulation@4.3.0?classifier=sources

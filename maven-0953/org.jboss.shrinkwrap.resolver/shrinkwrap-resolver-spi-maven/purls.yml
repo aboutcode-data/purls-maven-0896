@@ -78,3 +78,5 @@
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-spi-maven@3.2.1?classifier=sources
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-spi-maven@3.3.0
 - pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-spi-maven@3.3.0?classifier=sources
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-spi-maven@3.3.1
+- pkg:maven/org.jboss.shrinkwrap.resolver/shrinkwrap-resolver-spi-maven@3.3.1?classifier=sources

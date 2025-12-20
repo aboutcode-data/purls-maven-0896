@@ -46,3 +46,5 @@
 - pkg:maven/net.bootsfaces/bootsfaces@1.4.2?classifier=sources
 - pkg:maven/net.bootsfaces/bootsfaces@1.5.0
 - pkg:maven/net.bootsfaces/bootsfaces@1.5.0?classifier=sources
+- pkg:maven/net.bootsfaces/bootsfaces@2.0.0
+- pkg:maven/net.bootsfaces/bootsfaces@2.0.0?classifier=sources

@@ -155,6 +155,7 @@
 - pkg:maven/com.liferay/com.liferay.oauth.service@4.0.36
 - pkg:maven/com.liferay/com.liferay.oauth.service@4.0.36?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth.service@4.0.37?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth.service@4.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth.service@5.0.0
 - pkg:maven/com.liferay/com.liferay.oauth.service@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth.service@5.0.0?classifier=sources-commercial

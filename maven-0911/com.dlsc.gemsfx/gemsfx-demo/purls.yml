@@ -208,6 +208,12 @@
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.32.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.4.0
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.4.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.41.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.41.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.42.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.42.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.43.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.43.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.5.0
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.5.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@2.5.1

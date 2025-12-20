@@ -1,2 +1,3 @@
 - pkg:maven/ch.softappeal.konapi/konapi-jvm@1.0.0?classifier=sources
 - pkg:maven/ch.softappeal.konapi/konapi-jvm@2.0.0?classifier=sources
+- pkg:maven/ch.softappeal.konapi/konapi-jvm@2.0.1?classifier=sources

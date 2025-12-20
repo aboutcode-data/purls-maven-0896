@@ -5,3 +5,5 @@
 - pkg:maven/com.github.marschall/com.github.marschall.slf4j-equinox@2.0.2?classifier=sources
 - pkg:maven/com.github.marschall/com.github.marschall.slf4j-equinox@2.0.3?classifier=sources
 - pkg:maven/com.github.marschall/com.github.marschall.slf4j-equinox@2.0.4?classifier=sources
+- pkg:maven/com.github.marschall/com.github.marschall.slf4j-equinox@2.0.5
+- pkg:maven/com.github.marschall/com.github.marschall.slf4j-equinox@2.0.5?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.scala-native/nscplugin_3.5.1-RC1@0.5.3?classifier=sources
 - pkg:maven/org.scala-native/nscplugin_3.5.1-RC1@0.5.4
 - pkg:maven/org.scala-native/nscplugin_3.5.1-RC1@0.5.4?classifier=sources
+- pkg:maven/org.scala-native/nscplugin_3.5.1-RC1@0.5.5
+- pkg:maven/org.scala-native/nscplugin_3.5.1-RC1@0.5.5?classifier=sources

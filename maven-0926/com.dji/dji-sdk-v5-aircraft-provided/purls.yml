@@ -1,6 +1,7 @@
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.0.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.1.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.1.1?classifier=sources
+- pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.10.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.2.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.3.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.4.0?classifier=sources
@@ -13,3 +14,4 @@
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.8.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.9.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.9.1?classifier=sources
+- pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.9.2?classifier=sources

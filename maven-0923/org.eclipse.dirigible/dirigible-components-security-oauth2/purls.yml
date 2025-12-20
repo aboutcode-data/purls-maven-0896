@@ -101,6 +101,14 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.2
 - pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.20
 - pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.20?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.21
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.21?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.22
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.22?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.23
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.23?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.24
+- pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.24?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.2?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.3
 - pkg:maven/org.eclipse.dirigible/dirigible-components-security-oauth2@10.6.3?classifier=sources

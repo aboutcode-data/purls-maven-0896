@@ -24,3 +24,5 @@
 - pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-mybatisplus@4.1.2?classifier=sources
 - pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-mybatisplus@5.0.0
 - pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-mybatisplus@5.0.0?classifier=sources
+- pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-mybatisplus@5.0.1
+- pkg:maven/io.github.bes2008.solution.sqlhelper/sqlhelper-mybatisplus@5.0.1?classifier=sources

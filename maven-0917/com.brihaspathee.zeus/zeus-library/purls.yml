@@ -263,6 +263,10 @@
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.23?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.24
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.24?classifier=sources
+- pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.25
+- pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.25?classifier=sources
+- pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.26
+- pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.26?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.2?classifier=sources
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.3
 - pkg:maven/com.brihaspathee.zeus/zeus-library@2.0.3?classifier=sources

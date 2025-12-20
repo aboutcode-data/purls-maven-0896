@@ -38,3 +38,7 @@
 - pkg:maven/io.kinoplan/utils-integration-check_2.13@0.0.38?classifier=sources
 - pkg:maven/io.kinoplan/utils-integration-check_2.13@0.0.39
 - pkg:maven/io.kinoplan/utils-integration-check_2.13@0.0.39?classifier=sources
+- pkg:maven/io.kinoplan/utils-integration-check_2.13@0.0.40
+- pkg:maven/io.kinoplan/utils-integration-check_2.13@0.0.40?classifier=sources
+- pkg:maven/io.kinoplan/utils-integration-check_2.13@0.0.41
+- pkg:maven/io.kinoplan/utils-integration-check_2.13@0.0.41?classifier=sources

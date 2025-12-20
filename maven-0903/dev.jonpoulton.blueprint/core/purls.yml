@@ -1,2 +1,10 @@
 - pkg:maven/dev.jonpoulton.blueprint/core@0.3.0?classifier=sources
 - pkg:maven/dev.jonpoulton.blueprint/core@0.3.1?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.4.0?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.4.1?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.4.3?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.5.0?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.5.1?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.6.0?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.7.0?classifier=sources
+- pkg:maven/dev.jonpoulton.blueprint/core@0.8.0?classifier=sources

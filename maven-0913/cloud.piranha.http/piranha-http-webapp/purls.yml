@@ -86,3 +86,5 @@
 - pkg:maven/cloud.piranha.http/piranha-http-webapp@24.6.0?classifier=sources
 - pkg:maven/cloud.piranha.http/piranha-http-webapp@24.7.0
 - pkg:maven/cloud.piranha.http/piranha-http-webapp@24.7.0?classifier=sources
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@24.8.0
+- pkg:maven/cloud.piranha.http/piranha-http-webapp@24.8.0?classifier=sources

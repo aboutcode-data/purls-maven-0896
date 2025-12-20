@@ -47,3 +47,6 @@
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-docs@3.9.0
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-docs@4.0.0
 - pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-docs@4.1.0
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-docs@4.2.0
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-docs@4.2.1
+- pkg:maven/io.quarkiverse.neo4j/quarkus-neo4j-docs@4.2.2

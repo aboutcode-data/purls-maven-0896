@@ -35,6 +35,7 @@
 - pkg:maven/org.opensearch/opensearch-grok@2.13.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-grok@2.14.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-grok@2.15.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-grok@2.16.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-grok@2.2.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-grok@2.2.1?classifier=sources
 - pkg:maven/org.opensearch/opensearch-grok@2.3.0?classifier=sources

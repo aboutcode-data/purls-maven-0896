@@ -7,3 +7,4 @@
 - pkg:maven/io.appmetrica.analytics/analytics-identifiers@6.4.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-identifiers@6.5.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-identifiers@7.0.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-identifiers@7.1.0?classifier=sources

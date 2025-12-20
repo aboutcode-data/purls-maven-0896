@@ -8,3 +8,10 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.19.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.20.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.21.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.22.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.22.1?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.22.2?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.23.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.24.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.25.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios-iossimulatorarm64@1.26.0?classifier=sources

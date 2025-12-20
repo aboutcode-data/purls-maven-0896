@@ -34,6 +34,8 @@
 - pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.16.1?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.16.2
 - pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.16.2?classifier=sources
+- pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.17.0
+- pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.17.0?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.2.0
 - pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.2.0?classifier=sources
 - pkg:maven/org.eclipse.jkube/jkube-kit-resource-service@1.3.0

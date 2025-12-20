@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.jackrabbit.vault/org.apache.jackrabbit.vault.rcp@3.7.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit.vault/org.apache.jackrabbit.vault.rcp@3.7.2
 - pkg:maven/org.apache.jackrabbit.vault/org.apache.jackrabbit.vault.rcp@3.7.2?classifier=sources
+- pkg:maven/org.apache.jackrabbit.vault/org.apache.jackrabbit.vault.rcp@3.8.0
+- pkg:maven/org.apache.jackrabbit.vault/org.apache.jackrabbit.vault.rcp@3.8.0?classifier=sources

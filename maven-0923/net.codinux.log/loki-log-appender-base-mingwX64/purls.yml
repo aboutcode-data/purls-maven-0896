@@ -1,1 +1,3 @@
 - pkg:maven/net.codinux.log/loki-log-appender-base-mingwX64@0.5.2?classifier=sources
+- pkg:maven/net.codinux.log/loki-log-appender-base-mingwX64@0.5.4?classifier=sources
+- pkg:maven/net.codinux.log/loki-log-appender-base-mingwX64@0.5.5?classifier=sources

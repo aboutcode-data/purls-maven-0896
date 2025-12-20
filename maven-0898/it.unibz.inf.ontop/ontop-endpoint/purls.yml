@@ -34,3 +34,5 @@
 - pkg:maven/it.unibz.inf.ontop/ontop-endpoint@5.1.1?classifier=sources
 - pkg:maven/it.unibz.inf.ontop/ontop-endpoint@5.1.2
 - pkg:maven/it.unibz.inf.ontop/ontop-endpoint@5.1.2?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-endpoint@5.2.0
+- pkg:maven/it.unibz.inf.ontop/ontop-endpoint@5.2.0?classifier=sources

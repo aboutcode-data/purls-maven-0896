@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.hudi/hudi-utilities-bundle_2.13@0.15.0
 - pkg:maven/org.apache.hudi/hudi-utilities-bundle_2.13@0.15.0?classifier=sources
+- pkg:maven/org.apache.hudi/hudi-utilities-bundle_2.13@1.0.0-beta2
+- pkg:maven/org.apache.hudi/hudi-utilities-bundle_2.13@1.0.0-beta2?classifier=sources

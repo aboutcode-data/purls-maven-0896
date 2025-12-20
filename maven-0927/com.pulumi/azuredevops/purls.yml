@@ -96,3 +96,8 @@
 - pkg:maven/com.pulumi/azuredevops@3.2.0-alpha.1718255877?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@3.2.0-alpha.1718342177?classifier=sources
 - pkg:maven/com.pulumi/azuredevops@3.2.0-alpha.1718428488?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@3.3.0-alpha.1722057501?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@3.3.0-alpha.1722921872?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@3.3.0-alpha.1723008194?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@3.3.0-alpha.1723453798?classifier=sources
+- pkg:maven/com.pulumi/azuredevops@3.3.0-alpha.1723819589?classifier=sources

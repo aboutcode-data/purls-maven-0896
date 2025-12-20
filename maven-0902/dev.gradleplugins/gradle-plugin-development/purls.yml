@@ -124,3 +124,4 @@
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.7.1?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.7.2?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.8.0?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-plugin-development@1.9.0?classifier=sources

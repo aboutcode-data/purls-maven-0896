@@ -1,1 +1,2 @@
 - pkg:maven/io.spinnaker.fiat/fiat-integration@1.48.0?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@1.49.0?classifier=sources

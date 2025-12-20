@@ -4,3 +4,5 @@
 - pkg:maven/com.softwaremill.sttp.client4/core_native0.5_2.12@4.0.0-M14?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/core_native0.5_2.12@4.0.0-M16
 - pkg:maven/com.softwaremill.sttp.client4/core_native0.5_2.12@4.0.0-M16?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/core_native0.5_2.12@4.0.0-M17
+- pkg:maven/com.softwaremill.sttp.client4/core_native0.5_2.12@4.0.0-M17?classifier=sources

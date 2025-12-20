@@ -16,6 +16,8 @@
 - pkg:maven/io.streamnative/bkctl@4.15.4.1_arrowstreet?classifier=sources
 - pkg:maven/io.streamnative/bkctl@4.15.5.1
 - pkg:maven/io.streamnative/bkctl@4.15.5.1?classifier=sources
+- pkg:maven/io.streamnative/bkctl@4.15.5.2
+- pkg:maven/io.streamnative/bkctl@4.15.5.2?classifier=sources
 - pkg:maven/io.streamnative/bkctl@4.16.4.1
 - pkg:maven/io.streamnative/bkctl@4.16.4.1?classifier=sources
 - pkg:maven/io.streamnative/bkctl@branch-4.14.7.1_d4

@@ -15,6 +15,8 @@
 - pkg:maven/info.cqframework/model-jaxb@3.10.0?classifier=sources
 - pkg:maven/info.cqframework/model-jaxb@3.11.0?classifier=sources
 - pkg:maven/info.cqframework/model-jaxb@3.12.0?classifier=sources
+- pkg:maven/info.cqframework/model-jaxb@3.13.0?classifier=sources
+- pkg:maven/info.cqframework/model-jaxb@3.14.0?classifier=sources
 - pkg:maven/info.cqframework/model-jaxb@3.2.0?classifier=sources
 - pkg:maven/info.cqframework/model-jaxb@3.3.0?classifier=sources
 - pkg:maven/info.cqframework/model-jaxb@3.3.1?classifier=sources

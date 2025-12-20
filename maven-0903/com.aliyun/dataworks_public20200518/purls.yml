@@ -138,3 +138,5 @@
 - pkg:maven/com.aliyun/dataworks_public20200518@5.5.2?classifier=sources
 - pkg:maven/com.aliyun/dataworks_public20200518@5.6.0
 - pkg:maven/com.aliyun/dataworks_public20200518@5.6.0?classifier=sources
+- pkg:maven/com.aliyun/dataworks_public20200518@6.0.0
+- pkg:maven/com.aliyun/dataworks_public20200518@6.0.0?classifier=sources

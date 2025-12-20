@@ -36,6 +36,8 @@
 - pkg:maven/org.ossreviewtoolkit/notifier@25.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@26.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@27.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@28.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@29.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@5.0.0?classifier=sources

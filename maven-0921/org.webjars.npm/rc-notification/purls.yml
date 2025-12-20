@@ -24,3 +24,4 @@
 - pkg:maven/org.webjars.npm/rc-notification@5.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-notification@5.0.4
 - pkg:maven/org.webjars.npm/rc-notification@5.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/rc-notification@5.6.0

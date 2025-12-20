@@ -12,3 +12,5 @@
 - pkg:maven/de.fraunhofer.iosb.ilt.faaast.service/assetconnection-common@1.0.0?classifier=sources
 - pkg:maven/de.fraunhofer.iosb.ilt.faaast.service/assetconnection-common@1.0.1
 - pkg:maven/de.fraunhofer.iosb.ilt.faaast.service/assetconnection-common@1.0.1?classifier=sources
+- pkg:maven/de.fraunhofer.iosb.ilt.faaast.service/assetconnection-common@1.1.0
+- pkg:maven/de.fraunhofer.iosb.ilt.faaast.service/assetconnection-common@1.1.0?classifier=sources

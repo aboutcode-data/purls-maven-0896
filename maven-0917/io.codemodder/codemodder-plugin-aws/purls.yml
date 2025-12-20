@@ -46,6 +46,17 @@
 - pkg:maven/io.codemodder/codemodder-plugin-aws@0.88.1?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-aws@0.89.0?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-aws@0.89.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.89.2?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.90.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.90.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.91.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.92.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.92.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.92.2?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.92.3?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.93.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.93.1?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-aws@v0.72.2?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-aws@v0.78.0?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-aws@v0.87.0?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@v0.91.0?classifier=sources

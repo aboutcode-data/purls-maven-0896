@@ -12,3 +12,5 @@
 - pkg:maven/io.github.wslxm/xj-base-generate@2.2.6?classifier=sources
 - pkg:maven/io.github.wslxm/xj-base-generate@2.2.7
 - pkg:maven/io.github.wslxm/xj-base-generate@2.2.7?classifier=sources
+- pkg:maven/io.github.wslxm/xj-base-generate@2.2.8
+- pkg:maven/io.github.wslxm/xj-base-generate@2.2.8?classifier=sources

@@ -94,3 +94,5 @@
 - pkg:maven/net.maizegenetics/tassel@5.2.92?classifier=sources
 - pkg:maven/net.maizegenetics/tassel@5.2.93
 - pkg:maven/net.maizegenetics/tassel@5.2.93?classifier=sources
+- pkg:maven/net.maizegenetics/tassel@5.2.94
+- pkg:maven/net.maizegenetics/tassel@5.2.94?classifier=sources

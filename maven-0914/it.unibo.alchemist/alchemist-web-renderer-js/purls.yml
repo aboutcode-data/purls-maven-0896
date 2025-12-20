@@ -95,7 +95,14 @@
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.11?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.12?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.13?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.14?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.15?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.16?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.17?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.18?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.19?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.20?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.2?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.4?classifier=sources
@@ -104,3 +111,4 @@
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.7?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.8?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.0.9?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@34.1.0?classifier=sources

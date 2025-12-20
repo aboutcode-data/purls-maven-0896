@@ -4,3 +4,4 @@
 - pkg:maven/io.github.dyegosutil/aws-s3-presigned-post@0.1.0-beta.7?classifier=sources
 - pkg:maven/io.github.dyegosutil/aws-s3-presigned-post@0.1.0-beta?classifier=sources
 - pkg:maven/io.github.dyegosutil/aws-s3-presigned-post@1.0.0?classifier=sources
+- pkg:maven/io.github.dyegosutil/aws-s3-presigned-post@1.0.1?classifier=sources

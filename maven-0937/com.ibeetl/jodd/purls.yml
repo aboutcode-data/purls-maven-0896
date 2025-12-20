@@ -32,3 +32,5 @@
 - pkg:maven/com.ibeetl/jodd@3.16.1.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/jodd@3.16.2.RELEASE
 - pkg:maven/com.ibeetl/jodd@3.16.2.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/jodd@3.17.0.RELEASE
+- pkg:maven/com.ibeetl/jodd@3.17.0.RELEASE?classifier=sources

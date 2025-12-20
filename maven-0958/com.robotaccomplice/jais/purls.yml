@@ -336,3 +336,5 @@
 - pkg:maven/com.robotaccomplice/jais@2.1.8?classifier=sources
 - pkg:maven/com.robotaccomplice/jais@2.1.9
 - pkg:maven/com.robotaccomplice/jais@2.1.9?classifier=sources
+- pkg:maven/com.robotaccomplice/jais@3.0.0
+- pkg:maven/com.robotaccomplice/jais@3.0.0?classifier=sources

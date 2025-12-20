@@ -6,3 +6,7 @@
 - pkg:maven/cn.javaex/mybatisjj-mysql@1.2.1?classifier=sources
 - pkg:maven/cn.javaex/mybatisjj-mysql@2.0.0
 - pkg:maven/cn.javaex/mybatisjj-mysql@2.0.0?classifier=sources
+- pkg:maven/cn.javaex/mybatisjj-mysql@3.0.0
+- pkg:maven/cn.javaex/mybatisjj-mysql@3.0.0?classifier=sources
+- pkg:maven/cn.javaex/mybatisjj-mysql@test.2024.07.15
+- pkg:maven/cn.javaex/mybatisjj-mysql@test.2024.07.15?classifier=sources

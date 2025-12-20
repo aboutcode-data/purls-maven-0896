@@ -28,3 +28,5 @@
 - pkg:maven/net.yangkx/mmkv@0.4.4?classifier=sources
 - pkg:maven/net.yangkx/mmkv@0.5.0?classifier=sources
 - pkg:maven/net.yangkx/mmkv@0.5.1?classifier=sources
+- pkg:maven/net.yangkx/mmkv@0.5.2?classifier=sources
+- pkg:maven/net.yangkx/mmkv@0.5.3?classifier=sources
