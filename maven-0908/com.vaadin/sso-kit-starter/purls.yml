@@ -1,5 +1,7 @@
 - pkg:maven/com.vaadin/sso-kit-starter@1.0.0
 - pkg:maven/com.vaadin/sso-kit-starter@1.0.0?classifier=sources
+- pkg:maven/com.vaadin/sso-kit-starter@1.0.1
+- pkg:maven/com.vaadin/sso-kit-starter@1.0.1?classifier=sources
 - pkg:maven/com.vaadin/sso-kit-starter@2.0.0
 - pkg:maven/com.vaadin/sso-kit-starter@2.0.0?classifier=sources
 - pkg:maven/com.vaadin/sso-kit-starter@2.0.1

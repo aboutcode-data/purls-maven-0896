@@ -3,3 +3,5 @@
 - pkg:maven/us.ihmc/scs2-examples-test@17-0.19.0?classifier=sources
 - pkg:maven/us.ihmc/scs2-examples-test@17-0.20.0?classifier=sources
 - pkg:maven/us.ihmc/scs2-examples-test@17-0.20.1?classifier=sources
+- pkg:maven/us.ihmc/scs2-examples-test@17-0.22.0?classifier=sources
+- pkg:maven/us.ihmc/scs2-examples-test@17-0.22.2?classifier=sources

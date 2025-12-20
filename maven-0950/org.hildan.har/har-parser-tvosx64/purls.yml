@@ -6,3 +6,7 @@
 - pkg:maven/org.hildan.har/har-parser-tvosx64@0.6.0?classifier=sources
 - pkg:maven/org.hildan.har/har-parser-tvosx64@1.0.0?classifier=sources
 - pkg:maven/org.hildan.har/har-parser-tvosx64@1.1.0?classifier=sources
+- pkg:maven/org.hildan.har/har-parser-tvosx64@2.0.0?classifier=sources
+- pkg:maven/org.hildan.har/har-parser-tvosx64@2.0.1?classifier=sources
+- pkg:maven/org.hildan.har/har-parser-tvosx64@2.1.0?classifier=sources
+- pkg:maven/org.hildan.har/har-parser-tvosx64@2.1.1?classifier=sources

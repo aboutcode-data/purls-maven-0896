@@ -43,3 +43,10 @@
 - pkg:maven/com.pulumi/eks@2.1.0-alpha.1701107366%2Ba0291fb8?classifier=sources
 - pkg:maven/com.pulumi/eks@2.1.0-alpha.1701461107%2Beaf08101?classifier=sources
 - pkg:maven/com.pulumi/eks@2.2.0-alpha.1706126808%2B47eac43f?classifier=sources
+- pkg:maven/com.pulumi/eks@2.2.0-alpha.1706145471%2B9154e160?classifier=sources
+- pkg:maven/com.pulumi/eks@2.2.0-alpha.1706306899%2B160a7531?classifier=sources
+- pkg:maven/com.pulumi/eks@2.2.0-alpha.1706319172%2Bf43b1d81?classifier=sources
+- pkg:maven/com.pulumi/eks@2.2.0-alpha.1706548750%2B62b0c2c7?classifier=sources
+- pkg:maven/com.pulumi/eks@2.2.0?classifier=sources
+- pkg:maven/com.pulumi/eks@2.2.1?classifier=sources
+- pkg:maven/com.pulumi/eks@2.3.0-alpha.1706633163%2Ba7375eed?classifier=sources

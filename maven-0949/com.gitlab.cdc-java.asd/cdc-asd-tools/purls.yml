@@ -8,3 +8,13 @@
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.4.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.5.0
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.5.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.6.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.6.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.7.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.7.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.8.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.8.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.8.1
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.8.1?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.9.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.9.0?classifier=sources

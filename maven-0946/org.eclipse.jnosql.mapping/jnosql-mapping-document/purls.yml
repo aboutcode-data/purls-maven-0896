@@ -12,3 +12,5 @@
 - pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-document@1.0.3?classifier=sources
 - pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-document@1.0.4
 - pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-document@1.0.4?classifier=sources
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-document@1.1.0
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-document@1.1.0?classifier=sources

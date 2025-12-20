@@ -68,6 +68,12 @@
 - pkg:maven/com.google.cloud/google-cloud-private-catalog@0.33.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-private-catalog@0.34.0
 - pkg:maven/com.google.cloud/google-cloud-private-catalog@0.34.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-private-catalog@0.35.0
+- pkg:maven/com.google.cloud/google-cloud-private-catalog@0.35.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-private-catalog@0.36.0
+- pkg:maven/com.google.cloud/google-cloud-private-catalog@0.36.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-private-catalog@0.37.0
+- pkg:maven/com.google.cloud/google-cloud-private-catalog@0.37.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-private-catalog@0.4.0
 - pkg:maven/com.google.cloud/google-cloud-private-catalog@0.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-private-catalog@0.4.1

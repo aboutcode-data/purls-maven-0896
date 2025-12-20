@@ -2,6 +2,8 @@
 - pkg:maven/cc.carm.lib/easyplugin-user@1.5.10?classifier=sources
 - pkg:maven/cc.carm.lib/easyplugin-user@1.5.11
 - pkg:maven/cc.carm.lib/easyplugin-user@1.5.11?classifier=sources
+- pkg:maven/cc.carm.lib/easyplugin-user@1.5.12
+- pkg:maven/cc.carm.lib/easyplugin-user@1.5.12?classifier=sources
 - pkg:maven/cc.carm.lib/easyplugin-user@1.5.4
 - pkg:maven/cc.carm.lib/easyplugin-user@1.5.4?classifier=sources
 - pkg:maven/cc.carm.lib/easyplugin-user@1.5.6

@@ -106,6 +106,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.10.1?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.10.2
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.10.2?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.11.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.11.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-hazelcast4@5.3.0

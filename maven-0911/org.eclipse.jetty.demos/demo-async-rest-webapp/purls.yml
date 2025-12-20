@@ -26,6 +26,8 @@
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.19?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.1?type=war
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.20?classifier=sources
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.20?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.2?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@10.0.3?classifier=sources
@@ -70,6 +72,8 @@
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.19?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.1?type=war
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.20?classifier=sources
+- pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.20?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.2?type=war
 - pkg:maven/org.eclipse.jetty.demos/demo-async-rest-webapp@11.0.3?classifier=sources

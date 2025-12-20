@@ -374,3 +374,5 @@
 - pkg:maven/com.comcast/ip4s-test-kit_sjs1_2.13@3.3.0?classifier=sources
 - pkg:maven/com.comcast/ip4s-test-kit_sjs1_2.13@3.4.0
 - pkg:maven/com.comcast/ip4s-test-kit_sjs1_2.13@3.4.0?classifier=sources
+- pkg:maven/com.comcast/ip4s-test-kit_sjs1_2.13@3.5.0
+- pkg:maven/com.comcast/ip4s-test-kit_sjs1_2.13@3.5.0?classifier=sources

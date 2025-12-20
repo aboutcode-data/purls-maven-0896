@@ -74,3 +74,11 @@
 - pkg:maven/com.segment.publicapi/segment-publicapi@38.3.0?classifier=sources
 - pkg:maven/com.segment.publicapi/segment-publicapi@38.4.0
 - pkg:maven/com.segment.publicapi/segment-publicapi@38.4.0?classifier=sources
+- pkg:maven/com.segment.publicapi/segment-publicapi@39.0.0
+- pkg:maven/com.segment.publicapi/segment-publicapi@39.0.0?classifier=sources
+- pkg:maven/com.segment.publicapi/segment-publicapi@40.0.0
+- pkg:maven/com.segment.publicapi/segment-publicapi@40.0.0?classifier=sources
+- pkg:maven/com.segment.publicapi/segment-publicapi@41.0.0
+- pkg:maven/com.segment.publicapi/segment-publicapi@41.0.0?classifier=sources
+- pkg:maven/com.segment.publicapi/segment-publicapi@42.0.0
+- pkg:maven/com.segment.publicapi/segment-publicapi@42.0.0?classifier=sources

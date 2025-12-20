@@ -134,3 +134,5 @@
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-jwt@2.3.8?classifier=sources
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-jwt@2.3.9
 - pkg:maven/net.wenzuo/atom-spring-boot-starter-jwt@2.3.9?classifier=sources
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-jwt@2.4.0
+- pkg:maven/net.wenzuo/atom-spring-boot-starter-jwt@2.4.0?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.12.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.12.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.13.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.13.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.14.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.14.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.15.0
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@2.15.0?classifier=sources

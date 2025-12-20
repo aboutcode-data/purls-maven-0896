@@ -50,8 +50,11 @@
 - pkg:maven/me.proton.core/account@18.4.0?classifier=sources
 - pkg:maven/me.proton.core/account@18.4.1?classifier=sources
 - pkg:maven/me.proton.core/account@18.4.2?classifier=sources
+- pkg:maven/me.proton.core/account@19.0.0?classifier=sources
+- pkg:maven/me.proton.core/account@19.1.0?classifier=sources
 - pkg:maven/me.proton.core/account@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/account@2.0.0?classifier=sources
+- pkg:maven/me.proton.core/account@20.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@4.1.0?classifier=sources

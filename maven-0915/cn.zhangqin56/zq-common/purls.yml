@@ -1,0 +1,4 @@
+- pkg:maven/cn.zhangqin56/zq-common@1.0.0
+- pkg:maven/cn.zhangqin56/zq-common@1.0.0?classifier=sources
+- pkg:maven/cn.zhangqin56/zq-common@1.0.2
+- pkg:maven/cn.zhangqin56/zq-common@1.0.2?classifier=sources

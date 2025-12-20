@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE210?classifier=sources

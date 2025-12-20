@@ -8,3 +8,4 @@
 - pkg:maven/com.atlassian.oai/swagger-request-validator-spring-web-client-legacy@2.38.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-spring-web-client-legacy@2.38.1?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-spring-web-client-legacy@2.39.0?classifier=sources
+- pkg:maven/com.atlassian.oai/swagger-request-validator-spring-web-client-legacy@2.40.0?classifier=sources

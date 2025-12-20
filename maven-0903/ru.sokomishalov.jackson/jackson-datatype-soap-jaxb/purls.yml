@@ -1,0 +1,2 @@
+- pkg:maven/ru.sokomishalov.jackson/jackson-datatype-soap-jaxb@0.3.0
+- pkg:maven/ru.sokomishalov.jackson/jackson-datatype-soap-jaxb@0.3.0?classifier=sources

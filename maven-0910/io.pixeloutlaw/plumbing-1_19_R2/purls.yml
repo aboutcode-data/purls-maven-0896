@@ -4,3 +4,6 @@
 - pkg:maven/io.pixeloutlaw/plumbing-1_19_R2@6.1.0?classifier=sources
 - pkg:maven/io.pixeloutlaw/plumbing-1_19_R2@6.1.1?classifier=sources
 - pkg:maven/io.pixeloutlaw/plumbing-1_19_R2@6.2.0?classifier=sources
+- pkg:maven/io.pixeloutlaw/plumbing-1_19_R2@7.0.0?classifier=sources
+- pkg:maven/io.pixeloutlaw/plumbing-1_19_R2@8.0.0?classifier=sources
+- pkg:maven/io.pixeloutlaw/plumbing-1_19_R2@8.0.1?classifier=sources

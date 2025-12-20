@@ -23,3 +23,4 @@
 - pkg:maven/org.apache.beam/beam-runners-spark-3@2.51.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-spark-3@2.52.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-runners-spark-3@2.53.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-runners-spark-3@2.54.0?classifier=sources

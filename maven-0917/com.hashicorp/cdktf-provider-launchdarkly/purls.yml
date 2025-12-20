@@ -20,3 +20,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@3.0.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@3.1.0
 - pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@3.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@4.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-launchdarkly@4.0.0?classifier=sources

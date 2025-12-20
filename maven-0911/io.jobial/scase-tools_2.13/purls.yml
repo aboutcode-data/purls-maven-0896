@@ -158,6 +158,8 @@
 - pkg:maven/io.jobial/scase-tools_2.13@1.4.7?classifier=sources
 - pkg:maven/io.jobial/scase-tools_2.13@1.4.8
 - pkg:maven/io.jobial/scase-tools_2.13@1.4.8?classifier=sources
+- pkg:maven/io.jobial/scase-tools_2.13@1.4.9
+- pkg:maven/io.jobial/scase-tools_2.13@1.4.9?classifier=sources
 - pkg:maven/io.jobial/scase-tools_2.13@2.0.0
 - pkg:maven/io.jobial/scase-tools_2.13@2.0.0?classifier=sources
 - pkg:maven/io.jobial/scase-tools_2.13@2.0.1

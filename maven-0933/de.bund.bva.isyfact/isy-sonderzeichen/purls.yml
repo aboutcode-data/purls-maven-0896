@@ -38,3 +38,5 @@
 - pkg:maven/de.bund.bva.isyfact/isy-sonderzeichen@2.4.4?classifier=sources
 - pkg:maven/de.bund.bva.isyfact/isy-sonderzeichen@2.5.0
 - pkg:maven/de.bund.bva.isyfact/isy-sonderzeichen@2.5.0?classifier=sources
+- pkg:maven/de.bund.bva.isyfact/isy-sonderzeichen@3.0.0
+- pkg:maven/de.bund.bva.isyfact/isy-sonderzeichen@3.0.0?classifier=sources

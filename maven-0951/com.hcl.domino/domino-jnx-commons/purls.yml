@@ -56,3 +56,11 @@
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.31.0?classifier=sources
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.32.0
 - pkg:maven/com.hcl.domino/domino-jnx-commons@1.32.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.33.0
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.33.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.34.0
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.34.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.35.0
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.35.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.36.0
+- pkg:maven/com.hcl.domino/domino-jnx-commons@1.36.0?classifier=sources

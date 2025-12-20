@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/mindlive20210301@0.0.16
 - pkg:maven/com.aliyun/mindlive20210301@0.0.16?classifier=sources
+- pkg:maven/com.aliyun/mindlive20210301@0.0.17
+- pkg:maven/com.aliyun/mindlive20210301@0.0.17?classifier=sources

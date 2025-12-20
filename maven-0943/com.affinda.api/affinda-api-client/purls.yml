@@ -48,6 +48,8 @@
 - pkg:maven/com.affinda.api/affinda-api-client@3.12.0?classifier=sources
 - pkg:maven/com.affinda.api/affinda-api-client@3.13.0
 - pkg:maven/com.affinda.api/affinda-api-client@3.13.0?classifier=sources
+- pkg:maven/com.affinda.api/affinda-api-client@3.14.0
+- pkg:maven/com.affinda.api/affinda-api-client@3.14.0?classifier=sources
 - pkg:maven/com.affinda.api/affinda-api-client@3.2.0
 - pkg:maven/com.affinda.api/affinda-api-client@3.2.0?classifier=sources
 - pkg:maven/com.affinda.api/affinda-api-client@3.3.0

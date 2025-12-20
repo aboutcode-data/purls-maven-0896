@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.james/james-server-webadmin-protocols@3.8.1
+- pkg:maven/org.apache.james/james-server-webadmin-protocols@3.8.1?classifier=sources

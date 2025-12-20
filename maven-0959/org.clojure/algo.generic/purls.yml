@@ -6,3 +6,5 @@
 - pkg:maven/org.clojure/algo.generic@0.1.2?classifier=sources
 - pkg:maven/org.clojure/algo.generic@0.1.3
 - pkg:maven/org.clojure/algo.generic@0.1.3?classifier=sources
+- pkg:maven/org.clojure/algo.generic@1.0.0
+- pkg:maven/org.clojure/algo.generic@1.0.0?classifier=sources

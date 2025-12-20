@@ -3,3 +3,4 @@
 - pkg:maven/com.github.gumtreediff/gen.antlr3-r@2.1.2
 - pkg:maven/com.github.gumtreediff/gen.antlr3-r@2.1.2?classifier=sources
 - pkg:maven/com.github.gumtreediff/gen.antlr3-r@3.0.0?classifier=sources
+- pkg:maven/com.github.gumtreediff/gen.antlr3-r@4.0.0-beta1?classifier=sources

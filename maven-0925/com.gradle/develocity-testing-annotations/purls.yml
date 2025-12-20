@@ -1,1 +1,2 @@
+- pkg:maven/com.gradle/develocity-testing-annotations@2.0.1?classifier=sources
 - pkg:maven/com.gradle/develocity-testing-annotations@2.0?classifier=sources

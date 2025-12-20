@@ -1,0 +1,2 @@
+- pkg:maven/io.kronor.component/fallback@%222.3.4%22?classifier=sources
+- pkg:maven/io.kronor.component/fallback@2.3.4?classifier=sources

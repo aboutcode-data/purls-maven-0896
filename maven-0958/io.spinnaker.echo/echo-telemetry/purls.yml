@@ -13,6 +13,7 @@
 - pkg:maven/io.spinnaker.echo/echo-telemetry@2.34.4?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-telemetry@2.34.5?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-telemetry@2.34.6?classifier=sources
+- pkg:maven/io.spinnaker.echo/echo-telemetry@2.34.7?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-telemetry@2.35.0?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-telemetry@2.36.0?classifier=sources
 - pkg:maven/io.spinnaker.echo/echo-telemetry@2.36.1?classifier=sources

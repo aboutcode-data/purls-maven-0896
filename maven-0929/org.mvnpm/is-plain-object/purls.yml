@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/is-plain-object@2.0.4?classifier=sources
 - pkg:maven/org.mvnpm/is-plain-object@5.0.0?classifier=sources

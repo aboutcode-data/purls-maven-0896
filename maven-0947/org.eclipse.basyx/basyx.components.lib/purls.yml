@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.basyx/basyx.components.lib@1.4.0?classifier=sources
 - pkg:maven/org.eclipse.basyx/basyx.components.lib@1.5.0
 - pkg:maven/org.eclipse.basyx/basyx.components.lib@1.5.0?classifier=sources
+- pkg:maven/org.eclipse.basyx/basyx.components.lib@1.5.1
+- pkg:maven/org.eclipse.basyx/basyx.components.lib@1.5.1?classifier=sources

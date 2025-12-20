@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/mvp.css@1.14.0
+- pkg:maven/org.webjars.npm/mvp.css@1.14.0?classifier=sources
 - pkg:maven/org.webjars.npm/mvp.css@1.6.2
 - pkg:maven/org.webjars.npm/mvp.css@1.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/mvp.css@1.6.3

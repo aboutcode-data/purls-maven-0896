@@ -124,6 +124,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.20.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.21.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.21.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.22.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.22.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.3.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.3.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-jacc@1.15.4.Final

@@ -42,3 +42,5 @@
 - pkg:maven/cn.iosd/simple-starter-dict@2023.5.2.0?classifier=sources
 - pkg:maven/cn.iosd/simple-starter-dict@2024.1.0.0
 - pkg:maven/cn.iosd/simple-starter-dict@2024.1.0.0?classifier=sources
+- pkg:maven/cn.iosd/simple-starter-dict@2024.1.1.0
+- pkg:maven/cn.iosd/simple-starter-dict@2024.1.1.0?classifier=sources

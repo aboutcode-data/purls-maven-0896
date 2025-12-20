@@ -1,2 +1,6 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.32.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.32.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.33.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.33.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.34.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-generativeaiinference@3.34.0?classifier=sources

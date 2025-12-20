@@ -58,3 +58,5 @@
 - pkg:maven/org.patterntesting/patterntesting-concurrent@2.2.20-YEARS?classifier=sources
 - pkg:maven/org.patterntesting/patterntesting-concurrent@2.3.0
 - pkg:maven/org.patterntesting/patterntesting-concurrent@2.3.0?classifier=sources
+- pkg:maven/org.patterntesting/patterntesting-concurrent@2.4.0
+- pkg:maven/org.patterntesting/patterntesting-concurrent@2.4.0?classifier=sources

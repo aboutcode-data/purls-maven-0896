@@ -7,6 +7,7 @@
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@11.6.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@11.7.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@11.8.0?classifier=sources
+- pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@12.0.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@6.10.0?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@6.10.1?classifier=sources
 - pkg:maven/org.thepalaceproject.audiobook/org.librarysimplified.audiobook.rbdigital@6.11.0?classifier=sources

@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-ant@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-ant@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-ant@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-ant@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-debugger-jpda-ant@RELEASE90?classifier=sources

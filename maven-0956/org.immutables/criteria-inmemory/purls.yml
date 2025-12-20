@@ -4,6 +4,8 @@
 - pkg:maven/org.immutables/criteria-inmemory@2.10.0-rc1
 - pkg:maven/org.immutables/criteria-inmemory@2.10.0-rc1?classifier=sources
 - pkg:maven/org.immutables/criteria-inmemory@2.10.0?classifier=sources
+- pkg:maven/org.immutables/criteria-inmemory@2.10.1
+- pkg:maven/org.immutables/criteria-inmemory@2.10.1?classifier=sources
 - pkg:maven/org.immutables/criteria-inmemory@2.8.0
 - pkg:maven/org.immutables/criteria-inmemory@2.8.0-CriteriaPreview0
 - pkg:maven/org.immutables/criteria-inmemory@2.8.0-CriteriaPreview0?classifier=sources

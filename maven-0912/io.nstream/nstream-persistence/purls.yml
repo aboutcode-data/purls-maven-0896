@@ -1,0 +1,2 @@
+- pkg:maven/io.nstream/nstream-persistence@4.5.8?classifier=sources
+- pkg:maven/io.nstream/nstream-persistence@4.6.9?classifier=sources

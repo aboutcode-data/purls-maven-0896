@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.brooklyn.ui.modules/brooklyn-ui-logout@1.0.0-M1?type=war
 - pkg:maven/org.apache.brooklyn.ui.modules/brooklyn-ui-logout@1.0.0?classifier=sources
 - pkg:maven/org.apache.brooklyn.ui.modules/brooklyn-ui-logout@1.0.0?type=war
+- pkg:maven/org.apache.brooklyn.ui.modules/brooklyn-ui-logout@1.1.0?classifier=sources
+- pkg:maven/org.apache.brooklyn.ui.modules/brooklyn-ui-logout@1.1.0?type=war

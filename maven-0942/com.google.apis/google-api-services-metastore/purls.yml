@@ -30,6 +30,12 @@
 - pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20231102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20231205-2.0.0
 - pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20231205-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20231214-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20231214-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20240111-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20240111-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20240123-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1-rev20240123-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20201202-1.31.0
 - pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20201202-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20201212-1.31.0
@@ -140,6 +146,12 @@
 - pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20231102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20231205-2.0.0
 - pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20231205-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20231214-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20231214-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20240111-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20240111-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20240123-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1alpha-rev20240123-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20201212-1.31.0
 - pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20201212-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20210210-1.31.0
@@ -248,3 +260,9 @@
 - pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20231102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20231205-2.0.0
 - pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20231205-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20231214-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20231214-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20240111-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20240111-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20240123-2.0.0
+- pkg:maven/com.google.apis/google-api-services-metastore@v1beta-rev20240123-2.0.0?classifier=sources

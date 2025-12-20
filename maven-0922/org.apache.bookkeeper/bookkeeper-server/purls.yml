@@ -50,6 +50,8 @@
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.16.2?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.16.3
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.16.3?classifier=sources
+- pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.16.4
+- pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.16.4?classifier=sources
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.0
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.1
 - pkg:maven/org.apache.bookkeeper/bookkeeper-server@4.2.2

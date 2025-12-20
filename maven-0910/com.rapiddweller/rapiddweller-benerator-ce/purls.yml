@@ -16,3 +16,5 @@
 - pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@3.1.0-jdk-11?classifier=sources
 - pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@3.2.0-jdk-11
 - pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@3.2.0-jdk-11?classifier=sources
+- pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@3.2.1-jdk-11
+- pkg:maven/com.rapiddweller/rapiddweller-benerator-ce@3.2.1-jdk-11?classifier=sources

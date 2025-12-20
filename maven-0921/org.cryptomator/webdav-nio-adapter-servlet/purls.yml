@@ -30,3 +30,5 @@
 - pkg:maven/org.cryptomator/webdav-nio-adapter-servlet@1.2.3?classifier=sources
 - pkg:maven/org.cryptomator/webdav-nio-adapter-servlet@1.2.4
 - pkg:maven/org.cryptomator/webdav-nio-adapter-servlet@1.2.4?classifier=sources
+- pkg:maven/org.cryptomator/webdav-nio-adapter-servlet@1.2.5
+- pkg:maven/org.cryptomator/webdav-nio-adapter-servlet@1.2.5?classifier=sources

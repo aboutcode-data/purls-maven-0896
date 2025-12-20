@@ -2,3 +2,9 @@
 - pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.1?classifier=sources
 - pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.2
 - pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.2?classifier=sources
+- pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.3-alpha
+- pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.3-alpha?classifier=sources
+- pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.4
+- pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.4?classifier=sources
+- pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.5
+- pkg:maven/com.ofcoder.klein.storage.api/klein-storage-facade@0.0.5?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/org.bytedeco/bullet@3.24-1.5.8
 - pkg:maven/org.bytedeco/bullet@3.24-1.5.8?classifier=sources
+- pkg:maven/org.bytedeco/bullet@3.25-1.5.10
+- pkg:maven/org.bytedeco/bullet@3.25-1.5.10?classifier=sources
 - pkg:maven/org.bytedeco/bullet@3.25-1.5.9
 - pkg:maven/org.bytedeco/bullet@3.25-1.5.9?classifier=sources

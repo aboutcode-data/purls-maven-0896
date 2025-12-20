@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-spi@1.1.2
+- pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-spi@1.1.2?classifier=sources

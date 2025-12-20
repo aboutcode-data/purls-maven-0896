@@ -436,3 +436,5 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wedata@3.1.952?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wedata@3.1.954
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wedata@3.1.954?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wedata@3.1.960
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-wedata@3.1.960?classifier=sources

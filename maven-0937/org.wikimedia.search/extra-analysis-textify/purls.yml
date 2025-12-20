@@ -1,1 +1,2 @@
 - pkg:maven/org.wikimedia.search/extra-analysis-textify@7.10.2-wmf10?classifier=sources
+- pkg:maven/org.wikimedia.search/extra-analysis-textify@7.10.2-wmf12?classifier=sources

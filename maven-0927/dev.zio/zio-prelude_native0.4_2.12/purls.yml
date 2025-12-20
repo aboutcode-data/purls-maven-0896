@@ -25,6 +25,8 @@
 - pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC21?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC22
 - pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC22?classifier=sources
+- pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC23
+- pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC23?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC2?classifier=sources
 - pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC3
 - pkg:maven/dev.zio/zio-prelude_native0.4_2.12@1.0.0-RC3?classifier=sources

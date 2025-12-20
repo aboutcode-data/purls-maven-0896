@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-core@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-core@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-core@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-core@RELEASE210?classifier=sources

@@ -20,3 +20,7 @@
 - pkg:maven/net.optionfactory.spring/content-security-policies@9.2?classifier=sources
 - pkg:maven/net.optionfactory.spring/content-security-policies@9.3
 - pkg:maven/net.optionfactory.spring/content-security-policies@9.3?classifier=sources
+- pkg:maven/net.optionfactory.spring/content-security-policies@9.4
+- pkg:maven/net.optionfactory.spring/content-security-policies@9.4?classifier=sources
+- pkg:maven/net.optionfactory.spring/content-security-policies@9.5
+- pkg:maven/net.optionfactory.spring/content-security-policies@9.5?classifier=sources

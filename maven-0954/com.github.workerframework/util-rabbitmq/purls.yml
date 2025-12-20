@@ -48,3 +48,5 @@
 - pkg:maven/com.github.workerframework/util-rabbitmq@6.0.0-1107?classifier=sources
 - pkg:maven/com.github.workerframework/util-rabbitmq@7.0.0-1167
 - pkg:maven/com.github.workerframework/util-rabbitmq@7.0.0-1167?classifier=sources
+- pkg:maven/com.github.workerframework/util-rabbitmq@8.0.0-1196
+- pkg:maven/com.github.workerframework/util-rabbitmq@8.0.0-1196?classifier=sources

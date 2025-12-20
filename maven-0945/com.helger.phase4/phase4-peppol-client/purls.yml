@@ -82,6 +82,8 @@
 - pkg:maven/com.helger.phase4/phase4-peppol-client@1.4.3?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-peppol-client@1.4.4
 - pkg:maven/com.helger.phase4/phase4-peppol-client@1.4.4?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-client@1.4.5
+- pkg:maven/com.helger.phase4/phase4-peppol-client@1.4.5?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.0.0
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.0.0-rc1
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.0.0-rc1?classifier=sources
@@ -116,3 +118,13 @@
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.5.2?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.6.0
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.6.0?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.0
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.0?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.1
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.1?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.2
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.2?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.3
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.3?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.4
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.4?classifier=sources

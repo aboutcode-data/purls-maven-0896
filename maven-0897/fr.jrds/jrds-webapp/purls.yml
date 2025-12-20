@@ -2,3 +2,4 @@
 - pkg:maven/fr.jrds/jrds-webapp@2020.1?type=war
 - pkg:maven/fr.jrds/jrds-webapp@2021.1?type=war
 - pkg:maven/fr.jrds/jrds-webapp@2023.1?type=war
+- pkg:maven/fr.jrds/jrds-webapp@2024.1?type=war

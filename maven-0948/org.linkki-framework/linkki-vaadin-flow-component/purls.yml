@@ -16,3 +16,5 @@
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.4.7?classifier=sources
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.0
 - pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.0?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.1
+- pkg:maven/org.linkki-framework/linkki-vaadin-flow-component@2.5.1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.kmpalette/extensions-network-android@2.0.3?classifier=sources
 - pkg:maven/com.kmpalette/extensions-network-android@2.1.0?classifier=sources
 - pkg:maven/com.kmpalette/extensions-network-android@2.2.0?classifier=sources
+- pkg:maven/com.kmpalette/extensions-network-android@3.0.0?classifier=sources
+- pkg:maven/com.kmpalette/extensions-network-android@3.1.0?classifier=sources

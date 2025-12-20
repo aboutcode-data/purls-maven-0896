@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.edc/identity-hub-participants@0.5.0?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-participants@0.5.1?classifier=sources

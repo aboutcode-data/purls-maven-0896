@@ -21,3 +21,6 @@
 - pkg:maven/org.curioswitch.curiostack/protobuf-jackson@2.0.0?classifier=sources
 - pkg:maven/org.curioswitch.curiostack/protobuf-jackson@2.1.0?classifier=sources
 - pkg:maven/org.curioswitch.curiostack/protobuf-jackson@2.2.0?classifier=sources
+- pkg:maven/org.curioswitch.curiostack/protobuf-jackson@2.3.0?classifier=sources
+- pkg:maven/org.curioswitch.curiostack/protobuf-jackson@2.4.0?classifier=sources
+- pkg:maven/org.curioswitch.curiostack/protobuf-jackson@2.5.0?classifier=sources

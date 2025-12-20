@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-doctrine2@RELEASE210?classifier=sources

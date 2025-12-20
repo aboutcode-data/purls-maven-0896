@@ -6,3 +6,5 @@
 - pkg:maven/io.ultreia.java4all/validation-test@1.0.2?classifier=sources
 - pkg:maven/io.ultreia.java4all/validation-test@1.0.3
 - pkg:maven/io.ultreia.java4all/validation-test@1.0.3?classifier=sources
+- pkg:maven/io.ultreia.java4all/validation-test@2.0.0-RC-1
+- pkg:maven/io.ultreia.java4all/validation-test@2.0.0-RC-1?classifier=sources

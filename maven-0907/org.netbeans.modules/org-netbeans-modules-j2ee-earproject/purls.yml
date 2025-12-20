@@ -19,3 +19,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE210?classifier=sources

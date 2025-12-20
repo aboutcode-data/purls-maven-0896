@@ -8,3 +8,4 @@
 - pkg:maven/ro.ghionoiu/queue-client@0.1.16?classifier=sources
 - pkg:maven/ro.ghionoiu/queue-client@0.1.21
 - pkg:maven/ro.ghionoiu/queue-client@0.1.21?classifier=sources
+- pkg:maven/ro.ghionoiu/queue-client@0.1.24?classifier=sources

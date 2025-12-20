@@ -48,3 +48,5 @@
 - pkg:maven/com.github.workerframework/worker-queue-rabbit@6.0.0-1107?classifier=sources
 - pkg:maven/com.github.workerframework/worker-queue-rabbit@7.0.0-1167
 - pkg:maven/com.github.workerframework/worker-queue-rabbit@7.0.0-1167?classifier=sources
+- pkg:maven/com.github.workerframework/worker-queue-rabbit@8.0.0-1196
+- pkg:maven/com.github.workerframework/worker-queue-rabbit@8.0.0-1196?classifier=sources

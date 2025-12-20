@@ -12,3 +12,7 @@
 - pkg:maven/io.contract-testing.contractcase/case_example_mock_types@0.15.2?classifier=sources
 - pkg:maven/io.contract-testing.contractcase/case_example_mock_types@0.15.4
 - pkg:maven/io.contract-testing.contractcase/case_example_mock_types@0.15.4?classifier=sources
+- pkg:maven/io.contract-testing.contractcase/case_example_mock_types@0.15.5
+- pkg:maven/io.contract-testing.contractcase/case_example_mock_types@0.15.5?classifier=sources
+- pkg:maven/io.contract-testing.contractcase/case_example_mock_types@0.15.6
+- pkg:maven/io.contract-testing.contractcase/case_example_mock_types@0.15.6?classifier=sources

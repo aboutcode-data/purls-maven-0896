@@ -4,6 +4,16 @@
 - pkg:maven/io.quarkus.code/code-quarkus@11?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@12
 - pkg:maven/io.quarkus.code/code-quarkus@12?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus@13
+- pkg:maven/io.quarkus.code/code-quarkus@13?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus@14
+- pkg:maven/io.quarkus.code/code-quarkus@14?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus@15
+- pkg:maven/io.quarkus.code/code-quarkus@15?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus@16
+- pkg:maven/io.quarkus.code/code-quarkus@16?classifier=sources
+- pkg:maven/io.quarkus.code/code-quarkus@17
+- pkg:maven/io.quarkus.code/code-quarkus@17?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@2
 - pkg:maven/io.quarkus.code/code-quarkus@2?classifier=sources
 - pkg:maven/io.quarkus.code/code-quarkus@3

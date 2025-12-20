@@ -1,11 +1,14 @@
+- pkg:maven/io.github.domstolene.esas/kvittering@01022024.b806df3
 - pkg:maven/io.github.domstolene.esas/kvittering@01062023.7ac07e7
 - pkg:maven/io.github.domstolene.esas/kvittering@01122023.6bab310
+- pkg:maven/io.github.domstolene.esas/kvittering@02022024.5da310d
 - pkg:maven/io.github.domstolene.esas/kvittering@02082023.8c5451c
 - pkg:maven/io.github.domstolene.esas/kvittering@04052023.28db4c0
 - pkg:maven/io.github.domstolene.esas/kvittering@04092023.7d74078
 - pkg:maven/io.github.domstolene.esas/kvittering@04102023.ebf9459
 - pkg:maven/io.github.domstolene.esas/kvittering@04122023.c3c54aa
 - pkg:maven/io.github.domstolene.esas/kvittering@05122023.8beffb4
+- pkg:maven/io.github.domstolene.esas/kvittering@06022024.5248222
 - pkg:maven/io.github.domstolene.esas/kvittering@06092023.5c45f70
 - pkg:maven/io.github.domstolene.esas/kvittering@06122023.39603c1
 - pkg:maven/io.github.domstolene.esas/kvittering@07082023.20d64c7
@@ -13,6 +16,7 @@
 - pkg:maven/io.github.domstolene.esas/kvittering@07112023.2804bfd
 - pkg:maven/io.github.domstolene.esas/kvittering@08012024.7dadcc4
 - pkg:maven/io.github.domstolene.esas/kvittering@08012024.83d8a36
+- pkg:maven/io.github.domstolene.esas/kvittering@08022024.a16ca4f
 - pkg:maven/io.github.domstolene.esas/kvittering@08082023.0308aa9
 - pkg:maven/io.github.domstolene.esas/kvittering@08082023.249ba47
 - pkg:maven/io.github.domstolene.esas/kvittering@08082023.d463fdd
@@ -28,8 +32,10 @@
 - pkg:maven/io.github.domstolene.esas/kvittering@10082023.366d334
 - pkg:maven/io.github.domstolene.esas/kvittering@10082023.eaebf9f
 - pkg:maven/io.github.domstolene.esas/kvittering@11082023.428b5d4
+- pkg:maven/io.github.domstolene.esas/kvittering@12022024.7cee216
 - pkg:maven/io.github.domstolene.esas/kvittering@12102023.c90582a
 - pkg:maven/io.github.domstolene.esas/kvittering@12122023.262f23b
+- pkg:maven/io.github.domstolene.esas/kvittering@13022024.dbaaf79
 - pkg:maven/io.github.domstolene.esas/kvittering@13032023.5388365
 - pkg:maven/io.github.domstolene.esas/kvittering@13032023.a54267c
 - pkg:maven/io.github.domstolene.esas/kvittering@13042023.0954234
@@ -40,6 +46,7 @@
 - pkg:maven/io.github.domstolene.esas/kvittering@13102023.a114aeb
 - pkg:maven/io.github.domstolene.esas/kvittering@13102023.b0aaa6b
 - pkg:maven/io.github.domstolene.esas/kvittering@14042023.f49c841
+- pkg:maven/io.github.domstolene.esas/kvittering@15022024.faf2540
 - pkg:maven/io.github.domstolene.esas/kvittering@15052023.b28468e
 - pkg:maven/io.github.domstolene.esas/kvittering@16062023.1c0910c
 - pkg:maven/io.github.domstolene.esas/kvittering@17072023.3d88f54
@@ -81,6 +88,7 @@
 - pkg:maven/io.github.domstolene.esas/kvittering@28072023.166b0d9
 - pkg:maven/io.github.domstolene.esas/kvittering@28072023.fc5b237
 - pkg:maven/io.github.domstolene.esas/kvittering@28092023.e64de8d
+- pkg:maven/io.github.domstolene.esas/kvittering@29012024.c41ed69
 - pkg:maven/io.github.domstolene.esas/kvittering@29032023.186cabd
 - pkg:maven/io.github.domstolene.esas/kvittering@29052023.c4f37ae
 - pkg:maven/io.github.domstolene.esas/kvittering@29082023.7dd8a4e
@@ -90,3 +98,4 @@
 - pkg:maven/io.github.domstolene.esas/kvittering@30062023.be0ac3a
 - pkg:maven/io.github.domstolene.esas/kvittering@30112023.85a0f5d
 - pkg:maven/io.github.domstolene.esas/kvittering@30112023.d5aedab
+- pkg:maven/io.github.domstolene.esas/kvittering@31012024.5b86c13

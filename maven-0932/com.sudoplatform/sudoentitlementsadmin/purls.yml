@@ -24,3 +24,5 @@
 - pkg:maven/com.sudoplatform/sudoentitlementsadmin@6.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoentitlementsadmin@7.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoentitlementsadmin@7.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoentitlementsadmin@8.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoentitlementsadmin@8.0.0?type=aar

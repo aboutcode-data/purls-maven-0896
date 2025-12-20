@@ -6,3 +6,5 @@
 - pkg:maven/org.jaxsb/compiler@2.1.6?classifier=sources
 - pkg:maven/org.jaxsb/compiler@2.2.0
 - pkg:maven/org.jaxsb/compiler@2.2.0?classifier=sources
+- pkg:maven/org.jaxsb/compiler@3.0.0
+- pkg:maven/org.jaxsb/compiler@3.0.0?classifier=sources

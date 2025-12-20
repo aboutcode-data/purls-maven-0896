@@ -1,9 +1,12 @@
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@01022024.b806df3
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@01122023.6bab310
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@02022024.5da310d
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@02082023.8c5451c
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@04092023.7d74078
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@04102023.ebf9459
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@04122023.c3c54aa
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@05122023.8beffb4
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@06022024.5248222
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@06092023.5c45f70
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@06122023.39603c1
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@07082023.20d64c7
@@ -11,6 +14,7 @@
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@07112023.2804bfd
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@08012024.7dadcc4
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@08012024.83d8a36
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@08022024.a16ca4f
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@08082023.0308aa9
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@08082023.249ba47
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@08082023.d463fdd
@@ -26,13 +30,16 @@
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@10082023.366d334
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@10082023.eaebf9f
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@11082023.428b5d4
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@12022024.7cee216
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@12102023.c90582a
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@12122023.262f23b
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@13022024.dbaaf79
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@13092023.364fce2
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@13092023.f5c087c
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@13102023.058a3e8
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@13102023.a114aeb
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@13102023.b0aaa6b
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@15022024.faf2540
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@17072023.3d88f54
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@17072023.e3799ba
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@17102023.c1096fe
@@ -56,6 +63,7 @@
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@28072023.166b0d9
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@28072023.fc5b237
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@28092023.e64de8d
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@29012024.c41ed69
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@29082023.7dd8a4e
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@29082023.b2627a2
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@29112023.5d51bfa
@@ -63,3 +71,4 @@
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@30062023.be0ac3a
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@30112023.85a0f5d
 - pkg:maven/io.github.domstolene.esas/json-kodeverk@30112023.d5aedab
+- pkg:maven/io.github.domstolene.esas/json-kodeverk@31012024.5b86c13

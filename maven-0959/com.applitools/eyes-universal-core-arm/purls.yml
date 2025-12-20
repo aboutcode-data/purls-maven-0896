@@ -40,6 +40,10 @@
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.63.21?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.63.22
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.63.22?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core-arm@5.63.23
+- pkg:maven/com.applitools/eyes-universal-core-arm@5.63.23?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core-arm@5.63.24
+- pkg:maven/com.applitools/eyes-universal-core-arm@5.63.24?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.63.3
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.63.3?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.63.4

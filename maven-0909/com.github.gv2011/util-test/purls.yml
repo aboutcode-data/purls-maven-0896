@@ -3,6 +3,7 @@
 - pkg:maven/com.github.gv2011/util-test@0.1.0
 - pkg:maven/com.github.gv2011/util-test@0.1.0?classifier=sources
 - pkg:maven/com.github.gv2011/util-test@0.10
+- pkg:maven/com.github.gv2011/util-test@0.12
 - pkg:maven/com.github.gv2011/util-test@0.2.0
 - pkg:maven/com.github.gv2011/util-test@0.2.0?classifier=sources
 - pkg:maven/com.github.gv2011/util-test@0.2.1

@@ -15,6 +15,8 @@
 - pkg:maven/io.github.pityka/lamp-data_2.13@0.0.11
 - pkg:maven/io.github.pityka/lamp-data_2.13@0.0.110
 - pkg:maven/io.github.pityka/lamp-data_2.13@0.0.110?classifier=sources
+- pkg:maven/io.github.pityka/lamp-data_2.13@0.0.111
+- pkg:maven/io.github.pityka/lamp-data_2.13@0.0.111?classifier=sources
 - pkg:maven/io.github.pityka/lamp-data_2.13@0.0.11?classifier=sources
 - pkg:maven/io.github.pityka/lamp-data_2.13@0.0.13
 - pkg:maven/io.github.pityka/lamp-data_2.13@0.0.13?classifier=sources

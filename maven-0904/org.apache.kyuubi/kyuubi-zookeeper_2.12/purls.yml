@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.kyuubi/kyuubi-zookeeper_2.12@1.7.3?classifier=sources
 - pkg:maven/org.apache.kyuubi/kyuubi-zookeeper_2.12@1.8.0
 - pkg:maven/org.apache.kyuubi/kyuubi-zookeeper_2.12@1.8.0?classifier=sources
+- pkg:maven/org.apache.kyuubi/kyuubi-zookeeper_2.12@1.8.1
+- pkg:maven/org.apache.kyuubi/kyuubi-zookeeper_2.12@1.8.1?classifier=sources

@@ -49,6 +49,8 @@
 - pkg:maven/com.markelliot.result/result@0.54.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.55.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.57.0?classifier=sources
+- pkg:maven/com.markelliot.result/result@0.58.0?classifier=sources
+- pkg:maven/com.markelliot.result/result@0.59.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.6.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.7.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.8.0?classifier=sources

@@ -83,3 +83,6 @@
 - pkg:maven/io.trino/trino-atop@434?classifier=sources
 - pkg:maven/io.trino/trino-atop@435?classifier=sources
 - pkg:maven/io.trino/trino-atop@436?classifier=sources
+- pkg:maven/io.trino/trino-atop@437?classifier=sources
+- pkg:maven/io.trino/trino-atop@438?classifier=sources
+- pkg:maven/io.trino/trino-atop@439?classifier=sources

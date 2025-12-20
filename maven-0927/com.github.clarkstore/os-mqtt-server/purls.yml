@@ -1,0 +1,4 @@
+- pkg:maven/com.github.clarkstore/os-mqtt-server@0.17.11
+- pkg:maven/com.github.clarkstore/os-mqtt-server@0.17.11?classifier=sources
+- pkg:maven/com.github.clarkstore/os-mqtt-server@0.17.12
+- pkg:maven/com.github.clarkstore/os-mqtt-server@0.17.12?classifier=sources

@@ -186,3 +186,7 @@
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.1?classifier=sources
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.3
 - pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.3?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.5
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.5?classifier=sources
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.6
+- pkg:maven/berlin.yuna/nats-streaming-server@0.25.7-rc.6?classifier=sources

@@ -29,3 +29,4 @@
 - pkg:maven/app.cash.zipline/zipline-kotlin-plugin@1.5.1?classifier=sources
 - pkg:maven/app.cash.zipline/zipline-kotlin-plugin@1.6.0?classifier=sources
 - pkg:maven/app.cash.zipline/zipline-kotlin-plugin@1.7.0?classifier=sources
+- pkg:maven/app.cash.zipline/zipline-kotlin-plugin@1.8.0?classifier=sources

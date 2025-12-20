@@ -326,6 +326,12 @@
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.21?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.22
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.22?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.23
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.23?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.24
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.24?classifier=sources
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.25
+- pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.25?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.3
 - pkg:maven/org.apache.jackrabbit/jackrabbit-jcr-commons@2.21.3?classifier=sources

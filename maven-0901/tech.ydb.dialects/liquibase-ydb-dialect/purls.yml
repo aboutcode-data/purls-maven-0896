@@ -1,0 +1,8 @@
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.1
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.1?classifier=sources
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.2
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.2?classifier=sources
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.3
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.3?classifier=sources
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.4
+- pkg:maven/tech.ydb.dialects/liquibase-ydb-dialect@0.9.4?classifier=sources

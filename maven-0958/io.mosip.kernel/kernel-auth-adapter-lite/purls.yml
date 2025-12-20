@@ -1,0 +1,4 @@
+- pkg:maven/io.mosip.kernel/kernel-auth-adapter-lite@1.2.0.1-B4
+- pkg:maven/io.mosip.kernel/kernel-auth-adapter-lite@1.2.0.1-B4-lite
+- pkg:maven/io.mosip.kernel/kernel-auth-adapter-lite@1.2.0.1-B4-lite?classifier=sources
+- pkg:maven/io.mosip.kernel/kernel-auth-adapter-lite@1.2.0.1-B4?classifier=sources

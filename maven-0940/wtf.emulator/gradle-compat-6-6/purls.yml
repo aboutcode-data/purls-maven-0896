@@ -13,3 +13,4 @@
 - pkg:maven/wtf.emulator/gradle-compat-6-6@0.15.1?classifier=sources
 - pkg:maven/wtf.emulator/gradle-compat-6-6@0.16.0?classifier=sources
 - pkg:maven/wtf.emulator/gradle-compat-6-6@0.16.1?classifier=sources
+- pkg:maven/wtf.emulator/gradle-compat-6-6@0.16.2?classifier=sources

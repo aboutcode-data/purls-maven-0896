@@ -61,6 +61,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@10.1.16?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@10.1.17?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@10.1.18?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket-api@10.1.19?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@10.1.1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@10.1.2?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@10.1.4?classifier=sources
@@ -76,6 +77,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@11.0.0-M14?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@11.0.0-M15?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@11.0.0-M16?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket-api@11.0.0-M17?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@11.0.0-M1?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@11.0.0-M3?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@11.0.0-M4?classifier=sources
@@ -394,6 +396,7 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.5.96?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.5.97?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.5.98?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.5.99?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@8.5.9?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@9.0.0.M1
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@9.0.0.M10
@@ -533,4 +536,5 @@
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@9.0.83?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@9.0.84?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@9.0.85?classifier=sources
+- pkg:maven/org.apache.tomcat/tomcat-websocket-api@9.0.86?classifier=sources
 - pkg:maven/org.apache.tomcat/tomcat-websocket-api@9.0.8?classifier=sources

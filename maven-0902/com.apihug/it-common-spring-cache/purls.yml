@@ -43,3 +43,13 @@
 - pkg:maven/com.apihug/it-common-spring-cache@0.4.4-RELEASE?classifier=sources
 - pkg:maven/com.apihug/it-common-spring-cache@0.4.5-RELEASE?classifier=sources
 - pkg:maven/com.apihug/it-common-spring-cache@0.4.6-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.4.7-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.4.8-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.4.9-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.5.0-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.5.1-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.5.2-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.5.3-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.5.4-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.5.5-RELEASE?classifier=sources
+- pkg:maven/com.apihug/it-common-spring-cache@0.5.6-RELEASE?classifier=sources

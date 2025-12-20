@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.brooklyn.example/brooklyn-example-hello-world-webapp@1.0.0-M1?type=war
 - pkg:maven/org.apache.brooklyn.example/brooklyn-example-hello-world-webapp@1.0.0?classifier=sources
 - pkg:maven/org.apache.brooklyn.example/brooklyn-example-hello-world-webapp@1.0.0?type=war
+- pkg:maven/org.apache.brooklyn.example/brooklyn-example-hello-world-webapp@1.1.0?classifier=sources
+- pkg:maven/org.apache.brooklyn.example/brooklyn-example-hello-world-webapp@1.1.0?type=war

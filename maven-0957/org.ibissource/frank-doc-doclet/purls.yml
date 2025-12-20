@@ -1,0 +1,2 @@
+- pkg:maven/org.ibissource/frank-doc-doclet@3.0
+- pkg:maven/org.ibissource/frank-doc-doclet@3.0?classifier=sources

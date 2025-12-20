@@ -1,2 +1,4 @@
 - pkg:maven/com.aliyun/aiops20200806@1.8.0
 - pkg:maven/com.aliyun/aiops20200806@1.8.0?classifier=sources
+- pkg:maven/com.aliyun/aiops20200806@1.8.1
+- pkg:maven/com.aliyun/aiops20200806@1.8.1?classifier=sources

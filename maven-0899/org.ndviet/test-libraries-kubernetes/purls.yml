@@ -1,2 +1,3 @@
 - pkg:maven/org.ndviet/test-libraries-kubernetes@23.11.11
 - pkg:maven/org.ndviet/test-libraries-kubernetes@23.11.11?classifier=sources
+- pkg:maven/org.ndviet/test-libraries-kubernetes@24.02.24

@@ -181,6 +181,7 @@
 - pkg:maven/com.atlassian.oai/swagger-request-validator-restassured@2.4.6?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-restassured@2.4.7
 - pkg:maven/com.atlassian.oai/swagger-request-validator-restassured@2.4.7?classifier=sources
+- pkg:maven/com.atlassian.oai/swagger-request-validator-restassured@2.40.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-restassured@2.5.0
 - pkg:maven/com.atlassian.oai/swagger-request-validator-restassured@2.5.0?classifier=sources
 - pkg:maven/com.atlassian.oai/swagger-request-validator-restassured@2.6.0

@@ -1,3 +1,5 @@
+- pkg:maven/net.java.jinput/osx-plugin@2.0.10
+- pkg:maven/net.java.jinput/osx-plugin@2.0.10?classifier=sources
 - pkg:maven/net.java.jinput/osx-plugin@2.0.8
 - pkg:maven/net.java.jinput/osx-plugin@2.0.8?classifier=sources
 - pkg:maven/net.java.jinput/osx-plugin@2.0.9

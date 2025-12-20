@@ -124,3 +124,7 @@
 - pkg:maven/org.fryske-akademy/primefacesgui@20.3?classifier=sources
 - pkg:maven/org.fryske-akademy/primefacesgui@21.0
 - pkg:maven/org.fryske-akademy/primefacesgui@21.0?classifier=sources
+- pkg:maven/org.fryske-akademy/primefacesgui@21.1
+- pkg:maven/org.fryske-akademy/primefacesgui@21.1?classifier=sources
+- pkg:maven/org.fryske-akademy/primefacesgui@21.2
+- pkg:maven/org.fryske-akademy/primefacesgui@21.2?classifier=sources

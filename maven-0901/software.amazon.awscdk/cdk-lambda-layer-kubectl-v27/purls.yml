@@ -1,2 +1,4 @@
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v27@2.0.0
 - pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v27@2.0.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v27@2.1.0
+- pkg:maven/software.amazon.awscdk/cdk-lambda-layer-kubectl-v27@2.1.0?classifier=sources

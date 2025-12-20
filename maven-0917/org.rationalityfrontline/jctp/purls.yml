@@ -27,3 +27,5 @@
 - pkg:maven/org.rationalityfrontline/jctp@6.6.1_P1_CP-1.0.5?classifier=sources
 - pkg:maven/org.rationalityfrontline/jctp@6.6.9-1.0.5?classifier=sources
 - pkg:maven/org.rationalityfrontline/jctp@6.6.9_CP-1.0.5?classifier=sources
+- pkg:maven/org.rationalityfrontline/jctp@6.7.2-1.0.5?classifier=sources
+- pkg:maven/org.rationalityfrontline/jctp@6.7.2_CP-1.0.5?classifier=sources

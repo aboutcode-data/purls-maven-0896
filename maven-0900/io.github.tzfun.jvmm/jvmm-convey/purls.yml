@@ -30,3 +30,5 @@
 - pkg:maven/io.github.tzfun.jvmm/jvmm-convey@2.1.5?classifier=sources
 - pkg:maven/io.github.tzfun.jvmm/jvmm-convey@2.2.0?classifier=sources
 - pkg:maven/io.github.tzfun.jvmm/jvmm-convey@2.3.0?classifier=sources
+- pkg:maven/io.github.tzfun.jvmm/jvmm-convey@2.4.0?classifier=sources
+- pkg:maven/io.github.tzfun.jvmm/jvmm-convey@2.4.1?classifier=sources
