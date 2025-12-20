@@ -1,0 +1,2 @@
+- pkg:maven/io.grpc/grpc-gcp-csm-observability@1.65.0?classifier=sources
+- pkg:maven/io.grpc/grpc-gcp-csm-observability@1.65.1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/io.vertigo/vertigo-ifttt-connector@4.0.0?classifier=sources
 - pkg:maven/io.vertigo/vertigo-ifttt-connector@4.1.0
 - pkg:maven/io.vertigo/vertigo-ifttt-connector@4.1.0?classifier=sources
+- pkg:maven/io.vertigo/vertigo-ifttt-connector@4.2.0
+- pkg:maven/io.vertigo/vertigo-ifttt-connector@4.2.0?classifier=sources

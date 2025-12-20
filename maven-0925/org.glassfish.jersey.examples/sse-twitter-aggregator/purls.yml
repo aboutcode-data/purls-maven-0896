@@ -205,6 +205,8 @@
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.42?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.43
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.43?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.44
+- pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.44?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.4?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@2.5
@@ -249,6 +251,8 @@
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.13?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.14
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.14?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.15
+- pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.15?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/sse-twitter-aggregator@3.0.2

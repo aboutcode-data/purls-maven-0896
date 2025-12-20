@@ -82,3 +82,11 @@
 - pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.0.2-RC1?classifier=sources
 - pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.0.2?classifier=sources
 - pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.0?classifier=sources
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC1
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC1?classifier=sources
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC2
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC2?classifier=sources
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC3
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC3?classifier=sources
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC4
+- pkg:maven/org.eclipse.microprofile.fault-tolerance/microprofile-fault-tolerance-tck@4.1-RC4?classifier=sources

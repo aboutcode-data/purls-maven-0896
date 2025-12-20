@@ -63,6 +63,7 @@
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.0?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.10?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.11?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.12?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.1?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.2?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.3?classifier=sources
@@ -72,3 +73,6 @@
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.7?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.8?classifier=sources
 - pkg:maven/net.folivo/trixnity-serverserverapi-server@4.3.9?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-server@4.4.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-server@4.5.0?classifier=sources
+- pkg:maven/net.folivo/trixnity-serverserverapi-server@4.5.1?classifier=sources

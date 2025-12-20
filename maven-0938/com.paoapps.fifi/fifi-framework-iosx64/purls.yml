@@ -17,6 +17,7 @@
 - pkg:maven/com.paoapps.fifi/fifi-framework-iosx64@0.0.26?classifier=sources
 - pkg:maven/com.paoapps.fifi/fifi-framework-iosx64@0.0.27?classifier=sources
 - pkg:maven/com.paoapps.fifi/fifi-framework-iosx64@0.0.28?classifier=sources
+- pkg:maven/com.paoapps.fifi/fifi-framework-iosx64@0.0.29?classifier=sources
 - pkg:maven/com.paoapps.fifi/fifi-framework-iosx64@0.0.2?classifier=sources
 - pkg:maven/com.paoapps.fifi/fifi-framework-iosx64@0.0.3?classifier=sources
 - pkg:maven/com.paoapps.fifi/fifi-framework-iosx64@0.0.5?classifier=sources

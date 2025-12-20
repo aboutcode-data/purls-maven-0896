@@ -25,3 +25,5 @@
 - pkg:maven/org.jamgo/jamgo-ui@8.0.2?classifier=sources
 - pkg:maven/org.jamgo/jamgo-ui@8.1.0
 - pkg:maven/org.jamgo/jamgo-ui@8.1.0?classifier=sources
+- pkg:maven/org.jamgo/jamgo-ui@8.2.0
+- pkg:maven/org.jamgo/jamgo-ui@8.2.0?classifier=sources

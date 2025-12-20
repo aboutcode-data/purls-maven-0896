@@ -79,6 +79,9 @@
 - pkg:maven/io.fabric8/maven-model-helper@36
 - pkg:maven/io.fabric8/maven-model-helper@36?classifier=source-release&type=zip
 - pkg:maven/io.fabric8/maven-model-helper@36?classifier=sources
+- pkg:maven/io.fabric8/maven-model-helper@37
+- pkg:maven/io.fabric8/maven-model-helper@37?classifier=source-release&type=zip
+- pkg:maven/io.fabric8/maven-model-helper@37?classifier=sources
 - pkg:maven/io.fabric8/maven-model-helper@5
 - pkg:maven/io.fabric8/maven-model-helper@5?classifier=source-release&type=zip
 - pkg:maven/io.fabric8/maven-model-helper@5?classifier=sources

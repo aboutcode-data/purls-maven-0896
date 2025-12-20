@@ -1,0 +1,4 @@
+- pkg:maven/aws.sdk.kotlin/qapps@1.2.48?classifier=sources
+- pkg:maven/aws.sdk.kotlin/qapps@1.2.49?classifier=sources
+- pkg:maven/aws.sdk.kotlin/qapps@1.2.50?classifier=sources
+- pkg:maven/aws.sdk.kotlin/qapps@1.2.51?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.streamnative.oss/pulsar-jms-admin-api@4.0.5
+- pkg:maven/io.streamnative.oss/pulsar-jms-admin-api@4.0.5?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/eu.eureka-bpo.log4j2/gmail-appender@1.0.0?classifier=sources
 - pkg:maven/eu.eureka-bpo.log4j2/gmail-appender@1.1.0
 - pkg:maven/eu.eureka-bpo.log4j2/gmail-appender@1.1.0?classifier=sources
+- pkg:maven/eu.eureka-bpo.log4j2/gmail-appender@1.2.0
+- pkg:maven/eu.eureka-bpo.log4j2/gmail-appender@1.2.0?classifier=sources

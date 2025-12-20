@@ -71,7 +71,15 @@
 - pkg:maven/me.proton.core/account@24.0.1?classifier=sources
 - pkg:maven/me.proton.core/account@24.0.2?classifier=sources
 - pkg:maven/me.proton.core/account@24.1.0?classifier=sources
+- pkg:maven/me.proton.core/account@24.1.1?classifier=sources
 - pkg:maven/me.proton.core/account@25.0.0?classifier=sources
+- pkg:maven/me.proton.core/account@25.0.1?classifier=sources
+- pkg:maven/me.proton.core/account@25.0.2?classifier=sources
+- pkg:maven/me.proton.core/account@25.0.3?classifier=sources
+- pkg:maven/me.proton.core/account@25.1.0?classifier=sources
+- pkg:maven/me.proton.core/account@25.1.1?classifier=sources
+- pkg:maven/me.proton.core/account@25.2.0?classifier=sources
+- pkg:maven/me.proton.core/account@25.2.1?classifier=sources
 - pkg:maven/me.proton.core/account@3.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@4.1.0?classifier=sources

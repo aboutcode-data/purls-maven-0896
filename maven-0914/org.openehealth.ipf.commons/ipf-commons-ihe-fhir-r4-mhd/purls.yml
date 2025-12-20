@@ -74,3 +74,5 @@
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-mhd@4.8.0?classifier=sources
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-mhd@5.0-m1
 - pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-mhd@5.0-m1?classifier=sources
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-mhd@5.0-m2
+- pkg:maven/org.openehealth.ipf.commons/ipf-commons-ihe-fhir-r4-mhd@5.0-m2?classifier=sources

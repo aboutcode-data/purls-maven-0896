@@ -39,6 +39,8 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.2
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.20
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.20?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.21
+- pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.21?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.2?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.4
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.4?classifier=sources
@@ -50,6 +52,7 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.7?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.8
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@1.9.8?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0-alpha-1
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0-alpha-10
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0-alpha-10?classifier=sources
@@ -68,3 +71,4 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0-alpha-7?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0-alpha-8
 - pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0-alpha-8?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-named-locks@2.0.0?classifier=sources

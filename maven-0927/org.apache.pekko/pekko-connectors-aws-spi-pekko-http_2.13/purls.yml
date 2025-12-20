@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pekko/pekko-connectors-aws-spi-pekko-http_2.13@1.1.0-M1
+- pkg:maven/org.apache.pekko/pekko-connectors-aws-spi-pekko-http_2.13@1.1.0-M1?classifier=sources

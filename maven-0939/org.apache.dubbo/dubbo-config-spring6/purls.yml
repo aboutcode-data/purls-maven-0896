@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.dubbo/dubbo-config-spring6@3.3.0-beta.2?classifier=sources
 - pkg:maven/org.apache.dubbo/dubbo-config-spring6@3.3.0-beta.3
 - pkg:maven/org.apache.dubbo/dubbo-config-spring6@3.3.0-beta.3?classifier=sources
+- pkg:maven/org.apache.dubbo/dubbo-config-spring6@3.3.0-beta.4
+- pkg:maven/org.apache.dubbo/dubbo-config-spring6@3.3.0-beta.4?classifier=sources

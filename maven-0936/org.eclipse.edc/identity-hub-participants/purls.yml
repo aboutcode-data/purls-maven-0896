@@ -6,3 +6,6 @@
 - pkg:maven/org.eclipse.edc/identity-hub-participants@0.6.3?classifier=sources
 - pkg:maven/org.eclipse.edc/identity-hub-participants@0.6.4?classifier=sources
 - pkg:maven/org.eclipse.edc/identity-hub-participants@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-participants@0.7.1?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-participants@0.8.0?classifier=sources
+- pkg:maven/org.eclipse.edc/identity-hub-participants@0.8.1?classifier=sources

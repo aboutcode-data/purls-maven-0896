@@ -1,1 +1,4 @@
 - pkg:maven/org.mvnpm.at.vue/compiler-dom@3.4.27?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-dom@3.4.31?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-dom@3.4.34?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-dom@3.4.35?classifier=sources

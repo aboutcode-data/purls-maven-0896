@@ -1,4 +1,7 @@
 - pkg:maven/top.hendrixshen.magiclib/magiclib-core-common@0.8.102-beta?classifier=sources
 - pkg:maven/top.hendrixshen.magiclib/magiclib-core-common@0.8.104-beta?classifier=sources
 - pkg:maven/top.hendrixshen.magiclib/magiclib-core-common@0.8.106-beta?classifier=sources
+- pkg:maven/top.hendrixshen.magiclib/magiclib-core-common@0.8.112-beta?classifier=sources
+- pkg:maven/top.hendrixshen.magiclib/magiclib-core-common@0.8.114-beta?classifier=sources
+- pkg:maven/top.hendrixshen.magiclib/magiclib-core-common@0.8.114?classifier=sources
 - pkg:maven/top.hendrixshen.magiclib/magiclib-core-common@0.8.99-beta?classifier=sources

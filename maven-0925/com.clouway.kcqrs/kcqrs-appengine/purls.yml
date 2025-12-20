@@ -1,0 +1,2 @@
+- pkg:maven/com.clouway.kcqrs/kcqrs-appengine@v1.2.8?classifier=sources
+- pkg:maven/com.clouway.kcqrs/kcqrs-appengine@v1.2.9?classifier=sources

@@ -40,3 +40,7 @@
 - pkg:maven/com.litongjava/tio-core@3.7.3.v20240130-RELEASE?classifier=sources
 - pkg:maven/com.litongjava/tio-core@3.7.3.v20240401-RELEASE
 - pkg:maven/com.litongjava/tio-core@3.7.3.v20240401-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20240601-RELEASE
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20240601-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20240701-RELEASE
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20240701-RELEASE?classifier=sources

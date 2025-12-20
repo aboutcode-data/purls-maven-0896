@@ -134,6 +134,7 @@
 - pkg:maven/org.iplass/iplass-admin@3.1.42?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.1.43?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.1.44?classifier=sources
+- pkg:maven/org.iplass/iplass-admin@3.1.45?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.1.4?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.1.5?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.1.6?classifier=sources
@@ -152,6 +153,8 @@
 - pkg:maven/org.iplass/iplass-admin@3.2.18?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.2.19?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.2.1?classifier=sources
+- pkg:maven/org.iplass/iplass-admin@3.2.20?classifier=sources
+- pkg:maven/org.iplass/iplass-admin@3.2.21?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.2.2?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.2.3?classifier=sources
 - pkg:maven/org.iplass/iplass-admin@3.2.4?classifier=sources

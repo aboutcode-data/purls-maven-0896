@@ -2,3 +2,5 @@
 - pkg:maven/ch.want.funnel/extension-api@3.0.12?classifier=sources
 - pkg:maven/ch.want.funnel/extension-api@3.0.13?classifier=sources
 - pkg:maven/ch.want.funnel/extension-api@3.0.14?classifier=sources
+- pkg:maven/ch.want.funnel/extension-api@3.0.16?classifier=sources
+- pkg:maven/ch.want.funnel/extension-api@3.0.17?classifier=sources

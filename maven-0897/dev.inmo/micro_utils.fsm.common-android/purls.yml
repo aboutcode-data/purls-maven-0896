@@ -135,6 +135,9 @@
 - pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.20.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.20.8?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.20.9?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.21.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.21.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.21.2?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.5.13?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.5.14?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.fsm.common-android@0.5.15?classifier=sources

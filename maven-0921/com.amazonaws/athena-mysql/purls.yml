@@ -20,5 +20,7 @@
 - pkg:maven/com.amazonaws/athena-mysql@2024.20.2?classifier=sources
 - pkg:maven/com.amazonaws/athena-mysql@2024.22.1
 - pkg:maven/com.amazonaws/athena-mysql@2024.22.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-mysql@2024.25.1
+- pkg:maven/com.amazonaws/athena-mysql@2024.25.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-mysql@2024.8.1
 - pkg:maven/com.amazonaws/athena-mysql@2024.8.1?classifier=sources

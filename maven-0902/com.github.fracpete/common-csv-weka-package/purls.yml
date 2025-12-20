@@ -6,3 +6,5 @@
 - pkg:maven/com.github.fracpete/common-csv-weka-package@2020.12.30?classifier=sources
 - pkg:maven/com.github.fracpete/common-csv-weka-package@2021.1.3
 - pkg:maven/com.github.fracpete/common-csv-weka-package@2021.1.3?classifier=sources
+- pkg:maven/com.github.fracpete/common-csv-weka-package@2024.7.5
+- pkg:maven/com.github.fracpete/common-csv-weka-package@2024.7.5?classifier=sources

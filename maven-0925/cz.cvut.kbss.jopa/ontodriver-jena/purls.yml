@@ -152,3 +152,7 @@
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-jena@1.2.2?classifier=sources
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-jena@2.0.0
 - pkg:maven/cz.cvut.kbss.jopa/ontodriver-jena@2.0.0?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-jena@2.0.1
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-jena@2.0.1?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-jena@2.0.2
+- pkg:maven/cz.cvut.kbss.jopa/ontodriver-jena@2.0.2?classifier=sources

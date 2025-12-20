@@ -15,3 +15,4 @@
 - pkg:maven/cc.unitmesh/chocolate-factory@0.4.4?classifier=sources
 - pkg:maven/cc.unitmesh/chocolate-factory@0.4.5?classifier=sources
 - pkg:maven/cc.unitmesh/chocolate-factory@0.4.6?classifier=sources
+- pkg:maven/cc.unitmesh/chocolate-factory@1.0.0?classifier=sources

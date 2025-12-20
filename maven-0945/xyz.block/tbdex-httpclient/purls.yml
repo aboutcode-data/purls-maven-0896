@@ -8,3 +8,5 @@
 - pkg:maven/xyz.block/tbdex-httpclient@1.0.0?classifier=sources
 - pkg:maven/xyz.block/tbdex-httpclient@1.1.0
 - pkg:maven/xyz.block/tbdex-httpclient@1.1.0?classifier=sources
+- pkg:maven/xyz.block/tbdex-httpclient@2.0.0
+- pkg:maven/xyz.block/tbdex-httpclient@2.0.0?classifier=sources

@@ -200,3 +200,5 @@
 - pkg:maven/com.facebook.presto/presto-hive-metastore@0.286?classifier=sources
 - pkg:maven/com.facebook.presto/presto-hive-metastore@0.287
 - pkg:maven/com.facebook.presto/presto-hive-metastore@0.287?classifier=sources
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.288
+- pkg:maven/com.facebook.presto/presto-hive-metastore@0.288?classifier=sources

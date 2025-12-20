@@ -2,3 +2,6 @@
 - pkg:maven/top.hendrixshen.magiclib/magiclib-minecraft-api-1.14.4-fabric@0.6.50-beta?classifier=sources
 - pkg:maven/top.hendrixshen.magiclib/magiclib-minecraft-api-1.14.4-fabric@0.6.52-beta?classifier=sources
 - pkg:maven/top.hendrixshen.magiclib/magiclib-minecraft-api-1.14.4-fabric@0.6.53-beta?classifier=sources
+- pkg:maven/top.hendrixshen.magiclib/magiclib-minecraft-api-1.14.4-fabric@0.6.57-beta?classifier=sources
+- pkg:maven/top.hendrixshen.magiclib/magiclib-minecraft-api-1.14.4-fabric@0.6.59-beta?classifier=sources
+- pkg:maven/top.hendrixshen.magiclib/magiclib-minecraft-api-1.14.4-fabric@0.6.59?classifier=sources

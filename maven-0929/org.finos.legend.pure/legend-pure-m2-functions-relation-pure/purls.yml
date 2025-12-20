@@ -36,3 +36,5 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-functions-relation-pure@5.8.1?classifier=sources
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-functions-relation-pure@5.8.2
 - pkg:maven/org.finos.legend.pure/legend-pure-m2-functions-relation-pure@5.8.2?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-functions-relation-pure@5.9.0
+- pkg:maven/org.finos.legend.pure/legend-pure-m2-functions-relation-pure@5.9.0?classifier=sources

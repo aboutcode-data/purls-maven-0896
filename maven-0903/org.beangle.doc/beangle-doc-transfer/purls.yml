@@ -2,3 +2,5 @@
 - pkg:maven/org.beangle.doc/beangle-doc-transfer@0.3.3?classifier=sources
 - pkg:maven/org.beangle.doc/beangle-doc-transfer@0.3.4
 - pkg:maven/org.beangle.doc/beangle-doc-transfer@0.3.4?classifier=sources
+- pkg:maven/org.beangle.doc/beangle-doc-transfer@0.4.0
+- pkg:maven/org.beangle.doc/beangle-doc-transfer@0.4.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelrepository-core@2.0.0-milestone-01?classifier=sources
 - pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelrepository-core@2.0.0-milestone-02
 - pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelrepository-core@2.0.0-milestone-02?classifier=sources
+- pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelrepository-core@2.0.0-milestone-03
+- pkg:maven/org.eclipse.digitaltwin.basyx/basyx.submodelrepository-core@2.0.0-milestone-03?classifier=sources

@@ -20,6 +20,10 @@
 - pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.12.0.CR1
 - pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.12.0.CR1?classifier=sources
 - pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.12.0?classifier=sources
+- pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.12.1
+- pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.12.1?classifier=sources
+- pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.12.2
+- pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.12.2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.7.0
 - pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.7.0.CR1
 - pkg:maven/io.quarkus/quarkus-resteasy-client-mutiny-deployment@3.7.0.CR1?classifier=sources

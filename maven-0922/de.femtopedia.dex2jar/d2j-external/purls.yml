@@ -6,6 +6,7 @@
 - pkg:maven/de.femtopedia.dex2jar/d2j-external@2.4.16?classifier=sources
 - pkg:maven/de.femtopedia.dex2jar/d2j-external@2.4.17?classifier=sources
 - pkg:maven/de.femtopedia.dex2jar/d2j-external@2.4.18?classifier=sources
+- pkg:maven/de.femtopedia.dex2jar/d2j-external@2.4.20?classifier=sources
 - pkg:maven/de.femtopedia.dex2jar/d2j-external@2.4.5?classifier=sources
 - pkg:maven/de.femtopedia.dex2jar/d2j-external@2.4.6?classifier=sources
 - pkg:maven/de.femtopedia.dex2jar/d2j-external@2.4.7?classifier=sources

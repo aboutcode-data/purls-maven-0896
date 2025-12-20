@@ -40,3 +40,4 @@
 - pkg:maven/com.cognifide.apm/apm-api@5.6.9?classifier=sources
 - pkg:maven/com.cognifide.apm/apm-api@5.7.0?classifier=sources
 - pkg:maven/com.cognifide.apm/apm-api@5.7.1?classifier=sources
+- pkg:maven/com.cognifide.apm/apm-api@5.7.2?classifier=sources

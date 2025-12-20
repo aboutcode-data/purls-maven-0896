@@ -1,1 +1,2 @@
 - pkg:maven/org.kobjects.konsole/compose@0.8.0?classifier=sources
+- pkg:maven/org.kobjects.konsole/compose@0.9.0?classifier=sources

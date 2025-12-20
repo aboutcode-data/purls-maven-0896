@@ -4,4 +4,5 @@
 - pkg:maven/org.mvnpm/supports-color@5.5.0?classifier=sources
 - pkg:maven/org.mvnpm/supports-color@7.1.0?classifier=sources
 - pkg:maven/org.mvnpm/supports-color@7.2.0?classifier=sources
+- pkg:maven/org.mvnpm/supports-color@8.1.1?classifier=sources
 - pkg:maven/org.mvnpm/supports-color@9.4.0?classifier=sources

@@ -1,2 +1,12 @@
 - pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.1?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.2?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.3?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.4?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.5?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.6?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.7?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.8.1?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.8?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.9.1?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@0.0.9?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-boot-starter-elasticsearch@1.0.0?classifier=sources

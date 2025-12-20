@@ -1,0 +1,4 @@
+- pkg:maven/fr.insee.trevas/vtl-csv@1.4.0
+- pkg:maven/fr.insee.trevas/vtl-csv@1.4.0?classifier=sources
+- pkg:maven/fr.insee.trevas/vtl-csv@1.4.1
+- pkg:maven/fr.insee.trevas/vtl-csv@1.4.1?classifier=sources

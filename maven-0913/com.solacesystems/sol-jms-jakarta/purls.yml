@@ -6,3 +6,7 @@
 - pkg:maven/com.solacesystems/sol-jms-jakarta@10.22.0?classifier=sources
 - pkg:maven/com.solacesystems/sol-jms-jakarta@10.23.0
 - pkg:maven/com.solacesystems/sol-jms-jakarta@10.23.0?classifier=sources
+- pkg:maven/com.solacesystems/sol-jms-jakarta@10.24.0
+- pkg:maven/com.solacesystems/sol-jms-jakarta@10.24.0?classifier=sources
+- pkg:maven/com.solacesystems/sol-jms-jakarta@10.24.1
+- pkg:maven/com.solacesystems/sol-jms-jakarta@10.24.1?classifier=sources

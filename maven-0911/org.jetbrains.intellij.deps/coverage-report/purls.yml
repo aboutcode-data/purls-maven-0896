@@ -11,3 +11,5 @@
 - pkg:maven/org.jetbrains.intellij.deps/coverage-report@1.0.21?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/coverage-report@1.0.22?classifier=sources
 - pkg:maven/org.jetbrains.intellij.deps/coverage-report@1.0.23?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/coverage-report@1.0.24?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps/coverage-report@1.0.25?classifier=sources

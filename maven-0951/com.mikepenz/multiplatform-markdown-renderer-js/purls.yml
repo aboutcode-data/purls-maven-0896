@@ -11,6 +11,9 @@
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.20.0-coil2?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.20.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.21.0?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.22.0?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.23.0?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.24.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.7.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.7.1?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-js@0.7.2?classifier=sources

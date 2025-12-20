@@ -14,3 +14,5 @@
 - pkg:maven/cn.pivoto.polaris.plugins/properties-maven-plugin@3.1.42?classifier=sources
 - pkg:maven/cn.pivoto.polaris.plugins/properties-maven-plugin@3.1.43
 - pkg:maven/cn.pivoto.polaris.plugins/properties-maven-plugin@3.1.43?classifier=sources
+- pkg:maven/cn.pivoto.polaris.plugins/properties-maven-plugin@3.2.0
+- pkg:maven/cn.pivoto.polaris.plugins/properties-maven-plugin@3.2.0?classifier=sources

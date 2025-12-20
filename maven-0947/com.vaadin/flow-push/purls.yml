@@ -458,6 +458,7 @@
 - pkg:maven/com.vaadin/flow-push@24.3.10
 - pkg:maven/com.vaadin/flow-push@24.3.11
 - pkg:maven/com.vaadin/flow-push@24.3.12
+- pkg:maven/com.vaadin/flow-push@24.3.13
 - pkg:maven/com.vaadin/flow-push@24.3.2
 - pkg:maven/com.vaadin/flow-push@24.3.3
 - pkg:maven/com.vaadin/flow-push@24.3.4
@@ -468,6 +469,9 @@
 - pkg:maven/com.vaadin/flow-push@24.3.9
 - pkg:maven/com.vaadin/flow-push@24.4.0
 - pkg:maven/com.vaadin/flow-push@24.4.1
+- pkg:maven/com.vaadin/flow-push@24.4.2
+- pkg:maven/com.vaadin/flow-push@24.4.3
+- pkg:maven/com.vaadin/flow-push@24.4.4
 - pkg:maven/com.vaadin/flow-push@3.0.0
 - pkg:maven/com.vaadin/flow-push@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/flow-push@3.0.1

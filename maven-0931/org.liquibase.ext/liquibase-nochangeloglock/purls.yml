@@ -36,3 +36,7 @@
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.27.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.28.0
 - pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.28.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.29.0
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.29.0?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.29.1
+- pkg:maven/org.liquibase.ext/liquibase-nochangeloglock@4.29.1?classifier=sources

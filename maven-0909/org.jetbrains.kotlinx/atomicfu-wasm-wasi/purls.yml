@@ -2,3 +2,4 @@
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-wasm-wasi@0.23.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-wasm-wasi@0.23.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/atomicfu-wasm-wasi@0.24.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/atomicfu-wasm-wasi@0.25.0?classifier=sources

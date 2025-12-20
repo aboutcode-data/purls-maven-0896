@@ -64,6 +64,10 @@
 - pkg:maven/org.occurrent/inmemory-filter-matching@0.17.2?classifier=sources
 - pkg:maven/org.occurrent/inmemory-filter-matching@0.18.0
 - pkg:maven/org.occurrent/inmemory-filter-matching@0.18.0?classifier=sources
+- pkg:maven/org.occurrent/inmemory-filter-matching@0.19.0
+- pkg:maven/org.occurrent/inmemory-filter-matching@0.19.0?classifier=sources
+- pkg:maven/org.occurrent/inmemory-filter-matching@0.19.1
+- pkg:maven/org.occurrent/inmemory-filter-matching@0.19.1?classifier=sources
 - pkg:maven/org.occurrent/inmemory-filter-matching@0.5.0
 - pkg:maven/org.occurrent/inmemory-filter-matching@0.5.0?classifier=sources
 - pkg:maven/org.occurrent/inmemory-filter-matching@0.5.1

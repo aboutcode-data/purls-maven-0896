@@ -390,3 +390,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@3.5.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@3.6.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@3.6.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@3.6.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-bigquerystorage-v1@3.6.1?classifier=sources

@@ -102,3 +102,5 @@
 - pkg:maven/com.gu/fapi-client-play27_2.13@6.0.0?classifier=sources
 - pkg:maven/com.gu/fapi-client-play27_2.13@7.0.0
 - pkg:maven/com.gu/fapi-client-play27_2.13@7.0.0?classifier=sources
+- pkg:maven/com.gu/fapi-client-play27_2.13@8.0.0
+- pkg:maven/com.gu/fapi-client-play27_2.13@8.0.0?classifier=sources

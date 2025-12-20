@@ -1,3 +1,4 @@
 - pkg:maven/io.github.davidwhitlock.joy/phonebill-archetype@1.0.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.joy/phonebill-archetype@2.0.0?classifier=sources
 - pkg:maven/io.github.davidwhitlock.joy/phonebill-archetype@2.1.0?classifier=sources
+- pkg:maven/io.github.davidwhitlock.joy/phonebill-archetype@2.1.1?classifier=sources

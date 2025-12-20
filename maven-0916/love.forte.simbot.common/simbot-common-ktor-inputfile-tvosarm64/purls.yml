@@ -5,3 +5,5 @@
 - pkg:maven/love.forte.simbot.common/simbot-common-ktor-inputfile-tvosarm64@4.0.0-beta3?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-ktor-inputfile-tvosarm64@4.0.0?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-ktor-inputfile-tvosarm64@4.0.1?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-ktor-inputfile-tvosarm64@4.1.0?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-ktor-inputfile-tvosarm64@4.2.0?classifier=sources

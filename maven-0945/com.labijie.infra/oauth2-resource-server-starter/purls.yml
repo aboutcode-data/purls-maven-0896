@@ -10,3 +10,4 @@
 - pkg:maven/com.labijie.infra/oauth2-resource-server-starter@1.2.5?classifier=sources
 - pkg:maven/com.labijie.infra/oauth2-resource-server-starter@2.0.0?classifier=sources
 - pkg:maven/com.labijie.infra/oauth2-resource-server-starter@2.0.1?classifier=sources
+- pkg:maven/com.labijie.infra/oauth2-resource-server-starter@2.0.2?classifier=sources

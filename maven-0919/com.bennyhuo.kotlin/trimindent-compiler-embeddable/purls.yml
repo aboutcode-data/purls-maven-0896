@@ -10,3 +10,4 @@
 - pkg:maven/com.bennyhuo.kotlin/trimindent-compiler-embeddable@1.8.2?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/trimindent-compiler-embeddable@1.9.10-1.1.0?classifier=sources
 - pkg:maven/com.bennyhuo.kotlin/trimindent-compiler-embeddable@1.9.20-1.1.0?classifier=sources
+- pkg:maven/com.bennyhuo.kotlin/trimindent-compiler-embeddable@2.0.0-1.1.0?classifier=sources

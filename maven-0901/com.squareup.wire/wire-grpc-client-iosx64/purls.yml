@@ -63,3 +63,6 @@
 - pkg:maven/com.squareup.wire/wire-grpc-client-iosx64@4.9.8?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-iosx64@4.9.9?classifier=sources
 - pkg:maven/com.squareup.wire/wire-grpc-client-iosx64@5.0.0-alpha01?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-iosx64@5.0.0-alpha02?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-iosx64@5.0.0-alpha03?classifier=sources
+- pkg:maven/com.squareup.wire/wire-grpc-client-iosx64@5.0.0-alpha04?classifier=sources

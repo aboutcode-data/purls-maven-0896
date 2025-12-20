@@ -197,6 +197,8 @@
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.6
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.60
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.60?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.61
+- pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.61?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.6?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.7
 - pkg:maven/com.yahoo.athenz/athenz-msd-java-client@1.11.7?classifier=sources

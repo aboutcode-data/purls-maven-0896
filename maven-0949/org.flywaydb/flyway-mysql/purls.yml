@@ -18,6 +18,12 @@
 - pkg:maven/org.flywaydb/flyway-mysql@10.14.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@10.15.0
 - pkg:maven/org.flywaydb/flyway-mysql@10.15.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-mysql@10.15.2
+- pkg:maven/org.flywaydb/flyway-mysql@10.15.2?classifier=sources
+- pkg:maven/org.flywaydb/flyway-mysql@10.16.0
+- pkg:maven/org.flywaydb/flyway-mysql@10.16.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-mysql@10.17.0
+- pkg:maven/org.flywaydb/flyway-mysql@10.17.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@10.2.0
 - pkg:maven/org.flywaydb/flyway-mysql@10.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-mysql@10.3.0

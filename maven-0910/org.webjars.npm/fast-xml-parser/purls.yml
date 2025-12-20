@@ -10,3 +10,4 @@
 - pkg:maven/org.webjars.npm/fast-xml-parser@4.2.7?classifier=sources
 - pkg:maven/org.webjars.npm/fast-xml-parser@4.3.6
 - pkg:maven/org.webjars.npm/fast-xml-parser@4.3.6?classifier=sources
+- pkg:maven/org.webjars.npm/fast-xml-parser@4.4.0

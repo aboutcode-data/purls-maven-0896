@@ -34,6 +34,8 @@
 - pkg:maven/com.jdcloud.sdk/cdn@0.10.45?classifier=sources
 - pkg:maven/com.jdcloud.sdk/cdn@0.10.46
 - pkg:maven/com.jdcloud.sdk/cdn@0.10.46?classifier=sources
+- pkg:maven/com.jdcloud.sdk/cdn@0.10.47
+- pkg:maven/com.jdcloud.sdk/cdn@0.10.47?classifier=sources
 - pkg:maven/com.jdcloud.sdk/cdn@0.7.8
 - pkg:maven/com.jdcloud.sdk/cdn@0.7.8?classifier=sources
 - pkg:maven/com.jdcloud.sdk/cdn@0.8.1

@@ -6,3 +6,7 @@
 - pkg:maven/io.github.lmos-ai.arc/arc-gemini-client@0.26.0?classifier=sources
 - pkg:maven/io.github.lmos-ai.arc/arc-gemini-client@0.26.1
 - pkg:maven/io.github.lmos-ai.arc/arc-gemini-client@0.26.1?classifier=sources
+- pkg:maven/io.github.lmos-ai.arc/arc-gemini-client@0.27.0
+- pkg:maven/io.github.lmos-ai.arc/arc-gemini-client@0.27.0?classifier=sources
+- pkg:maven/io.github.lmos-ai.arc/arc-gemini-client@0.30.0
+- pkg:maven/io.github.lmos-ai.arc/arc-gemini-client@0.30.0?classifier=sources

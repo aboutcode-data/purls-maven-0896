@@ -3,3 +3,4 @@
 - pkg:maven/org.apache.velocity/velocity-master@4?classifier=source-release&type=zip
 - pkg:maven/org.apache.velocity/velocity-master@5?classifier=source-release&type=zip
 - pkg:maven/org.apache.velocity/velocity-master@6?classifier=source-release&type=zip
+- pkg:maven/org.apache.velocity/velocity-master@7?classifier=source-release&type=zip

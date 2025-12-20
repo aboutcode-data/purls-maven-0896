@@ -26,3 +26,4 @@
 - pkg:maven/com.apollographql.apollo/apollo-normalized-cache-sqlite-jvm@2.5.7?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-normalized-cache-sqlite-jvm@2.5.8?classifier=sources
 - pkg:maven/com.apollographql.apollo/apollo-normalized-cache-sqlite-jvm@2.5.9?classifier=sources
+- pkg:maven/com.apollographql.apollo/apollo-normalized-cache-sqlite-jvm@4.0.0-rc.1?classifier=sources

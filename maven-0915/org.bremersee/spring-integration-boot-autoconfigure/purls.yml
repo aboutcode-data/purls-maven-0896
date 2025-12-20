@@ -1,0 +1,4 @@
+- pkg:maven/org.bremersee/spring-integration-boot-autoconfigure@0.0.1
+- pkg:maven/org.bremersee/spring-integration-boot-autoconfigure@0.0.1?classifier=sources
+- pkg:maven/org.bremersee/spring-integration-boot-autoconfigure@0.1.0
+- pkg:maven/org.bremersee/spring-integration-boot-autoconfigure@0.1.0?classifier=sources

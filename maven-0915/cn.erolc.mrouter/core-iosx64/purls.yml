@@ -1,3 +1,6 @@
 - pkg:maven/cn.erolc.mrouter/core-iosx64@1.0.0-beta01?classifier=sources
 - pkg:maven/cn.erolc.mrouter/core-iosx64@1.0.0-beta02?classifier=sources
+- pkg:maven/cn.erolc.mrouter/core-iosx64@1.0.0-beta03?classifier=sources
+- pkg:maven/cn.erolc.mrouter/core-iosx64@1.0.0-beta04?classifier=sources
 - pkg:maven/cn.erolc.mrouter/core-iosx64@1.0.0-beta?classifier=sources
+- pkg:maven/cn.erolc.mrouter/core-iosx64@1.0.0?classifier=sources

@@ -48,3 +48,9 @@
 - pkg:maven/org.eclipse.pass/pass-core-main@1.6.1?classifier=sources
 - pkg:maven/org.eclipse.pass/pass-core-main@1.7.0
 - pkg:maven/org.eclipse.pass/pass-core-main@1.7.0?classifier=sources
+- pkg:maven/org.eclipse.pass/pass-core-main@1.8.0
+- pkg:maven/org.eclipse.pass/pass-core-main@1.8.0?classifier=sources
+- pkg:maven/org.eclipse.pass/pass-core-main@1.9.0
+- pkg:maven/org.eclipse.pass/pass-core-main@1.9.0?classifier=sources
+- pkg:maven/org.eclipse.pass/pass-core-main@1.9.1
+- pkg:maven/org.eclipse.pass/pass-core-main@1.9.1?classifier=sources

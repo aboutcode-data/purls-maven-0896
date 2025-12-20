@@ -2,3 +2,5 @@
 - pkg:maven/org.gosu-lang.gosu.managed/gw-jcommander@1.48?classifier=sources
 - pkg:maven/org.gosu-lang.gosu.managed/gw-jcommander@1.72
 - pkg:maven/org.gosu-lang.gosu.managed/gw-jcommander@1.72?classifier=sources
+- pkg:maven/org.gosu-lang.gosu.managed/gw-jcommander@1.78
+- pkg:maven/org.gosu-lang.gosu.managed/gw-jcommander@1.78?classifier=sources

@@ -220,3 +220,9 @@
 - pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.8.3?classifier=sources
 - pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.8.4
 - pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.8.4?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.8.5
+- pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.8.5?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.8.6
+- pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.8.6?classifier=sources
+- pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.9.0
+- pkg:maven/io.smallrye/smallrye-graphql-schema-builder@2.9.0?classifier=sources

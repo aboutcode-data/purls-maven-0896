@@ -8,6 +8,7 @@
 - pkg:maven/com.adyen.checkout/voucher@4.13.3?classifier=sources
 - pkg:maven/com.adyen.checkout/voucher@4.13.4?classifier=sources
 - pkg:maven/com.adyen.checkout/voucher@4.13.5?classifier=sources
+- pkg:maven/com.adyen.checkout/voucher@4.13.6?classifier=sources
 - pkg:maven/com.adyen.checkout/voucher@4.4.0?classifier=sources
 - pkg:maven/com.adyen.checkout/voucher@4.5.0?classifier=sources
 - pkg:maven/com.adyen.checkout/voucher@4.6.0?classifier=sources
@@ -27,3 +28,5 @@
 - pkg:maven/com.adyen.checkout/voucher@5.3.0?classifier=sources
 - pkg:maven/com.adyen.checkout/voucher@5.3.1?classifier=sources
 - pkg:maven/com.adyen.checkout/voucher@5.4.0?classifier=sources
+- pkg:maven/com.adyen.checkout/voucher@5.5.0?classifier=sources
+- pkg:maven/com.adyen.checkout/voucher@5.6.0?classifier=sources

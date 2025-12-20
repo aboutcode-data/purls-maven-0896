@@ -118,3 +118,5 @@
 - pkg:maven/dev.tauri/choam-skiplist_sjs1_3@0.4.0-RC9.z.7
 - pkg:maven/dev.tauri/choam-skiplist_sjs1_3@0.4.0-RC9.z.7?classifier=sources
 - pkg:maven/dev.tauri/choam-skiplist_sjs1_3@0.4.0?classifier=sources
+- pkg:maven/dev.tauri/choam-skiplist_sjs1_3@0.4.1
+- pkg:maven/dev.tauri/choam-skiplist_sjs1_3@0.4.1?classifier=sources

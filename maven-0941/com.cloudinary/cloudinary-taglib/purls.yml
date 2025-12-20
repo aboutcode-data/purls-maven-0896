@@ -100,6 +100,8 @@
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.37.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.38.0
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.38.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.39.0
+- pkg:maven/com.cloudinary/cloudinary-taglib@1.39.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.4.0
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.4.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-taglib@1.4.1

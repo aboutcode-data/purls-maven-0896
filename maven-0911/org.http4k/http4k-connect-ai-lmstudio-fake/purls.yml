@@ -1,0 +1,5 @@
+- pkg:maven/org.http4k/http4k-connect-ai-lmstudio-fake@5.18.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-ai-lmstudio-fake@5.19.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-ai-lmstudio-fake@5.19.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-ai-lmstudio-fake@5.19.0.2?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-ai-lmstudio-fake@5.20.0.0?classifier=sources

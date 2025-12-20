@@ -6,3 +6,7 @@
 - pkg:maven/org.drjekyll/fontchooser@2.5.1?classifier=sources
 - pkg:maven/org.drjekyll/fontchooser@2.5.2
 - pkg:maven/org.drjekyll/fontchooser@2.5.2?classifier=sources
+- pkg:maven/org.drjekyll/fontchooser@3.0.0
+- pkg:maven/org.drjekyll/fontchooser@3.0.0?classifier=sources
+- pkg:maven/org.drjekyll/fontchooser@3.1.0
+- pkg:maven/org.drjekyll/fontchooser@3.1.0?classifier=sources

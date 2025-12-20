@@ -1,1 +1,2 @@
 - pkg:maven/com.tidal.sdk/auth@0.9.1?classifier=sources
+- pkg:maven/com.tidal.sdk/auth@0.9.2?classifier=sources

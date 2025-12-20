@@ -26,3 +26,9 @@
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc2?classifier=sources
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc3
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc3?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc4
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc4?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc5
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc5?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc7
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-core@2.0.0-rc7?classifier=sources

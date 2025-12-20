@@ -16,3 +16,4 @@
 - pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.59?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.60?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.61?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.64?classifier=sources
