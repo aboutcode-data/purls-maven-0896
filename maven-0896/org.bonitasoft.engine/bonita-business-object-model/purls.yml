@@ -2,3 +2,5 @@
 - pkg:maven/org.bonitasoft.engine/bonita-business-object-model@1.0.0-alpha-01
 - pkg:maven/org.bonitasoft.engine/bonita-business-object-model@1.0.0-alpha-01?classifier=sources
 - pkg:maven/org.bonitasoft.engine/bonita-business-object-model@1.0.0?classifier=sources
+- pkg:maven/org.bonitasoft.engine/bonita-business-object-model@1.1.0
+- pkg:maven/org.bonitasoft.engine/bonita-business-object-model@1.1.0?classifier=sources

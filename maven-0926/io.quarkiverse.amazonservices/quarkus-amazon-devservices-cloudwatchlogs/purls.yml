@@ -6,3 +6,5 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-cloudwatchlogs@2.14.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-cloudwatchlogs@2.15.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-cloudwatchlogs@2.15.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-cloudwatchlogs@2.16.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-devservices-cloudwatchlogs@2.16.0?classifier=sources

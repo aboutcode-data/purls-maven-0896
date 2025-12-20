@@ -73,6 +73,7 @@
 - pkg:maven/com.charleskorn.kaml/kaml@0.59.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml@0.6.0
 - pkg:maven/com.charleskorn.kaml/kaml@0.6.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml@0.60.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml@0.7.0
 - pkg:maven/com.charleskorn.kaml/kaml@0.7.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml@0.8.0

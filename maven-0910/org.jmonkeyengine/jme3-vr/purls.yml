@@ -60,4 +60,6 @@
 - pkg:maven/org.jmonkeyengine/jme3-vr@3.7.0-alpha2?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-vr@3.7.0-alpha3.1?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-vr@3.7.0-alpha3?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-vr@3.7.0-beta1.1?classifier=sources
+- pkg:maven/org.jmonkeyengine/jme3-vr@3.7.0-beta1.2?classifier=sources
 - pkg:maven/org.jmonkeyengine/jme3-vr@3.7.0-beta1?classifier=sources

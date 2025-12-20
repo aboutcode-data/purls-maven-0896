@@ -4,3 +4,5 @@
 - pkg:maven/dev.zio/zio-http-shaded_sjs1_2.13@3.0.0-RC6?classifier=sources
 - pkg:maven/dev.zio/zio-http-shaded_sjs1_2.13@3.0.0-RC7
 - pkg:maven/dev.zio/zio-http-shaded_sjs1_2.13@3.0.0-RC7?classifier=sources
+- pkg:maven/dev.zio/zio-http-shaded_sjs1_2.13@3.0.0-RC8
+- pkg:maven/dev.zio/zio-http-shaded_sjs1_2.13@3.0.0-RC8?classifier=sources

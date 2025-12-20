@@ -3,3 +3,4 @@
 - pkg:maven/com.optimetriks.unio.compose/banners@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@7?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@8?classifier=sources

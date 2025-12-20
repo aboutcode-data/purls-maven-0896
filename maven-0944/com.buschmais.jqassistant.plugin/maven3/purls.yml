@@ -118,3 +118,9 @@
 - pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-M2?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-M3
 - pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-M3?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-M4
+- pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-M4?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-M5
+- pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-M5?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-RC1
+- pkg:maven/com.buschmais.jqassistant.plugin/maven3@2.3.0-RC1?classifier=sources

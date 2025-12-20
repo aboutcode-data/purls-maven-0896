@@ -16,3 +16,5 @@
 - pkg:maven/com.agentsflex/agents-flex-llm-spark@1.0.0-beta.2?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-llm-spark@1.0.0-beta.3
 - pkg:maven/com.agentsflex/agents-flex-llm-spark@1.0.0-beta.3?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-llm-spark@1.0.0-beta.4
+- pkg:maven/com.agentsflex/agents-flex-llm-spark@1.0.0-beta.4?classifier=sources

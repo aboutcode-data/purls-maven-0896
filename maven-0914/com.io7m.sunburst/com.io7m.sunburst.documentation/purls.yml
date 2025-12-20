@@ -6,3 +6,5 @@
 - pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.5?type=zip
 - pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.6?classifier=sources
 - pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.6?type=zip
+- pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.7?classifier=sources
+- pkg:maven/com.io7m.sunburst/com.io7m.sunburst.documentation@0.0.7?type=zip

@@ -46,3 +46,5 @@
 - pkg:maven/io.javalin/javalin-micrometer@6.1.3?classifier=sources
 - pkg:maven/io.javalin/javalin-micrometer@6.1.4
 - pkg:maven/io.javalin/javalin-micrometer@6.1.4?classifier=sources
+- pkg:maven/io.javalin/javalin-micrometer@6.1.6
+- pkg:maven/io.javalin/javalin-micrometer@6.1.6?classifier=sources

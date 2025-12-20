@@ -124,3 +124,5 @@
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@3.2.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@3.2.3
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@3.2.3?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@3.3.0
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples@3.3.0?classifier=sources

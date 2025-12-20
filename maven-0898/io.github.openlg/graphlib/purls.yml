@@ -6,3 +6,5 @@
 - pkg:maven/io.github.openlg/graphlib@0.0.3?classifier=sources
 - pkg:maven/io.github.openlg/graphlib@1.0.0
 - pkg:maven/io.github.openlg/graphlib@1.0.0?classifier=sources
+- pkg:maven/io.github.openlg/graphlib@1.0.1
+- pkg:maven/io.github.openlg/graphlib@1.0.1?classifier=sources

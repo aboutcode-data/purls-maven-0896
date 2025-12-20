@@ -7,3 +7,4 @@
 - pkg:maven/dev.bluefalcon/blue-falcon-iosarm64@0.9.7?classifier=sources
 - pkg:maven/dev.bluefalcon/blue-falcon-iosarm64@0.9.8?classifier=sources
 - pkg:maven/dev.bluefalcon/blue-falcon-iosarm64@1.0.0?classifier=sources
+- pkg:maven/dev.bluefalcon/blue-falcon-iosarm64@1.0.1?classifier=sources

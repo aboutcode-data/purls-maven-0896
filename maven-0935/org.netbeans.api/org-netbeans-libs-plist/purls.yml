@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-plist@RELEASE220?classifier=sources

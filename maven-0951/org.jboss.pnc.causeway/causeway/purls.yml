@@ -17,3 +17,4 @@
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.6.5?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.6.7?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.causeway/causeway@2.6.8?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.causeway/causeway@3.0.1?classifier=source-release&type=zip

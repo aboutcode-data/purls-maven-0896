@@ -133,3 +133,5 @@
 - pkg:maven/me.ahoo.cosid/cosid-spring-boot-starter@2.6.9?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-spring-boot-starter@2.8.0?classifier=sources
 - pkg:maven/me.ahoo.cosid/cosid-spring-boot-starter@2.8.1?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-spring-boot-starter@2.8.2?classifier=sources
+- pkg:maven/me.ahoo.cosid/cosid-spring-boot-starter@2.8.3?classifier=sources

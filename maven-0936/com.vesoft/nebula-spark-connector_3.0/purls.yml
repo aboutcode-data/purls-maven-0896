@@ -2,3 +2,5 @@
 - pkg:maven/com.vesoft/nebula-spark-connector_3.0@3.6.0?classifier=sources
 - pkg:maven/com.vesoft/nebula-spark-connector_3.0@3.8.0
 - pkg:maven/com.vesoft/nebula-spark-connector_3.0@3.8.0?classifier=sources
+- pkg:maven/com.vesoft/nebula-spark-connector_3.0@3.8.1
+- pkg:maven/com.vesoft/nebula-spark-connector_3.0@3.8.1?classifier=sources

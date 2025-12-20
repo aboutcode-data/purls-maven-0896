@@ -18,6 +18,7 @@
 - pkg:maven/org.kodein.di/kodein-di@7.21.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di@7.21.1?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di@7.21.2?classifier=sources
+- pkg:maven/org.kodein.di/kodein-di@7.22.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di@7.3.0?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di@7.3.1?classifier=sources
 - pkg:maven/org.kodein.di/kodein-di@7.4.0?classifier=sources

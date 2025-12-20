@@ -73,3 +73,4 @@
 - pkg:maven/io.micronaut.aws/micronaut-aws-ua@4.4.2?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-ua@4.4.3?classifier=sources
 - pkg:maven/io.micronaut.aws/micronaut-aws-ua@4.5.0?classifier=sources
+- pkg:maven/io.micronaut.aws/micronaut-aws-ua@4.6.0?classifier=sources

@@ -56,6 +56,10 @@
 - pkg:maven/me.proton.core/payment-iap-dagger@23.1.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-dagger@23.2.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-dagger@24.0.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-dagger@24.0.1?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-dagger@24.0.2?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-dagger@24.1.0?classifier=sources
+- pkg:maven/me.proton.core/payment-iap-dagger@25.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-dagger@9.0.0?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-dagger@9.0.1?classifier=sources
 - pkg:maven/me.proton.core/payment-iap-dagger@9.0.2?classifier=sources

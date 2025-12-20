@@ -1,0 +1,6 @@
+- pkg:maven/com.slack.circuit/circuit-retained-wasm-js@0.21.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained-wasm-js@0.21.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained-wasm-js@0.21.2?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained-wasm-js@0.22.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained-wasm-js@0.22.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-retained-wasm-js@0.22.2?classifier=sources

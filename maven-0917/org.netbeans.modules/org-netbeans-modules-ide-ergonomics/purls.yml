@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-ergonomics@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-ergonomics@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-ergonomics@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ide-ergonomics@RELEASE220?classifier=sources

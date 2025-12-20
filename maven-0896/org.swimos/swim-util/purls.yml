@@ -16,3 +16,4 @@
 - pkg:maven/org.swimos/swim-util@4.1.0.12?classifier=sources
 - pkg:maven/org.swimos/swim-util@4.1.0.13?classifier=sources
 - pkg:maven/org.swimos/swim-util@4.2.14?classifier=sources
+- pkg:maven/org.swimos/swim-util@4.3.15?classifier=sources

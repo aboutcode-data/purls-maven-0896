@@ -1,0 +1,4 @@
+- pkg:maven/com.outr/lightdb-sql_3@0.10.0
+- pkg:maven/com.outr/lightdb-sql_3@0.10.0?classifier=sources
+- pkg:maven/com.outr/lightdb-sql_3@0.11.0
+- pkg:maven/com.outr/lightdb-sql_3@0.11.0?classifier=sources

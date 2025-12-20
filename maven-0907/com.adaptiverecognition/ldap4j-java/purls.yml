@@ -1,0 +1,6 @@
+- pkg:maven/com.adaptiverecognition/ldap4j-java@0.10
+- pkg:maven/com.adaptiverecognition/ldap4j-java@0.10?classifier=sources
+- pkg:maven/com.adaptiverecognition/ldap4j-java@0.13
+- pkg:maven/com.adaptiverecognition/ldap4j-java@0.13?classifier=sources
+- pkg:maven/com.adaptiverecognition/ldap4j-java@1.0.0
+- pkg:maven/com.adaptiverecognition/ldap4j-java@1.0.0?classifier=sources

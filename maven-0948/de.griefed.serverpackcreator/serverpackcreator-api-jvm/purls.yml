@@ -60,3 +60,5 @@
 - pkg:maven/de.griefed.serverpackcreator/serverpackcreator-api-jvm@5.1.9?classifier=sources
 - pkg:maven/de.griefed.serverpackcreator/serverpackcreator-api-jvm@5.2.0?classifier=sources
 - pkg:maven/de.griefed.serverpackcreator/serverpackcreator-api-jvm@5.2.1?classifier=sources
+- pkg:maven/de.griefed.serverpackcreator/serverpackcreator-api-jvm@5.2.2?classifier=sources
+- pkg:maven/de.griefed.serverpackcreator/serverpackcreator-api-jvm@5.2.3?classifier=sources

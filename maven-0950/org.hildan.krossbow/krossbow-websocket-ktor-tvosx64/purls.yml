@@ -26,3 +26,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosx64@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosx64@6.0.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosx64@7.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-websocket-ktor-tvosx64@7.1.0?classifier=sources

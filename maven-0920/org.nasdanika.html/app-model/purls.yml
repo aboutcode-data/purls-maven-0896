@@ -102,3 +102,5 @@
 - pkg:maven/org.nasdanika.html/app-model@2024.4.0?classifier=sources
 - pkg:maven/org.nasdanika.html/app-model@2024.5.0
 - pkg:maven/org.nasdanika.html/app-model@2024.5.0?classifier=sources
+- pkg:maven/org.nasdanika.html/app-model@2024.5.1
+- pkg:maven/org.nasdanika.html/app-model@2024.5.1?classifier=sources

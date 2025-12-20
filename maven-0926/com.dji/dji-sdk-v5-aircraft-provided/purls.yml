@@ -12,3 +12,4 @@
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.7.2?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.8.0?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.9.0?classifier=sources
+- pkg:maven/com.dji/dji-sdk-v5-aircraft-provided@5.9.1?classifier=sources

@@ -16,6 +16,10 @@
 - pkg:maven/io.psilicon/avro2s_3@0.17.0?classifier=sources
 - pkg:maven/io.psilicon/avro2s_3@0.18.0
 - pkg:maven/io.psilicon/avro2s_3@0.18.0?classifier=sources
+- pkg:maven/io.psilicon/avro2s_3@0.19.0
+- pkg:maven/io.psilicon/avro2s_3@0.19.0?classifier=sources
+- pkg:maven/io.psilicon/avro2s_3@0.20.0
+- pkg:maven/io.psilicon/avro2s_3@0.20.0?classifier=sources
 - pkg:maven/io.psilicon/avro2s_3@0.4.0
 - pkg:maven/io.psilicon/avro2s_3@0.4.0?classifier=sources
 - pkg:maven/io.psilicon/avro2s_3@0.5.0

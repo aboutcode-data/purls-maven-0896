@@ -1,3 +1,6 @@
+- pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-RC1?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-RC2?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-RC3?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-beta1?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-beta2?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-beta3?classifier=sources
@@ -18,3 +21,5 @@
 - pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-dev6?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-dev7?classifier=sources
 - pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0-dev9?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.0?classifier=sources
+- pkg:maven/love.forte.simbot.common/simbot-common-suspend-runner-watchosarm32@4.0.1?classifier=sources

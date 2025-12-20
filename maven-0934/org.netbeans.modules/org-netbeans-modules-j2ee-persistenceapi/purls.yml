@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistenceapi@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistenceapi@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistenceapi@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistenceapi@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-persistenceapi@RELEASE90?classifier=sources

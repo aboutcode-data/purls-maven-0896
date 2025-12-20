@@ -1,3 +1,4 @@
 - pkg:maven/io.github.luoqqsh/dnet@0.0.2?classifier=sources
 - pkg:maven/io.github.luoqqsh/dnet@0.0.3?classifier=sources
 - pkg:maven/io.github.luoqqsh/dnet@0.0.4?classifier=sources
+- pkg:maven/io.github.luoqqsh/dnet@0.1.1?classifier=sources

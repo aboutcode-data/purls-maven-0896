@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/merkle-tree-stream@3.0.3
 - pkg:maven/org.webjars.npm/merkle-tree-stream@3.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/merkle-tree-stream@4.0.0

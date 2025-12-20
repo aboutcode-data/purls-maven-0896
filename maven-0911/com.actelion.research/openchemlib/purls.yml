@@ -502,3 +502,9 @@
 - pkg:maven/com.actelion.research/openchemlib@2024.5.1?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2024.5.2
 - pkg:maven/com.actelion.research/openchemlib@2024.5.2?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2024.5.3
+- pkg:maven/com.actelion.research/openchemlib@2024.5.3?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2024.6.0
+- pkg:maven/com.actelion.research/openchemlib@2024.6.0?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2024.6.1
+- pkg:maven/com.actelion.research/openchemlib@2024.6.1?classifier=sources

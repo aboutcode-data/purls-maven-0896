@@ -11,6 +11,7 @@
 - pkg:maven/org.eclipse.emf.parsley/org.eclipse.emf.parsley.cdo.common@1.14.0?classifier=sources
 - pkg:maven/org.eclipse.emf.parsley/org.eclipse.emf.parsley.cdo.common@1.15.0?classifier=sources
 - pkg:maven/org.eclipse.emf.parsley/org.eclipse.emf.parsley.cdo.common@1.16.0?classifier=sources
+- pkg:maven/org.eclipse.emf.parsley/org.eclipse.emf.parsley.cdo.common@1.17.0?classifier=sources
 - pkg:maven/org.eclipse.emf.parsley/org.eclipse.emf.parsley.cdo.common@1.2.0?classifier=sources
 - pkg:maven/org.eclipse.emf.parsley/org.eclipse.emf.parsley.cdo.common@1.2.1?classifier=sources
 - pkg:maven/org.eclipse.emf.parsley/org.eclipse.emf.parsley.cdo.common@1.2.2?classifier=sources

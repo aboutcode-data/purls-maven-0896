@@ -23,3 +23,6 @@
 - pkg:maven/org.orbit-mvi/orbit-test-iosx64@7.0.0?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-test-iosx64@7.0.1?classifier=sources
 - pkg:maven/org.orbit-mvi/orbit-test-iosx64@7.1.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-test-iosx64@7.1.1?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-test-iosx64@7.2.0?classifier=sources
+- pkg:maven/org.orbit-mvi/orbit-test-iosx64@8.0.0?classifier=sources

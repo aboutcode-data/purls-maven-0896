@@ -1,0 +1,4 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.47.3
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.47.3?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.48.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.48.0?classifier=sources

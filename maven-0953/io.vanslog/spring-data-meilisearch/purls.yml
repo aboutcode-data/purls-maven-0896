@@ -18,3 +18,5 @@
 - pkg:maven/io.vanslog/spring-data-meilisearch@0.5.2?classifier=sources
 - pkg:maven/io.vanslog/spring-data-meilisearch@0.5.3
 - pkg:maven/io.vanslog/spring-data-meilisearch@0.5.3?classifier=sources
+- pkg:maven/io.vanslog/spring-data-meilisearch@0.6.0
+- pkg:maven/io.vanslog/spring-data-meilisearch@0.6.0?classifier=sources

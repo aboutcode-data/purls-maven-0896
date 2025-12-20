@@ -3,3 +3,4 @@
 - pkg:maven/com.juul.kable/log-engine-tuulbox-jvm@0.30.0?classifier=sources
 - pkg:maven/com.juul.kable/log-engine-tuulbox-jvm@0.31.0?classifier=sources
 - pkg:maven/com.juul.kable/log-engine-tuulbox-jvm@0.31.1?classifier=sources
+- pkg:maven/com.juul.kable/log-engine-tuulbox-jvm@0.32.0?classifier=sources

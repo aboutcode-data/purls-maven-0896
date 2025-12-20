@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cornerman/chameleon-http4s_sjs1_2.12@0.4.0
+- pkg:maven/com.github.cornerman/chameleon-http4s_sjs1_2.12@0.4.0?classifier=sources
+- pkg:maven/com.github.cornerman/chameleon-http4s_sjs1_2.12@0.4.1
+- pkg:maven/com.github.cornerman/chameleon-http4s_sjs1_2.12@0.4.1?classifier=sources

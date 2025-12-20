@@ -10,3 +10,5 @@
 - pkg:maven/au.com.integradev.delphi/delphi-tokens-generator-maven-plugin@1.4.0?classifier=sources
 - pkg:maven/au.com.integradev.delphi/delphi-tokens-generator-maven-plugin@1.5.0
 - pkg:maven/au.com.integradev.delphi/delphi-tokens-generator-maven-plugin@1.5.0?classifier=sources
+- pkg:maven/au.com.integradev.delphi/delphi-tokens-generator-maven-plugin@1.6.0
+- pkg:maven/au.com.integradev.delphi/delphi-tokens-generator-maven-plugin@1.6.0?classifier=sources

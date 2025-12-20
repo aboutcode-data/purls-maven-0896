@@ -1,2 +1,4 @@
 - pkg:maven/com.github.alorma.compose-settings/ui-base-iossimulatorarm64@2.1.0?classifier=sources
 - pkg:maven/com.github.alorma.compose-settings/ui-base-iossimulatorarm64@2.2.0?classifier=sources
+- pkg:maven/com.github.alorma.compose-settings/ui-base-iossimulatorarm64@2.3.0?classifier=sources
+- pkg:maven/com.github.alorma.compose-settings/ui-base-iossimulatorarm64@2.4.0?classifier=sources

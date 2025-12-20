@@ -2,3 +2,5 @@
 - pkg:maven/org.biopax.validator/obo-fetcher@4.0.0?classifier=sources
 - pkg:maven/org.biopax.validator/obo-fetcher@5.1.0
 - pkg:maven/org.biopax.validator/obo-fetcher@5.1.0?classifier=sources
+- pkg:maven/org.biopax.validator/obo-fetcher@6.0.0
+- pkg:maven/org.biopax.validator/obo-fetcher@6.0.0?classifier=sources

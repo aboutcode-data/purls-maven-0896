@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.iangellove/omega-engine-v4-gpu@win-cu11.7-v1.0-alpha?classifier=sources
+- pkg:maven/io.gitee.iangellove/omega-engine-v4-gpu@win-cu11.7-v1.0-beta?classifier=sources
+- pkg:maven/io.gitee.iangellove/omega-engine-v4-gpu@win-cu11.8-v1.0-beta?classifier=sources
+- pkg:maven/io.gitee.iangellove/omega-engine-v4-gpu@win-cu12.x-v1.0-beta?classifier=sources

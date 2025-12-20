@@ -140,3 +140,5 @@
 - pkg:maven/com.comcast/ip4s-core_3@3.4.0?classifier=sources
 - pkg:maven/com.comcast/ip4s-core_3@3.5.0
 - pkg:maven/com.comcast/ip4s-core_3@3.5.0?classifier=sources
+- pkg:maven/com.comcast/ip4s-core_3@3.6.0
+- pkg:maven/com.comcast/ip4s-core_3@3.6.0?classifier=sources

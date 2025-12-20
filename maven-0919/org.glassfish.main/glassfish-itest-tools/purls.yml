@@ -8,6 +8,8 @@
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.13?classifier=sources
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.14
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.14?classifier=sources
+- pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.15
+- pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.15?classifier=sources
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.3
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.3?classifier=sources
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.4

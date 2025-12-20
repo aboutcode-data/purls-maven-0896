@@ -1,5 +1,7 @@
+- pkg:maven/io.nstream/nstream-persistence@4.10.18?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.5.8?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.6.9?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.7.10?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.8.15?classifier=sources
 - pkg:maven/io.nstream/nstream-persistence@4.9.16?classifier=sources
+- pkg:maven/io.nstream/nstream-persistence@4.9.17?classifier=sources

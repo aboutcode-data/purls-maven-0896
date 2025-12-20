@@ -160,3 +160,5 @@
 - pkg:maven/com.google.api-client/google-api-client-appengine@2.5.0?classifier=sources
 - pkg:maven/com.google.api-client/google-api-client-appengine@2.5.1
 - pkg:maven/com.google.api-client/google-api-client-appengine@2.5.1?classifier=sources
+- pkg:maven/com.google.api-client/google-api-client-appengine@2.6.0
+- pkg:maven/com.google.api-client/google-api-client-appengine@2.6.0?classifier=sources

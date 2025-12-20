@@ -130,3 +130,7 @@
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2023.9.6?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2023.9.7
 - pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2023.9.7?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2024.0.0
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2024.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2024.0.1
+- pkg:maven/org.neo4j/neo4j-cypher-dsl-codegen-core@2024.0.1?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.skywalking/cluster-kubernetes-plugin@10.0.1
+- pkg:maven/org.apache.skywalking/cluster-kubernetes-plugin@10.0.1?classifier=sources
 - pkg:maven/org.apache.skywalking/cluster-kubernetes-plugin@6.0.0-GA
 - pkg:maven/org.apache.skywalking/cluster-kubernetes-plugin@6.0.0-alpha
 - pkg:maven/org.apache.skywalking/cluster-kubernetes-plugin@6.0.0-beta

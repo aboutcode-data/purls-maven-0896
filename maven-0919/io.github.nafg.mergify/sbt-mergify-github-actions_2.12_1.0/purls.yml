@@ -1,2 +1,6 @@
 - pkg:maven/io.github.nafg.mergify/sbt-mergify-github-actions_2.12_1.0@0.8.0
 - pkg:maven/io.github.nafg.mergify/sbt-mergify-github-actions_2.12_1.0@0.8.0?classifier=sources
+- pkg:maven/io.github.nafg.mergify/sbt-mergify-github-actions_2.12_1.0@0.8.1
+- pkg:maven/io.github.nafg.mergify/sbt-mergify-github-actions_2.12_1.0@0.8.1?classifier=sources
+- pkg:maven/io.github.nafg.mergify/sbt-mergify-github-actions_2.12_1.0@0.8.2
+- pkg:maven/io.github.nafg.mergify/sbt-mergify-github-actions_2.12_1.0@0.8.2?classifier=sources

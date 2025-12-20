@@ -1,0 +1,4 @@
+- pkg:maven/io.telicent.public/jwt-servlet-auth-aws@0.14.0
+- pkg:maven/io.telicent.public/jwt-servlet-auth-aws@0.14.0?classifier=sources
+- pkg:maven/io.telicent.public/jwt-servlet-auth-aws@0.15.0
+- pkg:maven/io.telicent.public/jwt-servlet-auth-aws@0.15.0?classifier=sources

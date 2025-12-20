@@ -1,0 +1,2 @@
+- pkg:maven/com.panosen/panosen-local-config@0.1.0
+- pkg:maven/com.panosen/panosen-local-config@0.1.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@0.5.0?type=war
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@0.6.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@0.6.0?type=war
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.0.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.0.0?type=war

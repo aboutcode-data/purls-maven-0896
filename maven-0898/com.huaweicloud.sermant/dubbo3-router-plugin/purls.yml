@@ -1,2 +1,4 @@
 - pkg:maven/com.huaweicloud.sermant/dubbo3-router-plugin@1.4.0
 - pkg:maven/com.huaweicloud.sermant/dubbo3-router-plugin@1.4.0?classifier=sources
+- pkg:maven/com.huaweicloud.sermant/dubbo3-router-plugin@1.4.1
+- pkg:maven/com.huaweicloud.sermant/dubbo3-router-plugin@1.4.1?classifier=sources

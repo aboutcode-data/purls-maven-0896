@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/pac-resolver@4.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/pac-resolver@6.0.2
 - pkg:maven/org.webjars.npm/pac-resolver@6.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/pac-resolver@7.0.1

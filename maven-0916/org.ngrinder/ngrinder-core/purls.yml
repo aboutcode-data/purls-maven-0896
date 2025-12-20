@@ -15,4 +15,6 @@
 - pkg:maven/org.ngrinder/ngrinder-core@3.5.8
 - pkg:maven/org.ngrinder/ngrinder-core@3.5.8?classifier=sources
 - pkg:maven/org.ngrinder/ngrinder-core@3.5.9
+- pkg:maven/org.ngrinder/ngrinder-core@3.5.9-p1
+- pkg:maven/org.ngrinder/ngrinder-core@3.5.9-p1?classifier=sources
 - pkg:maven/org.ngrinder/ngrinder-core@3.5.9?classifier=sources

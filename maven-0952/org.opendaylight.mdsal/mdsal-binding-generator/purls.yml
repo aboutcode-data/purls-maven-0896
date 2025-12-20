@@ -40,11 +40,15 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@12.0.3?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@12.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@12.0.5?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@12.0.6
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@12.0.6?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@13.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@13.0.1
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@13.0.1?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@13.0.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@13.0.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@13.0.4
+- pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@13.0.4?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@8.0.0
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@8.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-binding-generator@8.0.1

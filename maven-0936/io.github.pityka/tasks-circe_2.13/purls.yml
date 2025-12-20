@@ -34,6 +34,10 @@
 - pkg:maven/io.github.pityka/tasks-circe_2.13@2.0.0-M7?classifier=sources
 - pkg:maven/io.github.pityka/tasks-circe_2.13@2.0.0-M8
 - pkg:maven/io.github.pityka/tasks-circe_2.13@2.0.0-M8?classifier=sources
+- pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M10
+- pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M10?classifier=sources
+- pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M11
+- pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M11?classifier=sources
 - pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M2
 - pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M2?classifier=sources
 - pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M3
@@ -46,3 +50,5 @@
 - pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M6?classifier=sources
 - pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M7
 - pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M7?classifier=sources
+- pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M8
+- pkg:maven/io.github.pityka/tasks-circe_2.13@3.0.0-M8?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/in.easebuzz/android-v1@1.0.0?classifier=sources
 - pkg:maven/in.easebuzz/android-v1@1.0.0?type=aar
+- pkg:maven/in.easebuzz/android-v1@1.0.1?classifier=sources
+- pkg:maven/in.easebuzz/android-v1@1.0.1?type=aar

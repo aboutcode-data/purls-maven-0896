@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.paimon/paimon-oss-impl@0.7.0-incubating?classifier=sources
 - pkg:maven/org.apache.paimon/paimon-oss-impl@0.8.0
 - pkg:maven/org.apache.paimon/paimon-oss-impl@0.8.0?classifier=sources
+- pkg:maven/org.apache.paimon/paimon-oss-impl@0.8.1
+- pkg:maven/org.apache.paimon/paimon-oss-impl@0.8.1?classifier=sources

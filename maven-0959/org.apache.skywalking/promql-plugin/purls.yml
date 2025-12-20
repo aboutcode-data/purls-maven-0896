@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.skywalking/promql-plugin@10.0.1
+- pkg:maven/org.apache.skywalking/promql-plugin@10.0.1?classifier=sources
 - pkg:maven/org.apache.skywalking/promql-plugin@9.4.0
 - pkg:maven/org.apache.skywalking/promql-plugin@9.4.0?classifier=sources
 - pkg:maven/org.apache.skywalking/promql-plugin@9.5.0

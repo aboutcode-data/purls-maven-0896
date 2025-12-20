@@ -1,0 +1,6 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-apptest@1.12.742
+- pkg:maven/com.amazonaws/aws-java-sdk-apptest@1.12.742?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-apptest@1.12.743
+- pkg:maven/com.amazonaws/aws-java-sdk-apptest@1.12.743?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-apptest@1.12.744
+- pkg:maven/com.amazonaws/aws-java-sdk-apptest@1.12.744?classifier=sources

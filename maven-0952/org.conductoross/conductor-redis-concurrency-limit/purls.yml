@@ -2,3 +2,4 @@
 - pkg:maven/org.conductoross/conductor-redis-concurrency-limit@3.17.0?classifier=sources
 - pkg:maven/org.conductoross/conductor-redis-concurrency-limit@3.18.0?classifier=sources
 - pkg:maven/org.conductoross/conductor-redis-concurrency-limit@3.19.0?classifier=sources
+- pkg:maven/org.conductoross/conductor-redis-concurrency-limit@3.20.0?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.0?classifier=sources
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.1
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.1?classifier=sources
+- pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.2
+- pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.2?classifier=sources

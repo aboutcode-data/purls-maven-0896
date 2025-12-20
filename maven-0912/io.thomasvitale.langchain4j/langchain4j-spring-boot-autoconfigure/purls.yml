@@ -2,6 +2,7 @@
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-autoconfigure@0.1.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-autoconfigure@0.10.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-autoconfigure@0.11.0?classifier=sources
+- pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-autoconfigure@0.12.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-autoconfigure@0.2.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-autoconfigure@0.3.0?classifier=sources
 - pkg:maven/io.thomasvitale.langchain4j/langchain4j-spring-boot-autoconfigure@0.3.1?classifier=sources

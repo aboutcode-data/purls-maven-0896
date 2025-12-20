@@ -14,6 +14,10 @@
 - pkg:maven/org.flywaydb/flyway-firebird@10.12.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-firebird@10.13.0
 - pkg:maven/org.flywaydb/flyway-firebird@10.13.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-firebird@10.14.0
+- pkg:maven/org.flywaydb/flyway-firebird@10.14.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-firebird@10.15.0
+- pkg:maven/org.flywaydb/flyway-firebird@10.15.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-firebird@10.2.0
 - pkg:maven/org.flywaydb/flyway-firebird@10.2.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-firebird@10.3.0

@@ -766,6 +766,8 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@1.9.14?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@1.9.15
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@1.9.15?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@1.9.16
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@1.9.16?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@2.0.0
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.account.suspension.notification.task@2.0.1

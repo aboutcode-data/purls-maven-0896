@@ -1,0 +1,2 @@
+- pkg:maven/io.netty/netty-transport-classes-io_uring@4.2.0.Alpha1
+- pkg:maven/io.netty/netty-transport-classes-io_uring@4.2.0.Alpha1?classifier=sources

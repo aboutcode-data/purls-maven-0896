@@ -95,6 +95,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.17-pre.749?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.17-pre.750?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.18-pre.751?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.18-pre.752?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.18-pre.753?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.18-pre.754?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.19-pre.755?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.19-pre.756?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.19-pre.757?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.19-pre.758?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.4-pre.685?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.4-pre.686?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material@5.15.4-pre.687?classifier=sources

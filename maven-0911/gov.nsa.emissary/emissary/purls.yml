@@ -4,3 +4,7 @@
 - pkg:maven/gov.nsa.emissary/emissary@8.1.0?classifier=sources
 - pkg:maven/gov.nsa.emissary/emissary@8.2.0
 - pkg:maven/gov.nsa.emissary/emissary@8.2.0?classifier=sources
+- pkg:maven/gov.nsa.emissary/emissary@8.3.0
+- pkg:maven/gov.nsa.emissary/emissary@8.3.0?classifier=sources
+- pkg:maven/gov.nsa.emissary/emissary@8.4.0
+- pkg:maven/gov.nsa.emissary/emissary@8.4.0?classifier=sources

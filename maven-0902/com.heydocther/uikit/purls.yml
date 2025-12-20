@@ -1,0 +1,4 @@
+- pkg:maven/com.heydocther/uikit@0.0.1?classifier=sources
+- pkg:maven/com.heydocther/uikit@0.0.2?classifier=sources
+- pkg:maven/com.heydocther/uikit@0.1.0?classifier=sources
+- pkg:maven/com.heydocther/uikit@0.2.0?classifier=sources

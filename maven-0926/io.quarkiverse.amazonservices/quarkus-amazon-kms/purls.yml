@@ -76,6 +76,8 @@
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.14.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.15.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.15.0?classifier=sources
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.16.0
+- pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.16.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.2.0
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.2.0?classifier=sources
 - pkg:maven/io.quarkiverse.amazonservices/quarkus-amazon-kms@2.3.0

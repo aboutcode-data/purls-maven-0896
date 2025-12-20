@@ -816,6 +816,12 @@
 - pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.469?classifier=sources
 - pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.46?classifier=sources
 - pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.47
+- pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.470
+- pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.470?classifier=sources
+- pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.471
+- pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.471?classifier=sources
+- pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.472
+- pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.472?classifier=sources
 - pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.47?classifier=sources
 - pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.48
 - pkg:maven/com.pepperize/cdk-dynamodb-backup@0.0.48?classifier=sources

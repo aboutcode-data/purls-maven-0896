@@ -6,3 +6,5 @@
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser-listener@5.18.1?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser-listener@5.19.0
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser-listener@5.19.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-antlr-parser-listener@5.20.0
+- pkg:maven/org.neo4j/neo4j-cypher-antlr-parser-listener@5.20.0?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-restlib@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-restlib@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-restlib@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-websvc-restlib@RELEASE220?classifier=sources

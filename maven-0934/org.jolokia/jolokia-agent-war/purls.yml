@@ -5,3 +5,4 @@
 - pkg:maven/org.jolokia/jolokia-agent-war@2.0.0?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war@2.0.1?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war@2.0.2?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war@2.0.3?type=war

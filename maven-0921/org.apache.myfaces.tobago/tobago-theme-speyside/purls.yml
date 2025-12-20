@@ -168,6 +168,8 @@
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.0?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.1
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.1?classifier=sources
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.2
+- pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@2.5.2?classifier=sources
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@3.0.0
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@3.0.0-alpha-1
 - pkg:maven/org.apache.myfaces.tobago/tobago-theme-speyside@3.0.0-alpha-1?classifier=sources

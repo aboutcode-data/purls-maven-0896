@@ -36,3 +36,4 @@
 - pkg:maven/io.fluidsonic.raptor/raptor-environment@0.23.0?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-environment@0.24.0?classifier=sources
 - pkg:maven/io.fluidsonic.raptor/raptor-environment@0.25.0?classifier=sources
+- pkg:maven/io.fluidsonic.raptor/raptor-environment@0.25.1?classifier=sources

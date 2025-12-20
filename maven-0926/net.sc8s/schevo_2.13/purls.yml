@@ -176,3 +176,7 @@
 - pkg:maven/net.sc8s/schevo_2.13@0.86.0?classifier=sources
 - pkg:maven/net.sc8s/schevo_2.13@0.87.0
 - pkg:maven/net.sc8s/schevo_2.13@0.87.0?classifier=sources
+- pkg:maven/net.sc8s/schevo_2.13@0.88.0
+- pkg:maven/net.sc8s/schevo_2.13@0.88.0?classifier=sources
+- pkg:maven/net.sc8s/schevo_2.13@0.89.0
+- pkg:maven/net.sc8s/schevo_2.13@0.89.0?classifier=sources

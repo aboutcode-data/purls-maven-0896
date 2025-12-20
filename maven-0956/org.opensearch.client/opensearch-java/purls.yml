@@ -9,6 +9,7 @@
 - pkg:maven/org.opensearch.client/opensearch-java@2.10.1?classifier=sources
 - pkg:maven/org.opensearch.client/opensearch-java@2.10.2?classifier=sources
 - pkg:maven/org.opensearch.client/opensearch-java@2.10.3?classifier=sources
+- pkg:maven/org.opensearch.client/opensearch-java@2.10.4?classifier=sources
 - pkg:maven/org.opensearch.client/opensearch-java@2.2.0?classifier=sources
 - pkg:maven/org.opensearch.client/opensearch-java@2.3.0?classifier=sources
 - pkg:maven/org.opensearch.client/opensearch-java@2.4.0?classifier=sources

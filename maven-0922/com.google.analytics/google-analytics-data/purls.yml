@@ -142,6 +142,8 @@
 - pkg:maven/com.google.analytics/google-analytics-data@0.54.0?classifier=sources
 - pkg:maven/com.google.analytics/google-analytics-data@0.55.0
 - pkg:maven/com.google.analytics/google-analytics-data@0.55.0?classifier=sources
+- pkg:maven/com.google.analytics/google-analytics-data@0.56.0
+- pkg:maven/com.google.analytics/google-analytics-data@0.56.0?classifier=sources
 - pkg:maven/com.google.analytics/google-analytics-data@0.6.0
 - pkg:maven/com.google.analytics/google-analytics-data@0.6.0?classifier=sources
 - pkg:maven/com.google.analytics/google-analytics-data@0.7.0

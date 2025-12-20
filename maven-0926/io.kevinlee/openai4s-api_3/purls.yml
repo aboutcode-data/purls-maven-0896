@@ -14,3 +14,5 @@
 - pkg:maven/io.kevinlee/openai4s-api_3@0.1.0-alpha7?classifier=sources
 - pkg:maven/io.kevinlee/openai4s-api_3@0.1.0-alpha8
 - pkg:maven/io.kevinlee/openai4s-api_3@0.1.0-alpha8?classifier=sources
+- pkg:maven/io.kevinlee/openai4s-api_3@0.1.0-alpha9
+- pkg:maven/io.kevinlee/openai4s-api_3@0.1.0-alpha9?classifier=sources

@@ -285,6 +285,8 @@
 - pkg:maven/org.springframework/spring-websocket@5.3.33?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@5.3.34?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@5.3.35?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@5.3.36?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@5.3.37?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@5.3.3?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@5.3.4?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@5.3.5?classifier=sources
@@ -305,6 +307,8 @@
 - pkg:maven/org.springframework/spring-websocket@6.0.19?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@6.0.1?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@6.0.20?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@6.0.21?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@6.0.22?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@6.0.2?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@6.0.3?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@6.0.4?classifier=sources
@@ -321,3 +325,5 @@
 - pkg:maven/org.springframework/spring-websocket@6.1.5?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@6.1.6?classifier=sources
 - pkg:maven/org.springframework/spring-websocket@6.1.7?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@6.1.8?classifier=sources
+- pkg:maven/org.springframework/spring-websocket@6.1.9?classifier=sources

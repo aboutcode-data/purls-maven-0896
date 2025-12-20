@@ -32,3 +32,5 @@
 - pkg:maven/uk.gov.nationalarchives/droid-tools@6.8.0-RC1?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/droid-tools@6.8.0-RC2
 - pkg:maven/uk.gov.nationalarchives/droid-tools@6.8.0-RC2?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/droid-tools@6.8.0-RC3
+- pkg:maven/uk.gov.nationalarchives/droid-tools@6.8.0-RC3?classifier=sources

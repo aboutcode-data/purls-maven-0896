@@ -1,1 +1,2 @@
 - pkg:maven/org.springframework.pulsar/spring-pulsar-test@1.1.0?classifier=sources
+- pkg:maven/org.springframework.pulsar/spring-pulsar-test@1.1.1?classifier=sources

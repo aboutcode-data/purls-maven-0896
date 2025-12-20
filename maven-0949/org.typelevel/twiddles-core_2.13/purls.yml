@@ -22,3 +22,5 @@
 - pkg:maven/org.typelevel/twiddles-core_2.13@0.7.2?classifier=sources
 - pkg:maven/org.typelevel/twiddles-core_2.13@0.8.0
 - pkg:maven/org.typelevel/twiddles-core_2.13@0.8.0?classifier=sources
+- pkg:maven/org.typelevel/twiddles-core_2.13@0.9.0
+- pkg:maven/org.typelevel/twiddles-core_2.13@0.9.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.kotest/kotest-framework-concurrency-wasm-js@5.9.0?classifier=sources
+- pkg:maven/io.kotest/kotest-framework-concurrency-wasm-js@5.9.1?classifier=sources

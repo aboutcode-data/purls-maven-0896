@@ -7,3 +7,5 @@
 - pkg:maven/at.asitplus.crypto/datatypes-jws@2.5.0?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-jws@2.6.0?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-jws@3.0.0?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jws@3.1.0?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jws@3.2.0?classifier=sources

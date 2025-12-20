@@ -2,3 +2,7 @@
 - pkg:maven/org.dflib/dflib@1.0.0-M19?classifier=sources
 - pkg:maven/org.dflib/dflib@1.0.0-M20
 - pkg:maven/org.dflib/dflib@1.0.0-M20?classifier=sources
+- pkg:maven/org.dflib/dflib@1.0.0-M21
+- pkg:maven/org.dflib/dflib@1.0.0-M21?classifier=sources
+- pkg:maven/org.dflib/dflib@1.0.0-M22
+- pkg:maven/org.dflib/dflib@1.0.0-M22?classifier=sources

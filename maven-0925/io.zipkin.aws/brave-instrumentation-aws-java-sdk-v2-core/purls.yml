@@ -82,3 +82,5 @@
 - pkg:maven/io.zipkin.aws/brave-instrumentation-aws-java-sdk-v2-core@1.2.3?classifier=sources
 - pkg:maven/io.zipkin.aws/brave-instrumentation-aws-java-sdk-v2-core@1.2.4
 - pkg:maven/io.zipkin.aws/brave-instrumentation-aws-java-sdk-v2-core@1.2.4?classifier=sources
+- pkg:maven/io.zipkin.aws/brave-instrumentation-aws-java-sdk-v2-core@1.2.5
+- pkg:maven/io.zipkin.aws/brave-instrumentation-aws-java-sdk-v2-core@1.2.5?classifier=sources
