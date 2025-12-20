@@ -4,3 +4,7 @@
 - pkg:maven/org.typelevel/fabric-reactify_2.13@1.12.7?classifier=sources
 - pkg:maven/org.typelevel/fabric-reactify_2.13@1.12.8
 - pkg:maven/org.typelevel/fabric-reactify_2.13@1.12.8?classifier=sources
+- pkg:maven/org.typelevel/fabric-reactify_2.13@1.13.0
+- pkg:maven/org.typelevel/fabric-reactify_2.13@1.13.0?classifier=sources
+- pkg:maven/org.typelevel/fabric-reactify_2.13@1.13.1
+- pkg:maven/org.typelevel/fabric-reactify_2.13@1.13.1?classifier=sources

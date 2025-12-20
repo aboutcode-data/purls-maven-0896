@@ -36,3 +36,5 @@
 - pkg:maven/io.github.endless4s/endless-protobuf-helpers_2.13@0.26.0?classifier=sources
 - pkg:maven/io.github.endless4s/endless-protobuf-helpers_2.13@0.27.0
 - pkg:maven/io.github.endless4s/endless-protobuf-helpers_2.13@0.27.0?classifier=sources
+- pkg:maven/io.github.endless4s/endless-protobuf-helpers_2.13@0.28.0
+- pkg:maven/io.github.endless4s/endless-protobuf-helpers_2.13@0.28.0?classifier=sources

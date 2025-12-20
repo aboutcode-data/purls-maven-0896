@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse/quarkus-reactive-messsaging-nats-jetstream-deployment@1.0.0
+- pkg:maven/io.quarkiverse/quarkus-reactive-messsaging-nats-jetstream-deployment@1.0.0?classifier=sources

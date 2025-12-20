@@ -76,3 +76,5 @@
 - pkg:maven/com.github.luues.boot/spring-boot-starter-jedis@1.0.3.8.RELEASE?classifier=sources
 - pkg:maven/com.github.luues.boot/spring-boot-starter-jedis@1.0.3.9.RELEASE
 - pkg:maven/com.github.luues.boot/spring-boot-starter-jedis@1.0.3.9.RELEASE?classifier=sources
+- pkg:maven/com.github.luues.boot/spring-boot-starter-jedis@1.0.4.0.RELEASE
+- pkg:maven/com.github.luues.boot/spring-boot-starter-jedis@1.0.4.0.RELEASE?classifier=sources

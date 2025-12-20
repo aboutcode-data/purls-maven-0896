@@ -28,6 +28,7 @@
 - pkg:maven/io.getstream/stream-logger@5.17.19?classifier=sources
 - pkg:maven/io.getstream/stream-logger@5.17.1?classifier=sources
 - pkg:maven/io.getstream/stream-logger@5.17.20?classifier=sources
+- pkg:maven/io.getstream/stream-logger@5.17.21?classifier=sources
 - pkg:maven/io.getstream/stream-logger@5.17.2?classifier=sources
 - pkg:maven/io.getstream/stream-logger@5.17.3?classifier=sources
 - pkg:maven/io.getstream/stream-logger@5.17.4?classifier=sources

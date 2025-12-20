@@ -38,3 +38,5 @@
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@4.0.1?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@4.1.0
 - pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@4.1.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@4.1.1
+- pkg:maven/io.holunda.polyflow/polyflow-camunda-bpm-taskpool-job-sender@4.1.1?classifier=sources

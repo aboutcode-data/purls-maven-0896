@@ -18,6 +18,8 @@
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.11.14?classifier=sources
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.11.7
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.11.7?classifier=sources
+- pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.12.20
+- pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.12.20?classifier=sources
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.12.5
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.12.5?classifier=sources
 - pkg:maven/wtf.metio.storage-units/storage-units-simple@2023.2.7

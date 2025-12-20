@@ -1,2 +1,4 @@
 - pkg:maven/com.google.mug/mug-errorprone@7.0
 - pkg:maven/com.google.mug/mug-errorprone@7.0?classifier=sources
+- pkg:maven/com.google.mug/mug-errorprone@7.1
+- pkg:maven/com.google.mug/mug-errorprone@7.1?classifier=sources

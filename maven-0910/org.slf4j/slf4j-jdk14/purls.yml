@@ -184,6 +184,10 @@
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.0-beta1?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.0?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.1
+- pkg:maven/org.slf4j/slf4j-jdk14@2.0.10
+- pkg:maven/org.slf4j/slf4j-jdk14@2.0.10?classifier=sources
+- pkg:maven/org.slf4j/slf4j-jdk14@2.0.11
+- pkg:maven/org.slf4j/slf4j-jdk14@2.0.11?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.1?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.2
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.2?classifier=sources
@@ -201,3 +205,7 @@
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.8?classifier=sources
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.9
 - pkg:maven/org.slf4j/slf4j-jdk14@2.0.9?classifier=sources
+- pkg:maven/org.slf4j/slf4j-jdk14@2.1.0-alpha0
+- pkg:maven/org.slf4j/slf4j-jdk14@2.1.0-alpha0?classifier=sources
+- pkg:maven/org.slf4j/slf4j-jdk14@2.1.0-alpha1
+- pkg:maven/org.slf4j/slf4j-jdk14@2.1.0-alpha1?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/run.mone/ozhera-demo-client-api@1.0.0
+- pkg:maven/run.mone/ozhera-demo-client-api@1.0.0-jdk21
+- pkg:maven/run.mone/ozhera-demo-client-api@1.0.0-jdk21?classifier=sources
 - pkg:maven/run.mone/ozhera-demo-client-api@1.0.0?classifier=sources

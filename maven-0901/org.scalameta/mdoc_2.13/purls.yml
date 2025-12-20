@@ -104,3 +104,5 @@
 - pkg:maven/org.scalameta/mdoc_2.13@2.5.0?classifier=sources
 - pkg:maven/org.scalameta/mdoc_2.13@2.5.1
 - pkg:maven/org.scalameta/mdoc_2.13@2.5.1?classifier=sources
+- pkg:maven/org.scalameta/mdoc_2.13@2.5.2
+- pkg:maven/org.scalameta/mdoc_2.13@2.5.2?classifier=sources

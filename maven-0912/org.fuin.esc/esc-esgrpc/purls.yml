@@ -1,0 +1,4 @@
+- pkg:maven/org.fuin.esc/esc-esgrpc@0.6.0
+- pkg:maven/org.fuin.esc/esc-esgrpc@0.6.0?classifier=sources
+- pkg:maven/org.fuin.esc/esc-esgrpc@0.7.0
+- pkg:maven/org.fuin.esc/esc-esgrpc@0.7.0?classifier=sources

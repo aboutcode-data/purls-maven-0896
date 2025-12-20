@@ -63,6 +63,8 @@
 - pkg:maven/cn.rongcloud.sdk/player@5.1.16.6?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.1.16?classifier=sources
 - pkg:maven/cn.rongcloud.sdk/player@5.1.16?type=aar
+- pkg:maven/cn.rongcloud.sdk/player@5.1.17.13?classifier=sources
+- pkg:maven/cn.rongcloud.sdk/player@5.1.17.13?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.1.17.1?classifier=sources
 - pkg:maven/cn.rongcloud.sdk/player@5.1.17.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.1.17.2?classifier=sources
@@ -114,7 +116,9 @@
 - pkg:maven/cn.rongcloud.sdk/player@5.6.3.101?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.6.3.102?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.6.3.103?type=aar
+- pkg:maven/cn.rongcloud.sdk/player@5.6.3.104?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.6.3?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.6.4?type=aar
+- pkg:maven/cn.rongcloud.sdk/player@5.6.5.100?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.6.5?type=aar
 - pkg:maven/cn.rongcloud.sdk/player@5.6.7?type=aar

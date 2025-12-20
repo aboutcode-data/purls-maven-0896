@@ -95,4 +95,6 @@
 - pkg:maven/org.mortbay.jasper/apache-el@9.0.52
 - pkg:maven/org.mortbay.jasper/apache-el@9.0.52?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-el@9.0.83
+- pkg:maven/org.mortbay.jasper/apache-el@9.0.83.1
+- pkg:maven/org.mortbay.jasper/apache-el@9.0.83.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-el@9.0.83?classifier=sources

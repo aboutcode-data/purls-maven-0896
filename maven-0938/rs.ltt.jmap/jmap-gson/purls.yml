@@ -83,6 +83,12 @@
 - pkg:maven/rs.ltt.jmap/jmap-gson@0.8.14?classifier=sources
 - pkg:maven/rs.ltt.jmap/jmap-gson@0.8.15
 - pkg:maven/rs.ltt.jmap/jmap-gson@0.8.15?classifier=sources
+- pkg:maven/rs.ltt.jmap/jmap-gson@0.8.16
+- pkg:maven/rs.ltt.jmap/jmap-gson@0.8.16?classifier=sources
+- pkg:maven/rs.ltt.jmap/jmap-gson@0.8.17
+- pkg:maven/rs.ltt.jmap/jmap-gson@0.8.17?classifier=sources
+- pkg:maven/rs.ltt.jmap/jmap-gson@0.8.18
+- pkg:maven/rs.ltt.jmap/jmap-gson@0.8.18?classifier=sources
 - pkg:maven/rs.ltt.jmap/jmap-gson@0.8.1?classifier=sources
 - pkg:maven/rs.ltt.jmap/jmap-gson@0.8.2
 - pkg:maven/rs.ltt.jmap/jmap-gson@0.8.2?classifier=sources

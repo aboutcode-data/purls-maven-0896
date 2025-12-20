@@ -1,0 +1,6 @@
+- pkg:maven/io.github.gracefullliam/paopao-log@1.0.0.RELEASE
+- pkg:maven/io.github.gracefullliam/paopao-log@1.0.0.RELEASE?classifier=sources
+- pkg:maven/io.github.gracefullliam/paopao-log@alpha
+- pkg:maven/io.github.gracefullliam/paopao-log@alpha?classifier=sources
+- pkg:maven/io.github.gracefullliam/paopao-log@beta
+- pkg:maven/io.github.gracefullliam/paopao-log@beta?classifier=sources

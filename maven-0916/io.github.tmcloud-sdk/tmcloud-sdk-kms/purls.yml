@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tmcloud-sdk/tmcloud-sdk-kms@0.0.1-beta
+- pkg:maven/io.github.tmcloud-sdk/tmcloud-sdk-kms@0.0.1-beta?classifier=sources

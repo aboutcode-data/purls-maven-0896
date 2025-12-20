@@ -1,1 +1,4 @@
 - pkg:maven/io.github.yakuraion.destinationscompose/ksp-viewmodel-koin@0.1.0-alpha?classifier=sources
+- pkg:maven/io.github.yakuraion.destinationscompose/ksp-viewmodel-koin@0.2.0?classifier=sources
+- pkg:maven/io.github.yakuraion.destinationscompose/ksp-viewmodel-koin@0.3.0?classifier=sources
+- pkg:maven/io.github.yakuraion.destinationscompose/ksp-viewmodel-koin@0.4.0?classifier=sources

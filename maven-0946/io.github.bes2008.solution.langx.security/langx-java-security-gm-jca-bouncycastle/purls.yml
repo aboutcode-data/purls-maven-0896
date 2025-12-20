@@ -56,3 +56,11 @@
 - pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.2.8?classifier=sources
 - pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.2.9
 - pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.2.9?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.0
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.0?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.1
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.1?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.2
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.2?classifier=sources
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.3
+- pkg:maven/io.github.bes2008.solution.langx.security/langx-java-security-gm-jca-bouncycastle@5.3.3?classifier=sources

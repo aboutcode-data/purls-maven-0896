@@ -14,3 +14,5 @@
 - pkg:maven/io.github.selcukes/selcukes-collections@2.3.6?classifier=sources
 - pkg:maven/io.github.selcukes/selcukes-collections@2.3.7
 - pkg:maven/io.github.selcukes/selcukes-collections@2.3.7?classifier=sources
+- pkg:maven/io.github.selcukes/selcukes-collections@2.3.8
+- pkg:maven/io.github.selcukes/selcukes-collections@2.3.8?classifier=sources

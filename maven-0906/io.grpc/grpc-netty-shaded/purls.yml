@@ -153,9 +153,12 @@
 - pkg:maven/io.grpc/grpc-netty-shaded@1.57.1?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.57.2?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.58.0?classifier=sources
+- pkg:maven/io.grpc/grpc-netty-shaded@1.58.1?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.59.0?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.59.1?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.60.0?classifier=sources
+- pkg:maven/io.grpc/grpc-netty-shaded@1.60.1?classifier=sources
+- pkg:maven/io.grpc/grpc-netty-shaded@1.61.0?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.9.0
 - pkg:maven/io.grpc/grpc-netty-shaded@1.9.0?classifier=sources
 - pkg:maven/io.grpc/grpc-netty-shaded@1.9.1

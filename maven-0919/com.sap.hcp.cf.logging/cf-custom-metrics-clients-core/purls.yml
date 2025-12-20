@@ -58,3 +58,5 @@
 - pkg:maven/com.sap.hcp.cf.logging/cf-custom-metrics-clients-core@3.7.1?classifier=sources
 - pkg:maven/com.sap.hcp.cf.logging/cf-custom-metrics-clients-core@3.8.0
 - pkg:maven/com.sap.hcp.cf.logging/cf-custom-metrics-clients-core@3.8.0?classifier=sources
+- pkg:maven/com.sap.hcp.cf.logging/cf-custom-metrics-clients-core@3.8.1
+- pkg:maven/com.sap.hcp.cf.logging/cf-custom-metrics-clients-core@3.8.1?classifier=sources

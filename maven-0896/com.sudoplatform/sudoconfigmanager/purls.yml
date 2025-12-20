@@ -27,3 +27,9 @@
 - pkg:maven/com.sudoplatform/sudoconfigmanager@5.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoconfigmanager@6.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoconfigmanager@6.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoconfigmanager@7.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoconfigmanager@7.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoconfigmanager@7.0.1?classifier=sources
+- pkg:maven/com.sudoplatform/sudoconfigmanager@7.0.1?type=aar
+- pkg:maven/com.sudoplatform/sudoconfigmanager@7.0.2?classifier=sources
+- pkg:maven/com.sudoplatform/sudoconfigmanager@7.0.2?type=aar

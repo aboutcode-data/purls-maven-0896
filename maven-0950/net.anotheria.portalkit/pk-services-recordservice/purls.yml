@@ -4,3 +4,7 @@
 - pkg:maven/net.anotheria.portalkit/pk-services-recordservice@3.0.1?classifier=sources
 - pkg:maven/net.anotheria.portalkit/pk-services-recordservice@3.1.0
 - pkg:maven/net.anotheria.portalkit/pk-services-recordservice@3.1.0?classifier=sources
+- pkg:maven/net.anotheria.portalkit/pk-services-recordservice@3.2.0
+- pkg:maven/net.anotheria.portalkit/pk-services-recordservice@3.2.0?classifier=sources
+- pkg:maven/net.anotheria.portalkit/pk-services-recordservice@4.0.0
+- pkg:maven/net.anotheria.portalkit/pk-services-recordservice@4.0.0?classifier=sources

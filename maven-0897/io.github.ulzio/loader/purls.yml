@@ -3,3 +3,8 @@
 - pkg:maven/io.github.ulzio/loader@3.9.7?classifier=sources
 - pkg:maven/io.github.ulzio/loader@3.9.8?classifier=sources
 - pkg:maven/io.github.ulzio/loader@3.9.9?classifier=sources
+- pkg:maven/io.github.ulzio/loader@4.0.0?classifier=sources
+- pkg:maven/io.github.ulzio/loader@4.0.1?classifier=sources
+- pkg:maven/io.github.ulzio/loader@4.0.2?classifier=sources
+- pkg:maven/io.github.ulzio/loader@4.0.3?classifier=sources
+- pkg:maven/io.github.ulzio/loader@4.0.5?classifier=sources

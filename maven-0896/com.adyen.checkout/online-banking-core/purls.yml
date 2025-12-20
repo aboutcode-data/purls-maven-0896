@@ -3,3 +3,4 @@
 - pkg:maven/com.adyen.checkout/online-banking-core@5.0.0-beta01?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-core@5.0.0?classifier=sources
 - pkg:maven/com.adyen.checkout/online-banking-core@5.0.1?classifier=sources
+- pkg:maven/com.adyen.checkout/online-banking-core@5.1.0?classifier=sources

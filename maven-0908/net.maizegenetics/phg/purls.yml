@@ -94,3 +94,5 @@
 - pkg:maven/net.maizegenetics/phg@1.7?classifier=sources
 - pkg:maven/net.maizegenetics/phg@1.8
 - pkg:maven/net.maizegenetics/phg@1.8?classifier=sources
+- pkg:maven/net.maizegenetics/phg@1.9
+- pkg:maven/net.maizegenetics/phg@1.9?classifier=sources

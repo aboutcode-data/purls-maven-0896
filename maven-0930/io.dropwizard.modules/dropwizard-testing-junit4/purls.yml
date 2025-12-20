@@ -10,6 +10,8 @@
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@3.0.3?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@3.0.4
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@3.0.4?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@3.0.5
+- pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@3.0.5?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.0
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.0?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.1
@@ -20,3 +22,5 @@
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.3?classifier=sources
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.4
 - pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.4?classifier=sources
+- pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.5
+- pkg:maven/io.dropwizard.modules/dropwizard-testing-junit4@4.0.5?classifier=sources

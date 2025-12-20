@@ -31,6 +31,8 @@
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.13?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.14
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.14?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.15
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.15?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.1?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.2
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.2?classifier=sources
@@ -48,3 +50,5 @@
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.8?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.9
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.3.9?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.4.0
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-openapi_2.13@0.4.0?classifier=sources

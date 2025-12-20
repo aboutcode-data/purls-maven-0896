@@ -41,6 +41,7 @@
 - pkg:maven/io.fabric8/chaosmesh-tests@6.0.0-RC1
 - pkg:maven/io.fabric8/chaosmesh-tests@6.1.0
 - pkg:maven/io.fabric8/chaosmesh-tests@6.1.1
+- pkg:maven/io.fabric8/chaosmesh-tests@6.10.0
 - pkg:maven/io.fabric8/chaosmesh-tests@6.2.0
 - pkg:maven/io.fabric8/chaosmesh-tests@6.3.0
 - pkg:maven/io.fabric8/chaosmesh-tests@6.3.1

@@ -37,6 +37,8 @@
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@12.0.2?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@12.0.3
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@12.0.3?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@12.0.4?classifier=sources
+- pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@13.0.0?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@2.1.0-Boron
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@2.1.0-Boron?classifier=sources
 - pkg:maven/org.opendaylight.mdsal/mdsal-eos-binding-adapter@2.1.1-Boron-SR1

@@ -178,3 +178,7 @@
 - pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@6.3.3.Final?classifier=sources
 - pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@6.3.4.Final
 - pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@6.3.4.Final?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@6.3.5.Final
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@6.3.5.Final?classifier=sources
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@6.3.6.Final
+- pkg:maven/org.jboss.windup.decompiler/decompiler-fernflower@6.3.6.Final?classifier=sources

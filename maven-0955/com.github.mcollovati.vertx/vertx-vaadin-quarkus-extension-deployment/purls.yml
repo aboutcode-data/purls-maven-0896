@@ -6,3 +6,7 @@
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-quarkus-extension-deployment@23.3.3?classifier=sources
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-quarkus-extension-deployment@23.3.4
 - pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-quarkus-extension-deployment@23.3.4?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-quarkus-extension-deployment@23.4.0-alpha1?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-quarkus-extension-deployment@23.4.0-alpha2?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-quarkus-extension-deployment@23.4.0-alpha3?classifier=sources
+- pkg:maven/com.github.mcollovati.vertx/vertx-vaadin-quarkus-extension-deployment@23.4.0-beta1?classifier=sources

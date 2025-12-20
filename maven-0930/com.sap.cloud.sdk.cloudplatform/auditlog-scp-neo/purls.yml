@@ -204,6 +204,8 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.27.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.28.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.28.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.29.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.29.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.3.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.3.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/auditlog-scp-neo@4.4.0

@@ -20,3 +20,5 @@
 - pkg:maven/com.cognitect.aws/budgets@822.2.1171.0?classifier=sources
 - pkg:maven/com.cognitect.aws/budgets@847.2.1365.0
 - pkg:maven/com.cognitect.aws/budgets@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/budgets@852.2.1526.0
+- pkg:maven/com.cognitect.aws/budgets@852.2.1526.0?classifier=sources

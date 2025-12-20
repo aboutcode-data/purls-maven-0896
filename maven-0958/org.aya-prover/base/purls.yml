@@ -23,6 +23,7 @@
 - pkg:maven/org.aya-prover/base@0.29.4?classifier=sources
 - pkg:maven/org.aya-prover/base@0.29.999?classifier=sources
 - pkg:maven/org.aya-prover/base@0.29?classifier=sources
+- pkg:maven/org.aya-prover/base@0.30.0?classifier=sources
 - pkg:maven/org.aya-prover/base@0.8.1?classifier=sources
 - pkg:maven/org.aya-prover/base@0.8.2?classifier=sources
 - pkg:maven/org.aya-prover/base@0.8.3?classifier=sources

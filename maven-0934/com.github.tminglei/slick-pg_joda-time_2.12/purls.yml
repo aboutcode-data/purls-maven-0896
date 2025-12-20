@@ -72,3 +72,5 @@
 - pkg:maven/com.github.tminglei/slick-pg_joda-time_2.12@0.21.0?classifier=sources
 - pkg:maven/com.github.tminglei/slick-pg_joda-time_2.12@0.21.1
 - pkg:maven/com.github.tminglei/slick-pg_joda-time_2.12@0.21.1?classifier=sources
+- pkg:maven/com.github.tminglei/slick-pg_joda-time_2.12@0.22.0-M5
+- pkg:maven/com.github.tminglei/slick-pg_joda-time_2.12@0.22.0-M5?classifier=sources

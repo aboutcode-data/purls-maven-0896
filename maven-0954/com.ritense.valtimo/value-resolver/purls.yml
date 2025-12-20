@@ -12,6 +12,8 @@
 - pkg:maven/com.ritense.valtimo/value-resolver@10.7.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/value-resolver@10.8.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/value-resolver@11.0.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/value-resolver@11.1.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/value-resolver@11.1.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/value-resolver@9.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/value-resolver@9.18.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/value-resolver@9.19.0?classifier=sources

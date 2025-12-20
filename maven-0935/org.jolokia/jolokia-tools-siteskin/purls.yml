@@ -1,2 +1,4 @@
+- pkg:maven/org.jolokia/jolokia-tools-siteskin@2.0.0
 - pkg:maven/org.jolokia/jolokia-tools-siteskin@2.0.0-M4
 - pkg:maven/org.jolokia/jolokia-tools-siteskin@2.0.0-M4?classifier=sources
+- pkg:maven/org.jolokia/jolokia-tools-siteskin@2.0.0?classifier=sources

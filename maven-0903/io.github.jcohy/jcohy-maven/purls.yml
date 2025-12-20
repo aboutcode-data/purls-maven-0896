@@ -6,3 +6,5 @@
 - pkg:maven/io.github.jcohy/jcohy-maven@3.0.0.7?classifier=sources
 - pkg:maven/io.github.jcohy/jcohy-maven@3.0.0.8?classifier=sources
 - pkg:maven/io.github.jcohy/jcohy-maven@3.0.0.9?classifier=sources
+- pkg:maven/io.github.jcohy/jcohy-maven@3.2.0.0?classifier=sources
+- pkg:maven/io.github.jcohy/jcohy-maven@3.2.0.1?classifier=sources

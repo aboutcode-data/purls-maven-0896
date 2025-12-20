@@ -16,3 +16,5 @@
 - pkg:maven/com.ververica/flink-connector-mongodb-cdc@2.4.2?classifier=sources
 - pkg:maven/com.ververica/flink-connector-mongodb-cdc@3.0.0
 - pkg:maven/com.ververica/flink-connector-mongodb-cdc@3.0.0?classifier=sources
+- pkg:maven/com.ververica/flink-connector-mongodb-cdc@3.0.1
+- pkg:maven/com.ververica/flink-connector-mongodb-cdc@3.0.1?classifier=sources

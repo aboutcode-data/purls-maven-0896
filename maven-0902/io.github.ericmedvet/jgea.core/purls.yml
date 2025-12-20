@@ -36,3 +36,5 @@
 - pkg:maven/io.github.ericmedvet/jgea.core@2.4.9?classifier=sources
 - pkg:maven/io.github.ericmedvet/jgea.core@2.5.0
 - pkg:maven/io.github.ericmedvet/jgea.core@2.5.0?classifier=sources
+- pkg:maven/io.github.ericmedvet/jgea.core@2.5.1
+- pkg:maven/io.github.ericmedvet/jgea.core@2.5.1?classifier=sources

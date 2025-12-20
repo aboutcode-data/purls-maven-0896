@@ -6,3 +6,4 @@
 - pkg:maven/io.dyte/webrtc-macosarm64@0.112.1?classifier=sources
 - pkg:maven/io.dyte/webrtc-macosarm64@0.112.2?classifier=sources
 - pkg:maven/io.dyte/webrtc-macosarm64@0.112.3?classifier=sources
+- pkg:maven/io.dyte/webrtc-macosarm64@0.112.4?classifier=sources

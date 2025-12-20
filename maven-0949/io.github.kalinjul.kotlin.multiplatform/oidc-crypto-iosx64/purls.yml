@@ -10,3 +10,5 @@
 - pkg:maven/io.github.kalinjul.kotlin.multiplatform/oidc-crypto-iosx64@0.6.3?classifier=sources
 - pkg:maven/io.github.kalinjul.kotlin.multiplatform/oidc-crypto-iosx64@0.6.4?classifier=sources
 - pkg:maven/io.github.kalinjul.kotlin.multiplatform/oidc-crypto-iosx64@0.6.5?classifier=sources
+- pkg:maven/io.github.kalinjul.kotlin.multiplatform/oidc-crypto-iosx64@0.6.6?classifier=sources
+- pkg:maven/io.github.kalinjul.kotlin.multiplatform/oidc-crypto-iosx64@0.7.0?classifier=sources

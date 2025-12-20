@@ -12,3 +12,4 @@
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin-mingwx64@5.7.0-1227788?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin-mingwx64@5.8.0-1227788?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin-mingwx64@5.8.1-1233758?classifier=sources
+- pkg:maven/org.hildan.chrome/chrome-devtools-kotlin-mingwx64@5.9.0-1239539?classifier=sources

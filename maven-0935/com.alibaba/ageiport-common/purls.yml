@@ -52,3 +52,5 @@
 - pkg:maven/com.alibaba/ageiport-common@0.2.9?classifier=sources
 - pkg:maven/com.alibaba/ageiport-common@0.3.0
 - pkg:maven/com.alibaba/ageiport-common@0.3.0?classifier=sources
+- pkg:maven/com.alibaba/ageiport-common@0.3.1
+- pkg:maven/com.alibaba/ageiport-common@0.3.1?classifier=sources

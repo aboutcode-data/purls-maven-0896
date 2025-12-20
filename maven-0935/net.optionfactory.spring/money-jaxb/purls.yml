@@ -96,3 +96,7 @@
 - pkg:maven/net.optionfactory.spring/money-jaxb@9.0?classifier=sources
 - pkg:maven/net.optionfactory.spring/money-jaxb@9.1
 - pkg:maven/net.optionfactory.spring/money-jaxb@9.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/money-jaxb@9.2
+- pkg:maven/net.optionfactory.spring/money-jaxb@9.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/money-jaxb@9.3
+- pkg:maven/net.optionfactory.spring/money-jaxb@9.3?classifier=sources

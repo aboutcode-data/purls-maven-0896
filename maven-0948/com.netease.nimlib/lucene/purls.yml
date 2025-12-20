@@ -324,6 +324,8 @@
 - pkg:maven/com.netease.nimlib/lucene@8.9.111?type=aar
 - pkg:maven/com.netease.nimlib/lucene@8.9.1120?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@8.9.1120?type=aar
+- pkg:maven/com.netease.nimlib/lucene@8.9.1121?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@8.9.1121?type=aar
 - pkg:maven/com.netease.nimlib/lucene@8.9.112?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@8.9.112?type=aar
 - pkg:maven/com.netease.nimlib/lucene@8.9.113?classifier=sources
@@ -342,6 +344,12 @@
 - pkg:maven/com.netease.nimlib/lucene@8.9.119?type=aar
 - pkg:maven/com.netease.nimlib/lucene@8.9.121?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@8.9.121?type=aar
+- pkg:maven/com.netease.nimlib/lucene@8.9.122?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@8.9.122?type=aar
+- pkg:maven/com.netease.nimlib/lucene@8.9.123?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@8.9.123?type=aar
+- pkg:maven/com.netease.nimlib/lucene@8.9.124?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@8.9.124?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.0.0?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.0.0?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.0.100?classifier=sources
@@ -370,6 +378,8 @@
 - pkg:maven/com.netease.nimlib/lucene@9.12.0?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.12.100?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.12.100?type=aar
+- pkg:maven/com.netease.nimlib/lucene@9.12.101?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@9.12.101?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.12.1?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.12.1?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.12.2?classifier=sources
@@ -382,6 +392,8 @@
 - pkg:maven/com.netease.nimlib/lucene@9.14.0?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.14.1?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.14.1?type=aar
+- pkg:maven/com.netease.nimlib/lucene@9.14.2?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@9.14.2?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.2.0?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.2.1?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/io.appmetrica.analytics/analytics-gpllibrary@6.0.0-RC?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-gpllibrary@6.0.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/analytics-gpllibrary@6.1.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-gpllibrary@6.2.0?classifier=sources

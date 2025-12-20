@@ -2,3 +2,9 @@
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.1.0?classifier=sources
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.2.0
 - pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.2.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.3.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.3.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.4.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.4.0?classifier=sources
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.5.0
+- pkg:maven/com.gitlab.cdc-java.asd/cdc-asd-tools@0.5.0?classifier=sources

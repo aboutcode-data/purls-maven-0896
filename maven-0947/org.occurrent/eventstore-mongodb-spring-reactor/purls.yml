@@ -60,6 +60,8 @@
 - pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.16.8?classifier=sources
 - pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.16.9
 - pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.16.9?classifier=sources
+- pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.17.0
+- pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.17.0?classifier=sources
 - pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.2.0
 - pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.2.0?classifier=sources
 - pkg:maven/org.occurrent/eventstore-mongodb-spring-reactor@0.2.1

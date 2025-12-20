@@ -86,6 +86,8 @@
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.23.4?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.23.5
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.23.5?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.24.0
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.24.0?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.8.0
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.8.0?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.8.1
@@ -122,3 +124,15 @@
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.9.4?classifier=sources
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.9.5
 - pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@0.9.5?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.0.0
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.0.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.1.0
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.1.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.1.1
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.1.1?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.2.0
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.2.0?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.2.1
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.2.1?classifier=sources
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.2.2
+- pkg:maven/io.zipkin.aws/zipkin-storage-xray-udp@1.2.2?classifier=sources

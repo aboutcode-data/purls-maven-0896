@@ -2,3 +2,5 @@
 - pkg:maven/com.wudgaby.platform/data-security-spring-boot-starter@1.0.4?classifier=sources
 - pkg:maven/com.wudgaby.platform/data-security-spring-boot-starter@1.0.5
 - pkg:maven/com.wudgaby.platform/data-security-spring-boot-starter@1.0.5?classifier=sources
+- pkg:maven/com.wudgaby.platform/data-security-spring-boot-starter@1.0.7
+- pkg:maven/com.wudgaby.platform/data-security-spring-boot-starter@1.0.7?classifier=sources

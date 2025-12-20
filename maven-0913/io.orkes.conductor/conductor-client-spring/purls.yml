@@ -25,6 +25,7 @@
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.27-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.28-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.3-orkes?classifier=sources
+- pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.30-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.4-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.5-orkes?classifier=sources
 - pkg:maven/io.orkes.conductor/conductor-client-spring@3.9.6-orkes?classifier=sources

@@ -6,3 +6,6 @@
 - pkg:maven/com.slack.circuit/circuit-runtime-js@0.16.1?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-runtime-js@0.17.0?classifier=sources
 - pkg:maven/com.slack.circuit/circuit-runtime-js@0.17.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-runtime-js@0.18.0?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-runtime-js@0.18.1?classifier=sources
+- pkg:maven/com.slack.circuit/circuit-runtime-js@0.18.2?classifier=sources

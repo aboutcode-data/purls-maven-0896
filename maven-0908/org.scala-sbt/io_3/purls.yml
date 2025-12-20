@@ -18,3 +18,5 @@
 - pkg:maven/org.scala-sbt/io_3@1.9.1?classifier=sources
 - pkg:maven/org.scala-sbt/io_3@1.9.7
 - pkg:maven/org.scala-sbt/io_3@1.9.7?classifier=sources
+- pkg:maven/org.scala-sbt/io_3@1.9.8
+- pkg:maven/org.scala-sbt/io_3@1.9.8?classifier=sources

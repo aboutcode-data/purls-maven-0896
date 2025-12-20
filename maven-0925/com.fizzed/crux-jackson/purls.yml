@@ -64,6 +64,8 @@
 - pkg:maven/com.fizzed/crux-jackson@1.0.44?classifier=sources
 - pkg:maven/com.fizzed/crux-jackson@1.0.45
 - pkg:maven/com.fizzed/crux-jackson@1.0.45?classifier=sources
+- pkg:maven/com.fizzed/crux-jackson@1.0.46
+- pkg:maven/com.fizzed/crux-jackson@1.0.46?classifier=sources
 - pkg:maven/com.fizzed/crux-jackson@1.0.7
 - pkg:maven/com.fizzed/crux-jackson@1.0.7?classifier=sources
 - pkg:maven/com.fizzed/crux-jackson@1.0.8

@@ -8,5 +8,9 @@
 - pkg:maven/com.godmao/executor@0.0.4.RELEASE?classifier=sources
 - pkg:maven/com.godmao/executor@0.0.5.RELEASE
 - pkg:maven/com.godmao/executor@0.0.5.RELEASE?classifier=sources
+- pkg:maven/com.godmao/executor@0.0.6.RELEASE
+- pkg:maven/com.godmao/executor@0.0.6.RELEASE?classifier=sources
+- pkg:maven/com.godmao/executor@0.0.7.RELEASE
+- pkg:maven/com.godmao/executor@0.0.7.RELEASE?classifier=sources
 - pkg:maven/com.godmao/executor@0.1.1.Beta
 - pkg:maven/com.godmao/executor@0.1.1.Beta?classifier=sources

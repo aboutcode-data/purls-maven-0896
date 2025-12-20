@@ -30,6 +30,8 @@
 - pkg:maven/org.http4s/http4s-scalafix-internal_2.13@0.23.23?classifier=sources
 - pkg:maven/org.http4s/http4s-scalafix-internal_2.13@0.23.24
 - pkg:maven/org.http4s/http4s-scalafix-internal_2.13@0.23.24?classifier=sources
+- pkg:maven/org.http4s/http4s-scalafix-internal_2.13@0.23.25
+- pkg:maven/org.http4s/http4s-scalafix-internal_2.13@0.23.25?classifier=sources
 - pkg:maven/org.http4s/http4s-scalafix-internal_2.13@1.0.0-M33
 - pkg:maven/org.http4s/http4s-scalafix-internal_2.13@1.0.0-M33?classifier=sources
 - pkg:maven/org.http4s/http4s-scalafix-internal_2.13@1.0.0-M34

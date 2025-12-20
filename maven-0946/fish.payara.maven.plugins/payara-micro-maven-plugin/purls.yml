@@ -24,3 +24,5 @@
 - pkg:maven/fish.payara.maven.plugins/payara-micro-maven-plugin@1.4.0?classifier=sources
 - pkg:maven/fish.payara.maven.plugins/payara-micro-maven-plugin@2.0
 - pkg:maven/fish.payara.maven.plugins/payara-micro-maven-plugin@2.0?classifier=sources
+- pkg:maven/fish.payara.maven.plugins/payara-micro-maven-plugin@2.1
+- pkg:maven/fish.payara.maven.plugins/payara-micro-maven-plugin@2.1?classifier=sources

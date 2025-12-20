@@ -3,3 +3,6 @@
 - pkg:maven/org.cs124.jeed/server@2023.11.2?classifier=sources
 - pkg:maven/org.cs124.jeed/server@2023.11.4?classifier=sources
 - pkg:maven/org.cs124.jeed/server@2023.11.5?classifier=sources
+- pkg:maven/org.cs124.jeed/server@2023.12.1?classifier=sources
+- pkg:maven/org.cs124.jeed/server@2023.12.2?classifier=sources
+- pkg:maven/org.cs124.jeed/server@2024.1.0?classifier=sources

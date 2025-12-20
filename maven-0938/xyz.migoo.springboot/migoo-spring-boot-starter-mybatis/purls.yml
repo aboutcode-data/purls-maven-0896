@@ -1,2 +1,4 @@
 - pkg:maven/xyz.migoo.springboot/migoo-spring-boot-starter-mybatis@1.0.0
 - pkg:maven/xyz.migoo.springboot/migoo-spring-boot-starter-mybatis@1.0.0?classifier=sources
+- pkg:maven/xyz.migoo.springboot/migoo-spring-boot-starter-mybatis@1.1.0
+- pkg:maven/xyz.migoo.springboot/migoo-spring-boot-starter-mybatis@1.1.0?classifier=sources

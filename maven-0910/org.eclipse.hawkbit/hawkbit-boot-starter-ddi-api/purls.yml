@@ -21,3 +21,5 @@
 - pkg:maven/org.eclipse.hawkbit/hawkbit-boot-starter-ddi-api@0.3.0M7
 - pkg:maven/org.eclipse.hawkbit/hawkbit-boot-starter-ddi-api@0.3.0M8
 - pkg:maven/org.eclipse.hawkbit/hawkbit-boot-starter-ddi-api@0.3.0M9
+- pkg:maven/org.eclipse.hawkbit/hawkbit-boot-starter-ddi-api@0.4.0
+- pkg:maven/org.eclipse.hawkbit/hawkbit-boot-starter-ddi-api@0.4.1

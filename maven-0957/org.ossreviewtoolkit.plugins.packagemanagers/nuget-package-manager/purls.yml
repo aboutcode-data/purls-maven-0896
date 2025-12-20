@@ -1,6 +1,10 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@1.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@1.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@1.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@10.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@11.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@12.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@13.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packagemanagers/nuget-package-manager@4.0.0?classifier=sources

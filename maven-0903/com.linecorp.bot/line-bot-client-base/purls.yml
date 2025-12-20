@@ -14,3 +14,4 @@
 - pkg:maven/com.linecorp.bot/line-bot-client-base@7.9.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-client-base@8.0.0?classifier=sources
 - pkg:maven/com.linecorp.bot/line-bot-client-base@8.0.1?classifier=sources
+- pkg:maven/com.linecorp.bot/line-bot-client-base@8.1.0?classifier=sources

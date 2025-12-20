@@ -28,3 +28,7 @@
 - pkg:maven/org.bardframework.form/bard-form@2.5.24?classifier=sources
 - pkg:maven/org.bardframework.form/bard-form@2.6.24
 - pkg:maven/org.bardframework.form/bard-form@2.6.24?classifier=sources
+- pkg:maven/org.bardframework.form/bard-form@2.7.24
+- pkg:maven/org.bardframework.form/bard-form@2.7.24?classifier=sources
+- pkg:maven/org.bardframework.form/bard-form@2.8.24
+- pkg:maven/org.bardframework.form/bard-form@2.8.24?classifier=sources

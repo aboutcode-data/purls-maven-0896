@@ -10,3 +10,7 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.extender.itest@4.6.2?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.extender.itest@5.0.0
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.extender.itest@5.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.extender.itest@6.0.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.extender.itest@6.0.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.extender.itest@6.0.1
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.extender.itest@6.0.1?classifier=sources

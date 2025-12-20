@@ -5,6 +5,7 @@
 - pkg:maven/ch.dreipol/dreimultiplatform-iossimulatorarm64@1.10.0-1.9.10?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform-iossimulatorarm64@1.11.0-1.9.10-b1?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform-iossimulatorarm64@1.11.0-1.9.10-b2?classifier=sources
+- pkg:maven/ch.dreipol/dreimultiplatform-iossimulatorarm64@1.11.0-1.9.10-b4?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform-iossimulatorarm64@1.9-1.7.21?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform-iossimulatorarm64@1.9.1-RC1?classifier=sources
 - pkg:maven/ch.dreipol/dreimultiplatform-iossimulatorarm64@1.9.1-RC2?classifier=sources

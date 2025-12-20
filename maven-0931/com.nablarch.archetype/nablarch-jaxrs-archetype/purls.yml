@@ -16,3 +16,4 @@
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u7?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u8?classifier=sources
 - pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@5u9?classifier=sources
+- pkg:maven/com.nablarch.archetype/nablarch-jaxrs-archetype@6?classifier=sources

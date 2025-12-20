@@ -16,3 +16,5 @@
 - pkg:maven/io.github.wooenrico/kafka@0.0.8?classifier=sources
 - pkg:maven/io.github.wooenrico/kafka@1.0.0
 - pkg:maven/io.github.wooenrico/kafka@1.0.0?classifier=sources
+- pkg:maven/io.github.wooenrico/kafka@1.0.1.RC
+- pkg:maven/io.github.wooenrico/kafka@1.0.1.RC?classifier=sources

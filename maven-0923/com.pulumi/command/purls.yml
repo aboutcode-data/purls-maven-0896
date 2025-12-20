@@ -69,5 +69,7 @@
 - pkg:maven/com.pulumi/command@0.9.2?classifier=sources
 - pkg:maven/com.pulumi/command@0.9.3-alpha.1698963610%2B75ccc144?classifier=sources
 - pkg:maven/com.pulumi/command@0.9.3-alpha.1702082163%2B263f0015?classifier=sources
+- pkg:maven/com.pulumi/command@0.9.3-alpha.1703027701%2B9858a482?classifier=sources
+- pkg:maven/com.pulumi/command@0.9.3-alpha.1705097941%2B2fe00b62?classifier=sources
 - pkg:maven/com.pulumi/command@4.5.0?classifier=sources
 - pkg:maven/com.pulumi/command@4.6.0-alpha.1662390243%2B5c22c9dd?classifier=sources

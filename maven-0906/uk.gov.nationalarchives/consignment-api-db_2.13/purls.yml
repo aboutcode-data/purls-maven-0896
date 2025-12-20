@@ -80,3 +80,5 @@
 - pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.38?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.39
 - pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.39?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.40
+- pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.40?classifier=sources

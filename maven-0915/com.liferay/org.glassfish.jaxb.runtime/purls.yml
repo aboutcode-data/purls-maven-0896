@@ -1,3 +1,4 @@
 - pkg:maven/com.liferay/org.glassfish.jaxb.runtime@2.3.1.LIFERAY-PATCHED-1
 - pkg:maven/com.liferay/org.glassfish.jaxb.runtime@2.3.1.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/org.glassfish.jaxb.runtime@2.3.1.LIFERAY-PATCHED-1?classifier=sources-commercial
+- pkg:maven/com.liferay/org.glassfish.jaxb.runtime@2.3.1.LIFERAY-PATCHED-2?classifier=sources

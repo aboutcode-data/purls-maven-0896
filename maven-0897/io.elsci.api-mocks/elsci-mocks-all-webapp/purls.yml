@@ -50,6 +50,14 @@
 - pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20231213.0937-71?classifier=sources
 - pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20231213.0947-72
 - pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20231213.0947-72?classifier=sources
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20231222.0327-73
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20231222.0327-73?classifier=sources
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20231222.0330-74
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20231222.0330-74?classifier=sources
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20240123.1901-76
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20240123.1901-76?classifier=sources
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20240123.1905-77
+- pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@1-20240123.1905-77?classifier=sources
 - pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@20231018.1005-31
 - pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@20231018.1005-31?classifier=sources
 - pkg:maven/io.elsci.api-mocks/elsci-mocks-all-webapp@20231018.1036-31

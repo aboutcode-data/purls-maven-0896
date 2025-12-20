@@ -97,6 +97,10 @@
 - pkg:maven/com.networknt/eventuate-server-jdbc@1.6.43?classifier=sources
 - pkg:maven/com.networknt/eventuate-server-jdbc@1.6.44
 - pkg:maven/com.networknt/eventuate-server-jdbc@1.6.44?classifier=sources
+- pkg:maven/com.networknt/eventuate-server-jdbc@1.6.46
+- pkg:maven/com.networknt/eventuate-server-jdbc@1.6.46?classifier=sources
+- pkg:maven/com.networknt/eventuate-server-jdbc@1.6.47
+- pkg:maven/com.networknt/eventuate-server-jdbc@1.6.47?classifier=sources
 - pkg:maven/com.networknt/eventuate-server-jdbc@1.6.4?classifier=sources
 - pkg:maven/com.networknt/eventuate-server-jdbc@1.6.5
 - pkg:maven/com.networknt/eventuate-server-jdbc@1.6.5?classifier=sources

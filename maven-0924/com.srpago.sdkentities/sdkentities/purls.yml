@@ -9,3 +9,4 @@
 - pkg:maven/com.srpago.sdkentities/sdkentities@1.4.5?type=aar
 - pkg:maven/com.srpago.sdkentities/sdkentities@1.4.6?classifier=sources
 - pkg:maven/com.srpago.sdkentities/sdkentities@1.4.8?classifier=sources
+- pkg:maven/com.srpago.sdkentities/sdkentities@1.5.0?classifier=sources

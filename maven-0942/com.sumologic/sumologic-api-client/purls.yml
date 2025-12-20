@@ -3,3 +3,5 @@
 - pkg:maven/com.sumologic/sumologic-api-client@1.0.20221014?classifier=sources
 - pkg:maven/com.sumologic/sumologic-api-client@1.0.20231214?classifier=sources
 - pkg:maven/com.sumologic/sumologic-api-client@3.0.0?classifier=sources
+- pkg:maven/com.sumologic/sumologic-api-client@4.0.20231218?classifier=sources
+- pkg:maven/com.sumologic/sumologic-api-client@5.0.20231218?classifier=sources

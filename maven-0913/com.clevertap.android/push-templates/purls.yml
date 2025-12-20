@@ -26,3 +26,4 @@
 - pkg:maven/com.clevertap.android/push-templates@1.0.9?classifier=sources
 - pkg:maven/com.clevertap.android/push-templates@1.1.0?classifier=sources
 - pkg:maven/com.clevertap.android/push-templates@1.2.0?classifier=sources
+- pkg:maven/com.clevertap.android/push-templates@1.2.1?classifier=sources

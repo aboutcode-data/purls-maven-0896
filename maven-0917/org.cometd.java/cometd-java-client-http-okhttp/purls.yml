@@ -84,3 +84,5 @@
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@7.0.9?classifier=sources
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.0.beta0
 - pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.0.beta0?classifier=sources
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.0.beta1
+- pkg:maven/org.cometd.java/cometd-java-client-http-okhttp@8.0.0.beta1?classifier=sources

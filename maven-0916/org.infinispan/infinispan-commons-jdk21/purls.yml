@@ -10,3 +10,5 @@
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.0.Dev05?classifier=sources
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.0.Dev06
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.0.Dev06?classifier=sources
+- pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.0.Dev07
+- pkg:maven/org.infinispan/infinispan-commons-jdk21@15.0.0.Dev07?classifier=sources
