@@ -1,2 +1,4 @@
+- pkg:maven/org.jeecgframework.boot3/autopoi@1.4.11
+- pkg:maven/org.jeecgframework.boot3/autopoi@1.4.11?classifier=sources
 - pkg:maven/org.jeecgframework.boot3/autopoi@1.4.7
 - pkg:maven/org.jeecgframework.boot3/autopoi@1.4.7?classifier=sources

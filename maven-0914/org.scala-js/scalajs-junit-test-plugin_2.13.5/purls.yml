@@ -18,6 +18,8 @@
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.15.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.16.0
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.16.0?classifier=sources
+- pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.17.0
+- pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.17.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.5.0
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.5.0?classifier=sources
 - pkg:maven/org.scala-js/scalajs-junit-test-plugin_2.13.5@1.5.1

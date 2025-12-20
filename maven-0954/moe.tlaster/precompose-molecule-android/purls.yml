@@ -39,3 +39,5 @@
 - pkg:maven/moe.tlaster/precompose-molecule-android@1.6.0?classifier=sources
 - pkg:maven/moe.tlaster/precompose-molecule-android@1.6.1?classifier=sources
 - pkg:maven/moe.tlaster/precompose-molecule-android@1.6.2?classifier=sources
+- pkg:maven/moe.tlaster/precompose-molecule-android@1.7.0-alpha01?classifier=sources
+- pkg:maven/moe.tlaster/precompose-molecule-android@1.7.0-alpha02?classifier=sources

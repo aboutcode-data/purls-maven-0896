@@ -1,3 +1,5 @@
+- pkg:maven/org.nasdanika.core/http@2024.10.0
+- pkg:maven/org.nasdanika.core/http@2024.10.0?classifier=sources
 - pkg:maven/org.nasdanika.core/http@2024.5.0
 - pkg:maven/org.nasdanika.core/http@2024.5.0?classifier=sources
 - pkg:maven/org.nasdanika.core/http@2024.5.1

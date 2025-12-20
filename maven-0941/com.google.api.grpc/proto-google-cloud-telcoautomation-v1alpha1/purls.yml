@@ -18,8 +18,14 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.17.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.18.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.18.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.19.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.19.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.2.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.2.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.21.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.21.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.22.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.22.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.3.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.3.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-telcoautomation-v1alpha1@0.4.0

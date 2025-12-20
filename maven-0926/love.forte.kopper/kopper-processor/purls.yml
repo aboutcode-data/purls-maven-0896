@@ -1,0 +1,2 @@
+- pkg:maven/love.forte.kopper/kopper-processor@0.0.1?classifier=sources
+- pkg:maven/love.forte.kopper/kopper-processor@0.1.0?classifier=sources

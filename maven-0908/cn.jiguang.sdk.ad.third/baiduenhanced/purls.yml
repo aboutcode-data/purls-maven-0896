@@ -26,3 +26,6 @@
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.332?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.35?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.35?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.36?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.36?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.third/baiduenhanced@9.371?classifier=sources

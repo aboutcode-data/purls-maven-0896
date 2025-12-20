@@ -4,6 +4,7 @@
 - pkg:maven/org.webjars.npm/d3@3.2.8?classifier=sources
 - pkg:maven/org.webjars.npm/d3@3.4.12
 - pkg:maven/org.webjars.npm/d3@3.4.12?classifier=sources
+- pkg:maven/org.webjars.npm/d3@3.4.6
 - pkg:maven/org.webjars.npm/d3@3.4.8
 - pkg:maven/org.webjars.npm/d3@3.4.8?classifier=sources
 - pkg:maven/org.webjars.npm/d3@3.5.10

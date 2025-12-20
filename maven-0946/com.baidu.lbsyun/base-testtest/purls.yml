@@ -6,6 +6,10 @@
 - pkg:maven/com.baidu.lbsyun/base-testtest@1.0.7?classifier=sources
 - pkg:maven/com.baidu.lbsyun/base-testtest@1.0.8?classifier=sources
 - pkg:maven/com.baidu.lbsyun/base-testtest@1.0.9?classifier=sources
+- pkg:maven/com.baidu.lbsyun/base-testtest@1.1.0?classifier=sources
+- pkg:maven/com.baidu.lbsyun/base-testtest@1.1.0?type=aar
+- pkg:maven/com.baidu.lbsyun/base-testtest@1.1.1?classifier=sources
+- pkg:maven/com.baidu.lbsyun/base-testtest@1.1.1?type=aar
 - pkg:maven/com.baidu.lbsyun/base-testtest@7.6.0?classifier=sources
 - pkg:maven/com.baidu.lbsyun/base-testtest@7.6.1.10?classifier=sources
 - pkg:maven/com.baidu.lbsyun/base-testtest@7.6.1.11?classifier=sources

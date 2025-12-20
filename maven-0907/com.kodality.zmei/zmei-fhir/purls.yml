@@ -1,0 +1,4 @@
+- pkg:maven/com.kodality.zmei/zmei-fhir@R5.2
+- pkg:maven/com.kodality.zmei/zmei-fhir@R5.2?classifier=sources
+- pkg:maven/com.kodality.zmei/zmei-fhir@R5.3
+- pkg:maven/com.kodality.zmei/zmei-fhir@R5.3?classifier=sources

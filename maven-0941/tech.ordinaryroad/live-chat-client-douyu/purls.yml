@@ -78,3 +78,8 @@
 - pkg:maven/tech.ordinaryroad/live-chat-client-douyu@0.9.0?classifier=sources
 - pkg:maven/tech.ordinaryroad/live-chat-client-douyu@1.0.0
 - pkg:maven/tech.ordinaryroad/live-chat-client-douyu@1.0.0?classifier=sources
+- pkg:maven/tech.ordinaryroad/live-chat-client-douyu@1.1.0?classifier=sources
+- pkg:maven/tech.ordinaryroad/live-chat-client-douyu@1.1.1-b02?classifier=sources
+- pkg:maven/tech.ordinaryroad/live-chat-client-douyu@1.1.1-b03?classifier=sources
+- pkg:maven/tech.ordinaryroad/live-chat-client-douyu@1.1.1-b04?classifier=sources
+- pkg:maven/tech.ordinaryroad/live-chat-client-douyu@1.1.1b01?classifier=sources

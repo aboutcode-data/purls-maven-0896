@@ -8,3 +8,4 @@
 - pkg:maven/org.mvnpm/path-to-regexp@7.2.0?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@8.0.0?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@8.1.0?classifier=sources
+- pkg:maven/org.mvnpm/path-to-regexp@8.2.0?classifier=sources

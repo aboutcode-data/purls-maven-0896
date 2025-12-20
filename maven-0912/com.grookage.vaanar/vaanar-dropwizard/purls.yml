@@ -1,0 +1,5 @@
+- pkg:maven/com.grookage.vaanar/vaanar-dropwizard@0.0.1-RC1?classifier=sources
+- pkg:maven/com.grookage.vaanar/vaanar-dropwizard@0.0.1-RC2?classifier=sources
+- pkg:maven/com.grookage.vaanar/vaanar-dropwizard@0.0.1-RC3?classifier=sources
+- pkg:maven/com.grookage.vaanar/vaanar-dropwizard@0.0.1-RC4?classifier=sources
+- pkg:maven/com.grookage.vaanar/vaanar-dropwizard@0.0.1-RC5?classifier=sources

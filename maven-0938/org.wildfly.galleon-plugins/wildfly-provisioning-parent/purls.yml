@@ -130,6 +130,7 @@
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@6.3.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@6.4.0.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@6.4.1.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@6.4.10.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@6.4.2.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@6.4.3.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly.galleon-plugins/wildfly-provisioning-parent@6.4.4.Final?classifier=source-release&type=zip

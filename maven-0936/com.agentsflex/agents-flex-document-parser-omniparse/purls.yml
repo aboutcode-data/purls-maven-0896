@@ -1,3 +1,7 @@
+- pkg:maven/com.agentsflex/agents-flex-document-parser-omniparse@1.0.0-beta.10
+- pkg:maven/com.agentsflex/agents-flex-document-parser-omniparse@1.0.0-beta.10?classifier=sources
+- pkg:maven/com.agentsflex/agents-flex-document-parser-omniparse@1.0.0-beta.11
+- pkg:maven/com.agentsflex/agents-flex-document-parser-omniparse@1.0.0-beta.11?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-document-parser-omniparse@1.0.0-beta.7
 - pkg:maven/com.agentsflex/agents-flex-document-parser-omniparse@1.0.0-beta.7?classifier=sources
 - pkg:maven/com.agentsflex/agents-flex-document-parser-omniparse@1.0.0-beta.8

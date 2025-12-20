@@ -7,6 +7,7 @@
 - pkg:maven/org.codehaus.plexus/plexus@16?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@17?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@18?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus@19?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@6.3?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@6.4?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@6.5?classifier=source-release&type=zip

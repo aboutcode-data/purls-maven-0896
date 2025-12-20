@@ -4,3 +4,5 @@
 - pkg:maven/org.scala-graph/graph-core_sjs1_2.13@1.13.3?classifier=sources
 - pkg:maven/org.scala-graph/graph-core_sjs1_2.13@2.0.1
 - pkg:maven/org.scala-graph/graph-core_sjs1_2.13@2.0.1?classifier=sources
+- pkg:maven/org.scala-graph/graph-core_sjs1_2.13@2.0.2
+- pkg:maven/org.scala-graph/graph-core_sjs1_2.13@2.0.2?classifier=sources

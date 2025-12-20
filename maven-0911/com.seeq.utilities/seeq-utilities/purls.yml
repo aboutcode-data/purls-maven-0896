@@ -149,6 +149,7 @@
 - pkg:maven/com.seeq.utilities/seeq-utilities@64.3.3-v202406060203?classifier=sources
 - pkg:maven/com.seeq.utilities/seeq-utilities@64.4.0-v202407221841?classifier=sources
 - pkg:maven/com.seeq.utilities/seeq-utilities@64.4.1-v202409112255?classifier=sources
+- pkg:maven/com.seeq.utilities/seeq-utilities@64.4.2-v202409241550?classifier=sources
 - pkg:maven/com.seeq.utilities/seeq-utilities@65.0.0-v202404242221?classifier=sources
 - pkg:maven/com.seeq.utilities/seeq-utilities@65.0.1-v202405012042?classifier=sources
 - pkg:maven/com.seeq.utilities/seeq-utilities@65.0.2-v202405101638?classifier=sources

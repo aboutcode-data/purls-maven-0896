@@ -32,6 +32,8 @@
 - pkg:maven/org.apache.camel.k/camel-k-core-support@1.9.1?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-core-support@2.16.0
 - pkg:maven/org.apache.camel.k/camel-k-core-support@2.16.0?classifier=sources
+- pkg:maven/org.apache.camel.k/camel-k-core-support@3.15.0
+- pkg:maven/org.apache.camel.k/camel-k-core-support@3.15.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-core-support@3.2.0
 - pkg:maven/org.apache.camel.k/camel-k-core-support@3.2.0?classifier=sources
 - pkg:maven/org.apache.camel.k/camel-k-core-support@3.2.3

@@ -261,6 +261,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.7-pre.808?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.7-pre.809?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.7-pre.810?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.7-pre.811?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.7-pre.812?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.8-pre.814?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.8-pre.815?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.8-pre.816?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.8-pre.817?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.10.8-pre.818?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.2.0-pre.716?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.2.0-pre.717?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core-js@3.2.0-pre.718?classifier=sources

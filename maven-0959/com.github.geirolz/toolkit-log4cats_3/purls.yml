@@ -14,3 +14,5 @@
 - pkg:maven/com.github.geirolz/toolkit-log4cats_3@0.1.0-RC2?classifier=sources
 - pkg:maven/com.github.geirolz/toolkit-log4cats_3@0.1.0-RC3
 - pkg:maven/com.github.geirolz/toolkit-log4cats_3@0.1.0-RC3?classifier=sources
+- pkg:maven/com.github.geirolz/toolkit-log4cats_3@0.1.0-RC4
+- pkg:maven/com.github.geirolz/toolkit-log4cats_3@0.1.0-RC4?classifier=sources

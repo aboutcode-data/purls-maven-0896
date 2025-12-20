@@ -34,6 +34,8 @@
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.11.2?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.11.3
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.11.3?classifier=sources
+- pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.11.4
+- pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.11.4?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.2.0
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.2.0?classifier=sources
 - pkg:maven/org.apache.lucene/lucene-analyzers-opennlp@8.3.0

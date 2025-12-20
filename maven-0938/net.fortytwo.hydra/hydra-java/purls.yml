@@ -7,3 +7,4 @@
 - pkg:maven/net.fortytwo.hydra/hydra-java@0.6.0?classifier=sources
 - pkg:maven/net.fortytwo.hydra/hydra-java@0.7.0?classifier=sources
 - pkg:maven/net.fortytwo.hydra/hydra-java@0.8.0?classifier=sources
+- pkg:maven/net.fortytwo.hydra/hydra-java@0.8.1?classifier=sources

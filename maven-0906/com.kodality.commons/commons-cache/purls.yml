@@ -1,0 +1,4 @@
+- pkg:maven/com.kodality.commons/commons-cache@1.8
+- pkg:maven/com.kodality.commons/commons-cache@1.8?classifier=sources
+- pkg:maven/com.kodality.commons/commons-cache@1.9
+- pkg:maven/com.kodality.commons/commons-cache@1.9?classifier=sources

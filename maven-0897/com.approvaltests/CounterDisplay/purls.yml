@@ -182,6 +182,14 @@
 - pkg:maven/com.approvaltests/CounterDisplay@24.3.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@24.4.0
 - pkg:maven/com.approvaltests/CounterDisplay@24.4.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@24.5.0
+- pkg:maven/com.approvaltests/CounterDisplay@24.5.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@24.6.0
+- pkg:maven/com.approvaltests/CounterDisplay@24.6.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@24.7.0
+- pkg:maven/com.approvaltests/CounterDisplay@24.7.0?classifier=sources
+- pkg:maven/com.approvaltests/CounterDisplay@24.8.0
+- pkg:maven/com.approvaltests/CounterDisplay@24.8.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@3.0.0
 - pkg:maven/com.approvaltests/CounterDisplay@3.0.0?classifier=sources
 - pkg:maven/com.approvaltests/CounterDisplay@3.1.0

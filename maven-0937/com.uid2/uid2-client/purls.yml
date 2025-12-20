@@ -18,3 +18,5 @@
 - pkg:maven/com.uid2/uid2-client@4.5.0?classifier=sources
 - pkg:maven/com.uid2/uid2-client@4.5.9
 - pkg:maven/com.uid2/uid2-client@4.5.9?classifier=sources
+- pkg:maven/com.uid2/uid2-client@4.6.0
+- pkg:maven/com.uid2/uid2-client@4.6.0?classifier=sources

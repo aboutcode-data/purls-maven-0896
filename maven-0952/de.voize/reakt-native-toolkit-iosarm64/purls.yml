@@ -15,6 +15,8 @@
 - pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.16.1?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.16.2?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.17.0?classifier=sources
+- pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.18.0-legacy?classifier=sources
+- pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.18.0?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.2.0?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.3.1?classifier=sources
 - pkg:maven/de.voize/reakt-native-toolkit-iosarm64@0.4.0?classifier=sources

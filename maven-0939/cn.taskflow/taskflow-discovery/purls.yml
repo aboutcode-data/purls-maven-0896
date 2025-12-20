@@ -1,0 +1,6 @@
+- pkg:maven/cn.taskflow/taskflow-discovery@0.0.3-beta?classifier=sources
+- pkg:maven/cn.taskflow/taskflow-discovery@0.0.4-beta?classifier=sources
+- pkg:maven/cn.taskflow/taskflow-discovery@0.0.5-beta?classifier=sources
+- pkg:maven/cn.taskflow/taskflow-discovery@0.0.6-beta?classifier=sources
+- pkg:maven/cn.taskflow/taskflow-discovery@0.0.7-beta?classifier=sources
+- pkg:maven/cn.taskflow/taskflow-discovery@0.0.8-beta?classifier=sources

@@ -6,6 +6,8 @@
 - pkg:maven/org.sila-standard.sila_java.library/cloudier@0.12.0?classifier=sources
 - pkg:maven/org.sila-standard.sila_java.library/cloudier@0.13.0
 - pkg:maven/org.sila-standard.sila_java.library/cloudier@0.13.0?classifier=sources
+- pkg:maven/org.sila-standard.sila_java.library/cloudier@0.14.0
+- pkg:maven/org.sila-standard.sila_java.library/cloudier@0.14.0?classifier=sources
 - pkg:maven/org.sila-standard.sila_java.library/cloudier@0.5.0-test
 - pkg:maven/org.sila-standard.sila_java.library/cloudier@0.5.0-test-2
 - pkg:maven/org.sila-standard.sila_java.library/cloudier@0.5.0-test-2?classifier=sources

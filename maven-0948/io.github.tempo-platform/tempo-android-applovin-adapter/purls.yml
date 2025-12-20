@@ -28,3 +28,6 @@
 - pkg:maven/io.github.tempo-platform/tempo-android-applovin-adapter@1.6.2-rc.3?classifier=sources
 - pkg:maven/io.github.tempo-platform/tempo-android-applovin-adapter@1.6.2-rc.4?classifier=sources
 - pkg:maven/io.github.tempo-platform/tempo-android-applovin-adapter@1.6.2?classifier=sources
+- pkg:maven/io.github.tempo-platform/tempo-android-applovin-adapter@1.6.3-rc.0?classifier=sources
+- pkg:maven/io.github.tempo-platform/tempo-android-applovin-adapter@1.7.0?classifier=sources
+- pkg:maven/io.github.tempo-platform/tempo-android-applovin-adapter@1.7.1?classifier=sources

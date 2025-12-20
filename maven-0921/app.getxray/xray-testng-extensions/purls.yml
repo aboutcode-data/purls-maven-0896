@@ -6,3 +6,5 @@
 - pkg:maven/app.getxray/xray-testng-extensions@0.2.0?classifier=sources
 - pkg:maven/app.getxray/xray-testng-extensions@0.2.1
 - pkg:maven/app.getxray/xray-testng-extensions@0.2.1?classifier=sources
+- pkg:maven/app.getxray/xray-testng-extensions@0.3.0
+- pkg:maven/app.getxray/xray-testng-extensions@0.3.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.kgs-software/chemistry-opencmis-server-inmemory@1.2.1?type=war
 - pkg:maven/com.kgs-software/chemistry-opencmis-server-inmemory@1.2.2?classifier=sources
 - pkg:maven/com.kgs-software/chemistry-opencmis-server-inmemory@1.2.2?type=war
+- pkg:maven/com.kgs-software/chemistry-opencmis-server-inmemory@1.2.3?classifier=sources
+- pkg:maven/com.kgs-software/chemistry-opencmis-server-inmemory@1.2.3?type=war

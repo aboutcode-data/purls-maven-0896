@@ -6,3 +6,5 @@
 - pkg:maven/com.limemojito.oss.standards.aws/sns-utilities@14.2.2?classifier=sources
 - pkg:maven/com.limemojito.oss.standards.aws/sns-utilities@14.3.1
 - pkg:maven/com.limemojito.oss.standards.aws/sns-utilities@14.3.1?classifier=sources
+- pkg:maven/com.limemojito.oss.standards.aws/sns-utilities@15.0.0
+- pkg:maven/com.limemojito.oss.standards.aws/sns-utilities@15.0.0?classifier=sources

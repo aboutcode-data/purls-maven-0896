@@ -1,1 +1,3 @@
 - pkg:maven/com.eygraber/vice-nav-android@0.0.5?classifier=sources
+- pkg:maven/com.eygraber/vice-nav-android@0.9.0?classifier=sources
+- pkg:maven/com.eygraber/vice-nav-android@0.9.1?classifier=sources

@@ -11,6 +11,8 @@
 - pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@13.0.10
 - pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@13.0.7
 - pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@13.0.9
+- pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@13.1.5
+- pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@14.0.4
 - pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@8.1.6
 - pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@9.0.10
 - pkg:maven/org.opendaylight.odlparent/bcutil-framework-ext@9.0.14

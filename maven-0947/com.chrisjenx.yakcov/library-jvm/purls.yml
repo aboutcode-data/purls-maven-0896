@@ -11,3 +11,12 @@
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-alpha02?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-alpha03.1?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-alpha03?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-beta01?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-beta02?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01-1?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01-2?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01-3?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01-4-1d5bacd?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01-4?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01-5?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01?classifier=sources

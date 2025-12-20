@@ -12,3 +12,7 @@
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.3.9?classifier=sources
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.4.0
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.4.0?classifier=sources
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.0
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.0?classifier=sources
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.1
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.1?classifier=sources

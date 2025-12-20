@@ -62,3 +62,5 @@
 - pkg:maven/org.jboss.logging/jboss-logging-processor@3.0.0.Final?classifier=sources
 - pkg:maven/org.jboss.logging/jboss-logging-processor@3.0.1.Final
 - pkg:maven/org.jboss.logging/jboss-logging-processor@3.0.1.Final?classifier=sources
+- pkg:maven/org.jboss.logging/jboss-logging-processor@3.0.2.Final
+- pkg:maven/org.jboss.logging/jboss-logging-processor@3.0.2.Final?classifier=sources

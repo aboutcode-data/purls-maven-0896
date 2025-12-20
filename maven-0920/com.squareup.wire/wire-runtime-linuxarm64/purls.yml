@@ -1,3 +1,4 @@
+- pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@4.9.11?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@4.9.4?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@4.9.5?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@4.9.6?classifier=sources

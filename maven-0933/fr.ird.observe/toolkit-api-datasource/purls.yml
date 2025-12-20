@@ -1,0 +1,4 @@
+- pkg:maven/fr.ird.observe/toolkit-api-datasource@10.0.0
+- pkg:maven/fr.ird.observe/toolkit-api-datasource@10.0.0?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-api-datasource@10.0.1
+- pkg:maven/fr.ird.observe/toolkit-api-datasource@10.0.1?classifier=sources

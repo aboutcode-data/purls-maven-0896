@@ -524,6 +524,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.4.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.4.3
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.4.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.4.4
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.4.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.5.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.5.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.5.0-rc-1?classifier=sources
@@ -536,8 +538,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.7.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.7.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.7.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.8.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.8.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.8.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@16.8.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@7.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@7.0-milestone-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-test-component@7.0-milestone-1?classifier=sources

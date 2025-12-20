@@ -4,3 +4,5 @@
 - pkg:maven/com.github.hiwepy/hitool-mail@1.0.1.RELEASE?classifier=sources
 - pkg:maven/com.github.hiwepy/hitool-mail@1.0.2.RELEASE
 - pkg:maven/com.github.hiwepy/hitool-mail@1.0.2.RELEASE?classifier=sources
+- pkg:maven/com.github.hiwepy/hitool-mail@3.0.x.20241003.RELEASE
+- pkg:maven/com.github.hiwepy/hitool-mail@3.0.x.20241003.RELEASE?classifier=sources

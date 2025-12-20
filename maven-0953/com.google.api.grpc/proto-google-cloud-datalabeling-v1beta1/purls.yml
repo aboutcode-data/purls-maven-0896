@@ -62,6 +62,12 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.132.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.133.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.133.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.134.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.134.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.136.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.136.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.137.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.137.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.51.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.51.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-datalabeling-v1beta1@0.52.0

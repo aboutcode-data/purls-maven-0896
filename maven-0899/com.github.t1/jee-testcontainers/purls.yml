@@ -27,4 +27,6 @@
 - pkg:maven/com.github.t1/jee-testcontainers@2.2.2?classifier=sources
 - pkg:maven/com.github.t1/jee-testcontainers@2.2.3
 - pkg:maven/com.github.t1/jee-testcontainers@2.2.3?classifier=sources
+- pkg:maven/com.github.t1/jee-testcontainers@2.2.4
+- pkg:maven/com.github.t1/jee-testcontainers@2.2.4?classifier=sources
 - pkg:maven/com.github.t1/jee-testcontainers@2.2?classifier=sources

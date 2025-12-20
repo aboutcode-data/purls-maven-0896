@@ -1,2 +1,4 @@
 - pkg:maven/com.cognitect.aws/timestream-influxdb@868.2.1580.0
 - pkg:maven/com.cognitect.aws/timestream-influxdb@868.2.1580.0?classifier=sources
+- pkg:maven/com.cognitect.aws/timestream-influxdb@870.2.1691.0
+- pkg:maven/com.cognitect.aws/timestream-influxdb@870.2.1691.0?classifier=sources

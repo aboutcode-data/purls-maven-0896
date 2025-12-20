@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.skywalking/server-health-checker@10.0.1
 - pkg:maven/org.apache.skywalking/server-health-checker@10.0.1?classifier=sources
+- pkg:maven/org.apache.skywalking/server-health-checker@10.1.0
 - pkg:maven/org.apache.skywalking/server-health-checker@8.1.0
 - pkg:maven/org.apache.skywalking/server-health-checker@8.2.0
 - pkg:maven/org.apache.skywalking/server-health-checker@8.3.0

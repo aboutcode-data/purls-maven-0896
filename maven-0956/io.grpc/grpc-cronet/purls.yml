@@ -121,4 +121,5 @@
 - pkg:maven/io.grpc/grpc-cronet@1.65.0?classifier=sources
 - pkg:maven/io.grpc/grpc-cronet@1.65.1?classifier=sources
 - pkg:maven/io.grpc/grpc-cronet@1.66.0?classifier=sources
+- pkg:maven/io.grpc/grpc-cronet@1.67.1?classifier=sources
 - pkg:maven/io.grpc/grpc-cronet@1.68.0?classifier=sources

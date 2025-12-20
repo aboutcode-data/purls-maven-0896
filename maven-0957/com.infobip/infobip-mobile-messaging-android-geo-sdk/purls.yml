@@ -15,6 +15,11 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@11.3.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.10.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.11.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.12.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.12.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.12.2-rc3?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.2.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.2.1?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-android-geo-sdk@12.2.2?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.0
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.0?classifier=sources
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.2
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.2?classifier=sources
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.3
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.3?classifier=sources
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.4
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.4?classifier=sources
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.8
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.8?classifier=sources
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.9
+- pkg:maven/io.github.datadog4s/datadog4s-statsd_2.12@0.33.9?classifier=sources

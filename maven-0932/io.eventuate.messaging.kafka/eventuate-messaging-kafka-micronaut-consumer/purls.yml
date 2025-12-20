@@ -4,3 +4,4 @@
 - pkg:maven/io.eventuate.messaging.kafka/eventuate-messaging-kafka-micronaut-consumer@0.16.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.kafka/eventuate-messaging-kafka-micronaut-consumer@0.17.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.kafka/eventuate-messaging-kafka-micronaut-consumer@0.18.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.messaging.kafka/eventuate-messaging-kafka-micronaut-consumer@0.19.0.RELEASE?classifier=sources

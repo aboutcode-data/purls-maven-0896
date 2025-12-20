@@ -1,2 +1,4 @@
 - pkg:maven/com.e6data/e6-jdbc-driver@1.0
 - pkg:maven/com.e6data/e6-jdbc-driver@1.0?classifier=sources
+- pkg:maven/com.e6data/e6-jdbc-driver@1.1.57
+- pkg:maven/com.e6data/e6-jdbc-driver@1.1.57?classifier=sources

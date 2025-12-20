@@ -54,3 +54,5 @@
 - pkg:maven/com.buschmais.xo/xo.neo4j.remote@2.2.8?classifier=sources
 - pkg:maven/com.buschmais.xo/xo.neo4j.remote@2.2.9
 - pkg:maven/com.buschmais.xo/xo.neo4j.remote@2.2.9?classifier=sources
+- pkg:maven/com.buschmais.xo/xo.neo4j.remote@2.3.0
+- pkg:maven/com.buschmais.xo/xo.neo4j.remote@2.3.0?classifier=sources

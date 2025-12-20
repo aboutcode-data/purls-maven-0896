@@ -9,6 +9,7 @@
 - pkg:maven/ch.acra/acra-limiter@5.11.1?classifier=sources
 - pkg:maven/ch.acra/acra-limiter@5.11.2?classifier=sources
 - pkg:maven/ch.acra/acra-limiter@5.11.3?classifier=sources
+- pkg:maven/ch.acra/acra-limiter@5.11.4?classifier=sources
 - pkg:maven/ch.acra/acra-limiter@5.2.0?classifier=sources
 - pkg:maven/ch.acra/acra-limiter@5.2.0?type=aar
 - pkg:maven/ch.acra/acra-limiter@5.2.1?classifier=sources

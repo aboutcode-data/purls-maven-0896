@@ -212,3 +212,9 @@
 - pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@457?classifier=sources
 - pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@458
 - pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@458?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@459
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@459?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@460
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@460?classifier=sources
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@461
+- pkg:maven/io.trino/trino-test-jdbc-compatibility-old-driver@461?classifier=sources

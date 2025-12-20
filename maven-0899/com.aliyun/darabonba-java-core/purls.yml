@@ -50,6 +50,12 @@
 - pkg:maven/com.aliyun/darabonba-java-core@0.2.11-beta?classifier=sources
 - pkg:maven/com.aliyun/darabonba-java-core@0.2.12-beta
 - pkg:maven/com.aliyun/darabonba-java-core@0.2.12-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.13-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.13-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.14-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.14-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.15-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.15-beta?classifier=sources
 - pkg:maven/com.aliyun/darabonba-java-core@0.2.2-beta
 - pkg:maven/com.aliyun/darabonba-java-core@0.2.2-beta?classifier=sources
 - pkg:maven/com.aliyun/darabonba-java-core@0.2.3-beta

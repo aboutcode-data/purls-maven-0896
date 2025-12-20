@@ -55,6 +55,7 @@
 - pkg:maven/dev.inmo/tgbotapi.api-js@18.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@18.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@18.2.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.api-js@18.2.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@2.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@2.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.api-js@2.0.2?classifier=sources

@@ -1,12 +1,16 @@
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@1.9.22-1.0.0-RC3?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@1.9.22-1.0.0-RC4?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@1.9.22-1.0.0-RC5?classifier=sources
+- pkg:maven/io.exoquery/terpal-runtime-tvosarm64@1.9.22-1.0.0.PL?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.0-1.0.0-RC3?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.0-1.0.0-RC4?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.0-1.0.0-RC5?classifier=sources
+- pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.0-1.0.0.PL?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.10-1.0.0-RC3?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.10-1.0.0-RC4?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.10-1.0.0-RC5?classifier=sources
+- pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.10-1.0.0.PL?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.20-1.0.0-RC3?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.20-1.0.0-RC4?classifier=sources
 - pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.20-1.0.0-RC5?classifier=sources
+- pkg:maven/io.exoquery/terpal-runtime-tvosarm64@2.0.20-1.0.0.PL?classifier=sources

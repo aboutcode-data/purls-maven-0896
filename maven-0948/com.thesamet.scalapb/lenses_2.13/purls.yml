@@ -138,3 +138,5 @@
 - pkg:maven/com.thesamet.scalapb/lenses_2.13@0.9.7?classifier=sources
 - pkg:maven/com.thesamet.scalapb/lenses_2.13@0.9.8
 - pkg:maven/com.thesamet.scalapb/lenses_2.13@0.9.8?classifier=sources
+- pkg:maven/com.thesamet.scalapb/lenses_2.13@1.0.0-alpha.1
+- pkg:maven/com.thesamet.scalapb/lenses_2.13@1.0.0-alpha.1?classifier=sources

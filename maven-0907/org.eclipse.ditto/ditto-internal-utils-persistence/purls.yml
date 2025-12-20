@@ -110,3 +110,5 @@
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-persistence@3.5.8?classifier=sources
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-persistence@3.5.9
 - pkg:maven/org.eclipse.ditto/ditto-internal-utils-persistence@3.5.9?classifier=sources
+- pkg:maven/org.eclipse.ditto/ditto-internal-utils-persistence@3.6.0
+- pkg:maven/org.eclipse.ditto/ditto-internal-utils-persistence@3.6.0?classifier=sources

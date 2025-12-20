@@ -38,3 +38,5 @@
 - pkg:maven/com.gu/fezziwig_2.12@2.0.0-PREVIEW.update-readme-for-version-200.2024-03-19T1647.d02aaedd
 - pkg:maven/com.gu/fezziwig_2.12@2.0.0-PREVIEW.update-readme-for-version-200.2024-03-19T1647.d02aaedd?classifier=sources
 - pkg:maven/com.gu/fezziwig_2.12@2.0.0?classifier=sources
+- pkg:maven/com.gu/fezziwig_2.12@2.0.1
+- pkg:maven/com.gu/fezziwig_2.12@2.0.1?classifier=sources

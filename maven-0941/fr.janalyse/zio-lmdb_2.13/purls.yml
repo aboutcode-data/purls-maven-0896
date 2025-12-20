@@ -34,3 +34,5 @@
 - pkg:maven/fr.janalyse/zio-lmdb_2.13@1.8.0?classifier=sources
 - pkg:maven/fr.janalyse/zio-lmdb_2.13@1.8.1
 - pkg:maven/fr.janalyse/zio-lmdb_2.13@1.8.1?classifier=sources
+- pkg:maven/fr.janalyse/zio-lmdb_2.13@1.8.2
+- pkg:maven/fr.janalyse/zio-lmdb_2.13@1.8.2?classifier=sources

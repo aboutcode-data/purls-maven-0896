@@ -4,3 +4,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-restclients@7.0.1-1372?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-restclients@7.1.0-1414
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-restclients@7.1.0-1414?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-workflow-restclients@7.2.0-1486
+- pkg:maven/com.github.cafdataprocessing/worker-workflow-restclients@7.2.0-1486?classifier=sources

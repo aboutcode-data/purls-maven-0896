@@ -202,6 +202,12 @@
 - pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.5.6?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.50.0
 - pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.50.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.51.0
+- pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.51.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.53.0
+- pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.53.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.54.0
+- pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.54.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.6.0
 - pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.6.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigqueryconnection@2.7.0

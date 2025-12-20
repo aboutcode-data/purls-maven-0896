@@ -1,2 +1,8 @@
 - pkg:maven/app.simplecloud.controller/controller-shared@0.0.27-EXPERIMENTAL
 - pkg:maven/app.simplecloud.controller/controller-shared@0.0.27-EXPERIMENTAL?classifier=sources
+- pkg:maven/app.simplecloud.controller/controller-shared@0.0.28-EXPERIMENTAL
+- pkg:maven/app.simplecloud.controller/controller-shared@0.0.28-EXPERIMENTAL?classifier=sources
+- pkg:maven/app.simplecloud.controller/controller-shared@0.0.29-EXPERIMENTAL
+- pkg:maven/app.simplecloud.controller/controller-shared@0.0.29-EXPERIMENTAL?classifier=sources
+- pkg:maven/app.simplecloud.controller/controller-shared@0.0.30-EXPERIMENTAL
+- pkg:maven/app.simplecloud.controller/controller-shared@0.0.30-EXPERIMENTAL?classifier=sources

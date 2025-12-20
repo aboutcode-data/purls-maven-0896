@@ -105,3 +105,4 @@
 - pkg:maven/io.trino/trino-atop@456?classifier=sources
 - pkg:maven/io.trino/trino-atop@457?classifier=sources
 - pkg:maven/io.trino/trino-atop@458?classifier=sources
+- pkg:maven/io.trino/trino-atop@459?classifier=sources

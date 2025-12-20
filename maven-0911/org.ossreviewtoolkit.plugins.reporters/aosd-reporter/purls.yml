@@ -6,3 +6,7 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@32.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@32.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@33.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@33.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@34.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@36.0.0?classifier=sources

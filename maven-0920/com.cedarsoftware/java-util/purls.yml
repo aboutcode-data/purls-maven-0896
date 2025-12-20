@@ -198,6 +198,14 @@
 - pkg:maven/com.cedarsoftware/java-util@2.12.0?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@2.13.0
 - pkg:maven/com.cedarsoftware/java-util@2.13.0?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@2.14.0
+- pkg:maven/com.cedarsoftware/java-util@2.14.0?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@2.15.0
+- pkg:maven/com.cedarsoftware/java-util@2.15.0?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@2.16.0
+- pkg:maven/com.cedarsoftware/java-util@2.16.0?classifier=sources
+- pkg:maven/com.cedarsoftware/java-util@2.17.0
+- pkg:maven/com.cedarsoftware/java-util@2.17.0?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@2.2.0
 - pkg:maven/com.cedarsoftware/java-util@2.2.0?classifier=sources
 - pkg:maven/com.cedarsoftware/java-util@2.3.0

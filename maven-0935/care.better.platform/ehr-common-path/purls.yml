@@ -42,3 +42,5 @@
 - pkg:maven/care.better.platform/ehr-common-path@4.0.2?classifier=sources
 - pkg:maven/care.better.platform/ehr-common-path@4.0.3
 - pkg:maven/care.better.platform/ehr-common-path@4.0.3?classifier=sources
+- pkg:maven/care.better.platform/ehr-common-path@4.0.4
+- pkg:maven/care.better.platform/ehr-common-path@4.0.4?classifier=sources

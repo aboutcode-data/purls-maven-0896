@@ -10,5 +10,7 @@
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.15?classifier=sources
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.16
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.16?classifier=sources
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.17
+- pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.17?classifier=sources
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.9
 - pkg:maven/nl.openweb.hippo.updater/groovy-updater-bootstrap-generator@1.9?classifier=sources

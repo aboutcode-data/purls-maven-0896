@@ -1,0 +1,2 @@
+- pkg:maven/com.yahoo.athenz/athenz-server-aws-common@1.12.1
+- pkg:maven/com.yahoo.athenz/athenz-server-aws-common@1.12.1?classifier=sources

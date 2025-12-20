@@ -22,3 +22,5 @@
 - pkg:maven/com.vanniktech/nexus@0.28.0?classifier=sources
 - pkg:maven/com.vanniktech/nexus@0.29.0-rc1?classifier=sources
 - pkg:maven/com.vanniktech/nexus@0.29.0?classifier=sources
+- pkg:maven/com.vanniktech/nexus@0.30.0-rc1?classifier=sources
+- pkg:maven/com.vanniktech/nexus@0.30.0?classifier=sources

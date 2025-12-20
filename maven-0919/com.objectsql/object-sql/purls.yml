@@ -22,3 +22,7 @@
 - pkg:maven/com.objectsql/object-sql@5.3.6
 - pkg:maven/com.objectsql/object-sql@5.3.6?classifier=sources
 - pkg:maven/com.objectsql/object-sql@5.3?classifier=sources
+- pkg:maven/com.objectsql/object-sql@6.0
+- pkg:maven/com.objectsql/object-sql@6.0?classifier=sources
+- pkg:maven/com.objectsql/object-sql@6.1
+- pkg:maven/com.objectsql/object-sql@6.1?classifier=sources

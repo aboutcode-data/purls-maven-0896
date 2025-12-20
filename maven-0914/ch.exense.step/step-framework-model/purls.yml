@@ -40,3 +40,5 @@
 - pkg:maven/ch.exense.step/step-framework-model@2.0.8?classifier=sources
 - pkg:maven/ch.exense.step/step-framework-model@2.0.9
 - pkg:maven/ch.exense.step/step-framework-model@2.0.9?classifier=sources
+- pkg:maven/ch.exense.step/step-framework-model@2.1.0
+- pkg:maven/ch.exense.step/step-framework-model@2.1.0?classifier=sources

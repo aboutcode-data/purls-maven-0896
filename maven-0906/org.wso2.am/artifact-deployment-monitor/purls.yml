@@ -109,3 +109,5 @@
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@4.2.0-beta?type=war
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@4.2.0?classifier=sources
 - pkg:maven/org.wso2.am/artifact-deployment-monitor@4.2.0?type=war
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@4.4.0-alpha?classifier=sources
+- pkg:maven/org.wso2.am/artifact-deployment-monitor@4.4.0-alpha?type=war

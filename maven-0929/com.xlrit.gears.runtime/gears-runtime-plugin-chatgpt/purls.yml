@@ -50,3 +50,5 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-chatgpt@1.17.3?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-chatgpt@1.17.4
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-chatgpt@1.17.4?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-chatgpt@1.17.5
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-chatgpt@1.17.5?classifier=sources

@@ -260,5 +260,11 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.86.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.87.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.87.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.88.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.88.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.9.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.9.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.90.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.90.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.91.0
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-recaptchaenterprise-v1beta1@0.91.0?classifier=sources

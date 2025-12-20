@@ -250,5 +250,7 @@
 - pkg:maven/com.revenuecat.purchases/purchases@8.7.0?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@8.7.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@8.7.2?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@8.8.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases@8.8.1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@AMAZON.RC1?classifier=sources
 - pkg:maven/com.revenuecat.purchases/purchases@AMAZON.RC1?type=aar

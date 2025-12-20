@@ -1,2 +1,4 @@
 - pkg:maven/nl.openweb.hippo.hst/structured-data@13.0.04
 - pkg:maven/nl.openweb.hippo.hst/structured-data@13.0.04?classifier=sources
+- pkg:maven/nl.openweb.hippo.hst/structured-data@16.1.02
+- pkg:maven/nl.openweb.hippo.hst/structured-data@16.1.02?classifier=sources

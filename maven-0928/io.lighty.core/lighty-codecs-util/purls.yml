@@ -68,3 +68,5 @@
 - pkg:maven/io.lighty.core/lighty-codecs-util@20.0.0?classifier=sources
 - pkg:maven/io.lighty.core/lighty-codecs-util@20.1.0
 - pkg:maven/io.lighty.core/lighty-codecs-util@20.1.0?classifier=sources
+- pkg:maven/io.lighty.core/lighty-codecs-util@20.2.0
+- pkg:maven/io.lighty.core/lighty-codecs-util@20.2.0?classifier=sources

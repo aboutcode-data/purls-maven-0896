@@ -1,2 +1,5 @@
 - pkg:maven/de.firemage.autograder/autograder-api@0.6.0?classifier=sources
 - pkg:maven/de.firemage.autograder/autograder-api@0.6.1?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-api@0.6.2?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-api@0.6.3?classifier=sources
+- pkg:maven/de.firemage.autograder/autograder-api@0.6.4?classifier=sources

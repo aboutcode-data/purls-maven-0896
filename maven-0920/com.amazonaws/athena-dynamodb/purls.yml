@@ -78,6 +78,10 @@
 - pkg:maven/com.amazonaws/athena-dynamodb@2024.32.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-dynamodb@2024.33.1
 - pkg:maven/com.amazonaws/athena-dynamodb@2024.33.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-dynamodb@2024.36.1
+- pkg:maven/com.amazonaws/athena-dynamodb@2024.36.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-dynamodb@2024.38.1
+- pkg:maven/com.amazonaws/athena-dynamodb@2024.38.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-dynamodb@2024.6.1
 - pkg:maven/com.amazonaws/athena-dynamodb@2024.6.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-dynamodb@2024.7.1

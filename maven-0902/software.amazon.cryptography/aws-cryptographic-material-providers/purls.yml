@@ -10,3 +10,4 @@
 - pkg:maven/software.amazon.cryptography/aws-cryptographic-material-providers@1.5.0?classifier=sources
 - pkg:maven/software.amazon.cryptography/aws-cryptographic-material-providers@1.5.1?classifier=sources
 - pkg:maven/software.amazon.cryptography/aws-cryptographic-material-providers@1.6.0?classifier=sources
+- pkg:maven/software.amazon.cryptography/aws-cryptographic-material-providers@1.7.0?classifier=sources

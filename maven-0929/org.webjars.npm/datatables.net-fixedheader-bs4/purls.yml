@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/datatables.net-fixedheader-bs4@3.3.2
 - pkg:maven/org.webjars.npm/datatables.net-fixedheader-bs4@3.3.2?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-fixedheader-bs4@3.4.1
+- pkg:maven/org.webjars.npm/datatables.net-fixedheader-bs4@4.0.1

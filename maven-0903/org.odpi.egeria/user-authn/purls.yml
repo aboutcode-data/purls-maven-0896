@@ -1,1 +1,2 @@
 - pkg:maven/org.odpi.egeria/user-authn@5.0?classifier=sources
+- pkg:maven/org.odpi.egeria/user-authn@5.1?classifier=sources

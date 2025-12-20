@@ -152,6 +152,12 @@
 - pkg:maven/com.google.analytics/google-analytics-data@0.59.0?classifier=sources
 - pkg:maven/com.google.analytics/google-analytics-data@0.6.0
 - pkg:maven/com.google.analytics/google-analytics-data@0.6.0?classifier=sources
+- pkg:maven/com.google.analytics/google-analytics-data@0.60.0
+- pkg:maven/com.google.analytics/google-analytics-data@0.60.0?classifier=sources
+- pkg:maven/com.google.analytics/google-analytics-data@0.62.0
+- pkg:maven/com.google.analytics/google-analytics-data@0.62.0?classifier=sources
+- pkg:maven/com.google.analytics/google-analytics-data@0.63.0
+- pkg:maven/com.google.analytics/google-analytics-data@0.63.0?classifier=sources
 - pkg:maven/com.google.analytics/google-analytics-data@0.7.0
 - pkg:maven/com.google.analytics/google-analytics-data@0.7.0?classifier=sources
 - pkg:maven/com.google.analytics/google-analytics-data@0.7.1

@@ -30,3 +30,7 @@
 - pkg:maven/io.dock2dock/ui@0.2.3-alpha?classifier=sources
 - pkg:maven/io.dock2dock/ui@0.2.4-alpha?classifier=sources
 - pkg:maven/io.dock2dock/ui@0.2.5-alpha?classifier=sources
+- pkg:maven/io.dock2dock/ui@0.2.6-alpha?classifier=sources
+- pkg:maven/io.dock2dock/ui@0.2.7-alpha?classifier=sources
+- pkg:maven/io.dock2dock/ui@0.2.8-alpha?classifier=sources
+- pkg:maven/io.dock2dock/ui@0.2.9-alpha?classifier=sources

@@ -523,6 +523,8 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.4.2?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.4.3
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.4.3?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.4.4
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.4.4?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.5.0
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.5.0-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.5.0-rc-1?classifier=sources
@@ -535,8 +537,10 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.7.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.7.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.7.1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.8.0
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.8.0-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.8.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@16.8.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@3.2
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@3.2-milestone-3
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-transformation-icon@3.2-milestone-3?classifier=sources

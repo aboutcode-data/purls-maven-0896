@@ -94,3 +94,5 @@
 - pkg:maven/com.urbanairship.android/urbanairship-automation@18.1.6?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-automation@18.2.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-automation@18.3.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-automation@18.3.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-automation@18.3.2?classifier=sources

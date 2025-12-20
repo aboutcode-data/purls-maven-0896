@@ -34,3 +34,5 @@
 - pkg:maven/org.mongodb/mongodb-driver-kotlin-sync@5.1.3?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-kotlin-sync@5.1.4
 - pkg:maven/org.mongodb/mongodb-driver-kotlin-sync@5.1.4?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-kotlin-sync@5.2.0
+- pkg:maven/org.mongodb/mongodb-driver-kotlin-sync@5.2.0?classifier=sources

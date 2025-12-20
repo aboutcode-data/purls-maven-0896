@@ -22,3 +22,5 @@
 - pkg:maven/net.tirasa.connid/connector-framework@1.5.1.0?classifier=sources
 - pkg:maven/net.tirasa.connid/connector-framework@1.5.2.0
 - pkg:maven/net.tirasa.connid/connector-framework@1.5.2.0?classifier=sources
+- pkg:maven/net.tirasa.connid/connector-framework@1.6.0.0-RC1
+- pkg:maven/net.tirasa.connid/connector-framework@1.6.0.0-RC1?classifier=sources

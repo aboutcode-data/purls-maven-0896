@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars.npm/videojs-playlist@4.3.1
 - pkg:maven/org.webjars.npm/videojs-playlist@4.3.1?classifier=sources
+- pkg:maven/org.webjars.npm/videojs-playlist@5.1.2

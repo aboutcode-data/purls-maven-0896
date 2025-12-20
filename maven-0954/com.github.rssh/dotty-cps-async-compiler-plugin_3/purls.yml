@@ -6,3 +6,5 @@
 - pkg:maven/com.github.rssh/dotty-cps-async-compiler-plugin_3@0.9.20?classifier=sources
 - pkg:maven/com.github.rssh/dotty-cps-async-compiler-plugin_3@0.9.21
 - pkg:maven/com.github.rssh/dotty-cps-async-compiler-plugin_3@0.9.21?classifier=sources
+- pkg:maven/com.github.rssh/dotty-cps-async-compiler-plugin_3@0.9.22
+- pkg:maven/com.github.rssh/dotty-cps-async-compiler-plugin_3@0.9.22?classifier=sources

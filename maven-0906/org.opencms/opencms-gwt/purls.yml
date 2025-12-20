@@ -29,6 +29,7 @@
 - pkg:maven/org.opencms/opencms-gwt@16.0
 - pkg:maven/org.opencms/opencms-gwt@16.0?classifier=sources
 - pkg:maven/org.opencms/opencms-gwt@17.0?classifier=sources
+- pkg:maven/org.opencms/opencms-gwt@18.0?classifier=sources
 - pkg:maven/org.opencms/opencms-gwt@9.0.1
 - pkg:maven/org.opencms/opencms-gwt@9.0.1?classifier=sources
 - pkg:maven/org.opencms/opencms-gwt@9.5.0

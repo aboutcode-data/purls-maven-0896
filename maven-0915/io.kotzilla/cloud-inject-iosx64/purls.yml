@@ -1,3 +1,5 @@
 - pkg:maven/io.kotzilla/cloud-inject-iosx64@0.10.0-Beta5?classifier=sources
 - pkg:maven/io.kotzilla/cloud-inject-iosx64@0.10.0-Beta6?classifier=sources
 - pkg:maven/io.kotzilla/cloud-inject-iosx64@0.11.0?classifier=sources
+- pkg:maven/io.kotzilla/cloud-inject-iosx64@0.11.1?classifier=sources
+- pkg:maven/io.kotzilla/cloud-inject-iosx64@0.12.0?classifier=sources

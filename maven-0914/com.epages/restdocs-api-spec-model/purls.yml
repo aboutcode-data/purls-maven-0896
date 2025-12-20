@@ -22,3 +22,4 @@
 - pkg:maven/com.epages/restdocs-api-spec-model@0.19.0?classifier=sources
 - pkg:maven/com.epages/restdocs-api-spec-model@0.19.1?classifier=sources
 - pkg:maven/com.epages/restdocs-api-spec-model@0.19.2?classifier=sources
+- pkg:maven/com.epages/restdocs-api-spec-model@0.19.4?classifier=sources
