@@ -30,5 +30,7 @@
 - pkg:maven/care.better.platform/ehr-common-xml-jaxb@3.2.2?classifier=sources
 - pkg:maven/care.better.platform/ehr-common-xml-jaxb@3.2.3
 - pkg:maven/care.better.platform/ehr-common-xml-jaxb@3.2.3?classifier=sources
+- pkg:maven/care.better.platform/ehr-common-xml-jaxb@3.2.4
+- pkg:maven/care.better.platform/ehr-common-xml-jaxb@3.2.4?classifier=sources
 - pkg:maven/care.better.platform/ehr-common-xml-jaxb@4.0.0-RC1
 - pkg:maven/care.better.platform/ehr-common-xml-jaxb@4.0.0-RC1?classifier=sources

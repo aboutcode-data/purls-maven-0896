@@ -1,2 +1,4 @@
 - pkg:maven/com.workoss.boot/aws2-storage-client@1.1.0-RC1
 - pkg:maven/com.workoss.boot/aws2-storage-client@1.1.0-RC1?classifier=sources
+- pkg:maven/com.workoss.boot/aws2-storage-client@2023.2.1-M1
+- pkg:maven/com.workoss.boot/aws2-storage-client@2023.2.1-M1?classifier=sources

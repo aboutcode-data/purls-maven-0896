@@ -4,6 +4,8 @@
 - pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.11?classifier=sources
 - pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.12
 - pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.12?classifier=sources
+- pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.13
+- pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.13?classifier=sources
 - pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.8
 - pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.8?classifier=sources
 - pkg:maven/fun.fengwk.auto-validation/auto-validation-example@0.0.9

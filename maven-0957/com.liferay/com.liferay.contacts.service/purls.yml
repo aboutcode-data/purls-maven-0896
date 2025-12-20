@@ -282,6 +282,7 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.4
+- pkg:maven/com.liferay/com.liferay.contacts.service@3.0.40?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@3.0.5
@@ -383,6 +384,7 @@
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.33?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.34
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.contacts.service@4.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.contacts.service@4.0.4

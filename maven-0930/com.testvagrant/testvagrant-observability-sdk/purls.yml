@@ -1,0 +1,2 @@
+- pkg:maven/com.testvagrant/testvagrant-observability-sdk@0.0.1
+- pkg:maven/com.testvagrant/testvagrant-observability-sdk@0.0.1?classifier=sources

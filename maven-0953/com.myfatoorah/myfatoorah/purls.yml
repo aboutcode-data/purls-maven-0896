@@ -19,6 +19,7 @@
 - pkg:maven/com.myfatoorah/myfatoorah@2.2.18?type=aar
 - pkg:maven/com.myfatoorah/myfatoorah@2.2.19?type=aar
 - pkg:maven/com.myfatoorah/myfatoorah@2.2.1?type=aar
+- pkg:maven/com.myfatoorah/myfatoorah@2.2.21?classifier=sources
 - pkg:maven/com.myfatoorah/myfatoorah@2.2.2?type=aar
 - pkg:maven/com.myfatoorah/myfatoorah@2.2.3?type=aar
 - pkg:maven/com.myfatoorah/myfatoorah@2.2.4?type=aar

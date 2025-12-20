@@ -14,3 +14,5 @@
 - pkg:maven/dev.zio/docs_2.13@23.0.0.8?classifier=sources
 - pkg:maven/dev.zio/docs_2.13@23.0.03
 - pkg:maven/dev.zio/docs_2.13@23.0.03?classifier=sources
+- pkg:maven/dev.zio/docs_2.13@23.1.0.0
+- pkg:maven/dev.zio/docs_2.13@23.1.0.0?classifier=sources

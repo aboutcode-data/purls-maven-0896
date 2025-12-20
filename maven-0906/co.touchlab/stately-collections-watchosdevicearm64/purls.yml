@@ -1,1 +1,5 @@
 - pkg:maven/co.touchlab/stately-collections-watchosdevicearm64@2.0.0-rc3?classifier=sources
+- pkg:maven/co.touchlab/stately-collections-watchosdevicearm64@2.0.0?classifier=sources
+- pkg:maven/co.touchlab/stately-collections-watchosdevicearm64@2.0.2?classifier=sources
+- pkg:maven/co.touchlab/stately-collections-watchosdevicearm64@2.0.3?classifier=sources
+- pkg:maven/co.touchlab/stately-collections-watchosdevicearm64@2.0.4?classifier=sources

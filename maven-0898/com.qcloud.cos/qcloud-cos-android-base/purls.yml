@@ -1,0 +1,2 @@
+- pkg:maven/com.qcloud.cos/qcloud-cos-android-base@5.9.16?classifier=sources
+- pkg:maven/com.qcloud.cos/qcloud-cos-android-base@5.9.16?type=aar

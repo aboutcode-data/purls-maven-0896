@@ -1,0 +1,2 @@
+- pkg:maven/com.playtika.testcontainers/embedded-keydb@3.0.4
+- pkg:maven/com.playtika.testcontainers/embedded-keydb@3.0.4?classifier=sources

@@ -450,6 +450,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.32?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.scheduler@8.0.4

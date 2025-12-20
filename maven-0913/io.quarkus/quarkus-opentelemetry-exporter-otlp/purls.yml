@@ -84,6 +84,7 @@
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@2.16.0.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@2.16.1.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@2.16.10.Final
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@2.16.11.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@2.16.2.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@2.16.3.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@2.16.4.Final
@@ -205,7 +206,15 @@
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.2.3.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.2.4.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.2.5.Final
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.2.6.Final
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.3.0
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.3.0.CR1
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.3.1
 - pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.3.2
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.3.3
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.4.0
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.4.0.CR1
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.4.1
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.4.2
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.4.3
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-otlp@3.5.0.CR1

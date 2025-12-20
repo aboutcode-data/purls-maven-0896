@@ -4,3 +4,5 @@
 - pkg:maven/org.ogc-schemas/wami-v_1_0_1@4.0.0?classifier=sources
 - pkg:maven/org.ogc-schemas/wami-v_1_0_1@5.0.0
 - pkg:maven/org.ogc-schemas/wami-v_1_0_1@5.0.0?classifier=sources
+- pkg:maven/org.ogc-schemas/wami-v_1_0_1@5.0.1
+- pkg:maven/org.ogc-schemas/wami-v_1_0_1@5.0.1?classifier=sources

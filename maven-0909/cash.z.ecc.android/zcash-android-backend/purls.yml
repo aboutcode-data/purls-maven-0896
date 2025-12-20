@@ -2,3 +2,10 @@
 - pkg:maven/cash.z.ecc.android/zcash-android-backend@1.18.0-beta01?classifier=sources
 - pkg:maven/cash.z.ecc.android/zcash-android-backend@1.19.0-beta01?classifier=sources
 - pkg:maven/cash.z.ecc.android/zcash-android-backend@1.20.0-beta01?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-backend@1.21.0-beta01?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-backend@2.0.0-rc.1?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-backend@2.0.0-rc.2?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-backend@2.0.0-rc.3?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-backend@2.0.0-rc.4?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-backend@2.0.0?classifier=sources
+- pkg:maven/cash.z.ecc.android/zcash-android-backend@2.0.1?classifier=sources

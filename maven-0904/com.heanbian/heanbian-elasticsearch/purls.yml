@@ -16,3 +16,5 @@
 - pkg:maven/com.heanbian/heanbian-elasticsearch@14?classifier=sources
 - pkg:maven/com.heanbian/heanbian-elasticsearch@15.1
 - pkg:maven/com.heanbian/heanbian-elasticsearch@15.1?classifier=sources
+- pkg:maven/com.heanbian/heanbian-elasticsearch@16.1
+- pkg:maven/com.heanbian/heanbian-elasticsearch@16.1?classifier=sources

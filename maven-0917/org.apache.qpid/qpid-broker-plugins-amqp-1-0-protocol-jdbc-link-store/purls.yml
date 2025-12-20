@@ -60,3 +60,5 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-jdbc-link-store@8.0.6?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-jdbc-link-store@9.0.0
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-jdbc-link-store@9.0.0?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-jdbc-link-store@9.1.0
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-1-0-protocol-jdbc-link-store@9.1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.github.bumptech.glide/sqljournaldiskcache@4.16.0?classifier=sources
+- pkg:maven/com.github.bumptech.glide/sqljournaldiskcache@5.0.0-rc01?classifier=sources

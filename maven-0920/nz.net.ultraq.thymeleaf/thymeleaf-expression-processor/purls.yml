@@ -15,3 +15,4 @@
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@3.0.0?classifier=sources
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@3.1.0?classifier=sources
 - pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@3.1.1?classifier=sources
+- pkg:maven/nz.net.ultraq.thymeleaf/thymeleaf-expression-processor@3.2.0?classifier=sources

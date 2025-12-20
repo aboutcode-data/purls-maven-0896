@@ -101,6 +101,8 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@1.0.9
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@1.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.0?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.10
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.10?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.2
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.2?classifier=sources
@@ -114,6 +116,9 @@
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@10.0.9?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@11.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@11.0.1?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@11.0.2?classifier=sources
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@11.0.3
+- pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@11.0.3?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@2.0.0
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.yangtools/yang-xpath-impl@2.0.1

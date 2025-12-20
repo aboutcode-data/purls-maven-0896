@@ -1,3 +1,5 @@
 - pkg:maven/io.github.limbo-world/flowjob-worker-core@1.0.0
 - pkg:maven/io.github.limbo-world/flowjob-worker-core@1.0.1
 - pkg:maven/io.github.limbo-world/flowjob-worker-core@1.0.1?classifier=sources
+- pkg:maven/io.github.limbo-world/flowjob-worker-core@2.0.0
+- pkg:maven/io.github.limbo-world/flowjob-worker-core@2.0.0?classifier=sources

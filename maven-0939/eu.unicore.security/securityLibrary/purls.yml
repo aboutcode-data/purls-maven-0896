@@ -44,3 +44,5 @@
 - pkg:maven/eu.unicore.security/securityLibrary@6.0.8?classifier=sources
 - pkg:maven/eu.unicore.security/securityLibrary@6.0.9
 - pkg:maven/eu.unicore.security/securityLibrary@6.0.9?classifier=sources
+- pkg:maven/eu.unicore.security/securityLibrary@7.0.0
+- pkg:maven/eu.unicore.security/securityLibrary@7.0.0?classifier=sources

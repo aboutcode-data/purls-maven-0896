@@ -122,3 +122,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.8.2?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.8.3
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.8.3?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.9.0
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-kubernetes@2.9.0?classifier=sources

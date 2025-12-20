@@ -5,3 +5,9 @@
 - pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.2.2?classifier=sources
 - pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.2.3
 - pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.2.3?classifier=sources
+- pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.2.4
+- pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.2.4?classifier=sources
+- pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.3.0
+- pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.3.0?classifier=sources
+- pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.3.1
+- pkg:maven/com.brinvex.util/brinvex-util-persistence-api@1.3.1?classifier=sources

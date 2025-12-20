@@ -8,7 +8,9 @@
 - pkg:maven/org.flowable/flowable-http-common@6.7.2?classifier=sources
 - pkg:maven/org.flowable/flowable-http-common@6.8.0
 - pkg:maven/org.flowable/flowable-http-common@6.8.0?classifier=sources
+- pkg:maven/org.flowable/flowable-http-common@7.0.0
 - pkg:maven/org.flowable/flowable-http-common@7.0.0.M1
 - pkg:maven/org.flowable/flowable-http-common@7.0.0.M1?classifier=sources
 - pkg:maven/org.flowable/flowable-http-common@7.0.0.M2
 - pkg:maven/org.flowable/flowable-http-common@7.0.0.M2?classifier=sources
+- pkg:maven/org.flowable/flowable-http-common@7.0.0?classifier=sources

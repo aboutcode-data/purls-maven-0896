@@ -18,3 +18,5 @@
 - pkg:maven/com.att.research.xacml/xacml-pdp@3.1.0?classifier=sources
 - pkg:maven/com.att.research.xacml/xacml-pdp@3.2.0
 - pkg:maven/com.att.research.xacml/xacml-pdp@3.2.0?classifier=sources
+- pkg:maven/com.att.research.xacml/xacml-pdp@4.0.0
+- pkg:maven/com.att.research.xacml/xacml-pdp@4.0.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.camel/camel-tooling-maven@3.21.0
 - pkg:maven/org.apache.camel/camel-tooling-maven@3.21.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-tooling-maven@3.21.1
+- pkg:maven/org.apache.camel/camel-tooling-maven@3.21.1?classifier=sources
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-M3
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-M3?classifier=sources
@@ -8,3 +10,7 @@
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-RC2
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0-RC2?classifier=sources
 - pkg:maven/org.apache.camel/camel-tooling-maven@4.0.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-tooling-maven@4.0.1
+- pkg:maven/org.apache.camel/camel-tooling-maven@4.0.1?classifier=sources
+- pkg:maven/org.apache.camel/camel-tooling-maven@4.1.0
+- pkg:maven/org.apache.camel/camel-tooling-maven@4.1.0?classifier=sources

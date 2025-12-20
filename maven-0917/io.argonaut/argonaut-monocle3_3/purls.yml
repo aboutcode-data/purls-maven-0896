@@ -2,3 +2,5 @@
 - pkg:maven/io.argonaut/argonaut-monocle3_3@6.3.7?classifier=sources
 - pkg:maven/io.argonaut/argonaut-monocle3_3@6.3.8
 - pkg:maven/io.argonaut/argonaut-monocle3_3@6.3.8?classifier=sources
+- pkg:maven/io.argonaut/argonaut-monocle3_3@6.3.9
+- pkg:maven/io.argonaut/argonaut-monocle3_3@6.3.9?classifier=sources

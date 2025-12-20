@@ -21,3 +21,4 @@
 - pkg:maven/io.kvision/kvision-ballast@6.5.2?classifier=sources
 - pkg:maven/io.kvision/kvision-ballast@6.6.0?classifier=sources
 - pkg:maven/io.kvision/kvision-ballast@7.0.0?classifier=sources
+- pkg:maven/io.kvision/kvision-ballast@7.0.1?classifier=sources

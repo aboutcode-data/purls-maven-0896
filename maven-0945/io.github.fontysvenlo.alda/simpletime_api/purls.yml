@@ -6,3 +6,5 @@
 - pkg:maven/io.github.fontysvenlo.alda/simpletime_api@1.03
 - pkg:maven/io.github.fontysvenlo.alda/simpletime_api@1.03?classifier=sources
 - pkg:maven/io.github.fontysvenlo.alda/simpletime_api@1.0?classifier=sources
+- pkg:maven/io.github.fontysvenlo.alda/simpletime_api@2.5
+- pkg:maven/io.github.fontysvenlo.alda/simpletime_api@2.5?classifier=sources

@@ -40,3 +40,13 @@
 - pkg:maven/com.aliyun/darabonba-java-core@0.1.8-beta?classifier=sources
 - pkg:maven/com.aliyun/darabonba-java-core@0.1.9-beta
 - pkg:maven/com.aliyun/darabonba-java-core@0.1.9-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.0-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.0-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.1-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.1-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.2-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.2-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.3-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.3-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.4-beta
+- pkg:maven/com.aliyun/darabonba-java-core@0.2.4-beta?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.google.apis/google-api-services-apigeeregistry@v1-rev20230127-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apigeeregistry@v1-rev20230802-2.0.0
 - pkg:maven/com.google.apis/google-api-services-apigeeregistry@v1-rev20230802-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigeeregistry@v1-rev20230928-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigeeregistry@v1-rev20230928-2.0.0?classifier=sources

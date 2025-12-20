@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun/ros-cdk-devops@1.0.19
+- pkg:maven/com.aliyun/ros-cdk-devops@1.0.19?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-devops@1.0.20
+- pkg:maven/com.aliyun/ros-cdk-devops@1.0.20?classifier=sources

@@ -8,3 +8,9 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.20.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.21.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.21.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.22.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.22.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.23.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.23.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.24.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-dwc@4.24.0?classifier=sources

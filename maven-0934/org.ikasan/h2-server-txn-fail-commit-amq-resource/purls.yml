@@ -18,3 +18,7 @@
 - pkg:maven/org.ikasan/h2-server-txn-fail-commit-amq-resource@3.2.2?classifier=sources
 - pkg:maven/org.ikasan/h2-server-txn-fail-commit-amq-resource@3.2.3
 - pkg:maven/org.ikasan/h2-server-txn-fail-commit-amq-resource@3.2.3?classifier=sources
+- pkg:maven/org.ikasan/h2-server-txn-fail-commit-amq-resource@3.3.0
+- pkg:maven/org.ikasan/h2-server-txn-fail-commit-amq-resource@3.3.0?classifier=sources
+- pkg:maven/org.ikasan/h2-server-txn-fail-commit-amq-resource@3.3.1
+- pkg:maven/org.ikasan/h2-server-txn-fail-commit-amq-resource@3.3.1?classifier=sources

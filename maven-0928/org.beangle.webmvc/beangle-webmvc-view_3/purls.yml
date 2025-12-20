@@ -28,3 +28,5 @@
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-view_3@0.9.7?classifier=sources
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-view_3@0.9.8
 - pkg:maven/org.beangle.webmvc/beangle-webmvc-view_3@0.9.8?classifier=sources
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-view_3@0.9.9
+- pkg:maven/org.beangle.webmvc/beangle-webmvc-view_3@0.9.9?classifier=sources

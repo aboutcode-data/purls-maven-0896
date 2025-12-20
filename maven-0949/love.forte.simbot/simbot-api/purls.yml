@@ -56,3 +56,5 @@
 - pkg:maven/love.forte.simbot/simbot-api@3.0.0?classifier=sources
 - pkg:maven/love.forte.simbot/simbot-api@3.1.0?classifier=sources
 - pkg:maven/love.forte.simbot/simbot-api@3.2.0?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-api@3.3.0-beta1?classifier=sources
+- pkg:maven/love.forte.simbot/simbot-api@3.3.0?classifier=sources

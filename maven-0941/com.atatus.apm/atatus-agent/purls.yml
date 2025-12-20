@@ -10,3 +10,5 @@
 - pkg:maven/com.atatus.apm/atatus-agent@1.4.2?classifier=sources
 - pkg:maven/com.atatus.apm/atatus-agent@1.5.0
 - pkg:maven/com.atatus.apm/atatus-agent@1.5.0?classifier=sources
+- pkg:maven/com.atatus.apm/atatus-agent@2.0.0
+- pkg:maven/com.atatus.apm/atatus-agent@2.0.0?classifier=sources

@@ -64,6 +64,8 @@
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.24.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.25.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.25.0?classifier=sources
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.26.0
+- pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.26.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.3.0
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.3.0?classifier=sources
 - pkg:maven/org.eclipse.rap/org.eclipse.rap.filedialog@3.4.0

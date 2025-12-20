@@ -127,3 +127,4 @@
 - pkg:maven/au.com.dius.pact.provider/lein@4.6.0?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.6.1?classifier=sources
 - pkg:maven/au.com.dius.pact.provider/lein@4.6.2?classifier=sources
+- pkg:maven/au.com.dius.pact.provider/lein@4.6.3?classifier=sources

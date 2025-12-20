@@ -1,0 +1,2 @@
+- pkg:maven/org.cardanofoundation/hydra-java-core@0.0.6
+- pkg:maven/org.cardanofoundation/hydra-java-core@0.0.6?classifier=sources

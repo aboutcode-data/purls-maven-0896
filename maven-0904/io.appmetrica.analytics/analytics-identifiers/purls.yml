@@ -1,1 +1,2 @@
 - pkg:maven/io.appmetrica.analytics/analytics-identifiers@6.0.0-RC?classifier=sources
+- pkg:maven/io.appmetrica.analytics/analytics-identifiers@6.0.0?classifier=sources

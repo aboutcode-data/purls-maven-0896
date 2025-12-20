@@ -62,3 +62,9 @@
 - pkg:maven/com.gccloud/dataset-core@1.0.1.2023083001.Alpha?classifier=sources
 - pkg:maven/com.gccloud/dataset-core@1.0.1.2023083101.Alpha
 - pkg:maven/com.gccloud/dataset-core@1.0.1.2023083101.Alpha?classifier=sources
+- pkg:maven/com.gccloud/dataset-core@1.0.1.2023091801.Alpha
+- pkg:maven/com.gccloud/dataset-core@1.0.1.2023091801.Alpha?classifier=sources
+- pkg:maven/com.gccloud/dataset-core@1.0.1.2023092101.Alpha
+- pkg:maven/com.gccloud/dataset-core@1.0.1.2023092101.Alpha?classifier=sources
+- pkg:maven/com.gccloud/dataset-core@1.0.1.2023092201.Alpha
+- pkg:maven/com.gccloud/dataset-core@1.0.1.2023092201.Alpha?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.dynamoframework/dynamo-integration-camel@2.9.4?classifier=sources
 - pkg:maven/org.dynamoframework/dynamo-integration-camel@3.0.0
 - pkg:maven/org.dynamoframework/dynamo-integration-camel@3.0.0?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-integration-camel@3.0.1
+- pkg:maven/org.dynamoframework/dynamo-integration-camel@3.0.1?classifier=sources

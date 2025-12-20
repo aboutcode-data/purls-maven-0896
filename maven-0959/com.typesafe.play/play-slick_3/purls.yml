@@ -4,3 +4,5 @@
 - pkg:maven/com.typesafe.play/play-slick_3@5.2.0-M2?classifier=sources
 - pkg:maven/com.typesafe.play/play-slick_3@5.2.0-M3
 - pkg:maven/com.typesafe.play/play-slick_3@5.2.0-M3?classifier=sources
+- pkg:maven/com.typesafe.play/play-slick_3@5.2.0-RC1
+- pkg:maven/com.typesafe.play/play-slick_3@5.2.0-RC1?classifier=sources

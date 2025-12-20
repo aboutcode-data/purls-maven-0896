@@ -24,5 +24,9 @@
 - pkg:maven/org.webjars.npm/lit@2.7.1?classifier=sources
 - pkg:maven/org.webjars.npm/lit@2.7.5
 - pkg:maven/org.webjars.npm/lit@2.7.5?classifier=sources
+- pkg:maven/org.webjars.npm/lit@2.8.0
+- pkg:maven/org.webjars.npm/lit@2.8.0?classifier=sources
 - pkg:maven/org.webjars.npm/lit@3.0.0-pre.0
 - pkg:maven/org.webjars.npm/lit@3.0.0-pre.0?classifier=sources
+- pkg:maven/org.webjars.npm/lit@3.0.0-pre.1
+- pkg:maven/org.webjars.npm/lit@3.0.0-pre.1?classifier=sources

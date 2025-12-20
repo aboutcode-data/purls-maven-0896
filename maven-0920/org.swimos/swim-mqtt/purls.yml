@@ -13,3 +13,4 @@
 - pkg:maven/org.swimos/swim-mqtt@3.9.3?classifier=sources
 - pkg:maven/org.swimos/swim-mqtt@4.0.0?classifier=sources
 - pkg:maven/org.swimos/swim-mqtt@4.0.1?classifier=sources
+- pkg:maven/org.swimos/swim-mqtt@4.1.0.12?classifier=sources

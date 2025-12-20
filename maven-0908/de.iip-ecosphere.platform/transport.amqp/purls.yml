@@ -8,3 +8,4 @@
 - pkg:maven/de.iip-ecosphere.platform/transport.amqp@0.4.0?classifier=sources
 - pkg:maven/de.iip-ecosphere.platform/transport.amqp@0.5.0
 - pkg:maven/de.iip-ecosphere.platform/transport.amqp@0.5.0?classifier=sources
+- pkg:maven/de.iip-ecosphere.platform/transport.amqp@0.6.0

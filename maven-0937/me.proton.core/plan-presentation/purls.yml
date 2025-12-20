@@ -35,6 +35,12 @@
 - pkg:maven/me.proton.core/plan-presentation@14.1.0?classifier=sources
 - pkg:maven/me.proton.core/plan-presentation@15.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-presentation@15.1.0?classifier=sources
+- pkg:maven/me.proton.core/plan-presentation@16.0.0?classifier=sources
+- pkg:maven/me.proton.core/plan-presentation@16.1.0?classifier=sources
+- pkg:maven/me.proton.core/plan-presentation@17.0.0?classifier=sources
+- pkg:maven/me.proton.core/plan-presentation@17.0.1?classifier=sources
+- pkg:maven/me.proton.core/plan-presentation@17.0.2?classifier=sources
+- pkg:maven/me.proton.core/plan-presentation@17.0.3?classifier=sources
 - pkg:maven/me.proton.core/plan-presentation@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/plan-presentation@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-presentation@3.0.0?classifier=sources

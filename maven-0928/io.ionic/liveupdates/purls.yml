@@ -14,3 +14,4 @@
 - pkg:maven/io.ionic/liveupdates@0.4.0?classifier=sources
 - pkg:maven/io.ionic/liveupdates@0.4.1?classifier=sources
 - pkg:maven/io.ionic/liveupdates@0.5.0-beta-1?classifier=sources
+- pkg:maven/io.ionic/liveupdates@0.5.0-beta-2?classifier=sources

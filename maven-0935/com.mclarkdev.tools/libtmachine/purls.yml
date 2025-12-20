@@ -1,1 +1,2 @@
 - pkg:maven/com.mclarkdev.tools/libtmachine@1.0?classifier=sources
+- pkg:maven/com.mclarkdev.tools/libtmachine@1.5.1?classifier=sources

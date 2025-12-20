@@ -20,3 +20,11 @@
 - pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.15.5?classifier=sources
 - pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.15.6
 - pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.15.6?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.16.0
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.16.0?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.16.1
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.16.1?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.16.2
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@2.16.2?classifier=sources
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@3.0.0
+- pkg:maven/com.jkoolcloud/tnt4j-kafka-sink@3.0.0?classifier=sources

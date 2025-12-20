@@ -4,3 +4,9 @@
 - pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-M6?classifier=sources
 - pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-M7
 - pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-M7?classifier=sources
+- pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-RC1
+- pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-RC1?classifier=sources
+- pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-RC2
+- pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-RC2?classifier=sources
+- pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-RC3
+- pkg:maven/com.typesafe.play/play-docs-sbt-plugin_2.12_1.0@2.9.0-RC3?classifier=sources

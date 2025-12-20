@@ -1,0 +1,6 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-bedrock@1.12.560
+- pkg:maven/com.amazonaws/aws-java-sdk-bedrock@1.12.560?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-bedrock@1.12.561
+- pkg:maven/com.amazonaws/aws-java-sdk-bedrock@1.12.561?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-bedrock@1.12.562
+- pkg:maven/com.amazonaws/aws-java-sdk-bedrock@1.12.562?classifier=sources

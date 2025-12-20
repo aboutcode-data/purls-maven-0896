@@ -1,0 +1,2 @@
+- pkg:maven/com.atomgraph.etl.aws.kinesis/xslt-transform@1.0.2
+- pkg:maven/com.atomgraph.etl.aws.kinesis/xslt-transform@1.0.2?classifier=sources

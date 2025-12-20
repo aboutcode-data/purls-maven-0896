@@ -1,0 +1,10 @@
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@2.0.8
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@2.0.8?classifier=sources
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@2.0.9
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@2.0.9?classifier=sources
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@3.0.0
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@3.0.0?classifier=sources
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@3.0.1
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@3.0.1?classifier=sources
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@4.0.0
+- pkg:maven/org.jvnet.jaxb/hyperjaxb3-maven-plugin-testing@4.0.0?classifier=sources

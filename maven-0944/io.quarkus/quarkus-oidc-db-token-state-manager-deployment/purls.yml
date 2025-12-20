@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.0.CR1
+- pkg:maven/io.quarkus/quarkus-oidc-db-token-state-manager-deployment@3.5.0.CR1?classifier=sources

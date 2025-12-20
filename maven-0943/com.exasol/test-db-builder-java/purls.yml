@@ -42,3 +42,5 @@
 - pkg:maven/com.exasol/test-db-builder-java@3.4.2?classifier=sources
 - pkg:maven/com.exasol/test-db-builder-java@3.5.0
 - pkg:maven/com.exasol/test-db-builder-java@3.5.0?classifier=sources
+- pkg:maven/com.exasol/test-db-builder-java@3.5.1
+- pkg:maven/com.exasol/test-db-builder-java@3.5.1?classifier=sources

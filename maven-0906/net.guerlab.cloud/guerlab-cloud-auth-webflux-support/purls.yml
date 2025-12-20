@@ -32,3 +32,5 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2023.0.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2023.2.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2023.2.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2023.3.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-auth-webflux-support@2023.3.0?classifier=sources

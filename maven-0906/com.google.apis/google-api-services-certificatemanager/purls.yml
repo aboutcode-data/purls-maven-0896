@@ -36,3 +36,5 @@
 - pkg:maven/com.google.apis/google-api-services-certificatemanager@v1-rev20230802-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-certificatemanager@v1-rev20230809-2.0.0
 - pkg:maven/com.google.apis/google-api-services-certificatemanager@v1-rev20230809-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-certificatemanager@v1-rev20230906-2.0.0
+- pkg:maven/com.google.apis/google-api-services-certificatemanager@v1-rev20230906-2.0.0?classifier=sources

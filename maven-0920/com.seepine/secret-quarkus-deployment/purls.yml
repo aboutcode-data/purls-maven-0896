@@ -55,6 +55,8 @@
 - pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.35?classifier=sources
 - pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.36
 - pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.36?classifier=sources
+- pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.37
+- pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.37?classifier=sources
 - pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.3?classifier=sources
 - pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.4
 - pkg:maven/com.seepine/secret-quarkus-deployment@1.0.0-beta.4?classifier=sources

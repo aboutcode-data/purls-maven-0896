@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.logging/log4j-jmx-gui@2.21.0
+- pkg:maven/org.apache.logging/log4j-jmx-gui@2.21.0?classifier=sources

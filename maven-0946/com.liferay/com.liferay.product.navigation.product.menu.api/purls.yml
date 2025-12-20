@@ -126,3 +126,4 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@7.1.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@7.1.2
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@7.1.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.api@8.0.0?classifier=sources

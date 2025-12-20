@@ -1,0 +1,12 @@
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.157
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.157?classifier=sources
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.158
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.158?classifier=sources
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.159
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.159?classifier=sources
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.160
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.160?classifier=sources
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.161
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.161?classifier=sources
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.162
+- pkg:maven/software.amazon.awssdk/bedrockruntime@2.20.162?classifier=sources

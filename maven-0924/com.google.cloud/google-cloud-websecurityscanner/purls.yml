@@ -257,6 +257,10 @@
 - pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.22.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.23.0
 - pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.23.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.24.0
+- pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.24.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.27.0
+- pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.27.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.3.0
 - pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-websecurityscanner@2.4.0

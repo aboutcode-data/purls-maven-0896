@@ -8,3 +8,5 @@
 - pkg:maven/io.github.dbstarll.utils/utils-net-api@1.0.4?classifier=sources
 - pkg:maven/io.github.dbstarll.utils/utils-net-api@1.1.0
 - pkg:maven/io.github.dbstarll.utils/utils-net-api@1.1.0?classifier=sources
+- pkg:maven/io.github.dbstarll.utils/utils-net-api@1.1.1
+- pkg:maven/io.github.dbstarll.utils/utils-net-api@1.1.1?classifier=sources

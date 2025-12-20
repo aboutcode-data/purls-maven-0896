@@ -90,3 +90,5 @@
 - pkg:maven/org.springblade/blade-core-cloud@3.5.0?classifier=sources
 - pkg:maven/org.springblade/blade-core-cloud@3.6.0
 - pkg:maven/org.springblade/blade-core-cloud@3.6.0?classifier=sources
+- pkg:maven/org.springblade/blade-core-cloud@3.7.0
+- pkg:maven/org.springblade/blade-core-cloud@3.7.0?classifier=sources

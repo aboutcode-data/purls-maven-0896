@@ -125,3 +125,4 @@
 - pkg:maven/com.datadoghq/jmxfetch@0.47.8
 - pkg:maven/com.datadoghq/jmxfetch@0.47.8?classifier=sources
 - pkg:maven/com.datadoghq/jmxfetch@0.47.9?classifier=sources
+- pkg:maven/com.datadoghq/jmxfetch@0.48.0?classifier=sources

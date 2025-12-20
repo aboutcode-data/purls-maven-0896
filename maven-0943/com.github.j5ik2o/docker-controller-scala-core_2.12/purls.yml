@@ -649,6 +649,14 @@
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.3
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.30
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.30?classifier=sources
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.31
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.31?classifier=sources
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.32
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.32?classifier=sources
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.33
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.33?classifier=sources
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.34
+- pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.34?classifier=sources
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.3?classifier=sources
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.4
 - pkg:maven/com.github.j5ik2o/docker-controller-scala-core_2.12@1.15.4?classifier=sources

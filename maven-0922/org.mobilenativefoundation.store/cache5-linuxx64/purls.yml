@@ -3,3 +3,4 @@
 - pkg:maven/org.mobilenativefoundation.store/cache5-linuxx64@5.0.0-beta01?classifier=sources
 - pkg:maven/org.mobilenativefoundation.store/cache5-linuxx64@5.0.0-beta02?classifier=sources
 - pkg:maven/org.mobilenativefoundation.store/cache5-linuxx64@5.0.0-beta03?classifier=sources
+- pkg:maven/org.mobilenativefoundation.store/cache5-linuxx64@5.0.0?classifier=sources

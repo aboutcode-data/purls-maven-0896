@@ -68,6 +68,10 @@
 - pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.3.7?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.30.0
 - pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.30.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.31.0
+- pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.31.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.34.0
+- pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.34.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.4.0
 - pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-recommendations-ai@0.4.1

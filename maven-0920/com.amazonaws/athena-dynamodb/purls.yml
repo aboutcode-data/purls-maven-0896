@@ -28,3 +28,9 @@
 - pkg:maven/com.amazonaws/athena-dynamodb@2023.35.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-dynamodb@2023.35.2
 - pkg:maven/com.amazonaws/athena-dynamodb@2023.35.2?classifier=sources
+- pkg:maven/com.amazonaws/athena-dynamodb@2023.37.1
+- pkg:maven/com.amazonaws/athena-dynamodb@2023.37.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-dynamodb@2023.37.2
+- pkg:maven/com.amazonaws/athena-dynamodb@2023.37.2?classifier=sources
+- pkg:maven/com.amazonaws/athena-dynamodb@2023.38.1
+- pkg:maven/com.amazonaws/athena-dynamodb@2023.38.1?classifier=sources

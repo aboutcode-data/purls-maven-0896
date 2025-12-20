@@ -50,3 +50,5 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/dtbook-to-pef@9.0.1?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/dtbook-to-pef@9.1.0
 - pkg:maven/org.daisy.pipeline.modules.braille/dtbook-to-pef@9.1.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/dtbook-to-pef@9.1.1
+- pkg:maven/org.daisy.pipeline.modules.braille/dtbook-to-pef@9.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.appengine/shared-sdk-jetty9@2.0.20
+- pkg:maven/com.google.appengine/shared-sdk-jetty9@2.0.20?classifier=sources

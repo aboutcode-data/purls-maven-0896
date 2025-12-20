@@ -52,6 +52,8 @@
 - pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.14.0?classifier=sources
 - pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.15.0
 - pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.15.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.16.Final
+- pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.16.Final?classifier=sources
 - pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.2.0
 - pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.2.0?classifier=sources
 - pkg:maven/cn.herodotus.engine/web-spring-boot-starter@2.7.2.1

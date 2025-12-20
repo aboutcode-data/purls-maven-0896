@@ -1,1 +1,4 @@
 - pkg:maven/aws.sdk.kotlin/pcaconnectorad@0.32.0-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/pcaconnectorad@0.32.1-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/pcaconnectorad@0.32.2-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/pcaconnectorad@0.32.3-beta?classifier=sources

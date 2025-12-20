@@ -1,0 +1,6 @@
+- pkg:maven/software.amazon.awssdk/datazone@2.20.160
+- pkg:maven/software.amazon.awssdk/datazone@2.20.160?classifier=sources
+- pkg:maven/software.amazon.awssdk/datazone@2.20.161
+- pkg:maven/software.amazon.awssdk/datazone@2.20.161?classifier=sources
+- pkg:maven/software.amazon.awssdk/datazone@2.20.162
+- pkg:maven/software.amazon.awssdk/datazone@2.20.162?classifier=sources

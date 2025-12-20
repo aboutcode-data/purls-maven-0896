@@ -71,3 +71,4 @@
 - pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.8?classifier=sources
 - pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.90?classifier=sources
 - pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.91?classifier=sources
+- pkg:maven/org.webpieces.cloud/cloud-api-lib@2.1.93?classifier=sources

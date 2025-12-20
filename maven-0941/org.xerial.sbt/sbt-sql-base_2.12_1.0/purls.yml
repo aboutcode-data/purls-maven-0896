@@ -2,3 +2,5 @@
 - pkg:maven/org.xerial.sbt/sbt-sql-base_2.12_1.0@0.15?classifier=sources
 - pkg:maven/org.xerial.sbt/sbt-sql-base_2.12_1.0@0.16
 - pkg:maven/org.xerial.sbt/sbt-sql-base_2.12_1.0@0.16?classifier=sources
+- pkg:maven/org.xerial.sbt/sbt-sql-base_2.12_1.0@0.17
+- pkg:maven/org.xerial.sbt/sbt-sql-base_2.12_1.0@0.17?classifier=sources

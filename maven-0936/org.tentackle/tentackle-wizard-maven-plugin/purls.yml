@@ -36,6 +36,8 @@
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.12.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.13.0.0
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.13.0.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.14.0.0
+- pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.14.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.8.0.0
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.8.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@17.9.0.0
@@ -44,6 +46,8 @@
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@2.1.6?classifier=sources
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@2.2.0
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@2.2.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@21.15.0.0
+- pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@21.15.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@8.2.2.0
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@8.2.2.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-wizard-maven-plugin@8.2.3.0
