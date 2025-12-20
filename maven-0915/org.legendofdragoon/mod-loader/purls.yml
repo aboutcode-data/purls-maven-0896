@@ -7,3 +7,7 @@
 - pkg:maven/org.legendofdragoon/mod-loader@3.0.2?classifier=sources
 - pkg:maven/org.legendofdragoon/mod-loader@3.0.3?classifier=sources
 - pkg:maven/org.legendofdragoon/mod-loader@3.0.4?classifier=sources
+- pkg:maven/org.legendofdragoon/mod-loader@4.0.0?classifier=sources
+- pkg:maven/org.legendofdragoon/mod-loader@4.0.1?classifier=sources
+- pkg:maven/org.legendofdragoon/mod-loader@4.1.0?classifier=sources
+- pkg:maven/org.legendofdragoon/mod-loader@4.2.0?classifier=sources

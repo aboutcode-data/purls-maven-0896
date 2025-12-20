@@ -124,6 +124,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.12.8?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.12.9?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.13.0?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-ganglia@1.13.10?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.13.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.13.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.13.3?classifier=sources
@@ -136,6 +137,7 @@
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.14.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.14.1?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.14.2?classifier=sources
+- pkg:maven/io.micrometer/micrometer-registry-ganglia@1.14.3?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.2.0
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.2.0?classifier=sources
 - pkg:maven/io.micrometer/micrometer-registry-ganglia@1.2.1

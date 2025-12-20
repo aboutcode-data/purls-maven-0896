@@ -68,4 +68,5 @@
 - pkg:maven/org.odpi.egeria/audit-log-framework@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/audit-log-framework@5.0?classifier=sources
 - pkg:maven/org.odpi.egeria/audit-log-framework@5.1?classifier=sources
+- pkg:maven/org.odpi.egeria/audit-log-framework@5.2.1?classifier=sources
 - pkg:maven/org.odpi.egeria/audit-log-framework@5.2?classifier=sources

@@ -106,3 +106,7 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sasl-oke-workload-identity@3.55.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sasl-oke-workload-identity@3.55.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sasl-oke-workload-identity@3.55.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sasl-oke-workload-identity@3.55.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sasl-oke-workload-identity@3.55.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sasl-oke-workload-identity@3.55.3
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-addons-sasl-oke-workload-identity@3.55.3?classifier=sources

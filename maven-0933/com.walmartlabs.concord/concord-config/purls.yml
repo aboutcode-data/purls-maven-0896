@@ -4,3 +4,5 @@
 - pkg:maven/com.walmartlabs.concord/concord-config@2.19.0?classifier=sources
 - pkg:maven/com.walmartlabs.concord/concord-config@2.20.0
 - pkg:maven/com.walmartlabs.concord/concord-config@2.20.0?classifier=sources
+- pkg:maven/com.walmartlabs.concord/concord-config@2.21.0
+- pkg:maven/com.walmartlabs.concord/concord-config@2.21.0?classifier=sources

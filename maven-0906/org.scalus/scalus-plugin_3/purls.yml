@@ -30,3 +30,5 @@
 - pkg:maven/org.scalus/scalus-plugin_3@0.8.3?classifier=sources
 - pkg:maven/org.scalus/scalus-plugin_3@0.8.4
 - pkg:maven/org.scalus/scalus-plugin_3@0.8.4?classifier=sources
+- pkg:maven/org.scalus/scalus-plugin_3@0.8.5
+- pkg:maven/org.scalus/scalus-plugin_3@0.8.5?classifier=sources

@@ -50,6 +50,10 @@
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.34?classifier=sources
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.35
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.35?classifier=sources
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.36
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.36?classifier=sources
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.37
+- pkg:maven/de.taimos/dvalin-monitoring-logging@1.37?classifier=sources
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.8
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.8?classifier=sources
 - pkg:maven/de.taimos/dvalin-monitoring-logging@1.9

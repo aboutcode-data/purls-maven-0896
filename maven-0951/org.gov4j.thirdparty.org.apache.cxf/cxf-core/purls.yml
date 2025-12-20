@@ -1,2 +1,4 @@
 - pkg:maven/org.gov4j.thirdparty.org.apache.cxf/cxf-core@3.6.4-gov4j-1?classifier=sources
+- pkg:maven/org.gov4j.thirdparty.org.apache.cxf/cxf-core@3.6.5-gov4j-1?classifier=sources
 - pkg:maven/org.gov4j.thirdparty.org.apache.cxf/cxf-core@4.0.5-gov4j-1?classifier=sources
+- pkg:maven/org.gov4j.thirdparty.org.apache.cxf/cxf-core@4.1.0-gov4j-1?classifier=sources

@@ -156,3 +156,5 @@
 - pkg:maven/com.vonage/client-sdk-voice@1.7.2-beta.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@1.7.2-rc.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@1.7.2?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.0.0-alpha.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.0.0-alpha.1?classifier=sources

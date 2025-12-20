@@ -94,3 +94,9 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@5.0.5.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@5.0.6.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@5.0.6.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@5.0.7.Final
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@5.0.7.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.0.Beta1
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.0.Beta1?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.0.Beta2
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.0.Beta2?classifier=sources

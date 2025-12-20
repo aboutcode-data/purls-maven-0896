@@ -25,3 +25,4 @@
 - pkg:maven/org.opentcs/opentcs-strategies-default@6.1.1?classifier=sources
 - pkg:maven/org.opentcs/opentcs-strategies-default@6.1.2?classifier=sources
 - pkg:maven/org.opentcs/opentcs-strategies-default@6.2.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-strategies-default@6.3.0?classifier=sources

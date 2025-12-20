@@ -66,3 +66,11 @@
 - pkg:maven/com.fluxtion/server@0.1.52?classifier=sources
 - pkg:maven/com.fluxtion/server@0.1.53
 - pkg:maven/com.fluxtion/server@0.1.53?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.54
+- pkg:maven/com.fluxtion/server@0.1.54?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.55
+- pkg:maven/com.fluxtion/server@0.1.55?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.56
+- pkg:maven/com.fluxtion/server@0.1.56?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.57
+- pkg:maven/com.fluxtion/server@0.1.57?classifier=sources

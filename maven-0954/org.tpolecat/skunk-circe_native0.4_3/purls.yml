@@ -25,6 +25,8 @@
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@0.6.4
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@0.6.4?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M1
+- pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M10
+- pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M10?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M1?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M4
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M4?classifier=sources
@@ -36,6 +38,8 @@
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M7?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M8
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M8?classifier=sources
+- pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M9
+- pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.0.0-M9?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.1.0-M2
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.1.0-M2?classifier=sources
 - pkg:maven/org.tpolecat/skunk-circe_native0.4_3@1.1.0-M3

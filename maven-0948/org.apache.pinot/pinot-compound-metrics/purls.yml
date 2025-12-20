@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pinot/pinot-compound-metrics@1.3.0
+- pkg:maven/org.apache.pinot/pinot-compound-metrics@1.3.0?classifier=sources

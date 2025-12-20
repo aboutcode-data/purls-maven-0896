@@ -23,3 +23,5 @@
 - pkg:maven/org.lockss.laaws/laaws-metadata-extraction-service@2.8.0
 - pkg:maven/org.lockss.laaws/laaws-metadata-extraction-service@2.8.0?classifier=sources
 - pkg:maven/org.lockss.laaws/laaws-metadata-extraction-service@2.8.1?classifier=sources
+- pkg:maven/org.lockss.laaws/laaws-metadata-extraction-service@2.8.2
+- pkg:maven/org.lockss.laaws/laaws-metadata-extraction-service@2.8.2?classifier=sources

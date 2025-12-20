@@ -14,3 +14,5 @@
 - pkg:maven/com.kosdev.kos.core/core.commons.kab@1.3.0?classifier=sources
 - pkg:maven/com.kosdev.kos.core/core.commons.kab@1.4.0
 - pkg:maven/com.kosdev.kos.core/core.commons.kab@1.4.0?classifier=sources
+- pkg:maven/com.kosdev.kos.core/core.commons.kab@1.4.2
+- pkg:maven/com.kosdev.kos.core/core.commons.kab@1.4.2?classifier=sources

@@ -76,6 +76,7 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-nexmark@2.6.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-nexmark@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-nexmark@2.61.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-nexmark@2.62.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-nexmark@2.7.0
 - pkg:maven/org.apache.beam/beam-sdks-java-nexmark@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-nexmark@2.8.0

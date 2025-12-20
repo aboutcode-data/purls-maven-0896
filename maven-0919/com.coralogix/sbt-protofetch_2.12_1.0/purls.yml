@@ -1,2 +1,4 @@
+- pkg:maven/com.coralogix/sbt-protofetch_2.12_1.0@0.1.0
 - pkg:maven/com.coralogix/sbt-protofetch_2.12_1.0@0.1.0-RC3
 - pkg:maven/com.coralogix/sbt-protofetch_2.12_1.0@0.1.0-RC3?classifier=sources
+- pkg:maven/com.coralogix/sbt-protofetch_2.12_1.0@0.1.0?classifier=sources

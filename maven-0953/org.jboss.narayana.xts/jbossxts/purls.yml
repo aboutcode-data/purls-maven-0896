@@ -242,3 +242,7 @@
 - pkg:maven/org.jboss.narayana.xts/jbossxts@7.0.2.Final?classifier=sources
 - pkg:maven/org.jboss.narayana.xts/jbossxts@7.1.0.Final
 - pkg:maven/org.jboss.narayana.xts/jbossxts@7.1.0.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.xts/jbossxts@7.2.0.Final
+- pkg:maven/org.jboss.narayana.xts/jbossxts@7.2.0.Final?classifier=sources
+- pkg:maven/org.jboss.narayana.xts/jbossxts@7.2.1.Final
+- pkg:maven/org.jboss.narayana.xts/jbossxts@7.2.1.Final?classifier=sources

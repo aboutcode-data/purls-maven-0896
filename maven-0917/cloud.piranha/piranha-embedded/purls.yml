@@ -120,3 +120,5 @@
 - pkg:maven/cloud.piranha/piranha-embedded@24.8.0?classifier=sources
 - pkg:maven/cloud.piranha/piranha-embedded@24.9.0
 - pkg:maven/cloud.piranha/piranha-embedded@24.9.0?classifier=sources
+- pkg:maven/cloud.piranha/piranha-embedded@25.1.0
+- pkg:maven/cloud.piranha/piranha-embedded@25.1.0?classifier=sources

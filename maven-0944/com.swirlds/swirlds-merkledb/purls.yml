@@ -40,3 +40,9 @@
 - pkg:maven/com.swirlds/swirlds-merkledb@0.57.1?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.57.2?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.57.3?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.57.4?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.57.5?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.58.1?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.58.2?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.58.3?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.58.4?classifier=sources

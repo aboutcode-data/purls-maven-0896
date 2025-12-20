@@ -32,3 +32,5 @@
 - pkg:maven/org.daisy.pipeline.modules.braille/libhyphen-utils@3.2.1?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules.braille/libhyphen-utils@3.3.0
 - pkg:maven/org.daisy.pipeline.modules.braille/libhyphen-utils@3.3.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules.braille/libhyphen-utils@3.4.0
+- pkg:maven/org.daisy.pipeline.modules.braille/libhyphen-utils@3.4.0?classifier=sources

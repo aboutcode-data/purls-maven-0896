@@ -1414,6 +1414,8 @@
 - pkg:maven/io.streamnative/pulsar-io-solr@3.0.8.2-shaded
 - pkg:maven/io.streamnative/pulsar-io-solr@3.0.8.2-shaded?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@3.0.8.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-solr@3.0.8.3
+- pkg:maven/io.streamnative/pulsar-io-solr@3.0.8.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@3.1.0.1
 - pkg:maven/io.streamnative/pulsar-io-solr@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@3.1.0.2
@@ -1516,6 +1518,10 @@
 - pkg:maven/io.streamnative/pulsar-io-solr@3.3.2.6?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@3.3.2.7
 - pkg:maven/io.streamnative/pulsar-io-solr@3.3.2.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-solr@3.3.3.1
+- pkg:maven/io.streamnative/pulsar-io-solr@3.3.3.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-solr@3.3.3.2
+- pkg:maven/io.streamnative/pulsar-io-solr@3.3.3.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@3.4.0-SNAPSHOT.ursa0815
 - pkg:maven/io.streamnative/pulsar-io-solr@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@4.0.0-SNAPSHOT.ursa
@@ -1542,6 +1548,8 @@
 - pkg:maven/io.streamnative/pulsar-io-solr@4.0.0.8?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@4.0.0.9
 - pkg:maven/io.streamnative/pulsar-io-solr@4.0.0.9?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-solr@4.0.1.1
+- pkg:maven/io.streamnative/pulsar-io-solr@4.0.1.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-io-solr@master-rc-daily?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-solr@v2.8.0-rc-202106091140

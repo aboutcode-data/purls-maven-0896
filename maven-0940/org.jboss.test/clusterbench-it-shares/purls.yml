@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.test/clusterbench-it-shares@12.0.0.Final
+- pkg:maven/org.jboss.test/clusterbench-it-shares@12.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.test/clusterbench-it-shares@12.0.1.Final
+- pkg:maven/org.jboss.test/clusterbench-it-shares@12.0.1.Final?classifier=sources

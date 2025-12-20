@@ -8,3 +8,5 @@
 - pkg:maven/io.gitee.dqcer/mcdull-framework-enforcer@0.1.2-RELEASE?classifier=sources
 - pkg:maven/io.gitee.dqcer/mcdull-framework-enforcer@0.1.3-RELEASE
 - pkg:maven/io.gitee.dqcer/mcdull-framework-enforcer@0.1.3-RELEASE?classifier=sources
+- pkg:maven/io.gitee.dqcer/mcdull-framework-enforcer@0.2.0
+- pkg:maven/io.gitee.dqcer/mcdull-framework-enforcer@0.2.0?classifier=sources

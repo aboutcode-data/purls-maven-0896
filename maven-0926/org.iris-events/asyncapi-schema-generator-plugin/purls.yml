@@ -42,3 +42,7 @@
 - pkg:maven/org.iris-events/asyncapi-schema-generator-plugin@6.1.7?classifier=sources
 - pkg:maven/org.iris-events/asyncapi-schema-generator-plugin@6.1.8
 - pkg:maven/org.iris-events/asyncapi-schema-generator-plugin@6.1.8?classifier=sources
+- pkg:maven/org.iris-events/asyncapi-schema-generator-plugin@6.2.0
+- pkg:maven/org.iris-events/asyncapi-schema-generator-plugin@6.2.0?classifier=sources
+- pkg:maven/org.iris-events/asyncapi-schema-generator-plugin@6.2.1
+- pkg:maven/org.iris-events/asyncapi-schema-generator-plugin@6.2.1?classifier=sources

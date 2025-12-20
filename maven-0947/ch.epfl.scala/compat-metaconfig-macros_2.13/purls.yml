@@ -1,2 +1,4 @@
 - pkg:maven/ch.epfl.scala/compat-metaconfig-macros_2.13@0.13.0
 - pkg:maven/ch.epfl.scala/compat-metaconfig-macros_2.13@0.13.0?classifier=sources
+- pkg:maven/ch.epfl.scala/compat-metaconfig-macros_2.13@0.14.0
+- pkg:maven/ch.epfl.scala/compat-metaconfig-macros_2.13@0.14.0?classifier=sources

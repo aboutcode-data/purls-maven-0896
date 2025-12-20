@@ -32,3 +32,5 @@
 - pkg:maven/zone.src.sheaf/java-sheaf@1.0.5?classifier=sources
 - pkg:maven/zone.src.sheaf/java-sheaf@1.1.0
 - pkg:maven/zone.src.sheaf/java-sheaf@1.1.0?classifier=sources
+- pkg:maven/zone.src.sheaf/java-sheaf@1.1.1
+- pkg:maven/zone.src.sheaf/java-sheaf@1.1.1?classifier=sources

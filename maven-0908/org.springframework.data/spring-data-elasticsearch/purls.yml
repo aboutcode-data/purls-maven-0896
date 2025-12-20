@@ -442,7 +442,17 @@
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@5.3.6?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@5.3.7
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@5.3.7?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.3.8
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.3.8?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.3.9
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.3.9?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.0
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.1
 - pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.1?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.2
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.2?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.3
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@5.4.3?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@6.0.0-M1
+- pkg:maven/org.springframework.data/spring-data-elasticsearch@6.0.0-M1?classifier=sources

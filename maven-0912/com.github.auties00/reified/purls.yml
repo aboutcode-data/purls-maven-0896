@@ -30,3 +30,5 @@
 - pkg:maven/com.github.auties00/reified@1.8?classifier=sources
 - pkg:maven/com.github.auties00/reified@1.9
 - pkg:maven/com.github.auties00/reified@1.9?classifier=sources
+- pkg:maven/com.github.auties00/reified@2.0
+- pkg:maven/com.github.auties00/reified@2.0?classifier=sources

@@ -8,5 +8,7 @@
 - pkg:maven/io.github.josecarlosbran/seleniumutils@1.1.3.6?classifier=sources
 - pkg:maven/io.github.josecarlosbran/seleniumutils@1.1.3.7?classifier=sources
 - pkg:maven/io.github.josecarlosbran/seleniumutils@1.1.3.8?classifier=sources
+- pkg:maven/io.github.josecarlosbran/seleniumutils@1.1.3.9?classifier=sources
 - pkg:maven/io.github.josecarlosbran/seleniumutils@1.1.3?classifier=sources
+- pkg:maven/io.github.josecarlosbran/seleniumutils@1.1.4?classifier=sources
 - pkg:maven/io.github.josecarlosbran/seleniumutils@1.1?classifier=sources

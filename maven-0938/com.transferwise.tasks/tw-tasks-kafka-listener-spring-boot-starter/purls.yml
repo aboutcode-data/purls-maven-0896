@@ -33,3 +33,4 @@
 - pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.47.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.48.0?classifier=sources
 - pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.48.2?classifier=sources
+- pkg:maven/com.transferwise.tasks/tw-tasks-kafka-listener-spring-boot-starter@1.49.0?classifier=sources

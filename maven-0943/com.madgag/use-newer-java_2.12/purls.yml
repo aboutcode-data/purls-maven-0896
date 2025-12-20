@@ -1,0 +1,10 @@
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.0
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.0?classifier=sources
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.1
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.1-PREVIEW.try-to-compile-with-older-version-of-java.2025-01-17T2233.e5d40666
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.1-PREVIEW.try-to-compile-with-older-version-of-java.2025-01-17T2233.e5d40666?classifier=sources
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.1?classifier=sources
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.2-PREVIEW.see-if-sbt-version-policy-works-with-a-simple-java-project.2025-01-17T2314.48e6c2dd
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.2-PREVIEW.see-if-sbt-version-policy-works-with-a-simple-java-project.2025-01-17T2314.48e6c2dd?classifier=sources
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.2-PREVIEW.see-if-sbt-version-policy-works-with-a-simple-java-project.2025-01-17T2321.c23226bc
+- pkg:maven/com.madgag/use-newer-java_2.12@1.0.2-PREVIEW.see-if-sbt-version-policy-works-with-a-simple-java-project.2025-01-17T2321.c23226bc?classifier=sources

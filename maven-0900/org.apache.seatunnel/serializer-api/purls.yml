@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.seatunnel/serializer-api@2.3.7?classifier=sources
 - pkg:maven/org.apache.seatunnel/serializer-api@2.3.8
 - pkg:maven/org.apache.seatunnel/serializer-api@2.3.8?classifier=sources
+- pkg:maven/org.apache.seatunnel/serializer-api@2.3.9
+- pkg:maven/org.apache.seatunnel/serializer-api@2.3.9?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.moloco.sdk.adapters/admob@3.3.0.0?classifier=sources
 - pkg:maven/com.moloco.sdk.adapters/admob@3.4.0.0?classifier=sources
 - pkg:maven/com.moloco.sdk.adapters/admob@3.5.0?classifier=sources
+- pkg:maven/com.moloco.sdk.adapters/admob@3.6.0.0?classifier=sources

@@ -59,3 +59,5 @@
 - pkg:maven/com.feiniaojin/graceful-response@5.0.3-boot3?classifier=sources
 - pkg:maven/com.feiniaojin/graceful-response@5.0.4-boot3
 - pkg:maven/com.feiniaojin/graceful-response@5.0.4-boot3?classifier=sources
+- pkg:maven/com.feiniaojin/graceful-response@5.0.5-boot3
+- pkg:maven/com.feiniaojin/graceful-response@5.0.5-boot3?classifier=sources

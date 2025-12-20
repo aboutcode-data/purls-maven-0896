@@ -27,4 +27,13 @@
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.0.3-alpha-e865ba2-m0w9cdsp?classifier=sources
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.1?classifier=sources
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-m01-9db53bf-m4i39wxm?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-test1-ff872408-m60lyrs4?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-test2-96a3329f-m60nw8g2?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-test3-96a3329f-m60okj4b?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-test4-96a3329f-m60pyiyo?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-test5-96a3329f-m60r3zws?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-test6-54054210-m60rvwzi?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@3.1.2-test7-5d6d9506-m60uol4s?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@4.0.0-jakarta-m001-6cdaaa6-m5gf9rqt?classifier=sources
+- pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@4.0.0-jakarta-m001?classifier=sources
 - pkg:maven/com.atlassian.plugins/atlassian-clientside-extensions-runtime@4.0.0-m01-8612d31-m4igvz6q?classifier=sources

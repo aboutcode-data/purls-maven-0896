@@ -4,3 +4,4 @@
 - pkg:maven/com.github.alorma.compose-settings/storage-disk-js@2.4.0?classifier=sources
 - pkg:maven/com.github.alorma.compose-settings/storage-disk-js@2.5.0?classifier=sources
 - pkg:maven/com.github.alorma.compose-settings/storage-disk-js@2.6.0?classifier=sources
+- pkg:maven/com.github.alorma.compose-settings/storage-disk-js@2.8.0?classifier=sources

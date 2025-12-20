@@ -8,3 +8,4 @@
 - pkg:maven/org.opencadc/cadc-tap-schema@1.2.1?classifier=sources
 - pkg:maven/org.opencadc/cadc-tap-schema@1.2.2?classifier=sources
 - pkg:maven/org.opencadc/cadc-tap-schema@1.2.3?classifier=sources
+- pkg:maven/org.opencadc/cadc-tap-schema@1.2.4?classifier=sources

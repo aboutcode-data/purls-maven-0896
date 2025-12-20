@@ -28,3 +28,5 @@
 - pkg:maven/build.buf.protoc-gen-validate/pgv-java-grpc@1.0.4?classifier=sources
 - pkg:maven/build.buf.protoc-gen-validate/pgv-java-grpc@1.1.0
 - pkg:maven/build.buf.protoc-gen-validate/pgv-java-grpc@1.1.0?classifier=sources
+- pkg:maven/build.buf.protoc-gen-validate/pgv-java-grpc@1.2.1
+- pkg:maven/build.buf.protoc-gen-validate/pgv-java-grpc@1.2.1?classifier=sources

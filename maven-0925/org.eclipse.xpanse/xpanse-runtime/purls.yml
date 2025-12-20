@@ -5,4 +5,6 @@
 - pkg:maven/org.eclipse.xpanse/xpanse-runtime@1.0.21?classifier=sources
 - pkg:maven/org.eclipse.xpanse/xpanse-runtime@1.0.22?classifier=sources
 - pkg:maven/org.eclipse.xpanse/xpanse-runtime@1.0.23?classifier=sources
+- pkg:maven/org.eclipse.xpanse/xpanse-runtime@1.0.24?classifier=sources
+- pkg:maven/org.eclipse.xpanse/xpanse-runtime@1.0.25?classifier=sources
 - pkg:maven/org.eclipse.xpanse/xpanse-runtime@1.0.2?classifier=sources

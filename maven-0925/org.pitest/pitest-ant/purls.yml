@@ -118,6 +118,14 @@
 - pkg:maven/org.pitest/pitest-ant@1.17.2?classifier=sources
 - pkg:maven/org.pitest/pitest-ant@1.17.3
 - pkg:maven/org.pitest/pitest-ant@1.17.3?classifier=sources
+- pkg:maven/org.pitest/pitest-ant@1.17.4
+- pkg:maven/org.pitest/pitest-ant@1.17.4?classifier=sources
+- pkg:maven/org.pitest/pitest-ant@1.18.0
+- pkg:maven/org.pitest/pitest-ant@1.18.0?classifier=sources
+- pkg:maven/org.pitest/pitest-ant@1.18.1
+- pkg:maven/org.pitest/pitest-ant@1.18.1?classifier=sources
+- pkg:maven/org.pitest/pitest-ant@1.18.2
+- pkg:maven/org.pitest/pitest-ant@1.18.2?classifier=sources
 - pkg:maven/org.pitest/pitest-ant@1.2.0
 - pkg:maven/org.pitest/pitest-ant@1.2.0?classifier=sources
 - pkg:maven/org.pitest/pitest-ant@1.2.1

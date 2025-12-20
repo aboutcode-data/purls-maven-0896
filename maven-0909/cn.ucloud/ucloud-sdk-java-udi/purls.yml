@@ -46,6 +46,8 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.34-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.35-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.35-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.36-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.36-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.7-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.7-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-udi@1.2.8-release

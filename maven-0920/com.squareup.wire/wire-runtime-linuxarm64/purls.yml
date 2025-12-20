@@ -11,3 +11,5 @@
 - pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@5.0.0-alpha04?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@5.0.0?classifier=sources
 - pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@5.1.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@5.2.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-runtime-linuxarm64@5.2.1?classifier=sources

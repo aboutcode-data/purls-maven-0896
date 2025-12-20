@@ -6,3 +6,7 @@
 - pkg:maven/org.foundationdb/fdb-record-layer-spatial@2.8.90.0?classifier=sources
 - pkg:maven/org.foundationdb/fdb-record-layer-spatial@2.8.91.0
 - pkg:maven/org.foundationdb/fdb-record-layer-spatial@2.8.91.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-spatial@4.1.4.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-spatial@4.1.5.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-spatial@4.1.6.0?classifier=sources
+- pkg:maven/org.foundationdb/fdb-record-layer-spatial@4.1.8.0?classifier=sources

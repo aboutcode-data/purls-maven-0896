@@ -46,5 +46,7 @@
 - pkg:maven/org.bardframework.form/bard-form@3.7.4?classifier=sources
 - pkg:maven/org.bardframework.form/bard-form@3.8.4
 - pkg:maven/org.bardframework.form/bard-form@3.8.4?classifier=sources
+- pkg:maven/org.bardframework.form/bard-form@3.9.14
+- pkg:maven/org.bardframework.form/bard-form@3.9.14?classifier=sources
 - pkg:maven/org.bardframework.form/bard-form@3.9.4
 - pkg:maven/org.bardframework.form/bard-form@3.9.4?classifier=sources

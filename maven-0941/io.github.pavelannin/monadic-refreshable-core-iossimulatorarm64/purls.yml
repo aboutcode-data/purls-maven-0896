@@ -1,0 +1,3 @@
+- pkg:maven/io.github.pavelannin/monadic-refreshable-core-iossimulatorarm64@%220.1.0%22?classifier=sources
+- pkg:maven/io.github.pavelannin/monadic-refreshable-core-iossimulatorarm64@0.1.0?classifier=sources
+- pkg:maven/io.github.pavelannin/monadic-refreshable-core-iossimulatorarm64@0.2.0?classifier=sources

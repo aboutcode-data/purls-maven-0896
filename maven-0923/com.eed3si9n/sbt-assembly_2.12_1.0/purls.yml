@@ -10,3 +10,5 @@
 - pkg:maven/com.eed3si9n/sbt-assembly_2.12_1.0@2.2.0?classifier=sources
 - pkg:maven/com.eed3si9n/sbt-assembly_2.12_1.0@2.3.0
 - pkg:maven/com.eed3si9n/sbt-assembly_2.12_1.0@2.3.0?classifier=sources
+- pkg:maven/com.eed3si9n/sbt-assembly_2.12_1.0@2.3.1
+- pkg:maven/com.eed3si9n/sbt-assembly_2.12_1.0@2.3.1?classifier=sources

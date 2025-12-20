@@ -7,3 +7,4 @@
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@7.3.1?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@8.0.0?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@9.6.1?classifier=sources
+- pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@9.6.2?classifier=sources

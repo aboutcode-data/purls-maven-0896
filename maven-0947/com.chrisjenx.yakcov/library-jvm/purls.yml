@@ -21,3 +21,4 @@
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01-5?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-rc01?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.3?classifier=sources

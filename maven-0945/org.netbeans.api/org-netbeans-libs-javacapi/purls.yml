@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javacapi@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javacapi@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javacapi@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-javacapi@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-javacapi@RELEASE90?classifier=sources

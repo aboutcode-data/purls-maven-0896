@@ -32,6 +32,8 @@
 - pkg:maven/net.sf.py4j/py4j@0.10.9.7?classifier=sources
 - pkg:maven/net.sf.py4j/py4j@0.10.9.8
 - pkg:maven/net.sf.py4j/py4j@0.10.9.8?classifier=sources
+- pkg:maven/net.sf.py4j/py4j@0.10.9.9
+- pkg:maven/net.sf.py4j/py4j@0.10.9.9?classifier=sources
 - pkg:maven/net.sf.py4j/py4j@0.10.9?classifier=sources
 - pkg:maven/net.sf.py4j/py4j@0.8.1
 - pkg:maven/net.sf.py4j/py4j@0.8.1?classifier=sources

@@ -17,6 +17,7 @@
 - pkg:maven/io.ksmt/ksmt-bitwuzla-native-windows-x64@0.5.26?classifier=sources
 - pkg:maven/io.ksmt/ksmt-bitwuzla-native-windows-x64@0.5.27?classifier=sources
 - pkg:maven/io.ksmt/ksmt-bitwuzla-native-windows-x64@0.5.28?classifier=sources
+- pkg:maven/io.ksmt/ksmt-bitwuzla-native-windows-x64@0.5.29?classifier=sources
 - pkg:maven/io.ksmt/ksmt-bitwuzla-native-windows-x64@0.5.8-draft?classifier=sources
 - pkg:maven/io.ksmt/ksmt-bitwuzla-native-windows-x64@0.5.8?classifier=sources
 - pkg:maven/io.ksmt/ksmt-bitwuzla-native-windows-x64@0.5.9?classifier=sources

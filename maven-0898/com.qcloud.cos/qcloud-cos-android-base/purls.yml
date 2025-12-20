@@ -34,3 +34,5 @@
 - pkg:maven/com.qcloud.cos/qcloud-cos-android-base@5.9.32?type=aar
 - pkg:maven/com.qcloud.cos/qcloud-cos-android-base@5.9.33?classifier=sources
 - pkg:maven/com.qcloud.cos/qcloud-cos-android-base@5.9.33?type=aar
+- pkg:maven/com.qcloud.cos/qcloud-cos-android-base@5.9.34-beta?classifier=sources
+- pkg:maven/com.qcloud.cos/qcloud-cos-android-base@5.9.34-beta?type=aar

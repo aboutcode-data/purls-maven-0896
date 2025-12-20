@@ -8,3 +8,6 @@
 - pkg:maven/ro.ciprianpascu/j2sbus@1.5.0.OH?classifier=sources
 - pkg:maven/ro.ciprianpascu/j2sbus@1.5.2?classifier=sources
 - pkg:maven/ro.ciprianpascu/j2sbus@1.5.4?classifier=sources
+- pkg:maven/ro.ciprianpascu/j2sbus@1.5.5?classifier=sources
+- pkg:maven/ro.ciprianpascu/j2sbus@1.5.6?classifier=sources
+- pkg:maven/ro.ciprianpascu/j2sbus@1.5.7?classifier=sources

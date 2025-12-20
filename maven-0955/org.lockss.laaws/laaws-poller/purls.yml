@@ -21,3 +21,5 @@
 - pkg:maven/org.lockss.laaws/laaws-poller@2.7.0
 - pkg:maven/org.lockss.laaws/laaws-poller@2.7.0?classifier=sources
 - pkg:maven/org.lockss.laaws/laaws-poller@2.7.1?classifier=sources
+- pkg:maven/org.lockss.laaws/laaws-poller@2.7.2
+- pkg:maven/org.lockss.laaws/laaws-poller@2.7.2?classifier=sources

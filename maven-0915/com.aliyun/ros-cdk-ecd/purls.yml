@@ -46,3 +46,5 @@
 - pkg:maven/com.aliyun/ros-cdk-ecd@1.4.0?classifier=sources
 - pkg:maven/com.aliyun/ros-cdk-ecd@1.5.0
 - pkg:maven/com.aliyun/ros-cdk-ecd@1.5.0?classifier=sources
+- pkg:maven/com.aliyun/ros-cdk-ecd@1.6.0
+- pkg:maven/com.aliyun/ros-cdk-ecd@1.6.0?classifier=sources

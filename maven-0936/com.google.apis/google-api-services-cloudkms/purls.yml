@@ -362,6 +362,8 @@
 - pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev20240926-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev20241111-2.0.0
 - pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev20241111-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev20250102-2.0.0
+- pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev20250102-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-cloudkms@v1-rev21-1.20.0

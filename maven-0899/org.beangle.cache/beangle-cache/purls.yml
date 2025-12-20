@@ -4,6 +4,8 @@
 - pkg:maven/org.beangle.cache/beangle-cache@0.1.11?classifier=sources
 - pkg:maven/org.beangle.cache/beangle-cache@0.1.12
 - pkg:maven/org.beangle.cache/beangle-cache@0.1.12?classifier=sources
+- pkg:maven/org.beangle.cache/beangle-cache@0.1.13
+- pkg:maven/org.beangle.cache/beangle-cache@0.1.13?classifier=sources
 - pkg:maven/org.beangle.cache/beangle-cache@0.1.8
 - pkg:maven/org.beangle.cache/beangle-cache@0.1.8?classifier=sources
 - pkg:maven/org.beangle.cache/beangle-cache@0.1.9

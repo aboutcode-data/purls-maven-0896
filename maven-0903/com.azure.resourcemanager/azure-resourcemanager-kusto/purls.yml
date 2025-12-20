@@ -11,3 +11,4 @@
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-kusto@1.0.0-beta.7?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-kusto@1.0.0?classifier=sources
 - pkg:maven/com.azure.resourcemanager/azure-resourcemanager-kusto@1.1.0?classifier=sources
+- pkg:maven/com.azure.resourcemanager/azure-resourcemanager-kusto@1.2.0?classifier=sources

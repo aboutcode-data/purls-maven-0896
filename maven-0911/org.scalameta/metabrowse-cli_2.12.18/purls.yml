@@ -6,3 +6,7 @@
 - pkg:maven/org.scalameta/metabrowse-cli_2.12.18@0.2.12?classifier=sources
 - pkg:maven/org.scalameta/metabrowse-cli_2.12.18@0.2.13
 - pkg:maven/org.scalameta/metabrowse-cli_2.12.18@0.2.13?classifier=sources
+- pkg:maven/org.scalameta/metabrowse-cli_2.12.18@0.2.15
+- pkg:maven/org.scalameta/metabrowse-cli_2.12.18@0.2.15-1
+- pkg:maven/org.scalameta/metabrowse-cli_2.12.18@0.2.15-1?classifier=sources
+- pkg:maven/org.scalameta/metabrowse-cli_2.12.18@0.2.15?classifier=sources

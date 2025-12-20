@@ -1,4 +1,8 @@
+- pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.10
+- pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.10?classifier=sources
 - pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.7
 - pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.7?classifier=sources
 - pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.8
 - pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.8?classifier=sources
+- pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.9
+- pkg:maven/org.eclipse.esmf/esmf-native-support@2.9.9?classifier=sources

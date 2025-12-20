@@ -16,5 +16,7 @@
 - pkg:maven/de.dm.infrastructure/micrometer-metrics-wrapper@2.0.0?classifier=sources
 - pkg:maven/de.dm.infrastructure/micrometer-metrics-wrapper@3.0.0
 - pkg:maven/de.dm.infrastructure/micrometer-metrics-wrapper@3.0.0?classifier=sources
+- pkg:maven/de.dm.infrastructure/micrometer-metrics-wrapper@3.1.0
+- pkg:maven/de.dm.infrastructure/micrometer-metrics-wrapper@3.1.0?classifier=sources
 - pkg:maven/de.dm.infrastructure/micrometer-metrics-wrapper@REF_NAME
 - pkg:maven/de.dm.infrastructure/micrometer-metrics-wrapper@REF_NAME?classifier=sources

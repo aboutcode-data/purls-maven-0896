@@ -138,3 +138,7 @@
 - pkg:maven/tech.tablesaw/tablesaw-beakerx@0.43.0?classifier=sources
 - pkg:maven/tech.tablesaw/tablesaw-beakerx@0.43.1
 - pkg:maven/tech.tablesaw/tablesaw-beakerx@0.43.1?classifier=sources
+- pkg:maven/tech.tablesaw/tablesaw-beakerx@0.44.0
+- pkg:maven/tech.tablesaw/tablesaw-beakerx@0.44.0?classifier=sources
+- pkg:maven/tech.tablesaw/tablesaw-beakerx@0.44.1
+- pkg:maven/tech.tablesaw/tablesaw-beakerx@0.44.1?classifier=sources

@@ -1,2 +1,8 @@
 - pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M12
 - pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M12?classifier=sources
+- pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M13
+- pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M13?classifier=sources
+- pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M14
+- pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M14?classifier=sources
+- pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M15
+- pkg:maven/org.cxbox/cxbox-dictionary-hibernate@4.0.0-M15?classifier=sources

@@ -98,3 +98,5 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-containerless@1.9.1?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-containerless@1.9.2
 - pkg:maven/org.arquillian.cube/arquillian-cube-containerless@1.9.2?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-containerless@2.0.0.Alpha1?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-containerless@2.0.0.Final?classifier=sources

@@ -77,3 +77,5 @@
 - pkg:maven/org.apache.camel.karaf/camel-blueprint@3.9.0?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-blueprint@4.7.0?classifier=sources
 - pkg:maven/org.apache.camel.karaf/camel-blueprint@4.8.1?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-blueprint@4.8.2?classifier=sources
+- pkg:maven/org.apache.camel.karaf/camel-blueprint@4.9.0?classifier=sources

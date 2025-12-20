@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.remoteservices.tooling.bndtools@1.0.100?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.remoteservices.tooling.bndtools@1.4.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.druid.integration-tests/druid-it-tools@31.0.0?classifier=sources
 - pkg:maven/org.apache.druid.integration-tests/druid-it-tools@31.0.1
 - pkg:maven/org.apache.druid.integration-tests/druid-it-tools@31.0.1?classifier=sources
+- pkg:maven/org.apache.druid.integration-tests/druid-it-tools@32.0.0
+- pkg:maven/org.apache.druid.integration-tests/druid-it-tools@32.0.0?classifier=sources

@@ -56,3 +56,17 @@
 - pkg:maven/com.gitee.l0km/simplemq-stomp@2.3.8?classifier=sources
 - pkg:maven/com.gitee.l0km/simplemq-stomp@2.3.9
 - pkg:maven/com.gitee.l0km/simplemq-stomp@2.3.9?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-alpha
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-alpha2
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-alpha2?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-alpha3
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-alpha3?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-alpha?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-beta
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0-beta?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.4.0?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.5.0
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.5.0?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.5.1
+- pkg:maven/com.gitee.l0km/simplemq-stomp@2.5.1?classifier=sources

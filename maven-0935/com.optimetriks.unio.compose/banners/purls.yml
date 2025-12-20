@@ -3,7 +3,14 @@
 - pkg:maven/com.optimetriks.unio.compose/banners@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@17?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@18?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@22?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/banners@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/banners@8?classifier=sources

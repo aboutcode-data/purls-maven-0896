@@ -6,3 +6,5 @@
 - pkg:maven/com.sshtools/sequins@0.0.4?classifier=sources
 - pkg:maven/com.sshtools/sequins@0.2.0
 - pkg:maven/com.sshtools/sequins@0.2.0?classifier=sources
+- pkg:maven/com.sshtools/sequins@0.2.1
+- pkg:maven/com.sshtools/sequins@0.2.1?classifier=sources

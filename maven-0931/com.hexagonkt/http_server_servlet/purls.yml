@@ -158,3 +158,4 @@
 - pkg:maven/com.hexagonkt/http_server_servlet@3.7.1?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_servlet@3.7.2?classifier=sources
 - pkg:maven/com.hexagonkt/http_server_servlet@3.7.3?classifier=sources
+- pkg:maven/com.hexagonkt/http_server_servlet@3.7.4?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.2.0?classifier=sources
 - pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.4.0-alpha
 - pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.4.0-alpha?classifier=sources
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.5.0-alpha
+- pkg:maven/org.wso2.am/org.wso2.am.integration.clients.gateway.api@4.5.0-alpha?classifier=sources

@@ -156,6 +156,9 @@
 - pkg:maven/dev.inmo/micro_utils.language_codes-android@0.23.2?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.language_codes-android@0.24.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.language_codes-android@0.24.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.language_codes-android@0.24.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.language_codes-android@0.24.3?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.language_codes-android@0.24.4?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.language_codes-android@0.5.18?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.language_codes-android@0.5.19?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.language_codes-android@0.5.20?classifier=sources

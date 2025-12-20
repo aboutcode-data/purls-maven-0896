@@ -8,3 +8,7 @@
 - pkg:maven/software.xdev/vaadin-maps-leaflet-flow@4.3.0?classifier=sources
 - pkg:maven/software.xdev/vaadin-maps-leaflet-flow@4.4.0
 - pkg:maven/software.xdev/vaadin-maps-leaflet-flow@4.4.0?classifier=sources
+- pkg:maven/software.xdev/vaadin-maps-leaflet-flow@4.5.0
+- pkg:maven/software.xdev/vaadin-maps-leaflet-flow@4.5.0?classifier=sources
+- pkg:maven/software.xdev/vaadin-maps-leaflet-flow@4.6.0
+- pkg:maven/software.xdev/vaadin-maps-leaflet-flow@4.6.0?classifier=sources

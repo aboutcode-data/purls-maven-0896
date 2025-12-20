@@ -59,3 +59,7 @@
 - pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate@4.4.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate@4.5.0?classifier=sources
 - pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate@5.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate@5.0.1?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate@5.0.2?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate@6.0.0?classifier=sources
+- pkg:maven/org.onebusaway/onebusaway-gtfs-hibernate@6.1.0?classifier=sources

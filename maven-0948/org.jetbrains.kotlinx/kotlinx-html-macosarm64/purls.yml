@@ -1,5 +1,6 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-html-macosarm64@0.10.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-html-macosarm64@0.11.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlinx-html-macosarm64@0.12.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-html-macosarm64@0.7.4?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-html-macosarm64@0.7.5?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlinx-html-macosarm64@0.8.0?classifier=sources

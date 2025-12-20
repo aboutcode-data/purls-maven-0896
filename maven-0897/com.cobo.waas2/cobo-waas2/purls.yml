@@ -7,3 +7,5 @@
 - pkg:maven/com.cobo.waas2/cobo-waas2@1.6.1?classifier=sources
 - pkg:maven/com.cobo.waas2/cobo-waas2@1.6.2?classifier=sources
 - pkg:maven/com.cobo.waas2/cobo-waas2@1.7.0?classifier=sources
+- pkg:maven/com.cobo.waas2/cobo-waas2@1.8.0?classifier=sources
+- pkg:maven/com.cobo.waas2/cobo-waas2@1.8.1?classifier=sources

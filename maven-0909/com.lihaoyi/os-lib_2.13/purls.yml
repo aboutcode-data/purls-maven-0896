@@ -38,6 +38,8 @@
 - pkg:maven/com.lihaoyi/os-lib_2.13@0.11.4-M2?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib_2.13@0.11.4-M3
 - pkg:maven/com.lihaoyi/os-lib_2.13@0.11.4-M3?classifier=sources
+- pkg:maven/com.lihaoyi/os-lib_2.13@0.11.4-M4
+- pkg:maven/com.lihaoyi/os-lib_2.13@0.11.4-M4?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib_2.13@0.3.0
 - pkg:maven/com.lihaoyi/os-lib_2.13@0.3.0?classifier=sources
 - pkg:maven/com.lihaoyi/os-lib_2.13@0.4.0

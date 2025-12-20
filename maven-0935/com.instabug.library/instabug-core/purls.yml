@@ -106,6 +106,7 @@
 - pkg:maven/com.instabug.library/instabug-core@13.4.1?classifier=sources
 - pkg:maven/com.instabug.library/instabug-core@14.0.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-core@14.1.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-core@14.2.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-core@4.1.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-core@4.1.0?type=aar
 - pkg:maven/com.instabug.library/instabug-core@4.1.1?classifier=sources

@@ -41,3 +41,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-snowflake@2.59.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-snowflake@2.60.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-snowflake@2.61.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-snowflake@2.62.0?classifier=sources

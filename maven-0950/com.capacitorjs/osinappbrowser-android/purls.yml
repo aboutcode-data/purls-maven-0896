@@ -2,3 +2,4 @@
 - pkg:maven/com.capacitorjs/osinappbrowser-android@1.1.0-tst?classifier=sources
 - pkg:maven/com.capacitorjs/osinappbrowser-android@1.2.0-dev2?classifier=sources
 - pkg:maven/com.capacitorjs/osinappbrowser-android@1.2.0?classifier=sources
+- pkg:maven/com.capacitorjs/osinappbrowser-android@1.2.1?classifier=sources

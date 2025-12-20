@@ -173,3 +173,5 @@
 - pkg:maven/com.pulumi/eks@3.7.0-alpha.1735588487?classifier=sources
 - pkg:maven/com.pulumi/eks@3.7.0-alpha.1735810000?classifier=sources
 - pkg:maven/com.pulumi/eks@3.7.0?classifier=sources
+- pkg:maven/com.pulumi/eks@3.8.0-alpha.1736267282?classifier=sources
+- pkg:maven/com.pulumi/eks@3.8.0-alpha.1736964081?classifier=sources
