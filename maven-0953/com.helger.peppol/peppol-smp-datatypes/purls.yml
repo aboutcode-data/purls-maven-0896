@@ -64,3 +64,5 @@
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.0.7?classifier=sources
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.0.8
 - pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.0.8?classifier=sources
+- pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.1.0
+- pkg:maven/com.helger.peppol/peppol-smp-datatypes@9.1.0?classifier=sources

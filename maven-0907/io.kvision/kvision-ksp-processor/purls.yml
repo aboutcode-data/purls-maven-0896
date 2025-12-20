@@ -38,3 +38,4 @@
 - pkg:maven/io.kvision/kvision-ksp-processor@6.6.0?classifier=sources
 - pkg:maven/io.kvision/kvision-ksp-processor@7.0.0?classifier=sources
 - pkg:maven/io.kvision/kvision-ksp-processor@7.0.1?classifier=sources
+- pkg:maven/io.kvision/kvision-ksp-processor@7.1.0?classifier=sources

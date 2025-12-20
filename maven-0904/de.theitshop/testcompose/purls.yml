@@ -4,4 +4,5 @@
 - pkg:maven/de.theitshop/testcompose@1.0.1?classifier=sources
 - pkg:maven/de.theitshop/testcompose@1.0.2?classifier=sources
 - pkg:maven/de.theitshop/testcompose@1.0.3?classifier=sources
+- pkg:maven/de.theitshop/testcompose@1.0.4?classifier=sources
 - pkg:maven/de.theitshop/testcompose@v0.0.2?classifier=sources

@@ -198,3 +198,5 @@
 - pkg:maven/org.zalando/logbook-core@3.4.0?classifier=sources
 - pkg:maven/org.zalando/logbook-core@3.5.0
 - pkg:maven/org.zalando/logbook-core@3.5.0?classifier=sources
+- pkg:maven/org.zalando/logbook-core@3.6.0
+- pkg:maven/org.zalando/logbook-core@3.6.0?classifier=sources

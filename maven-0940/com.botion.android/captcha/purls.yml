@@ -1,2 +1,4 @@
 - pkg:maven/com.botion.android/captcha@1.0.0?classifier=sources
 - pkg:maven/com.botion.android/captcha@1.0.0?type=aar
+- pkg:maven/com.botion.android/captcha@1.0.3?classifier=sources
+- pkg:maven/com.botion.android/captcha@1.0.3?type=aar

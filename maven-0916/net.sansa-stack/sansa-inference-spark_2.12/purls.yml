@@ -2,3 +2,5 @@
 - pkg:maven/net.sansa-stack/sansa-inference-spark_2.12@0.8.0-RC3?classifier=sources
 - pkg:maven/net.sansa-stack/sansa-inference-spark_2.12@0.8.7
 - pkg:maven/net.sansa-stack/sansa-inference-spark_2.12@0.8.7?classifier=sources
+- pkg:maven/net.sansa-stack/sansa-inference-spark_2.12@0.9.0
+- pkg:maven/net.sansa-stack/sansa-inference-spark_2.12@0.9.0?classifier=sources

@@ -106,6 +106,7 @@
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.4.3?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.4?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.5?classifier=sources
+- pkg:maven/dev.gradleplugins/gradle-plugin-development@1.6.10?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.6.1?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.6.2?classifier=sources
 - pkg:maven/dev.gradleplugins/gradle-plugin-development@1.6.3?classifier=sources

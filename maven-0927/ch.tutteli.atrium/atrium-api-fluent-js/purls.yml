@@ -2,3 +2,4 @@
 - pkg:maven/ch.tutteli.atrium/atrium-api-fluent-js@1.0.0-RC2?classifier=sources
 - pkg:maven/ch.tutteli.atrium/atrium-api-fluent-js@1.0.0?classifier=sources
 - pkg:maven/ch.tutteli.atrium/atrium-api-fluent-js@1.1.0-IR-alpha?classifier=sources
+- pkg:maven/ch.tutteli.atrium/atrium-api-fluent-js@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-tests@10.0.0-M2
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-tests@10.0.0-M2?classifier=sources

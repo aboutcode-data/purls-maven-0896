@@ -7,9 +7,12 @@
 - pkg:maven/com.foilen/jl-smalltools-main@2.4.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@2.5.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@2.5.1?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-main@2.6.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.0.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.1.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.2.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.3.0?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.3.1?classifier=sources
 - pkg:maven/com.foilen/jl-smalltools-main@3.4.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-main@3.5.0?classifier=sources
+- pkg:maven/com.foilen/jl-smalltools-main@3.6.0?classifier=sources

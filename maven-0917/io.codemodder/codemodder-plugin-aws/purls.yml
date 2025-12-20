@@ -7,3 +7,4 @@
 - pkg:maven/io.codemodder/codemodder-plugin-aws@0.67.8?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-aws@0.67.9?classifier=sources
 - pkg:maven/io.codemodder/codemodder-plugin-aws@0.68.1?classifier=sources
+- pkg:maven/io.codemodder/codemodder-plugin-aws@0.68.2?classifier=sources

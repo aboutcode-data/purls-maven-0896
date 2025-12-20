@@ -27,3 +27,11 @@
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@27.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.0.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.4.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.4.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.4.4?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.5.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.5.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.5.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.5.3?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-web-renderer-js@28.5.4?classifier=sources

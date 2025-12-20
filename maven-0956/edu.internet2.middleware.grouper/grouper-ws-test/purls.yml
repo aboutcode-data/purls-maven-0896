@@ -67,6 +67,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@2.5.66
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@2.5.67
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@2.5.68
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@2.5.69
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@2.5.8
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@2.5.9
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@2.6.0
@@ -115,6 +116,7 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@4.7.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@4.7.1
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@4.7.2
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@4.8.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@5.0.0
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@5.0.1
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@5.0.2
@@ -125,3 +127,4 @@
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@5.3.2
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@5.3.4
 - pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@5.4.0
+- pkg:maven/edu.internet2.middleware.grouper/grouper-ws-test@5.5.0

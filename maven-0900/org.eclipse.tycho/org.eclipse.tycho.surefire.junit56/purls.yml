@@ -46,3 +46,5 @@
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit56@4.0.2?classifier=sources
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit56@4.0.3
 - pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit56@4.0.3?classifier=sources
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit56@4.0.4
+- pkg:maven/org.eclipse.tycho/org.eclipse.tycho.surefire.junit56@4.0.4?classifier=sources

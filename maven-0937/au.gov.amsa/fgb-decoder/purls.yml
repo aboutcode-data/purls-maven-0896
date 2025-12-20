@@ -8,5 +8,7 @@
 - pkg:maven/au.gov.amsa/fgb-decoder@0.1.2?classifier=sources
 - pkg:maven/au.gov.amsa/fgb-decoder@0.1.3
 - pkg:maven/au.gov.amsa/fgb-decoder@0.1.3?classifier=sources
+- pkg:maven/au.gov.amsa/fgb-decoder@0.1.4
+- pkg:maven/au.gov.amsa/fgb-decoder@0.1.4?classifier=sources
 - pkg:maven/au.gov.amsa/fgb-decoder@0.1.alpha.2
 - pkg:maven/au.gov.amsa/fgb-decoder@0.1.alpha.2?classifier=sources

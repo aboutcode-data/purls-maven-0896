@@ -8,3 +8,5 @@
 - pkg:maven/jboss.jaxbintros/jboss-jaxb-intros@1.0.3.GA?classifier=sources
 - pkg:maven/jboss.jaxbintros/jboss-jaxb-intros@2.0.0
 - pkg:maven/jboss.jaxbintros/jboss-jaxb-intros@2.0.0?classifier=sources
+- pkg:maven/jboss.jaxbintros/jboss-jaxb-intros@2.0.1
+- pkg:maven/jboss.jaxbintros/jboss-jaxb-intros@2.0.1?classifier=sources

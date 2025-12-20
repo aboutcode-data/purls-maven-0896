@@ -52,3 +52,5 @@
 - pkg:maven/pro.taskana/taskana-adapter-camunda-outbox-rest-spring-boot-starter@1.8.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-adapter-camunda-outbox-rest-spring-boot-starter@1.9.0
 - pkg:maven/pro.taskana/taskana-adapter-camunda-outbox-rest-spring-boot-starter@1.9.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-adapter-camunda-outbox-rest-spring-boot-starter@2.0.0
+- pkg:maven/pro.taskana/taskana-adapter-camunda-outbox-rest-spring-boot-starter@2.0.0?classifier=sources

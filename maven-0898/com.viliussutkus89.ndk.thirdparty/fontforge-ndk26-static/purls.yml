@@ -1,0 +1,4 @@
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/fontforge-ndk26-static@20170731-beta-1?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/fontforge-ndk26-static@20170731-beta-2?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/fontforge-ndk26-static@20200314-beta-1?classifier=sources
+- pkg:maven/com.viliussutkus89.ndk.thirdparty/fontforge-ndk26-static@20230101-beta-1?classifier=sources

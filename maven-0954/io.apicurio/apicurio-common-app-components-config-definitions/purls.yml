@@ -50,5 +50,9 @@
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@0.2.1.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@0.2.2.Final
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@0.2.2.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@0.2.3.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@0.2.3.Final?classifier=sources
+- pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@0.2.4.Final
+- pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@0.2.4.Final?classifier=sources
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@1.0.16.Final
 - pkg:maven/io.apicurio/apicurio-common-app-components-config-definitions@1.0.16.Final?classifier=sources

@@ -1,2 +1,16 @@
 - pkg:maven/com.talenteca/olon-util_2.13@1.0.0
 - pkg:maven/com.talenteca/olon-util_2.13@1.0.0?classifier=sources
+- pkg:maven/com.talenteca/olon-util_2.13@2.0.0
+- pkg:maven/com.talenteca/olon-util_2.13@2.0.0?classifier=sources
+- pkg:maven/com.talenteca/olon-util_2.13@3.0.0
+- pkg:maven/com.talenteca/olon-util_2.13@3.0.0-RC1
+- pkg:maven/com.talenteca/olon-util_2.13@3.0.0-RC1?classifier=sources
+- pkg:maven/com.talenteca/olon-util_2.13@3.0.0?classifier=sources
+- pkg:maven/com.talenteca/olon-util_2.13@4.0.0
+- pkg:maven/com.talenteca/olon-util_2.13@4.0.0-RC1
+- pkg:maven/com.talenteca/olon-util_2.13@4.0.0-RC1?classifier=sources
+- pkg:maven/com.talenteca/olon-util_2.13@4.0.0?classifier=sources
+- pkg:maven/com.talenteca/olon-util_2.13@5.0.0
+- pkg:maven/com.talenteca/olon-util_2.13@5.0.0-RC1
+- pkg:maven/com.talenteca/olon-util_2.13@5.0.0-RC1?classifier=sources
+- pkg:maven/com.talenteca/olon-util_2.13@5.0.0?classifier=sources

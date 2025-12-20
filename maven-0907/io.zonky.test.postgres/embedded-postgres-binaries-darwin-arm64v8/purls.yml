@@ -2,6 +2,7 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@11.15.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@12.10.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@13.6.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@14.10.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@14.2.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@14.3.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@14.4.0?classifier=sources
@@ -15,4 +16,6 @@
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@15.2.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@15.3.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@15.4.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@15.5.0?classifier=sources
 - pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@16.0.0?classifier=sources
+- pkg:maven/io.zonky.test.postgres/embedded-postgres-binaries-darwin-arm64v8@16.1.0?classifier=sources

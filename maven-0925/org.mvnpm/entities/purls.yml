@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/entities@2.2.0?classifier=sources
+- pkg:maven/org.mvnpm/entities@4.5.0?classifier=sources

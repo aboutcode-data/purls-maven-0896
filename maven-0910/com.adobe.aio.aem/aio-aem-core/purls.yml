@@ -52,3 +52,9 @@
 - pkg:maven/com.adobe.aio.aem/aio-aem-core@1.0.7?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.0
 - pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.0?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.2
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.2?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.4
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.4?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.8
+- pkg:maven/com.adobe.aio.aem/aio-aem-core@1.1.8?classifier=sources

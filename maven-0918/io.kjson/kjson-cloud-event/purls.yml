@@ -16,3 +16,5 @@
 - pkg:maven/io.kjson/kjson-cloud-event@1.7?classifier=sources
 - pkg:maven/io.kjson/kjson-cloud-event@1.8
 - pkg:maven/io.kjson/kjson-cloud-event@1.8?classifier=sources
+- pkg:maven/io.kjson/kjson-cloud-event@1.9
+- pkg:maven/io.kjson/kjson-cloud-event@1.9?classifier=sources

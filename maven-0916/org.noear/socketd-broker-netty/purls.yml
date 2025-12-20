@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/socketd-broker-netty@2.0.1
+- pkg:maven/org.noear/socketd-broker-netty@2.0.1?classifier=sources

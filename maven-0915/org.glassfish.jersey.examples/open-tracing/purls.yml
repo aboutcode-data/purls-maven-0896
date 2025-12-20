@@ -48,6 +48,8 @@
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@2.40
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@2.40?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/open-tracing@2.41
+- pkg:maven/org.glassfish.jersey.examples/open-tracing@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.0
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.0-M1?classifier=sources
@@ -62,6 +64,8 @@
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.11
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.11?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.12
+- pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.12?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/open-tracing@3.0.2

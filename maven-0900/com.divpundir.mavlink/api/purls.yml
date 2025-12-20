@@ -17,3 +17,4 @@
 - pkg:maven/com.divpundir.mavlink/api@1.0.2?classifier=sources
 - pkg:maven/com.divpundir.mavlink/api@1.1.0-alpha?classifier=sources
 - pkg:maven/com.divpundir.mavlink/api@1.1.0?classifier=sources
+- pkg:maven/com.divpundir.mavlink/api@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@6.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor@6.1.1?classifier=sources

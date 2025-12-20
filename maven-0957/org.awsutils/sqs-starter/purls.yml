@@ -1,4 +1,5 @@
 - pkg:maven/org.awsutils/sqs-starter@1.0.0
+- pkg:maven/org.awsutils/sqs-starter@1.0.1
 - pkg:maven/org.awsutils/sqs-starter@1.0.1-beta
 - pkg:maven/org.awsutils/sqs-starter@1.0.1-beta10
 - pkg:maven/org.awsutils/sqs-starter@1.0.1-beta11
@@ -14,3 +15,8 @@
 - pkg:maven/org.awsutils/sqs-starter@1.0.1-beta7
 - pkg:maven/org.awsutils/sqs-starter@1.0.1-beta8
 - pkg:maven/org.awsutils/sqs-starter@1.0.1-beta9
+- pkg:maven/org.awsutils/sqs-starter@1.0.2-beta1
+- pkg:maven/org.awsutils/sqs-starter@1.0.2-beta2
+- pkg:maven/org.awsutils/sqs-starter@1.0.2-beta3
+- pkg:maven/org.awsutils/sqs-starter@1.0.2-beta5
+- pkg:maven/org.awsutils/sqs-starter@1.0.2-beta6

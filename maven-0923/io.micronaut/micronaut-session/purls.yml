@@ -145,6 +145,7 @@
 - pkg:maven/io.micronaut/micronaut-session@3.1.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.10.0?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.10.1?classifier=sources
+- pkg:maven/io.micronaut/micronaut-session@3.10.2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.2.0?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.2.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.2.2?classifier=sources
@@ -190,6 +191,7 @@
 - pkg:maven/io.micronaut/micronaut-session@3.8.0?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.8.10?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.8.11?classifier=sources
+- pkg:maven/io.micronaut/micronaut-session@3.8.12?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.8.1?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.8.2?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.8.3?classifier=sources
@@ -206,3 +208,4 @@
 - pkg:maven/io.micronaut/micronaut-session@3.9.4?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.9.5?classifier=sources
 - pkg:maven/io.micronaut/micronaut-session@3.9.6?classifier=sources
+- pkg:maven/io.micronaut/micronaut-session@3.9.7?classifier=sources

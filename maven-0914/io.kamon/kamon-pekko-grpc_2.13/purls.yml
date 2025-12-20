@@ -1,0 +1,2 @@
+- pkg:maven/io.kamon/kamon-pekko-grpc_2.13@2.6.6
+- pkg:maven/io.kamon/kamon-pekko-grpc_2.13@2.6.6?classifier=sources

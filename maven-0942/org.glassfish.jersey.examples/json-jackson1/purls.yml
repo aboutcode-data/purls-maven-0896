@@ -141,3 +141,5 @@
 - pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.40
 - pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.40?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.41
+- pkg:maven/org.glassfish.jersey.examples/json-jackson1@2.41?classifier=sources

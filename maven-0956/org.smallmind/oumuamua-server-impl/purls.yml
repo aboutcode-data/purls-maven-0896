@@ -1,0 +1,2 @@
+- pkg:maven/org.smallmind/oumuamua-server-impl@5.2.0
+- pkg:maven/org.smallmind/oumuamua-server-impl@5.2.0?classifier=sources

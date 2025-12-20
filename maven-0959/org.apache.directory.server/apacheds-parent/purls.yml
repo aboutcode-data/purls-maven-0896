@@ -24,3 +24,4 @@
 - pkg:maven/org.apache.directory.server/apacheds-parent@2.0.0-M9?classifier=source-release&type=zip
 - pkg:maven/org.apache.directory.server/apacheds-parent@2.0.0.AM25?classifier=source-release&type=zip
 - pkg:maven/org.apache.directory.server/apacheds-parent@2.0.0.AM26?classifier=source-release&type=zip
+- pkg:maven/org.apache.directory.server/apacheds-parent@2.0.0.AM27?classifier=source-release&type=zip

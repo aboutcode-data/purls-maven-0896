@@ -34,3 +34,9 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2023.2.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2023.3.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2023.3.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2024.0.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2024.0.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2024.1.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2024.1.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2024.2.0
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-security-core@2024.2.0?classifier=sources

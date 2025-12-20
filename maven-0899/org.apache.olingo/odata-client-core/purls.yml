@@ -18,6 +18,8 @@
 - pkg:maven/org.apache.olingo/odata-client-core@4.0.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-client-core@4.1.0
 - pkg:maven/org.apache.olingo/odata-client-core@4.1.0?classifier=sources
+- pkg:maven/org.apache.olingo/odata-client-core@4.10.0
+- pkg:maven/org.apache.olingo/odata-client-core@4.10.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-client-core@4.2.0
 - pkg:maven/org.apache.olingo/odata-client-core@4.2.0?classifier=sources
 - pkg:maven/org.apache.olingo/odata-client-core@4.3.0

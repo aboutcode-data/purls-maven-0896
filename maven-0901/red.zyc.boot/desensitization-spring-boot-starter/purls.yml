@@ -2,3 +2,5 @@
 - pkg:maven/red.zyc.boot/desensitization-spring-boot-starter@1.0.6
 - pkg:maven/red.zyc.boot/desensitization-spring-boot-starter@1.0.7
 - pkg:maven/red.zyc.boot/desensitization-spring-boot-starter@1.0.8
+- pkg:maven/red.zyc.boot/desensitization-spring-boot-starter@2.0.0
+- pkg:maven/red.zyc.boot/desensitization-spring-boot-starter@2.0.0?classifier=sources

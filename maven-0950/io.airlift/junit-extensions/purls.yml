@@ -1,2 +1,4 @@
 - pkg:maven/io.airlift/junit-extensions@1
 - pkg:maven/io.airlift/junit-extensions@1?classifier=sources
+- pkg:maven/io.airlift/junit-extensions@2
+- pkg:maven/io.airlift/junit-extensions@2?classifier=sources

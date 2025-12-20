@@ -2,3 +2,5 @@
 - pkg:maven/io.evitadb/evita_performance_tests@0.7.ALPHA?classifier=sources
 - pkg:maven/io.evitadb/evita_performance_tests@0.8.ALPHA
 - pkg:maven/io.evitadb/evita_performance_tests@0.8.ALPHA?classifier=sources
+- pkg:maven/io.evitadb/evita_performance_tests@0.9.ALPHA
+- pkg:maven/io.evitadb/evita_performance_tests@0.9.ALPHA?classifier=sources

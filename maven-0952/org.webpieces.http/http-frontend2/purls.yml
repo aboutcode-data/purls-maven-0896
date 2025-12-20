@@ -1,3 +1,4 @@
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.100?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.10?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.11?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.13?classifier=sources
@@ -72,3 +73,7 @@
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.90?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.91?classifier=sources
 - pkg:maven/org.webpieces.http/http-frontend2@2.1.93?classifier=sources
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.94?classifier=sources
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.95?classifier=sources
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.96?classifier=sources
+- pkg:maven/org.webpieces.http/http-frontend2@2.1.97?classifier=sources

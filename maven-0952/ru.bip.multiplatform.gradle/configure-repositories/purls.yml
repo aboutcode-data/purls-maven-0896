@@ -1,1 +1,2 @@
 - pkg:maven/ru.bip.multiplatform.gradle/configure-repositories@0.1.0?classifier=sources
+- pkg:maven/ru.bip.multiplatform.gradle/configure-repositories@0.1.1?classifier=sources

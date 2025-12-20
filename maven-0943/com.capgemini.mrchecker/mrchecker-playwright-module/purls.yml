@@ -34,3 +34,5 @@
 - pkg:maven/com.capgemini.mrchecker/mrchecker-playwright-module@2023.04.04?classifier=sources
 - pkg:maven/com.capgemini.mrchecker/mrchecker-playwright-module@2023.10.04
 - pkg:maven/com.capgemini.mrchecker/mrchecker-playwright-module@2023.10.04?classifier=sources
+- pkg:maven/com.capgemini.mrchecker/mrchecker-playwright-module@2023.10.10
+- pkg:maven/com.capgemini.mrchecker/mrchecker-playwright-module@2023.10.10?classifier=sources

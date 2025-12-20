@@ -1,6 +1,8 @@
 - pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.0
 - pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.1
+- pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.10
+- pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.10?classifier=sources
 - pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.2
 - pkg:maven/edu.gemini/lucuma-prime-styles_sjs1_3@0.2.2?classifier=sources

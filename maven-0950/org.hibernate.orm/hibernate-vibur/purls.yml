@@ -51,3 +51,4 @@
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.3.0.CR1?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.3.0.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.3.1.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.4.0.CR1?classifier=sources

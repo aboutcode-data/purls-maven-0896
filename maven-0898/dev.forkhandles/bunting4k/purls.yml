@@ -52,6 +52,8 @@
 - pkg:maven/dev.forkhandles/bunting4k@2.1.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/bunting4k@2.1.1.0?classifier=sources
 - pkg:maven/dev.forkhandles/bunting4k@2.1.2.0?classifier=sources
+- pkg:maven/dev.forkhandles/bunting4k@2.10.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/bunting4k@2.10.1.0?classifier=sources
 - pkg:maven/dev.forkhandles/bunting4k@2.2.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/bunting4k@2.3.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/bunting4k@2.4.0.0?classifier=sources
@@ -60,3 +62,4 @@
 - pkg:maven/dev.forkhandles/bunting4k@2.7.0.0?classifier=sources
 - pkg:maven/dev.forkhandles/bunting4k@2.7.1.0?classifier=sources
 - pkg:maven/dev.forkhandles/bunting4k@2.8.0.0?classifier=sources
+- pkg:maven/dev.forkhandles/bunting4k@2.9.0.0?classifier=sources

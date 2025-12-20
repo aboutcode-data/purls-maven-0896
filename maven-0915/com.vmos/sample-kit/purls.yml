@@ -4,3 +4,4 @@
 - pkg:maven/com.vmos/sample-kit@1.0.7?classifier=sources
 - pkg:maven/com.vmos/sample-kit@1.0.8?classifier=sources
 - pkg:maven/com.vmos/sample-kit@1.0.9?classifier=sources
+- pkg:maven/com.vmos/sample-kit@1.1.0?classifier=sources

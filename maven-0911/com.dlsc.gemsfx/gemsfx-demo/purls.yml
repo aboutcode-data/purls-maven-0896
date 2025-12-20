@@ -136,3 +136,9 @@
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.78.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.82.0
 - pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.82.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.83.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.83.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.84.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.84.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.90.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx-demo@1.90.0?classifier=sources

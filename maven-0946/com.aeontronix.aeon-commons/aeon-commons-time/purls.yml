@@ -20,3 +20,7 @@
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-time@2.0.0-beta8?classifier=sources
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-time@2.0.0-beta9
 - pkg:maven/com.aeontronix.aeon-commons/aeon-commons-time@2.0.0-beta9?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-time@2.0.0-rc1
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-time@2.0.0-rc1?classifier=sources
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-time@2.0.0-rc2
+- pkg:maven/com.aeontronix.aeon-commons/aeon-commons-time@2.0.0-rc2?classifier=sources

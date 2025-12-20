@@ -40,3 +40,11 @@
 - pkg:maven/com.commercetools/sphere-json_2.13@0.13.2?classifier=sources
 - pkg:maven/com.commercetools/sphere-json_2.13@0.14.0
 - pkg:maven/com.commercetools/sphere-json_2.13@0.14.0?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.1
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.1?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.2
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.2?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.3
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.3?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.4
+- pkg:maven/com.commercetools/sphere-json_2.13@0.14.4?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/dev.opensavvy.prepared/runner-kotest@0.2.2?classifier=sources
+- pkg:maven/dev.opensavvy.prepared/runner-kotest@0.3.0?classifier=sources
+- pkg:maven/dev.opensavvy.prepared/runner-kotest@0.4.0?classifier=sources
+- pkg:maven/dev.opensavvy.prepared/runner-kotest@0.5.0?classifier=sources
+- pkg:maven/dev.opensavvy.prepared/runner-kotest@0.6.0?classifier=sources

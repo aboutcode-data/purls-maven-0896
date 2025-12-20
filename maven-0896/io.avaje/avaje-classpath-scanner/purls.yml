@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-classpath-scanner@7.3
+- pkg:maven/io.avaje/avaje-classpath-scanner@7.3?classifier=sources

@@ -24,3 +24,5 @@
 - pkg:maven/net.pwall.json/json-functions@1.7.2
 - pkg:maven/net.pwall.json/json-functions@1.7.2?classifier=sources
 - pkg:maven/net.pwall.json/json-functions@1.7?classifier=sources
+- pkg:maven/net.pwall.json/json-functions@1.8
+- pkg:maven/net.pwall.json/json-functions@1.8?classifier=sources

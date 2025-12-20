@@ -1,0 +1,2 @@
+- pkg:maven/com.fizzed/shmemj-linux-armhf@0.0.2
+- pkg:maven/com.fizzed/shmemj-linux-armhf@0.0.2?classifier=sources

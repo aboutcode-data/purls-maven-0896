@@ -18,6 +18,10 @@
 - pkg:maven/com.netease.nimlib/qchatmedia@9.12.2?type=aar
 - pkg:maven/com.netease.nimlib/qchatmedia@9.13.0?classifier=sources
 - pkg:maven/com.netease.nimlib/qchatmedia@9.13.0?type=aar
+- pkg:maven/com.netease.nimlib/qchatmedia@9.13.1?classifier=sources
+- pkg:maven/com.netease.nimlib/qchatmedia@9.13.1?type=aar
+- pkg:maven/com.netease.nimlib/qchatmedia@9.14.0?classifier=sources
+- pkg:maven/com.netease.nimlib/qchatmedia@9.14.0?type=aar
 - pkg:maven/com.netease.nimlib/qchatmedia@9.3.0?classifier=sources
 - pkg:maven/com.netease.nimlib/qchatmedia@9.3.0?type=aar
 - pkg:maven/com.netease.nimlib/qchatmedia@9.4.0?classifier=sources

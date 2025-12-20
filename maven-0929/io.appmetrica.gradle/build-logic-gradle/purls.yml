@@ -9,3 +9,6 @@
 - pkg:maven/io.appmetrica.gradle/build-logic-gradle@2.0.0-beta%2B57?classifier=sources
 - pkg:maven/io.appmetrica.gradle/build-logic-gradle@2.0.0-beta%2B59?classifier=sources
 - pkg:maven/io.appmetrica.gradle/build-logic-gradle@2.0.0-beta%2B60?classifier=sources
+- pkg:maven/io.appmetrica.gradle/build-logic-gradle@2.0.0-beta%2B61?classifier=sources
+- pkg:maven/io.appmetrica.gradle/build-logic-gradle@2.0.0-beta%2B62?classifier=sources
+- pkg:maven/io.appmetrica.gradle/build-logic-gradle@2.0.0-beta%2B63?classifier=sources

@@ -76,3 +76,4 @@
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.9.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.90.0?classifier=sources
 - pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.91.0?classifier=sources
+- pkg:maven/tech.harmonysoft/harmonysoft-micrometer-influxdb@1.92.0?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.swimos/swim-deflate@4.0.0?classifier=sources
 - pkg:maven/org.swimos/swim-deflate@4.0.1?classifier=sources
 - pkg:maven/org.swimos/swim-deflate@4.1.0.12?classifier=sources
+- pkg:maven/org.swimos/swim-deflate@4.1.0.13?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/group.idealworld.dew/test-starter@3.0.0-RC3?classifier=sources
 - pkg:maven/group.idealworld.dew/test-starter@3.0.0-RC4
 - pkg:maven/group.idealworld.dew/test-starter@3.0.0-RC4?classifier=sources
+- pkg:maven/group.idealworld.dew/test-starter@3.0.0-RC5
+- pkg:maven/group.idealworld.dew/test-starter@3.0.0-RC5?classifier=sources

@@ -183,6 +183,8 @@
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.2
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.20
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.20?classifier=sources
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.21
+- pkg:maven/com.typesafe.play/run-support_2.10@2.8.21?classifier=sources
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.2?classifier=sources
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.3
 - pkg:maven/com.typesafe.play/run-support_2.10@2.8.3?classifier=sources

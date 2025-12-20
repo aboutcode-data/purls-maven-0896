@@ -18,3 +18,4 @@
 - pkg:maven/com.liftric/cognito-idp-iosarm64@2.8.2?classifier=sources
 - pkg:maven/com.liftric/cognito-idp-iosarm64@2.8.3?classifier=sources
 - pkg:maven/com.liftric/cognito-idp-iosarm64@2.9.0?classifier=sources
+- pkg:maven/com.liftric/cognito-idp-iosarm64@3.0.0?classifier=sources

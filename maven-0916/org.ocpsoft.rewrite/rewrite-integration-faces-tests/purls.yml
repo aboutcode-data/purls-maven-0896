@@ -1,4 +1,6 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@10.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@10.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@10.0.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@2.0.0.Alpha6
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@2.0.0.Beta1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@2.0.0.Beta2
@@ -32,8 +34,13 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@3.4.4.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@3.5.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@3.5.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@3.5.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@4.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@5.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@6.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@8.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@8.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@8.0.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@9.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@9.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-faces-tests@9.0.2.Final

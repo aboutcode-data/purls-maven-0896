@@ -1,3 +1,5 @@
+- pkg:maven/jakarta.data/jakarta-data-tck-dist@1.0.0-M1
+- pkg:maven/jakarta.data/jakarta-data-tck-dist@1.0.0-M1?classifier=sources
 - pkg:maven/jakarta.data/jakarta-data-tck-dist@1.0.0-b2
 - pkg:maven/jakarta.data/jakarta-data-tck-dist@1.0.0-b2?classifier=sources
 - pkg:maven/jakarta.data/jakarta-data-tck-dist@1.0.0-b3

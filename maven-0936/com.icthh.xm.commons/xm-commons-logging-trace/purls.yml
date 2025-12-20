@@ -56,7 +56,11 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.2.50?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.2.51
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.2.51?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.2.52
+- pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.2.52?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.1
+- pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.10
+- pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.10?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.2
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.2?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.opennms.features.measurements/org.opennms.features.measurements.api@32.0.3?classifier=sources
 - pkg:maven/org.opennms.features.measurements/org.opennms.features.measurements.api@32.0.4
 - pkg:maven/org.opennms.features.measurements/org.opennms.features.measurements.api@32.0.4?classifier=sources
+- pkg:maven/org.opennms.features.measurements/org.opennms.features.measurements.api@32.0.5
+- pkg:maven/org.opennms.features.measurements/org.opennms.features.measurements.api@32.0.5?classifier=sources

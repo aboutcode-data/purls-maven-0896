@@ -8,3 +8,5 @@
 - pkg:maven/com.zebrunner/carina-aws-s3@1.0.3?classifier=sources
 - pkg:maven/com.zebrunner/carina-aws-s3@1.1.4
 - pkg:maven/com.zebrunner/carina-aws-s3@1.1.4?classifier=sources
+- pkg:maven/com.zebrunner/carina-aws-s3@1.2.5
+- pkg:maven/com.zebrunner/carina-aws-s3@1.2.5?classifier=sources

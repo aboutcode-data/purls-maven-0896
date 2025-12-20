@@ -65,4 +65,6 @@
 - pkg:maven/com.azure/azure-sdk-template-three@1.0.0-beta.2737006?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template-three@1.0.0-beta.2793026?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template-three@1.0.0-beta.2804110?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-three@1.0.0-beta.3199300?classifier=sources
+- pkg:maven/com.azure/azure-sdk-template-three@1.0.0-beta.3199301?classifier=sources
 - pkg:maven/com.azure/azure-sdk-template-three@1.2.1-beta.1001?classifier=sources

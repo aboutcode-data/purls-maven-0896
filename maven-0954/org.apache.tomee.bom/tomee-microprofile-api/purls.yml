@@ -10,6 +10,8 @@
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.14?classifier=sources
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.15
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.15?classifier=sources
+- pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.16
+- pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.16?classifier=sources
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.7
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.7?classifier=sources
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@8.0.8
@@ -24,3 +26,5 @@
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@9.0.0?classifier=sources
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@9.1.0
 - pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@9.1.0?classifier=sources
+- pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@9.1.1
+- pkg:maven/org.apache.tomee.bom/tomee-microprofile-api@9.1.1?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-server@6.5.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-server@7.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-server@7.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-server@8.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-server@8.0.0?classifier=sources

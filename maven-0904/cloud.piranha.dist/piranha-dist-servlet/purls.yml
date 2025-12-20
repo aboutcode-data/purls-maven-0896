@@ -4,6 +4,8 @@
 - pkg:maven/cloud.piranha.dist/piranha-dist-servlet@22.12.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-servlet@23.1.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-servlet@23.1.0?classifier=sources
+- pkg:maven/cloud.piranha.dist/piranha-dist-servlet@23.10.0
+- pkg:maven/cloud.piranha.dist/piranha-dist-servlet@23.10.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-servlet@23.2.0
 - pkg:maven/cloud.piranha.dist/piranha-dist-servlet@23.2.0?classifier=sources
 - pkg:maven/cloud.piranha.dist/piranha-dist-servlet@23.3.0

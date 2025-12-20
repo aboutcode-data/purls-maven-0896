@@ -18,3 +18,5 @@
 - pkg:maven/group.idealworld.dew/dew-maven-agent@3.0.0-RC3?classifier=sources
 - pkg:maven/group.idealworld.dew/dew-maven-agent@3.0.0-RC4
 - pkg:maven/group.idealworld.dew/dew-maven-agent@3.0.0-RC4?classifier=sources
+- pkg:maven/group.idealworld.dew/dew-maven-agent@3.0.0-RC5
+- pkg:maven/group.idealworld.dew/dew-maven-agent@3.0.0-RC5?classifier=sources

@@ -70,4 +70,9 @@
 - pkg:maven/org.httprpc/kilo-server@2.7.1?classifier=sources
 - pkg:maven/org.httprpc/kilo-server@2.7.2?classifier=sources
 - pkg:maven/org.httprpc/kilo-server@2.7.3?classifier=sources
+- pkg:maven/org.httprpc/kilo-server@2.7.4?classifier=sources
+- pkg:maven/org.httprpc/kilo-server@2.7.5?classifier=sources
+- pkg:maven/org.httprpc/kilo-server@2.7.6?classifier=sources
+- pkg:maven/org.httprpc/kilo-server@2.7.7?classifier=sources
+- pkg:maven/org.httprpc/kilo-server@2.7.8?classifier=sources
 - pkg:maven/org.httprpc/kilo-server@2.7?classifier=sources

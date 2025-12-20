@@ -16,11 +16,13 @@
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@4.7.3
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@4.7.4
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@4.7.5
+- pkg:maven/org.fcrepo/fcrepo-integration-rdf@4.7.6
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.0.0
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.0.1
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.0.2
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.1.0
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.1.1
+- pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.1.2
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@5.1.2-RC-1
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.0.0
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.0.0-RC-2
@@ -32,3 +34,4 @@
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.2.0
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.3.0
 - pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.4.0
+- pkg:maven/org.fcrepo/fcrepo-integration-rdf@6.4.1

@@ -8,3 +8,5 @@
 - pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.6.1?classifier=sources
 - pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.8.0
 - pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.8.0?classifier=sources
+- pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.9.0?classifier=sources
+- pkg:maven/com.mebigfatguy.deadmethods/deadmethods@0.9.1?classifier=sources

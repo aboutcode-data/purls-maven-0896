@@ -256,7 +256,17 @@
 - pkg:maven/io.dekorate/core-junit@3.7.0?classifier=sources
 - pkg:maven/io.dekorate/core-junit@3.7.3
 - pkg:maven/io.dekorate/core-junit@3.7.3?classifier=sources
+- pkg:maven/io.dekorate/core-junit@3.7.4
+- pkg:maven/io.dekorate/core-junit@3.7.4?classifier=sources
+- pkg:maven/io.dekorate/core-junit@3.7.5
+- pkg:maven/io.dekorate/core-junit@3.7.5?classifier=sources
+- pkg:maven/io.dekorate/core-junit@3.7.6
+- pkg:maven/io.dekorate/core-junit@3.7.6?classifier=sources
 - pkg:maven/io.dekorate/core-junit@4.0.0
 - pkg:maven/io.dekorate/core-junit@4.0.0?classifier=sources
 - pkg:maven/io.dekorate/core-junit@4.0.1
 - pkg:maven/io.dekorate/core-junit@4.0.1?classifier=sources
+- pkg:maven/io.dekorate/core-junit@4.0.2
+- pkg:maven/io.dekorate/core-junit@4.0.2?classifier=sources
+- pkg:maven/io.dekorate/core-junit@4.0.3
+- pkg:maven/io.dekorate/core-junit@4.0.3?classifier=sources

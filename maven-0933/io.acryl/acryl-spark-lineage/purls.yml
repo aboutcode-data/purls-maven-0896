@@ -10,3 +10,4 @@
 - pkg:maven/io.acryl/acryl-spark-lineage@0.0.7?classifier=sources
 - pkg:maven/io.acryl/acryl-spark-lineage@0.0.8?classifier=sources
 - pkg:maven/io.acryl/acryl-spark-lineage@0.0.9?classifier=sources
+- pkg:maven/io.acryl/acryl-spark-lineage@0.1.0?classifier=sources

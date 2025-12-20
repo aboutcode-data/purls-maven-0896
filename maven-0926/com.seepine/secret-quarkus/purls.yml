@@ -59,6 +59,10 @@
 - pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.37?classifier=sources
 - pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.3?classifier=sources
 - pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.4
+- pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.40
+- pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.40?classifier=sources
+- pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.41
+- pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.41?classifier=sources
 - pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.4?classifier=sources
 - pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.5
 - pkg:maven/com.seepine/secret-quarkus@1.0.0-beta.5?classifier=sources

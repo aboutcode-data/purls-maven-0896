@@ -140,3 +140,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-hdfs@303?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-hdfs@304
 - pkg:maven/org.alluxio/alluxio-underfs-hdfs@304?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-hdfs@305
+- pkg:maven/org.alluxio/alluxio-underfs-hdfs@305?classifier=sources

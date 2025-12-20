@@ -7,6 +7,11 @@
 - pkg:maven/com.amplifyframework/aws-pinpoint-core@2.13.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-pinpoint-core@2.13.1?classifier=sources
 - pkg:maven/com.amplifyframework/aws-pinpoint-core@2.13.2?classifier=sources
+- pkg:maven/com.amplifyframework/aws-pinpoint-core@2.14.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-pinpoint-core@2.14.1?classifier=sources
+- pkg:maven/com.amplifyframework/aws-pinpoint-core@2.14.2?classifier=sources
+- pkg:maven/com.amplifyframework/aws-pinpoint-core@2.14.3?classifier=sources
+- pkg:maven/com.amplifyframework/aws-pinpoint-core@2.14.4?classifier=sources
 - pkg:maven/com.amplifyframework/aws-pinpoint-core@2.5.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-pinpoint-core@2.6.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-pinpoint-core@2.7.0?classifier=sources

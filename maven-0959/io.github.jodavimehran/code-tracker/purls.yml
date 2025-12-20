@@ -1,2 +1,6 @@
 - pkg:maven/io.github.jodavimehran/code-tracker@1.0
 - pkg:maven/io.github.jodavimehran/code-tracker@1.0?classifier=sources
+- pkg:maven/io.github.jodavimehran/code-tracker@2.3
+- pkg:maven/io.github.jodavimehran/code-tracker@2.3?classifier=sources
+- pkg:maven/io.github.jodavimehran/code-tracker@2.4
+- pkg:maven/io.github.jodavimehran/code-tracker@2.4?classifier=sources

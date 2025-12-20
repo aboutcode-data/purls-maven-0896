@@ -1,3 +1,4 @@
 - pkg:maven/org.jolokia/jolokia-agent-war@2.0.0-M1?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war@2.0.0-M2?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war@2.0.0-M3?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war@2.0.0-M4?type=war

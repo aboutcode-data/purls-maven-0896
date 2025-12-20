@@ -1,0 +1,2 @@
+- pkg:maven/com.fizzed/shmemj-linux-x32@0.0.2
+- pkg:maven/com.fizzed/shmemj-linux-x32@0.0.2?classifier=sources

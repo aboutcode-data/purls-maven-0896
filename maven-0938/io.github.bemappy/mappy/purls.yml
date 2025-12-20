@@ -3,6 +3,7 @@
 - pkg:maven/io.github.bemappy/mappy@0.10.11?classifier=sources
 - pkg:maven/io.github.bemappy/mappy@0.10.12?classifier=sources
 - pkg:maven/io.github.bemappy/mappy@0.10.13?classifier=sources
+- pkg:maven/io.github.bemappy/mappy@0.10.14?classifier=sources
 - pkg:maven/io.github.bemappy/mappy@0.10.2?classifier=sources
 - pkg:maven/io.github.bemappy/mappy@0.10.3?classifier=sources
 - pkg:maven/io.github.bemappy/mappy@0.10.4?classifier=sources

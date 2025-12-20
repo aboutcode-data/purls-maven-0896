@@ -36,6 +36,8 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.6?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.7
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.7?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.8
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@4.2.8?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.0.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.0.0?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@5.1.0
@@ -82,3 +84,5 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.0.0?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.1.0
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.1.0?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.2.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.2.0?classifier=sources

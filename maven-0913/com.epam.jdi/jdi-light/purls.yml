@@ -301,3 +301,4 @@
 - pkg:maven/com.epam.jdi/jdi-light@1.4.9
 - pkg:maven/com.epam.jdi/jdi-light@1.4.9?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-light@1.5.0
+- pkg:maven/com.epam.jdi/jdi-light@1.5.1

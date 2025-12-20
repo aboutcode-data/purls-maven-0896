@@ -17,3 +17,4 @@
 - pkg:maven/com.juul.tuulbox/test-iosarm64@6.4.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/test-iosarm64@6.4.1?classifier=sources
 - pkg:maven/com.juul.tuulbox/test-iosarm64@6.5.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/test-iosarm64@7.0.0?classifier=sources

@@ -34,3 +34,7 @@
 - pkg:maven/org.qbicc/qbicc-plugin-source@0.74.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-plugin-source@0.75.0
 - pkg:maven/org.qbicc/qbicc-plugin-source@0.75.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-source@0.76.0
+- pkg:maven/org.qbicc/qbicc-plugin-source@0.76.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-plugin-source@0.77.0
+- pkg:maven/org.qbicc/qbicc-plugin-source@0.77.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.21?classifier=sources
+- pkg:maven/com.google.appengine.demos/bundle_standard_with_no_jsp@2.0.21?type=war

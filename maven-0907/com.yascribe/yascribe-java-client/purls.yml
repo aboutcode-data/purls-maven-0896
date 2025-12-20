@@ -1,0 +1,4 @@
+- pkg:maven/com.yascribe/yascribe-java-client@1.0.0
+- pkg:maven/com.yascribe/yascribe-java-client@1.0.0?classifier=sources
+- pkg:maven/com.yascribe/yascribe-java-client@1.0.1
+- pkg:maven/com.yascribe/yascribe-java-client@1.0.1?classifier=sources

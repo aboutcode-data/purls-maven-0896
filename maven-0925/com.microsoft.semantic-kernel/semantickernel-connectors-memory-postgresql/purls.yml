@@ -1,1 +1,2 @@
+- pkg:maven/com.microsoft.semantic-kernel/semantickernel-connectors-memory-postgresql@0.2.11-alpha?classifier=sources
 - pkg:maven/com.microsoft.semantic-kernel/semantickernel-connectors-memory-postgresql@0.2.9-alpha?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@0.0.5?classifier=sources
 - pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@0.0.6
 - pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@0.0.6?classifier=sources
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@1.0.0-M1
+- pkg:maven/com.gitlab.summer-cattle/cattle-commons-db-datasource@1.0.0-M1?classifier=sources

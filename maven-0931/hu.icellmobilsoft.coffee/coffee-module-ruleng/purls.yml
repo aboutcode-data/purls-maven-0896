@@ -54,3 +54,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-ruleng@2.1.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-ruleng@2.2.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-ruleng@2.2.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-ruleng@2.3.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-ruleng@2.3.0?classifier=sources

@@ -108,3 +108,5 @@
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.8.3?classifier=sources
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.9.0
 - pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.9.0?classifier=sources
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.9.1
+- pkg:maven/org.springframework.cloud/spring-cloud-deployer-spi-test-app@2.9.1?classifier=sources
