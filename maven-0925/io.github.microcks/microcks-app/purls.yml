@@ -63,4 +63,8 @@
 - pkg:maven/io.github.microcks/microcks-app@1.8.1-M1?classifier=sources
 - pkg:maven/io.github.microcks/microcks-app@1.8.1?classifier=sources
 - pkg:maven/io.github.microcks/microcks-app@1.9.0
+- pkg:maven/io.github.microcks/microcks-app@1.9.0-fix-1
+- pkg:maven/io.github.microcks/microcks-app@1.9.0-fix-1?classifier=sources
+- pkg:maven/io.github.microcks/microcks-app@1.9.0-fix-2
+- pkg:maven/io.github.microcks/microcks-app@1.9.0-fix-2?classifier=sources
 - pkg:maven/io.github.microcks/microcks-app@1.9.0?classifier=sources

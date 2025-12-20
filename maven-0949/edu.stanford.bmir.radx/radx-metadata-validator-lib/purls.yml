@@ -6,3 +6,4 @@
 - pkg:maven/edu.stanford.bmir.radx/radx-metadata-validator-lib@1.0.2?classifier=sources
 - pkg:maven/edu.stanford.bmir.radx/radx-metadata-validator-lib@1.0.3
 - pkg:maven/edu.stanford.bmir.radx/radx-metadata-validator-lib@1.0.3?classifier=sources
+- pkg:maven/edu.stanford.bmir.radx/radx-metadata-validator-lib@1.0.5

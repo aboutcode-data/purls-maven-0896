@@ -38,5 +38,7 @@
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@6.2.2.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@6.2.3.Final
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@6.2.3.Final?classifier=sources
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@6.2.4.Final
+- pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@6.2.4.Final?classifier=sources
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@7.0.0.Beta1
 - pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-coordination-outbox-polling@7.0.0.Beta1?classifier=sources

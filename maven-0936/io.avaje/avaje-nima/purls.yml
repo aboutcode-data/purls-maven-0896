@@ -12,3 +12,5 @@
 - pkg:maven/io.avaje/avaje-nima@0.7?classifier=sources
 - pkg:maven/io.avaje/avaje-nima@0.8
 - pkg:maven/io.avaje/avaje-nima@0.8?classifier=sources
+- pkg:maven/io.avaje/avaje-nima@1.0
+- pkg:maven/io.avaje/avaje-nima@1.0?classifier=sources

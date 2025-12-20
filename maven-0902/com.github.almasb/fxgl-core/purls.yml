@@ -49,4 +49,6 @@
 - pkg:maven/com.github.almasb/fxgl-core@17.3?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-core@17?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-core@21
+- pkg:maven/com.github.almasb/fxgl-core@21.1
+- pkg:maven/com.github.almasb/fxgl-core@21.1?classifier=sources
 - pkg:maven/com.github.almasb/fxgl-core@21?classifier=sources

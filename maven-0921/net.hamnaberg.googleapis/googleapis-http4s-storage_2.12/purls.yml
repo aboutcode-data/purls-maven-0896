@@ -1,0 +1,4 @@
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.12@0.4.0-v1-20240307
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.12@0.4.0-v1-20240307?classifier=sources
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.12@0.4.1-v1-20240415
+- pkg:maven/net.hamnaberg.googleapis/googleapis-http4s-storage_2.12@0.4.1-v1-20240415?classifier=sources

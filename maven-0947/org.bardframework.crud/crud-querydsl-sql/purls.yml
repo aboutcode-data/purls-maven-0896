@@ -48,3 +48,5 @@
 - pkg:maven/org.bardframework.crud/crud-querydsl-sql@2.7.22?classifier=sources
 - pkg:maven/org.bardframework.crud/crud-querydsl-sql@2.8.22
 - pkg:maven/org.bardframework.crud/crud-querydsl-sql@2.8.22?classifier=sources
+- pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.1.22
+- pkg:maven/org.bardframework.crud/crud-querydsl-sql@3.1.22?classifier=sources

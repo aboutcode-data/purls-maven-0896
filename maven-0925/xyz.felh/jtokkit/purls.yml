@@ -24,6 +24,8 @@
 - pkg:maven/xyz.felh/jtokkit@1.7.2?classifier=sources
 - pkg:maven/xyz.felh/jtokkit@1.8.0
 - pkg:maven/xyz.felh/jtokkit@1.8.0?classifier=sources
+- pkg:maven/xyz.felh/jtokkit@3.10.2024042201
+- pkg:maven/xyz.felh/jtokkit@3.10.2024042201?classifier=sources
 - pkg:maven/xyz.felh/jtokkit@3.7.20240128
 - pkg:maven/xyz.felh/jtokkit@3.7.20240128?classifier=sources
 - pkg:maven/xyz.felh/jtokkit@3.7.20240129
@@ -54,3 +56,11 @@
 - pkg:maven/xyz.felh/jtokkit@3.8.2024032101?classifier=sources
 - pkg:maven/xyz.felh/jtokkit@3.8.2024040101
 - pkg:maven/xyz.felh/jtokkit@3.8.2024040101?classifier=sources
+- pkg:maven/xyz.felh/jtokkit@3.8.2024041001
+- pkg:maven/xyz.felh/jtokkit@3.8.2024041001?classifier=sources
+- pkg:maven/xyz.felh/jtokkit@3.8.2024041701
+- pkg:maven/xyz.felh/jtokkit@3.8.2024041701?classifier=sources
+- pkg:maven/xyz.felh/jtokkit@3.8.2024042101
+- pkg:maven/xyz.felh/jtokkit@3.8.2024042101?classifier=sources
+- pkg:maven/xyz.felh/jtokkit@3.9.2024042101
+- pkg:maven/xyz.felh/jtokkit@3.9.2024042101?classifier=sources

@@ -69,6 +69,8 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.14?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.15
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.15?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.16
+- pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.16?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.2
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@2.3.2?classifier=sources
@@ -102,5 +104,6 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@3.1.8?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@3.1.9?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@3.2.0?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@3.2.1?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@4.0.3?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-logging-trace@4.0.4?classifier=sources

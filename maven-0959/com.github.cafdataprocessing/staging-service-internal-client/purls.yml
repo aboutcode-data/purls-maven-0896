@@ -1,2 +1,4 @@
 - pkg:maven/com.github.cafdataprocessing/staging-service-internal-client@3.0.0-1050
 - pkg:maven/com.github.cafdataprocessing/staging-service-internal-client@3.0.0-1050?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/staging-service-internal-client@3.0.1-1086
+- pkg:maven/com.github.cafdataprocessing/staging-service-internal-client@3.0.1-1086?classifier=sources

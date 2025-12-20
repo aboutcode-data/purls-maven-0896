@@ -2,3 +2,5 @@
 - pkg:maven/com.admin4j.limiter/limiter-redis@0.2.0?classifier=sources
 - pkg:maven/com.admin4j.limiter/limiter-redis@0.8.0
 - pkg:maven/com.admin4j.limiter/limiter-redis@0.8.0?classifier=sources
+- pkg:maven/com.admin4j.limiter/limiter-redis@0.9.7
+- pkg:maven/com.admin4j.limiter/limiter-redis@0.9.7?classifier=sources

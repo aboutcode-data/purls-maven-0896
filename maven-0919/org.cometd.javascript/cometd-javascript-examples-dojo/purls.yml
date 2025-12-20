@@ -9,6 +9,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@5.0.15?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@5.0.16?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@5.0.17?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@5.0.18?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@5.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@5.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@5.0.3?type=war
@@ -22,6 +23,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@6.0.10?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@6.0.11?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@6.0.12?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@6.0.13?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@6.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@6.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@6.0.3?type=war
@@ -35,6 +37,7 @@
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@7.0.10?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@7.0.11?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@7.0.12?type=war
+- pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@7.0.13?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@7.0.1?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@7.0.2?type=war
 - pkg:maven/org.cometd.javascript/cometd-javascript-examples-dojo@7.0.3?type=war

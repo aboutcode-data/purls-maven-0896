@@ -133,3 +133,4 @@
 - pkg:maven/org.yamcs/yamcs-web@5.9.1?classifier=sources
 - pkg:maven/org.yamcs/yamcs-web@5.9.2?classifier=sources
 - pkg:maven/org.yamcs/yamcs-web@5.9.3?classifier=sources
+- pkg:maven/org.yamcs/yamcs-web@5.9.4?classifier=sources

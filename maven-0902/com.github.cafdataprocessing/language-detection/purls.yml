@@ -44,3 +44,5 @@
 - pkg:maven/com.github.cafdataprocessing/language-detection@4.1.2-1299?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/language-detection@5.0.0-1351
 - pkg:maven/com.github.cafdataprocessing/language-detection@5.0.0-1351?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/language-detection@5.0.1-1381
+- pkg:maven/com.github.cafdataprocessing/language-detection@5.0.1-1381?classifier=sources

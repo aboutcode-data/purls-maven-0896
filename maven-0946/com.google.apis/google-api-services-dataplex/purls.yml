@@ -92,3 +92,5 @@
 - pkg:maven/com.google.apis/google-api-services-dataplex@v1-rev20240304-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-dataplex@v1-rev20240311-2.0.0
 - pkg:maven/com.google.apis/google-api-services-dataplex@v1-rev20240311-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-dataplex@v1-rev20240317-2.0.0
+- pkg:maven/com.google.apis/google-api-services-dataplex@v1-rev20240317-2.0.0?classifier=sources

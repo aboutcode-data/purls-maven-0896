@@ -20,3 +20,5 @@
 - pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2024.1.0?classifier=sources
 - pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2024.1.1
 - pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2024.1.1?classifier=sources
+- pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2024.1.2
+- pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2024.1.2?classifier=sources

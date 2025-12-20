@@ -1,3 +1,4 @@
+- pkg:maven/org.teavm/teavm-extras-slf4j@0.10.0?classifier=sources
 - pkg:maven/org.teavm/teavm-extras-slf4j@0.3.0
 - pkg:maven/org.teavm/teavm-extras-slf4j@0.3.0?classifier=sources
 - pkg:maven/org.teavm/teavm-extras-slf4j@0.3.1

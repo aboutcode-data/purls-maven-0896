@@ -20,3 +20,5 @@
 - pkg:maven/io.quarkus/quarkus-spring-beans-api@5.2.SP6?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-beans-api@5.2.SP7
 - pkg:maven/io.quarkus/quarkus-spring-beans-api@5.2.SP7?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-beans-api@6.1
+- pkg:maven/io.quarkus/quarkus-spring-beans-api@6.1?classifier=sources

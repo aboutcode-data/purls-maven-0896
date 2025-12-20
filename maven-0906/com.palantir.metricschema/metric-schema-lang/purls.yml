@@ -17,6 +17,7 @@
 - pkg:maven/com.palantir.metricschema/metric-schema-lang@0.28.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-lang@0.29.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-lang@0.30.0?classifier=sources
+- pkg:maven/com.palantir.metricschema/metric-schema-lang@0.31.0?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.17
 - pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.17?classifier=sources
 - pkg:maven/com.palantir.metricschema/metric-schema-lang@0.5.19?classifier=sources

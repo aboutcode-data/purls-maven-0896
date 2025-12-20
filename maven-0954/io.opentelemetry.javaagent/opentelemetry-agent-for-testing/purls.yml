@@ -44,6 +44,8 @@
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.32.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.32.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.33.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.33.1-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.33.2-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.4.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.4.1-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@1.5.0-alpha?classifier=sources
@@ -63,3 +65,4 @@
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@2.0.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@2.1.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@2.2.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.javaagent/opentelemetry-agent-for-testing@2.3.0-alpha?classifier=sources

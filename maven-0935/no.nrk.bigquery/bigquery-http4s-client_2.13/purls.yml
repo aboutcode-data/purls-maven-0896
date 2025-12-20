@@ -1,0 +1,4 @@
+- pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.17.0
+- pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.17.0?classifier=sources
+- pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.18.0
+- pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.18.0?classifier=sources

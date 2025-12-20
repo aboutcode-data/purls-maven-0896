@@ -1,3 +1,4 @@
 - pkg:maven/no.dossier.libraries/functional-native@0.2.2?classifier=sources
 - pkg:maven/no.dossier.libraries/functional-native@0.2.3?classifier=sources
 - pkg:maven/no.dossier.libraries/functional-native@0.2.4?classifier=sources
+- pkg:maven/no.dossier.libraries/functional-native@0.2.5?classifier=sources

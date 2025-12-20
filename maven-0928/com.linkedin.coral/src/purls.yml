@@ -135,6 +135,7 @@
 - pkg:maven/com.linkedin.coral/src@2.2.29-li-trino-hotfix?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.29?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.2?classifier=sources
+- pkg:maven/com.linkedin.coral/src@2.2.30?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.3?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.4?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.5?classifier=sources

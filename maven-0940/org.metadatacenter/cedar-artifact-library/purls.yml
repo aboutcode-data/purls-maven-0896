@@ -1,2 +1,4 @@
 - pkg:maven/org.metadatacenter/cedar-artifact-library@2.6.54
 - pkg:maven/org.metadatacenter/cedar-artifact-library@2.6.54?classifier=sources
+- pkg:maven/org.metadatacenter/cedar-artifact-library@2.6.57
+- pkg:maven/org.metadatacenter/cedar-artifact-library@2.6.57?classifier=sources

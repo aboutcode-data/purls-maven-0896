@@ -18,3 +18,9 @@
 - pkg:maven/cn.openapis/hy.xflow.engine@1.2.4?classifier=sources
 - pkg:maven/cn.openapis/hy.xflow.engine@1.2.5
 - pkg:maven/cn.openapis/hy.xflow.engine@1.2.5?classifier=sources
+- pkg:maven/cn.openapis/hy.xflow.engine@1.2.7
+- pkg:maven/cn.openapis/hy.xflow.engine@1.2.7?classifier=sources
+- pkg:maven/cn.openapis/hy.xflow.engine@1.2.8
+- pkg:maven/cn.openapis/hy.xflow.engine@1.2.8?classifier=sources
+- pkg:maven/cn.openapis/hy.xflow.engine@1.2.9
+- pkg:maven/cn.openapis/hy.xflow.engine@1.2.9?classifier=sources

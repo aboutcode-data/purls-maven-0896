@@ -112,3 +112,5 @@
 - pkg:maven/cn.gmlee.tools/tools-dt@5.5.0?classifier=sources
 - pkg:maven/cn.gmlee.tools/tools-dt@5.5.1
 - pkg:maven/cn.gmlee.tools/tools-dt@5.5.1?classifier=sources
+- pkg:maven/cn.gmlee.tools/tools-dt@5.5.3
+- pkg:maven/cn.gmlee.tools/tools-dt@5.5.3?classifier=sources

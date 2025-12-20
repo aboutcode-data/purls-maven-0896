@@ -2,3 +2,5 @@
 - pkg:maven/com.sobot.zcsdk/ordersdk_x@1.0.0?type=aar
 - pkg:maven/com.sobot.zcsdk/ordersdk_x@1.0?classifier=sources
 - pkg:maven/com.sobot.zcsdk/ordersdk_x@1.0?type=aar
+- pkg:maven/com.sobot.zcsdk/ordersdk_x@2.0.0?classifier=sources
+- pkg:maven/com.sobot.zcsdk/ordersdk_x@2.0.0?type=aar

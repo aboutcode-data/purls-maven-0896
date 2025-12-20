@@ -54,6 +54,8 @@
 - pkg:maven/org.wurbelizer/ant-wurbelizer@21.6.0.0?classifier=sources
 - pkg:maven/org.wurbelizer/ant-wurbelizer@21.6.1.0
 - pkg:maven/org.wurbelizer/ant-wurbelizer@21.6.1.0?classifier=sources
+- pkg:maven/org.wurbelizer/ant-wurbelizer@21.6.2.0
+- pkg:maven/org.wurbelizer/ant-wurbelizer@21.6.2.0?classifier=sources
 - pkg:maven/org.wurbelizer/ant-wurbelizer@8.2.1.2
 - pkg:maven/org.wurbelizer/ant-wurbelizer@8.2.1.2?classifier=sources
 - pkg:maven/org.wurbelizer/ant-wurbelizer@8.2.2.0

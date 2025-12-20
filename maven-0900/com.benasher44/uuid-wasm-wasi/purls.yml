@@ -1,0 +1,2 @@
+- pkg:maven/com.benasher44/uuid-wasm-wasi@0.8.3?classifier=sources
+- pkg:maven/com.benasher44/uuid-wasm-wasi@0.8.4?classifier=sources

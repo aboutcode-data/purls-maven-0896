@@ -50,3 +50,5 @@
 - pkg:maven/org.projectnessie.nessie/nessie-client-testextension@0.77.1?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-client-testextension@0.78.0?classifier=sources
 - pkg:maven/org.projectnessie.nessie/nessie-client-testextension@0.79.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-client-testextension@0.80.0?classifier=sources
+- pkg:maven/org.projectnessie.nessie/nessie-client-testextension@0.81.0?classifier=sources

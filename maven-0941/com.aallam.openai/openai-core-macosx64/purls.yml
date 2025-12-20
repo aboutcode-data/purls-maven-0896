@@ -32,3 +32,4 @@
 - pkg:maven/com.aallam.openai/openai-core-macosx64@3.6.2?classifier=sources
 - pkg:maven/com.aallam.openai/openai-core-macosx64@3.6.3?classifier=sources
 - pkg:maven/com.aallam.openai/openai-core-macosx64@3.7.0?classifier=sources
+- pkg:maven/com.aallam.openai/openai-core-macosx64@3.7.1?classifier=sources

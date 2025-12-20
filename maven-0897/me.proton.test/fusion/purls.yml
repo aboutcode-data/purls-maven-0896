@@ -9,4 +9,6 @@
 - pkg:maven/me.proton.test/fusion@0.9.92?classifier=sources
 - pkg:maven/me.proton.test/fusion@0.9.93?classifier=sources
 - pkg:maven/me.proton.test/fusion@0.9.95?classifier=sources
+- pkg:maven/me.proton.test/fusion@0.9.96?classifier=sources
+- pkg:maven/me.proton.test/fusion@0.9.97?classifier=sources
 - pkg:maven/me.proton.test/fusion@0.9.9?classifier=sources

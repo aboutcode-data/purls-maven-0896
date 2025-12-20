@@ -68,3 +68,5 @@
 - pkg:maven/org.noear/dami-springboot-starter@0.55?classifier=sources
 - pkg:maven/org.noear/dami-springboot-starter@0.56
 - pkg:maven/org.noear/dami-springboot-starter@0.56?classifier=sources
+- pkg:maven/org.noear/dami-springboot-starter@0.57
+- pkg:maven/org.noear/dami-springboot-starter@0.57?classifier=sources

@@ -42,3 +42,4 @@
 - pkg:maven/org.seedstack/domain-archetype@21.4.1?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@21.4?classifier=sources
 - pkg:maven/org.seedstack/domain-archetype@21.7?classifier=sources
+- pkg:maven/org.seedstack/domain-archetype@24.4?classifier=sources

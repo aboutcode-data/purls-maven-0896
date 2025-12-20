@@ -118,3 +118,5 @@
 - pkg:maven/net.polyv/polyv-java-sdk-common@2.1.7?classifier=sources
 - pkg:maven/net.polyv/polyv-java-sdk-common@2.1.8
 - pkg:maven/net.polyv/polyv-java-sdk-common@2.1.8?classifier=sources
+- pkg:maven/net.polyv/polyv-java-sdk-common@2.1.9
+- pkg:maven/net.polyv/polyv-java-sdk-common@2.1.9?classifier=sources

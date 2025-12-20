@@ -4,3 +4,4 @@
 - pkg:maven/at.asitplus.crypto/datatypes-jws@2.2.1?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-jws@2.3.0?classifier=sources
 - pkg:maven/at.asitplus.crypto/datatypes-jws@2.4.0?classifier=sources
+- pkg:maven/at.asitplus.crypto/datatypes-jws@2.5.0?classifier=sources

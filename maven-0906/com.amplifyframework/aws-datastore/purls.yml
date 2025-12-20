@@ -239,6 +239,7 @@
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.10?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.11?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.12?classifier=sources
+- pkg:maven/com.amplifyframework/aws-datastore@2.14.13?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.1?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.2?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.3?classifier=sources
@@ -248,6 +249,7 @@
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.7?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.8?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.14.9?classifier=sources
+- pkg:maven/com.amplifyframework/aws-datastore@2.15.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.3.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.4.0?classifier=sources
 - pkg:maven/com.amplifyframework/aws-datastore@2.4.1?classifier=sources

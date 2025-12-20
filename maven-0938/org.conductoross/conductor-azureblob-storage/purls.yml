@@ -1,2 +1,4 @@
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.16.0?classifier=sources
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.17.0?classifier=sources
+- pkg:maven/org.conductoross/conductor-azureblob-storage@3.18.0?classifier=sources
+- pkg:maven/org.conductoross/conductor-azureblob-storage@3.19.0?classifier=sources

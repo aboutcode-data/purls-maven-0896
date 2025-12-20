@@ -64,6 +64,10 @@
 - pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.41?classifier=sources
 - pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.42
 - pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.42?classifier=sources
+- pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.50
+- pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.50?classifier=sources
+- pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.51
+- pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.51?classifier=sources
 - pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.7
 - pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.7?classifier=sources
 - pkg:maven/org.wso2.maven/maven-carbon-ui-plugin@5.2.8

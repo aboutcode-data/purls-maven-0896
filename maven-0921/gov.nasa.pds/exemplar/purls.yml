@@ -64,6 +64,14 @@
 - pkg:maven/gov.nasa.pds/exemplar@4.0.0?classifier=sources
 - pkg:maven/gov.nasa.pds/exemplar@5.0.0
 - pkg:maven/gov.nasa.pds/exemplar@5.0.0?classifier=sources
+- pkg:maven/gov.nasa.pds/exemplar@5.13.0
+- pkg:maven/gov.nasa.pds/exemplar@5.13.0?classifier=sources
+- pkg:maven/gov.nasa.pds/exemplar@5.14.0
+- pkg:maven/gov.nasa.pds/exemplar@5.14.0?classifier=sources
+- pkg:maven/gov.nasa.pds/exemplar@5.15.0
+- pkg:maven/gov.nasa.pds/exemplar@5.15.0?classifier=sources
+- pkg:maven/gov.nasa.pds/exemplar@5.16.0
+- pkg:maven/gov.nasa.pds/exemplar@5.16.0?classifier=sources
 - pkg:maven/gov.nasa.pds/exemplar@5.2.0
 - pkg:maven/gov.nasa.pds/exemplar@5.2.0?classifier=sources
 - pkg:maven/gov.nasa.pds/exemplar@5.5.0

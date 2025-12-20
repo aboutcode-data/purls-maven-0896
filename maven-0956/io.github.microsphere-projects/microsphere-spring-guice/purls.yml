@@ -1,0 +1,4 @@
+- pkg:maven/io.github.microsphere-projects/microsphere-spring-guice@0.0.1
+- pkg:maven/io.github.microsphere-projects/microsphere-spring-guice@0.0.1-alpha
+- pkg:maven/io.github.microsphere-projects/microsphere-spring-guice@0.0.1-alpha?classifier=sources
+- pkg:maven/io.github.microsphere-projects/microsphere-spring-guice@0.0.1?classifier=sources

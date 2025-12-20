@@ -56,3 +56,7 @@
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-pubsub-deployment@2.6.0?classifier=sources
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-pubsub-deployment@2.7.0
 - pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-pubsub-deployment@2.7.0?classifier=sources
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-pubsub-deployment@2.8.0
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-pubsub-deployment@2.8.0?classifier=sources
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-pubsub-deployment@2.9.0
+- pkg:maven/io.quarkiverse.googlecloudservices/quarkus-google-cloud-pubsub-deployment@2.9.0?classifier=sources

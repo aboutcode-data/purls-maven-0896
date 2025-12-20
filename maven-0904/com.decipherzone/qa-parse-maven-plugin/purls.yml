@@ -1,3 +1,7 @@
+- pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.10
+- pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.10?classifier=sources
+- pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.11
+- pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.11?classifier=sources
 - pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.2
 - pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.2?classifier=sources
 - pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.3
@@ -10,3 +14,5 @@
 - pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.7?classifier=sources
 - pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.8
 - pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.8?classifier=sources
+- pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.9
+- pkg:maven/com.decipherzone/qa-parse-maven-plugin@1.5.9?classifier=sources

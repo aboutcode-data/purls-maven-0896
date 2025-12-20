@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.activemq/artemis-unit-test-support@2.31.2?classifier=sources
 - pkg:maven/org.apache.activemq/artemis-unit-test-support@2.32.0
 - pkg:maven/org.apache.activemq/artemis-unit-test-support@2.32.0?classifier=sources
+- pkg:maven/org.apache.activemq/artemis-unit-test-support@2.33.0
+- pkg:maven/org.apache.activemq/artemis-unit-test-support@2.33.0?classifier=sources

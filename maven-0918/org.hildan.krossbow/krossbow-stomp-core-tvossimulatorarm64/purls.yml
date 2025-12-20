@@ -22,3 +22,4 @@
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-tvossimulatorarm64@5.7.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-tvossimulatorarm64@5.8.0?classifier=sources
 - pkg:maven/org.hildan.krossbow/krossbow-stomp-core-tvossimulatorarm64@6.0.0?classifier=sources
+- pkg:maven/org.hildan.krossbow/krossbow-stomp-core-tvossimulatorarm64@7.0.0?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/com.oracle.coherence.ce/pof-maven-plugin@23.09.2
 - pkg:maven/com.oracle.coherence.ce/pof-maven-plugin@23.09.2?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/pof-maven-plugin@23.09?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/pof-maven-plugin@24.03
+- pkg:maven/com.oracle.coherence.ce/pof-maven-plugin@24.03?classifier=sources

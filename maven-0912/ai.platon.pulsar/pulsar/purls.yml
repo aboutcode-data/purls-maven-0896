@@ -25,6 +25,8 @@
 - pkg:maven/ai.platon.pulsar/pulsar@1.10.9?classifier=source-release&type=zip
 - pkg:maven/ai.platon.pulsar/pulsar@1.12.0?classifier=source-release&type=zip
 - pkg:maven/ai.platon.pulsar/pulsar@1.12.2?classifier=source-release&type=zip
+- pkg:maven/ai.platon.pulsar/pulsar@1.12.3?classifier=source-release&type=zip
+- pkg:maven/ai.platon.pulsar/pulsar@1.12.4?classifier=source-release&type=zip
 - pkg:maven/ai.platon.pulsar/pulsar@1.6.6.1?classifier=source-release&type=zip
 - pkg:maven/ai.platon.pulsar/pulsar@1.6.6?classifier=source-release&type=zip
 - pkg:maven/ai.platon.pulsar/pulsar@1.7.0?classifier=source-release&type=zip

@@ -32,3 +32,5 @@
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-autoconfigure@1.6.0?classifier=sources
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-autoconfigure@1.7.0
 - pkg:maven/org.seasar.doma.boot/doma-spring-boot-autoconfigure@1.7.0?classifier=sources
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-autoconfigure@1.8.0
+- pkg:maven/org.seasar.doma.boot/doma-spring-boot-autoconfigure@1.8.0?classifier=sources

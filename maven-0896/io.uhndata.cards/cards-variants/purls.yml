@@ -1,1 +1,3 @@
 - pkg:maven/io.uhndata.cards/cards-variants@0.9.22?classifier=sources
+- pkg:maven/io.uhndata.cards/cards-variants@0.9.23.1?classifier=sources
+- pkg:maven/io.uhndata.cards/cards-variants@0.9.23?classifier=sources

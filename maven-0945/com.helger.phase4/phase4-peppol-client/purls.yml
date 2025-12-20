@@ -128,3 +128,5 @@
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.3?classifier=sources
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.4
 - pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.4?classifier=sources
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.5
+- pkg:maven/com.helger.phase4/phase4-peppol-client@2.7.5?classifier=sources

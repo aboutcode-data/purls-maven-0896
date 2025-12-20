@@ -26,3 +26,5 @@
 - pkg:maven/br.com.jarch/jarch-faces@23.9.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-faces@24.1.0
 - pkg:maven/br.com.jarch/jarch-faces@24.1.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-faces@24.2.0
+- pkg:maven/br.com.jarch/jarch-faces@24.2.0?classifier=sources

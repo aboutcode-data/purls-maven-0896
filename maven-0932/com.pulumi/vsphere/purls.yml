@@ -33,6 +33,14 @@
 - pkg:maven/com.pulumi/vsphere@4.10.0-alpha.1710160860%2B23b7ccf2?classifier=sources
 - pkg:maven/com.pulumi/vsphere@4.10.0-alpha.1710245029%2B407e6872?classifier=sources
 - pkg:maven/com.pulumi/vsphere@4.10.0?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1710920591%2Bfd15d44e?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1711033215%2Bbe9083a4?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1711522508%2B5115dade?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1711608697%2Ba0a3f79f?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1711744036%2B2d51d361?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1712403192%2B3448d813?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1712470785%2Bf886c01b?classifier=sources
+- pkg:maven/com.pulumi/vsphere@4.11.0-alpha.1712732029%2Bc9f628f6?classifier=sources
 - pkg:maven/com.pulumi/vsphere@4.4.0-alpha.1668632155%2Bd533ab43?classifier=sources
 - pkg:maven/com.pulumi/vsphere@4.4.0-alpha.1673556417%2B39abf701?classifier=sources
 - pkg:maven/com.pulumi/vsphere@4.4.0-alpha.1675060917%2B54a53e26?classifier=sources

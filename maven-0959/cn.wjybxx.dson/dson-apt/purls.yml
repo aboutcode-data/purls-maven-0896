@@ -10,3 +10,7 @@
 - pkg:maven/cn.wjybxx.dson/dson-apt@1.4.1?classifier=sources
 - pkg:maven/cn.wjybxx.dson/dson-apt@1.4.rc1
 - pkg:maven/cn.wjybxx.dson/dson-apt@1.4.rc1?classifier=sources
+- pkg:maven/cn.wjybxx.dson/dson-apt@2.0.0
+- pkg:maven/cn.wjybxx.dson/dson-apt@2.0.0?classifier=sources
+- pkg:maven/cn.wjybxx.dson/dson-apt@2.0.1
+- pkg:maven/cn.wjybxx.dson/dson-apt@2.0.1?classifier=sources

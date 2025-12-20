@@ -1,1 +1,3 @@
 - pkg:maven/io.aeron/aeron-annotations@1.43.0?classifier=sources
+- pkg:maven/io.aeron/aeron-annotations@1.44.0?classifier=sources
+- pkg:maven/io.aeron/aeron-annotations@1.44.1?classifier=sources

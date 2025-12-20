@@ -10,3 +10,5 @@
 - pkg:maven/com.promcteam/promccore@1.2.0-R1?classifier=sources
 - pkg:maven/com.promcteam/promccore@1.2.0-R2
 - pkg:maven/com.promcteam/promccore@1.2.0-R2?classifier=sources
+- pkg:maven/com.promcteam/promccore@1.2.1-R1
+- pkg:maven/com.promcteam/promccore@1.2.1-R1?classifier=sources

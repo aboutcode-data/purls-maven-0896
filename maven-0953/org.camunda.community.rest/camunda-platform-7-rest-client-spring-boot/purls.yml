@@ -12,3 +12,7 @@
 - pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.20.0?classifier=sources
 - pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.20.1
 - pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.20.1?classifier=sources
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.20.2
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.20.2?classifier=sources
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.21.0
+- pkg:maven/org.camunda.community.rest/camunda-platform-7-rest-client-spring-boot@7.21.0?classifier=sources

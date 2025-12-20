@@ -30,3 +30,7 @@
 - pkg:maven/org.openmuc/j60870@1.6.3?classifier=sources
 - pkg:maven/org.openmuc/j60870@1.6.4
 - pkg:maven/org.openmuc/j60870@1.6.4?classifier=sources
+- pkg:maven/org.openmuc/j60870@1.7.0
+- pkg:maven/org.openmuc/j60870@1.7.0?classifier=sources
+- pkg:maven/org.openmuc/j60870@1.7.1
+- pkg:maven/org.openmuc/j60870@1.7.1?classifier=sources

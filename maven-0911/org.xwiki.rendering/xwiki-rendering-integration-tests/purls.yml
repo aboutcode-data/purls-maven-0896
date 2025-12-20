@@ -497,3 +497,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@16.2.0-rc-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@16.2.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@16.2.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@16.3.0
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@16.3.0-rc-1
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@16.3.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-integration-tests@16.3.0?classifier=sources

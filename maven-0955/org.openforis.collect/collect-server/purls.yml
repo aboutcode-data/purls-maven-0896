@@ -214,3 +214,5 @@
 - pkg:maven/org.openforis.collect/collect-server@4.0.8?classifier=sources
 - pkg:maven/org.openforis.collect/collect-server@4.0.90
 - pkg:maven/org.openforis.collect/collect-server@4.0.90?classifier=sources
+- pkg:maven/org.openforis.collect/collect-server@4.0.91
+- pkg:maven/org.openforis.collect/collect-server@4.0.91?classifier=sources

@@ -7,6 +7,12 @@
 - pkg:maven/org.mvnpm.at.sentry/replay@7.106.1?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/replay@7.107.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/replay@7.108.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/replay@7.110.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/replay@7.110.1?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/replay@7.111.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/replay@7.112.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/replay@7.112.1?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/replay@7.112.2?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/replay@7.63.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/replay@7.75.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/replay@7.75.1?classifier=sources

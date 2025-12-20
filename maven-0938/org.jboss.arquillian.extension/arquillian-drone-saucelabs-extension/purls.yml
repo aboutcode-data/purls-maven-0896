@@ -64,3 +64,5 @@
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-saucelabs-extension@3.0.0-alpha.6?classifier=sources
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-saucelabs-extension@3.0.0-alpha.7
 - pkg:maven/org.jboss.arquillian.extension/arquillian-drone-saucelabs-extension@3.0.0-alpha.7?classifier=sources
+- pkg:maven/org.jboss.arquillian.extension/arquillian-drone-saucelabs-extension@3.0.0-alpha.8
+- pkg:maven/org.jboss.arquillian.extension/arquillian-drone-saucelabs-extension@3.0.0-alpha.8?classifier=sources

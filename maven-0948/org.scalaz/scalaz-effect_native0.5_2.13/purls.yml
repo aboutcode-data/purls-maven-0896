@@ -1,0 +1,4 @@
+- pkg:maven/org.scalaz/scalaz-effect_native0.5_2.13@7.2.36
+- pkg:maven/org.scalaz/scalaz-effect_native0.5_2.13@7.2.36?classifier=sources
+- pkg:maven/org.scalaz/scalaz-effect_native0.5_2.13@7.3.8
+- pkg:maven/org.scalaz/scalaz-effect_native0.5_2.13@7.3.8?classifier=sources

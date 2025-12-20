@@ -8,6 +8,7 @@
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.17?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.18?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.19?classifier=sources
+- pkg:maven/io.qtjambi/qtjambi-script@5.15.20?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.3?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.4?classifier=sources
 - pkg:maven/io.qtjambi/qtjambi-script@5.15.5?classifier=sources

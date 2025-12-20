@@ -129,6 +129,8 @@
 - pkg:maven/org.apache.servicecomb/transport-highway@2.8.14?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-highway@2.8.15
 - pkg:maven/org.apache.servicecomb/transport-highway@2.8.15?classifier=sources
+- pkg:maven/org.apache.servicecomb/transport-highway@2.8.16
+- pkg:maven/org.apache.servicecomb/transport-highway@2.8.16?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-highway@2.8.1?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-highway@2.8.2
 - pkg:maven/org.apache.servicecomb/transport-highway@2.8.2?classifier=sources
@@ -152,3 +154,5 @@
 - pkg:maven/org.apache.servicecomb/transport-highway@3.0.1?classifier=sources
 - pkg:maven/org.apache.servicecomb/transport-highway@3.0.2
 - pkg:maven/org.apache.servicecomb/transport-highway@3.0.2?classifier=sources
+- pkg:maven/org.apache.servicecomb/transport-highway@3.1.0
+- pkg:maven/org.apache.servicecomb/transport-highway@3.1.0?classifier=sources

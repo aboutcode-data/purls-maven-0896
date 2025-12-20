@@ -18,3 +18,5 @@
 - pkg:maven/com.soartech/jsoar-soarunit@5.0.1?classifier=sources
 - pkg:maven/com.soartech/jsoar-soarunit@5.1.0
 - pkg:maven/com.soartech/jsoar-soarunit@5.1.0?classifier=sources
+- pkg:maven/com.soartech/jsoar-soarunit@5.1.1
+- pkg:maven/com.soartech/jsoar-soarunit@5.1.1?classifier=sources

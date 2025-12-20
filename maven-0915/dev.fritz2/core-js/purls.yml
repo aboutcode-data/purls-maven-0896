@@ -18,6 +18,7 @@
 - pkg:maven/dev.fritz2/core-js@1.0-RC12?classifier=sources
 - pkg:maven/dev.fritz2/core-js@1.0-RC15?classifier=sources
 - pkg:maven/dev.fritz2/core-js@1.0-RC16?classifier=sources
+- pkg:maven/dev.fritz2/core-js@1.0-RC17?classifier=sources
 - pkg:maven/dev.fritz2/core-js@1.0-RC1?classifier=sources
 - pkg:maven/dev.fritz2/core-js@1.0-RC2?classifier=sources
 - pkg:maven/dev.fritz2/core-js@1.0-RC3?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5
 - pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5-RC1
 - pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5-RC1?classifier=sources
 - pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5-RC2
@@ -6,3 +7,4 @@
 - pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5-RC3?classifier=sources
 - pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5-RC4
 - pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5-RC4?classifier=sources
+- pkg:maven/io.github.karimagnusson/kuzminki-zio-2_3@0.9.5?classifier=sources

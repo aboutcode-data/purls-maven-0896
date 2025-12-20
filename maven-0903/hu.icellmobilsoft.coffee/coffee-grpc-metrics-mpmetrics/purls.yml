@@ -2,3 +2,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-mpmetrics@2.5.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-mpmetrics@2.6.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-mpmetrics@2.6.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-mpmetrics@2.7.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-grpc-metrics-mpmetrics@2.7.0?classifier=sources

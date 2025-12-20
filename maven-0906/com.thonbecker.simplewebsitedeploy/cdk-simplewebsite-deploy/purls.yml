@@ -315,6 +315,10 @@
 - pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.79?classifier=sources
 - pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.7?classifier=sources
 - pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.8
+- pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.80
+- pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.80?classifier=sources
+- pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.81
+- pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.81?classifier=sources
 - pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.8?classifier=sources
 - pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.9
 - pkg:maven/com.thonbecker.simplewebsitedeploy/cdk-simplewebsite-deploy@2.0.9?classifier=sources

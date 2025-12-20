@@ -24,3 +24,7 @@
 - pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver@1.4.0?classifier=sources
 - pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver@1.5.0
 - pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver@1.5.0?classifier=sources
+- pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver@1.6.0
+- pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver@1.6.0?classifier=sources
+- pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver@1.7.0
+- pkg:maven/io.quarkiverse.mockserver/quarkus-mockserver@1.7.0?classifier=sources

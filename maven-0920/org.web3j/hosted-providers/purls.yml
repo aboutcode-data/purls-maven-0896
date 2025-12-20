@@ -5,6 +5,7 @@
 - pkg:maven/org.web3j/hosted-providers@4.11.0?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.11.1?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.11.2?classifier=sources
+- pkg:maven/org.web3j/hosted-providers@4.11.3?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.3.0
 - pkg:maven/org.web3j/hosted-providers@4.3.0?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.3.1
@@ -88,6 +89,7 @@
 - pkg:maven/org.web3j/hosted-providers@4.8.8-android?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.8.8?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.8.9
+- pkg:maven/org.web3j/hosted-providers@4.8.9-android?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.8.9?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.9.0
 - pkg:maven/org.web3j/hosted-providers@4.9.0?classifier=sources
@@ -106,6 +108,7 @@
 - pkg:maven/org.web3j/hosted-providers@4.9.7
 - pkg:maven/org.web3j/hosted-providers@4.9.7?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.9.8
+- pkg:maven/org.web3j/hosted-providers@4.9.8-hotfix?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@4.9.8?classifier=sources
 - pkg:maven/org.web3j/hosted-providers@5.0.0
 - pkg:maven/org.web3j/hosted-providers@5.0.0?classifier=sources

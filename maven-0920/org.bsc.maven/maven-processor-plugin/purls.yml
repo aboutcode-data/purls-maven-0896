@@ -88,3 +88,7 @@
 - pkg:maven/org.bsc.maven/maven-processor-plugin@5.0-rc3
 - pkg:maven/org.bsc.maven/maven-processor-plugin@5.0-rc3?classifier=sources
 - pkg:maven/org.bsc.maven/maven-processor-plugin@5.0?classifier=sources
+- pkg:maven/org.bsc.maven/maven-processor-plugin@5.1
+- pkg:maven/org.bsc.maven/maven-processor-plugin@5.1-jdk8
+- pkg:maven/org.bsc.maven/maven-processor-plugin@5.1-jdk8?classifier=sources
+- pkg:maven/org.bsc.maven/maven-processor-plugin@5.1?classifier=sources

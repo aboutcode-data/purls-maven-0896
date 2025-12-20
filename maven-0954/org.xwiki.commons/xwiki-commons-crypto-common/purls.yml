@@ -499,6 +499,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@16.2.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@16.2.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@16.2.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@16.3.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@16.3.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@16.3.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@16.3.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@6.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@6.0-milestone-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-crypto-common@6.0-milestone-1?classifier=sources

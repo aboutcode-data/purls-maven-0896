@@ -196,3 +196,5 @@
 - pkg:maven/com.adobe.testing/s3mock-testng@3.5.1?classifier=sources
 - pkg:maven/com.adobe.testing/s3mock-testng@3.5.2
 - pkg:maven/com.adobe.testing/s3mock-testng@3.5.2?classifier=sources
+- pkg:maven/com.adobe.testing/s3mock-testng@3.6.0
+- pkg:maven/com.adobe.testing/s3mock-testng@3.6.0?classifier=sources

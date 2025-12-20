@@ -20,6 +20,9 @@
 - pkg:maven/org.ossreviewtoolkit/notifier@2.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@20.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@20.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@21.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@22.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@22.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@5.0.0?classifier=sources

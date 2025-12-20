@@ -45,6 +45,12 @@
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.12-rc.2
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.12-rc.2?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.12?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.13-rc.1
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.13-rc.1?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.13-rc.2
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.13-rc.2?classifier=sources
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.13-rc.3
+- pkg:maven/berlin.yuna/nats-server-embedded@2.10.13-rc.3?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.1?classifier=sources
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.2-rc.1
 - pkg:maven/berlin.yuna/nats-server-embedded@2.10.2-rc.1?classifier=sources

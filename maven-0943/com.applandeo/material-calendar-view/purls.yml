@@ -2,3 +2,6 @@
 - pkg:maven/com.applandeo/material-calendar-view@1.9.0-rc04?classifier=sources
 - pkg:maven/com.applandeo/material-calendar-view@1.9.0-rc06?classifier=sources
 - pkg:maven/com.applandeo/material-calendar-view@1.9.0?classifier=sources
+- pkg:maven/com.applandeo/material-calendar-view@1.9.1?classifier=sources
+- pkg:maven/com.applandeo/material-calendar-view@1.9.2-rc1?classifier=sources
+- pkg:maven/com.applandeo/material-calendar-view@1.9.2?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.2.0?classifier=sources
 - pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.3.0
 - pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.3.0?classifier=sources
+- pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.4.0
+- pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.4.0?classifier=sources
+- pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.4.1
+- pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.4.1?classifier=sources
+- pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.5.0
+- pkg:maven/io.jstach.rainbowgum/rainbowgum-pattern@0.5.0?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/org.virtuslab/besom-snowflake_3@0.32.0-core.0.1.0?classifier=sources
 - pkg:maven/org.virtuslab/besom-snowflake_3@0.48.0-core.0.2
 - pkg:maven/org.virtuslab/besom-snowflake_3@0.48.0-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-snowflake_3@0.51.0-core.0.3
+- pkg:maven/org.virtuslab/besom-snowflake_3@0.51.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-snowflake_3@0.52.0-core.0.3
+- pkg:maven/org.virtuslab/besom-snowflake_3@0.52.0-core.0.3?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/de.muenchen.oss.digiwf/digiwf-unit-test@1.6.1?classifier=sources
 - pkg:maven/de.muenchen.oss.digiwf/digiwf-unit-test@1.7.2
 - pkg:maven/de.muenchen.oss.digiwf/digiwf-unit-test@1.7.2?classifier=sources
+- pkg:maven/de.muenchen.oss.digiwf/digiwf-unit-test@1.9.1?classifier=sources

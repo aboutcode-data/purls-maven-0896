@@ -62,6 +62,8 @@
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.2.1?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.2.2
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.2.2?classifier=sources
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.20.0
+- pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.20.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.3.0
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.3.0?classifier=sources
 - pkg:maven/org.seleniumhq.selenium/selenium-session-map-jdbc@4.4.0
