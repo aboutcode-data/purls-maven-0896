@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm/is-wsl@1.1.0
+- pkg:maven/org.mvnpm/is-wsl@1.1.0?classifier=sources
 - pkg:maven/org.mvnpm/is-wsl@2.1.1?classifier=sources
 - pkg:maven/org.mvnpm/is-wsl@2.2.0?classifier=sources
 - pkg:maven/org.mvnpm/is-wsl@3.1.0?classifier=sources

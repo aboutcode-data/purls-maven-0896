@@ -7,6 +7,7 @@
 - pkg:maven/app.softwork.kobol/util@0.2.16?classifier=sources
 - pkg:maven/app.softwork.kobol/util@0.2.17?classifier=sources
 - pkg:maven/app.softwork.kobol/util@0.2.18?classifier=sources
+- pkg:maven/app.softwork.kobol/util@0.2.19?classifier=sources
 - pkg:maven/app.softwork.kobol/util@0.2.7?classifier=sources
 - pkg:maven/app.softwork.kobol/util@0.2.8?classifier=sources
 - pkg:maven/app.softwork.kobol/util@0.2.9?classifier=sources

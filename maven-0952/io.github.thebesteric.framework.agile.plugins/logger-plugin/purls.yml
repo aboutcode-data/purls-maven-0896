@@ -172,6 +172,10 @@
 - pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20
 - pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20.1
 - pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20.1?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20.2
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20.2?classifier=sources
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20.3
+- pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20.3?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.20?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.2?classifier=sources
 - pkg:maven/io.github.thebesteric.framework.agile.plugins/logger-plugin@1.0.3

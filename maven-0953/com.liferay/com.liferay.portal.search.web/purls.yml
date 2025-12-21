@@ -423,6 +423,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.134?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.135?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.136?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.137?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@3.0.14
@@ -830,6 +831,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.135?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.136?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.137?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.138?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@4.0.14
@@ -1205,6 +1207,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.13
+- pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.130?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.131?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@5.0.14
@@ -1581,6 +1585,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.15
+- pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.150?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.web@6.0.16

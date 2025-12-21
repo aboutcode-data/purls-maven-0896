@@ -33,3 +33,8 @@
 - pkg:maven/io.spinnaker.keel/keel-titus-plugin@1.2.0?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-titus-plugin@1.2.1?classifier=sources
 - pkg:maven/io.spinnaker.keel/keel-titus-plugin@1.4.1?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-titus-plugin@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-titus-plugin@2025.0.0?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-titus-plugin@main-5?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-titus-plugin@main-6?classifier=sources
+- pkg:maven/io.spinnaker.keel/keel-titus-plugin@main-7?classifier=sources

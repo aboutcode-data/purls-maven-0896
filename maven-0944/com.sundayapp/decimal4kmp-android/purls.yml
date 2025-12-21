@@ -1,1 +1,3 @@
 - pkg:maven/com.sundayapp/decimal4kmp-android@0.0.1?classifier=sources
+- pkg:maven/com.sundayapp/decimal4kmp-android@0.0.7?classifier=sources
+- pkg:maven/com.sundayapp/decimal4kmp-android@0.0.8?classifier=sources

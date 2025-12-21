@@ -75,3 +75,4 @@
 - pkg:maven/com.corsano.sdk/dfu@1.1.2?classifier=sources
 - pkg:maven/com.corsano.sdk/dfu@1.1.3?classifier=sources
 - pkg:maven/com.corsano.sdk/dfu@1.1.4?classifier=sources
+- pkg:maven/com.corsano.sdk/dfu@1.1.5?classifier=sources

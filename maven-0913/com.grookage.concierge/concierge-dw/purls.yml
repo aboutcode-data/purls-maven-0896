@@ -2,6 +2,10 @@
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC11?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC12?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC13?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC14?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC15?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC16?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC17?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC1?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC2?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC3?classifier=sources
@@ -11,3 +15,4 @@
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC7?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC8?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-dw@0.0.1-RC9?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-dw@1.0.0?classifier=sources

@@ -852,6 +852,8 @@
 - pkg:maven/org.anyline/anyline-web@8.7.2-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-20250401
 - pkg:maven/org.anyline/anyline-web@8.7.2-20250401?classifier=sources
+- pkg:maven/org.anyline/anyline-web@8.7.2-20250404
+- pkg:maven/org.anyline/anyline-web@8.7.2-20250404?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20240816
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20240816?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20240820
@@ -882,6 +884,8 @@
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20250108?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20250212
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20250404
+- pkg:maven/org.anyline/anyline-web@8.7.2-jdk11-20250404?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20240501
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20240505
@@ -1028,6 +1032,8 @@
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20250212?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20250312
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20250312?classifier=sources
+- pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20250404
+- pkg:maven/org.anyline/anyline-web@8.7.2-jdk17-20250404?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20240501
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20240501?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20240505
@@ -1182,3 +1188,5 @@
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20250225?classifier=sources
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20250312
 - pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20250312?classifier=sources
+- pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20250404
+- pkg:maven/org.anyline/anyline-web@8.7.2-jdk21-20250404?classifier=sources

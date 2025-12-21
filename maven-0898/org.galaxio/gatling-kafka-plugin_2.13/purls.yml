@@ -8,3 +8,5 @@
 - pkg:maven/org.galaxio/gatling-kafka-plugin_2.13@0.15.0?classifier=sources
 - pkg:maven/org.galaxio/gatling-kafka-plugin_2.13@0.15.1
 - pkg:maven/org.galaxio/gatling-kafka-plugin_2.13@0.15.1?classifier=sources
+- pkg:maven/org.galaxio/gatling-kafka-plugin_2.13@1.0.0-RC1
+- pkg:maven/org.galaxio/gatling-kafka-plugin_2.13@1.0.0-RC1?classifier=sources

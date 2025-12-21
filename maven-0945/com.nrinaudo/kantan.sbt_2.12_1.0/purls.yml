@@ -1,2 +1,4 @@
+- pkg:maven/com.nrinaudo/kantan.sbt_2.12_1.0@2.10.0
+- pkg:maven/com.nrinaudo/kantan.sbt_2.12_1.0@2.10.0?classifier=sources
 - pkg:maven/com.nrinaudo/kantan.sbt_2.12_1.0@2.9.0
 - pkg:maven/com.nrinaudo/kantan.sbt_2.12_1.0@2.9.0?classifier=sources

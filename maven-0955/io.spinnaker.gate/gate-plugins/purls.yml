@@ -1,3 +1,5 @@
+- pkg:maven/io.spinnaker.gate/gate-plugins@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-plugins@6.52.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-plugins@6.53.0?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-plugins@6.54.0?classifier=sources
@@ -47,3 +49,10 @@
 - pkg:maven/io.spinnaker.gate/gate-plugins@6.66.3?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-plugins@6.66.4?classifier=sources
 - pkg:maven/io.spinnaker.gate/gate-plugins@6.66.5?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@6.66.6?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@6.67.0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@6.68.0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@6.69.0?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@main-5?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@main-6?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-plugins@main-7?classifier=sources

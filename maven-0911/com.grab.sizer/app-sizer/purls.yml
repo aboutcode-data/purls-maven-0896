@@ -1,1 +1,3 @@
 - pkg:maven/com.grab.sizer/app-sizer@0.1.0-alpha01?classifier=sources
+- pkg:maven/com.grab.sizer/app-sizer@0.1.0-alpha02-debug?classifier=sources
+- pkg:maven/com.grab.sizer/app-sizer@0.1.0-alpha02?classifier=sources

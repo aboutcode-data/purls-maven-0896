@@ -8,3 +8,5 @@
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.7?classifier=sources
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.8
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.8?classifier=sources
+- pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.9
+- pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.gaussdb/gaussdbjdbc@506.0.0.b058
+- pkg:maven/com.huaweicloud.gaussdb/gaussdbjdbc@506.0.0.b058-jdk7
+- pkg:maven/com.huaweicloud.gaussdb/gaussdbjdbc@506.0.0.b058-jdk7?classifier=sources
+- pkg:maven/com.huaweicloud.gaussdb/gaussdbjdbc@506.0.0.b058?classifier=sources

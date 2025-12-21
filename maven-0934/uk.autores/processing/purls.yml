@@ -1,0 +1,8 @@
+- pkg:maven/uk.autores/processing@11.0.40-beta
+- pkg:maven/uk.autores/processing@11.0.40-beta?classifier=sources
+- pkg:maven/uk.autores/processing@11.0.41-beta
+- pkg:maven/uk.autores/processing@11.0.41-beta?classifier=sources
+- pkg:maven/uk.autores/processing@8.0.40-beta
+- pkg:maven/uk.autores/processing@8.0.40-beta?classifier=sources
+- pkg:maven/uk.autores/processing@8.0.41-beta
+- pkg:maven/uk.autores/processing@8.0.41-beta?classifier=sources

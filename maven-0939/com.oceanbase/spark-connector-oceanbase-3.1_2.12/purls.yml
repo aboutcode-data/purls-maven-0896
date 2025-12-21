@@ -4,3 +4,5 @@
 - pkg:maven/com.oceanbase/spark-connector-oceanbase-3.1_2.12@1.0.2
 - pkg:maven/com.oceanbase/spark-connector-oceanbase-3.1_2.12@1.0.2?classifier=sources
 - pkg:maven/com.oceanbase/spark-connector-oceanbase-3.1_2.12@1.0?classifier=sources
+- pkg:maven/com.oceanbase/spark-connector-oceanbase-3.1_2.12@1.1
+- pkg:maven/com.oceanbase/spark-connector-oceanbase-3.1_2.12@1.1?classifier=sources

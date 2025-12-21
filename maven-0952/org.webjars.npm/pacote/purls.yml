@@ -15,6 +15,7 @@
 - pkg:maven/org.webjars.npm/pacote@18.0.6
 - pkg:maven/org.webjars.npm/pacote@2.7.34
 - pkg:maven/org.webjars.npm/pacote@2.7.34?classifier=sources
+- pkg:maven/org.webjars.npm/pacote@20.0.0
 - pkg:maven/org.webjars.npm/pacote@7.3.0
 - pkg:maven/org.webjars.npm/pacote@7.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/pacote@7.4.2

@@ -96,3 +96,5 @@
 - pkg:maven/com.malliina/okclient_2.12@3.7.6?classifier=sources
 - pkg:maven/com.malliina/okclient_2.12@3.7.7
 - pkg:maven/com.malliina/okclient_2.12@3.7.7?classifier=sources
+- pkg:maven/com.malliina/okclient_2.12@3.7.8
+- pkg:maven/com.malliina/okclient_2.12@3.7.8?classifier=sources

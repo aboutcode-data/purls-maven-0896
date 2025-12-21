@@ -1,0 +1,6 @@
+- pkg:maven/io.github.c0d33ngr/qux@0.0.1
+- pkg:maven/io.github.c0d33ngr/qux@0.0.1?classifier=sources
+- pkg:maven/io.github.c0d33ngr/qux@0.0.4
+- pkg:maven/io.github.c0d33ngr/qux@0.0.4?classifier=sources
+- pkg:maven/io.github.c0d33ngr/qux@0.0.5
+- pkg:maven/io.github.c0d33ngr/qux@0.0.5?classifier=sources

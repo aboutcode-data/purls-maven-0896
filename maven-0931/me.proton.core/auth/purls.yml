@@ -155,6 +155,7 @@
 - pkg:maven/me.proton.core/auth@30.4.3?classifier=sources
 - pkg:maven/me.proton.core/auth@30.4.4?classifier=sources
 - pkg:maven/me.proton.core/auth@31.0.0?classifier=sources
+- pkg:maven/me.proton.core/auth@32.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/auth@5.0.0?classifier=sources

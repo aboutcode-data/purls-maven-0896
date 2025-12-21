@@ -40,6 +40,7 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.1
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.11?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@2.0.2
@@ -90,6 +91,7 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.16
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.18?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@3.0.2
@@ -133,6 +135,7 @@
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@4.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@4.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@4.0.15?classifier=sources
+- pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@4.0.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.adaptive.media.journal.editor.configuration@4.0.2

@@ -47,6 +47,8 @@
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.11?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.12
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.12?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.13
+- pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.13?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.3.1?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.3.2?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.5.3.3?classifier=sources
@@ -84,3 +86,7 @@
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.6.7?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.6.8
 - pkg:maven/io.camunda/camunda-tasklist-client-java@8.6.8?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-java@8.6.9
+- pkg:maven/io.camunda/camunda-tasklist-client-java@8.6.9?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-java@8.7.0
+- pkg:maven/io.camunda/camunda-tasklist-client-java@8.7.0?classifier=sources

@@ -12,6 +12,7 @@
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.2.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.3.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.3.1?classifier=sources
+- pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@12.4.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@2.5.0
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@2.5.0?classifier=sources
 - pkg:maven/org.kordamp.ikonli/ikonli-linecons-pack@2.6.0

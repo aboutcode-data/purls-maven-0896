@@ -26,3 +26,4 @@
 - pkg:maven/org.cs124.jeed/server@2025.1.0?classifier=sources
 - pkg:maven/org.cs124.jeed/server@2025.3.0?classifier=sources
 - pkg:maven/org.cs124.jeed/server@2025.3.2?classifier=sources
+- pkg:maven/org.cs124.jeed/server@2025.4.0?classifier=sources

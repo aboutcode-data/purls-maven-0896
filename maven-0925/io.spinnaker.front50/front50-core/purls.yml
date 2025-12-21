@@ -49,4 +49,13 @@
 - pkg:maven/io.spinnaker.front50/front50-core@2.37.1?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-core@2.38.0?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-core@2.38.1?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@2.38.2?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@2.39.0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@2.40.0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@2.41.0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@2025.0.0?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@main-5?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@main-6?classifier=sources
+- pkg:maven/io.spinnaker.front50/front50-core@main-7?classifier=sources
 - pkg:maven/io.spinnaker.front50/front50-core@version-0.27.1?classifier=sources

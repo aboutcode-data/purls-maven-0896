@@ -128,6 +128,10 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.35-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.36-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.36-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.37-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.37-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.38-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.38-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.4-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.4-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-ufs@1.2.5-release

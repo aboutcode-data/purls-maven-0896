@@ -6,3 +6,4 @@
 - pkg:maven/org.androidaudioplugin/androidaudioplugin-midi-device-service@0.7.8?classifier=sources
 - pkg:maven/org.androidaudioplugin/androidaudioplugin-midi-device-service@0.8.0?classifier=sources
 - pkg:maven/org.androidaudioplugin/androidaudioplugin-midi-device-service@0.9.0?classifier=sources
+- pkg:maven/org.androidaudioplugin/androidaudioplugin-midi-device-service@0.9.1?classifier=sources

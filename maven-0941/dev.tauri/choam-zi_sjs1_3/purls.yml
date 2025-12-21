@@ -18,3 +18,5 @@
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.4.11?classifier=sources
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.4.12
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.4.12?classifier=sources
+- pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-4c4b98d
+- pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-4c4b98d?classifier=sources

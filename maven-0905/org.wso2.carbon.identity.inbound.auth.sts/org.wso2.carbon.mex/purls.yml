@@ -24,6 +24,10 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.10.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.10.9
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.10.9?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.12.7
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.12.7?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.12.8
+- pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.12.8?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.2.10
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.2.10?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.inbound.auth.sts/org.wso2.carbon.mex@5.2.11

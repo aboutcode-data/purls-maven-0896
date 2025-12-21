@@ -3,3 +3,4 @@
 - pkg:maven/net.orivis/orivis-auth-service@0.0.3?classifier=sources
 - pkg:maven/net.orivis/orivis-auth-service@0.0.7?classifier=sources
 - pkg:maven/net.orivis/orivis-auth-service@0.0.8?classifier=sources
+- pkg:maven/net.orivis/orivis-auth-service@0.1.0-RELEASE?classifier=sources

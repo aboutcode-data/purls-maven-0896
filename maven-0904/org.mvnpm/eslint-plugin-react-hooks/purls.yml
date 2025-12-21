@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/eslint-plugin-react-hooks@4.6.2?classifier=sources
 - pkg:maven/org.mvnpm/eslint-plugin-react-hooks@5.2.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.0.0
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/is-valid-glob@0.3.0?classifier=sources
+- pkg:maven/org.mvnpm/is-valid-glob@1.0.0?classifier=sources

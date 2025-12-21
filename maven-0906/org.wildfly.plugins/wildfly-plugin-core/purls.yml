@@ -122,3 +122,4 @@
 - pkg:maven/org.wildfly.plugins/wildfly-plugin-core@5.1.1.Final?classifier=sources
 - pkg:maven/org.wildfly.plugins/wildfly-plugin-core@5.1.2.Final
 - pkg:maven/org.wildfly.plugins/wildfly-plugin-core@5.1.2.Final?classifier=sources
+- pkg:maven/org.wildfly.plugins/wildfly-plugin-core@5.1.3.Final?classifier=sources

@@ -94,6 +94,8 @@
 - pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.69?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.70
 - pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.70?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.75
+- pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.75?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.8
 - pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.8?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics/carbon-analytics-streaming-integrator-osgi-tests@3.0.9

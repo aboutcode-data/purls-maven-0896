@@ -1,2 +1,4 @@
 - pkg:maven/com.liferay/jakarta.ws.rs@2.1.6.LIFERAY-PATCHED-1?classifier=sources
 - pkg:maven/com.liferay/jakarta.ws.rs@2.1.6.LIFERAY-PATCHED-2?classifier=sources
+- pkg:maven/com.liferay/jakarta.ws.rs@3.1.0.LIFERAY-PATCHED-1?classifier=sources
+- pkg:maven/com.liferay/jakarta.ws.rs@3.1.0.LIFERAY-PATCHED-2?classifier=sources

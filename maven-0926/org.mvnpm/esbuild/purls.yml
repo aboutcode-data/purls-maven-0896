@@ -5,4 +5,6 @@
 - pkg:maven/org.mvnpm/esbuild@0.23.1?classifier=sources
 - pkg:maven/org.mvnpm/esbuild@0.25.1?classifier=sources
 - pkg:maven/org.mvnpm/esbuild@0.25.2?classifier=sources
+- pkg:maven/org.mvnpm/esbuild@0.25.3
+- pkg:maven/org.mvnpm/esbuild@0.25.3?classifier=sources
 - pkg:maven/org.mvnpm/esbuild@0.9.7?classifier=sources

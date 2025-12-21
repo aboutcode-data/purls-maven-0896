@@ -5,3 +5,5 @@
 - pkg:maven/io.github.milkdrinkers/threadutil-common@0.2.3?classifier=sources
 - pkg:maven/io.github.milkdrinkers/threadutil-common@0.2.4?classifier=sources
 - pkg:maven/io.github.milkdrinkers/threadutil-common@1.0.0?classifier=sources
+- pkg:maven/io.github.milkdrinkers/threadutil-common@1.1.0?classifier=sources
+- pkg:maven/io.github.milkdrinkers/threadutil-common@1.2.0?classifier=sources

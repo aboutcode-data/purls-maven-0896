@@ -14,3 +14,5 @@
 - pkg:maven/io.justdevit.kotlin/boost-kotest-testcontainers@0.1.9?classifier=sources
 - pkg:maven/io.justdevit.kotlin/boost-kotest-testcontainers@0.2.2?classifier=sources
 - pkg:maven/io.justdevit.kotlin/boost-kotest-testcontainers@0.2.3?classifier=sources
+- pkg:maven/io.justdevit.kotlin/boost-kotest-testcontainers@0.3.0?classifier=sources
+- pkg:maven/io.justdevit.kotlin/boost-kotest-testcontainers@0.3.1?classifier=sources

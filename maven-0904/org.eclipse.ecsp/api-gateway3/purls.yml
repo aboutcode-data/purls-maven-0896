@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.ecsp/api-gateway3@0.0.3
+- pkg:maven/org.eclipse.ecsp/api-gateway3@0.0.3?classifier=sources
+- pkg:maven/org.eclipse.ecsp/api-gateway3@1.0.0
+- pkg:maven/org.eclipse.ecsp/api-gateway3@1.0.0?classifier=sources

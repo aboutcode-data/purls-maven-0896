@@ -26,3 +26,5 @@
 - pkg:maven/org.scalamock/scalamock_3@7.3.0-RC4
 - pkg:maven/org.scalamock/scalamock_3@7.3.0-RC4?classifier=sources
 - pkg:maven/org.scalamock/scalamock_3@7.3.0?classifier=sources
+- pkg:maven/org.scalamock/scalamock_3@7.3.1
+- pkg:maven/org.scalamock/scalamock_3@7.3.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/io.github.the-best-is-best/compose-check-for-update-iossimulatorarm64@1.0.1?classifier=sources
 - pkg:maven/io.github.the-best-is-best/compose-check-for-update-iossimulatorarm64@1.0.2?classifier=sources
 - pkg:maven/io.github.the-best-is-best/compose-check-for-update-iossimulatorarm64@1.0.3-rc.1?classifier=sources
+- pkg:maven/io.github.the-best-is-best/compose-check-for-update-iossimulatorarm64@1.0.3?classifier=sources

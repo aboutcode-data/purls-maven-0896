@@ -13,6 +13,8 @@
 - pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.0.0?classifier=sources
 - pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.1.0?classifier=sources
 - pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.10.0?classifier=sources
+- pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.11.0-A2?classifier=sources
+- pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.11.0?classifier=sources
 - pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.2.0?classifier=sources
 - pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.3.0?classifier=sources
 - pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype@4.4.0?classifier=sources

@@ -88,6 +88,12 @@
 - pkg:maven/com.codacy/events_2.12@12.1.2_akka_2.6_circe_0.12?classifier=sources
 - pkg:maven/com.codacy/events_2.12@12.1.2_akka_2.6_circe_0.14
 - pkg:maven/com.codacy/events_2.12@12.1.2_akka_2.6_circe_0.14?classifier=sources
+- pkg:maven/com.codacy/events_2.12@12.10.0_akka_2.5_circe_0.12
+- pkg:maven/com.codacy/events_2.12@12.10.0_akka_2.5_circe_0.12?classifier=sources
+- pkg:maven/com.codacy/events_2.12@12.10.0_akka_2.6_circe_0.12
+- pkg:maven/com.codacy/events_2.12@12.10.0_akka_2.6_circe_0.12?classifier=sources
+- pkg:maven/com.codacy/events_2.12@12.10.0_akka_2.6_circe_0.14
+- pkg:maven/com.codacy/events_2.12@12.10.0_akka_2.6_circe_0.14?classifier=sources
 - pkg:maven/com.codacy/events_2.12@12.2.0_akka_2.5_circe_0.12
 - pkg:maven/com.codacy/events_2.12@12.2.0_akka_2.5_circe_0.12?classifier=sources
 - pkg:maven/com.codacy/events_2.12@12.2.0_akka_2.6_circe_0.12

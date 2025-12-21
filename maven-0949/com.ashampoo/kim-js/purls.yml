@@ -26,3 +26,4 @@
 - pkg:maven/com.ashampoo/kim-js@0.22.2?classifier=sources
 - pkg:maven/com.ashampoo/kim-js@0.22?classifier=sources
 - pkg:maven/com.ashampoo/kim-js@0.23?classifier=sources
+- pkg:maven/com.ashampoo/kim-js@0.24?classifier=sources

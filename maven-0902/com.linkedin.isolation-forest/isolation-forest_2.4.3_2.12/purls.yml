@@ -33,3 +33,4 @@
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.7?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@3.2.9?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@4.0.0?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_2.4.3_2.12@4.0.1?classifier=sources

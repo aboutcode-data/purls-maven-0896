@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.druid.extensions/druid-kubernetes-overlord-extensions@33.0.0
+- pkg:maven/org.apache.druid.extensions/druid-kubernetes-overlord-extensions@33.0.0?classifier=sources

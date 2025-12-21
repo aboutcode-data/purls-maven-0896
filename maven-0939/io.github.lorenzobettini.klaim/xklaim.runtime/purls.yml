@@ -3,3 +3,4 @@
 - pkg:maven/io.github.lorenzobettini.klaim/xklaim.runtime@2.2.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.klaim/xklaim.runtime@2.3.0?classifier=sources
 - pkg:maven/io.github.lorenzobettini.klaim/xklaim.runtime@2.4.0?classifier=sources
+- pkg:maven/io.github.lorenzobettini.klaim/xklaim.runtime@2.5.0?classifier=sources

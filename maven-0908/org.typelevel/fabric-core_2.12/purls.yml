@@ -78,6 +78,8 @@
 - pkg:maven/org.typelevel/fabric-core_2.12@1.15.8?classifier=sources
 - pkg:maven/org.typelevel/fabric-core_2.12@1.15.9
 - pkg:maven/org.typelevel/fabric-core_2.12@1.15.9?classifier=sources
+- pkg:maven/org.typelevel/fabric-core_2.12@1.16.0
+- pkg:maven/org.typelevel/fabric-core_2.12@1.16.0?classifier=sources
 - pkg:maven/org.typelevel/fabric-core_2.12@1.7.3
 - pkg:maven/org.typelevel/fabric-core_2.12@1.7.3?classifier=sources
 - pkg:maven/org.typelevel/fabric-core_2.12@1.7.4

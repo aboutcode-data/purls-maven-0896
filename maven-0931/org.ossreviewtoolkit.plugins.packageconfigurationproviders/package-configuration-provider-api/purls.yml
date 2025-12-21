@@ -79,6 +79,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@54.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@55.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@55.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@55.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@55.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@56.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@56.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@57.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@6.1.1?classifier=sources

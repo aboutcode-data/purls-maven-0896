@@ -92,6 +92,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.49.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.49.1
 - pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.49.1?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.50.0
+- pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.50.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.6.0
 - pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.6.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-iam-v2@1.6.1

@@ -49,3 +49,8 @@
 - pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.21.0
 - pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.21.0.CR1
 - pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.21.1
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.21.2
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.21.3
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.21.4
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.22.0
+- pkg:maven/io.quarkus/quarkus-flyway-derby-deployment@3.22.0.CR1

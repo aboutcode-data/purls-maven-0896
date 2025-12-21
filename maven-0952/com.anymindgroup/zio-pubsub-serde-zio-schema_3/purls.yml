@@ -4,3 +4,7 @@
 - pkg:maven/com.anymindgroup/zio-pubsub-serde-zio-schema_3@0.2.11?classifier=sources
 - pkg:maven/com.anymindgroup/zio-pubsub-serde-zio-schema_3@0.2.9
 - pkg:maven/com.anymindgroup/zio-pubsub-serde-zio-schema_3@0.2.9?classifier=sources
+- pkg:maven/com.anymindgroup/zio-pubsub-serde-zio-schema_3@0.3.0
+- pkg:maven/com.anymindgroup/zio-pubsub-serde-zio-schema_3@0.3.0?classifier=sources
+- pkg:maven/com.anymindgroup/zio-pubsub-serde-zio-schema_3@0.3.1
+- pkg:maven/com.anymindgroup/zio-pubsub-serde-zio-schema_3@0.3.1?classifier=sources

@@ -1168,3 +1168,11 @@
 - pkg:maven/com.aliyun/dingtalk@2.1.98?classifier=sources
 - pkg:maven/com.aliyun/dingtalk@2.1.99
 - pkg:maven/com.aliyun/dingtalk@2.1.99?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@2.2.10
+- pkg:maven/com.aliyun/dingtalk@2.2.10?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@2.2.11
+- pkg:maven/com.aliyun/dingtalk@2.2.11?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@2.2.12
+- pkg:maven/com.aliyun/dingtalk@2.2.12?classifier=sources
+- pkg:maven/com.aliyun/dingtalk@2.2.13
+- pkg:maven/com.aliyun/dingtalk@2.2.13?classifier=sources

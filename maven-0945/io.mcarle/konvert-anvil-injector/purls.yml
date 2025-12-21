@@ -15,3 +15,4 @@
 - pkg:maven/io.mcarle/konvert-anvil-injector@3.2.3?classifier=sources
 - pkg:maven/io.mcarle/konvert-anvil-injector@4.0.0?classifier=sources
 - pkg:maven/io.mcarle/konvert-anvil-injector@4.0.1?classifier=sources
+- pkg:maven/io.mcarle/konvert-anvil-injector@4.1.0?classifier=sources

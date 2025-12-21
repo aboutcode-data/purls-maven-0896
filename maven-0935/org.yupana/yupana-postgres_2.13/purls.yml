@@ -1,0 +1,2 @@
+- pkg:maven/org.yupana/yupana-postgres_2.13@0.40.0
+- pkg:maven/org.yupana/yupana-postgres_2.13@0.40.0?classifier=sources

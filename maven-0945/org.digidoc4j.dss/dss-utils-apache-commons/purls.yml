@@ -42,6 +42,8 @@
 - pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@5.8.d4j.1?classifier=sources
 - pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@5.9.d4j.1
 - pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@5.9.d4j.1?classifier=sources
+- pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@6.0.1.d4j.1
+- pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@6.0.1.d4j.1?classifier=sources
 - pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@6.0.d4j.1
 - pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@6.0.d4j.1?classifier=sources
 - pkg:maven/org.digidoc4j.dss/dss-utils-apache-commons@6.0.d4j.2

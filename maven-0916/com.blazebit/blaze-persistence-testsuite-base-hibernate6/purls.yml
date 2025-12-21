@@ -8,6 +8,8 @@
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.13?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.14
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.14?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.15
+- pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.15?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.7
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.7?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-testsuite-base-hibernate6@1.6.8

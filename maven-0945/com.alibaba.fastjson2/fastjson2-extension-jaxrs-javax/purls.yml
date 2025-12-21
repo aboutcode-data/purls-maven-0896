@@ -4,3 +4,5 @@
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension-jaxrs-javax@2.0.55?classifier=sources
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension-jaxrs-javax@2.0.56
 - pkg:maven/com.alibaba.fastjson2/fastjson2-extension-jaxrs-javax@2.0.56?classifier=sources
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension-jaxrs-javax@2.0.57
+- pkg:maven/com.alibaba.fastjson2/fastjson2-extension-jaxrs-javax@2.0.57?classifier=sources

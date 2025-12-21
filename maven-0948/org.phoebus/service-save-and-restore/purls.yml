@@ -10,3 +10,7 @@
 - pkg:maven/org.phoebus/service-save-and-restore@4.7.2?classifier=sources
 - pkg:maven/org.phoebus/service-save-and-restore@4.7.3
 - pkg:maven/org.phoebus/service-save-and-restore@4.7.3?classifier=sources
+- pkg:maven/org.phoebus/service-save-and-restore@4.7.4
+- pkg:maven/org.phoebus/service-save-and-restore@4.7.4?classifier=sources
+- pkg:maven/org.phoebus/service-save-and-restore@5.0.0
+- pkg:maven/org.phoebus/service-save-and-restore@5.0.0?classifier=sources

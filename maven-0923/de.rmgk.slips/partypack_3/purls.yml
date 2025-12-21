@@ -1,2 +1,4 @@
 - pkg:maven/de.rmgk.slips/partypack_3@0.12.0
 - pkg:maven/de.rmgk.slips/partypack_3@0.12.0?classifier=sources
+- pkg:maven/de.rmgk.slips/partypack_3@0.12.1
+- pkg:maven/de.rmgk.slips/partypack_3@0.12.1?classifier=sources

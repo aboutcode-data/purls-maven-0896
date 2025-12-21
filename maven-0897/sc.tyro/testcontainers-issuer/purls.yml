@@ -1,2 +1,4 @@
 - pkg:maven/sc.tyro/testcontainers-issuer@1.0.0
 - pkg:maven/sc.tyro/testcontainers-issuer@1.0.0?classifier=sources
+- pkg:maven/sc.tyro/testcontainers-issuer@1.1.0
+- pkg:maven/sc.tyro/testcontainers-issuer@1.1.0?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@0.6.0?type=war
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.0.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.0.0?type=war
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.1.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.1.0?type=war
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.2.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.dookug/dookug-document-service@1.2.0?type=war

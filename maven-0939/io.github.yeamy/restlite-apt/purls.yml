@@ -1,1 +1,6 @@
 - pkg:maven/io.github.yeamy/restlite-apt@1.0-RC1?classifier=sources
+- pkg:maven/io.github.yeamy/restlite-apt@1.0-RC2.1?classifier=sources
+- pkg:maven/io.github.yeamy/restlite-apt@1.0-RC2.2?classifier=sources
+- pkg:maven/io.github.yeamy/restlite-apt@1.0-RC2.3?classifier=sources
+- pkg:maven/io.github.yeamy/restlite-apt@1.0-RC2.4?classifier=sources
+- pkg:maven/io.github.yeamy/restlite-apt@1.0-RC2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.nextflow/nf-lang@25.02.2-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-lang@25.02.3-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-lang@25.03.0-edge?classifier=sources
+- pkg:maven/io.nextflow/nf-lang@25.03.1-edge?classifier=sources

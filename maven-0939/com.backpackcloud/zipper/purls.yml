@@ -6,3 +6,7 @@
 - pkg:maven/com.backpackcloud/zipper@0.6.1?classifier=sources
 - pkg:maven/com.backpackcloud/zipper@0.6.2
 - pkg:maven/com.backpackcloud/zipper@0.6.2?classifier=sources
+- pkg:maven/com.backpackcloud/zipper@1.0.0
+- pkg:maven/com.backpackcloud/zipper@1.0.0?classifier=sources
+- pkg:maven/com.backpackcloud/zipper@1.0.1
+- pkg:maven/com.backpackcloud/zipper@1.0.1?classifier=sources

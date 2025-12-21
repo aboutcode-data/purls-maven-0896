@@ -4,3 +4,7 @@
 - pkg:maven/dev.kaccelero/settings@0.4.3?classifier=sources
 - pkg:maven/dev.kaccelero/settings@0.4.4?classifier=sources
 - pkg:maven/dev.kaccelero/settings@0.4.5?classifier=sources
+- pkg:maven/dev.kaccelero/settings@0.4.6?classifier=sources
+- pkg:maven/dev.kaccelero/settings@0.4.7?classifier=sources
+- pkg:maven/dev.kaccelero/settings@0.4.8?classifier=sources
+- pkg:maven/dev.kaccelero/settings@0.4.9?classifier=sources

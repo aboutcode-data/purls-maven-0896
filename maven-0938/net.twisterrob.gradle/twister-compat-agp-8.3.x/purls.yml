@@ -1,1 +1,2 @@
 - pkg:maven/net.twisterrob.gradle/twister-compat-agp-8.3.x@0.17?classifier=sources
+- pkg:maven/net.twisterrob.gradle/twister-compat-agp-8.3.x@0.18?classifier=sources

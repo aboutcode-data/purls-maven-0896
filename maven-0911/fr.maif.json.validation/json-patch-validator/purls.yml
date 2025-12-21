@@ -1,0 +1,4 @@
+- pkg:maven/fr.maif.json.validation/json-patch-validator@0.1.0
+- pkg:maven/fr.maif.json.validation/json-patch-validator@0.1.0?classifier=sources
+- pkg:maven/fr.maif.json.validation/json-patch-validator@1.0.0
+- pkg:maven/fr.maif.json.validation/json-patch-validator@1.0.0?classifier=sources

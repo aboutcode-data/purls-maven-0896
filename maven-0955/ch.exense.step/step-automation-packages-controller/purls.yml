@@ -40,3 +40,5 @@
 - pkg:maven/ch.exense.step/step-automation-packages-controller@3.26.5?classifier=sources
 - pkg:maven/ch.exense.step/step-automation-packages-controller@3.27.0
 - pkg:maven/ch.exense.step/step-automation-packages-controller@3.27.0?classifier=sources
+- pkg:maven/ch.exense.step/step-automation-packages-controller@3.27.1
+- pkg:maven/ch.exense.step/step-automation-packages-controller@3.27.1?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/com.yugabyte/jdbc-yugabytedb@42.7.3-yb-2?classifier=sources
 - pkg:maven/com.yugabyte/jdbc-yugabytedb@42.7.3-yb-3
 - pkg:maven/com.yugabyte/jdbc-yugabytedb@42.7.3-yb-3?classifier=sources
+- pkg:maven/com.yugabyte/jdbc-yugabytedb@42.7.3-yb-4
+- pkg:maven/com.yugabyte/jdbc-yugabytedb@42.7.3-yb-4?classifier=sources

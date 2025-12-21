@@ -36,3 +36,5 @@
 - pkg:maven/com.ironsoftware/ironpdf-engine-macos-arm64@2025.2.8?classifier=sources
 - pkg:maven/com.ironsoftware/ironpdf-engine-macos-arm64@2025.3.6
 - pkg:maven/com.ironsoftware/ironpdf-engine-macos-arm64@2025.3.6?classifier=sources
+- pkg:maven/com.ironsoftware/ironpdf-engine-macos-arm64@2025.4.4
+- pkg:maven/com.ironsoftware/ironpdf-engine-macos-arm64@2025.4.4?classifier=sources

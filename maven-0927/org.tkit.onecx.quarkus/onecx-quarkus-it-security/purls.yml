@@ -46,5 +46,9 @@
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.33.0?classifier=sources
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.34.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.34.0?classifier=sources
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.36.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.36.0?classifier=sources
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.37.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.37.0?classifier=sources
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.9.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-it-security@0.9.0?classifier=sources

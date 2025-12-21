@@ -1018,6 +1018,8 @@
 - pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.127?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.128
 - pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.128?classifier=sources
+- pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.129
+- pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.129?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.12?classifier=sources
 - pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.13
 - pkg:maven/io.github.cdklabs/cdk-pipelines-github@0.4.13?classifier=sources

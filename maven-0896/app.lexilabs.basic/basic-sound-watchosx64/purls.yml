@@ -12,3 +12,4 @@
 - pkg:maven/app.lexilabs.basic/basic-sound-watchosx64@0.2.4?classifier=sources
 - pkg:maven/app.lexilabs.basic/basic-sound-watchosx64@0.2.5-beta01?classifier=sources
 - pkg:maven/app.lexilabs.basic/basic-sound-watchosx64@0.2.5-beta02?classifier=sources
+- pkg:maven/app.lexilabs.basic/basic-sound-watchosx64@0.2.5?classifier=sources

@@ -76,6 +76,17 @@
 - pkg:maven/io.cucumber/test-release-automation@0.0.53?classifier=sources
 - pkg:maven/io.cucumber/test-release-automation@0.0.54
 - pkg:maven/io.cucumber/test-release-automation@0.0.54?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.57
+- pkg:maven/io.cucumber/test-release-automation@0.0.57?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.59?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.60?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.61?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.62?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.63?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.64?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.65?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.66?classifier=sources
+- pkg:maven/io.cucumber/test-release-automation@0.0.67?classifier=sources
 - pkg:maven/io.cucumber/test-release-automation@0.0.8
 - pkg:maven/io.cucumber/test-release-automation@0.0.8?classifier=sources
 - pkg:maven/io.cucumber/test-release-automation@0.0.9

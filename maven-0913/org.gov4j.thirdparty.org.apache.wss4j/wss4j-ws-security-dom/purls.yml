@@ -1,2 +1,4 @@
 - pkg:maven/org.gov4j.thirdparty.org.apache.wss4j/wss4j-ws-security-dom@2.4.1-gov4j-2?classifier=sources
+- pkg:maven/org.gov4j.thirdparty.org.apache.wss4j/wss4j-ws-security-dom@2.4.1-gov4j-3?classifier=sources
 - pkg:maven/org.gov4j.thirdparty.org.apache.wss4j/wss4j-ws-security-dom@3.0.3-gov4j-2?classifier=sources
+- pkg:maven/org.gov4j.thirdparty.org.apache.wss4j/wss4j-ws-security-dom@3.0.3-gov4j-3?classifier=sources

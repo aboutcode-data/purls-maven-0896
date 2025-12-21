@@ -31,3 +31,4 @@
 - pkg:maven/com.tunjid.tiler/tiler@1.1.0-rc02?classifier=sources
 - pkg:maven/com.tunjid.tiler/tiler@1.1.0?classifier=sources
 - pkg:maven/com.tunjid.tiler/tiler@1.2.0-alpha01?classifier=sources
+- pkg:maven/com.tunjid.tiler/tiler@1.2.0-beta01?classifier=sources

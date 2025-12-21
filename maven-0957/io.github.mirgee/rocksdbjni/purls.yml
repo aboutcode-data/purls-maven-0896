@@ -1,0 +1,5 @@
+- pkg:maven/io.github.mirgee/rocksdbjni@10.2.0?classifier=sources
+- pkg:maven/io.github.mirgee/rocksdbjni@9.7.3-c1?classifier=sources
+- pkg:maven/io.github.mirgee/rocksdbjni@9.7.3-c2?classifier=sources
+- pkg:maven/io.github.mirgee/rocksdbjni@9.7.3-c3?classifier=sources
+- pkg:maven/io.github.mirgee/rocksdbjni@9.7.3?classifier=sources

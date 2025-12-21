@@ -214,6 +214,7 @@
 - pkg:maven/org.mockito/mockito-android@5.15.2?classifier=sources
 - pkg:maven/org.mockito/mockito-android@5.16.0?classifier=sources
 - pkg:maven/org.mockito/mockito-android@5.16.1?classifier=sources
+- pkg:maven/org.mockito/mockito-android@5.17.0?classifier=sources
 - pkg:maven/org.mockito/mockito-android@5.2.0?classifier=sources
 - pkg:maven/org.mockito/mockito-android@5.3.0?classifier=sources
 - pkg:maven/org.mockito/mockito-android@5.3.1?classifier=sources

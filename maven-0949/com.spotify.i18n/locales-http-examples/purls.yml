@@ -1,2 +1,8 @@
 - pkg:maven/com.spotify.i18n/locales-http-examples@3.0.0
 - pkg:maven/com.spotify.i18n/locales-http-examples@3.0.0?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-http-examples@4.0.0
+- pkg:maven/com.spotify.i18n/locales-http-examples@4.0.0?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-http-examples@4.1.0
+- pkg:maven/com.spotify.i18n/locales-http-examples@4.1.0?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-http-examples@4.1.1
+- pkg:maven/com.spotify.i18n/locales-http-examples@4.1.1?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/net.sc8s/akka-components-persistence-r2dbc-lagom-api_sjs1_2.13@0.100.0
 - pkg:maven/net.sc8s/akka-components-persistence-r2dbc-lagom-api_sjs1_2.13@0.100.0?classifier=sources
+- pkg:maven/net.sc8s/akka-components-persistence-r2dbc-lagom-api_sjs1_2.13@0.101.0
+- pkg:maven/net.sc8s/akka-components-persistence-r2dbc-lagom-api_sjs1_2.13@0.101.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-persistence-r2dbc-lagom-api_sjs1_2.13@0.89.0
 - pkg:maven/net.sc8s/akka-components-persistence-r2dbc-lagom-api_sjs1_2.13@0.89.0?classifier=sources
 - pkg:maven/net.sc8s/akka-components-persistence-r2dbc-lagom-api_sjs1_2.13@0.90.0

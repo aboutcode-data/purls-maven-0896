@@ -48,3 +48,5 @@
 - pkg:maven/com.thetransactioncompany/cors-filter@2.9?classifier=sources
 - pkg:maven/com.thetransactioncompany/cors-filter@3.0
 - pkg:maven/com.thetransactioncompany/cors-filter@3.0?classifier=sources
+- pkg:maven/com.thetransactioncompany/cors-filter@3.1
+- pkg:maven/com.thetransactioncompany/cors-filter@3.1?classifier=sources

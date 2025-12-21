@@ -25,3 +25,4 @@
 - pkg:maven/io.insert-koin/koin-annotations-linuxx64@2.0.0-RC4?classifier=sources
 - pkg:maven/io.insert-koin/koin-annotations-linuxx64@2.0.0-RC5?classifier=sources
 - pkg:maven/io.insert-koin/koin-annotations-linuxx64@2.0.0?classifier=sources
+- pkg:maven/io.insert-koin/koin-annotations-linuxx64@2.0.1-Beta1?classifier=sources

@@ -31,3 +31,6 @@
 - pkg:maven/org.apache.felix/org.apache.felix.healthcheck.core@2.2.0
 - pkg:maven/org.apache.felix/org.apache.felix.healthcheck.core@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.healthcheck.core@2.2.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.core@2.3.0
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.core@2.3.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.healthcheck.core@2.3.0?classifier=sources

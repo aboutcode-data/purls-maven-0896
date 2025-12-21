@@ -75,6 +75,7 @@
 - pkg:maven/org.saynotobugs/confidence-test@0.6.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-test@0.60.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-test@0.61.0?classifier=sources
+- pkg:maven/org.saynotobugs/confidence-test@0.61.1?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-test@0.7.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-test@0.8.0?classifier=sources
 - pkg:maven/org.saynotobugs/confidence-test@0.8.1?classifier=sources

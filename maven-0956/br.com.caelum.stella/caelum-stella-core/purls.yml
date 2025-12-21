@@ -36,3 +36,5 @@
 - pkg:maven/br.com.caelum.stella/caelum-stella-core@2.1.7?classifier=sources
 - pkg:maven/br.com.caelum.stella/caelum-stella-core@2.2.0
 - pkg:maven/br.com.caelum.stella/caelum-stella-core@2.2.0?classifier=sources
+- pkg:maven/br.com.caelum.stella/caelum-stella-core@2.2.1
+- pkg:maven/br.com.caelum.stella/caelum-stella-core@2.2.1?classifier=sources

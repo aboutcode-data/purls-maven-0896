@@ -64,6 +64,8 @@
 - pkg:maven/com.outr/scribe-slf4j2_2.13@3.15.3?classifier=sources
 - pkg:maven/com.outr/scribe-slf4j2_2.13@3.16.0
 - pkg:maven/com.outr/scribe-slf4j2_2.13@3.16.0?classifier=sources
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.16.1
+- pkg:maven/com.outr/scribe-slf4j2_2.13@3.16.1?classifier=sources
 - pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.10
 - pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.10?classifier=sources
 - pkg:maven/com.outr/scribe-slf4j2_2.13@3.6.4

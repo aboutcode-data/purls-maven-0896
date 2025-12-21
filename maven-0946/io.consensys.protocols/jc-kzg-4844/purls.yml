@@ -1,1 +1,2 @@
 - pkg:maven/io.consensys.protocols/jc-kzg-4844@2.0.0?classifier=sources
+- pkg:maven/io.consensys.protocols/jc-kzg-4844@2.1.1?classifier=sources

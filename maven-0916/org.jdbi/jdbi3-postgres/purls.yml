@@ -202,6 +202,8 @@
 - pkg:maven/org.jdbi/jdbi3-postgres@3.48.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-postgres@3.49.0
 - pkg:maven/org.jdbi/jdbi3-postgres@3.49.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-postgres@3.49.1
+- pkg:maven/org.jdbi/jdbi3-postgres@3.49.1?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-postgres@3.5.0
 - pkg:maven/org.jdbi/jdbi3-postgres@3.5.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-postgres@3.5.1
