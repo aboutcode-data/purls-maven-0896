@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mlanett/tpe-agent@0.0.16?classifier=sources
+- pkg:maven/io.github.mlanett/tpe-agent@0.1.0?classifier=sources

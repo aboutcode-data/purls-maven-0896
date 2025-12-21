@@ -38,6 +38,9 @@
 - pkg:maven/com.palantir.tritium/tritium-registry@0.11.9?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.110.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.111.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-registry@0.112.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-registry@0.113.0?classifier=sources
+- pkg:maven/com.palantir.tritium/tritium-registry@0.114.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.12.0
 - pkg:maven/com.palantir.tritium/tritium-registry@0.12.0?classifier=sources
 - pkg:maven/com.palantir.tritium/tritium-registry@0.12.1

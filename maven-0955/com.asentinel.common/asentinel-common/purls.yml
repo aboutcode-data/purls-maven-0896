@@ -3,3 +3,5 @@
 - pkg:maven/com.asentinel.common/asentinel-common@1.71.0?classifier=sources
 - pkg:maven/com.asentinel.common/asentinel-common@1.71.1?classifier=sources
 - pkg:maven/com.asentinel.common/asentinel-common@1.71.2?classifier=sources
+- pkg:maven/com.asentinel.common/asentinel-common@1.71.3?classifier=sources
+- pkg:maven/com.asentinel.common/asentinel-common@1.71.4?classifier=sources

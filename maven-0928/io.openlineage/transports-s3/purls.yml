@@ -19,3 +19,5 @@
 - pkg:maven/io.openlineage/transports-s3@1.37.0?classifier=sources
 - pkg:maven/io.openlineage/transports-s3@1.38.0?classifier=sources
 - pkg:maven/io.openlineage/transports-s3@1.39.0?classifier=sources
+- pkg:maven/io.openlineage/transports-s3@1.40.0?classifier=sources
+- pkg:maven/io.openlineage/transports-s3@1.40.1?classifier=sources

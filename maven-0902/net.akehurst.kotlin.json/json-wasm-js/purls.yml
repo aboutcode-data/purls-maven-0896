@@ -1,1 +1,2 @@
 - pkg:maven/net.akehurst.kotlin.json/json-wasm-js@2.1.21?classifier=sources
+- pkg:maven/net.akehurst.kotlin.json/json-wasm-js@2.2.20?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.angular/material@20.2.14
+- pkg:maven/org.mvnpm.at.angular/material@20.2.14?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/material@21.0.0
+- pkg:maven/org.mvnpm.at.angular/material@21.0.0?classifier=sources

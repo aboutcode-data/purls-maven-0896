@@ -176,3 +176,5 @@
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.9.3?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.9.4
 - pkg:maven/org.opendaylight.bgpcep/pcep-config-example@0.9.4?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/pcep-config-example@1.0.0
+- pkg:maven/org.opendaylight.bgpcep/pcep-config-example@1.0.0?classifier=sources

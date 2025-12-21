@@ -69,6 +69,8 @@
 - pkg:maven/com.gu/flexible-model_2.12@1.7.12-PREVIEW.rename-end-field-to-endDate-to-avoid-thrift-reserved-word.2025-10-20T1712.66c5cd09
 - pkg:maven/com.gu/flexible-model_2.12@1.7.12-PREVIEW.rename-end-field-to-endDate-to-avoid-thrift-reserved-word.2025-10-20T1712.66c5cd09?classifier=sources
 - pkg:maven/com.gu/flexible-model_2.12@1.7.12?classifier=sources
+- pkg:maven/com.gu/flexible-model_2.12@1.7.13-PREVIEW.add-reporter-callout.2025-11-14T1735.abcf5946
+- pkg:maven/com.gu/flexible-model_2.12@1.7.13-PREVIEW.add-reporter-callout.2025-11-14T1735.abcf5946?classifier=sources
 - pkg:maven/com.gu/flexible-model_2.12@1.7.1?classifier=sources
 - pkg:maven/com.gu/flexible-model_2.12@1.7.2
 - pkg:maven/com.gu/flexible-model_2.12@1.7.2-PREVIEW.timeline-element.2024-03-28T0921.cf408d53

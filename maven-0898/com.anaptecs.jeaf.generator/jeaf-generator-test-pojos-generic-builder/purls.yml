@@ -11,3 +11,6 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-pojos-generic-builder@1.26.7?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-pojos-generic-builder@1.26.8?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-pojos-generic-builder@1.26.9?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-pojos-generic-builder@1.27.0?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-pojos-generic-builder@1.27.1?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-pojos-generic-builder@1.27.2?classifier=sources

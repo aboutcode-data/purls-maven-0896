@@ -39,3 +39,4 @@
 - pkg:maven/org.meyvn/meyvn-installer@1.5.7
 - pkg:maven/org.meyvn/meyvn-installer@1.5.7?classifier=sources
 - pkg:maven/org.meyvn/meyvn-installer@1.5.8?classifier=sources
+- pkg:maven/org.meyvn/meyvn-installer@1.5.9?classifier=sources

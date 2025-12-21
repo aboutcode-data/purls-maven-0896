@@ -1,5 +1,7 @@
 - pkg:maven/com.github.jobservice/job-service-scheduled-executor@10.0.0-633
 - pkg:maven/com.github.jobservice/job-service-scheduled-executor@10.0.0-633?classifier=sources
+- pkg:maven/com.github.jobservice/job-service-scheduled-executor@10.0.1-670
+- pkg:maven/com.github.jobservice/job-service-scheduled-executor@10.0.1-670?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-scheduled-executor@2.3.0-159
 - pkg:maven/com.github.jobservice/job-service-scheduled-executor@2.3.0-159?classifier=sources
 - pkg:maven/com.github.jobservice/job-service-scheduled-executor@2.4.0-211

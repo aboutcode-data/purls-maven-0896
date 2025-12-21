@@ -1,0 +1,2 @@
+- pkg:maven/com.pactlabs/internal-common@0.0.0-alpha004?classifier=sources
+- pkg:maven/com.pactlabs/internal-common@0.1.0?classifier=sources

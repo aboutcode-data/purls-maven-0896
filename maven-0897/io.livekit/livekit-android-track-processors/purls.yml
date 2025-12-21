@@ -13,3 +13,5 @@
 - pkg:maven/io.livekit/livekit-android-track-processors@2.20.2?classifier=sources
 - pkg:maven/io.livekit/livekit-android-track-processors@2.20.3?classifier=sources
 - pkg:maven/io.livekit/livekit-android-track-processors@2.21.0?classifier=sources
+- pkg:maven/io.livekit/livekit-android-track-processors@2.21.1?classifier=sources
+- pkg:maven/io.livekit/livekit-android-track-processors@2.22.0?classifier=sources

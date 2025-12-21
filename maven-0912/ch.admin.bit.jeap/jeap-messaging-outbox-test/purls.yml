@@ -1,3 +1,6 @@
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@10.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@10.0.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@10.1.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.15.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.16.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.17.0?classifier=sources
@@ -62,3 +65,5 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@9.1.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@9.2.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@9.3.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@9.3.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@9.4.0?classifier=sources

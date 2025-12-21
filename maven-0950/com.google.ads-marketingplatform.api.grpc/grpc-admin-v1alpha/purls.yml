@@ -36,6 +36,10 @@
 - pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.26.0?classifier=sources
 - pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.27.0
 - pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.27.0?classifier=sources
+- pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.28.0
+- pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.28.0?classifier=sources
+- pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.29.0
+- pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.29.0?classifier=sources
 - pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.3.0
 - pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.3.0?classifier=sources
 - pkg:maven/com.google.ads-marketingplatform.api.grpc/grpc-admin-v1alpha@0.4.0

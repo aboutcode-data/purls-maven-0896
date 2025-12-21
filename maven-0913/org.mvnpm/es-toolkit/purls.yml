@@ -22,3 +22,5 @@
 - pkg:maven/org.mvnpm/es-toolkit@1.40.0?classifier=sources
 - pkg:maven/org.mvnpm/es-toolkit@1.41.0
 - pkg:maven/org.mvnpm/es-toolkit@1.41.0?classifier=sources
+- pkg:maven/org.mvnpm/es-toolkit@1.42.0
+- pkg:maven/org.mvnpm/es-toolkit@1.42.0?classifier=sources

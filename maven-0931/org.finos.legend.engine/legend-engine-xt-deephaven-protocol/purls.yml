@@ -15,6 +15,9 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.106.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.107.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.107.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.108.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.109.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.110.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.75.1
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.75.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-deephaven-protocol@4.75.3

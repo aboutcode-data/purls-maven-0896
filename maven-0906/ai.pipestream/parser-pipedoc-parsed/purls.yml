@@ -1,0 +1,3 @@
+- pkg:maven/ai.pipestream/parser-pipedoc-parsed@0.0.1?classifier=sources
+- pkg:maven/ai.pipestream/parser-pipedoc-parsed@0.0.2?classifier=sources
+- pkg:maven/ai.pipestream/parser-pipedoc-parsed@0.2.2?classifier=sources

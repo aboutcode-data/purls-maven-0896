@@ -9,4 +9,6 @@
 - pkg:maven/ai.dragonfly/mesh_native0.5_3@0.15.2?classifier=sources
 - pkg:maven/ai.dragonfly/mesh_native0.5_3@0.15.3
 - pkg:maven/ai.dragonfly/mesh_native0.5_3@0.15.3?classifier=sources
+- pkg:maven/ai.dragonfly/mesh_native0.5_3@0.15.4
+- pkg:maven/ai.dragonfly/mesh_native0.5_3@0.15.4?classifier=sources
 - pkg:maven/ai.dragonfly/mesh_native0.5_3@0.15?classifier=sources

@@ -102,3 +102,4 @@
 - pkg:maven/org.eclipse.lmos/arc-graphql-spring-boot-starter@0.193.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-graphql-spring-boot-starter@0.194.0?classifier=sources
 - pkg:maven/org.eclipse.lmos/arc-graphql-spring-boot-starter@0.195.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/arc-graphql-spring-boot-starter@0.196.0?classifier=sources

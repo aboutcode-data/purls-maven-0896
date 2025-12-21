@@ -16,3 +16,4 @@
 - pkg:maven/io.getunleash/yggdrasil-engine@0.4.0?classifier=sources
 - pkg:maven/io.getunleash/yggdrasil-engine@0.4.1?classifier=sources
 - pkg:maven/io.getunleash/yggdrasil-engine@0.4.2?classifier=sources
+- pkg:maven/io.getunleash/yggdrasil-engine@0.4.3?classifier=sources

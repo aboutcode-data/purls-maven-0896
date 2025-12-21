@@ -401,6 +401,10 @@
 - pkg:maven/org.apache.hbase/hbase-examples@2.5.12-hadoop3
 - pkg:maven/org.apache.hbase/hbase-examples@2.5.12-hadoop3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-examples@2.5.12?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-examples@2.5.13
+- pkg:maven/org.apache.hbase/hbase-examples@2.5.13-hadoop3
+- pkg:maven/org.apache.hbase/hbase-examples@2.5.13-hadoop3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-examples@2.5.13?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-examples@2.5.1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-examples@2.5.2
 - pkg:maven/org.apache.hbase/hbase-examples@2.5.2-hadoop3
@@ -450,6 +454,10 @@
 - pkg:maven/org.apache.hbase/hbase-examples@2.6.3-hadoop3
 - pkg:maven/org.apache.hbase/hbase-examples@2.6.3-hadoop3?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-examples@2.6.3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-examples@2.6.4
+- pkg:maven/org.apache.hbase/hbase-examples@2.6.4-hadoop3
+- pkg:maven/org.apache.hbase/hbase-examples@2.6.4-hadoop3?classifier=sources
+- pkg:maven/org.apache.hbase/hbase-examples@2.6.4?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-examples@3.0.0-alpha-1
 - pkg:maven/org.apache.hbase/hbase-examples@3.0.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.hbase/hbase-examples@3.0.0-alpha-2

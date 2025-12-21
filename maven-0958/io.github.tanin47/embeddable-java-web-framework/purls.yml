@@ -2,3 +2,8 @@
 - pkg:maven/io.github.tanin47/embeddable-java-web-framework@0.1.0?classifier=sources
 - pkg:maven/io.github.tanin47/embeddable-java-web-framework@0.1.1
 - pkg:maven/io.github.tanin47/embeddable-java-web-framework@0.1.1?classifier=sources
+- pkg:maven/io.github.tanin47/embeddable-java-web-framework@0.2.0?classifier=sources
+- pkg:maven/io.github.tanin47/embeddable-java-web-framework@0.3.0?classifier=sources
+- pkg:maven/io.github.tanin47/embeddable-java-web-framework@0.4.0?classifier=sources
+- pkg:maven/io.github.tanin47/embeddable-java-web-framework@1.0.0-rc1?classifier=sources
+- pkg:maven/io.github.tanin47/embeddable-java-web-framework@1.0.0?classifier=sources

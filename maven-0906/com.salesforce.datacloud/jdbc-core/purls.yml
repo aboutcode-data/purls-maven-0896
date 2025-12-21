@@ -35,3 +35,5 @@
 - pkg:maven/com.salesforce.datacloud/jdbc-core@0.37.0?classifier=sources
 - pkg:maven/com.salesforce.datacloud/jdbc-core@0.38.0?classifier=sources
 - pkg:maven/com.salesforce.datacloud/jdbc-core@0.39.0?classifier=sources
+- pkg:maven/com.salesforce.datacloud/jdbc-core@0.40.0?classifier=sources
+- pkg:maven/com.salesforce.datacloud/jdbc-core@0.41.0?classifier=sources

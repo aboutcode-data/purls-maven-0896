@@ -30,6 +30,8 @@
 - pkg:maven/org.mvnpm/posthog-node@4.17.2?classifier=sources
 - pkg:maven/org.mvnpm/posthog-node@4.18.0
 - pkg:maven/org.mvnpm/posthog-node@4.18.0?classifier=sources
+- pkg:maven/org.mvnpm/posthog-node@4.18.1
+- pkg:maven/org.mvnpm/posthog-node@4.18.1?classifier=sources
 - pkg:maven/org.mvnpm/posthog-node@4.8.1?classifier=sources
 - pkg:maven/org.mvnpm/posthog-node@5.0.0
 - pkg:maven/org.mvnpm/posthog-node@5.0.0?classifier=sources
@@ -53,6 +55,16 @@
 - pkg:maven/org.mvnpm/posthog-node@5.11.1?classifier=sources
 - pkg:maven/org.mvnpm/posthog-node@5.11.2
 - pkg:maven/org.mvnpm/posthog-node@5.11.2?classifier=sources
+- pkg:maven/org.mvnpm/posthog-node@5.12.0
+- pkg:maven/org.mvnpm/posthog-node@5.12.0?classifier=sources
+- pkg:maven/org.mvnpm/posthog-node@5.13.0
+- pkg:maven/org.mvnpm/posthog-node@5.13.0?classifier=sources
+- pkg:maven/org.mvnpm/posthog-node@5.13.2
+- pkg:maven/org.mvnpm/posthog-node@5.13.2?classifier=sources
+- pkg:maven/org.mvnpm/posthog-node@5.14.0
+- pkg:maven/org.mvnpm/posthog-node@5.14.0?classifier=sources
+- pkg:maven/org.mvnpm/posthog-node@5.14.1
+- pkg:maven/org.mvnpm/posthog-node@5.14.1?classifier=sources
 - pkg:maven/org.mvnpm/posthog-node@5.2.1
 - pkg:maven/org.mvnpm/posthog-node@5.2.1?classifier=sources
 - pkg:maven/org.mvnpm/posthog-node@5.3.1

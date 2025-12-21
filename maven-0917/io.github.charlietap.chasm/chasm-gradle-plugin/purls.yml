@@ -8,3 +8,4 @@
 - pkg:maven/io.github.charlietap.chasm/chasm-gradle-plugin@1.0.0?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/chasm-gradle-plugin@1.1.0?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/chasm-gradle-plugin@2.0.0-1.2.0?classifier=sources
+- pkg:maven/io.github.charlietap.chasm/chasm-gradle-plugin@2.0.1-1.2.0?classifier=sources

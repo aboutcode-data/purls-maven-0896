@@ -8,4 +8,7 @@
 - pkg:maven/com.blazebit/blaze-query-connector-jira-cloud-jersey3-admin@1.0.17?classifier=sources
 - pkg:maven/com.blazebit/blaze-query-connector-jira-cloud-jersey3-admin@1.0.18?classifier=sources
 - pkg:maven/com.blazebit/blaze-query-connector-jira-cloud-jersey3-admin@1.0.19?classifier=sources
+- pkg:maven/com.blazebit/blaze-query-connector-jira-cloud-jersey3-admin@1.0.20?classifier=sources
+- pkg:maven/com.blazebit/blaze-query-connector-jira-cloud-jersey3-admin@1.0.21?classifier=sources
+- pkg:maven/com.blazebit/blaze-query-connector-jira-cloud-jersey3-admin@1.0.22?classifier=sources
 - pkg:maven/com.blazebit/blaze-query-connector-jira-cloud-jersey3-admin@1.0.9?classifier=sources

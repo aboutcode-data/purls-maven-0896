@@ -123,3 +123,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@8.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@8.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@8.0.3.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-session-spec-servlet-4.0@8.0.4.Final?classifier=sources

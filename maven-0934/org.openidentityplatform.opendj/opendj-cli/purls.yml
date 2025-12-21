@@ -68,3 +68,4 @@
 - pkg:maven/org.openidentityplatform.opendj/opendj-cli@4.9.4
 - pkg:maven/org.openidentityplatform.opendj/opendj-cli@4.9.4?classifier=sources
 - pkg:maven/org.openidentityplatform.opendj/opendj-cli@5.0.1?classifier=sources
+- pkg:maven/org.openidentityplatform.opendj/opendj-cli@5.0.2?classifier=sources

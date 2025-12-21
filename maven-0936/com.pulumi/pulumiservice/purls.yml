@@ -28,3 +28,8 @@
 - pkg:maven/com.pulumi/pulumiservice@0.30.0-alpha.1748628784?classifier=sources
 - pkg:maven/com.pulumi/pulumiservice@0.30.0-alpha.1750698447?classifier=sources
 - pkg:maven/com.pulumi/pulumiservice@0.30.0-alpha.1750699460?classifier=sources
+- pkg:maven/com.pulumi/pulumiservice@0.33.0-alpha.1761758449?classifier=sources
+- pkg:maven/com.pulumi/pulumiservice@0.33.0-alpha.1762957126?classifier=sources
+- pkg:maven/com.pulumi/pulumiservice@0.33.0-alpha.1762972296?classifier=sources
+- pkg:maven/com.pulumi/pulumiservice@0.33.0-alpha.1762973706?classifier=sources
+- pkg:maven/com.pulumi/pulumiservice@0.33.0-alpha.1763113137?classifier=sources

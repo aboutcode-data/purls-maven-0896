@@ -12,3 +12,5 @@
 - pkg:maven/dev.soundness/urticose-url@0.44.0?classifier=sources
 - pkg:maven/dev.soundness/urticose-url@0.45.0
 - pkg:maven/dev.soundness/urticose-url@0.45.0?classifier=sources
+- pkg:maven/dev.soundness/urticose-url@0.46.0
+- pkg:maven/dev.soundness/urticose-url@0.46.0?classifier=sources

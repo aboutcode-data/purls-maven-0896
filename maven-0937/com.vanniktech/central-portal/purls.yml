@@ -18,3 +18,5 @@
 - pkg:maven/com.vanniktech/central-portal@0.34.0-rc5?classifier=sources
 - pkg:maven/com.vanniktech/central-portal@0.34.0-rc6?classifier=sources
 - pkg:maven/com.vanniktech/central-portal@0.34.0?classifier=sources
+- pkg:maven/com.vanniktech/central-portal@0.35.0-rc1?classifier=sources
+- pkg:maven/com.vanniktech/central-portal@0.35.0?classifier=sources

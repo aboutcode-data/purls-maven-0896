@@ -16,3 +16,5 @@
 - pkg:maven/org.ta4j/ta4j-core@0.17?classifier=sources
 - pkg:maven/org.ta4j/ta4j-core@0.18
 - pkg:maven/org.ta4j/ta4j-core@0.18?classifier=sources
+- pkg:maven/org.ta4j/ta4j-core@0.19?classifier=sources
+- pkg:maven/org.ta4j/ta4j-core@0.21.0?classifier=sources

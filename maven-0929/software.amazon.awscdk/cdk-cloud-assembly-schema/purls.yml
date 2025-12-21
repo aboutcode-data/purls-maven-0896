@@ -1250,8 +1250,12 @@
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.17.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.18.0
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.18.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.19.0
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.19.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.2.0
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.2.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.20.0
+- pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.20.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.3.0
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.3.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema@48.4.0

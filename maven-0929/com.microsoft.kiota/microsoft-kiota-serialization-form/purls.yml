@@ -66,6 +66,7 @@
 - pkg:maven/com.microsoft.kiota/microsoft-kiota-serialization-form@1.7.0?classifier=sources
 - pkg:maven/com.microsoft.kiota/microsoft-kiota-serialization-form@1.8.0?classifier=sources
 - pkg:maven/com.microsoft.kiota/microsoft-kiota-serialization-form@1.8.10?classifier=sources
+- pkg:maven/com.microsoft.kiota/microsoft-kiota-serialization-form@1.8.11?classifier=sources
 - pkg:maven/com.microsoft.kiota/microsoft-kiota-serialization-form@1.8.1?classifier=sources
 - pkg:maven/com.microsoft.kiota/microsoft-kiota-serialization-form@1.8.2?classifier=sources
 - pkg:maven/com.microsoft.kiota/microsoft-kiota-serialization-form@1.8.3?classifier=sources

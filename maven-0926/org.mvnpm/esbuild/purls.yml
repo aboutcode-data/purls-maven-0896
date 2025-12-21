@@ -33,6 +33,8 @@
 - pkg:maven/org.mvnpm/esbuild@0.25.9?classifier=sources
 - pkg:maven/org.mvnpm/esbuild@0.26.0
 - pkg:maven/org.mvnpm/esbuild@0.26.0?classifier=sources
+- pkg:maven/org.mvnpm/esbuild@0.27.0
+- pkg:maven/org.mvnpm/esbuild@0.27.0?classifier=sources
 - pkg:maven/org.mvnpm/esbuild@0.8.57
 - pkg:maven/org.mvnpm/esbuild@0.8.57?classifier=sources
 - pkg:maven/org.mvnpm/esbuild@0.9.7?classifier=sources

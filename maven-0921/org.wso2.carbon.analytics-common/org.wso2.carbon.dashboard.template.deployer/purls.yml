@@ -118,6 +118,8 @@
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.51?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.52
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.52?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.65
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.2.65?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.3.0
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.3.0?classifier=sources
 - pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.dashboard.template.deployer@5.3.1

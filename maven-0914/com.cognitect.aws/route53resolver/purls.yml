@@ -33,3 +33,4 @@
 - pkg:maven/com.cognitect.aws/route53resolver@871.2.29.35
 - pkg:maven/com.cognitect.aws/route53resolver@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/route53resolver@871.2.32.2?classifier=sources
+- pkg:maven/com.cognitect.aws/route53resolver@871.2.38.8?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/org.mvnpm/fast-xml-parser@5.3.0?classifier=sources
 - pkg:maven/org.mvnpm/fast-xml-parser@5.3.1
 - pkg:maven/org.mvnpm/fast-xml-parser@5.3.1?classifier=sources
+- pkg:maven/org.mvnpm/fast-xml-parser@5.3.2
+- pkg:maven/org.mvnpm/fast-xml-parser@5.3.2?classifier=sources

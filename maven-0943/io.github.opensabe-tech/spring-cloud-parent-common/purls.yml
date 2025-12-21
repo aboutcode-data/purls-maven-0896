@@ -88,5 +88,6 @@
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-common@2.0.0-omicron?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-common@2.0.0-pi?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-common@2.0.0-rho?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-common@2.0.0-sigma?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-common@2.0.0-theta?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-common@2.0.0-vu?classifier=sources

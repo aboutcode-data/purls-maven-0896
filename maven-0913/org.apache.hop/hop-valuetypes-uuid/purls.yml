@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.hop/hop-valuetypes-uuid@2.16.0
+- pkg:maven/org.apache.hop/hop-valuetypes-uuid@2.16.0?classifier=sources

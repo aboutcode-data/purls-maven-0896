@@ -81,6 +81,7 @@
 - pkg:maven/org.apache.beam/beam-model-pipeline@2.66.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-model-pipeline@2.67.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-model-pipeline@2.68.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-model-pipeline@2.69.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-model-pipeline@2.7.0
 - pkg:maven/org.apache.beam/beam-model-pipeline@2.7.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-model-pipeline@2.8.0

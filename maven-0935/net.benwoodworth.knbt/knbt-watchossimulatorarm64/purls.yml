@@ -3,3 +3,4 @@
 - pkg:maven/net.benwoodworth.knbt/knbt-watchossimulatorarm64@0.11.6?classifier=sources
 - pkg:maven/net.benwoodworth.knbt/knbt-watchossimulatorarm64@0.11.7?classifier=sources
 - pkg:maven/net.benwoodworth.knbt/knbt-watchossimulatorarm64@0.11.8?classifier=sources
+- pkg:maven/net.benwoodworth.knbt/knbt-watchossimulatorarm64@0.11.9?classifier=sources

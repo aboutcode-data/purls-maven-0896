@@ -1,1 +1,3 @@
 - pkg:maven/ai.sensfrx/sensfrx-sdk@1.0.3?classifier=sources
+- pkg:maven/ai.sensfrx/sensfrx-sdk@1.0.6?classifier=sources
+- pkg:maven/ai.sensfrx/sensfrx-sdk@1.0.7?classifier=sources

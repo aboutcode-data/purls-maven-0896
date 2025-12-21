@@ -10,3 +10,4 @@
 - pkg:maven/org.jellyfin.sdk/jellyfin-api-okhttp-jvm@1.8.0?classifier=sources
 - pkg:maven/org.jellyfin.sdk/jellyfin-api-okhttp-jvm@1.8.1?classifier=sources
 - pkg:maven/org.jellyfin.sdk/jellyfin-api-okhttp-jvm@1.8.2?classifier=sources
+- pkg:maven/org.jellyfin.sdk/jellyfin-api-okhttp-jvm@1.8.3?classifier=sources

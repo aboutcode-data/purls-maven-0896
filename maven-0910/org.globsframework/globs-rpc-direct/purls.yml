@@ -1,3 +1,5 @@
+- pkg:maven/org.globsframework/globs-rpc-direct@4.10.0?classifier=sources
+- pkg:maven/org.globsframework/globs-rpc-direct@4.11.1?classifier=sources
 - pkg:maven/org.globsframework/globs-rpc-direct@4.2.0?classifier=sources
 - pkg:maven/org.globsframework/globs-rpc-direct@4.3.0?classifier=sources
 - pkg:maven/org.globsframework/globs-rpc-direct@4.4.0?classifier=sources
@@ -5,3 +7,4 @@
 - pkg:maven/org.globsframework/globs-rpc-direct@4.6.0?classifier=sources
 - pkg:maven/org.globsframework/globs-rpc-direct@4.7.0?classifier=sources
 - pkg:maven/org.globsframework/globs-rpc-direct@4.7.1?classifier=sources
+- pkg:maven/org.globsframework/globs-rpc-direct@4.9.0?classifier=sources

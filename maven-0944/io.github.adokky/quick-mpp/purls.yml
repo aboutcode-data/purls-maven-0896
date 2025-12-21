@@ -8,4 +8,6 @@
 - pkg:maven/io.github.adokky/quick-mpp@0.17?classifier=sources
 - pkg:maven/io.github.adokky/quick-mpp@0.18?classifier=sources
 - pkg:maven/io.github.adokky/quick-mpp@0.19?classifier=sources
+- pkg:maven/io.github.adokky/quick-mpp@0.20?classifier=sources
+- pkg:maven/io.github.adokky/quick-mpp@0.21?classifier=sources
 - pkg:maven/io.github.adokky/quick-mpp@0.9?classifier=sources

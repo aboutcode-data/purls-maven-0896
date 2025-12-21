@@ -13,3 +13,5 @@
 - pkg:maven/no.sikt/graphitron-error-handling-javax@6.1.3?classifier=sources
 - pkg:maven/no.sikt/graphitron-error-handling-javax@6.2.0?classifier=sources
 - pkg:maven/no.sikt/graphitron-error-handling-javax@7.0.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-error-handling-javax@7.1.0?classifier=sources
+- pkg:maven/no.sikt/graphitron-error-handling-javax@7.1.1?classifier=sources

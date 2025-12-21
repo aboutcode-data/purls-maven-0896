@@ -1,0 +1,6 @@
+- pkg:maven/net.flipper.busylib.kmp/-entrypoint-iosx64@0.0.1?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/-entrypoint-iosx64@0.0.3?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/-entrypoint-iosx64@0.0.4?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/-entrypoint-iosx64@0.0.5?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/-entrypoint-iosx64@0.0.6?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/-entrypoint-iosx64@0.0.7?classifier=sources

@@ -180,7 +180,11 @@
 - pkg:maven/com.google.cloud/google-cloud-gkehub@1.77.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gkehub@1.78.0
 - pkg:maven/com.google.cloud/google-cloud-gkehub@1.78.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gkehub@1.79.0
+- pkg:maven/com.google.cloud/google-cloud-gkehub@1.79.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gkehub@1.8.0
 - pkg:maven/com.google.cloud/google-cloud-gkehub@1.8.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gkehub@1.80.0
+- pkg:maven/com.google.cloud/google-cloud-gkehub@1.80.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gkehub@1.9.0
 - pkg:maven/com.google.cloud/google-cloud-gkehub@1.9.0?classifier=sources

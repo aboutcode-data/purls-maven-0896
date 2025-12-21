@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.react-native/assets-registry@0.74.0
 - pkg:maven/org.mvnpm.at.react-native/assets-registry@0.74.0?classifier=sources
+- pkg:maven/org.mvnpm.at.react-native/assets-registry@0.82.1
+- pkg:maven/org.mvnpm.at.react-native/assets-registry@0.82.1?classifier=sources

@@ -13,6 +13,10 @@
 - pkg:maven/com.xmlcalabash/polyglot@3.0.20?classifier=sources
 - pkg:maven/com.xmlcalabash/polyglot@3.0.21?classifier=sources
 - pkg:maven/com.xmlcalabash/polyglot@3.0.22?classifier=sources
+- pkg:maven/com.xmlcalabash/polyglot@3.0.23?classifier=sources
+- pkg:maven/com.xmlcalabash/polyglot@3.0.24?classifier=sources
+- pkg:maven/com.xmlcalabash/polyglot@3.0.25?classifier=sources
+- pkg:maven/com.xmlcalabash/polyglot@3.0.26?classifier=sources
 - pkg:maven/com.xmlcalabash/polyglot@3.0.2?classifier=sources
 - pkg:maven/com.xmlcalabash/polyglot@3.0.3?classifier=sources
 - pkg:maven/com.xmlcalabash/polyglot@3.0.4?classifier=sources

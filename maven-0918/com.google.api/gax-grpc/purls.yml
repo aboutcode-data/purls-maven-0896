@@ -358,6 +358,8 @@
 - pkg:maven/com.google.api/gax-grpc@2.67.1?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@2.67.2
 - pkg:maven/com.google.api/gax-grpc@2.67.2?classifier=sources
+- pkg:maven/com.google.api/gax-grpc@2.67.3
+- pkg:maven/com.google.api/gax-grpc@2.67.3?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@2.68.0
 - pkg:maven/com.google.api/gax-grpc@2.68.0?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@2.68.1
@@ -378,6 +380,10 @@
 - pkg:maven/com.google.api/gax-grpc@2.70.3?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@2.71.0
 - pkg:maven/com.google.api/gax-grpc@2.71.0?classifier=sources
+- pkg:maven/com.google.api/gax-grpc@2.72.0
+- pkg:maven/com.google.api/gax-grpc@2.72.0?classifier=sources
+- pkg:maven/com.google.api/gax-grpc@2.72.1
+- pkg:maven/com.google.api/gax-grpc@2.72.1?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@2.8.0?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@2.8.1?classifier=sources
 - pkg:maven/com.google.api/gax-grpc@2.9.0?classifier=sources

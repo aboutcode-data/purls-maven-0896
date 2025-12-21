@@ -8,3 +8,4 @@
 - pkg:maven/com.instabug.library/instabug-compiler-extension@2.0.10.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compiler-extension@2.0.20.0?classifier=sources
 - pkg:maven/com.instabug.library/instabug-compiler-extension@2.0.21.0?classifier=sources
+- pkg:maven/com.instabug.library/instabug-compiler-extension@2.2.21.0?classifier=sources

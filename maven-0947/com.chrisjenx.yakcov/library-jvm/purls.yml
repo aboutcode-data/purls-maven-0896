@@ -6,6 +6,7 @@
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.0.4?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.0.5?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.1.0?classifier=sources
+- pkg:maven/com.chrisjenx.yakcov/library-jvm@1.10.0?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-alpha02.1?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-alpha02.2?classifier=sources
 - pkg:maven/com.chrisjenx.yakcov/library-jvm@1.7.0-alpha02?classifier=sources

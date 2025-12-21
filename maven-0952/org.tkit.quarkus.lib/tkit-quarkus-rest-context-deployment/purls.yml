@@ -67,3 +67,6 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@3.6.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@4.0.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@4.1.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@4.2.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@4.3.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-rest-context-deployment@4.4.0?classifier=sources

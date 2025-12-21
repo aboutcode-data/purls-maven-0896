@@ -42,6 +42,8 @@
 - pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.15.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.15.1
 - pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.15.1?classifier=sources
+- pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.15.2-untested
+- pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.15.2-untested?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.16.0
 - pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.16.0?classifier=sources
 - pkg:maven/com.webcohesion.enunciate/enunciate-javac-support@2.16.1

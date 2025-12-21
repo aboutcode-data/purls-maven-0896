@@ -32,3 +32,5 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-web@1.9.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-web@1.9.2?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-web@1.9.3?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-web@2.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-web@2.1.0?classifier=sources

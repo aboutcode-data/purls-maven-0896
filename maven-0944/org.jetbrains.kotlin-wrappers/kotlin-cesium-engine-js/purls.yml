@@ -121,10 +121,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.10.9-21.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.0-21.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.1-21.0.1?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.10-22.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.11-22.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.12-22.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.2-22.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.3-22.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.4-22.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.5-22.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.6-22.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.7-22.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.8-22.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.11.9-22.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.2.0-13.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.2.1-13.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-cesium-engine-js@2025.2.10-14.0.0?classifier=sources

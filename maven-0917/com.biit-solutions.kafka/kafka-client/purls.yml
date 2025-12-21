@@ -1,1 +1,2 @@
+- pkg:maven/com.biit-solutions.kafka/kafka-client@1.2.3?classifier=sources
 - pkg:maven/com.biit-solutions.kafka/kafka-client@1.4.5?classifier=sources

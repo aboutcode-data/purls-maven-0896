@@ -40,3 +40,4 @@
 - pkg:maven/world.convex/convex-peer@0.8.0?classifier=sources
 - pkg:maven/world.convex/convex-peer@0.8.1
 - pkg:maven/world.convex/convex-peer@0.8.1?classifier=sources
+- pkg:maven/world.convex/convex-peer@0.8.2?classifier=sources

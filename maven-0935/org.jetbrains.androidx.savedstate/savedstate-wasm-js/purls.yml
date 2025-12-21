@@ -27,3 +27,4 @@
 - pkg:maven/org.jetbrains.androidx.savedstate/savedstate-wasm-js@1.4.0-alpha02?classifier=sources
 - pkg:maven/org.jetbrains.androidx.savedstate/savedstate-wasm-js@1.4.0-alpha03?classifier=sources
 - pkg:maven/org.jetbrains.androidx.savedstate/savedstate-wasm-js@1.4.0-beta01?classifier=sources
+- pkg:maven/org.jetbrains.androidx.savedstate/savedstate-wasm-js@1.4.0-rc01?classifier=sources

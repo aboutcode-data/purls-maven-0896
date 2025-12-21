@@ -122,6 +122,7 @@
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.0-RC2?type=war
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.0?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.0?type=war
+- pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.10?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.1?classifier=sources
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.1?type=war
 - pkg:maven/org.primefaces.extensions/primefaces-extensions-showcase@15.0.2?classifier=sources

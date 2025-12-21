@@ -1,0 +1,2 @@
+- pkg:maven/com.log10x/prometheus-remote-write@0.1.0-alpha?classifier=sources
+- pkg:maven/com.log10x/prometheus-remote-write@0.9.0?classifier=sources

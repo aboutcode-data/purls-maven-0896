@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel/camel-docling@4.15.0
 - pkg:maven/org.apache.camel/camel-docling@4.15.0?classifier=sources
+- pkg:maven/org.apache.camel/camel-docling@4.16.0
+- pkg:maven/org.apache.camel/camel-docling@4.16.0?classifier=sources

@@ -30,3 +30,4 @@
 - pkg:maven/com.cognitect.aws/budgets@871.2.32.10?classifier=sources
 - pkg:maven/com.cognitect.aws/budgets@871.2.32.20?classifier=sources
 - pkg:maven/com.cognitect.aws/budgets@871.2.34.1?classifier=sources
+- pkg:maven/com.cognitect.aws/budgets@871.2.37.4?classifier=sources

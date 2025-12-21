@@ -114,5 +114,7 @@
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.79.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.8.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.8.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.80.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.81.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.9.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.9.0?classifier=sources

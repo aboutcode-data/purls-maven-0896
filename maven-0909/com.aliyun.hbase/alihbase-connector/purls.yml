@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun.hbase/alihbase-connector@2.1.12
+- pkg:maven/com.aliyun.hbase/alihbase-connector@2.1.12?classifier=sources

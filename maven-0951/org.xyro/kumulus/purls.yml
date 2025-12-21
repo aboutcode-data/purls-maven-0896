@@ -36,3 +36,5 @@
 - pkg:maven/org.xyro/kumulus@0.1.40?classifier=sources
 - pkg:maven/org.xyro/kumulus@0.1.41
 - pkg:maven/org.xyro/kumulus@0.1.41?classifier=sources
+- pkg:maven/org.xyro/kumulus@0.1.42
+- pkg:maven/org.xyro/kumulus@0.1.42?classifier=sources

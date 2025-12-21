@@ -1,3 +1,4 @@
 - pkg:maven/org.pytorch/executorch-android-vulkan@1.0.0-rc2?classifier=sources
 - pkg:maven/org.pytorch/executorch-android-vulkan@1.0.0-rc5?classifier=sources
 - pkg:maven/org.pytorch/executorch-android-vulkan@1.0.0?classifier=sources
+- pkg:maven/org.pytorch/executorch-android-vulkan@1.0.1?classifier=sources

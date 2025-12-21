@@ -19,6 +19,7 @@
 - pkg:maven/io.appwrite/sdk-for-kotlin@12.1.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-kotlin@12.2.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-kotlin@12.2.1?classifier=sources
+- pkg:maven/io.appwrite/sdk-for-kotlin@12.3.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-kotlin@2.0.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-kotlin@3.0.0?classifier=sources
 - pkg:maven/io.appwrite/sdk-for-kotlin@3.0.1?classifier=sources

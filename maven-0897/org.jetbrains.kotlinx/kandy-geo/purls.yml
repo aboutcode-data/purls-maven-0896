@@ -28,6 +28,8 @@
 - pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.8.2-dev-87?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.8.2-dev-88?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.8.2-dev-90?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.8.3-dev-91?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.8.3-dev-92?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.9.0-dev-83?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.9.0-dev-84?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kandy-geo@0.9.0-dev-85?classifier=sources

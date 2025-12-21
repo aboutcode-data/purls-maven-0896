@@ -56,6 +56,7 @@
 - pkg:maven/br.com.jarch/jarch-faces@24.9.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-faces@25.1.0
 - pkg:maven/br.com.jarch/jarch-faces@25.1.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-faces@25.10.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-faces@25.2.0
 - pkg:maven/br.com.jarch/jarch-faces@25.2.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-faces@25.3.0
@@ -64,3 +65,7 @@
 - pkg:maven/br.com.jarch/jarch-faces@25.4.0?classifier=sources
 - pkg:maven/br.com.jarch/jarch-faces@25.5.0
 - pkg:maven/br.com.jarch/jarch-faces@25.5.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-faces@25.6.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-faces@25.7.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-faces@25.8.0?classifier=sources
+- pkg:maven/br.com.jarch/jarch-faces@25.9.0?classifier=sources

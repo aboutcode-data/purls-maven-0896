@@ -158,3 +158,5 @@
 - pkg:maven/org.apache.camel.springboot/camel-milo-starter@3.8.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-milo-starter@3.9.0
 - pkg:maven/org.apache.camel.springboot/camel-milo-starter@3.9.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-milo-starter@4.16.0
+- pkg:maven/org.apache.camel.springboot/camel-milo-starter@4.16.0?classifier=sources

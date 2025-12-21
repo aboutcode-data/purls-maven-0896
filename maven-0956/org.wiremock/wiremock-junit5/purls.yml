@@ -1,0 +1,2 @@
+- pkg:maven/org.wiremock/wiremock-junit5@4.0.0-beta.18?classifier=sources
+- pkg:maven/org.wiremock/wiremock-junit5@4.0.0-beta.19?classifier=sources

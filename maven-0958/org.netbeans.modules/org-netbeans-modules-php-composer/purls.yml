@@ -27,3 +27,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-composer@RELEASE280?classifier=sources

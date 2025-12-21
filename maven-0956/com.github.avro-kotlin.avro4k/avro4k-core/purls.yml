@@ -28,4 +28,5 @@
 - pkg:maven/com.github.avro-kotlin.avro4k/avro4k-core@2.5.3?classifier=sources
 - pkg:maven/com.github.avro-kotlin.avro4k/avro4k-core@2.5.4?classifier=sources
 - pkg:maven/com.github.avro-kotlin.avro4k/avro4k-core@2.6.0?classifier=sources
+- pkg:maven/com.github.avro-kotlin.avro4k/avro4k-core@2.7.0?classifier=sources
 - pkg:maven/com.github.avro-kotlin.avro4k/avro4k-core@v2.4.1?classifier=sources

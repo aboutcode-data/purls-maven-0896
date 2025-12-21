@@ -10,3 +10,4 @@
 - pkg:maven/com.ibeetl/template-benchmark@3.19.1.RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/template-benchmark@3.19.2.RELEASE
 - pkg:maven/com.ibeetl/template-benchmark@3.19.2.RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/template-benchmark@3.20.0.RELEASE?classifier=sources

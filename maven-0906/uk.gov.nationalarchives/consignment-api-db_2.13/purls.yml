@@ -112,3 +112,5 @@
 - pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.54?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.55
 - pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.55?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.56
+- pkg:maven/uk.gov.nationalarchives/consignment-api-db_2.13@0.1.56?classifier=sources

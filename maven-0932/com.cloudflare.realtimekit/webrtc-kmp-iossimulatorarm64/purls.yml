@@ -1,4 +1,5 @@
 - pkg:maven/com.cloudflare.realtimekit/webrtc-kmp-iossimulatorarm64@0.125.0?classifier=sources
+- pkg:maven/com.cloudflare.realtimekit/webrtc-kmp-iossimulatorarm64@0.125.10?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/webrtc-kmp-iossimulatorarm64@0.125.1?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/webrtc-kmp-iossimulatorarm64@0.125.2?classifier=sources
 - pkg:maven/com.cloudflare.realtimekit/webrtc-kmp-iossimulatorarm64@0.125.3?classifier=sources

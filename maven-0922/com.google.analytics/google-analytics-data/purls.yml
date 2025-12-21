@@ -220,3 +220,7 @@
 - pkg:maven/com.google.analytics/google-analytics-data@0.9.1?classifier=sources
 - pkg:maven/com.google.analytics/google-analytics-data@0.9.2
 - pkg:maven/com.google.analytics/google-analytics-data@0.9.2?classifier=sources
+- pkg:maven/com.google.analytics/google-analytics-data@0.90.0
+- pkg:maven/com.google.analytics/google-analytics-data@0.90.0?classifier=sources
+- pkg:maven/com.google.analytics/google-analytics-data@0.91.0
+- pkg:maven/com.google.analytics/google-analytics-data@0.91.0?classifier=sources

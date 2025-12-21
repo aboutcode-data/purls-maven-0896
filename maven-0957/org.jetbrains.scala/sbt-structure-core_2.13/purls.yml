@@ -82,3 +82,5 @@
 - pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2025.3.3?classifier=sources
 - pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2025.3.4
 - pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2025.3.4?classifier=sources
+- pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2025.3.5
+- pkg:maven/org.jetbrains.scala/sbt-structure-core_2.13@2025.3.5?classifier=sources

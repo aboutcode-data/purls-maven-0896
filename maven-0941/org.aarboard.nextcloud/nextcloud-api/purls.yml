@@ -36,3 +36,4 @@
 - pkg:maven/org.aarboard.nextcloud/nextcloud-api@13.0.1?classifier=sources
 - pkg:maven/org.aarboard.nextcloud/nextcloud-api@13.1.0
 - pkg:maven/org.aarboard.nextcloud/nextcloud-api@13.1.0?classifier=sources
+- pkg:maven/org.aarboard.nextcloud/nextcloud-api@14.1.0?classifier=sources

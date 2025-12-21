@@ -27,3 +27,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-samples@RELEASE280?classifier=sources

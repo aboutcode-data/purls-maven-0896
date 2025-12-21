@@ -8,6 +8,8 @@
 - pkg:maven/com.shoplworks/SDG-Android@0.0.16?type=aar
 - pkg:maven/com.shoplworks/SDG-Android@0.0.1?type=aar
 - pkg:maven/com.shoplworks/SDG-Android@0.0.20?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android@0.0.26?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android@0.0.27?classifier=sources
 - pkg:maven/com.shoplworks/SDG-Android@0.0.2?type=aar
 - pkg:maven/com.shoplworks/SDG-Android@0.0.3?type=aar
 - pkg:maven/com.shoplworks/SDG-Android@0.0.5?type=aar
@@ -45,3 +47,10 @@
 - pkg:maven/com.shoplworks/SDG-Android@1.5.1?type=aar
 - pkg:maven/com.shoplworks/SDG-Android@1.5.2?type=aar
 - pkg:maven/com.shoplworks/SDG-Android@1.5.3?type=aar
+- pkg:maven/com.shoplworks/SDG-Android@1.5.4?type=aar
+- pkg:maven/com.shoplworks/SDG-Android@1.5.5?type=aar
+- pkg:maven/com.shoplworks/SDG-Android@1.6.0?type=aar
+- pkg:maven/com.shoplworks/SDG-Android@1.6.1?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android@1.6.2?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android@1.6.3?classifier=sources
+- pkg:maven/com.shoplworks/SDG-Android@1.6.4?classifier=sources

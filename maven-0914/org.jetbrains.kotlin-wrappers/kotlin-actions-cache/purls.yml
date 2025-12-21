@@ -15,10 +15,17 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.10.9-4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.0-4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.1-4.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.10-4.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.11-4.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.12-4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.2-4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.3-4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.4-4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.5-4.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.6-4.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.7-4.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.8-4.1.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.11.9-4.1.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.4.0-4.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.4.1-4.0.1?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-cache@2025.4.10-4.0.3?classifier=sources

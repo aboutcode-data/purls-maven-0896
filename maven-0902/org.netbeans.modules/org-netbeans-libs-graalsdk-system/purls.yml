@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-graalsdk-system@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-graalsdk-system@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-libs-graalsdk-system@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-libs-graalsdk-system@RELEASE280?classifier=sources

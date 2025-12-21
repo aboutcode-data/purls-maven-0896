@@ -12,6 +12,10 @@
 - pkg:maven/io.zerows/r2mo-io@1.0-M21?classifier=sources
 - pkg:maven/io.zerows/r2mo-io@1.0-M22?classifier=sources
 - pkg:maven/io.zerows/r2mo-io@1.0-M23?classifier=sources
+- pkg:maven/io.zerows/r2mo-io@1.0-M24?classifier=sources
+- pkg:maven/io.zerows/r2mo-io@1.0-M25?classifier=sources
+- pkg:maven/io.zerows/r2mo-io@1.0-M26?classifier=sources
+- pkg:maven/io.zerows/r2mo-io@1.0-M27?classifier=sources
 - pkg:maven/io.zerows/r2mo-io@1.0-M2?classifier=sources
 - pkg:maven/io.zerows/r2mo-io@1.0-M3?classifier=sources
 - pkg:maven/io.zerows/r2mo-io@1.0-M4?classifier=sources
@@ -20,3 +24,5 @@
 - pkg:maven/io.zerows/r2mo-io@1.0-M7?classifier=sources
 - pkg:maven/io.zerows/r2mo-io@1.0-M8?classifier=sources
 - pkg:maven/io.zerows/r2mo-io@1.0-M9?classifier=sources
+- pkg:maven/io.zerows/r2mo-io@1.0.28?classifier=sources
+- pkg:maven/io.zerows/r2mo-io@1.0.29?classifier=sources

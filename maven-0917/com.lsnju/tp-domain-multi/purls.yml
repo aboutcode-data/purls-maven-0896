@@ -32,6 +32,9 @@
 - pkg:maven/com.lsnju/tp-domain-multi@2.7.31?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-multi@2.7.32?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-multi@2.7.33?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-multi@2.7.34?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-multi@2.7.35?classifier=sources
+- pkg:maven/com.lsnju/tp-domain-multi@2.7.36?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-multi@2.7.3?classifier=sources
 - pkg:maven/com.lsnju/tp-domain-multi@2.7.4
 - pkg:maven/com.lsnju/tp-domain-multi@2.7.4?classifier=sources

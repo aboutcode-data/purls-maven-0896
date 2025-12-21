@@ -13,3 +13,4 @@
 - pkg:maven/com.apadmi/mockzilla-iosarm64@2.2.3?classifier=sources
 - pkg:maven/com.apadmi/mockzilla-iosarm64@2.3.2?classifier=sources
 - pkg:maven/com.apadmi/mockzilla-iosarm64@2.4.1?classifier=sources
+- pkg:maven/com.apadmi/mockzilla-iosarm64@3.0.0-alpha1?classifier=sources

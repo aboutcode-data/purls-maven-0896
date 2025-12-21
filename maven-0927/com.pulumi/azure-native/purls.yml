@@ -272,6 +272,7 @@
 - pkg:maven/com.pulumi/azure-native@3.0.0?classifier=sources
 - pkg:maven/com.pulumi/azure-native@3.0.1?classifier=sources
 - pkg:maven/com.pulumi/azure-native@3.1.0?classifier=sources
+- pkg:maven/com.pulumi/azure-native@3.10.1?classifier=sources
 - pkg:maven/com.pulumi/azure-native@3.2.0?classifier=sources
 - pkg:maven/com.pulumi/azure-native@3.3.0?classifier=sources
 - pkg:maven/com.pulumi/azure-native@3.4.0?classifier=sources

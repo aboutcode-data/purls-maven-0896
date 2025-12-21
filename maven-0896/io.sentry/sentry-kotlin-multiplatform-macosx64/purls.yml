@@ -17,6 +17,8 @@
 - pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.19.0?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.2.1?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.20.0?classifier=sources
+- pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.21.0?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.4.0?classifier=sources
 - pkg:maven/io.sentry/sentry-kotlin-multiplatform-macosx64@0.5.0?classifier=sources

@@ -13,6 +13,7 @@
 - pkg:maven/com.scandit.datacapture.frameworks/label@6.28.4?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@6.28.5?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@6.28.6?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@6.28.7?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.0.0-beta.1?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.0.0-beta.2?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.0.0?classifier=sources
@@ -31,6 +32,8 @@
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.2.2?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.2.3?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.2.4?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@7.2.5?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@7.2.6?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.3.0-beta.1?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.3.0-beta.2?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.3.0?classifier=sources
@@ -51,5 +54,9 @@
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.6.0?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.6.1?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@7.6.2?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@7.6.3?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@7.6.4?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@7.6.5?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@8.0.0-beta.1?classifier=sources
 - pkg:maven/com.scandit.datacapture.frameworks/label@8.0.0-beta.2?classifier=sources
+- pkg:maven/com.scandit.datacapture.frameworks/label@8.0.0?classifier=sources

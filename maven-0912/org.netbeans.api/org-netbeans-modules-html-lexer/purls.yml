@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-lexer@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-lexer@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-lexer@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-html-lexer@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-html-lexer@RELEASE90?classifier=sources

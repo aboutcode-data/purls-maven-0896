@@ -32,3 +32,5 @@
 - pkg:maven/com.republicate.modality/modality-webapp@2.4?classifier=sources
 - pkg:maven/com.republicate.modality/modality-webapp@2.5
 - pkg:maven/com.republicate.modality/modality-webapp@2.5?classifier=sources
+- pkg:maven/com.republicate.modality/modality-webapp@2.6
+- pkg:maven/com.republicate.modality/modality-webapp@2.6?classifier=sources

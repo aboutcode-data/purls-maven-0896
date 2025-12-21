@@ -22,3 +22,5 @@
 - pkg:maven/com.spotify/magnolify-neo4j_2.13@0.7.4?classifier=sources
 - pkg:maven/com.spotify/magnolify-neo4j_2.13@0.8.0
 - pkg:maven/com.spotify/magnolify-neo4j_2.13@0.8.0?classifier=sources
+- pkg:maven/com.spotify/magnolify-neo4j_2.13@0.9.0
+- pkg:maven/com.spotify/magnolify-neo4j_2.13@0.9.0?classifier=sources

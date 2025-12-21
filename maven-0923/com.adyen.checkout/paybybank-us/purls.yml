@@ -4,6 +4,7 @@
 - pkg:maven/com.adyen.checkout/paybybank-us@5.13.0?classifier=sources
 - pkg:maven/com.adyen.checkout/paybybank-us@5.13.1?classifier=sources
 - pkg:maven/com.adyen.checkout/paybybank-us@5.14.0?classifier=sources
+- pkg:maven/com.adyen.checkout/paybybank-us@5.15.0?classifier=sources
 - pkg:maven/com.adyen.checkout/paybybank-us@5.8.0?classifier=sources
 - pkg:maven/com.adyen.checkout/paybybank-us@5.9.0?classifier=sources
 - pkg:maven/com.adyen.checkout/paybybank-us@5.9.1?classifier=sources

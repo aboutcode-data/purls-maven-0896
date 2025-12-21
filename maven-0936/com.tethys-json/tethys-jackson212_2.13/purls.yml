@@ -32,3 +32,5 @@
 - pkg:maven/com.tethys-json/tethys-jackson212_2.13@0.29.5?classifier=sources
 - pkg:maven/com.tethys-json/tethys-jackson212_2.13@0.29.6
 - pkg:maven/com.tethys-json/tethys-jackson212_2.13@0.29.6?classifier=sources
+- pkg:maven/com.tethys-json/tethys-jackson212_2.13@0.29.7
+- pkg:maven/com.tethys-json/tethys-jackson212_2.13@0.29.7?classifier=sources

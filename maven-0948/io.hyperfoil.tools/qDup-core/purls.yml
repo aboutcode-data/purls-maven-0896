@@ -1,2 +1,3 @@
 - pkg:maven/io.hyperfoil.tools/qDup-core@0.10.5?classifier=sources
 - pkg:maven/io.hyperfoil.tools/qDup-core@0.10.6?classifier=sources
+- pkg:maven/io.hyperfoil.tools/qDup-core@0.10.7?classifier=sources

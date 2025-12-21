@@ -248,3 +248,4 @@
 - pkg:maven/io.trino/trino-array@475?classifier=sources
 - pkg:maven/io.trino/trino-array@476
 - pkg:maven/io.trino/trino-array@476?classifier=sources
+- pkg:maven/io.trino/trino-array@478?classifier=sources

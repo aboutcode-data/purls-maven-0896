@@ -78,3 +78,4 @@
 - pkg:maven/com.google.appengine/quickstartgenerator@2.0.9?classifier=sources
 - pkg:maven/com.google.appengine/quickstartgenerator@3.0.0-beta?classifier=sources
 - pkg:maven/com.google.appengine/quickstartgenerator@3.0.1?classifier=sources
+- pkg:maven/com.google.appengine/quickstartgenerator@3.0.2?classifier=sources

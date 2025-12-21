@@ -2,6 +2,7 @@
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.authData@1.0.104?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.authData@1.0.105?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.authData@1.0.106?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.authData@1.0.107?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.authData@1.0.14
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.authData@1.0.15
 - pkg:maven/com.ibm.websphere.appserver.api/com.ibm.websphere.appserver.api.authData@1.0.16

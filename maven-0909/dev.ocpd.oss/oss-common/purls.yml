@@ -4,3 +4,4 @@
 - pkg:maven/dev.ocpd.oss/oss-common@0.5.0?classifier=sources
 - pkg:maven/dev.ocpd.oss/oss-common@1.0.0?classifier=sources
 - pkg:maven/dev.ocpd.oss/oss-common@2.0.0?classifier=sources
+- pkg:maven/dev.ocpd.oss/oss-common@2.2.0?classifier=sources

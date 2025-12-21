@@ -1,0 +1,5 @@
+- pkg:maven/net.flipper.busylib.kmp/entrypoint@0.0.10?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/entrypoint@0.0.11?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/entrypoint@0.0.12?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/entrypoint@0.0.8?classifier=sources
+- pkg:maven/net.flipper.busylib.kmp/entrypoint@0.0.9?classifier=sources

@@ -40,3 +40,5 @@
 - pkg:maven/site.addzero/gradle-modules-buddy@2025.10.07?classifier=sources
 - pkg:maven/site.addzero/gradle-modules-buddy@2025.10.19?classifier=sources
 - pkg:maven/site.addzero/gradle-modules-buddy@2025.10.20?classifier=sources
+- pkg:maven/site.addzero/gradle-modules-buddy@2025.11.29?classifier=sources
+- pkg:maven/site.addzero/gradle-modules-buddy@2025.11.30?classifier=sources

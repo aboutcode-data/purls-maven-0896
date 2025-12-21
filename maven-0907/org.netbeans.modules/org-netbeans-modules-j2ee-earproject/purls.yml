@@ -26,3 +26,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-earproject@RELEASE280?classifier=sources

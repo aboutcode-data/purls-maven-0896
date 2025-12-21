@@ -38,3 +38,4 @@
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.33?classifier=sources
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.34
 - pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.34?classifier=sources
+- pkg:maven/com.github.nbbrd.java-io-util/java-io-xml-bind@0.0.35?classifier=sources
