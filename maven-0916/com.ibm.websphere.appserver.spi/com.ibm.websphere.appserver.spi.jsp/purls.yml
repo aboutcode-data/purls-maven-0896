@@ -46,3 +46,4 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jsp@1.0.54
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jsp@1.0.9
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jsp@1.1.103?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.jsp@1.1.104?classifier=sources

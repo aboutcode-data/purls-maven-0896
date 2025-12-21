@@ -26,6 +26,9 @@
 - pkg:maven/dev.ikm.tinkar/coordinate@1.116.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/coordinate@1.117.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/coordinate@1.118.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/coordinate@1.119.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/coordinate@1.120.0?classifier=sources
+- pkg:maven/dev.ikm.tinkar/coordinate@1.121.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/coordinate@1.26.0
 - pkg:maven/dev.ikm.tinkar/coordinate@1.26.0?classifier=sources
 - pkg:maven/dev.ikm.tinkar/coordinate@1.34.0

@@ -1,0 +1,4 @@
+- pkg:maven/io.kevinlee/extras-circe_native0.5_2.13@0.48.0
+- pkg:maven/io.kevinlee/extras-circe_native0.5_2.13@0.48.0?classifier=sources
+- pkg:maven/io.kevinlee/extras-circe_native0.5_2.13@0.49.0
+- pkg:maven/io.kevinlee/extras-circe_native0.5_2.13@0.49.0?classifier=sources

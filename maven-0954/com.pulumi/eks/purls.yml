@@ -185,3 +185,4 @@
 - pkg:maven/com.pulumi/eks@3.9.0-alpha.1738000138?classifier=sources
 - pkg:maven/com.pulumi/eks@3.9.0?classifier=sources
 - pkg:maven/com.pulumi/eks@3.9.1?classifier=sources
+- pkg:maven/com.pulumi/eks@4.0.1?classifier=sources

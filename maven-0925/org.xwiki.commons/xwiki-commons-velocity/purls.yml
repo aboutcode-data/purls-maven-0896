@@ -518,6 +518,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@16.10.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@16.10.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@16.10.10?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@16.10.11?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@16.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@16.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@16.10.2?classifier=sources
@@ -611,9 +612,12 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.4.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.4.2?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.4.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.4.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.5.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.6.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.6.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.7.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-velocity@17.7.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@3.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@3.2-milestone-3
 - pkg:maven/org.xwiki.commons/xwiki-commons-velocity@3.2-milestone-3?classifier=sources

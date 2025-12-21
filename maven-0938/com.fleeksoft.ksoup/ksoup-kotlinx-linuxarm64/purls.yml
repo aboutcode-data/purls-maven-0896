@@ -2,3 +2,4 @@
 - pkg:maven/com.fleeksoft.ksoup/ksoup-kotlinx-linuxarm64@0.2.2?classifier=sources
 - pkg:maven/com.fleeksoft.ksoup/ksoup-kotlinx-linuxarm64@0.2.3?classifier=sources
 - pkg:maven/com.fleeksoft.ksoup/ksoup-kotlinx-linuxarm64@0.2.4?classifier=sources
+- pkg:maven/com.fleeksoft.ksoup/ksoup-kotlinx-linuxarm64@0.2.5?classifier=sources

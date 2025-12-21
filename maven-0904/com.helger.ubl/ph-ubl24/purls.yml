@@ -1,3 +1,4 @@
+- pkg:maven/com.helger.ubl/ph-ubl24@10.0.0?classifier=sources
 - pkg:maven/com.helger.ubl/ph-ubl24@8.0.0
 - pkg:maven/com.helger.ubl/ph-ubl24@8.0.0?classifier=sources
 - pkg:maven/com.helger.ubl/ph-ubl24@8.0.1

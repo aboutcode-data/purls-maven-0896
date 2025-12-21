@@ -1,3 +1,4 @@
 - pkg:maven/xyz.erupt/erupt-ai@1.12.20
 - pkg:maven/xyz.erupt/erupt-ai@1.12.20?classifier=sources
 - pkg:maven/xyz.erupt/erupt-ai@1.12.21?classifier=sources
+- pkg:maven/xyz.erupt/erupt-ai@1.12.23?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/com.sksamuel.cohort/cohort-cassandra@2.7.1?classifier=sources
 - pkg:maven/com.sksamuel.cohort/cohort-cassandra@2.7.2?classifier=sources
+- pkg:maven/com.sksamuel.cohort/cohort-cassandra@2.8.0?classifier=sources

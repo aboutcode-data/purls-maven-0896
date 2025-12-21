@@ -87,3 +87,4 @@
 - pkg:maven/com.izooto/android-sdk@3.1.4-beta-01?classifier=sources
 - pkg:maven/com.izooto/android-sdk@3.1.4-beta-02?classifier=sources
 - pkg:maven/com.izooto/android-sdk@3.1.4-beta-03?classifier=sources
+- pkg:maven/com.izooto/android-sdk@3.1.4?classifier=sources

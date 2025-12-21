@@ -114,6 +114,7 @@
 - pkg:maven/org.opencb.commons/commons-lib@5.4.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@5.5.0
 - pkg:maven/org.opencb.commons/commons-lib@5.5.0?classifier=sources
+- pkg:maven/org.opencb.commons/commons-lib@5.6.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@6.0.0
 - pkg:maven/org.opencb.commons/commons-lib@6.0.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@release-4.6.x

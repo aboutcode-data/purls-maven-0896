@@ -1,3 +1,5 @@
 - pkg:maven/org.fitframework.fel/fel-tool-mcp-server@3.5.0-M3?classifier=sources
 - pkg:maven/org.fitframework.fel/fel-tool-mcp-server@3.5.0-M4?classifier=sources
 - pkg:maven/org.fitframework.fel/fel-tool-mcp-server@3.5.0-M5?classifier=sources
+- pkg:maven/org.fitframework.fel/fel-tool-mcp-server@3.5.0-M6?classifier=sources
+- pkg:maven/org.fitframework.fel/fel-tool-mcp-server@3.5.0?classifier=sources

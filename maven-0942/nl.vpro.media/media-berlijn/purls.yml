@@ -1,3 +1,4 @@
+- pkg:maven/nl.vpro.media/media-berlijn@8.10.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-berlijn@8.2.0
 - pkg:maven/nl.vpro.media/media-berlijn@8.2.0?classifier=sources
 - pkg:maven/nl.vpro.media/media-berlijn@8.2.1

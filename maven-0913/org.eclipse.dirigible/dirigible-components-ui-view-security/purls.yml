@@ -166,6 +166,17 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@11.9.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.0.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.1.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.10.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.11.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.11.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.12.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.2.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.2.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.3.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.4.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.4.1?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.6.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.7.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.8.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-ui-view-security@12.9.0?classifier=sources

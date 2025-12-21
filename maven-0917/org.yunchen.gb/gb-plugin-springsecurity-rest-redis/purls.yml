@@ -18,3 +18,4 @@
 - pkg:maven/org.yunchen.gb/gb-plugin-springsecurity-rest-redis@1.4.0.0.M2?classifier=sources
 - pkg:maven/org.yunchen.gb/gb-plugin-springsecurity-rest-redis@1.4.0.0?classifier=sources
 - pkg:maven/org.yunchen.gb/gb-plugin-springsecurity-rest-redis@1.4.0.1.M1?classifier=sources
+- pkg:maven/org.yunchen.gb/gb-plugin-springsecurity-rest-redis@2.0.0.M0?classifier=sources

@@ -24,6 +24,7 @@
 - pkg:maven/space.x9x.radp/scaffold-simple@2.20.2?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@2.21?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@2.22?classifier=sources
+- pkg:maven/space.x9x.radp/scaffold-simple@2.23.1?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@2.23?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@3.12?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@3.13?classifier=sources
@@ -41,5 +42,6 @@
 - pkg:maven/space.x9x.radp/scaffold-simple@3.20.2?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@3.21?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@3.22?classifier=sources
+- pkg:maven/space.x9x.radp/scaffold-simple@3.23.1?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@3.23?classifier=sources
 - pkg:maven/space.x9x.radp/scaffold-simple@v2.22?classifier=sources

@@ -11,3 +11,4 @@
 - pkg:maven/org.jetbrains.androidx.window/window-core-watchosarm64@1.4.0-alpha06?classifier=sources
 - pkg:maven/org.jetbrains.androidx.window/window-core-watchosarm64@1.4.0-alpha08?classifier=sources
 - pkg:maven/org.jetbrains.androidx.window/window-core-watchosarm64@1.4.0-alpha09?classifier=sources
+- pkg:maven/org.jetbrains.androidx.window/window-core-watchosarm64@1.4.0-beta01?classifier=sources

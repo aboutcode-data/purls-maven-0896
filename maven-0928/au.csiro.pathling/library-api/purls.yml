@@ -46,3 +46,4 @@
 - pkg:maven/au.csiro.pathling/library-api@7.1.0?classifier=sources
 - pkg:maven/au.csiro.pathling/library-api@7.2.0
 - pkg:maven/au.csiro.pathling/library-api@7.2.0?classifier=sources
+- pkg:maven/au.csiro.pathling/library-api@8.0.0?classifier=sources

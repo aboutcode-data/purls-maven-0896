@@ -1,2 +1,3 @@
 - pkg:maven/org.daisy.libs/servlet-api@2.5.0
 - pkg:maven/org.daisy.libs/servlet-api@2.5.0?classifier=sources
+- pkg:maven/org.daisy.libs/servlet-api@3.1.0?classifier=sources

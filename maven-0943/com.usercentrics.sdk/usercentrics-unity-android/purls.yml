@@ -1,2 +1,4 @@
 - pkg:maven/com.usercentrics.sdk/usercentrics-unity-android@2.21.1-unity?classifier=sources
 - pkg:maven/com.usercentrics.sdk/usercentrics-unity-android@2.21.1?classifier=sources
+- pkg:maven/com.usercentrics.sdk/usercentrics-unity-android@2.22.1-unity?classifier=sources
+- pkg:maven/com.usercentrics.sdk/usercentrics-unity-android@2.22.2-unity?classifier=sources

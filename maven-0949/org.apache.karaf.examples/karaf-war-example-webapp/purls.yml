@@ -70,3 +70,5 @@
 - pkg:maven/org.apache.karaf.examples/karaf-war-example-webapp@4.4.6?type=war
 - pkg:maven/org.apache.karaf.examples/karaf-war-example-webapp@4.4.7?classifier=sources
 - pkg:maven/org.apache.karaf.examples/karaf-war-example-webapp@4.4.7?type=war
+- pkg:maven/org.apache.karaf.examples/karaf-war-example-webapp@4.4.8?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-war-example-webapp@4.4.8?type=war

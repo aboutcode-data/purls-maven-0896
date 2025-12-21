@@ -6,3 +6,6 @@
 - pkg:maven/com.tosan.client.redis/tedisson-spring-boot-sample@1.4.0?classifier=sources
 - pkg:maven/com.tosan.client.redis/tedisson-spring-boot-sample@1.4.1
 - pkg:maven/com.tosan.client.redis/tedisson-spring-boot-sample@1.4.1?classifier=sources
+- pkg:maven/com.tosan.client.redis/tedisson-spring-boot-sample@1.5.1?classifier=sources
+- pkg:maven/com.tosan.client.redis/tedisson-spring-boot-sample@1.6.0?classifier=sources
+- pkg:maven/com.tosan.client.redis/tedisson-spring-boot-sample@1.7.0?classifier=sources

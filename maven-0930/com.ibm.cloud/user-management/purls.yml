@@ -311,3 +311,4 @@
 - pkg:maven/com.ibm.cloud/user-management@0.68.2?classifier=sources
 - pkg:maven/com.ibm.cloud/user-management@0.68.3?classifier=sources
 - pkg:maven/com.ibm.cloud/user-management@0.68.4?classifier=sources
+- pkg:maven/com.ibm.cloud/user-management@0.68.5?classifier=sources

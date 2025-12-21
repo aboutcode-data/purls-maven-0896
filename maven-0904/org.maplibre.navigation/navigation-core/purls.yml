@@ -1,4 +1,5 @@
 - pkg:maven/org.maplibre.navigation/navigation-core@5.0.0-pre0?classifier=sources
+- pkg:maven/org.maplibre.navigation/navigation-core@5.0.0-pre10?classifier=sources
 - pkg:maven/org.maplibre.navigation/navigation-core@5.0.0-pre1?classifier=sources
 - pkg:maven/org.maplibre.navigation/navigation-core@5.0.0-pre2?classifier=sources
 - pkg:maven/org.maplibre.navigation/navigation-core@5.0.0-pre3?classifier=sources

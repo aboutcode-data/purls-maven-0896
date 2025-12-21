@@ -24,3 +24,9 @@
 - pkg:maven/com.tencent.kuikly-open/core-ksp@2.2.0-1.9.22?classifier=sources
 - pkg:maven/com.tencent.kuikly-open/core-ksp@2.2.0-2.0.21-ohos?classifier=sources
 - pkg:maven/com.tencent.kuikly-open/core-ksp@2.2.0-2.0.21?classifier=sources
+- pkg:maven/com.tencent.kuikly-open/core-ksp@2.3.0-2.0.21?classifier=sources
+- pkg:maven/com.tencent.kuikly-open/core-ksp@2.4.0-1.7.20?classifier=sources
+- pkg:maven/com.tencent.kuikly-open/core-ksp@2.4.0-1.8.21?classifier=sources
+- pkg:maven/com.tencent.kuikly-open/core-ksp@2.4.0-1.9.22?classifier=sources
+- pkg:maven/com.tencent.kuikly-open/core-ksp@2.4.0-2.0.21-ohos?classifier=sources
+- pkg:maven/com.tencent.kuikly-open/core-ksp@2.4.0-2.0.21?classifier=sources

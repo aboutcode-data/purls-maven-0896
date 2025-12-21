@@ -65,3 +65,5 @@
 - pkg:maven/com.facebook.airlift/jaxrs@0.219
 - pkg:maven/com.facebook.airlift/jaxrs@0.219?classifier=sources
 - pkg:maven/com.facebook.airlift/jaxrs@0.220?classifier=sources
+- pkg:maven/com.facebook.airlift/jaxrs@0.221?classifier=sources
+- pkg:maven/com.facebook.airlift/jaxrs@0.222?classifier=sources

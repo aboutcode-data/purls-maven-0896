@@ -72,6 +72,8 @@
 - pkg:maven/com.olvind.typo/typo_2.13@0.3.2?classifier=sources
 - pkg:maven/com.olvind.typo/typo_2.13@0.30.0
 - pkg:maven/com.olvind.typo/typo_2.13@0.30.0?classifier=sources
+- pkg:maven/com.olvind.typo/typo_2.13@0.31.0
+- pkg:maven/com.olvind.typo/typo_2.13@0.31.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo_2.13@0.4.0
 - pkg:maven/com.olvind.typo/typo_2.13@0.4.0?classifier=sources
 - pkg:maven/com.olvind.typo/typo_2.13@0.4.1

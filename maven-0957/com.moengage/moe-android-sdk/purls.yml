@@ -80,6 +80,8 @@
 - pkg:maven/com.moengage/moe-android-sdk@14.02.01?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@14.02.02?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@14.03.00?classifier=sources
+- pkg:maven/com.moengage/moe-android-sdk@14.03.01?classifier=sources
+- pkg:maven/com.moengage/moe-android-sdk@14.03.02?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@5.0.9?classifier=sources
 - pkg:maven/com.moengage/moe-android-sdk@5.0.9?type=aar
 - pkg:maven/com.moengage/moe-android-sdk@5.1.0?classifier=sources

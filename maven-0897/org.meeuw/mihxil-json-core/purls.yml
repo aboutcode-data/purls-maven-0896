@@ -2,6 +2,7 @@
 - pkg:maven/org.meeuw/mihxil-json-core@0.10?classifier=sources
 - pkg:maven/org.meeuw/mihxil-json-core@0.11
 - pkg:maven/org.meeuw/mihxil-json-core@0.11?classifier=sources
+- pkg:maven/org.meeuw/mihxil-json-core@0.13?classifier=sources
 - pkg:maven/org.meeuw/mihxil-json-core@0.7
 - pkg:maven/org.meeuw/mihxil-json-core@0.7?classifier=sources
 - pkg:maven/org.meeuw/mihxil-json-core@0.8

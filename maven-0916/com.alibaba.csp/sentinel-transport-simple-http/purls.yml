@@ -56,5 +56,6 @@
 - pkg:maven/com.alibaba.csp/sentinel-transport-simple-http@1.8.7?classifier=sources
 - pkg:maven/com.alibaba.csp/sentinel-transport-simple-http@1.8.8
 - pkg:maven/com.alibaba.csp/sentinel-transport-simple-http@1.8.8?classifier=sources
+- pkg:maven/com.alibaba.csp/sentinel-transport-simple-http@1.8.9-preview?classifier=sources
 - pkg:maven/com.alibaba.csp/sentinel-transport-simple-http@2.0.0-alpha
 - pkg:maven/com.alibaba.csp/sentinel-transport-simple-http@2.0.0-alpha?classifier=sources

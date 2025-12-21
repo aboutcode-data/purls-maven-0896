@@ -77,6 +77,7 @@
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.33?classifier=sources
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.34?classifier=sources
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.35?classifier=sources
+- pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.36?classifier=sources
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.3?classifier=sources
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.4
 - pkg:maven/io.swagger.core.v3/swagger-jaxrs2-servlet-initializer-v2@2.2.4?classifier=sources

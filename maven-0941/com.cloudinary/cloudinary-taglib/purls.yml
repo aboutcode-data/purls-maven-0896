@@ -138,3 +138,5 @@
 - pkg:maven/com.cloudinary/cloudinary-taglib@2.2.0?classifier=sources
 - pkg:maven/com.cloudinary/cloudinary-taglib@2.3.0
 - pkg:maven/com.cloudinary/cloudinary-taglib@2.3.0?classifier=sources
+- pkg:maven/com.cloudinary/cloudinary-taglib@2.3.2
+- pkg:maven/com.cloudinary/cloudinary-taglib@2.3.2?classifier=sources

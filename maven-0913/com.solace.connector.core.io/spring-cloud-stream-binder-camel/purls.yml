@@ -11,3 +11,4 @@
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-camel@1.4.4
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-camel@1.4.4?classifier=sources
 - pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-camel@1.4.5?classifier=sources
+- pkg:maven/com.solace.connector.core.io/spring-cloud-stream-binder-camel@1.4.6?classifier=sources

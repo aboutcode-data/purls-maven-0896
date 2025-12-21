@@ -15,3 +15,7 @@
 - pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@3.0.1?classifier=sources
 - pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@3.1.0?classifier=sources
 - pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@3.2.0?classifier=sources
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@3.2.1?classifier=sources
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@3.2.2?classifier=sources
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@3.2.3?classifier=sources
+- pkg:maven/io.volcanolabs/rds-iam-hikari-datasource@3.2.4?classifier=sources

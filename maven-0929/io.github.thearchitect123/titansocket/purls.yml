@@ -25,3 +25,8 @@
 - pkg:maven/io.github.thearchitect123/titansocket@0.2.6?classifier=sources
 - pkg:maven/io.github.thearchitect123/titansocket@0.2.7?classifier=sources
 - pkg:maven/io.github.thearchitect123/titansocket@0.2.8?classifier=sources
+- pkg:maven/io.github.thearchitect123/titansocket@0.3.2?classifier=sources
+- pkg:maven/io.github.thearchitect123/titansocket@0.3.3?classifier=sources
+- pkg:maven/io.github.thearchitect123/titansocket@0.3.6?classifier=sources
+- pkg:maven/io.github.thearchitect123/titansocket@0.3.7?classifier=sources
+- pkg:maven/io.github.thearchitect123/titansocket@0.4.0?classifier=sources

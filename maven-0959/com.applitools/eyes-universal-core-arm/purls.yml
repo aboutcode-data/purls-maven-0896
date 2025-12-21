@@ -112,3 +112,4 @@
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.73.2
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.73.2?classifier=sources
 - pkg:maven/com.applitools/eyes-universal-core-arm@5.74.1?classifier=sources
+- pkg:maven/com.applitools/eyes-universal-core-arm@5.75.0?classifier=sources

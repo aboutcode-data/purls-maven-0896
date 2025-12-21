@@ -2,3 +2,4 @@
 - pkg:maven/io.github.binance/binance-margin-trading@1.1.0?classifier=sources
 - pkg:maven/io.github.binance/binance-margin-trading@2.0.0?classifier=sources
 - pkg:maven/io.github.binance/binance-margin-trading@3.0.0?classifier=sources
+- pkg:maven/io.github.binance/binance-margin-trading@3.0.1?classifier=sources

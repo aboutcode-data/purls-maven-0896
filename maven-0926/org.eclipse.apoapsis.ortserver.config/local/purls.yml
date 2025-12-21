@@ -29,6 +29,10 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.20.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.21.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.22.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.23.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.24.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.25.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.3.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.4.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.config/local@0.5.0?classifier=sources

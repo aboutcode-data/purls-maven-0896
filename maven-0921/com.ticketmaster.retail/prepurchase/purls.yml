@@ -15,3 +15,5 @@
 - pkg:maven/com.ticketmaster.retail/prepurchase@3.3.9?classifier=sources
 - pkg:maven/com.ticketmaster.retail/prepurchase@3.6.0?classifier=sources
 - pkg:maven/com.ticketmaster.retail/prepurchase@3.6.1?classifier=sources
+- pkg:maven/com.ticketmaster.retail/prepurchase@3.7.0?classifier=sources
+- pkg:maven/com.ticketmaster.retail/prepurchase@3.7.1?classifier=sources

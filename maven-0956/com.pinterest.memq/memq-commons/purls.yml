@@ -8,3 +8,4 @@
 - pkg:maven/com.pinterest.memq/memq-commons@0.2.20?classifier=sources
 - pkg:maven/com.pinterest.memq/memq-commons@0.2.21
 - pkg:maven/com.pinterest.memq/memq-commons@0.2.21?classifier=sources
+- pkg:maven/com.pinterest.memq/memq-commons@1.0.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/com.google.auth/google-auth-library-cab-token-generator@1.37.0?classifier=sources
 - pkg:maven/com.google.auth/google-auth-library-cab-token-generator@1.37.1
 - pkg:maven/com.google.auth/google-auth-library-cab-token-generator@1.37.1?classifier=sources
+- pkg:maven/com.google.auth/google-auth-library-cab-token-generator@1.38.0
+- pkg:maven/com.google.auth/google-auth-library-cab-token-generator@1.38.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.neo4j.gds/gdl-graph@2.21.0
+- pkg:maven/org.neo4j.gds/gdl-graph@2.21.0?classifier=sources

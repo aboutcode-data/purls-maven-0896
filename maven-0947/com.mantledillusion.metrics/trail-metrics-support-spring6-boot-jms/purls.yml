@@ -1,2 +1,3 @@
 - pkg:maven/com.mantledillusion.metrics/trail-metrics-support-spring6-boot-jms@2.3.0
 - pkg:maven/com.mantledillusion.metrics/trail-metrics-support-spring6-boot-jms@2.3.0?classifier=sources
+- pkg:maven/com.mantledillusion.metrics/trail-metrics-support-spring6-boot-jms@2.4.0?classifier=sources

@@ -51,6 +51,8 @@
 - pkg:maven/community.flock.wirespec.converter/openapi-js@0.16.4?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-js@0.16.5?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-js@0.16.6?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-js@0.16.8?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/openapi-js@0.16.9?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-js@0.8.45?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-js@0.8.46?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/openapi-js@0.8.51?classifier=sources

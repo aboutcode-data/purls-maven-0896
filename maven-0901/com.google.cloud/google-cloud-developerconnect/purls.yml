@@ -32,8 +32,16 @@
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.24.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.25.0
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.25.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.27.0
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.27.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.28.0
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.28.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.29.0
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.29.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.3.0
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.3.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.30.0
+- pkg:maven/com.google.cloud/google-cloud-developerconnect@0.30.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.4.0
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.4.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-developerconnect@0.5.0

@@ -103,6 +103,12 @@
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.7.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.7.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.70.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.71.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.72.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.73.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.74.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.75.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.76.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.8.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.8.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.9.0

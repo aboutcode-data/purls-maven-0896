@@ -22,3 +22,8 @@
 - pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.37?classifier=sources
 - pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.38?classifier=sources
 - pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.39?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.40?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.41?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.42?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.43?classifier=sources
+- pkg:maven/dev.bannmann.labs.json-nav/nav-core@0.44?classifier=sources

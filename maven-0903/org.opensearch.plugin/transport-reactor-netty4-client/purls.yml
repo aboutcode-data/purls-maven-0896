@@ -14,3 +14,4 @@
 - pkg:maven/org.opensearch.plugin/transport-reactor-netty4-client@3.0.0-beta1?classifier=sources
 - pkg:maven/org.opensearch.plugin/transport-reactor-netty4-client@3.0.0?classifier=sources
 - pkg:maven/org.opensearch.plugin/transport-reactor-netty4-client@3.1.0?classifier=sources
+- pkg:maven/org.opensearch.plugin/transport-reactor-netty4-client@3.2.0?classifier=sources

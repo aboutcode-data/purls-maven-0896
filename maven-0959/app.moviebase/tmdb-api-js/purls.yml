@@ -40,3 +40,4 @@
 - pkg:maven/app.moviebase/tmdb-api-js@1.3.4?classifier=sources
 - pkg:maven/app.moviebase/tmdb-api-js@1.4.0?classifier=sources
 - pkg:maven/app.moviebase/tmdb-api-js@1.4.2?classifier=sources
+- pkg:maven/app.moviebase/tmdb-api-js@1.5.0?classifier=sources

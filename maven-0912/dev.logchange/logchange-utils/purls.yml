@@ -39,3 +39,4 @@
 - pkg:maven/dev.logchange/logchange-utils@1.19.6
 - pkg:maven/dev.logchange/logchange-utils@1.19.6?classifier=sources
 - pkg:maven/dev.logchange/logchange-utils@1.19.7?classifier=sources
+- pkg:maven/dev.logchange/logchange-utils@1.19.8?classifier=sources

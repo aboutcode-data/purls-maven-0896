@@ -76,3 +76,5 @@
 - pkg:maven/com.commercetools/sphere-json_2.13@0.15.8?classifier=sources
 - pkg:maven/com.commercetools/sphere-json_2.13@0.15.9
 - pkg:maven/com.commercetools/sphere-json_2.13@0.15.9?classifier=sources
+- pkg:maven/com.commercetools/sphere-json_2.13@0.16.0
+- pkg:maven/com.commercetools/sphere-json_2.13@0.16.0?classifier=sources

@@ -50,3 +50,4 @@
 - pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.72
 - pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.72?classifier=sources
 - pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.7?classifier=sources
+- pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.80?classifier=sources

@@ -59,5 +59,7 @@
 - pkg:maven/ch.exense.step/step-framework-model@2.3.3
 - pkg:maven/ch.exense.step/step-framework-model@2.3.3?classifier=sources
 - pkg:maven/ch.exense.step/step-framework-model@2.3.4?classifier=sources
+- pkg:maven/ch.exense.step/step-framework-model@2.3.5?classifier=sources
 - pkg:maven/ch.exense.step/step-framework-model@2.4.0?classifier=sources
 - pkg:maven/ch.exense.step/step-framework-model@2.4.1?classifier=sources
+- pkg:maven/ch.exense.step/step-framework-model@2.4.2?classifier=sources

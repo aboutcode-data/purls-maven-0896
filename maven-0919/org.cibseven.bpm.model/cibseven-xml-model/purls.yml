@@ -1,2 +1,3 @@
 - pkg:maven/org.cibseven.bpm.model/cibseven-xml-model@1.1.0?classifier=sources
 - pkg:maven/org.cibseven.bpm.model/cibseven-xml-model@2.0.0?classifier=sources
+- pkg:maven/org.cibseven.bpm.model/cibseven-xml-model@2.1.0-alpha?classifier=sources

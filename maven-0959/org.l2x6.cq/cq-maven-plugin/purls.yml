@@ -314,6 +314,7 @@
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@4.17.7?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@4.17.8?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@4.17.9?classifier=sources
+- pkg:maven/org.l2x6.cq/cq-maven-plugin@4.18.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@4.2.0
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@4.2.0?classifier=sources
 - pkg:maven/org.l2x6.cq/cq-maven-plugin@4.3.0

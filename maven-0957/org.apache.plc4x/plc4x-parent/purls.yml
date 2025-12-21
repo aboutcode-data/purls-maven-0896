@@ -2,6 +2,7 @@
 - pkg:maven/org.apache.plc4x/plc4x-parent@0.10.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.plc4x/plc4x-parent@0.11.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.plc4x/plc4x-parent@0.12.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.plc4x/plc4x-parent@0.13.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.plc4x/plc4x-parent@0.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.plc4x/plc4x-parent@0.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.plc4x/plc4x-parent@0.3.1?classifier=source-release&type=zip

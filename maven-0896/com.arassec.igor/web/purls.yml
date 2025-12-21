@@ -50,3 +50,4 @@
 - pkg:maven/com.arassec.igor/web@0.6.8?classifier=sources
 - pkg:maven/com.arassec.igor/web@0.7.0
 - pkg:maven/com.arassec.igor/web@0.7.0?classifier=sources
+- pkg:maven/com.arassec.igor/web@0.7.1?classifier=sources

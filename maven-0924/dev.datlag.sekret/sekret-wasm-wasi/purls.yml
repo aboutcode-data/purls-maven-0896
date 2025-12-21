@@ -13,3 +13,4 @@
 - pkg:maven/dev.datlag.sekret/sekret-wasm-wasi@2.1.1?classifier=sources
 - pkg:maven/dev.datlag.sekret/sekret-wasm-wasi@2.1.2?classifier=sources
 - pkg:maven/dev.datlag.sekret/sekret-wasm-wasi@2.2.0?classifier=sources
+- pkg:maven/dev.datlag.sekret/sekret-wasm-wasi@2.2.10?classifier=sources

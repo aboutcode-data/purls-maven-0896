@@ -102,3 +102,5 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.143.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.144.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.144.1?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.144.2?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.145.0?classifier=sources

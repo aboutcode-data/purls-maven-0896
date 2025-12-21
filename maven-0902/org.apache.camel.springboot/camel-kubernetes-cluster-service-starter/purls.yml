@@ -18,6 +18,8 @@
 - pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.12.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.13.0
 - pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.13.0?classifier=sources
+- pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.14.0
+- pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.14.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.6.0
 - pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.6.0?classifier=sources
 - pkg:maven/org.apache.camel.springboot/camel-kubernetes-cluster-service-starter@4.7.0

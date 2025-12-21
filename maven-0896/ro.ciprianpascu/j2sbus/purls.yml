@@ -13,3 +13,4 @@
 - pkg:maven/ro.ciprianpascu/j2sbus@1.5.7?classifier=sources
 - pkg:maven/ro.ciprianpascu/j2sbus@1.5.8?classifier=sources
 - pkg:maven/ro.ciprianpascu/j2sbus@1.5.9?classifier=sources
+- pkg:maven/ro.ciprianpascu/j2sbus@1.6.0?classifier=sources

@@ -90,3 +90,5 @@
 - pkg:maven/com.tvd12/ezyhttp-server-graphql@1.3.8?classifier=sources
 - pkg:maven/com.tvd12/ezyhttp-server-graphql@1.3.9
 - pkg:maven/com.tvd12/ezyhttp-server-graphql@1.3.9?classifier=sources
+- pkg:maven/com.tvd12/ezyhttp-server-graphql@1.4.0?classifier=sources
+- pkg:maven/com.tvd12/ezyhttp-server-graphql@1.4.1?classifier=sources

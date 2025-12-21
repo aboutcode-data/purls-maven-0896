@@ -43,9 +43,13 @@
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@18.6.1?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@18.7.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@18.7.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-live-update@18.7.2?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@19.0.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@19.1.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@19.10.0?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-live-update@19.10.1?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-live-update@19.10.2?classifier=sources
+- pkg:maven/com.urbanairship.android/urbanairship-live-update@19.11.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@19.2.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@19.3.0?classifier=sources
 - pkg:maven/com.urbanairship.android/urbanairship-live-update@19.4.0?classifier=sources

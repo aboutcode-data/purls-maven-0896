@@ -19,3 +19,5 @@
 - pkg:maven/io.github.octestx/basic-multiplatform-lib-jvm@0.1.4-DownVer?classifier=sources
 - pkg:maven/io.github.octestx/basic-multiplatform-lib-jvm@0.1.4-DownVerB?classifier=sources
 - pkg:maven/io.github.octestx/basic-multiplatform-lib-jvm@0.1.4?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-lib-jvm@0.2.3?classifier=sources
+- pkg:maven/io.github.octestx/basic-multiplatform-lib-jvm@0.2?classifier=sources

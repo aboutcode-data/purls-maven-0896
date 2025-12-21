@@ -11,6 +11,7 @@
 - pkg:maven/org.codehaus.plexus/plexus@20?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@21?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@22?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus@23?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@6.3?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@6.4?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus@6.5?classifier=source-release&type=zip

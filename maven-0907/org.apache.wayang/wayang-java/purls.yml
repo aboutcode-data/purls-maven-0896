@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.wayang/wayang-java@0.7.1?classifier=sources
 - pkg:maven/org.apache.wayang/wayang-java@1.0.0
 - pkg:maven/org.apache.wayang/wayang-java@1.0.0?classifier=sources
+- pkg:maven/org.apache.wayang/wayang-java@1.1.0
+- pkg:maven/org.apache.wayang/wayang-java@1.1.0?classifier=sources

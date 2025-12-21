@@ -34,3 +34,5 @@
 - pkg:maven/dev.inmo/micro_utils.colors-js@0.25.8?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.colors-js@0.26.0?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.colors-js@0.26.1?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors-js@0.26.2?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.colors-js@0.26.3?classifier=sources

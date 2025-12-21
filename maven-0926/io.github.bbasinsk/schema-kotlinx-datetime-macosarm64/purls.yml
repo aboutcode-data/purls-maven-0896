@@ -57,3 +57,6 @@
 - pkg:maven/io.github.bbasinsk/schema-kotlinx-datetime-macosarm64@0.0.71?classifier=sources
 - pkg:maven/io.github.bbasinsk/schema-kotlinx-datetime-macosarm64@0.0.72?classifier=sources
 - pkg:maven/io.github.bbasinsk/schema-kotlinx-datetime-macosarm64@0.0.73?classifier=sources
+- pkg:maven/io.github.bbasinsk/schema-kotlinx-datetime-macosarm64@0.0.74?classifier=sources
+- pkg:maven/io.github.bbasinsk/schema-kotlinx-datetime-macosarm64@0.0.75?classifier=sources
+- pkg:maven/io.github.bbasinsk/schema-kotlinx-datetime-macosarm64@0.0.76?classifier=sources

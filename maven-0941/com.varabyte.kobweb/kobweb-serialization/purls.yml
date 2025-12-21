@@ -8,3 +8,4 @@
 - pkg:maven/com.varabyte.kobweb/kobweb-serialization@0.21.1?classifier=sources
 - pkg:maven/com.varabyte.kobweb/kobweb-serialization@0.22.0?classifier=sources
 - pkg:maven/com.varabyte.kobweb/kobweb-serialization@0.23.0?classifier=sources
+- pkg:maven/com.varabyte.kobweb/kobweb-serialization@0.23.1?classifier=sources

@@ -24,3 +24,4 @@
 - pkg:maven/dev.jonpoulton.alakazam/di-dagger@5.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/di-dagger@6.0.0?classifier=sources
 - pkg:maven/dev.jonpoulton.alakazam/di-dagger@6.1.0?classifier=sources
+- pkg:maven/dev.jonpoulton.alakazam/di-dagger@6.2.0?classifier=sources

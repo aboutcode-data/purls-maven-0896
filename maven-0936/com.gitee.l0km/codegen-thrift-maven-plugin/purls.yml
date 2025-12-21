@@ -315,3 +315,4 @@
 - pkg:maven/com.gitee.l0km/codegen-thrift-maven-plugin@3.5.0
 - pkg:maven/com.gitee.l0km/codegen-thrift-maven-plugin@3.5.0?classifier=sources
 - pkg:maven/com.gitee.l0km/codegen-thrift-maven-plugin@3.6.0?classifier=sources
+- pkg:maven/com.gitee.l0km/codegen-thrift-maven-plugin@3.6.1?classifier=sources

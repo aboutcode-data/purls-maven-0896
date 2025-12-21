@@ -146,3 +146,7 @@
 - pkg:maven/io.github.thearchitect123/kmpEssentials-watchosarm32@2.3.9?classifier=sources
 - pkg:maven/io.github.thearchitect123/kmpEssentials-watchosarm32@2.4.0?classifier=sources
 - pkg:maven/io.github.thearchitect123/kmpEssentials-watchosarm32@2.4.1?classifier=sources
+- pkg:maven/io.github.thearchitect123/kmpEssentials-watchosarm32@2.4.2?classifier=sources
+- pkg:maven/io.github.thearchitect123/kmpEssentials-watchosarm32@2.4.3?classifier=sources
+- pkg:maven/io.github.thearchitect123/kmpEssentials-watchosarm32@2.4.4?classifier=sources
+- pkg:maven/io.github.thearchitect123/kmpEssentials-watchosarm32@2.4.5?classifier=sources

@@ -72,3 +72,5 @@
 - pkg:maven/org.apache.deltaspike.modules/deltaspike-jpa-module-api@1.9.6?classifier=sources
 - pkg:maven/org.apache.deltaspike.modules/deltaspike-jpa-module-api@2.0.0
 - pkg:maven/org.apache.deltaspike.modules/deltaspike-jpa-module-api@2.0.0?classifier=sources
+- pkg:maven/org.apache.deltaspike.modules/deltaspike-jpa-module-api@2.0.1
+- pkg:maven/org.apache.deltaspike.modules/deltaspike-jpa-module-api@2.0.1?classifier=sources

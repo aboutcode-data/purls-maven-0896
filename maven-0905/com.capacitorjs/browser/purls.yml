@@ -20,3 +20,4 @@
 - pkg:maven/com.capacitorjs/browser@6.0.3?classifier=sources
 - pkg:maven/com.capacitorjs/browser@6.0.4?classifier=sources
 - pkg:maven/com.capacitorjs/browser@7.0.0?classifier=sources
+- pkg:maven/com.capacitorjs/browser@7.0.1?classifier=sources

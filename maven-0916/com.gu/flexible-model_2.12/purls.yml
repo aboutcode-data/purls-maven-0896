@@ -33,6 +33,10 @@
 - pkg:maven/com.gu/flexible-model_2.12@1.7.1
 - pkg:maven/com.gu/flexible-model_2.12@1.7.1-PREVIEW.adopt-GHA-Scala-Library-Release-Workflow.2024-03-14T1839.2640e23c
 - pkg:maven/com.gu/flexible-model_2.12@1.7.1-PREVIEW.adopt-GHA-Scala-Library-Release-Workflow.2024-03-14T1839.2640e23c?classifier=sources
+- pkg:maven/com.gu/flexible-model_2.12@1.7.10-PREVIEW.add-new-podcast-fields.2025-08-07T1404.747b2f50
+- pkg:maven/com.gu/flexible-model_2.12@1.7.10-PREVIEW.add-new-podcast-fields.2025-08-07T1404.747b2f50?classifier=sources
+- pkg:maven/com.gu/flexible-model_2.12@1.7.10-PREVIEW.add-new-podcast-fields.2025-08-27T1442.3caf1412
+- pkg:maven/com.gu/flexible-model_2.12@1.7.10-PREVIEW.add-new-podcast-fields.2025-08-27T1442.3caf1412?classifier=sources
 - pkg:maven/com.gu/flexible-model_2.12@1.7.1?classifier=sources
 - pkg:maven/com.gu/flexible-model_2.12@1.7.2
 - pkg:maven/com.gu/flexible-model_2.12@1.7.2-PREVIEW.timeline-element.2024-03-28T0921.cf408d53

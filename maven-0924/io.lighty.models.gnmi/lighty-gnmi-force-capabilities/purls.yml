@@ -74,3 +74,4 @@
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@21.1.0?classifier=sources
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@21.2.0
 - pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@21.2.0?classifier=sources
+- pkg:maven/io.lighty.models.gnmi/lighty-gnmi-force-capabilities@22.0.0?classifier=sources

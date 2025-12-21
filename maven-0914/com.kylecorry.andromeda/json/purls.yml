@@ -26,3 +26,5 @@
 - pkg:maven/com.kylecorry.andromeda/json@15.1.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/json@15.2.0?classifier=sources
 - pkg:maven/com.kylecorry.andromeda/json@15.3.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/json@16.0.0?classifier=sources
+- pkg:maven/com.kylecorry.andromeda/json@16.0.1?classifier=sources

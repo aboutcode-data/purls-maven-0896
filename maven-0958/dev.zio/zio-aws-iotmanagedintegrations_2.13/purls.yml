@@ -6,3 +6,7 @@
 - pkg:maven/dev.zio/zio-aws-iotmanagedintegrations_2.13@7.31.52.1?classifier=sources
 - pkg:maven/dev.zio/zio-aws-iotmanagedintegrations_2.13@7.31.52.2
 - pkg:maven/dev.zio/zio-aws-iotmanagedintegrations_2.13@7.31.52.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-iotmanagedintegrations_2.13@7.32.24.2
+- pkg:maven/dev.zio/zio-aws-iotmanagedintegrations_2.13@7.32.24.2?classifier=sources
+- pkg:maven/dev.zio/zio-aws-iotmanagedintegrations_2.13@7.32.29.1
+- pkg:maven/dev.zio/zio-aws-iotmanagedintegrations_2.13@7.32.29.1?classifier=sources

@@ -1,3 +1,6 @@
 - pkg:maven/com.cardinalblue/kraftshade-compose@1.0.32?classifier=sources
 - pkg:maven/com.cardinalblue/kraftshade-compose@1.0.33?classifier=sources
 - pkg:maven/com.cardinalblue/kraftshade-compose@1.0.34?classifier=sources
+- pkg:maven/com.cardinalblue/kraftshade-compose@1.0.36?classifier=sources
+- pkg:maven/com.cardinalblue/kraftshade-compose@1.0.37?classifier=sources
+- pkg:maven/com.cardinalblue/kraftshade-compose@1.0.38?classifier=sources

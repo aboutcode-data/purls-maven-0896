@@ -9,3 +9,5 @@
 - pkg:maven/top.redscorpion.api/redscorpion-api-all@0.2.5?classifier=sources
 - pkg:maven/top.redscorpion.api/redscorpion-api-all@0.2.6?classifier=sources
 - pkg:maven/top.redscorpion.api/redscorpion-api-all@0.2.7?classifier=sources
+- pkg:maven/top.redscorpion.api/redscorpion-api-all@0.2.8
+- pkg:maven/top.redscorpion.api/redscorpion-api-all@0.2.8?classifier=sources

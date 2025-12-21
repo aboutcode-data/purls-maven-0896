@@ -1,6 +1,7 @@
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@0.111.111?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@0.111.112?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@0.111.113?classifier=sources
+- pkg:maven/com.vmware.pscoe.iac/artifact-manager@0.111.114?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.30.0
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.30.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@2.31.0
@@ -51,6 +52,7 @@
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.0.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.1.0
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.1.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.10.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.2.0
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.2.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.2.1
@@ -66,3 +68,6 @@
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.6.0
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.6.0?classifier=sources
 - pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.7.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.8.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.9.0?classifier=sources
+- pkg:maven/com.vmware.pscoe.iac/artifact-manager@4.9.1?classifier=sources

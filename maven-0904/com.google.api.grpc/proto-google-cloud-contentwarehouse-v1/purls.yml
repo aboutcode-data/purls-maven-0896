@@ -112,6 +112,14 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.63.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.64.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.64.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.66.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.66.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.67.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.67.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.68.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.68.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.69.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.69.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.7.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.7.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-contentwarehouse-v1@0.8.0

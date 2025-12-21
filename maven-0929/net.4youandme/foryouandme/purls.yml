@@ -84,6 +84,8 @@
 - pkg:maven/net.4youandme/foryouandme@0.4.35?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.4.36?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.4.37?classifier=sources
+- pkg:maven/net.4youandme/foryouandme@0.4.38?classifier=sources
+- pkg:maven/net.4youandme/foryouandme@0.4.39?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.4.3?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.4.4?classifier=sources
 - pkg:maven/net.4youandme/foryouandme@0.4.5?classifier=sources

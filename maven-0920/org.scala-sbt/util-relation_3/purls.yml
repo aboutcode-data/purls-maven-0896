@@ -6,6 +6,16 @@
 - pkg:maven/org.scala-sbt/util-relation_3@2.0.0-M3?classifier=sources
 - pkg:maven/org.scala-sbt/util-relation_3@2.0.0-M4
 - pkg:maven/org.scala-sbt/util-relation_3@2.0.0-M4?classifier=sources
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-M5
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-M5?classifier=sources
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC1
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC1?classifier=sources
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC2
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC2?classifier=sources
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC3
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC3?classifier=sources
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC4
+- pkg:maven/org.scala-sbt/util-relation_3@2.0.0-RC4?classifier=sources
 - pkg:maven/org.scala-sbt/util-relation_3@2.0.0-alpha1
 - pkg:maven/org.scala-sbt/util-relation_3@2.0.0-alpha10
 - pkg:maven/org.scala-sbt/util-relation_3@2.0.0-alpha10?classifier=sources

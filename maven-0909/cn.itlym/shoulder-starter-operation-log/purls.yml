@@ -24,3 +24,5 @@
 - pkg:maven/cn.itlym/shoulder-starter-operation-log@1.0.0-M4.1
 - pkg:maven/cn.itlym/shoulder-starter-operation-log@1.1.0
 - pkg:maven/cn.itlym/shoulder-starter-operation-log@1.1.1
+- pkg:maven/cn.itlym/shoulder-starter-operation-log@1.2.0?classifier=sources
+- pkg:maven/cn.itlym/shoulder-starter-operation-log@1.2.1?classifier=sources

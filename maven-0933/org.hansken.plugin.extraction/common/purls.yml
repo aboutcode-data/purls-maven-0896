@@ -40,3 +40,4 @@
 - pkg:maven/org.hansken.plugin.extraction/common@0.9.7?classifier=sources
 - pkg:maven/org.hansken.plugin.extraction/common@0.9.8
 - pkg:maven/org.hansken.plugin.extraction/common@0.9.8?classifier=sources
+- pkg:maven/org.hansken.plugin.extraction/common@0.9.9?classifier=sources

@@ -128,3 +128,4 @@
 - pkg:maven/org.redisson/redisson-hibernate-6@3.49.0?classifier=sources
 - pkg:maven/org.redisson/redisson-hibernate-6@3.50.0
 - pkg:maven/org.redisson/redisson-hibernate-6@3.50.0?classifier=sources
+- pkg:maven/org.redisson/redisson-hibernate-6@3.51.0?classifier=sources

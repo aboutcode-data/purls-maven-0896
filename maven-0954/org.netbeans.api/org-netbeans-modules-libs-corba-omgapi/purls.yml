@@ -24,3 +24,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-libs-corba-omgapi@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-libs-corba-omgapi@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-libs-corba-omgapi@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-libs-corba-omgapi@RELEASE270?classifier=sources

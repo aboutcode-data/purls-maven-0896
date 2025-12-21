@@ -22,3 +22,5 @@
 - pkg:maven/dev.zio/zio-sqs_3@0.8.0?classifier=sources
 - pkg:maven/dev.zio/zio-sqs_3@0.8.1
 - pkg:maven/dev.zio/zio-sqs_3@0.8.1?classifier=sources
+- pkg:maven/dev.zio/zio-sqs_3@0.9.1
+- pkg:maven/dev.zio/zio-sqs_3@0.9.1?classifier=sources

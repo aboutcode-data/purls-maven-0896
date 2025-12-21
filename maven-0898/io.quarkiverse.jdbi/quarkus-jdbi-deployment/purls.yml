@@ -28,3 +28,4 @@
 - pkg:maven/io.quarkiverse.jdbi/quarkus-jdbi-deployment@1.7.3?classifier=sources
 - pkg:maven/io.quarkiverse.jdbi/quarkus-jdbi-deployment@1.7.4?classifier=sources
 - pkg:maven/io.quarkiverse.jdbi/quarkus-jdbi-deployment@1.7.5?classifier=sources
+- pkg:maven/io.quarkiverse.jdbi/quarkus-jdbi-deployment@1.8.0?classifier=sources

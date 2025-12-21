@@ -5,6 +5,9 @@
 - pkg:maven/com.markelliot.result/result@0.121.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.122.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.123.0?classifier=sources
+- pkg:maven/com.markelliot.result/result@0.124.0?classifier=sources
+- pkg:maven/com.markelliot.result/result@0.125.0?classifier=sources
+- pkg:maven/com.markelliot.result/result@0.126.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.13.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.14.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.15.0?classifier=sources
