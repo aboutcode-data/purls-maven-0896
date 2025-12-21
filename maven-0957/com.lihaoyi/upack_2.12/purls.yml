@@ -126,3 +126,5 @@
 - pkg:maven/com.lihaoyi/upack_2.12@4.1.0-test-publish
 - pkg:maven/com.lihaoyi/upack_2.12@4.1.0-test-publish?classifier=sources
 - pkg:maven/com.lihaoyi/upack_2.12@4.1.0?classifier=sources
+- pkg:maven/com.lihaoyi/upack_2.12@4.2.1
+- pkg:maven/com.lihaoyi/upack_2.12@4.2.1?classifier=sources

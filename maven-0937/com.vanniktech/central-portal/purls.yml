@@ -7,3 +7,5 @@
 - pkg:maven/com.vanniktech/central-portal@0.31.0-rc1?classifier=sources
 - pkg:maven/com.vanniktech/central-portal@0.31.0-rc2?classifier=sources
 - pkg:maven/com.vanniktech/central-portal@0.31.0?classifier=sources
+- pkg:maven/com.vanniktech/central-portal@0.32.0-rc1?classifier=sources
+- pkg:maven/com.vanniktech/central-portal@0.32.0?classifier=sources

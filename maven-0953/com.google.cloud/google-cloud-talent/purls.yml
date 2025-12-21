@@ -268,6 +268,12 @@
 - pkg:maven/com.google.cloud/google-cloud-talent@2.60.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-talent@2.61.0
 - pkg:maven/com.google.cloud/google-cloud-talent@2.61.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-talent@2.62.0
+- pkg:maven/com.google.cloud/google-cloud-talent@2.62.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-talent@2.63.0
+- pkg:maven/com.google.cloud/google-cloud-talent@2.63.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-talent@2.64.0
+- pkg:maven/com.google.cloud/google-cloud-talent@2.64.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-talent@2.7.0
 - pkg:maven/com.google.cloud/google-cloud-talent@2.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-talent@2.8.0

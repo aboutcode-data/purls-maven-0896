@@ -1,4 +1,8 @@
 - pkg:maven/ru.i-novus.config/config-web@1.10.1
 - pkg:maven/ru.i-novus.config/config-web@1.10.1?classifier=sources
+- pkg:maven/ru.i-novus.config/config-web@1.10.2
+- pkg:maven/ru.i-novus.config/config-web@1.10.2?classifier=sources
+- pkg:maven/ru.i-novus.config/config-web@1.10.3
+- pkg:maven/ru.i-novus.config/config-web@1.10.3?classifier=sources
 - pkg:maven/ru.i-novus.config/config-web@2.0.0
 - pkg:maven/ru.i-novus.config/config-web@2.0.0?classifier=sources

@@ -12,6 +12,9 @@
 - pkg:maven/de.fraunhofer.aisec/codyze-core@10.0.0-beta6?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/codyze-core@10.0.0-beta7?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/codyze-core@10.0.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/codyze-core@10.1.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/codyze-core@10.2.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/codyze-core@10.3.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/codyze-core@9.1.0
 - pkg:maven/de.fraunhofer.aisec/codyze-core@9.1.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/codyze-core@9.1.1

@@ -8,3 +8,5 @@
 - pkg:maven/cn.com.jeeweb/common-poi@3.0.2?classifier=sources
 - pkg:maven/cn.com.jeeweb/common-poi@3.0.8
 - pkg:maven/cn.com.jeeweb/common-poi@3.0.8?classifier=sources
+- pkg:maven/cn.com.jeeweb/common-poi@3.1.0
+- pkg:maven/cn.com.jeeweb/common-poi@3.1.0?classifier=sources

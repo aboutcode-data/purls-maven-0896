@@ -14,6 +14,7 @@
 - pkg:maven/io.github.mjfryc/mjaron-tinyloki-java@1.1.4?classifier=sources
 - pkg:maven/io.github.mjfryc/mjaron-tinyloki-java@1.1.5?classifier=sources
 - pkg:maven/io.github.mjfryc/mjaron-tinyloki-java@1.1.6?classifier=sources
+- pkg:maven/io.github.mjfryc/mjaron-tinyloki-java@1.1.8?classifier=sources
 - pkg:maven/io.github.mjfryc/mjaron-tinyloki-java@v0.3.4-alpha.1?classifier=sources
 - pkg:maven/io.github.mjfryc/mjaron-tinyloki-java@v0.3.5?classifier=sources
 - pkg:maven/io.github.mjfryc/mjaron-tinyloki-java@v0.3.7?classifier=sources

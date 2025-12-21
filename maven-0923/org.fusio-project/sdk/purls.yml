@@ -27,6 +27,7 @@
 - pkg:maven/org.fusio-project/sdk@5.1.14?classifier=sources
 - pkg:maven/org.fusio-project/sdk@5.1.15?classifier=sources
 - pkg:maven/org.fusio-project/sdk@5.1.16?classifier=sources
+- pkg:maven/org.fusio-project/sdk@5.1.17?classifier=sources
 - pkg:maven/org.fusio-project/sdk@5.1.8
 - pkg:maven/org.fusio-project/sdk@5.1.8?classifier=sources
 - pkg:maven/org.fusio-project/sdk@5.1.9?classifier=sources

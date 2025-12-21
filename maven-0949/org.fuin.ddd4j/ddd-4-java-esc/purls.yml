@@ -1,2 +1,4 @@
 - pkg:maven/org.fuin.ddd4j/ddd-4-java-esc@0.6.0
 - pkg:maven/org.fuin.ddd4j/ddd-4-java-esc@0.6.0?classifier=sources
+- pkg:maven/org.fuin.ddd4j/ddd-4-java-esc@0.7.0
+- pkg:maven/org.fuin.ddd4j/ddd-4-java-esc@0.7.0?classifier=sources

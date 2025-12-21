@@ -20,3 +20,4 @@
 - pkg:maven/com.ksmpartners/quarkus-domino-client-deployment@5.9.1.4?classifier=sources
 - pkg:maven/com.ksmpartners/quarkus-domino-client-deployment@6.0.1.0
 - pkg:maven/com.ksmpartners/quarkus-domino-client-deployment@6.0.1.0?classifier=sources
+- pkg:maven/com.ksmpartners/quarkus-domino-client-deployment@6.0.1.1?classifier=sources

@@ -94,3 +94,5 @@
 - pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@3.8.3?classifier=sources
 - pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@3.8.4
 - pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@3.8.4?classifier=sources
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@3.8.5
+- pkg:maven/com.sap.hcp.cf.logging/cf-java-logging-support-log4j2@3.8.5?classifier=sources

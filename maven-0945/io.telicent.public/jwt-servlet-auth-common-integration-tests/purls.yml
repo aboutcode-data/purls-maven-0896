@@ -11,3 +11,5 @@
 - pkg:maven/io.telicent.public/jwt-servlet-auth-common-integration-tests@0.17.4
 - pkg:maven/io.telicent.public/jwt-servlet-auth-common-integration-tests@0.17.5
 - pkg:maven/io.telicent.public/jwt-servlet-auth-common-integration-tests@0.17.6
+- pkg:maven/io.telicent.public/jwt-servlet-auth-common-integration-tests@1.0.0
+- pkg:maven/io.telicent.public/jwt-servlet-auth-common-integration-tests@1.0.1

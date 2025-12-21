@@ -22,3 +22,5 @@
 - pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-jvm@2.4.7?classifier=sources
 - pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-jvm@2.4.8?classifier=sources
 - pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-jvm@2.4.9?classifier=sources
+- pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-jvm@2.5.0?classifier=sources
+- pkg:maven/dev.reformator.stacktracedecoroutinator/stacktrace-decoroutinator-jvm@2.5.1?classifier=sources

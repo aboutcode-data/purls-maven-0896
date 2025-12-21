@@ -12,6 +12,7 @@
 - pkg:maven/com.pulumi/pulumiservice@0.28.0-alpha.1737484627?classifier=sources
 - pkg:maven/com.pulumi/pulumiservice@0.29.0?classifier=sources
 - pkg:maven/com.pulumi/pulumiservice@0.29.1?classifier=sources
+- pkg:maven/com.pulumi/pulumiservice@0.29.2?classifier=sources
 - pkg:maven/com.pulumi/pulumiservice@0.30.0-alpha.1739554721?classifier=sources
 - pkg:maven/com.pulumi/pulumiservice@0.30.0-alpha.1739555170?classifier=sources
 - pkg:maven/com.pulumi/pulumiservice@0.30.0-alpha.1741203486?classifier=sources

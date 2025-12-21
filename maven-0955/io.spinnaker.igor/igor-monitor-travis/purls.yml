@@ -1,5 +1,12 @@
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0-0?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0-1?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0-2?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0-3?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0-4?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0-5?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0.0?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0.1?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@2025.0.2?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.10.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.10.1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.10.2?classifier=sources
@@ -28,6 +35,7 @@
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.19.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.19.1?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.19.2?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.19.3?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.20.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.21.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.22.0?classifier=sources
@@ -54,7 +62,13 @@
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.7.6?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.8.0?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@4.9.0?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-10?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-11?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-12?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-13?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-5?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-6?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-7?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-8?classifier=sources
+- pkg:maven/io.spinnaker.igor/igor-monitor-travis@main-9?classifier=sources
 - pkg:maven/io.spinnaker.igor/igor-monitor-travis@version-1.18.0?classifier=sources

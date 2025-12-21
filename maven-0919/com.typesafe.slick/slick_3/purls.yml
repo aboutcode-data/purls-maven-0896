@@ -12,3 +12,5 @@
 - pkg:maven/com.typesafe.slick/slick_3@3.5.2?classifier=sources
 - pkg:maven/com.typesafe.slick/slick_3@3.6.0
 - pkg:maven/com.typesafe.slick/slick_3@3.6.0?classifier=sources
+- pkg:maven/com.typesafe.slick/slick_3@3.6.1
+- pkg:maven/com.typesafe.slick/slick_3@3.6.1?classifier=sources

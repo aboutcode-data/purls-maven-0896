@@ -50,3 +50,7 @@
 - pkg:maven/com.aliyun/adb20190315@4.5.0?classifier=sources
 - pkg:maven/com.aliyun/adb20190315@4.6.0
 - pkg:maven/com.aliyun/adb20190315@4.6.0?classifier=sources
+- pkg:maven/com.aliyun/adb20190315@5.0.0
+- pkg:maven/com.aliyun/adb20190315@5.0.0?classifier=sources
+- pkg:maven/com.aliyun/adb20190315@5.0.1
+- pkg:maven/com.aliyun/adb20190315@5.0.1?classifier=sources

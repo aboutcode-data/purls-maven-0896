@@ -42,3 +42,5 @@
 - pkg:maven/org.flyte/jflyte-utils@0.4.60?classifier=sources
 - pkg:maven/org.flyte/jflyte-utils@0.4.61
 - pkg:maven/org.flyte/jflyte-utils@0.4.61?classifier=sources
+- pkg:maven/org.flyte/jflyte-utils@0.4.62
+- pkg:maven/org.flyte/jflyte-utils@0.4.62?classifier=sources

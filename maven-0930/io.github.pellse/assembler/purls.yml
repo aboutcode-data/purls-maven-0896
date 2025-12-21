@@ -3,6 +3,7 @@
 - pkg:maven/io.github.pellse/assembler@0.0.2
 - pkg:maven/io.github.pellse/assembler@0.0.2?classifier=sources
 - pkg:maven/io.github.pellse/assembler@0.7.10?classifier=sources
+- pkg:maven/io.github.pellse/assembler@0.7.11?classifier=sources
 - pkg:maven/io.github.pellse/assembler@0.7.2?classifier=sources
 - pkg:maven/io.github.pellse/assembler@0.7.3?classifier=sources
 - pkg:maven/io.github.pellse/assembler@0.7.4?classifier=sources

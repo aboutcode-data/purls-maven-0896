@@ -88,3 +88,5 @@
 - pkg:maven/com.mercadopago/sdk-java@2.1.9?classifier=sources
 - pkg:maven/com.mercadopago/sdk-java@2.2.0
 - pkg:maven/com.mercadopago/sdk-java@2.2.0?classifier=sources
+- pkg:maven/com.mercadopago/sdk-java@2.4.0
+- pkg:maven/com.mercadopago/sdk-java@2.4.0?classifier=sources

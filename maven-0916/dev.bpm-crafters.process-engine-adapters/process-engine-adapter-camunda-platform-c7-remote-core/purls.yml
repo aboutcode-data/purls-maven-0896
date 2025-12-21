@@ -4,3 +4,5 @@
 - pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-remote-core@2025.04.2?classifier=sources
 - pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-remote-core@2025.04.3
 - pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-remote-core@2025.04.3?classifier=sources
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-remote-core@2025.05.1
+- pkg:maven/dev.bpm-crafters.process-engine-adapters/process-engine-adapter-camunda-platform-c7-remote-core@2025.05.1?classifier=sources

@@ -75,3 +75,7 @@
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@5.2.0?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@5.2.29?classifier=sources
 - pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@5.2.6?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@6.0.0?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@6.0.11?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@6.0.15?classifier=sources
+- pkg:maven/com.github.nagyesta.abort-mission.testkit/abort.testkit@6.0.9?classifier=sources

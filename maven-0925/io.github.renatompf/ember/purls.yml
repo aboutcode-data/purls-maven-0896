@@ -1,0 +1,4 @@
+- pkg:maven/io.github.renatompf/ember@1.0.0?classifier=sources
+- pkg:maven/io.github.renatompf/ember@1.1.0?classifier=sources
+- pkg:maven/io.github.renatompf/ember@1.2.0?classifier=sources
+- pkg:maven/io.github.renatompf/ember@2.0.0?classifier=sources

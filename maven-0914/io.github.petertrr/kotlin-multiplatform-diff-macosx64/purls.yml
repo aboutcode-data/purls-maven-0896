@@ -6,3 +6,4 @@
 - pkg:maven/io.github.petertrr/kotlin-multiplatform-diff-macosx64@0.6.0?classifier=sources
 - pkg:maven/io.github.petertrr/kotlin-multiplatform-diff-macosx64@0.7.0?classifier=sources
 - pkg:maven/io.github.petertrr/kotlin-multiplatform-diff-macosx64@1.0.0?classifier=sources
+- pkg:maven/io.github.petertrr/kotlin-multiplatform-diff-macosx64@1.1.0-rc.1?classifier=sources

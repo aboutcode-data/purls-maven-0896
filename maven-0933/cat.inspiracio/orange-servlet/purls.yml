@@ -28,3 +28,5 @@
 - pkg:maven/cat.inspiracio/orange-servlet@4.0.4?classifier=sources
 - pkg:maven/cat.inspiracio/orange-servlet@5.0.0
 - pkg:maven/cat.inspiracio/orange-servlet@5.0.0?classifier=sources
+- pkg:maven/cat.inspiracio/orange-servlet@6.0.0
+- pkg:maven/cat.inspiracio/orange-servlet@6.0.0?classifier=sources

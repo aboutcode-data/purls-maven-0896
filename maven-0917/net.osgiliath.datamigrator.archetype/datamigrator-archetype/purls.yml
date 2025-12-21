@@ -30,3 +30,4 @@
 - pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.81?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.83?classifier=sources
 - pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.88?classifier=sources
+- pkg:maven/net.osgiliath.datamigrator.archetype/datamigrator-archetype@1.90?classifier=sources

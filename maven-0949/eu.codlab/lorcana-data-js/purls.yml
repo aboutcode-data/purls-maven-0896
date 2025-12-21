@@ -17,8 +17,14 @@
 - pkg:maven/eu.codlab/lorcana-data-js@0.17.1?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-js@0.18.0?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-js@0.18.1?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.18.2?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.18.3?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-js@0.2.0-alpha01?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-js@0.2.0?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.20.0?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.20.1?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.20.2?classifier=sources
+- pkg:maven/eu.codlab/lorcana-data-js@0.20.3?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-js@0.3.0?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-js@0.3.2?classifier=sources
 - pkg:maven/eu.codlab/lorcana-data-js@0.3.3?classifier=sources

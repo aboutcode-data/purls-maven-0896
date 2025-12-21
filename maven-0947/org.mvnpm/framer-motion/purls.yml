@@ -1,3 +1,9 @@
 - pkg:maven/org.mvnpm/framer-motion@0.8.2?classifier=sources
 - pkg:maven/org.mvnpm/framer-motion@11.0.5?classifier=sources
+- pkg:maven/org.mvnpm/framer-motion@12.10.5
+- pkg:maven/org.mvnpm/framer-motion@12.10.5?classifier=sources
+- pkg:maven/org.mvnpm/framer-motion@12.11.0
+- pkg:maven/org.mvnpm/framer-motion@12.11.0?classifier=sources
+- pkg:maven/org.mvnpm/framer-motion@12.9.4
+- pkg:maven/org.mvnpm/framer-motion@12.9.4?classifier=sources
 - pkg:maven/org.mvnpm/framer-motion@6.5.1?classifier=sources

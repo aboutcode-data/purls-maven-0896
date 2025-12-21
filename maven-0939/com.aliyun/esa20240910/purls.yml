@@ -58,6 +58,8 @@
 - pkg:maven/com.aliyun/esa20240910@2.29.1?classifier=sources
 - pkg:maven/com.aliyun/esa20240910@2.3.0
 - pkg:maven/com.aliyun/esa20240910@2.3.0?classifier=sources
+- pkg:maven/com.aliyun/esa20240910@2.30.0
+- pkg:maven/com.aliyun/esa20240910@2.30.0?classifier=sources
 - pkg:maven/com.aliyun/esa20240910@2.4.0
 - pkg:maven/com.aliyun/esa20240910@2.4.0?classifier=sources
 - pkg:maven/com.aliyun/esa20240910@2.5.0

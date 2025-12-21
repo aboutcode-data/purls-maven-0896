@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-async-to-generator@7.22.5?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-async-to-generator@7.25.9?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-async-to-generator@7.27.1
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-async-to-generator@7.27.1?classifier=sources

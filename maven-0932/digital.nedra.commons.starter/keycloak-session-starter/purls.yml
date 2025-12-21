@@ -26,3 +26,5 @@
 - pkg:maven/digital.nedra.commons.starter/keycloak-session-starter@2.0.3?classifier=sources
 - pkg:maven/digital.nedra.commons.starter/keycloak-session-starter@2.0.4
 - pkg:maven/digital.nedra.commons.starter/keycloak-session-starter@2.0.4?classifier=sources
+- pkg:maven/digital.nedra.commons.starter/keycloak-session-starter@2.0.5
+- pkg:maven/digital.nedra.commons.starter/keycloak-session-starter@2.0.5?classifier=sources

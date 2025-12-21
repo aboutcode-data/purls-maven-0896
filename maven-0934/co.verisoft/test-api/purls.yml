@@ -65,4 +65,10 @@
 - pkg:maven/co.verisoft/test-api@2.0.6
 - pkg:maven/co.verisoft/test-api@2.0.6?classifier=sources
 - pkg:maven/co.verisoft/test-api@2.0.7
+- pkg:maven/co.verisoft/test-api@2.0.7.3
+- pkg:maven/co.verisoft/test-api@2.0.7.3?classifier=sources
 - pkg:maven/co.verisoft/test-api@2.0.7?classifier=sources
+- pkg:maven/co.verisoft/test-api@3.0.0
+- pkg:maven/co.verisoft/test-api@3.0.0?classifier=sources
+- pkg:maven/co.verisoft/test-api@3.0.1
+- pkg:maven/co.verisoft/test-api@3.0.1?classifier=sources

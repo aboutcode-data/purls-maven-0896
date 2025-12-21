@@ -46,6 +46,10 @@
 - pkg:maven/com.google.appengine.demos/proberapp@2.0.33?type=war
 - pkg:maven/com.google.appengine.demos/proberapp@2.0.34?classifier=sources
 - pkg:maven/com.google.appengine.demos/proberapp@2.0.34?type=war
+- pkg:maven/com.google.appengine.demos/proberapp@2.0.35?classifier=sources
+- pkg:maven/com.google.appengine.demos/proberapp@2.0.35?type=war
+- pkg:maven/com.google.appengine.demos/proberapp@2.0.36?classifier=sources
+- pkg:maven/com.google.appengine.demos/proberapp@2.0.36?type=war
 - pkg:maven/com.google.appengine.demos/proberapp@2.0.7?classifier=sources
 - pkg:maven/com.google.appengine.demos/proberapp@2.0.7?type=war
 - pkg:maven/com.google.appengine.demos/proberapp@2.0.8?classifier=sources

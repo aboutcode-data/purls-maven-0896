@@ -92,3 +92,4 @@
 - pkg:maven/io.github.std-uritemplate/std-uritemplate@2.0.2?classifier=sources
 - pkg:maven/io.github.std-uritemplate/std-uritemplate@2.0.3
 - pkg:maven/io.github.std-uritemplate/std-uritemplate@2.0.3?classifier=sources
+- pkg:maven/io.github.std-uritemplate/std-uritemplate@2.0.5?classifier=sources

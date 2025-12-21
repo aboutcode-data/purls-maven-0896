@@ -16,3 +16,4 @@
 - pkg:maven/org.ec4j.core/ec4j-core-build@1.0.0?classifier=sources
 - pkg:maven/org.ec4j.core/ec4j-core-build@1.1.0
 - pkg:maven/org.ec4j.core/ec4j-core-build@1.1.0?classifier=sources
+- pkg:maven/org.ec4j.core/ec4j-core-build@1.1.1?classifier=sources

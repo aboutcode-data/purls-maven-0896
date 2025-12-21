@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/postcss-discard-empty@2.1.0?classifier=sources
 - pkg:maven/org.mvnpm/postcss-discard-empty@7.0.0?classifier=sources
+- pkg:maven/org.mvnpm/postcss-discard-empty@7.0.1
+- pkg:maven/org.mvnpm/postcss-discard-empty@7.0.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/eu.unicore.uftp/uftp-datashare@0.20.1?classifier=sources
 - pkg:maven/eu.unicore.uftp/uftp-datashare@0.21.0
 - pkg:maven/eu.unicore.uftp/uftp-datashare@0.21.0?classifier=sources
+- pkg:maven/eu.unicore.uftp/uftp-datashare@0.21.1
+- pkg:maven/eu.unicore.uftp/uftp-datashare@0.21.1?classifier=sources

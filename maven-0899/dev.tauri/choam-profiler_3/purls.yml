@@ -66,5 +66,9 @@
 - pkg:maven/dev.tauri/choam-profiler_3@0.4.8?classifier=sources
 - pkg:maven/dev.tauri/choam-profiler_3@0.4.9
 - pkg:maven/dev.tauri/choam-profiler_3@0.4.9?classifier=sources
+- pkg:maven/dev.tauri/choam-profiler_3@0.5-1bbdb4c
+- pkg:maven/dev.tauri/choam-profiler_3@0.5-1bbdb4c?classifier=sources
 - pkg:maven/dev.tauri/choam-profiler_3@0.5-4c4b98d
 - pkg:maven/dev.tauri/choam-profiler_3@0.5-4c4b98d?classifier=sources
+- pkg:maven/dev.tauri/choam-profiler_3@0.5-fb963b8
+- pkg:maven/dev.tauri/choam-profiler_3@0.5-fb963b8?classifier=sources

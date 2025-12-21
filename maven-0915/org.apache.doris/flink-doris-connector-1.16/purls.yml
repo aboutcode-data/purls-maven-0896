@@ -33,3 +33,6 @@
 - pkg:maven/org.apache.doris/flink-doris-connector-1.16@25.0.0
 - pkg:maven/org.apache.doris/flink-doris-connector-1.16@25.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.doris/flink-doris-connector-1.16@25.0.0?classifier=sources
+- pkg:maven/org.apache.doris/flink-doris-connector-1.16@25.1.0
+- pkg:maven/org.apache.doris/flink-doris-connector-1.16@25.1.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.doris/flink-doris-connector-1.16@25.1.0?classifier=sources

@@ -1,2 +1,3 @@
 - pkg:maven/io.gitlab.spring-cattle.oauth/cattle-authorization-server@1.0.0
 - pkg:maven/io.gitlab.spring-cattle.oauth/cattle-authorization-server@1.0.0?classifier=sources
+- pkg:maven/io.gitlab.spring-cattle.oauth/cattle-authorization-server@1.0.1?classifier=sources

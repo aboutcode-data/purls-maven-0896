@@ -32,3 +32,5 @@
 - pkg:maven/com.exasol/sql-statement-builder@4.5.2?classifier=sources
 - pkg:maven/com.exasol/sql-statement-builder@4.5.3
 - pkg:maven/com.exasol/sql-statement-builder@4.5.3?classifier=sources
+- pkg:maven/com.exasol/sql-statement-builder@4.6.0
+- pkg:maven/com.exasol/sql-statement-builder@4.6.0?classifier=sources

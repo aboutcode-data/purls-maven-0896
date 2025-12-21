@@ -1,3 +1,5 @@
+- pkg:maven/org.entur.ror.helpers/permission-store-proxy@5.10
+- pkg:maven/org.entur.ror.helpers/permission-store-proxy@5.10?classifier=sources
 - pkg:maven/org.entur.ror.helpers/permission-store-proxy@5.3
 - pkg:maven/org.entur.ror.helpers/permission-store-proxy@5.3?classifier=sources
 - pkg:maven/org.entur.ror.helpers/permission-store-proxy@5.4

@@ -50,6 +50,8 @@
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.20.0?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.21.0
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.21.0?classifier=sources
+- pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.22.0
+- pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.22.0?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.3.0
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.3.0?classifier=sources
 - pkg:maven/com.github.mjakubowski84/parquet4s-fs2_3@2.4.0

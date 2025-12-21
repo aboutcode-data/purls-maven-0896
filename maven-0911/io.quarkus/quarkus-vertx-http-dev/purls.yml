@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-vertx-http-dev@3.23.0.CR1
+- pkg:maven/io.quarkus/quarkus-vertx-http-dev@3.23.0.CR1?classifier=sources

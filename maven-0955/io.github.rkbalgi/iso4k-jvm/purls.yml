@@ -3,3 +3,4 @@
 - pkg:maven/io.github.rkbalgi/iso4k-jvm@0.0.5?classifier=sources
 - pkg:maven/io.github.rkbalgi/iso4k-jvm@1.0.0?classifier=sources
 - pkg:maven/io.github.rkbalgi/iso4k-jvm@1.0.1?classifier=sources
+- pkg:maven/io.github.rkbalgi/iso4k-jvm@1.0.2?classifier=sources

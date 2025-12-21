@@ -1,5 +1,7 @@
 - pkg:maven/dev.jorel/commandapi-bukkit-vh@10.0.0
 - pkg:maven/dev.jorel/commandapi-bukkit-vh@10.0.0?classifier=sources
+- pkg:maven/dev.jorel/commandapi-bukkit-vh@10.0.1
+- pkg:maven/dev.jorel/commandapi-bukkit-vh@10.0.1?classifier=sources
 - pkg:maven/dev.jorel/commandapi-bukkit-vh@9.0.0
 - pkg:maven/dev.jorel/commandapi-bukkit-vh@9.0.0?classifier=sources
 - pkg:maven/dev.jorel/commandapi-bukkit-vh@9.0.1

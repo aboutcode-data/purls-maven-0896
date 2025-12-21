@@ -6,3 +6,5 @@
 - pkg:maven/ru.i-novus.messaging/messaging-admin-frontend@4.7.3?classifier=sources
 - pkg:maven/ru.i-novus.messaging/messaging-admin-frontend@5.0.4
 - pkg:maven/ru.i-novus.messaging/messaging-admin-frontend@5.0.4?classifier=sources
+- pkg:maven/ru.i-novus.messaging/messaging-admin-frontend@5.0.5
+- pkg:maven/ru.i-novus.messaging/messaging-admin-frontend@5.0.5?classifier=sources

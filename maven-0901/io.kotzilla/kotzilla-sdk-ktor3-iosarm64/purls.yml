@@ -1,2 +1,7 @@
 - pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.0?classifier=sources
 - pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.1?classifier=sources
+- pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.2-RC2?classifier=sources
+- pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.2-RC3?classifier=sources
+- pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.2-RC4?classifier=sources
+- pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.2-RC5?classifier=sources
+- pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.1.0?classifier=sources

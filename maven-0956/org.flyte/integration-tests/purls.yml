@@ -119,4 +119,6 @@
 - pkg:maven/org.flyte/integration-tests@0.4.60?classifier=sources
 - pkg:maven/org.flyte/integration-tests@0.4.61
 - pkg:maven/org.flyte/integration-tests@0.4.61?classifier=sources
+- pkg:maven/org.flyte/integration-tests@0.4.62
+- pkg:maven/org.flyte/integration-tests@0.4.62?classifier=sources
 - pkg:maven/org.flyte/integration-tests@0.4.6?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/peek-readable@5.4.2
+- pkg:maven/org.mvnpm/peek-readable@5.4.2?classifier=sources
+- pkg:maven/org.mvnpm/peek-readable@7.0.0
+- pkg:maven/org.mvnpm/peek-readable@7.0.0?classifier=sources

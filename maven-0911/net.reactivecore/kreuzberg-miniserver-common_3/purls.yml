@@ -16,6 +16,8 @@
 - pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.10.7?classifier=sources
 - pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.10.8
 - pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.10.8?classifier=sources
+- pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.10.9
+- pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.10.9?classifier=sources
 - pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.8.3
 - pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.8.3?classifier=sources
 - pkg:maven/net.reactivecore/kreuzberg-miniserver-common_3@0.8.4

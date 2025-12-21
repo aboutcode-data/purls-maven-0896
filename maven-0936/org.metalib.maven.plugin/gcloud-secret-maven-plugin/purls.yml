@@ -1,0 +1,2 @@
+- pkg:maven/org.metalib.maven.plugin/gcloud-secret-maven-plugin@0.0.2?classifier=sources
+- pkg:maven/org.metalib.maven.plugin/gcloud-secret-maven-plugin@0.0.3?classifier=sources

@@ -196,3 +196,5 @@
 - pkg:maven/com.daml/daml-lf-1.17-archive-proto@2.10.0-snapshot.20250211.13169.0.vd812609c
 - pkg:maven/com.daml/daml-lf-1.17-archive-proto@2.10.0-snapshot.20250211.13169.0.vd812609c?classifier=sources
 - pkg:maven/com.daml/daml-lf-1.17-archive-proto@2.10.0?classifier=sources
+- pkg:maven/com.daml/daml-lf-1.17-archive-proto@2.10.1-snapshot.20250513.13174.0.vfd3eadaf
+- pkg:maven/com.daml/daml-lf-1.17-archive-proto@2.10.1-snapshot.20250513.13174.0.vfd3eadaf?classifier=sources

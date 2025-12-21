@@ -86,3 +86,4 @@
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.2.0.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.2.1.Final
 - pkg:maven/org.infinispan/infinispan-commons-jdk21@15.2.1.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-commons-jdk21@16.0.0.Dev01?classifier=sources

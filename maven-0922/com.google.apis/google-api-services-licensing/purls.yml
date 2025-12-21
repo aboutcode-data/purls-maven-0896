@@ -98,6 +98,8 @@
 - pkg:maven/com.google.apis/google-api-services-licensing@v1-rev20220430-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-licensing@v1-rev20220430-2.0.0
 - pkg:maven/com.google.apis/google-api-services-licensing@v1-rev20220430-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-licensing@v1-rev20250419-2.0.0
+- pkg:maven/com.google.apis/google-api-services-licensing@v1-rev20250419-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-licensing@v1-rev21-1.14.2-beta
 - pkg:maven/com.google.apis/google-api-services-licensing@v1-rev21-1.14.2-beta?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-licensing@v1-rev21-1.15.0-rc

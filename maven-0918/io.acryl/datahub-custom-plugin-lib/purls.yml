@@ -152,6 +152,13 @@
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@0.15.0rc7?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@0.15.0rc8?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@0.15.0rc9?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0.4rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0.4rc2?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0.4rc3?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0.4rc4?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0.4rc5?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0.4rc6?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0.4rc7?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0rc10?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0rc11?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0rc12?classifier=sources
@@ -164,5 +171,11 @@
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0rc7?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0rc8?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@1.0.0rc9?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.1.0?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.1.0rc1?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.1.0rc2?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.1.0rc3?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.1.0rc4?classifier=sources
+- pkg:maven/io.acryl/datahub-custom-plugin-lib@1.1.1rc1?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@15.0.4?classifier=sources
 - pkg:maven/io.acryl/datahub-custom-plugin-lib@15.0.5rc1?classifier=sources

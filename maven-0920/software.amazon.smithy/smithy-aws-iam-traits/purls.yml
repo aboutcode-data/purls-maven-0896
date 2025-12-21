@@ -101,6 +101,7 @@
 - pkg:maven/software.amazon.smithy/smithy-aws-iam-traits@1.55.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-iam-traits@1.56.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-iam-traits@1.57.0?classifier=sources
+- pkg:maven/software.amazon.smithy/smithy-aws-iam-traits@1.57.1?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-iam-traits@1.6.0?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-iam-traits@1.6.1?classifier=sources
 - pkg:maven/software.amazon.smithy/smithy-aws-iam-traits@1.7.0?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/org.webjars.npm/npmcli__map-workspaces@1.0.4
 - pkg:maven/org.webjars.npm/npmcli__map-workspaces@1.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/npmcli__map-workspaces@3.0.6
+- pkg:maven/org.webjars.npm/npmcli__map-workspaces@4.0.2

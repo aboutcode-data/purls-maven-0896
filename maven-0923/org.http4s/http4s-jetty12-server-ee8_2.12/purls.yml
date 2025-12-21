@@ -1,0 +1,4 @@
+- pkg:maven/org.http4s/http4s-jetty12-server-ee8_2.12@0.22.0-RC2
+- pkg:maven/org.http4s/http4s-jetty12-server-ee8_2.12@0.22.0-RC2?classifier=sources
+- pkg:maven/org.http4s/http4s-jetty12-server-ee8_2.12@0.22.0-RC3
+- pkg:maven/org.http4s/http4s-jetty12-server-ee8_2.12@0.22.0-RC3?classifier=sources

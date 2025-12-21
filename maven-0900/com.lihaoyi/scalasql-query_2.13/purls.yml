@@ -36,3 +36,5 @@
 - pkg:maven/com.lihaoyi/scalasql-query_2.13@0.1.8?classifier=sources
 - pkg:maven/com.lihaoyi/scalasql-query_2.13@0.1.9
 - pkg:maven/com.lihaoyi/scalasql-query_2.13@0.1.9?classifier=sources
+- pkg:maven/com.lihaoyi/scalasql-query_2.13@sonatype-central-test-publishing
+- pkg:maven/com.lihaoyi/scalasql-query_2.13@sonatype-central-test-publishing?classifier=sources

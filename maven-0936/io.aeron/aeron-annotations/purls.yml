@@ -22,3 +22,4 @@
 - pkg:maven/io.aeron/aeron-annotations@1.47.2?classifier=sources
 - pkg:maven/io.aeron/aeron-annotations@1.47.3?classifier=sources
 - pkg:maven/io.aeron/aeron-annotations@1.47.4?classifier=sources
+- pkg:maven/io.aeron/aeron-annotations@1.47.5?classifier=sources

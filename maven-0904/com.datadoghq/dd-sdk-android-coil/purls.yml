@@ -54,6 +54,7 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.14.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.15.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.15.1?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-coil@2.15.2?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.16.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.16.1?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.17.0?classifier=sources
@@ -63,6 +64,7 @@
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.19.2?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.2.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.20.0?classifier=sources
+- pkg:maven/com.datadoghq/dd-sdk-android-coil@2.21.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.3.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.4.0?classifier=sources
 - pkg:maven/com.datadoghq/dd-sdk-android-coil@2.5.0?classifier=sources

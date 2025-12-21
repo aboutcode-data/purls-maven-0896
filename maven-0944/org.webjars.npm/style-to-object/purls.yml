@@ -1,3 +1,4 @@
 - pkg:maven/org.webjars.npm/style-to-object@0.3.0
 - pkg:maven/org.webjars.npm/style-to-object@0.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/style-to-object@0.4.4
+- pkg:maven/org.webjars.npm/style-to-object@1.0.8

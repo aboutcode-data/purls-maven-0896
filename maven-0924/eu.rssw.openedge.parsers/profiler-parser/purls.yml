@@ -150,3 +150,5 @@
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@2.9.0?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@3.0.0
 - pkg:maven/eu.rssw.openedge.parsers/profiler-parser@3.0.0?classifier=sources
+- pkg:maven/eu.rssw.openedge.parsers/profiler-parser@3.0.1
+- pkg:maven/eu.rssw.openedge.parsers/profiler-parser@3.0.1?classifier=sources

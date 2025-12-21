@@ -32,3 +32,5 @@
 - pkg:maven/org.daisy.pipeline.modules/daisy202-validator@2.0.9?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/daisy202-validator@2.1.0
 - pkg:maven/org.daisy.pipeline.modules/daisy202-validator@2.1.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/daisy202-validator@2.1.1
+- pkg:maven/org.daisy.pipeline.modules/daisy202-validator@2.1.1?classifier=sources

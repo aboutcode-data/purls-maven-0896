@@ -3,3 +3,6 @@
 - pkg:maven/io.kestra/ui@0.22.2?classifier=sources
 - pkg:maven/io.kestra/ui@0.22.3?classifier=sources
 - pkg:maven/io.kestra/ui@0.22.4?classifier=sources
+- pkg:maven/io.kestra/ui@0.22.5?classifier=sources
+- pkg:maven/io.kestra/ui@0.22.6?classifier=sources
+- pkg:maven/io.kestra/ui@0.22.7?classifier=sources

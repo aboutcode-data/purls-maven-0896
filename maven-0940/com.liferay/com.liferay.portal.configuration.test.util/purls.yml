@@ -189,3 +189,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@6.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@6.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@6.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.configuration.test.util@6.1.0?classifier=sources

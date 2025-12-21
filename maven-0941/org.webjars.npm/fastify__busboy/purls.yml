@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/fastify__busboy@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/fastify__busboy@2.1.1
 - pkg:maven/org.webjars.npm/fastify__busboy@2.1.1?classifier=sources
+- pkg:maven/org.webjars.npm/fastify__busboy@3.1.1

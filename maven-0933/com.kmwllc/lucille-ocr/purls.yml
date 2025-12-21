@@ -22,5 +22,7 @@
 - pkg:maven/com.kmwllc/lucille-ocr@0.5.3?classifier=sources
 - pkg:maven/com.kmwllc/lucille-ocr@0.5.4
 - pkg:maven/com.kmwllc/lucille-ocr@0.5.4?classifier=sources
+- pkg:maven/com.kmwllc/lucille-ocr@0.5.5
+- pkg:maven/com.kmwllc/lucille-ocr@0.5.5?classifier=sources
 - pkg:maven/com.kmwllc/lucille-ocr@v0.2.4
 - pkg:maven/com.kmwllc/lucille-ocr@v0.2.4?classifier=sources

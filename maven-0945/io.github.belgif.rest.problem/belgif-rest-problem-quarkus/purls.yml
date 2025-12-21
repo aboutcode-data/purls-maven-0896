@@ -6,3 +6,5 @@
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-quarkus@0.14.0?classifier=sources
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-quarkus@0.15.0
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-quarkus@0.15.0?classifier=sources
+- pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-quarkus@0.16.0?classifier=sources
+- pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-quarkus@0.16.1?classifier=sources

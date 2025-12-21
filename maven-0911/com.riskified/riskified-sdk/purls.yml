@@ -187,6 +187,8 @@
 - pkg:maven/com.riskified/riskified-sdk@v2-api-version
 - pkg:maven/com.riskified/riskified-sdk@v2-api-version?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v2.0.0
+- pkg:maven/com.riskified/riskified-sdk@v2.0.0-ch
+- pkg:maven/com.riskified/riskified-sdk@v2.0.0-ch?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v2.0.0?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v2.0.1
 - pkg:maven/com.riskified/riskified-sdk@v2.0.1?classifier=sources
@@ -244,3 +246,5 @@
 - pkg:maven/com.riskified/riskified-sdk@v2.9.0?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v3.0.0
 - pkg:maven/com.riskified/riskified-sdk@v3.0.0?classifier=sources
+- pkg:maven/com.riskified/riskified-sdk@v3.1.0
+- pkg:maven/com.riskified/riskified-sdk@v3.1.0?classifier=sources

@@ -118,3 +118,4 @@
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@2.1.0?type=war
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@2.2.0?type=war
 - pkg:maven/org.apache.nifi/nifi-standard-content-viewer@2.3.0?type=war
+- pkg:maven/org.apache.nifi/nifi-standard-content-viewer@2.4.0?type=war

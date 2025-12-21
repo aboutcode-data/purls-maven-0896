@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/d3-array@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3-array@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/d3-array@3.2.2?classifier=sources
+- pkg:maven/org.mvnpm/d3-array@3.2.4
+- pkg:maven/org.mvnpm/d3-array@3.2.4?classifier=sources

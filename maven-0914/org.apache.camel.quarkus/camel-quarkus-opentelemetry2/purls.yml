@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-opentelemetry2@3.22.0
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-opentelemetry2@3.22.0?classifier=sources

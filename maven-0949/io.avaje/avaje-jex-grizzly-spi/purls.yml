@@ -5,3 +5,4 @@
 - pkg:maven/io.avaje/avaje-jex-grizzly-spi@0.3
 - pkg:maven/io.avaje/avaje-jex-grizzly-spi@0.3?classifier=sources
 - pkg:maven/io.avaje/avaje-jex-grizzly-spi@0.4?classifier=sources
+- pkg:maven/io.avaje/avaje-jex-grizzly-spi@0.5?classifier=sources

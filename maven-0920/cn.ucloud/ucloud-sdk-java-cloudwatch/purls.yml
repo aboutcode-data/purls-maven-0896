@@ -8,3 +8,7 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.37-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.38-release
 - pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.38-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.39-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.39-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.40-release
+- pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.40-release?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.hdf5javalib/hdf5javalib@0.1.0?classifier=sources
+- pkg:maven/org.hdf5javalib/hdf5javalib@0.1.1?classifier=sources

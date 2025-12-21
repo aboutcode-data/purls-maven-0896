@@ -1,3 +1,7 @@
 - pkg:maven/org.mvnpm/storybook@8.6.10?classifier=sources
 - pkg:maven/org.mvnpm/storybook@8.6.11?classifier=sources
 - pkg:maven/org.mvnpm/storybook@8.6.12?classifier=sources
+- pkg:maven/org.mvnpm/storybook@8.6.13
+- pkg:maven/org.mvnpm/storybook@8.6.13?classifier=sources
+- pkg:maven/org.mvnpm/storybook@8.6.14
+- pkg:maven/org.mvnpm/storybook@8.6.14?classifier=sources

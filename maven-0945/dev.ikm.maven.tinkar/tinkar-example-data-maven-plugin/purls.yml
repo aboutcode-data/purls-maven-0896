@@ -10,3 +10,5 @@
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-example-data-maven-plugin@1.1.3?classifier=sources
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-example-data-maven-plugin@1.1.4
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-example-data-maven-plugin@1.1.4?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-example-data-maven-plugin@1.1.5
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-example-data-maven-plugin@1.1.5?classifier=sources

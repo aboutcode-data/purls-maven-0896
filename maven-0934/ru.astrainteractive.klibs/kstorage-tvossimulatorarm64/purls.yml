@@ -20,4 +20,5 @@
 - pkg:maven/ru.astrainteractive.klibs/kstorage-tvossimulatorarm64@3.2.6?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-tvossimulatorarm64@3.2.8?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-tvossimulatorarm64@3.3.0?classifier=sources
+- pkg:maven/ru.astrainteractive.klibs/kstorage-tvossimulatorarm64@4.0.0?classifier=sources
 - pkg:maven/ru.astrainteractive.klibs/kstorage-tvossimulatorarm64@unspecified?classifier=sources

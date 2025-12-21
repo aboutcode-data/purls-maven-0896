@@ -1,0 +1,4 @@
+- pkg:maven/cool.taomu.toolkit/taomu-micrometer@0.0.1-a?classifier=sources
+- pkg:maven/cool.taomu.toolkit/taomu-micrometer@0.0.1-b?classifier=sources
+- pkg:maven/cool.taomu.toolkit/taomu-micrometer@0.0.1-c?classifier=sources
+- pkg:maven/cool.taomu.toolkit/taomu-micrometer@0.0.1-d?classifier=sources

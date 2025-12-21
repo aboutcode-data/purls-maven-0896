@@ -17,6 +17,10 @@
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0-ee5ec40
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0-ee5ec40?classifier=sources
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1
+- pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-10-3c7a030
+- pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-10-3c7a030?classifier=sources
+- pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-13-a232995
+- pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-13-a232995?classifier=sources
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-2-9289d6f
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-2-9289d6f?classifier=sources
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-3-f2d4314
@@ -25,4 +29,6 @@
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-5-7483aa0?classifier=sources
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-6-ac869ab
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-6-ac869ab?classifier=sources
+- pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-8-1616946
+- pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1-8-1616946?classifier=sources
 - pkg:maven/com.magine/aws-regions-circe_sjs1_2.13@1.0.1?classifier=sources

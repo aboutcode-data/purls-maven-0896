@@ -26,3 +26,5 @@
 - pkg:maven/com.dua3.meja/meja-samples-fx@8.0.1?classifier=sources
 - pkg:maven/com.dua3.meja/meja-samples-fx@8.0.2?classifier=sources
 - pkg:maven/com.dua3.meja/meja-samples-fx@8.0.3?classifier=sources
+- pkg:maven/com.dua3.meja/meja-samples-fx@8.0.4?classifier=sources
+- pkg:maven/com.dua3.meja/meja-samples-fx@8.1.0?classifier=sources

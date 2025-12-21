@@ -24,3 +24,4 @@
 - pkg:maven/io.permazen/permazen-kv-xodus@5.0.0?classifier=sources
 - pkg:maven/io.permazen/permazen-kv-xodus@5.1.0
 - pkg:maven/io.permazen/permazen-kv-xodus@5.1.0?classifier=sources
+- pkg:maven/io.permazen/permazen-kv-xodus@5.2.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.moderne.recipe/rewrite-devcenter@0.1.0?classifier=sources
+- pkg:maven/io.moderne.recipe/rewrite-devcenter@1.0.0?classifier=sources

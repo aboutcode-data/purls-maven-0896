@@ -172,3 +172,5 @@
 - pkg:maven/com.aliyun.odps/odps-sdk-udf@0.51.9-public?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-sdk-udf@0.52.0-public
 - pkg:maven/com.aliyun.odps/odps-sdk-udf@0.52.0-public?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-sdk-udf@0.52.1-public
+- pkg:maven/com.aliyun.odps/odps-sdk-udf@0.52.1-public?classifier=sources

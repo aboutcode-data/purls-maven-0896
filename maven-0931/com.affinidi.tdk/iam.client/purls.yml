@@ -2,3 +2,4 @@
 - pkg:maven/com.affinidi.tdk/iam.client@1.1.0?classifier=sources
 - pkg:maven/com.affinidi.tdk/iam.client@1.2.0?classifier=sources
 - pkg:maven/com.affinidi.tdk/iam.client@1.2.1?classifier=sources
+- pkg:maven/com.affinidi.tdk/iam.client@1.4.0?classifier=sources

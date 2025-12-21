@@ -4,3 +4,5 @@
 - pkg:maven/io.stryker-mutator/sbt-stryker4s_sbt2.0.0-M4_3@0.17.1?classifier=sources
 - pkg:maven/io.stryker-mutator/sbt-stryker4s_sbt2.0.0-M4_3@0.17.2
 - pkg:maven/io.stryker-mutator/sbt-stryker4s_sbt2.0.0-M4_3@0.17.2?classifier=sources
+- pkg:maven/io.stryker-mutator/sbt-stryker4s_sbt2.0.0-M4_3@0.18.0
+- pkg:maven/io.stryker-mutator/sbt-stryker4s_sbt2.0.0-M4_3@0.18.0?classifier=sources

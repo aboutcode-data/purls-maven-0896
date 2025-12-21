@@ -461,6 +461,8 @@
 - pkg:maven/org.springframework.data/spring-data-commons@3.3.10?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@3.3.11
 - pkg:maven/org.springframework.data/spring-data-commons@3.3.11?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@3.3.12
+- pkg:maven/org.springframework.data/spring-data-commons@3.3.12?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@3.3.1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@3.3.2
 - pkg:maven/org.springframework.data/spring-data-commons@3.3.2?classifier=sources
@@ -490,7 +492,13 @@
 - pkg:maven/org.springframework.data/spring-data-commons@3.4.4?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@3.4.5
 - pkg:maven/org.springframework.data/spring-data-commons@3.4.5?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@3.4.6
+- pkg:maven/org.springframework.data/spring-data-commons@3.4.6?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@3.5.0
+- pkg:maven/org.springframework.data/spring-data-commons@3.5.0?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@4.0.0-M1
 - pkg:maven/org.springframework.data/spring-data-commons@4.0.0-M1?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-commons@4.0.0-M2
 - pkg:maven/org.springframework.data/spring-data-commons@4.0.0-M2?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-commons@4.0.0-M3
+- pkg:maven/org.springframework.data/spring-data-commons@4.0.0-M3?classifier=sources

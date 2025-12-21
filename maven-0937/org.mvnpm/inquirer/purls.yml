@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm/inquirer@12.5.2?classifier=sources
 - pkg:maven/org.mvnpm/inquirer@12.6.0
 - pkg:maven/org.mvnpm/inquirer@12.6.0?classifier=sources
+- pkg:maven/org.mvnpm/inquirer@12.6.1
+- pkg:maven/org.mvnpm/inquirer@12.6.1?classifier=sources

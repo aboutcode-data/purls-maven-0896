@@ -12,3 +12,5 @@
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-tests@10.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-tests@10.4.0
 - pkg:maven/org.wicketstuff/wicketstuff-datastore-tests@10.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-tests@10.5.0
+- pkg:maven/org.wicketstuff/wicketstuff-datastore-tests@10.5.0?classifier=sources

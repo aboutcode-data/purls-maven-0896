@@ -1,2 +1,4 @@
 - pkg:maven/org.fuin.objects4j/objects4j-jackson@0.10.0
 - pkg:maven/org.fuin.objects4j/objects4j-jackson@0.10.0?classifier=sources
+- pkg:maven/org.fuin.objects4j/objects4j-jackson@0.11.0
+- pkg:maven/org.fuin.objects4j/objects4j-jackson@0.11.0?classifier=sources

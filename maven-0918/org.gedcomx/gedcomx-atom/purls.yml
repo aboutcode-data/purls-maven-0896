@@ -588,6 +588,8 @@
 - pkg:maven/org.gedcomx/gedcomx-atom@3.44.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-atom@3.45.0
 - pkg:maven/org.gedcomx/gedcomx-atom@3.45.0?classifier=sources
+- pkg:maven/org.gedcomx/gedcomx-atom@3.46.0
+- pkg:maven/org.gedcomx/gedcomx-atom@3.46.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-atom@3.5.0
 - pkg:maven/org.gedcomx/gedcomx-atom@3.5.0?classifier=sources
 - pkg:maven/org.gedcomx/gedcomx-atom@3.6.0

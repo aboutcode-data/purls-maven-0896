@@ -52,6 +52,10 @@
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.33.0-b05?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.33.0-rc01?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.33.0?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.34.0-rc01?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.34.0-rc02?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.34.0-rc03?classifier=sources
+- pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.34.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.4.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.5.0?classifier=sources
 - pkg:maven/com.mikepenz/multiplatform-markdown-renderer-android@0.6.0?classifier=sources

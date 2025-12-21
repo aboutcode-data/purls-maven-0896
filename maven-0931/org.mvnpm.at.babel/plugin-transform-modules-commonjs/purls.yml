@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-modules-commonjs@7.22.15?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-modules-commonjs@7.23.0?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-modules-commonjs@7.26.3?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-modules-commonjs@7.27.1
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-modules-commonjs@7.27.1?classifier=sources
