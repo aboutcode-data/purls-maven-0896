@@ -51,3 +51,4 @@
 - pkg:maven/io.quarkiverse.minio/quarkus-minio-deployment@3.8.1?classifier=sources
 - pkg:maven/io.quarkiverse.minio/quarkus-minio-deployment@3.8.2?classifier=sources
 - pkg:maven/io.quarkiverse.minio/quarkus-minio-deployment@3.8.3?classifier=sources
+- pkg:maven/io.quarkiverse.minio/quarkus-minio-deployment@3.8.4?classifier=sources

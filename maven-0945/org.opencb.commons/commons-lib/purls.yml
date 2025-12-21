@@ -106,10 +106,14 @@
 - pkg:maven/org.opencb.commons/commons-lib@5.2.1?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@5.2.2
 - pkg:maven/org.opencb.commons/commons-lib@5.2.2?classifier=sources
+- pkg:maven/org.opencb.commons/commons-lib@5.2.3
+- pkg:maven/org.opencb.commons/commons-lib@5.2.3?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@5.3.0
 - pkg:maven/org.opencb.commons/commons-lib@5.3.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@5.4.0
 - pkg:maven/org.opencb.commons/commons-lib@5.4.0?classifier=sources
+- pkg:maven/org.opencb.commons/commons-lib@5.5.0
+- pkg:maven/org.opencb.commons/commons-lib@5.5.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@6.0.0
 - pkg:maven/org.opencb.commons/commons-lib@6.0.0?classifier=sources
 - pkg:maven/org.opencb.commons/commons-lib@release-4.6.x

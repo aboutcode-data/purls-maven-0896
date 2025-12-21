@@ -1,2 +1,4 @@
 - pkg:maven/com.powerupsoftwareengineering.lambda-functions/lambda-functions-api@1.6.12
 - pkg:maven/com.powerupsoftwareengineering.lambda-functions/lambda-functions-api@1.6.12?classifier=sources
+- pkg:maven/com.powerupsoftwareengineering.lambda-functions/lambda-functions-api@1.7.41
+- pkg:maven/com.powerupsoftwareengineering.lambda-functions/lambda-functions-api@1.7.41?classifier=sources

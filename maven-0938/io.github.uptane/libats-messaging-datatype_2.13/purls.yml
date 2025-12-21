@@ -33,4 +33,6 @@
 - pkg:maven/io.github.uptane/libats-messaging-datatype_2.13@2.6.6
 - pkg:maven/io.github.uptane/libats-messaging-datatype_2.13@2.6.6?classifier=sources
 - pkg:maven/io.github.uptane/libats-messaging-datatype_2.13@2.7.0
+- pkg:maven/io.github.uptane/libats-messaging-datatype_2.13@2.7.0-1-g3bc647d
+- pkg:maven/io.github.uptane/libats-messaging-datatype_2.13@2.7.0-1-g3bc647d?classifier=sources
 - pkg:maven/io.github.uptane/libats-messaging-datatype_2.13@2.7.0?classifier=sources

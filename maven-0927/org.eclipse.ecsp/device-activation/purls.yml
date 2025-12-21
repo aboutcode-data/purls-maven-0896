@@ -16,3 +16,4 @@
 - pkg:maven/org.eclipse.ecsp/device-activation@0.1.8?type=war
 - pkg:maven/org.eclipse.ecsp/device-activation@1.0.0?classifier=sources
 - pkg:maven/org.eclipse.ecsp/device-activation@1.0.0?type=war
+- pkg:maven/org.eclipse.ecsp/device-activation@1.0.1?classifier=sources

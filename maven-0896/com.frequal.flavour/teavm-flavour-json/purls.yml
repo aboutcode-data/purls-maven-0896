@@ -1,1 +1,2 @@
 - pkg:maven/com.frequal.flavour/teavm-flavour-json@0.3.0?classifier=sources
+- pkg:maven/com.frequal.flavour/teavm-flavour-json@0.3.1?classifier=sources

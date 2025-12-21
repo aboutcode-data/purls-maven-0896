@@ -14,6 +14,7 @@
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-spring@0.15.0?classifier=sources
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-spring@0.16.0?classifier=sources
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-spring@0.16.1?classifier=sources
+- pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-spring@0.17.0?classifier=sources
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-spring@0.2.0
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-spring@0.2.0?classifier=sources
 - pkg:maven/io.github.belgif.rest.problem/belgif-rest-problem-spring@0.3.0

@@ -24,6 +24,9 @@
 - pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.31?classifier=sources
 - pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.32?classifier=sources
 - pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.33?classifier=sources
+- pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.34?classifier=sources
+- pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.35?classifier=sources
+- pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.36?classifier=sources
 - pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.3?classifier=sources
 - pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.4?classifier=sources
 - pkg:maven/org.octopusden.octopus.dms/maven-dms-plugin@2.0.5?classifier=sources

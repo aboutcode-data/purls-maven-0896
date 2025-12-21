@@ -1,0 +1,16 @@
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.2.0
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.2.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.4.0
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.5.0
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.5.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.6.0
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.6.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.6.1
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.6.1?classifier=sources
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.6.2
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.6.2?classifier=sources
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.7.0
+- pkg:maven/org.eclipse.ecsp/notification-sp@0.7.0?classifier=sources
+- pkg:maven/org.eclipse.ecsp/notification-sp@1.0.0
+- pkg:maven/org.eclipse.ecsp/notification-sp@1.0.0?classifier=sources

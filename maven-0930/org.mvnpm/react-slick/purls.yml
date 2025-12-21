@@ -1,0 +1,12 @@
+- pkg:maven/org.mvnpm/react-slick@0.11.1
+- pkg:maven/org.mvnpm/react-slick@0.11.1?classifier=sources
+- pkg:maven/org.mvnpm/react-slick@0.13.6
+- pkg:maven/org.mvnpm/react-slick@0.13.6?classifier=sources
+- pkg:maven/org.mvnpm/react-slick@0.23.2
+- pkg:maven/org.mvnpm/react-slick@0.23.2?classifier=sources
+- pkg:maven/org.mvnpm/react-slick@0.24.0
+- pkg:maven/org.mvnpm/react-slick@0.24.0?classifier=sources
+- pkg:maven/org.mvnpm/react-slick@0.25.2
+- pkg:maven/org.mvnpm/react-slick@0.25.2?classifier=sources
+- pkg:maven/org.mvnpm/react-slick@0.7.2
+- pkg:maven/org.mvnpm/react-slick@0.7.2?classifier=sources

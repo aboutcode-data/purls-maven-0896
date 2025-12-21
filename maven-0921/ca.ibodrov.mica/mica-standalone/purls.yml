@@ -1,2 +1,8 @@
 - pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.27
 - pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.27?classifier=sources
+- pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.28
+- pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.28?classifier=sources
+- pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.29
+- pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.29?classifier=sources
+- pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.30
+- pkg:maven/ca.ibodrov.mica/mica-standalone@0.0.30?classifier=sources

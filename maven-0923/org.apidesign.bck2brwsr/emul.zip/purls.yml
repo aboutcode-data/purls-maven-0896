@@ -42,5 +42,6 @@
 - pkg:maven/org.apidesign.bck2brwsr/emul.zip@0.53?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/emul.zip@0.54
 - pkg:maven/org.apidesign.bck2brwsr/emul.zip@0.54?classifier=sources
+- pkg:maven/org.apidesign.bck2brwsr/emul.zip@0.81?classifier=sources
 - pkg:maven/org.apidesign.bck2brwsr/emul.zip@0.9
 - pkg:maven/org.apidesign.bck2brwsr/emul.zip@0.9?classifier=sources

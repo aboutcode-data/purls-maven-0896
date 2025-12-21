@@ -2,3 +2,4 @@
 - pkg:maven/org.docshare/yangmvc-demo@2022.12.15?type=war
 - pkg:maven/org.docshare/yangmvc-demo@2022.12.18?classifier=sources
 - pkg:maven/org.docshare/yangmvc-demo@2022.12.18?type=war
+- pkg:maven/org.docshare/yangmvc-demo@2025.05.19?classifier=sources

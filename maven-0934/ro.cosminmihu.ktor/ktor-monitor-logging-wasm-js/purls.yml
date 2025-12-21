@@ -1,0 +1,4 @@
+- pkg:maven/ro.cosminmihu.ktor/ktor-monitor-logging-wasm-js@1.7.0-rc2?classifier=sources
+- pkg:maven/ro.cosminmihu.ktor/ktor-monitor-logging-wasm-js@1.7.0?classifier=sources
+- pkg:maven/ro.cosminmihu.ktor/ktor-monitor-logging-wasm-js@1.7.1?classifier=sources
+- pkg:maven/ro.cosminmihu.ktor/ktor-monitor-logging-wasm-js@1.7.2?classifier=sources

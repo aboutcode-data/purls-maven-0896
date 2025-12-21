@@ -11,6 +11,9 @@
 - pkg:maven/io.github.lubase/lubase-orm@1.4.11?classifier=sources
 - pkg:maven/io.github.lubase/lubase-orm@1.4.12?classifier=sources
 - pkg:maven/io.github.lubase/lubase-orm@1.4.13?classifier=sources
+- pkg:maven/io.github.lubase/lubase-orm@1.4.14?classifier=sources
+- pkg:maven/io.github.lubase/lubase-orm@1.4.15?classifier=sources
+- pkg:maven/io.github.lubase/lubase-orm@1.4.16?classifier=sources
 - pkg:maven/io.github.lubase/lubase-orm@1.4.2?classifier=sources
 - pkg:maven/io.github.lubase/lubase-orm@1.4.3?classifier=sources
 - pkg:maven/io.github.lubase/lubase-orm@1.4.4?classifier=sources
@@ -19,3 +22,4 @@
 - pkg:maven/io.github.lubase/lubase-orm@1.4.7?classifier=sources
 - pkg:maven/io.github.lubase/lubase-orm@1.4.8?classifier=sources
 - pkg:maven/io.github.lubase/lubase-orm@1.4.9?classifier=sources
+- pkg:maven/io.github.lubase/lubase-orm@1.6.0?classifier=sources

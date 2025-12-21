@@ -124,6 +124,8 @@
 - pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.46
 - pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.47
+- pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.6
 - pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.6?classifier=sources
 - pkg:maven/org.glassfish.jersey.ext/jersey-declarative-linking@2.7

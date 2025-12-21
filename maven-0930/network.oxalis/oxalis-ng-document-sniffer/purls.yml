@@ -10,3 +10,5 @@
 - pkg:maven/network.oxalis/oxalis-ng-document-sniffer@1.1.0-RC1
 - pkg:maven/network.oxalis/oxalis-ng-document-sniffer@1.1.0-RC1?classifier=sources
 - pkg:maven/network.oxalis/oxalis-ng-document-sniffer@1.1.0?classifier=sources
+- pkg:maven/network.oxalis/oxalis-ng-document-sniffer@1.2.0-RC1
+- pkg:maven/network.oxalis/oxalis-ng-document-sniffer@1.2.0-RC1?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/com.softwaremill.ox/otel-context_3@0.5.12?classifier=sources
 - pkg:maven/com.softwaremill.ox/otel-context_3@0.5.13
 - pkg:maven/com.softwaremill.ox/otel-context_3@0.5.13?classifier=sources
+- pkg:maven/com.softwaremill.ox/otel-context_3@0.5.14
+- pkg:maven/com.softwaremill.ox/otel-context_3@0.5.14?classifier=sources
+- pkg:maven/com.softwaremill.ox/otel-context_3@0.5.15
+- pkg:maven/com.softwaremill.ox/otel-context_3@0.5.15?classifier=sources
+- pkg:maven/com.softwaremill.ox/otel-context_3@0.6.0
+- pkg:maven/com.softwaremill.ox/otel-context_3@0.6.0?classifier=sources

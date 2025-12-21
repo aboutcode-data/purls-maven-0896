@@ -58,4 +58,6 @@
 - pkg:maven/com.xtdb/xtdb-kafka@2.0.0-beta7.rc3?classifier=sources
 - pkg:maven/com.xtdb/xtdb-kafka@2.0.0-beta7?classifier=sources
 - pkg:maven/com.xtdb/xtdb-kafka@2.0.0-beta8.1?classifier=sources
+- pkg:maven/com.xtdb/xtdb-kafka@2.0.0-beta8.4?classifier=sources
 - pkg:maven/com.xtdb/xtdb-kafka@2.0.0-beta8?classifier=sources
+- pkg:maven/com.xtdb/xtdb-kafka@2.0.0-beta9?classifier=sources

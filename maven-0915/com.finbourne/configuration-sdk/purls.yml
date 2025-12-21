@@ -165,6 +165,9 @@
 - pkg:maven/com.finbourne/configuration-sdk@2.0.87?classifier=sources
 - pkg:maven/com.finbourne/configuration-sdk@2.0.88
 - pkg:maven/com.finbourne/configuration-sdk@2.0.88?classifier=sources
+- pkg:maven/com.finbourne/configuration-sdk@2.0.89?classifier=sources
 - pkg:maven/com.finbourne/configuration-sdk@2.0.8?classifier=sources
 - pkg:maven/com.finbourne/configuration-sdk@2.0.9
+- pkg:maven/com.finbourne/configuration-sdk@2.0.90?classifier=sources
+- pkg:maven/com.finbourne/configuration-sdk@2.0.91?classifier=sources
 - pkg:maven/com.finbourne/configuration-sdk@2.0.9?classifier=sources

@@ -32,6 +32,8 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.12.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.12.500
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.12.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.12.600
+- pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.12.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.8.101
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.8.101?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.ui.views@3.8.102

@@ -77,6 +77,7 @@
 - pkg:maven/io.servicetalk/servicetalk-concurrent-jdkflow@0.42.54?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-concurrent-jdkflow@0.42.55?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-concurrent-jdkflow@0.42.56?classifier=sources
+- pkg:maven/io.servicetalk/servicetalk-concurrent-jdkflow@0.42.57?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-concurrent-jdkflow@0.42.6?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-concurrent-jdkflow@0.42.7?classifier=sources
 - pkg:maven/io.servicetalk/servicetalk-concurrent-jdkflow@0.42.8?classifier=sources

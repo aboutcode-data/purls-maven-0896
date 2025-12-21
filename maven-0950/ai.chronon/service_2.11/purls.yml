@@ -16,5 +16,7 @@
 - pkg:maven/ai.chronon/service_2.11@0.0.94?classifier=sources
 - pkg:maven/ai.chronon/service_2.11@0.0.95
 - pkg:maven/ai.chronon/service_2.11@0.0.95?classifier=sources
+- pkg:maven/ai.chronon/service_2.11@0.0.96
+- pkg:maven/ai.chronon/service_2.11@0.0.96?classifier=sources
 - pkg:maven/ai.chronon/service_2.11@def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91
 - pkg:maven/ai.chronon/service_2.11@def544ccef5f753238ecc4adfc2eaa7d2fc36d53-0.0.91?classifier=sources

@@ -36,3 +36,9 @@
 - pkg:maven/com.yandex.cloud/java-sdk-services@2.6.4?classifier=sources
 - pkg:maven/com.yandex.cloud/java-sdk-services@2.6.6
 - pkg:maven/com.yandex.cloud/java-sdk-services@2.6.6?classifier=sources
+- pkg:maven/com.yandex.cloud/java-sdk-services@2.6.7
+- pkg:maven/com.yandex.cloud/java-sdk-services@2.6.7?classifier=sources
+- pkg:maven/com.yandex.cloud/java-sdk-services@2.7.0
+- pkg:maven/com.yandex.cloud/java-sdk-services@2.7.0?classifier=sources
+- pkg:maven/com.yandex.cloud/java-sdk-services@2.8.0
+- pkg:maven/com.yandex.cloud/java-sdk-services@2.8.0?classifier=sources

@@ -23,6 +23,10 @@
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.12?classifier=sources
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.13
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.13?classifier=sources
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.14
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.14?classifier=sources
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.15
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.15?classifier=sources
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.1?classifier=sources
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.2
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.2?classifier=sources
@@ -38,3 +42,5 @@
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.8?classifier=sources
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.9
 - pkg:maven/com.softwaremill.ox/mdc-logback_3@0.5.9?classifier=sources
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.6.0
+- pkg:maven/com.softwaremill.ox/mdc-logback_3@0.6.0?classifier=sources

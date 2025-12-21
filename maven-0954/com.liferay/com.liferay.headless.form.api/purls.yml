@@ -194,6 +194,7 @@
 - pkg:maven/com.liferay/com.liferay.headless.form.api@15.2.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.api@15.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.api@15.2.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.headless.form.api@16.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.api@2.0.0
 - pkg:maven/com.liferay/com.liferay.headless.form.api@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.headless.form.api@2.0.0?classifier=sources-commercial

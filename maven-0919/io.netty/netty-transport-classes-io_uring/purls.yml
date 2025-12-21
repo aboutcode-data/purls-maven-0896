@@ -22,3 +22,4 @@
 - pkg:maven/io.netty/netty-transport-classes-io_uring@4.2.0.RC4?classifier=sources
 - pkg:maven/io.netty/netty-transport-classes-io_uring@4.2.1.Final
 - pkg:maven/io.netty/netty-transport-classes-io_uring@4.2.1.Final?classifier=sources
+- pkg:maven/io.netty/netty-transport-classes-io_uring@4.2.2.Final?classifier=sources

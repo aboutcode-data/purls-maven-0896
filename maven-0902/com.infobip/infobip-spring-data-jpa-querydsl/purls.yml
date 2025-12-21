@@ -96,3 +96,5 @@
 - pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@9.0.8?classifier=sources
 - pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@9.1.0
 - pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@9.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@9.2.0
+- pkg:maven/com.infobip/infobip-spring-data-jpa-querydsl@9.2.0?classifier=sources

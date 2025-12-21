@@ -60,3 +60,7 @@
 - pkg:maven/com.astercasc/aster-yuno-index-object-bus@1.1.8?classifier=sources
 - pkg:maven/com.astercasc/aster-yuno-index-object-bus@1.1.9
 - pkg:maven/com.astercasc/aster-yuno-index-object-bus@1.1.9?classifier=sources
+- pkg:maven/com.astercasc/aster-yuno-index-object-bus@2.0.0
+- pkg:maven/com.astercasc/aster-yuno-index-object-bus@2.0.0?classifier=sources
+- pkg:maven/com.astercasc/aster-yuno-index-object-bus@2.1.0
+- pkg:maven/com.astercasc/aster-yuno-index-object-bus@2.1.0?classifier=sources

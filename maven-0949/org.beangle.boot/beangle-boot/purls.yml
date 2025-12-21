@@ -10,3 +10,5 @@
 - pkg:maven/org.beangle.boot/beangle-boot@0.1.14?classifier=sources
 - pkg:maven/org.beangle.boot/beangle-boot@0.1.15
 - pkg:maven/org.beangle.boot/beangle-boot@0.1.15?classifier=sources
+- pkg:maven/org.beangle.boot/beangle-boot@0.1.16
+- pkg:maven/org.beangle.boot/beangle-boot@0.1.16?classifier=sources

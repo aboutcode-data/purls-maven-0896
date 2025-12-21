@@ -10,3 +10,5 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.itest.minimal@6.2.0?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.itest.minimal@6.3.0
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.itest.minimal@6.3.0?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.itest.minimal@6.3.1
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.itest.minimal@6.3.1?classifier=sources

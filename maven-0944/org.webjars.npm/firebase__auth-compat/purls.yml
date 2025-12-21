@@ -13,3 +13,4 @@
 - pkg:maven/org.webjars.npm/firebase__auth-compat@0.3.7
 - pkg:maven/org.webjars.npm/firebase__auth-compat@0.3.7?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__auth-compat@0.5.12
+- pkg:maven/org.webjars.npm/firebase__auth-compat@0.5.26

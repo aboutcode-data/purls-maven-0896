@@ -23,3 +23,4 @@
 - pkg:maven/com.norconex.collectors/norconex-collector-http@3.0.0?classifier=sources
 - pkg:maven/com.norconex.collectors/norconex-collector-http@3.0.1?classifier=sources
 - pkg:maven/com.norconex.collectors/norconex-collector-http@3.0.2?classifier=sources
+- pkg:maven/com.norconex.collectors/norconex-collector-http@3.1.0?classifier=sources

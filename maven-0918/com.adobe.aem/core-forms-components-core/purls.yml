@@ -134,6 +134,9 @@
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.104
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.106
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.106-scribbleB002
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.106-scribbleB004
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.107-printF002
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.107-printF004
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.12
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.14
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.16

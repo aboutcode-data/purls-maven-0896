@@ -32,4 +32,5 @@
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.27
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.27.1
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.27.1?classifier=sources
+- pkg:maven/io.hyperfoil/hyperfoil-http@0.27.2?classifier=sources
 - pkg:maven/io.hyperfoil/hyperfoil-http@0.27?classifier=sources

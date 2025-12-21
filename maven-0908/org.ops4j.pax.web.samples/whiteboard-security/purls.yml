@@ -1,3 +1,5 @@
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@10.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@11.0.0?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@8.0.16
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@8.0.16?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@8.0.17
@@ -30,6 +32,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@8.0.30?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@8.0.31
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@8.0.31?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@8.0.32?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.10
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.10?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.11
@@ -52,6 +55,7 @@
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.19?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.20
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.20?classifier=sources
+- pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.21?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.5
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.5?classifier=sources
 - pkg:maven/org.ops4j.pax.web.samples/whiteboard-security@9.0.6

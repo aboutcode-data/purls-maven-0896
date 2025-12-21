@@ -5,3 +5,4 @@
 - pkg:maven/org.hibernate.infra.develocity/hibernate-develocity-maven-extension@3.0.2.Final
 - pkg:maven/org.hibernate.infra.develocity/hibernate-develocity-maven-extension@3.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.infra.develocity/hibernate-develocity-maven-extension@3.0.3.Final?classifier=sources
+- pkg:maven/org.hibernate.infra.develocity/hibernate-develocity-maven-extension@3.0.4.Final?classifier=sources

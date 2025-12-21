@@ -1,0 +1,2 @@
+- pkg:maven/com.coditory.kttp/kttp-server-jdk@0.0.1?classifier=sources
+- pkg:maven/com.coditory.kttp/kttp-server-jdk@0.0.2?classifier=sources

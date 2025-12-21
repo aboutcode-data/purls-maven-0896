@@ -196,6 +196,8 @@
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.23.0-alpha5?type=war
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.23.0?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.23.0?type=war
+- pkg:maven/org.camunda.bpm/camunda-engine-rest@7.24.0-alpha1?classifier=sources
+- pkg:maven/org.camunda.bpm/camunda-engine-rest@7.24.0-alpha1?type=war
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.3.0-alpha1?classifier=sources
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.3.0-alpha1?type=war
 - pkg:maven/org.camunda.bpm/camunda-engine-rest@7.3.0-alpha2?classifier=sources

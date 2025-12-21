@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-svnClientAdapter@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-svnClientAdapter@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-svnClientAdapter@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-svnClientAdapter@RELEASE260?classifier=sources

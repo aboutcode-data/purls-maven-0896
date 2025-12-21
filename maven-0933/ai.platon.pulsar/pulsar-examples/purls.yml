@@ -96,3 +96,9 @@
 - pkg:maven/ai.platon.pulsar/pulsar-examples@1.9.9?classifier=sources
 - pkg:maven/ai.platon.pulsar/pulsar-examples@2.0.2
 - pkg:maven/ai.platon.pulsar/pulsar-examples@2.0.2?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-examples@3.0.7
+- pkg:maven/ai.platon.pulsar/pulsar-examples@3.0.7?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-examples@3.0.8
+- pkg:maven/ai.platon.pulsar/pulsar-examples@3.0.8?classifier=sources
+- pkg:maven/ai.platon.pulsar/pulsar-examples@3.0.9
+- pkg:maven/ai.platon.pulsar/pulsar-examples@3.0.9?classifier=sources

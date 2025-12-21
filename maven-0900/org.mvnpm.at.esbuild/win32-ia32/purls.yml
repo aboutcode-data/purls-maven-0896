@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.esbuild/win32-ia32@0.23.1
+- pkg:maven/org.mvnpm.at.esbuild/win32-ia32@0.23.1?classifier=sources

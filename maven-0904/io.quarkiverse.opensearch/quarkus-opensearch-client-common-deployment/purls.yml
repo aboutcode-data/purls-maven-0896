@@ -6,6 +6,7 @@
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.12.0?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.12.1?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.12.2?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.12.3?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.13.0?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.13.1?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.14.0?classifier=sources
@@ -15,7 +16,11 @@
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.16.2?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.16.3?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.17.0?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.17.1?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.17.2?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.18.0?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.18.1?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.19.0?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.2.4
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.2.4?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.2.5
@@ -42,6 +47,7 @@
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.6.13
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.6.13?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.6.14?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.6.15?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.6.1?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.6.2
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.6.2?classifier=sources
@@ -85,3 +91,4 @@
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.9.6?classifier=sources
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.9.7
 - pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@1.9.7?classifier=sources
+- pkg:maven/io.quarkiverse.opensearch/quarkus-opensearch-client-common-deployment@2.0.0.CR1?classifier=sources

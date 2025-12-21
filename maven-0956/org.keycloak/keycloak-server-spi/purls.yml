@@ -230,6 +230,8 @@
 - pkg:maven/org.keycloak/keycloak-server-spi@26.2.3?classifier=sources
 - pkg:maven/org.keycloak/keycloak-server-spi@26.2.4
 - pkg:maven/org.keycloak/keycloak-server-spi@26.2.4?classifier=sources
+- pkg:maven/org.keycloak/keycloak-server-spi@26.2.5
+- pkg:maven/org.keycloak/keycloak-server-spi@26.2.5?classifier=sources
 - pkg:maven/org.keycloak/keycloak-server-spi@3.0.0.CR1
 - pkg:maven/org.keycloak/keycloak-server-spi@3.0.0.CR1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-server-spi@3.0.0.Final

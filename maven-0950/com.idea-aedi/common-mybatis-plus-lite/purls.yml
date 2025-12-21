@@ -16,6 +16,10 @@
 - pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.12.LTS17?classifier=sources
 - pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.12.LTS8
 - pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.12.LTS8?classifier=sources
+- pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.13.LTS17
+- pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.13.LTS17?classifier=sources
+- pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.13.LTS8
+- pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.13.LTS8?classifier=sources
 - pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.2.LTS17
 - pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.2.LTS17?classifier=sources
 - pkg:maven/com.idea-aedi/common-mybatis-plus-lite@2100.10.2.LTS8

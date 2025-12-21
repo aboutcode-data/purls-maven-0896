@@ -18,3 +18,5 @@
 - pkg:maven/com.solace.connector.core.io/pubsubplus-connector-jms-common@3.1.9?classifier=sources
 - pkg:maven/com.solace.connector.core.io/pubsubplus-connector-jms-common@3.2.0
 - pkg:maven/com.solace.connector.core.io/pubsubplus-connector-jms-common@3.2.0?classifier=sources
+- pkg:maven/com.solace.connector.core.io/pubsubplus-connector-jms-common@3.2.1
+- pkg:maven/com.solace.connector.core.io/pubsubplus-connector-jms-common@3.2.1?classifier=sources

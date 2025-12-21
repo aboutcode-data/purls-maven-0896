@@ -50,6 +50,7 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2.41.1?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2.42.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2.42.1?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@2.42.2?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2.43.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2.44.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2.44.1?classifier=sources
@@ -65,10 +66,17 @@
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-10?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-11?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-12?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-13?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-14?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-15?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-16?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-17?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-18?classifier=sources
+- pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-19?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-5?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-6?classifier=sources
 - pkg:maven/io.spinnaker.kayenta/kayenta-orca@main-7?classifier=sources

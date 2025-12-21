@@ -1,3 +1,4 @@
 - pkg:maven/ru.biosoft.access/file@1.0.0?classifier=sources
 - pkg:maven/ru.biosoft.access/file@1.1.0?classifier=sources
 - pkg:maven/ru.biosoft.access/file@1.1.1?classifier=sources
+- pkg:maven/ru.biosoft.access/file@2.0.0?classifier=sources

@@ -30,6 +30,7 @@
 - pkg:maven/org.jooq/jooq-migrations-maven@3.19.22
 - pkg:maven/org.jooq/jooq-migrations-maven@3.19.22?classifier=sources
 - pkg:maven/org.jooq/jooq-migrations-maven@3.19.23?classifier=sources
+- pkg:maven/org.jooq/jooq-migrations-maven@3.19.24?classifier=sources
 - pkg:maven/org.jooq/jooq-migrations-maven@3.19.2?classifier=sources
 - pkg:maven/org.jooq/jooq-migrations-maven@3.19.3
 - pkg:maven/org.jooq/jooq-migrations-maven@3.19.3?classifier=sources
@@ -54,3 +55,4 @@
 - pkg:maven/org.jooq/jooq-migrations-maven@3.20.3
 - pkg:maven/org.jooq/jooq-migrations-maven@3.20.3?classifier=sources
 - pkg:maven/org.jooq/jooq-migrations-maven@3.20.4?classifier=sources
+- pkg:maven/org.jooq/jooq-migrations-maven@3.20.5?classifier=sources

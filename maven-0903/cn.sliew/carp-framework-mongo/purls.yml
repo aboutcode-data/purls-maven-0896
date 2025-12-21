@@ -89,6 +89,8 @@
 - pkg:maven/cn.sliew/carp-framework-mongo@0.0.8
 - pkg:maven/cn.sliew/carp-framework-mongo@0.0.80?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-mongo@0.0.81?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-mongo@0.0.82?classifier=sources
+- pkg:maven/cn.sliew/carp-framework-mongo@0.0.83?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-mongo@0.0.8?classifier=sources
 - pkg:maven/cn.sliew/carp-framework-mongo@0.0.9
 - pkg:maven/cn.sliew/carp-framework-mongo@0.0.9?classifier=sources

@@ -6,6 +6,7 @@
 - pkg:maven/ru.modulkassa.pos/integration-library@1.7.10?classifier=sources
 - pkg:maven/ru.modulkassa.pos/integration-library@1.7.11?classifier=sources
 - pkg:maven/ru.modulkassa.pos/integration-library@1.7.12?classifier=sources
+- pkg:maven/ru.modulkassa.pos/integration-library@1.7.13?classifier=sources
 - pkg:maven/ru.modulkassa.pos/integration-library@1.7.3?classifier=sources
 - pkg:maven/ru.modulkassa.pos/integration-library@1.7.4?classifier=sources
 - pkg:maven/ru.modulkassa.pos/integration-library@1.7.5?classifier=sources

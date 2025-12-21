@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/datatables.net-colreorder-bs4@1.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-colreorder-bs4@1.7.2
 - pkg:maven/org.webjars.npm/datatables.net-colreorder-bs4@2.0.4
+- pkg:maven/org.webjars.npm/datatables.net-colreorder-bs4@2.1.0
+- pkg:maven/org.webjars.npm/datatables.net-colreorder-bs4@2.1.1

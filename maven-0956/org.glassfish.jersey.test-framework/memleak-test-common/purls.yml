@@ -90,6 +90,8 @@
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@2.46
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@2.47
+- pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@3.0.0
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@3.0.0-M1?classifier=sources

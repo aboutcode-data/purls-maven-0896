@@ -1,3 +1,4 @@
+- pkg:maven/com.appier/geofence-android@0.0.1-test.1?classifier=sources
 - pkg:maven/com.appier/geofence-android@8.1.0?classifier=sources
 - pkg:maven/com.appier/geofence-android@8.2.0?classifier=sources
 - pkg:maven/com.appier/geofence-android@8.2.1?classifier=sources
@@ -5,3 +6,4 @@
 - pkg:maven/com.appier/geofence-android@8.2.3?classifier=sources
 - pkg:maven/com.appier/geofence-android@8.2.4?classifier=sources
 - pkg:maven/com.appier/geofence-android@8.2.5?classifier=sources
+- pkg:maven/com.appier/geofence-android@8.3.0?classifier=sources

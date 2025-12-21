@@ -42,3 +42,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher@1.6.800?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher@1.6.900
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher@1.6.900?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher@1.7.0
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher@1.7.0?classifier=sources

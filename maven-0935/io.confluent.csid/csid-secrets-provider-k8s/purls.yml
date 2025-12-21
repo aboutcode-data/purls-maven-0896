@@ -1,0 +1,2 @@
+- pkg:maven/io.confluent.csid/csid-secrets-provider-k8s@1.0.42
+- pkg:maven/io.confluent.csid/csid-secrets-provider-k8s@1.0.42?classifier=sources

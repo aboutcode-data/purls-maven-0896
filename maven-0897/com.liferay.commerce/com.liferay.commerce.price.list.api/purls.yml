@@ -164,6 +164,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.api@32.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.api@33.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.api@33.0.1?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.api@34.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.api@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.price.list.api@4.0.0?classifier=sources-commercial

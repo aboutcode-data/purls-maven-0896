@@ -8,6 +8,7 @@
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.21.11?classifier=sources
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.21.12?classifier=sources
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.21.14?classifier=sources
+- pkg:maven/org.conductoross/conductor-azureblob-storage@3.21.15?classifier=sources
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.21.1?classifier=sources
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.21.2?classifier=sources
 - pkg:maven/org.conductoross/conductor-azureblob-storage@3.21.3?classifier=sources

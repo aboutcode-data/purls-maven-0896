@@ -12,3 +12,9 @@
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.28?classifier=sources
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.29
 - pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.29?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.30
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.30?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.32
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.32?classifier=sources
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.33
+- pkg:maven/com.softwaremill.sttp.tapir/tapir-sttp-client4_2.12@1.11.33?classifier=sources

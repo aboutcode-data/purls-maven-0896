@@ -25,3 +25,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jsdoc@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jsdoc@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jsdoc@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-jsdoc@RELEASE260?classifier=sources

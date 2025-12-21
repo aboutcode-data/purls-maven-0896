@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.scalar/import@0.3.16
 - pkg:maven/org.mvnpm.at.scalar/import@0.3.16?classifier=sources
+- pkg:maven/org.mvnpm.at.scalar/import@0.4.8
+- pkg:maven/org.mvnpm.at.scalar/import@0.4.8?classifier=sources

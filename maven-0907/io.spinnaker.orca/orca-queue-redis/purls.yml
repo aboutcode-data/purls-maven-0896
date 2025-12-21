@@ -7,6 +7,7 @@
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.15.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.16.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.17.1?classifier=sources
@@ -89,6 +90,7 @@
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.56.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.57.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.57.1?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@8.57.2?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.58.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.59.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@8.60.0?classifier=sources
@@ -102,6 +104,12 @@
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@main-11?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@main-12?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@main-13?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@main-14?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@main-15?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@main-16?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@main-17?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@main-18?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-queue-redis@main-19?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@main-5?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@main-6?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-queue-redis@main-7?classifier=sources

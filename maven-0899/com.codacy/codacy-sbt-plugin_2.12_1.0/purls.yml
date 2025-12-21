@@ -1,0 +1,8 @@
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.0.0-sonatype-central-migration
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.0.0-sonatype-central-migration?classifier=sources
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.2.2
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.2.2?classifier=sources
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.2.3
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.2.3?classifier=sources
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.2.4
+- pkg:maven/com.codacy/codacy-sbt-plugin_2.12_1.0@25.2.4?classifier=sources

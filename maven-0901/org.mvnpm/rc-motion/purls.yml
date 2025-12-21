@@ -1,1 +1,5 @@
+- pkg:maven/org.mvnpm/rc-motion@1.1.2
+- pkg:maven/org.mvnpm/rc-motion@1.1.2?classifier=sources
 - pkg:maven/org.mvnpm/rc-motion@2.9.0?classifier=sources
+- pkg:maven/org.mvnpm/rc-motion@2.9.5
+- pkg:maven/org.mvnpm/rc-motion@2.9.5?classifier=sources

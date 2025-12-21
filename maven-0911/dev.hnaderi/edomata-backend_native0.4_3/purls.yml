@@ -26,6 +26,8 @@
 - pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.12.5?classifier=sources
 - pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.12.6
 - pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.12.6?classifier=sources
+- pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.12.7
+- pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.12.7?classifier=sources
 - pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.9.0
 - pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.9.0?classifier=sources
 - pkg:maven/dev.hnaderi/edomata-backend_native0.4_3@0.9.1

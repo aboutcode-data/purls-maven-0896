@@ -3,6 +3,7 @@
 - pkg:maven/io.spinnaker.fiat/fiat-integration@1.50.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@1.51.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@1.51.1?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@1.51.2?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@1.52.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@1.53.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@1.54.0?classifier=sources
@@ -20,10 +21,17 @@
 - pkg:maven/io.spinnaker.fiat/fiat-integration@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@2025.0.2?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@2025.0.3?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@main-10?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@main-11?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@main-12?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@main-13?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@main-14?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@main-15?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@main-16?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@main-17?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@main-18?classifier=sources
+- pkg:maven/io.spinnaker.fiat/fiat-integration@main-19?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@main-5?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@main-6?classifier=sources
 - pkg:maven/io.spinnaker.fiat/fiat-integration@main-7?classifier=sources

@@ -60,3 +60,5 @@
 - pkg:maven/io.github.hdwang123/openapi-server-sdk@1.5.8?classifier=sources
 - pkg:maven/io.github.hdwang123/openapi-server-sdk@1.5.9
 - pkg:maven/io.github.hdwang123/openapi-server-sdk@1.5.9?classifier=sources
+- pkg:maven/io.github.hdwang123/openapi-server-sdk@2.0.0
+- pkg:maven/io.github.hdwang123/openapi-server-sdk@2.0.0?classifier=sources

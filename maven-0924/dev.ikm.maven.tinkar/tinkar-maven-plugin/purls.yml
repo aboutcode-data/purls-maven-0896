@@ -12,3 +12,9 @@
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.19.0?classifier=sources
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.20.0
 - pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.20.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.21.0
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.21.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.22.0
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.22.0?classifier=sources
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.23.0
+- pkg:maven/dev.ikm.maven.tinkar/tinkar-maven-plugin@1.23.0?classifier=sources

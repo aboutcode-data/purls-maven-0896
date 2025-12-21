@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.database.jdbc/ojdbc-provider-aws@1.0.4
 - pkg:maven/com.oracle.database.jdbc/ojdbc-provider-aws@1.0.4?classifier=sources
+- pkg:maven/com.oracle.database.jdbc/ojdbc-provider-aws@1.0.5
+- pkg:maven/com.oracle.database.jdbc/ojdbc-provider-aws@1.0.5?classifier=sources

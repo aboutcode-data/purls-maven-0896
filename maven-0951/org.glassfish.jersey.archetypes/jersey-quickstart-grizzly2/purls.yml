@@ -154,6 +154,7 @@
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@2.44?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@2.4?classifier=sources
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@2.5
 - pkg:maven/org.glassfish.jersey.archetypes/jersey-quickstart-grizzly2@2.5.1

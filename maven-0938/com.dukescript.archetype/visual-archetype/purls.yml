@@ -16,3 +16,4 @@
 - pkg:maven/com.dukescript.archetype/visual-archetype@0.31
 - pkg:maven/com.dukescript.archetype/visual-archetype@0.32
 - pkg:maven/com.dukescript.archetype/visual-archetype@0.33
+- pkg:maven/com.dukescript.archetype/visual-archetype@0.41?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fastify@0.45.0?classifier=sources
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fastify@0.46.0
 - pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fastify@0.46.0?classifier=sources
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fastify@0.47.0
+- pkg:maven/org.mvnpm.at.opentelemetry/instrumentation-fastify@0.47.0?classifier=sources

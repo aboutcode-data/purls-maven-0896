@@ -28,3 +28,5 @@
 - pkg:maven/com.expediagroup.beans/bull-map-transformer@2.2.3?classifier=sources
 - pkg:maven/com.expediagroup.beans/bull-map-transformer@2.2.4
 - pkg:maven/com.expediagroup.beans/bull-map-transformer@2.2.4?classifier=sources
+- pkg:maven/com.expediagroup.beans/bull-map-transformer@3.0.0
+- pkg:maven/com.expediagroup.beans/bull-map-transformer@3.0.0?classifier=sources

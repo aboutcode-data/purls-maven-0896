@@ -44,3 +44,4 @@
 - pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-common@2.1.0?classifier=sources
 - pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-common@2.2.0
 - pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-common@2.2.0?classifier=sources
+- pkg:maven/de.focus-shift.urlaubsverwaltung.extension.api/model-common@2.3.2?classifier=sources

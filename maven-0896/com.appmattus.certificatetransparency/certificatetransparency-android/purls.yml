@@ -79,3 +79,7 @@
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency-android@2.5.89?classifier=sources
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency-android@2.5.90?classifier=sources
 - pkg:maven/com.appmattus.certificatetransparency/certificatetransparency-android@2.6.0?classifier=sources
+- pkg:maven/com.appmattus.certificatetransparency/certificatetransparency-android@2.6.1?classifier=sources
+- pkg:maven/com.appmattus.certificatetransparency/certificatetransparency-android@2.6.2?classifier=sources
+- pkg:maven/com.appmattus.certificatetransparency/certificatetransparency-android@2.6.3?classifier=sources
+- pkg:maven/com.appmattus.certificatetransparency/certificatetransparency-android@2.6.4?classifier=sources

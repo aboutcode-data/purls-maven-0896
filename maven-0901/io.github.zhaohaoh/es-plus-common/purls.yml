@@ -41,4 +41,10 @@
 - pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.6
 - pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.61
 - pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.61?classifier=sources
+- pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.62
+- pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.62?classifier=sources
 - pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.6?classifier=sources
+- pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.7
+- pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.71
+- pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.71?classifier=sources
+- pkg:maven/io.github.zhaohaoh/es-plus-common@0.4.7?classifier=sources

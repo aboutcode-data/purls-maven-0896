@@ -56,3 +56,5 @@
 - pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client-jakarta@7.23.0-alpha5
 - pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client-jakarta@7.23.0-alpha5?classifier=sources
 - pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client-jakarta@7.23.0?classifier=sources
+- pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client-jakarta@7.24.0-alpha1
+- pkg:maven/org.camunda.bpm.javaee/camunda-ejb-client-jakarta@7.24.0-alpha1?classifier=sources

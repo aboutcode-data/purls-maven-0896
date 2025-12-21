@@ -1,2 +1,3 @@
 - pkg:maven/com.passpack.api/java-api-sdk@11.0.2?classifier=sources
 - pkg:maven/com.passpack.api/java-api-sdk@11.0.3?classifier=sources
+- pkg:maven/com.passpack.api/java-api-sdk@11.0.7?classifier=sources

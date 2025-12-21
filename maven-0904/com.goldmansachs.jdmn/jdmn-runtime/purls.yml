@@ -112,3 +112,5 @@
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.7.2?classifier=sources
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.7.3
 - pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@8.7.3?classifier=sources
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@9.0.0
+- pkg:maven/com.goldmansachs.jdmn/jdmn-runtime@9.0.0?classifier=sources

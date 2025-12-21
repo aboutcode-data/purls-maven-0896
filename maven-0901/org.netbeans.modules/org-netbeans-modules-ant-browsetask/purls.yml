@@ -25,4 +25,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE250?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-ant-browsetask@RELEASE90?classifier=sources

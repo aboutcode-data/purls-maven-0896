@@ -1,0 +1,4 @@
+- pkg:maven/com.github.leeyazhou/tushare-pro-java-sdk@2.0.5-RELEASE
+- pkg:maven/com.github.leeyazhou/tushare-pro-java-sdk@2.0.5-RELEASE?classifier=sources
+- pkg:maven/com.github.leeyazhou/tushare-pro-java-sdk@2.0.6
+- pkg:maven/com.github.leeyazhou/tushare-pro-java-sdk@2.0.6?classifier=sources

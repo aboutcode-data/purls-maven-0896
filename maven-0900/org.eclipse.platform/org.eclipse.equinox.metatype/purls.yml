@@ -32,3 +32,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.6.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.6.700
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.6.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.6.800
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.metatype@1.6.800?classifier=sources

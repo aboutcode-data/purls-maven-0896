@@ -62,6 +62,7 @@
 - pkg:maven/com.swirlds/swirlds-merkledb@0.60.1?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.60.2?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.61.0?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.61.10?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.61.1?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.61.2?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.61.3?classifier=sources
@@ -70,6 +71,11 @@
 - pkg:maven/com.swirlds/swirlds-merkledb@0.61.6?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.61.7?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.61.8?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.61.9?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.62.0?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.62.1?classifier=sources
 - pkg:maven/com.swirlds/swirlds-merkledb@0.62.2?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.62.3?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.62.4?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.62.5?classifier=sources
+- pkg:maven/com.swirlds/swirlds-merkledb@0.62.6?classifier=sources

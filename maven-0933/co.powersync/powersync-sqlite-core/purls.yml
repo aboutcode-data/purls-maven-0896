@@ -19,3 +19,4 @@
 - pkg:maven/co.powersync/powersync-sqlite-core@0.3.7?classifier=sources
 - pkg:maven/co.powersync/powersync-sqlite-core@0.3.8?classifier=sources
 - pkg:maven/co.powersync/powersync-sqlite-core@0.3.9?classifier=sources
+- pkg:maven/co.powersync/powersync-sqlite-core@0.4.0?classifier=sources

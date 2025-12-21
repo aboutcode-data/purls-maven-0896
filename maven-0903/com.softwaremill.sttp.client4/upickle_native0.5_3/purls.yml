@@ -44,3 +44,5 @@
 - pkg:maven/com.softwaremill.sttp.client4/upickle_native0.5_3@4.0.6?classifier=sources
 - pkg:maven/com.softwaremill.sttp.client4/upickle_native0.5_3@4.0.7
 - pkg:maven/com.softwaremill.sttp.client4/upickle_native0.5_3@4.0.7?classifier=sources
+- pkg:maven/com.softwaremill.sttp.client4/upickle_native0.5_3@4.0.8
+- pkg:maven/com.softwaremill.sttp.client4/upickle_native0.5_3@4.0.8?classifier=sources

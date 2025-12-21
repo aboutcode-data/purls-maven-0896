@@ -1,2 +1,4 @@
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-metasdmx@1.1.4
 - pkg:maven/it.bancaditalia.oss.vtl/vtl-metasdmx@1.1.4?classifier=sources
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-metasdmx@1.2.1
+- pkg:maven/it.bancaditalia.oss.vtl/vtl-metasdmx@1.2.1?classifier=sources

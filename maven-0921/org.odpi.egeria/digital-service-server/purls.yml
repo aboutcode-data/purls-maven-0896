@@ -64,3 +64,4 @@
 - pkg:maven/org.odpi.egeria/digital-service-server@5.1?classifier=sources
 - pkg:maven/org.odpi.egeria/digital-service-server@5.2.1?classifier=sources
 - pkg:maven/org.odpi.egeria/digital-service-server@5.2?classifier=sources
+- pkg:maven/org.odpi.egeria/digital-service-server@5.3?classifier=sources
