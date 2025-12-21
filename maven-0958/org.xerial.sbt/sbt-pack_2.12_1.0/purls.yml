@@ -6,3 +6,5 @@
 - pkg:maven/org.xerial.sbt/sbt-pack_2.12_1.0@0.20?classifier=sources
 - pkg:maven/org.xerial.sbt/sbt-pack_2.12_1.0@0.21
 - pkg:maven/org.xerial.sbt/sbt-pack_2.12_1.0@0.21?classifier=sources
+- pkg:maven/org.xerial.sbt/sbt-pack_2.12_1.0@0.22
+- pkg:maven/org.xerial.sbt/sbt-pack_2.12_1.0@0.22?classifier=sources

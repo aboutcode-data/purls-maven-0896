@@ -1,2 +1,4 @@
 - pkg:maven/eu.anifantakis/ksafe-iosx64@1.0.0-alpha01?classifier=sources
 - pkg:maven/eu.anifantakis/ksafe-iosx64@1.0.0?classifier=sources
+- pkg:maven/eu.anifantakis/ksafe-iosx64@1.1.0?classifier=sources
+- pkg:maven/eu.anifantakis/ksafe-iosx64@1.1.1?classifier=sources

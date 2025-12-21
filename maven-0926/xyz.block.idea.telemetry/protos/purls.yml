@@ -1,0 +1,2 @@
+- pkg:maven/xyz.block.idea.telemetry/protos@0.1.0?classifier=sources
+- pkg:maven/xyz.block.idea.telemetry/protos@0.2.0?classifier=sources

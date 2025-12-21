@@ -250,3 +250,4 @@
 - pkg:maven/com.riskified/riskified-sdk@v3.0.0?classifier=sources
 - pkg:maven/com.riskified/riskified-sdk@v3.1.0
 - pkg:maven/com.riskified/riskified-sdk@v3.1.0?classifier=sources
+- pkg:maven/com.riskified/riskified-sdk@v3.2.0?classifier=sources

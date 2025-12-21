@@ -12,3 +12,4 @@
 - pkg:maven/io.gdcc/xoai-xmlio@5.2.1?classifier=sources
 - pkg:maven/io.gdcc/xoai-xmlio@5.2.2
 - pkg:maven/io.gdcc/xoai-xmlio@5.2.2?classifier=sources
+- pkg:maven/io.gdcc/xoai-xmlio@5.3.0?classifier=sources

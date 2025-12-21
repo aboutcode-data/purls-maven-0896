@@ -5,3 +5,4 @@
 - pkg:maven/org.fitframework.plugin/fit-value-fastjson@3.5.0-M5?classifier=sources
 - pkg:maven/org.fitframework.plugin/fit-value-fastjson@3.5.0-M6?classifier=sources
 - pkg:maven/org.fitframework.plugin/fit-value-fastjson@3.5.0?classifier=sources
+- pkg:maven/org.fitframework.plugin/fit-value-fastjson@3.5.1?classifier=sources

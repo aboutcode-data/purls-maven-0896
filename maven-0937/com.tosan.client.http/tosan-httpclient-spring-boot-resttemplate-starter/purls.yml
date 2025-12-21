@@ -62,3 +62,4 @@
 - pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-resttemplate-starter@3.4.0?classifier=sources
 - pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-resttemplate-starter@3.5.3?classifier=sources
 - pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-resttemplate-starter@3.5.4?classifier=sources
+- pkg:maven/com.tosan.client.http/tosan-httpclient-spring-boot-resttemplate-starter@3.5.5?classifier=sources

@@ -164,5 +164,11 @@
 - pkg:maven/com.vonage/client-sdk-voice@2.0.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@2.0.1-rc.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@2.0.1-rc.1?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.0.1-rc.2?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@2.0.1-snapshot.84.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk-voice@2.0.1-snapshot.85.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.0.1-snapshot.89.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.0.1-snapshot.90.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.1.0-rc.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.1.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-voice@2.1.1-snapshot.101.0?classifier=sources

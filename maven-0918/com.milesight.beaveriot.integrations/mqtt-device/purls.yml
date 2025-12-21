@@ -1,1 +1,2 @@
 - pkg:maven/com.milesight.beaveriot.integrations/mqtt-device@1.2.4?classifier=sources
+- pkg:maven/com.milesight.beaveriot.integrations/mqtt-device@1.2.5?classifier=sources

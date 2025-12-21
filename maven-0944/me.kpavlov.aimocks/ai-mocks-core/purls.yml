@@ -24,3 +24,6 @@
 - pkg:maven/me.kpavlov.aimocks/ai-mocks-core@0.4.4?classifier=sources
 - pkg:maven/me.kpavlov.aimocks/ai-mocks-core@0.4.5?classifier=sources
 - pkg:maven/me.kpavlov.aimocks/ai-mocks-core@0.4.6?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-core@0.5.0-Alpha1?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-core@0.5.0-Alpha3?classifier=sources
+- pkg:maven/me.kpavlov.aimocks/ai-mocks-core@0.5.0-Aplha2?classifier=sources

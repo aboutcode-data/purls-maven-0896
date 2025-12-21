@@ -23,6 +23,8 @@
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.22?classifier=sources
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.23
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.23?classifier=sources
+- pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.24.4
+- pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.24.4?classifier=sources
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.2?classifier=sources
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.3
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.3?classifier=sources
@@ -38,3 +40,5 @@
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.8?classifier=sources
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.9
 - pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@0.9?classifier=sources
+- pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@1.0.1
+- pkg:maven/com.redhat.cloud.common/insights-notification-schemas-java@1.0.1?classifier=sources

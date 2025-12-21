@@ -73,6 +73,8 @@
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.41.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.42.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.43.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.44.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.45.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.5.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.6.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.2.7.Final?classifier=sources
@@ -124,6 +126,8 @@
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.25.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.26.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.27.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.28.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.29.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.3.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.4.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vibur@6.6.5.Final?classifier=sources

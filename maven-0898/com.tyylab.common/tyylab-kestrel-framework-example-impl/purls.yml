@@ -1,3 +1,4 @@
 - pkg:maven/com.tyylab.common/tyylab-kestrel-framework-example-impl@0.1.0?classifier=sources
 - pkg:maven/com.tyylab.common/tyylab-kestrel-framework-example-impl@0.2.0?classifier=sources
 - pkg:maven/com.tyylab.common/tyylab-kestrel-framework-example-impl@0.3.0?classifier=sources
+- pkg:maven/com.tyylab.common/tyylab-kestrel-framework-example-impl@0.4.0?classifier=sources

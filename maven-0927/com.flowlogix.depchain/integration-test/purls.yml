@@ -123,6 +123,7 @@
 - pkg:maven/com.flowlogix.depchain/integration-test@74?classifier=sources
 - pkg:maven/com.flowlogix.depchain/integration-test@75?classifier=sources
 - pkg:maven/com.flowlogix.depchain/integration-test@76?classifier=sources
+- pkg:maven/com.flowlogix.depchain/integration-test@77?classifier=sources
 - pkg:maven/com.flowlogix.depchain/integration-test@7?classifier=sources
 - pkg:maven/com.flowlogix.depchain/integration-test@8
 - pkg:maven/com.flowlogix.depchain/integration-test@8?classifier=sources

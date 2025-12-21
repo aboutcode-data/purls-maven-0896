@@ -6,6 +6,7 @@
 - pkg:maven/cool.taomu.toolkit/taomu-rpc-thrift@0.0.26?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-rpc-thrift@0.0.27?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-rpc-thrift@0.0.27a?classifier=sources
+- pkg:maven/cool.taomu.toolkit/taomu-rpc-thrift@0.0.27b?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-rpc-thrift@0.0.3?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-rpc-thrift@0.0.4?classifier=sources
 - pkg:maven/cool.taomu.toolkit/taomu-rpc-thrift@0.0.5?classifier=sources

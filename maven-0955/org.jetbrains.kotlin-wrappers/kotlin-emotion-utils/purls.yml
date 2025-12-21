@@ -71,7 +71,11 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.16-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.17-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.18-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.19-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.2-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.20-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.21-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.22-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.3-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.4-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.5-1.4.2?classifier=sources
@@ -79,3 +83,11 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.7-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.8-1.4.2?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.8.9-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.0-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.2-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.3-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.4-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.5-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.6-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.7-1.4.2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-emotion-utils@2025.9.8-1.4.2?classifier=sources

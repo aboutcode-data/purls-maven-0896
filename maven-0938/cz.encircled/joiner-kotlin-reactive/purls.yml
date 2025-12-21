@@ -43,6 +43,9 @@
 - pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.10?classifier=sources
 - pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.11?classifier=sources
 - pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.12?classifier=sources
+- pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.13?classifier=sources
+- pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.14?classifier=sources
+- pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.15?classifier=sources
 - pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.4?classifier=sources
 - pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.5?classifier=sources
 - pkg:maven/cz.encircled/joiner-kotlin-reactive@2.0.6?classifier=sources

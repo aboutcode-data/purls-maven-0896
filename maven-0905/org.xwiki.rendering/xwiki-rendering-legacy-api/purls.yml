@@ -617,6 +617,7 @@
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-legacy-api@17.6.0?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-legacy-api@17.7.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-legacy-api@17.7.0?classifier=sources
+- pkg:maven/org.xwiki.rendering/xwiki-rendering-legacy-api@17.8.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-legacy-api@4.1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-legacy-api@4.1-milestone-1
 - pkg:maven/org.xwiki.rendering/xwiki-rendering-legacy-api@4.1-milestone-1?classifier=sources

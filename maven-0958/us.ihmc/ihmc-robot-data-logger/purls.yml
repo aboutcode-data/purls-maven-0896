@@ -47,6 +47,8 @@
 - pkg:maven/us.ihmc/ihmc-robot-data-logger@0.34.0?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-data-logger@0.35.0?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-data-logger@0.36.0?classifier=sources
+- pkg:maven/us.ihmc/ihmc-robot-data-logger@0.36.1?classifier=sources
+- pkg:maven/us.ihmc/ihmc-robot-data-logger@0.36.2?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-data-logger@17-0.23.2?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-data-logger@17-0.23.3?classifier=sources
 - pkg:maven/us.ihmc/ihmc-robot-data-logger@17-0.23.4?classifier=sources

@@ -36,3 +36,9 @@
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.5.0-beta?classifier=sources
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.5.0?classifier=sources
 - pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.5.1-beta?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.6.0-beta2?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.6.0-beta3?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.6.0-beta4?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.6.0-beta?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.6.0?classifier=sources
+- pkg:maven/uk.gov.justice.service.hmpps/hmpps-kotlin-spring-boot-test-autoconfigure@1.7.0-beta?classifier=sources

@@ -23,8 +23,11 @@
 - pkg:maven/io.kestra.storage/storage-minio@0.22.0?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.22.1?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.22.2?classifier=sources
+- pkg:maven/io.kestra.storage/storage-minio@0.22.3?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.23.0?classifier=sources
+- pkg:maven/io.kestra.storage/storage-minio@0.23.1?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.24.0?classifier=sources
+- pkg:maven/io.kestra.storage/storage-minio@0.24.1?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.3.0?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.3.1?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.4.0?classifier=sources
@@ -32,3 +35,5 @@
 - pkg:maven/io.kestra.storage/storage-minio@0.6.0?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.8.0?classifier=sources
 - pkg:maven/io.kestra.storage/storage-minio@0.9.0?classifier=sources
+- pkg:maven/io.kestra.storage/storage-minio@1.0.0?classifier=sources
+- pkg:maven/io.kestra.storage/storage-minio@1.0.1?classifier=sources

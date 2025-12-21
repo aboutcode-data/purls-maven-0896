@@ -65,3 +65,4 @@
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mongo@1.20.5?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mongo@1.21.0?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mongo@1.21.1?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-mongo@1.21.2?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/org.citrusframework/citrus-simulator-ui@3.0.1?classifier=sources
 - pkg:maven/org.citrusframework/citrus-simulator-ui@3.0.2
 - pkg:maven/org.citrusframework/citrus-simulator-ui@3.0.2?classifier=sources
+- pkg:maven/org.citrusframework/citrus-simulator-ui@3.1.0?classifier=sources

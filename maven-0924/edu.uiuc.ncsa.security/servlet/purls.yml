@@ -10,3 +10,4 @@
 - pkg:maven/edu.uiuc.ncsa.security/servlet@5.4.3
 - pkg:maven/edu.uiuc.ncsa.security/servlet@5.4.3?classifier=sources
 - pkg:maven/edu.uiuc.ncsa.security/servlet@5.4?classifier=sources
+- pkg:maven/edu.uiuc.ncsa.security/servlet@6.2.1?classifier=sources

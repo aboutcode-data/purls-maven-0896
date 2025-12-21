@@ -3,3 +3,4 @@
 - pkg:maven/org.fitframework.fel/fel-flow@3.5.0-M5?classifier=sources
 - pkg:maven/org.fitframework.fel/fel-flow@3.5.0-M6?classifier=sources
 - pkg:maven/org.fitframework.fel/fel-flow@3.5.0?classifier=sources
+- pkg:maven/org.fitframework.fel/fel-flow@3.5.1?classifier=sources

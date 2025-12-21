@@ -1,0 +1,6 @@
+- pkg:maven/io.sundr/builder-hello-record-example@0.200.12?classifier=sources
+- pkg:maven/io.sundr/builder-hello-record-example@0.200.13?classifier=sources
+- pkg:maven/io.sundr/builder-hello-record-example@0.201.0?classifier=sources
+- pkg:maven/io.sundr/builder-hello-record-example@0.210.0?classifier=sources
+- pkg:maven/io.sundr/builder-hello-record-example@0.220.0?classifier=sources
+- pkg:maven/io.sundr/builder-hello-record-example@0.220.1?classifier=sources

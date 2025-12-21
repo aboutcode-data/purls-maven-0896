@@ -7,6 +7,9 @@
 - pkg:maven/com.hibegin/zrlog-service@3.2.109?classifier=sources
 - pkg:maven/com.hibegin/zrlog-service@3.2.10?classifier=sources
 - pkg:maven/com.hibegin/zrlog-service@3.2.111?classifier=sources
+- pkg:maven/com.hibegin/zrlog-service@3.2.112?classifier=sources
+- pkg:maven/com.hibegin/zrlog-service@3.2.113?classifier=sources
+- pkg:maven/com.hibegin/zrlog-service@3.2.114?classifier=sources
 - pkg:maven/com.hibegin/zrlog-service@3.2.11?classifier=sources
 - pkg:maven/com.hibegin/zrlog-service@3.2.12?classifier=sources
 - pkg:maven/com.hibegin/zrlog-service@3.2.13?classifier=sources

@@ -75,3 +75,14 @@
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@1.0.7?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@1.0.8?classifier=sources
 - pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@1.0.9?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-alpha?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-beta?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-gamma?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-iota?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-kappa?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-ksi?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-lambda?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-mu?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-omicron?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-theta?classifier=sources
+- pkg:maven/io.github.opensabe-tech/spring-cloud-parent-web-common@2.0.0-vu?classifier=sources

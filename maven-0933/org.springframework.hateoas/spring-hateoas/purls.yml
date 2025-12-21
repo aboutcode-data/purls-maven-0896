@@ -215,3 +215,4 @@
 - pkg:maven/org.springframework.hateoas/spring-hateoas@3.0.0-M3
 - pkg:maven/org.springframework.hateoas/spring-hateoas@3.0.0-M3?classifier=sources
 - pkg:maven/org.springframework.hateoas/spring-hateoas@3.0.0-M4?classifier=sources
+- pkg:maven/org.springframework.hateoas/spring-hateoas@3.0.0-M5?classifier=sources

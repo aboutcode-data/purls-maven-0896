@@ -1,2 +1,3 @@
 - pkg:maven/org.lynxsdk.lynx/xelement@3.4.0-rc.0?classifier=sources
 - pkg:maven/org.lynxsdk.lynx/xelement@3.4.0?classifier=sources
+- pkg:maven/org.lynxsdk.lynx/xelement@3.4.1?classifier=sources

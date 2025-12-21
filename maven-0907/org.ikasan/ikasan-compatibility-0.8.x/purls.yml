@@ -132,6 +132,7 @@
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@3.3.7?classifier=sources
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@3.3.8
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@3.3.8?classifier=sources
+- pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@3.3.9?classifier=sources
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@4.0.0
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@4.0.0?classifier=sources
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@4.0.1
@@ -146,3 +147,4 @@
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@4.0.5?classifier=sources
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@4.1.0
 - pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@4.1.0?classifier=sources
+- pkg:maven/org.ikasan/ikasan-compatibility-0.8.x@4.1.1?classifier=sources

@@ -92,6 +92,14 @@
 - pkg:maven/com.netease.nimlib/avchat@10.9.42.1?type=aar
 - pkg:maven/com.netease.nimlib/avchat@10.9.42?classifier=sources
 - pkg:maven/com.netease.nimlib/avchat@10.9.42?type=aar
+- pkg:maven/com.netease.nimlib/avchat@10.9.43?classifier=sources
+- pkg:maven/com.netease.nimlib/avchat@10.9.43?type=aar
+- pkg:maven/com.netease.nimlib/avchat@10.9.44?classifier=sources
+- pkg:maven/com.netease.nimlib/avchat@10.9.44?type=aar
+- pkg:maven/com.netease.nimlib/avchat@10.9.45?classifier=sources
+- pkg:maven/com.netease.nimlib/avchat@10.9.45?type=aar
+- pkg:maven/com.netease.nimlib/avchat@10.9.50?classifier=sources
+- pkg:maven/com.netease.nimlib/avchat@10.9.50?type=aar
 - pkg:maven/com.netease.nimlib/avchat@2.5.0?classifier=sources
 - pkg:maven/com.netease.nimlib/avchat@2.5.0?type=aar
 - pkg:maven/com.netease.nimlib/avchat@2.6.0?classifier=sources

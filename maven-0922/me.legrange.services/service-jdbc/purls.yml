@@ -119,3 +119,4 @@
 - pkg:maven/me.legrange.services/service-jdbc@4.6.1
 - pkg:maven/me.legrange.services/service-jdbc@4.6.1?classifier=sources
 - pkg:maven/me.legrange.services/service-jdbc@4.7.0?classifier=sources
+- pkg:maven/me.legrange.services/service-jdbc@4.7.1?classifier=sources

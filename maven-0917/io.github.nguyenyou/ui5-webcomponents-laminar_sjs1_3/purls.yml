@@ -56,6 +56,8 @@
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.11.0?classifier=sources
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.12.0
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.12.0?classifier=sources
+- pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.14.0
+- pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.14.0?classifier=sources
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.9.0
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.9.0?classifier=sources
 - pkg:maven/io.github.nguyenyou/ui5-webcomponents-laminar_sjs1_3@2.9.1

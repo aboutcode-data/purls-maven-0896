@@ -1,2 +1,4 @@
 - pkg:maven/io.github.tanexc/imagetool-iossimulatorarm64@0.0.1-alpha01?classifier=sources
 - pkg:maven/io.github.tanexc/imagetool-iossimulatorarm64@0.0.1-alpha02?classifier=sources
+- pkg:maven/io.github.tanexc/imagetool-iossimulatorarm64@0.0.1-alpha03?classifier=sources
+- pkg:maven/io.github.tanexc/imagetool-iossimulatorarm64@0.0.2?classifier=sources

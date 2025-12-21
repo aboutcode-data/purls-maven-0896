@@ -23,3 +23,5 @@
 - pkg:maven/io.peekandpoke.ultra/vault-jvm@0.90.0?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/vault-jvm@0.91.0?classifier=sources
 - pkg:maven/io.peekandpoke.ultra/vault-jvm@0.91.1?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/vault-jvm@0.92.0?classifier=sources
+- pkg:maven/io.peekandpoke.ultra/vault-jvm@0.92.1?classifier=sources

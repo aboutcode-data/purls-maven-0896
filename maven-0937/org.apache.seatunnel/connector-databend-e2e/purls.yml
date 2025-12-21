@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.seatunnel/connector-databend-e2e@2.3.12
+- pkg:maven/org.apache.seatunnel/connector-databend-e2e@2.3.12?classifier=sources

@@ -216,6 +216,9 @@
 - pkg:maven/org.openrewrite/rewrite-java-17@8.61.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.61.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.61.2?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@8.61.3?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@8.62.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@8.62.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.7.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.7.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.7.2?classifier=sources

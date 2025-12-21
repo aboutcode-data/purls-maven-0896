@@ -47,6 +47,9 @@
 - pkg:maven/com.ritense.valtimo/connector@12.14.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/connector@12.14.2.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/connector@12.15.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/connector@12.16.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/connector@12.16.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/connector@12.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/connector@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/connector@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/connector@12.3.0.RELEASE?classifier=sources

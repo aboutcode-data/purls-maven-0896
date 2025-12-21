@@ -27,3 +27,5 @@
 - pkg:maven/org.jogamp.jogl/jogl-all-android@2.3.1?classifier=sources
 - pkg:maven/org.jogamp.jogl/jogl-all-android@2.3.2
 - pkg:maven/org.jogamp.jogl/jogl-all-android@2.3.2?classifier=sources
+- pkg:maven/org.jogamp.jogl/jogl-all-android@2.6.0
+- pkg:maven/org.jogamp.jogl/jogl-all-android@2.6.0?classifier=sources

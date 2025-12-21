@@ -20,4 +20,6 @@
 - pkg:maven/org.mvnpm.at.vue/compiler-dom@3.5.19?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/compiler-dom@3.5.20
 - pkg:maven/org.mvnpm.at.vue/compiler-dom@3.5.20?classifier=sources
+- pkg:maven/org.mvnpm.at.vue/compiler-dom@3.5.21
+- pkg:maven/org.mvnpm.at.vue/compiler-dom@3.5.21?classifier=sources
 - pkg:maven/org.mvnpm.at.vue/compiler-dom@3.5.8?classifier=sources

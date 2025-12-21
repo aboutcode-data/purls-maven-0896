@@ -1,5 +1,6 @@
 - pkg:maven/com.amplitude/evaluation-proxy-core@0.0.2?classifier=sources
 - pkg:maven/com.amplitude/evaluation-proxy-core@0.1.0?classifier=sources
+- pkg:maven/com.amplitude/evaluation-proxy-core@0.10.0?classifier=sources
 - pkg:maven/com.amplitude/evaluation-proxy-core@0.3.0?classifier=sources
 - pkg:maven/com.amplitude/evaluation-proxy-core@0.3.1?classifier=sources
 - pkg:maven/com.amplitude/evaluation-proxy-core@0.3.2?classifier=sources

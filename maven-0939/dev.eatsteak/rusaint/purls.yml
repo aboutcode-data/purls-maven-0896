@@ -4,6 +4,8 @@
 - pkg:maven/dev.eatsteak/rusaint@0.11.2?classifier=sources
 - pkg:maven/dev.eatsteak/rusaint@0.11.3?classifier=sources
 - pkg:maven/dev.eatsteak/rusaint@0.11.4?classifier=sources
+- pkg:maven/dev.eatsteak/rusaint@0.11.5?classifier=sources
+- pkg:maven/dev.eatsteak/rusaint@0.12.0?classifier=sources
 - pkg:maven/dev.eatsteak/rusaint@0.7.2?classifier=sources
 - pkg:maven/dev.eatsteak/rusaint@0.7.3?classifier=sources
 - pkg:maven/dev.eatsteak/rusaint@0.7.4?classifier=sources

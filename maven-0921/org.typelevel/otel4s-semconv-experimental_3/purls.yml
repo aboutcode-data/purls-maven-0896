@@ -20,6 +20,8 @@
 - pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.13.0?classifier=sources
 - pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.13.1
 - pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.13.1?classifier=sources
+- pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.14.0-RC1
+- pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.14.0-RC1?classifier=sources
 - pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.5.0
 - pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.5.0?classifier=sources
 - pkg:maven/org.typelevel/otel4s-semconv-experimental_3@0.6.0

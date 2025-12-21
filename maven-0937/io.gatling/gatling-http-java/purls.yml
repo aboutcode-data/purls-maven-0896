@@ -44,6 +44,8 @@
 - pkg:maven/io.gatling/gatling-http-java@3.14.2?classifier=sources
 - pkg:maven/io.gatling/gatling-http-java@3.14.3
 - pkg:maven/io.gatling/gatling-http-java@3.14.3?classifier=sources
+- pkg:maven/io.gatling/gatling-http-java@3.14.4
+- pkg:maven/io.gatling/gatling-http-java@3.14.4?classifier=sources
 - pkg:maven/io.gatling/gatling-http-java@3.7.0
 - pkg:maven/io.gatling/gatling-http-java@3.7.0-M1
 - pkg:maven/io.gatling/gatling-http-java@3.7.0-M1?classifier=sources

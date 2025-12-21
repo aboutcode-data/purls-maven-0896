@@ -130,6 +130,8 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.162.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.163.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.163.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.164.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.164.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.17.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.17.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-texttospeech-v1beta1@0.18.0

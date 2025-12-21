@@ -77,6 +77,8 @@
 - pkg:maven/fish.payara.api/payara-api@6.2025.6?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@6.2025.7?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@6.2025.8?classifier=sources
+- pkg:maven/fish.payara.api/payara-api@6.2025.9?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@7.2025.1.Alpha2?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@7.2025.1.Alpha3?classifier=sources
 - pkg:maven/fish.payara.api/payara-api@7.2025.1.Alpha4?classifier=sources
+- pkg:maven/fish.payara.api/payara-api@7.2025.1.Beta1?classifier=sources

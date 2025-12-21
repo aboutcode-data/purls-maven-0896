@@ -32,3 +32,5 @@
 - pkg:maven/org.graalvm.tools/hprof-language@24.2.1?classifier=sources
 - pkg:maven/org.graalvm.tools/hprof-language@24.2.2
 - pkg:maven/org.graalvm.tools/hprof-language@24.2.2?classifier=sources
+- pkg:maven/org.graalvm.tools/hprof-language@25.0.0
+- pkg:maven/org.graalvm.tools/hprof-language@25.0.0?classifier=sources

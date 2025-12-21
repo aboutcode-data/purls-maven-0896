@@ -29,6 +29,7 @@
 - pkg:maven/io.camunda/zeebe-client-spring@8.5.21?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-spring@8.5.22?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-spring@8.5.23?classifier=sources
+- pkg:maven/io.camunda/zeebe-client-spring@8.5.24?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-spring@8.5.2?classifier=sources
 - pkg:maven/io.camunda/zeebe-client-spring@8.5.3
 - pkg:maven/io.camunda/zeebe-client-spring@8.5.3?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/primeface@0.0.1-security
+- pkg:maven/org.mvnpm/primeface@0.0.1-security?classifier=sources

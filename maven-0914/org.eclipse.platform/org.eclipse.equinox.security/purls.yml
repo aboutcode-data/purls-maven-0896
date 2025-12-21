@@ -42,3 +42,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.security@1.4.500?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.security@1.4.600
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.security@1.4.600?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.security@1.4.700
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.security@1.4.700?classifier=sources

@@ -134,6 +134,8 @@
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.13.1-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.13.2-preview
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.13.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.13.3-preview
+- pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.13.3-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.2.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@5.2.1-preview
@@ -182,9 +184,13 @@
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@6.3.1-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@6.3.2-preview
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@6.3.2-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@6.3.3-preview
+- pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@6.3.3-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.0.0-preview
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.0.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.1.0-preview
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.1.0-preview?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.2.0-preview
 - pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.2.0-preview?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.3.0-preview
+- pkg:maven/com.google.cloud/google-cloud-scheduler-spring-starter@7.3.0-preview?classifier=sources

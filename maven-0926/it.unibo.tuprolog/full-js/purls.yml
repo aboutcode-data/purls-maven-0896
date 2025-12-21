@@ -56,3 +56,4 @@
 - pkg:maven/it.unibo.tuprolog/full-js@1.0.2?classifier=sources
 - pkg:maven/it.unibo.tuprolog/full-js@1.0.3?classifier=sources
 - pkg:maven/it.unibo.tuprolog/full-js@1.0.4?classifier=sources
+- pkg:maven/it.unibo.tuprolog/full-js@1.1.0?classifier=sources

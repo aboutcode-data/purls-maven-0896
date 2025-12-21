@@ -12,3 +12,7 @@
 - pkg:maven/io.laserdisc/zio-oci-objectstorage_3@0.8.2?classifier=sources
 - pkg:maven/io.laserdisc/zio-oci-objectstorage_3@0.8.3
 - pkg:maven/io.laserdisc/zio-oci-objectstorage_3@0.8.3?classifier=sources
+- pkg:maven/io.laserdisc/zio-oci-objectstorage_3@0.8.4
+- pkg:maven/io.laserdisc/zio-oci-objectstorage_3@0.8.4?classifier=sources
+- pkg:maven/io.laserdisc/zio-oci-objectstorage_3@0.8.5
+- pkg:maven/io.laserdisc/zio-oci-objectstorage_3@0.8.5?classifier=sources

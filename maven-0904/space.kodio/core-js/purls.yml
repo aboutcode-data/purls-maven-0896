@@ -1,1 +1,2 @@
 - pkg:maven/space.kodio/core-js@0.0.1?classifier=sources
+- pkg:maven/space.kodio/core-js@0.0.6?classifier=sources

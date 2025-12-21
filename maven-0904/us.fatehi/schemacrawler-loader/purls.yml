@@ -162,3 +162,5 @@
 - pkg:maven/us.fatehi/schemacrawler-loader@16.26.2?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-loader@16.26.3?classifier=sources
 - pkg:maven/us.fatehi/schemacrawler-loader@16.27.1?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-loader@16.27.2?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-loader@16.28.1?classifier=sources

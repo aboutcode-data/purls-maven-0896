@@ -2,3 +2,4 @@
 - pkg:maven/com.glia/phoenix-channels-client-iossimulatorarm64@0.1.1?classifier=sources
 - pkg:maven/com.glia/phoenix-channels-client-iossimulatorarm64@0.2.0?classifier=sources
 - pkg:maven/com.glia/phoenix-channels-client-iossimulatorarm64@1.0.0?classifier=sources
+- pkg:maven/com.glia/phoenix-channels-client-iossimulatorarm64@1.1.0?classifier=sources

@@ -27,6 +27,8 @@
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.11?classifier=sources
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.12
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.12?classifier=sources
+- pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.13
+- pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.13?classifier=sources
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.1?classifier=sources
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.2
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@2.6.2?classifier=sources
@@ -77,6 +79,8 @@
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.13?classifier=sources
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.14
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.14?classifier=sources
+- pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.15
+- pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.15?classifier=sources
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.1?classifier=sources
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.2
 - pkg:maven/io.helidon.webserver.transport.netty/helidon-webserver-transport-netty-epoll@3.2.2?classifier=sources

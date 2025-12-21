@@ -1,0 +1,12 @@
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround10
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround10?classifier=sources
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround4
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround4?classifier=sources
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround5
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround5?classifier=sources
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround6
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround6?classifier=sources
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround7
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround7?classifier=sources
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround9
+- pkg:maven/me.gulya.dagger/dagger-lint@2.56.2-workaround9?classifier=sources

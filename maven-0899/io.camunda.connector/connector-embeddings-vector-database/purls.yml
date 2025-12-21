@@ -7,3 +7,5 @@
 - pkg:maven/io.camunda.connector/connector-embeddings-vector-database@8.8.0-alpha6?classifier=sources
 - pkg:maven/io.camunda.connector/connector-embeddings-vector-database@8.8.0-alpha7
 - pkg:maven/io.camunda.connector/connector-embeddings-vector-database@8.8.0-alpha7?classifier=sources
+- pkg:maven/io.camunda.connector/connector-embeddings-vector-database@8.8.0-alpha8
+- pkg:maven/io.camunda.connector/connector-embeddings-vector-database@8.8.0-alpha8?classifier=sources

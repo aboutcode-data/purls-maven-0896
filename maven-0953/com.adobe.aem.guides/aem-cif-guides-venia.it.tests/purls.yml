@@ -28,3 +28,5 @@
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.it.tests@2024.09.05?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.it.tests@2024.10.07
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.it.tests@2024.10.07?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.it.tests@2025.09.12
+- pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.it.tests@2025.09.12?classifier=sources

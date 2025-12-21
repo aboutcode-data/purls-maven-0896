@@ -11,4 +11,8 @@
 - pkg:maven/io.github.casehubdk/hxl_2.13@0.2.3
 - pkg:maven/io.github.casehubdk/hxl_2.13@0.2.3?classifier=sources
 - pkg:maven/io.github.casehubdk/hxl_2.13@0.3.0
+- pkg:maven/io.github.casehubdk/hxl_2.13@0.3.0-12-402dd5d
+- pkg:maven/io.github.casehubdk/hxl_2.13@0.3.0-12-402dd5d?classifier=sources
+- pkg:maven/io.github.casehubdk/hxl_2.13@0.3.0-14-4079085
+- pkg:maven/io.github.casehubdk/hxl_2.13@0.3.0-14-4079085?classifier=sources
 - pkg:maven/io.github.casehubdk/hxl_2.13@0.3.0?classifier=sources

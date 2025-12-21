@@ -20,3 +20,5 @@
 - pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.6.3?classifier=sources
 - pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.7.0
 - pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.7.0?classifier=sources
+- pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.8.0
+- pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.8.0?classifier=sources

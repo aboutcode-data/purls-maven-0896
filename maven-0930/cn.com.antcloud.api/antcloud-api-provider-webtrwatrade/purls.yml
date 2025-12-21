@@ -1,1 +1,5 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-provider-webtrwatrade@1.0.13?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-webtrwatrade@1.0.21?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-webtrwatrade@1.0.23?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-webtrwatrade@1.0.24?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-provider-webtrwatrade@1.0.25?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/com.faire/faire-detekt-rules@0.4.1?classifier=sources
 - pkg:maven/com.faire/faire-detekt-rules@0.5.0?classifier=sources
 - pkg:maven/com.faire/faire-detekt-rules@0.5.1?classifier=sources
+- pkg:maven/com.faire/faire-detekt-rules@0.5.3?classifier=sources

@@ -960,6 +960,7 @@
 - pkg:maven/com.yahoo.vespa/node-repository@8.57.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-repository@8.570.34?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-repository@8.571.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/node-repository@8.572.77?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-repository@8.61.17?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-repository@8.62.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/node-repository@8.63.8?classifier=sources

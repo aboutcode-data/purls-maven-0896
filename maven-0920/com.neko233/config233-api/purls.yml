@@ -32,3 +32,4 @@
 - pkg:maven/com.neko233/config233-api@0.1.8?type=zip
 - pkg:maven/com.neko233/config233-api@0.1.9?classifier=sources
 - pkg:maven/com.neko233/config233-api@0.1.9?type=zip
+- pkg:maven/com.neko233/config233-api@0.2.0?classifier=sources

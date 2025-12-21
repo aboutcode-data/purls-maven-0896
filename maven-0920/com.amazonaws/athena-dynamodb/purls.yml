@@ -129,6 +129,7 @@
 - pkg:maven/com.amazonaws/athena-dynamodb@2025.3.2
 - pkg:maven/com.amazonaws/athena-dynamodb@2025.3.2?classifier=sources
 - pkg:maven/com.amazonaws/athena-dynamodb@2025.31.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-dynamodb@2025.34.3?classifier=sources
 - pkg:maven/com.amazonaws/athena-dynamodb@2025.5.1
 - pkg:maven/com.amazonaws/athena-dynamodb@2025.5.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-dynamodb@2025.6.1

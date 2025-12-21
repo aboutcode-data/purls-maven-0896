@@ -13,4 +13,5 @@
 - pkg:maven/com.telefonica/androidlogger-no-op@3.2.0?classifier=sources
 - pkg:maven/com.telefonica/androidlogger-no-op@3.2.1?classifier=sources
 - pkg:maven/com.telefonica/androidlogger-no-op@3.2.2?classifier=sources
+- pkg:maven/com.telefonica/androidlogger-no-op@4.0.0?classifier=sources
 - pkg:maven/com.telefonica/androidlogger-no-op@undefined?classifier=sources

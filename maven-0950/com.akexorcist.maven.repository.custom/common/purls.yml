@@ -1,1 +1,2 @@
 - pkg:maven/com.akexorcist.maven.repository.custom/common@1.1.0-alpha03?classifier=sources
+- pkg:maven/com.akexorcist.maven.repository.custom/common@1.1.0?classifier=sources

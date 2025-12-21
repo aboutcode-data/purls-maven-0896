@@ -5,3 +5,9 @@
 - pkg:maven/com.seeq.event/common-event@66.14.1-v202504012130?classifier=sources
 - pkg:maven/com.seeq.event/common-event@66.14.1-v202504021205?classifier=sources
 - pkg:maven/com.seeq.event/common-event@66.14.4-v202504151737?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.41.1-v202508261900?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.41.2-v202508271853?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.43.0-v202509021614?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.45.0-v202509041710?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.47.0-v202509112126?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.49.1-v202509152213?classifier=sources

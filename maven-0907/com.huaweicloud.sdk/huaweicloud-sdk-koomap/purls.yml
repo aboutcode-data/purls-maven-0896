@@ -117,6 +117,9 @@
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.161?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.162?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.163?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.164?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.165?classifier=sources
+- pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.166?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.20
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.20?classifier=sources
 - pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk-koomap@3.1.21

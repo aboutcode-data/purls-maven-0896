@@ -12,3 +12,4 @@
 - pkg:maven/ru.testit/testit-kotlin-commons@0.6.4?classifier=sources
 - pkg:maven/ru.testit/testit-kotlin-commons@0.6.5-TMS-5.4?classifier=sources
 - pkg:maven/ru.testit/testit-kotlin-commons@0.6.5?classifier=sources
+- pkg:maven/ru.testit/testit-kotlin-commons@0.6.6?classifier=sources

@@ -160,3 +160,7 @@
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.212.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.213.0-alpha.0
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.213.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.214.0-alpha.0
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.214.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.215.0-alpha.0
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.215.0-alpha.0?classifier=sources

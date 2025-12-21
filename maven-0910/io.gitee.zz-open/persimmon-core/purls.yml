@@ -1,0 +1,4 @@
+- pkg:maven/io.gitee.zz-open/persimmon-core@0.0.1-RELEASE?classifier=sources
+- pkg:maven/io.gitee.zz-open/persimmon-core@0.0.2-RELEASE?classifier=sources
+- pkg:maven/io.gitee.zz-open/persimmon-core@0.0.3-RELEASE?classifier=sources
+- pkg:maven/io.gitee.zz-open/persimmon-core@0.0.5-RELEASE?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.ietf.model/rfc9645-ietf-tls-server@1.0.0
+- pkg:maven/org.opendaylight.ietf.model/rfc9645-ietf-tls-server@1.0.0?classifier=sources

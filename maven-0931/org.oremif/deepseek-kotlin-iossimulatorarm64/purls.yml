@@ -5,3 +5,5 @@
 - pkg:maven/org.oremif/deepseek-kotlin-iossimulatorarm64@0.3.2-dev1?classifier=sources
 - pkg:maven/org.oremif/deepseek-kotlin-iossimulatorarm64@0.3.2-dev2?classifier=sources
 - pkg:maven/org.oremif/deepseek-kotlin-iossimulatorarm64@0.3.2?classifier=sources
+- pkg:maven/org.oremif/deepseek-kotlin-iossimulatorarm64@0.3.3?classifier=sources
+- pkg:maven/org.oremif/deepseek-kotlin-iossimulatorarm64@0.3.4?classifier=sources

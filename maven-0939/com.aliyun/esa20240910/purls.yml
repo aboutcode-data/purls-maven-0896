@@ -70,6 +70,7 @@
 - pkg:maven/com.aliyun/esa20240910@2.32.0?classifier=sources
 - pkg:maven/com.aliyun/esa20240910@2.33.0?classifier=sources
 - pkg:maven/com.aliyun/esa20240910@2.33.1?classifier=sources
+- pkg:maven/com.aliyun/esa20240910@2.34.0?classifier=sources
 - pkg:maven/com.aliyun/esa20240910@2.4.0
 - pkg:maven/com.aliyun/esa20240910@2.4.0?classifier=sources
 - pkg:maven/com.aliyun/esa20240910@2.5.0
