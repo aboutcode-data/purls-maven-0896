@@ -240,6 +240,8 @@
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@25.2.0-beta.5?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@25.2.1?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@25.2.3?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@25.2.7?classifier=sources
+- pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@25.2.9?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@8.0.0.014
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@8.0.0.014?classifier=sources
 - pkg:maven/org.eclipse.scout.rt/org.eclipse.scout.rt.mail@8.0.0.016_Simrel_2018_09_M2

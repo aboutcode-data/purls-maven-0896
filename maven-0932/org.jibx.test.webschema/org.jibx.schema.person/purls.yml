@@ -1,0 +1,2 @@
+- pkg:maven/org.jibx.test.webschema/org.jibx.schema.person@1.4.4?classifier=sources
+- pkg:maven/org.jibx.test.webschema/org.jibx.schema.person@1.4.5?classifier=sources

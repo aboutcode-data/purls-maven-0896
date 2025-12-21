@@ -162,6 +162,10 @@
 - pkg:maven/com.google.cloud/google-iam-admin@3.69.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-admin@3.7.0
 - pkg:maven/com.google.cloud/google-iam-admin@3.7.0?classifier=sources
+- pkg:maven/com.google.cloud/google-iam-admin@3.70.0
+- pkg:maven/com.google.cloud/google-iam-admin@3.70.0?classifier=sources
+- pkg:maven/com.google.cloud/google-iam-admin@3.71.0
+- pkg:maven/com.google.cloud/google-iam-admin@3.71.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-admin@3.8.0
 - pkg:maven/com.google.cloud/google-iam-admin@3.8.0?classifier=sources
 - pkg:maven/com.google.cloud/google-iam-admin@3.9.0

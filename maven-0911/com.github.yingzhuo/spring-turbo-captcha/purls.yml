@@ -1,3 +1,4 @@
+- pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.4.10?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.4.3-6?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.4.4-1?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.4.4-2?classifier=sources
@@ -84,3 +85,6 @@
 - pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.5.5-2?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.5.5-3?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.5.5?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.5.6-1?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.5.6-2?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-captcha@3.5.6?classifier=sources

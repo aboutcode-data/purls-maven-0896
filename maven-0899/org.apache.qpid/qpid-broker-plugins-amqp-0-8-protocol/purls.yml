@@ -8,6 +8,8 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@0.30?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@0.32
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@0.32?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@10.0.0
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@10.0.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@6.0.0
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@6.0.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-amqp-0-8-protocol@6.0.1

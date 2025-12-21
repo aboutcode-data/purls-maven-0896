@@ -1,0 +1,2 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-iot@3.74.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-iot@3.74.2?classifier=sources

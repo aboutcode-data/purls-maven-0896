@@ -106,3 +106,6 @@
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-italy@3.2.9
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-italy@3.2.9?classifier=sources
 - pkg:maven/com.helger.phive.rules/phive-rules-peppol-italy@4.0.0?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-peppol-italy@4.0.1?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-peppol-italy@4.0.2?classifier=sources
+- pkg:maven/com.helger.phive.rules/phive-rules-peppol-italy@4.0.3?classifier=sources

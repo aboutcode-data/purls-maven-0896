@@ -9291,3 +9291,5 @@
 - pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20250506-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20250624-2.0.0
 - pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20250624-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20251002-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20251002-2.0.0?classifier=sources

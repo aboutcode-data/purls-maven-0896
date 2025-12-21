@@ -18,3 +18,5 @@
 - pkg:maven/org.mvnpm/es-toolkit@1.39.8?classifier=sources
 - pkg:maven/org.mvnpm/es-toolkit@1.39.9
 - pkg:maven/org.mvnpm/es-toolkit@1.39.9?classifier=sources
+- pkg:maven/org.mvnpm/es-toolkit@1.40.0
+- pkg:maven/org.mvnpm/es-toolkit@1.40.0?classifier=sources

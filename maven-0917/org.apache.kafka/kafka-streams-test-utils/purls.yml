@@ -77,4 +77,5 @@
 - pkg:maven/org.apache.kafka/kafka-streams-test-utils@3.9.0?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams-test-utils@3.9.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams-test-utils@4.0.0?classifier=sources
+- pkg:maven/org.apache.kafka/kafka-streams-test-utils@4.0.1?classifier=sources
 - pkg:maven/org.apache.kafka/kafka-streams-test-utils@4.1.0?classifier=sources

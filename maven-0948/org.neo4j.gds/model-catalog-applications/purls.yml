@@ -9,6 +9,8 @@
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.13.5?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.13.6
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.13.6?classifier=sources
+- pkg:maven/org.neo4j.gds/model-catalog-applications@2.13.7
+- pkg:maven/org.neo4j.gds/model-catalog-applications@2.13.7?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.14.0?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.15.0?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.16.0?classifier=sources
@@ -20,4 +22,6 @@
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.20.0?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.21.0
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.21.0?classifier=sources
+- pkg:maven/org.neo4j.gds/model-catalog-applications@2.22.0
+- pkg:maven/org.neo4j.gds/model-catalog-applications@2.22.0?classifier=sources
 - pkg:maven/org.neo4j.gds/model-catalog-applications@2.9.0?classifier=sources

@@ -33,6 +33,7 @@
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.10.53?classifier=sources
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.10.54?classifier=sources
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.10.55?classifier=sources
+- pkg:maven/global.deveng/networking-kmp-iosx64@2.10.57?classifier=sources
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.5.40?classifier=sources
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.5.41?classifier=sources
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.6.42?classifier=sources
@@ -41,3 +42,4 @@
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.9.51?classifier=sources
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.9.54?classifier=sources
 - pkg:maven/global.deveng/networking-kmp-iosx64@2.9.55?classifier=sources
+- pkg:maven/global.deveng/networking-kmp-iosx64@2.9.56?classifier=sources

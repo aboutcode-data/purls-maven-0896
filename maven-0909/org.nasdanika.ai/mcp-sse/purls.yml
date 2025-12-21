@@ -1,3 +1,4 @@
+- pkg:maven/org.nasdanika.ai/mcp-sse@2025.10.0?classifier=sources
 - pkg:maven/org.nasdanika.ai/mcp-sse@2025.4.0
 - pkg:maven/org.nasdanika.ai/mcp-sse@2025.4.0?classifier=sources
 - pkg:maven/org.nasdanika.ai/mcp-sse@2025.5.0

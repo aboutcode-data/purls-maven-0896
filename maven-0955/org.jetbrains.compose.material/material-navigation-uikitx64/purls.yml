@@ -1,4 +1,5 @@
 - pkg:maven/org.jetbrains.compose.material/material-navigation-uikitx64@1.10.0-alpha01?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material-navigation-uikitx64@1.10.0-alpha02?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-navigation-uikitx64@1.7.0-beta01?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-navigation-uikitx64@1.7.0-beta02?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material-navigation-uikitx64@1.8.0-alpha02?classifier=sources

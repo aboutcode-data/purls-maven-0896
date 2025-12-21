@@ -162,5 +162,15 @@
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.213.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.214.0-alpha.0
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.214.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.214.1-alpha.0
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.214.1-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.215.0-alpha.0
 - pkg:maven/software.amazon.awscdk/ec2-alpha@2.215.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.216.0-alpha.0
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.216.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.217.0-alpha.0
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.217.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.218.0-alpha.0
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.218.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.219.0-alpha.0
+- pkg:maven/software.amazon.awscdk/ec2-alpha@2.219.0-alpha.0?classifier=sources

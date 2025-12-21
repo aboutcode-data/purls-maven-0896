@@ -171,6 +171,9 @@
 - pkg:maven/com.stripe/paymentsheet@21.25.0?classifier=sources
 - pkg:maven/com.stripe/paymentsheet@21.26.0?classifier=sources
 - pkg:maven/com.stripe/paymentsheet@21.26.1?classifier=sources
+- pkg:maven/com.stripe/paymentsheet@21.27.0?classifier=sources
+- pkg:maven/com.stripe/paymentsheet@21.28.0?classifier=sources
+- pkg:maven/com.stripe/paymentsheet@21.28.1?classifier=sources
 - pkg:maven/com.stripe/paymentsheet@21.3.0?classifier=sources
 - pkg:maven/com.stripe/paymentsheet@21.3.1?classifier=sources
 - pkg:maven/com.stripe/paymentsheet@21.3.2?classifier=sources

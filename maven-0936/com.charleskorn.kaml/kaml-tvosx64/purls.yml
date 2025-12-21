@@ -34,3 +34,5 @@
 - pkg:maven/com.charleskorn.kaml/kaml-tvosx64@0.94.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-tvosx64@0.95.0?classifier=sources
 - pkg:maven/com.charleskorn.kaml/kaml-tvosx64@0.96.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-tvosx64@0.97.0?classifier=sources
+- pkg:maven/com.charleskorn.kaml/kaml-tvosx64@0.98.0?classifier=sources

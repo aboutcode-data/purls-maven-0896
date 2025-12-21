@@ -16,6 +16,10 @@
 - pkg:maven/org.scala-sbt/util-position_3@2.0.0-RC3?classifier=sources
 - pkg:maven/org.scala-sbt/util-position_3@2.0.0-RC4
 - pkg:maven/org.scala-sbt/util-position_3@2.0.0-RC4?classifier=sources
+- pkg:maven/org.scala-sbt/util-position_3@2.0.0-RC5
+- pkg:maven/org.scala-sbt/util-position_3@2.0.0-RC5?classifier=sources
+- pkg:maven/org.scala-sbt/util-position_3@2.0.0-RC6
+- pkg:maven/org.scala-sbt/util-position_3@2.0.0-RC6?classifier=sources
 - pkg:maven/org.scala-sbt/util-position_3@2.0.0-alpha1
 - pkg:maven/org.scala-sbt/util-position_3@2.0.0-alpha10
 - pkg:maven/org.scala-sbt/util-position_3@2.0.0-alpha10?classifier=sources

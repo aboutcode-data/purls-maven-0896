@@ -48,7 +48,14 @@
 - pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.54?classifier=sources
 - pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.55?classifier=sources
 - pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.56?classifier=sources
+- pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.57?classifier=sources
+- pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.58?classifier=sources
+- pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.59?classifier=sources
 - pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.5?classifier=sources
+- pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.61?classifier=sources
+- pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.62?classifier=sources
+- pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.63?classifier=sources
+- pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.64?classifier=sources
 - pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.6?classifier=sources
 - pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.7?classifier=sources
 - pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.10.8?classifier=sources

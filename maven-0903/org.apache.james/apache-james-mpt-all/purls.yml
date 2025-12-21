@@ -46,3 +46,6 @@
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.8.2?classifier=sources
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.8.2?classifier=src&type=tar.gz
 - pkg:maven/org.apache.james/apache-james-mpt-all@3.8.2?classifier=src&type=zip
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.9.0
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.9.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.james/apache-james-mpt-all@3.9.0?classifier=src&type=zip

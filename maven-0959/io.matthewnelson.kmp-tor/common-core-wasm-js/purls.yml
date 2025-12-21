@@ -1,1 +1,2 @@
 - pkg:maven/io.matthewnelson.kmp-tor/common-core-wasm-js@2.3.1?classifier=sources
+- pkg:maven/io.matthewnelson.kmp-tor/common-core-wasm-js@2.4.0?classifier=sources

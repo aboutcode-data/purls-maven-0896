@@ -66,3 +66,11 @@
 - pkg:maven/com.earldouglas/war-runner@5.1.0_4.0?classifier=sources
 - pkg:maven/com.earldouglas/war-runner@5.1.0_6.0
 - pkg:maven/com.earldouglas/war-runner@5.1.0_6.0?classifier=sources
+- pkg:maven/com.earldouglas/war-runner@5.1.1_3.0
+- pkg:maven/com.earldouglas/war-runner@5.1.1_3.0?classifier=sources
+- pkg:maven/com.earldouglas/war-runner@5.1.1_3.1
+- pkg:maven/com.earldouglas/war-runner@5.1.1_3.1?classifier=sources
+- pkg:maven/com.earldouglas/war-runner@5.1.1_4.0
+- pkg:maven/com.earldouglas/war-runner@5.1.1_4.0?classifier=sources
+- pkg:maven/com.earldouglas/war-runner@5.1.1_6.0
+- pkg:maven/com.earldouglas/war-runner@5.1.1_6.0?classifier=sources

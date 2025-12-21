@@ -1,1 +1,2 @@
 - pkg:maven/com.splunk/rum-mapping-file-plugin@2.0.0?classifier=sources
+- pkg:maven/com.splunk/rum-mapping-file-plugin@2.0.2?classifier=sources

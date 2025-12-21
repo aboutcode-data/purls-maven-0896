@@ -127,6 +127,8 @@
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@11.0.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@11.0.2
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@11.0.2?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-clustering-commons@12.0.0
+- pkg:maven/org.opendaylight.controller/sal-clustering-commons@12.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@2.0.0
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-clustering-commons@2.0.1

@@ -18,3 +18,5 @@
 - pkg:maven/dev.langchain4j/langchain4j-community-web-search-engine-searxng@1.3.0-beta9?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-community-web-search-engine-searxng@1.4.0-beta10?classifier=sources
 - pkg:maven/dev.langchain4j/langchain4j-community-web-search-engine-searxng@1.5.0-beta11?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-community-web-search-engine-searxng@1.6.0-beta12?classifier=sources
+- pkg:maven/dev.langchain4j/langchain4j-community-web-search-engine-searxng@1.7.1-beta14?classifier=sources

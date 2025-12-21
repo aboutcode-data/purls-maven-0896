@@ -1,1 +1,2 @@
 - pkg:maven/io.micronaut.grpc/micronaut-protobuff-json-support@4.11.0?classifier=sources
+- pkg:maven/io.micronaut.grpc/micronaut-protobuff-json-support@4.12.0?classifier=sources

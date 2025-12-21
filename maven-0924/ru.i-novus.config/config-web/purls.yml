@@ -4,6 +4,8 @@
 - pkg:maven/ru.i-novus.config/config-web@1.10.2?classifier=sources
 - pkg:maven/ru.i-novus.config/config-web@1.10.3
 - pkg:maven/ru.i-novus.config/config-web@1.10.3?classifier=sources
+- pkg:maven/ru.i-novus.config/config-web@1.10.4?classifier=sources
+- pkg:maven/ru.i-novus.config/config-web@1.10.5?classifier=sources
 - pkg:maven/ru.i-novus.config/config-web@2.0.0
 - pkg:maven/ru.i-novus.config/config-web@2.0.0?classifier=sources
 - pkg:maven/ru.i-novus.config/config-web@3.0.0?classifier=sources

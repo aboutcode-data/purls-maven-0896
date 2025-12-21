@@ -70,3 +70,4 @@
 - pkg:maven/io.insert-koin/koin-logger-slf4j@4.1.0?classifier=sources
 - pkg:maven/io.insert-koin/koin-logger-slf4j@4.1.1-Beta1?classifier=sources
 - pkg:maven/io.insert-koin/koin-logger-slf4j@4.1.1?classifier=sources
+- pkg:maven/io.insert-koin/koin-logger-slf4j@4.1.2-Beta1?classifier=sources

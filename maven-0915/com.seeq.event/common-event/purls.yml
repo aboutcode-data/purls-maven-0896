@@ -11,3 +11,6 @@
 - pkg:maven/com.seeq.event/common-event@66.45.0-v202509041710?classifier=sources
 - pkg:maven/com.seeq.event/common-event@66.47.0-v202509112126?classifier=sources
 - pkg:maven/com.seeq.event/common-event@66.49.1-v202509152213?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.58.0-v202509291653?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.59.2-v202510011959?classifier=sources
+- pkg:maven/com.seeq.event/common-event@66.61.0-v202510061941?classifier=sources

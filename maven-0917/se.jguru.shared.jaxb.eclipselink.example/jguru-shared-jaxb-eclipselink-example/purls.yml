@@ -54,3 +54,5 @@
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@2.2.0?classifier=sources
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@3.0.0
 - pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@3.0.0?classifier=sources
+- pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@3.0.1
+- pkg:maven/se.jguru.shared.jaxb.eclipselink.example/jguru-shared-jaxb-eclipselink-example@3.0.1?classifier=sources

@@ -1,3 +1,10 @@
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.10.0-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.10.1-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.10.2-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.10.3-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.10.4-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.10.5-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.10.6-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.4.0-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.4.1-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.4.10-0.5.0?classifier=sources
@@ -84,6 +91,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.8.8-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.8.9-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.0-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.10-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.11-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.2-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.3-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.4-0.5.0?classifier=sources
@@ -91,3 +100,4 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.6-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.7-0.5.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.8-0.5.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-glob-js@2025.9.9-0.5.0?classifier=sources

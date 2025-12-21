@@ -29,6 +29,7 @@
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-datasource-core@3.5.12-EXT877?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-datasource-core@3.5.12-EXT880?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-datasource-core@3.5.14-EXT880?classifier=sources
+- pkg:maven/org.dromara.mpe/mybatis-plus-ext-datasource-core@3.5.14-EXT881?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-datasource-core@3.5.9-EXT800?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-datasource-core@3.5.9-EXT801?classifier=sources
 - pkg:maven/org.dromara.mpe/mybatis-plus-ext-datasource-core@3.5.9-EXT802?classifier=sources

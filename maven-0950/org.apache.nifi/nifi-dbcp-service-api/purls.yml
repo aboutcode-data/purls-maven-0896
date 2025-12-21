@@ -152,3 +152,5 @@
 - pkg:maven/org.apache.nifi/nifi-dbcp-service-api@2.4.0?classifier=sources
 - pkg:maven/org.apache.nifi/nifi-dbcp-service-api@2.5.0
 - pkg:maven/org.apache.nifi/nifi-dbcp-service-api@2.5.0?classifier=sources
+- pkg:maven/org.apache.nifi/nifi-dbcp-service-api@2.6.0
+- pkg:maven/org.apache.nifi/nifi-dbcp-service-api@2.6.0?classifier=sources

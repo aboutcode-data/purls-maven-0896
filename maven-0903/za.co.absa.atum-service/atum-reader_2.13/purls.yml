@@ -2,3 +2,5 @@
 - pkg:maven/za.co.absa.atum-service/atum-reader_2.13@0.4.0?classifier=sources
 - pkg:maven/za.co.absa.atum-service/atum-reader_2.13@0.4.1
 - pkg:maven/za.co.absa.atum-service/atum-reader_2.13@0.4.1?classifier=sources
+- pkg:maven/za.co.absa.atum-service/atum-reader_2.13@0.5.0
+- pkg:maven/za.co.absa.atum-service/atum-reader_2.13@0.5.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/software.xdev/expiring-limited-cache@1.0.3?classifier=sources
 - pkg:maven/software.xdev/expiring-limited-cache@1.0.4?classifier=sources
 - pkg:maven/software.xdev/expiring-limited-cache@2.0.0?classifier=sources
+- pkg:maven/software.xdev/expiring-limited-cache@2.1.0?classifier=sources
+- pkg:maven/software.xdev/expiring-limited-cache@2.2.3?classifier=sources

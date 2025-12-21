@@ -16,3 +16,5 @@
 - pkg:maven/cn.qingin/game-sdk-core@1.6.0_csj_alpha1?classifier=sources
 - pkg:maven/cn.qingin/game-sdk-core@1.6.0_csj_alpha2?classifier=sources
 - pkg:maven/cn.qingin/game-sdk-core@1.6.3_csj?classifier=sources
+- pkg:maven/cn.qingin/game-sdk-core@1.6.4_csj_alpha1?classifier=sources
+- pkg:maven/cn.qingin/game-sdk-core@1.6.5_csj?classifier=sources

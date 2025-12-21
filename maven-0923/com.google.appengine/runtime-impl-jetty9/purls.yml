@@ -38,3 +38,4 @@
 - pkg:maven/com.google.appengine/runtime-impl-jetty9@2.0.38?classifier=sources
 - pkg:maven/com.google.appengine/runtime-impl-jetty9@2.0.39-beta?classifier=sources
 - pkg:maven/com.google.appengine/runtime-impl-jetty9@2.0.39?classifier=sources
+- pkg:maven/com.google.appengine/runtime-impl-jetty9@3.0.0-beta?classifier=sources

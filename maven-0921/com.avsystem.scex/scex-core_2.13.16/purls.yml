@@ -2,6 +2,10 @@
 - pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.137.0?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.138.0
 - pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.138.0?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.139.0
+- pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.139.0?classifier=sources
+- pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.140.0
+- pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.140.0?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.35.0
 - pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.35.0?classifier=sources
 - pkg:maven/com.avsystem.scex/scex-core_2.13.16@1.36.0

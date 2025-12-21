@@ -15,3 +15,4 @@
 - pkg:maven/fr.insee.trevas/vtl-csv@1.8.0?classifier=sources
 - pkg:maven/fr.insee.trevas/vtl-csv@1.9.0
 - pkg:maven/fr.insee.trevas/vtl-csv@1.9.0?classifier=sources
+- pkg:maven/fr.insee.trevas/vtl-csv@2.0.0?classifier=sources

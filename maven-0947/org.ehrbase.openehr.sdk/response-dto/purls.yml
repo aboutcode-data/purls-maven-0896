@@ -63,6 +63,7 @@
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@2.24.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@2.25.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@2.25.1?classifier=sources
+- pkg:maven/org.ehrbase.openehr.sdk/response-dto@2.26.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@2.3.0
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@2.3.0?classifier=sources
 - pkg:maven/org.ehrbase.openehr.sdk/response-dto@2.4.0

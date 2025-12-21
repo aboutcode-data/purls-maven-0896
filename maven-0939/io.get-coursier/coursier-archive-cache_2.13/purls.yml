@@ -6,3 +6,5 @@
 - pkg:maven/io.get-coursier/coursier-archive-cache_2.13@2.1.25-M17?classifier=sources
 - pkg:maven/io.get-coursier/coursier-archive-cache_2.13@2.1.25-M18
 - pkg:maven/io.get-coursier/coursier-archive-cache_2.13@2.1.25-M18?classifier=sources
+- pkg:maven/io.get-coursier/coursier-archive-cache_2.13@2.1.25-M19
+- pkg:maven/io.get-coursier/coursier-archive-cache_2.13@2.1.25-M19?classifier=sources

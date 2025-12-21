@@ -155,3 +155,5 @@
 - pkg:maven/com.vonage/client-sdk-chat@2.1.0-rc.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk-chat@2.1.0?classifier=sources
 - pkg:maven/com.vonage/client-sdk-chat@2.1.1-snapshot.101.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-chat@2.1.1-snapshot.108.0?classifier=sources
+- pkg:maven/com.vonage/client-sdk-chat@2.1.1-snapshot.110.0?classifier=sources

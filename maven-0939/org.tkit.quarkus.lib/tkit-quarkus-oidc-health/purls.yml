@@ -15,3 +15,5 @@
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-oidc-health@3.4.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-oidc-health@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-oidc-health@3.6.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-oidc-health@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib/tkit-quarkus-oidc-health@4.1.0?classifier=sources

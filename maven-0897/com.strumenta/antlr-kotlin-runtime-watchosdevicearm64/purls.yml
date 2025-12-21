@@ -16,3 +16,4 @@
 - pkg:maven/com.strumenta/antlr-kotlin-runtime-watchosdevicearm64@1.0.3?classifier=sources
 - pkg:maven/com.strumenta/antlr-kotlin-runtime-watchosdevicearm64@1.0.4?classifier=sources
 - pkg:maven/com.strumenta/antlr-kotlin-runtime-watchosdevicearm64@1.0.5?classifier=sources
+- pkg:maven/com.strumenta/antlr-kotlin-runtime-watchosdevicearm64@1.0.8?classifier=sources

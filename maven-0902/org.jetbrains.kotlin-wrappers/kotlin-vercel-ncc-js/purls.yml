@@ -61,6 +61,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.1.7-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.1.8-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.1.9-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.10.0-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.10.1-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.10.2-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.10.3-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.10.4-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.10.5-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.10.6-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.2.0-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.2.1-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.2.10-0.38.3?classifier=sources
@@ -187,6 +194,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.8.8-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.8.9-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.0-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.10-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.11-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.2-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.3-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.4-0.38.3?classifier=sources
@@ -194,3 +203,4 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.6-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.7-0.38.3?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.8-0.38.3?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vercel-ncc-js@2025.9.9-0.38.3?classifier=sources

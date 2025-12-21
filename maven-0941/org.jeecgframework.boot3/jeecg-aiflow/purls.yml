@@ -2,3 +2,5 @@
 - pkg:maven/org.jeecgframework.boot3/jeecg-aiflow@1.0.5?classifier=sources
 - pkg:maven/org.jeecgframework.boot3/jeecg-aiflow@1.1.1
 - pkg:maven/org.jeecgframework.boot3/jeecg-aiflow@1.1.1?classifier=sources
+- pkg:maven/org.jeecgframework.boot3/jeecg-aiflow@1.2.0
+- pkg:maven/org.jeecgframework.boot3/jeecg-aiflow@1.2.0?classifier=sources

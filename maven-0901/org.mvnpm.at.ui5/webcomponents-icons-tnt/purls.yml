@@ -16,5 +16,7 @@
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons-tnt@2.13.3?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons-tnt@2.14.0
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons-tnt@2.14.0?classifier=sources
+- pkg:maven/org.mvnpm.at.ui5/webcomponents-icons-tnt@2.15.0
+- pkg:maven/org.mvnpm.at.ui5/webcomponents-icons-tnt@2.15.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons-tnt@2.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.ui5/webcomponents-icons-tnt@2.9.0?classifier=sources

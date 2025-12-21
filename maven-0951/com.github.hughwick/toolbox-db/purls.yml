@@ -177,6 +177,7 @@
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.12?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.13?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.14?classifier=sources
+- pkg:maven/com.github.hughwick/toolbox-db@2.8.15?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.1?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.2?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.3?classifier=sources
@@ -187,6 +188,7 @@
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.8?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@2.8.9?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@3.0.0?classifier=sources
+- pkg:maven/com.github.hughwick/toolbox-db@3.0.10?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@3.0.1?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@3.0.2?classifier=sources
 - pkg:maven/com.github.hughwick/toolbox-db@3.0.3?classifier=sources

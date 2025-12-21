@@ -3,5 +3,7 @@
 - pkg:maven/com.eternal.kits/sushi-core-desktop@0.0.12?classifier=sources
 - pkg:maven/com.eternal.kits/sushi-core-desktop@0.0.14?classifier=sources
 - pkg:maven/com.eternal.kits/sushi-core-desktop@0.0.15?classifier=sources
+- pkg:maven/com.eternal.kits/sushi-core-desktop@0.0.16?classifier=sources
+- pkg:maven/com.eternal.kits/sushi-core-desktop@0.0.17?classifier=sources
 - pkg:maven/com.eternal.kits/sushi-core-desktop@0.0.8?classifier=sources
 - pkg:maven/com.eternal.kits/sushi-core-desktop@0.0.9?classifier=sources

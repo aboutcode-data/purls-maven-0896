@@ -174,3 +174,4 @@
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@4.0.0-M2
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@4.0.0-M2?classifier=sources
 - pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@4.0.0-M3?classifier=sources
+- pkg:maven/org.glassfish.jersey.test-framework/memleak-test-common@4.0.0-M4?classifier=sources

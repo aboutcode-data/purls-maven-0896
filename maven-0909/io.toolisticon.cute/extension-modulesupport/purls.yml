@@ -40,3 +40,4 @@
 - pkg:maven/io.toolisticon.cute/extension-modulesupport@1.8.0?classifier=sources
 - pkg:maven/io.toolisticon.cute/extension-modulesupport@1.8.1?classifier=sources
 - pkg:maven/io.toolisticon.cute/extension-modulesupport@1.8.2?classifier=sources
+- pkg:maven/io.toolisticon.cute/extension-modulesupport@1.9.0?classifier=sources

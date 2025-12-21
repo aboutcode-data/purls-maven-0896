@@ -1,4 +1,6 @@
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@10.4.2?classifier=sources
+- pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@10.4.3?classifier=sources
+- pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@10.4.4?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@6.20.4-2?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@6.20.4?classifier=sources
 - pkg:maven/io.maryk.rocksdb/rocksdb-multiplatform-iosarm64@6.25.3?classifier=sources

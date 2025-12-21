@@ -4,3 +4,4 @@
 - pkg:maven/io.github.dimkich.integration.testing.postgresql/integration-testing-postgresql@0.2.2?classifier=sources
 - pkg:maven/io.github.dimkich.integration.testing.postgresql/integration-testing-postgresql@0.2.3?classifier=sources
 - pkg:maven/io.github.dimkich.integration.testing.postgresql/integration-testing-postgresql@0.3.0?classifier=sources
+- pkg:maven/io.github.dimkich.integration.testing.postgresql/integration-testing-postgresql@0.3.1?classifier=sources

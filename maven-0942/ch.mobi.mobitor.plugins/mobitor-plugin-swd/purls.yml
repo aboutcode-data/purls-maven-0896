@@ -115,6 +115,7 @@
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.454?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.462?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.466?classifier=sources
+- pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.471?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.64
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.64?classifier=sources
 - pkg:maven/ch.mobi.mobitor.plugins/mobitor-plugin-swd@3.1.71

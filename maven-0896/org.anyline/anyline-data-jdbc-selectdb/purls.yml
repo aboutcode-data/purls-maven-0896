@@ -86,6 +86,9 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-20250918?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-20251010?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-20251011?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk11-20240911
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk11-20240911?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk11-20240912
@@ -133,6 +136,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk11-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk11-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk11-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk11-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk17-20240911
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk17-20240911?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk17-20240912
@@ -190,6 +194,7 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk17-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk17-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk17-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk17-20250918?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk21-20240911
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk21-20240911?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk21-20240912
@@ -255,3 +260,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk21-20250827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk21-20250903?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk21-20250916?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.2-jdk21-20250918?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.3-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.3-jdk11-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.3-jdk17-20251011?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-selectdb@8.7.3-jdk21-20251011?classifier=sources

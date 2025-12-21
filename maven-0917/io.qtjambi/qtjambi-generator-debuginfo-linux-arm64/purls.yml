@@ -1,1 +1,3 @@
+- pkg:maven/io.qtjambi/qtjambi-generator-debuginfo-linux-arm64@6.10.0
 - pkg:maven/io.qtjambi/qtjambi-generator-debuginfo-linux-arm64@6.8.5
+- pkg:maven/io.qtjambi/qtjambi-generator-debuginfo-linux-arm64@6.9.3

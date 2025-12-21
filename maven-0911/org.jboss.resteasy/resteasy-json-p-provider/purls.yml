@@ -344,6 +344,8 @@
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.11.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.12.Final
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.12.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.14.Beta1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.14.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.2.Final
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.2.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@6.2.3.Final
@@ -370,3 +372,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@7.0.0.Alpha4?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@7.0.0.Beta1
 - pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@7.0.0.Beta1?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@7.0.0.Beta5?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-json-p-provider@7.0.0.Final?classifier=sources

@@ -27,3 +27,5 @@
 - pkg:maven/io.joyfill/api-macosarm64@2.0.0-Beta18?classifier=sources
 - pkg:maven/io.joyfill/api-macosarm64@2.0.0-Beta19?classifier=sources
 - pkg:maven/io.joyfill/api-macosarm64@2.0.0-Beta20?classifier=sources
+- pkg:maven/io.joyfill/api-macosarm64@2.0.0-RC3?classifier=sources
+- pkg:maven/io.joyfill/api-macosarm64@2.0.0-RC4?classifier=sources

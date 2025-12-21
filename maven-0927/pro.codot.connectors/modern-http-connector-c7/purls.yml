@@ -1,2 +1,4 @@
 - pkg:maven/pro.codot.connectors/modern-http-connector-c7@3.0.1?classifier=sources
 - pkg:maven/pro.codot.connectors/modern-http-connector-c7@3.0.2?classifier=sources
+- pkg:maven/pro.codot.connectors/modern-http-connector-c7@3.0.3?classifier=sources
+- pkg:maven/pro.codot.connectors/modern-http-connector-c7@3.0.4?classifier=sources

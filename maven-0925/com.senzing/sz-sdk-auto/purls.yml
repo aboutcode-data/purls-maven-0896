@@ -1,0 +1,2 @@
+- pkg:maven/com.senzing/sz-sdk-auto@0.2.0?classifier=sources
+- pkg:maven/com.senzing/sz-sdk-auto@0.3.0?classifier=sources

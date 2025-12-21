@@ -37,6 +37,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-twitter@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-twitter@10.5.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-twitter@10.6.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-twitter@10.7.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-twitter@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-twitter@6.0.0-beta3
 - pkg:maven/org.wicketstuff/wicketstuff-twitter@6.0.0-beta3?classifier=sources

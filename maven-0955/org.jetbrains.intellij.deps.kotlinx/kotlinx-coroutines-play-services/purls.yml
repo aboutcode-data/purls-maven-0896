@@ -1,0 +1,2 @@
+- pkg:maven/org.jetbrains.intellij.deps.kotlinx/kotlinx-coroutines-play-services@1.10.1-intellij-6?classifier=sources
+- pkg:maven/org.jetbrains.intellij.deps.kotlinx/kotlinx-coroutines-play-services@1.8.0-intellij-14?classifier=sources

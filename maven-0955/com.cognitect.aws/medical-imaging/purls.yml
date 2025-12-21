@@ -7,3 +7,4 @@
 - pkg:maven/com.cognitect.aws/medical-imaging@871.2.29.35
 - pkg:maven/com.cognitect.aws/medical-imaging@871.2.29.35?classifier=sources
 - pkg:maven/com.cognitect.aws/medical-imaging@871.2.32.2?classifier=sources
+- pkg:maven/com.cognitect.aws/medical-imaging@871.2.33.10?classifier=sources

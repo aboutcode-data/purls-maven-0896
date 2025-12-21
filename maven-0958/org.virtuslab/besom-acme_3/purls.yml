@@ -4,5 +4,9 @@
 - pkg:maven/org.virtuslab/besom-acme_3@0.0.1-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-acme_3@0.0.1-core.0.3
 - pkg:maven/org.virtuslab/besom-acme_3@0.0.1-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-acme_3@0.0.1-core.0.5
+- pkg:maven/org.virtuslab/besom-acme_3@0.0.1-core.0.5?classifier=sources
+- pkg:maven/org.virtuslab/besom-acme_3@0.14.0-core.0.5
+- pkg:maven/org.virtuslab/besom-acme_3@0.14.0-core.0.5?classifier=sources
 - pkg:maven/org.virtuslab/besom-acme_3@0.8.3-core.0.4
 - pkg:maven/org.virtuslab/besom-acme_3@0.8.3-core.0.4?classifier=sources

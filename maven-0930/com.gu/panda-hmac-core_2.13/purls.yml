@@ -14,6 +14,14 @@
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-06T1153.1e899503
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-06T1153.1e899503?classifier=sources
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0?classifier=sources
+- pkg:maven/com.gu/panda-hmac-core_2.13@11.0.0
+- pkg:maven/com.gu/panda-hmac-core_2.13@11.0.0-PREVIEW.sh-wsyupgrade-aws-sdk-to-2.2025-09-17T1358.a15b1789
+- pkg:maven/com.gu/panda-hmac-core_2.13@11.0.0-PREVIEW.sh-wsyupgrade-aws-sdk-to-2.2025-09-17T1358.a15b1789?classifier=sources
+- pkg:maven/com.gu/panda-hmac-core_2.13@11.0.0?classifier=sources
+- pkg:maven/com.gu/panda-hmac-core_2.13@12.0.0
+- pkg:maven/com.gu/panda-hmac-core_2.13@12.0.0-PREVIEW.shbump-vulnerable-jackson-dependencies.2025-10-01T0730.f039346d
+- pkg:maven/com.gu/panda-hmac-core_2.13@12.0.0-PREVIEW.shbump-vulnerable-jackson-dependencies.2025-10-01T0730.f039346d?classifier=sources
+- pkg:maven/com.gu/panda-hmac-core_2.13@12.0.0?classifier=sources
 - pkg:maven/com.gu/panda-hmac-core_2.13@9.0.1-PREVIEW.extract-non-play-hmac-artifact.2025-03-14T1657.1a731f63
 - pkg:maven/com.gu/panda-hmac-core_2.13@9.0.1-PREVIEW.extract-non-play-hmac-artifact.2025-03-14T1657.1a731f63?classifier=sources
 - pkg:maven/com.gu/panda-hmac-core_2.13@9.0.1-PREVIEW.extract-non-play-hmac-artifact.2025-03-18T1014.a1215c9d

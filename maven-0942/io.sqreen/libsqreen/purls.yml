@@ -2,3 +2,4 @@
 - pkg:maven/io.sqreen/libsqreen@16.0.0?classifier=sources
 - pkg:maven/io.sqreen/libsqreen@17.0.0?classifier=sources
 - pkg:maven/io.sqreen/libsqreen@17.1.0?classifier=sources
+- pkg:maven/io.sqreen/libsqreen@17.2.0?classifier=sources

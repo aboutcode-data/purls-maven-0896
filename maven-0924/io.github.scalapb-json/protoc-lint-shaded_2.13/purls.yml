@@ -1,2 +1,4 @@
 - pkg:maven/io.github.scalapb-json/protoc-lint-shaded_2.13@0.7.1
 - pkg:maven/io.github.scalapb-json/protoc-lint-shaded_2.13@0.7.1?classifier=sources
+- pkg:maven/io.github.scalapb-json/protoc-lint-shaded_2.13@0.7.2
+- pkg:maven/io.github.scalapb-json/protoc-lint-shaded_2.13@0.7.2?classifier=sources

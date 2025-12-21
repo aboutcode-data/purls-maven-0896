@@ -27,3 +27,4 @@
 - pkg:maven/us.ihmc/scs2-examples-test@17-0.28.7?classifier=sources
 - pkg:maven/us.ihmc/scs2-examples-test@17-0.29.0?classifier=sources
 - pkg:maven/us.ihmc/scs2-examples-test@17-0.30.0?classifier=sources
+- pkg:maven/us.ihmc/scs2-examples-test@17-0.31.2?classifier=sources

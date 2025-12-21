@@ -2,3 +2,9 @@
 - pkg:maven/org.mvnpm/eslint-plugin-react-hooks@5.2.0?classifier=sources
 - pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.0.0
 - pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.0.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.1.0
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.1.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.1.1
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@6.1.1?classifier=sources
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@7.0.0
+- pkg:maven/org.mvnpm/eslint-plugin-react-hooks@7.0.0?classifier=sources

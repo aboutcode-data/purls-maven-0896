@@ -21,3 +21,4 @@
 - pkg:maven/com.grookage.concierge/concierge-aerospike-dw@1.0.3?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-aerospike-dw@1.0.4?classifier=sources
 - pkg:maven/com.grookage.concierge/concierge-aerospike-dw@1.0.5?classifier=sources
+- pkg:maven/com.grookage.concierge/concierge-aerospike-dw@1.0.6?classifier=sources
