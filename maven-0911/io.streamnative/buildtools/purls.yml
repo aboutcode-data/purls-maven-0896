@@ -12,6 +12,8 @@
 - pkg:maven/io.streamnative/buildtools@3.0.10.4?classifier=sources
 - pkg:maven/io.streamnative/buildtools@3.0.10.5
 - pkg:maven/io.streamnative/buildtools@3.0.10.5?classifier=sources
+- pkg:maven/io.streamnative/buildtools@3.0.10.6
+- pkg:maven/io.streamnative/buildtools@3.0.10.6?classifier=sources
 - pkg:maven/io.streamnative/buildtools@3.0.8.4
 - pkg:maven/io.streamnative/buildtools@3.0.8.4?classifier=sources
 - pkg:maven/io.streamnative/buildtools@3.3.2.1
@@ -34,6 +36,9 @@
 - pkg:maven/io.streamnative/buildtools@3.3.5.6?classifier=sources
 - pkg:maven/io.streamnative/buildtools@3.3.5.7
 - pkg:maven/io.streamnative/buildtools@3.3.5.7?classifier=sources
+- pkg:maven/io.streamnative/buildtools@3.3.5.8
+- pkg:maven/io.streamnative/buildtools@3.3.5.8?classifier=sources
+- pkg:maven/io.streamnative/buildtools@3.3.5.9?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.0.0.0
 - pkg:maven/io.streamnative/buildtools@4.0.0.0?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.0.0.1
@@ -72,6 +77,12 @@
 - pkg:maven/io.streamnative/buildtools@4.0.4.1?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.0.4.2
 - pkg:maven/io.streamnative/buildtools@4.0.4.2?classifier=sources
+- pkg:maven/io.streamnative/buildtools@4.0.4.3
+- pkg:maven/io.streamnative/buildtools@4.0.4.3?classifier=sources
+- pkg:maven/io.streamnative/buildtools@4.0.5.1
+- pkg:maven/io.streamnative/buildtools@4.0.5.1?classifier=sources
+- pkg:maven/io.streamnative/buildtools@4.0.5.2
+- pkg:maven/io.streamnative/buildtools@4.0.5.2?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.14.3.1
 - pkg:maven/io.streamnative/buildtools@4.14.3.1?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.14.5.1-arrowstreet
@@ -104,6 +115,8 @@
 - pkg:maven/io.streamnative/buildtools@4.16.6.2?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.16.6.3
 - pkg:maven/io.streamnative/buildtools@4.16.6.3?classifier=sources
+- pkg:maven/io.streamnative/buildtools@4.16.6.4
+- pkg:maven/io.streamnative/buildtools@4.16.6.4?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.17.0.1
 - pkg:maven/io.streamnative/buildtools@4.17.0.1?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.17.1.1
@@ -112,5 +125,7 @@
 - pkg:maven/io.streamnative/buildtools@4.17.1.2?classifier=sources
 - pkg:maven/io.streamnative/buildtools@4.17.1.3
 - pkg:maven/io.streamnative/buildtools@4.17.1.3?classifier=sources
+- pkg:maven/io.streamnative/buildtools@4.17.1.4
+- pkg:maven/io.streamnative/buildtools@4.17.1.4?classifier=sources
 - pkg:maven/io.streamnative/buildtools@branch-4.14.7.1_d4
 - pkg:maven/io.streamnative/buildtools@branch-4.14.7.1_d4?classifier=sources

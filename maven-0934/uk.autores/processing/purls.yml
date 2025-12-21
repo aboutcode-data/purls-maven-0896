@@ -8,6 +8,10 @@
 - pkg:maven/uk.autores/processing@11.0.43-beta?classifier=sources
 - pkg:maven/uk.autores/processing@11.0.44-beta
 - pkg:maven/uk.autores/processing@11.0.44-beta?classifier=sources
+- pkg:maven/uk.autores/processing@11.1.1
+- pkg:maven/uk.autores/processing@11.1.1?classifier=sources
+- pkg:maven/uk.autores/processing@11.1.2
+- pkg:maven/uk.autores/processing@11.1.2?classifier=sources
 - pkg:maven/uk.autores/processing@8.0.40-beta
 - pkg:maven/uk.autores/processing@8.0.40-beta?classifier=sources
 - pkg:maven/uk.autores/processing@8.0.41-beta
@@ -18,3 +22,9 @@
 - pkg:maven/uk.autores/processing@8.0.43-beta?classifier=sources
 - pkg:maven/uk.autores/processing@8.0.44-beta
 - pkg:maven/uk.autores/processing@8.0.44-beta?classifier=sources
+- pkg:maven/uk.autores/processing@8.1.0
+- pkg:maven/uk.autores/processing@8.1.0?classifier=sources
+- pkg:maven/uk.autores/processing@8.1.1
+- pkg:maven/uk.autores/processing@8.1.1?classifier=sources
+- pkg:maven/uk.autores/processing@8.1.2
+- pkg:maven/uk.autores/processing@8.1.2?classifier=sources

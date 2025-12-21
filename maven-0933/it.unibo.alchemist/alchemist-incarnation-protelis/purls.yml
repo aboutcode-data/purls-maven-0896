@@ -352,6 +352,7 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@42.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@42.2.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@42.2.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@42.2.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@5.1.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@5.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-protelis@5.2.0

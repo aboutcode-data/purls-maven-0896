@@ -26,3 +26,4 @@
 - pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.2.0?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.3.0?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.3.1?classifier=sources
+- pkg:maven/com.sksamuel.scrimage/scrimage-format-png@4.3.2?classifier=sources

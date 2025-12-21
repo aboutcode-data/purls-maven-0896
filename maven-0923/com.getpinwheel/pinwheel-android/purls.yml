@@ -17,3 +17,4 @@
 - pkg:maven/com.getpinwheel/pinwheel-android@2.3.8?classifier=sources
 - pkg:maven/com.getpinwheel/pinwheel-android@2.3.9?classifier=sources
 - pkg:maven/com.getpinwheel/pinwheel-android@3.3.0?classifier=sources
+- pkg:maven/com.getpinwheel/pinwheel-android@3.4.0?classifier=sources

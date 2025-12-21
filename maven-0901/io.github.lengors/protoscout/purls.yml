@@ -19,5 +19,7 @@
 - pkg:maven/io.github.lengors/protoscout@1.0.4-dev.1?classifier=sources
 - pkg:maven/io.github.lengors/protoscout@1.0.4?classifier=sources
 - pkg:maven/io.github.lengors/protoscout@1.0.5-alpha.1?classifier=sources
+- pkg:maven/io.github.lengors/protoscout@1.0.5-beta.1?classifier=sources
 - pkg:maven/io.github.lengors/protoscout@1.0.5-dev.1?classifier=sources
 - pkg:maven/io.github.lengors/protoscout@1.0.5-dev.2?classifier=sources
+- pkg:maven/io.github.lengors/protoscout@1.0.5?classifier=sources

@@ -15,6 +15,8 @@
 - pkg:maven/com.grookage.leia/leia-common@0.0.1-RC24?classifier=sources
 - pkg:maven/com.grookage.leia/leia-common@0.0.1-RC25?classifier=sources
 - pkg:maven/com.grookage.leia/leia-common@0.0.1-RC26?classifier=sources
+- pkg:maven/com.grookage.leia/leia-common@0.0.1-RC27?classifier=sources
 - pkg:maven/com.grookage.leia/leia-common@0.0.1-RC7?classifier=sources
 - pkg:maven/com.grookage.leia/leia-common@0.0.1-RC8?classifier=sources
 - pkg:maven/com.grookage.leia/leia-common@0.0.1-RC9?classifier=sources
+- pkg:maven/com.grookage.leia/leia-common@1.0.0?classifier=sources

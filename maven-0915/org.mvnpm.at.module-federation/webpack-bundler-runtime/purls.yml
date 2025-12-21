@@ -18,4 +18,6 @@
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.14.3?classifier=sources
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.15.0
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.15.0?classifier=sources
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.16.0
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.16.0?classifier=sources
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.8.4?classifier=sources

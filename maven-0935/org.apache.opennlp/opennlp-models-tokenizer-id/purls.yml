@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.opennlp/opennlp-models-tokenizer-id@1.3.0
+- pkg:maven/org.apache.opennlp/opennlp-models-tokenizer-id@1.3.0?classifier=sources

@@ -35,3 +35,4 @@
 - pkg:maven/org.jetbrains.pty4j/pty4j@0.13.6?classifier=sources
 - pkg:maven/org.jetbrains.pty4j/pty4j@0.13.7?classifier=sources
 - pkg:maven/org.jetbrains.pty4j/pty4j@0.13.8?classifier=sources
+- pkg:maven/org.jetbrains.pty4j/pty4j@0.13.9?classifier=sources

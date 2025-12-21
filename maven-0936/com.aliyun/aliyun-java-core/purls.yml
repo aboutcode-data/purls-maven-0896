@@ -76,3 +76,5 @@
 - pkg:maven/com.aliyun/aliyun-java-core@0.2.9-beta?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-core@0.3.0-beta
 - pkg:maven/com.aliyun/aliyun-java-core@0.3.0-beta?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-core@0.3.1-beta
+- pkg:maven/com.aliyun/aliyun-java-core@0.3.1-beta?classifier=sources

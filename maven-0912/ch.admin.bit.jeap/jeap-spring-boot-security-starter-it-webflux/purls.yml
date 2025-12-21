@@ -21,3 +21,7 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-starter-it-webflux@17.31.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-starter-it-webflux@17.32.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-starter-it-webflux@17.34.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-starter-it-webflux@17.35.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-starter-it-webflux@17.36.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-starter-it-webflux@17.37.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-security-starter-it-webflux@17.38.0?classifier=sources

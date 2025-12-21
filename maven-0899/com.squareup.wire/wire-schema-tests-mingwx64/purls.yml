@@ -21,3 +21,4 @@
 - pkg:maven/com.squareup.wire/wire-schema-tests-mingwx64@5.3.1?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-tests-mingwx64@5.3.2?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-tests-mingwx64@5.3.3?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-tests-mingwx64@5.3.4?classifier=sources

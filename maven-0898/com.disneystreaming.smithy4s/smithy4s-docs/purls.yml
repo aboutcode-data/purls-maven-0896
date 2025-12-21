@@ -2,6 +2,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-1-26737b4?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-1-31055be
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-1-31055be?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-1-4bfa08b
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-1-4bfa08b?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-1-ef34282
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-1-ef34282?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-12-4e76a36
@@ -10,6 +12,8 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-3-03ef318?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-3-c5d3e28
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-3-c5d3e28?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-4-0c32692
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-4-0c32692?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-4-618b31d
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-4-618b31d?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.0-4-814e653
@@ -30,3 +34,5 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.36?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.37
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.37?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.38
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.38?classifier=sources

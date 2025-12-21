@@ -1,6 +1,12 @@
+- pkg:maven/org.mvnpm/mdn-data@2.0.14
+- pkg:maven/org.mvnpm/mdn-data@2.0.14?classifier=sources
 - pkg:maven/org.mvnpm/mdn-data@2.0.28?classifier=sources
 - pkg:maven/org.mvnpm/mdn-data@2.0.30?classifier=sources
 - pkg:maven/org.mvnpm/mdn-data@2.18.0?classifier=sources
 - pkg:maven/org.mvnpm/mdn-data@2.19.0?classifier=sources
 - pkg:maven/org.mvnpm/mdn-data@2.20.0?classifier=sources
 - pkg:maven/org.mvnpm/mdn-data@2.21.0?classifier=sources
+- pkg:maven/org.mvnpm/mdn-data@2.22.0
+- pkg:maven/org.mvnpm/mdn-data@2.22.0?classifier=sources
+- pkg:maven/org.mvnpm/mdn-data@2.22.1
+- pkg:maven/org.mvnpm/mdn-data@2.22.1?classifier=sources

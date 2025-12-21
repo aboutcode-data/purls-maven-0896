@@ -18,3 +18,4 @@
 - pkg:maven/org.webjars.npm/elliptic@6.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/elliptic@6.5.4
 - pkg:maven/org.webjars.npm/elliptic@6.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/elliptic@6.6.1

@@ -45,3 +45,5 @@
 - pkg:maven/com.amplifyframework/aws-auth-plugins-core@2.27.2?classifier=sources
 - pkg:maven/com.amplifyframework/aws-auth-plugins-core@2.27.3?classifier=sources
 - pkg:maven/com.amplifyframework/aws-auth-plugins-core@2.27.4?classifier=sources
+- pkg:maven/com.amplifyframework/aws-auth-plugins-core@2.28.0?classifier=sources
+- pkg:maven/com.amplifyframework/aws-auth-plugins-core@2.29.0?classifier=sources

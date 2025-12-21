@@ -36,6 +36,7 @@
 - pkg:maven/org.pgpainless/sop-java@10.0.3?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@10.1.0?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@10.1.1?classifier=sources
+- pkg:maven/org.pgpainless/sop-java@14.0.0?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@4.0.0?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@4.0.1?classifier=sources
 - pkg:maven/org.pgpainless/sop-java@4.0.2?classifier=sources

@@ -17,6 +17,9 @@
 - pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.16.0?classifier=sources
 - pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.16.1?classifier=sources
 - pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.16.2?classifier=sources
+- pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.17.0?classifier=sources
+- pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.17.1?classifier=sources
+- pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.17.2?classifier=sources
 - pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.2.0?classifier=sources
 - pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.2.1?classifier=sources
 - pkg:maven/io.micronaut.openapi/micronaut-openapi-common@6.2.2?classifier=sources

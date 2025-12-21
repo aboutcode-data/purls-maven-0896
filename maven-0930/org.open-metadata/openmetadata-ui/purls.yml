@@ -168,6 +168,8 @@
 - pkg:maven/org.open-metadata/openmetadata-ui@1.6.11?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-ui@1.6.12
 - pkg:maven/org.open-metadata/openmetadata-ui@1.6.12?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-ui@1.6.13
+- pkg:maven/org.open-metadata/openmetadata-ui@1.6.13?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-ui@1.6.1?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-ui@1.6.2
 - pkg:maven/org.open-metadata/openmetadata-ui@1.6.2?classifier=sources
@@ -195,5 +197,15 @@
 - pkg:maven/org.open-metadata/openmetadata-ui@1.7.1?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-ui@1.7.2
 - pkg:maven/org.open-metadata/openmetadata-ui@1.7.2?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-ui@1.7.3
+- pkg:maven/org.open-metadata/openmetadata-ui@1.7.3?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-ui@1.7.4
+- pkg:maven/org.open-metadata/openmetadata-ui@1.7.4?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-ui@1.7.5
+- pkg:maven/org.open-metadata/openmetadata-ui@1.7.5?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-ui@1.8.0
+- pkg:maven/org.open-metadata/openmetadata-ui@1.8.0?classifier=sources
+- pkg:maven/org.open-metadata/openmetadata-ui@1.8.1
+- pkg:maven/org.open-metadata/openmetadata-ui@1.8.1?classifier=sources
 - pkg:maven/org.open-metadata/openmetadata-ui@DEMO_BETA1
 - pkg:maven/org.open-metadata/openmetadata-ui@DEMO_BETA1?classifier=sources

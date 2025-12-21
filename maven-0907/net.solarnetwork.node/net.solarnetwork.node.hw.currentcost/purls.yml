@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.currentcost@4.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.currentcost@5.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.currentcost@5.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.currentcost@6.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.hw.currentcost@6.0.0?classifier=sources

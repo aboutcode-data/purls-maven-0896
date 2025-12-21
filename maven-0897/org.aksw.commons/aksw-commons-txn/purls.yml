@@ -1,3 +1,4 @@
+- pkg:maven/org.aksw.commons/aksw-commons-txn@0.9.10?classifier=sources
 - pkg:maven/org.aksw.commons/aksw-commons-txn@0.9.2
 - pkg:maven/org.aksw.commons/aksw-commons-txn@0.9.2?classifier=sources
 - pkg:maven/org.aksw.commons/aksw-commons-txn@0.9.3

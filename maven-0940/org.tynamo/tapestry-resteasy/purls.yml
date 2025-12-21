@@ -18,3 +18,4 @@
 - pkg:maven/org.tynamo/tapestry-resteasy@0.6.0?classifier=sources
 - pkg:maven/org.tynamo/tapestry-resteasy@0.7.0
 - pkg:maven/org.tynamo/tapestry-resteasy@0.7.0?classifier=sources
+- pkg:maven/org.tynamo/tapestry-resteasy@1.0.0?classifier=sources

@@ -82,5 +82,9 @@
 - pkg:maven/org.mlflow/mlflow-spark_2.12@2.9.2?classifier=sources
 - pkg:maven/org.mlflow/mlflow-spark_2.12@3.0.0
 - pkg:maven/org.mlflow/mlflow-spark_2.12@3.0.0?classifier=sources
+- pkg:maven/org.mlflow/mlflow-spark_2.12@3.0.1
+- pkg:maven/org.mlflow/mlflow-spark_2.12@3.0.1?classifier=sources
 - pkg:maven/org.mlflow/mlflow-spark_2.12@3.1.0
 - pkg:maven/org.mlflow/mlflow-spark_2.12@3.1.0?classifier=sources
+- pkg:maven/org.mlflow/mlflow-spark_2.12@3.1.1
+- pkg:maven/org.mlflow/mlflow-spark_2.12@3.1.1?classifier=sources

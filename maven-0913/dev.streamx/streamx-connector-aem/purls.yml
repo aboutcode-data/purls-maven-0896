@@ -10,3 +10,6 @@
 - pkg:maven/dev.streamx/streamx-connector-aem@0.0.19?classifier=sources
 - pkg:maven/dev.streamx/streamx-connector-aem@0.0.8?classifier=sources
 - pkg:maven/dev.streamx/streamx-connector-aem@0.0.9?classifier=sources
+- pkg:maven/dev.streamx/streamx-connector-aem@1.0.0?classifier=sources
+- pkg:maven/dev.streamx/streamx-connector-aem@1.0.1?classifier=sources
+- pkg:maven/dev.streamx/streamx-connector-aem@1.1.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-provider@24.7.1?classifier=sources
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-provider@25.1.0
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-provider@25.1.0?classifier=sources
+- pkg:maven/org.faktorips.runtimejpa/productdata-jpa-provider@25.7.0-rc01?classifier=sources
+- pkg:maven/org.faktorips.runtimejpa/productdata-jpa-provider@25.7.0?classifier=sources

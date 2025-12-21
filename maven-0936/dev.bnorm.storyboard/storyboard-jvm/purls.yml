@@ -1,1 +1,3 @@
 - pkg:maven/dev.bnorm.storyboard/storyboard-jvm@0.1.0-alpha01?classifier=sources
+- pkg:maven/dev.bnorm.storyboard/storyboard-jvm@0.1.0-alpha02?classifier=sources
+- pkg:maven/dev.bnorm.storyboard/storyboard-jvm@0.1.0-alpha03?classifier=sources

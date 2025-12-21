@@ -172,6 +172,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-http@12.0.21
 - pkg:maven/org.eclipse.jetty/jetty-http@12.0.21?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-http@12.0.22?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-http@12.0.23?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-http@12.0.2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-http@12.0.3
 - pkg:maven/org.eclipse.jetty/jetty-http@12.0.3?classifier=sources
@@ -194,6 +195,7 @@
 - pkg:maven/org.eclipse.jetty/jetty-http@12.1.0.alpha2
 - pkg:maven/org.eclipse.jetty/jetty-http@12.1.0.alpha2?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-http@12.1.0.beta0?classifier=sources
+- pkg:maven/org.eclipse.jetty/jetty-http@12.1.0.beta1?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-http@7.0.0.M0
 - pkg:maven/org.eclipse.jetty/jetty-http@7.0.0.M0?classifier=sources
 - pkg:maven/org.eclipse.jetty/jetty-http@7.0.0.M1

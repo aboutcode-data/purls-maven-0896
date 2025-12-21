@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.hc.em5600@3.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.hc.em5600@4.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.hc.em5600@4.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.hc.em5600@5.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.hc.em5600@5.0.0?classifier=sources

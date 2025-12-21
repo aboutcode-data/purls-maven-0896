@@ -15,3 +15,5 @@
 - pkg:maven/fr.maif/jooq-async-reactive@2.1.0?classifier=sources
 - pkg:maven/fr.maif/jooq-async-reactive@2.2.0?classifier=sources
 - pkg:maven/fr.maif/jooq-async-reactive@2.3.0?classifier=sources
+- pkg:maven/fr.maif/jooq-async-reactive@2.4.0-SNASHOT?classifier=sources
+- pkg:maven/fr.maif/jooq-async-reactive@2.4.0-rc1?classifier=sources

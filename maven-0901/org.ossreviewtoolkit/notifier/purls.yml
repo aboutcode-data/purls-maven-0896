@@ -95,6 +95,11 @@
 - pkg:maven/org.ossreviewtoolkit/notifier@6.1.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@60.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@61.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@61.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@61.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@62.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@8.0.0?classifier=sources

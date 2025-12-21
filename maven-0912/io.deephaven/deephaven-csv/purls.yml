@@ -5,6 +5,7 @@
 - pkg:maven/io.deephaven/deephaven-csv@0.13.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-csv@0.14.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-csv@0.15.0?classifier=sources
+- pkg:maven/io.deephaven/deephaven-csv@0.16.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-csv@0.2.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-csv@0.3.0?classifier=sources
 - pkg:maven/io.deephaven/deephaven-csv@0.4.0?classifier=sources

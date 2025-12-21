@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.fluss/fluss-fs-gs@0.7.0
+- pkg:maven/com.alibaba.fluss/fluss-fs-gs@0.7.0?classifier=sources

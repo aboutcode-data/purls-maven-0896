@@ -4,3 +4,4 @@
 - pkg:maven/li.strolch/strolch-plc-util@1.2.2?classifier=sources
 - pkg:maven/li.strolch/strolch-plc-util@1.2.3
 - pkg:maven/li.strolch/strolch-plc-util@1.2.3?classifier=sources
+- pkg:maven/li.strolch/strolch-plc-util@2.5.1?classifier=sources

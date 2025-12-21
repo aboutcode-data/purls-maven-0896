@@ -86,6 +86,7 @@
 - pkg:maven/com.applovin/applovin-sdk@13.1.0?classifier=sources
 - pkg:maven/com.applovin/applovin-sdk@13.2.0?classifier=sources
 - pkg:maven/com.applovin/applovin-sdk@13.3.0?classifier=sources
+- pkg:maven/com.applovin/applovin-sdk@13.3.1?classifier=sources
 - pkg:maven/com.applovin/applovin-sdk@9.14.12?classifier=sources
 - pkg:maven/com.applovin/applovin-sdk@9.14.12?type=aar
 - pkg:maven/com.applovin/applovin-sdk@9.14.13?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-mongon@3.7.4?classifier=sources
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-mongon@3.8.0
 - pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-mongon@3.8.0?classifier=sources
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-mongon@3.8.1
+- pkg:maven/org.jeecgframework.boot/jeecg-boot-starter-mongon@3.8.1?classifier=sources

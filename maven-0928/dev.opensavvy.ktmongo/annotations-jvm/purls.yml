@@ -7,6 +7,7 @@
 - pkg:maven/dev.opensavvy.ktmongo/annotations-jvm@0.15.0?classifier=sources
 - pkg:maven/dev.opensavvy.ktmongo/annotations-jvm@0.16.0?classifier=sources
 - pkg:maven/dev.opensavvy.ktmongo/annotations-jvm@0.17.0?classifier=sources
+- pkg:maven/dev.opensavvy.ktmongo/annotations-jvm@0.18.0?classifier=sources
 - pkg:maven/dev.opensavvy.ktmongo/annotations-jvm@0.2.0?classifier=sources
 - pkg:maven/dev.opensavvy.ktmongo/annotations-jvm@0.3.0?classifier=sources
 - pkg:maven/dev.opensavvy.ktmongo/annotations-jvm@0.4.0?classifier=sources

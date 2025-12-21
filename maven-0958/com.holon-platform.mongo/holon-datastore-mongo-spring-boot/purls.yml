@@ -22,3 +22,5 @@
 - pkg:maven/com.holon-platform.mongo/holon-datastore-mongo-spring-boot@5.5.0?classifier=sources
 - pkg:maven/com.holon-platform.mongo/holon-datastore-mongo-spring-boot@5.7.0
 - pkg:maven/com.holon-platform.mongo/holon-datastore-mongo-spring-boot@5.7.0?classifier=sources
+- pkg:maven/com.holon-platform.mongo/holon-datastore-mongo-spring-boot@6.0.0
+- pkg:maven/com.holon-platform.mongo/holon-datastore-mongo-spring-boot@6.0.0?classifier=sources

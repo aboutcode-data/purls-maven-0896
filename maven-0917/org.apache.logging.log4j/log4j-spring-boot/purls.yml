@@ -38,5 +38,6 @@
 - pkg:maven/org.apache.logging.log4j/log4j-spring-boot@2.24.2?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-spring-boot@2.24.3
 - pkg:maven/org.apache.logging.log4j/log4j-spring-boot@2.24.3?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-spring-boot@2.25.0?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-spring-boot@3.0.0-alpha1
 - pkg:maven/org.apache.logging.log4j/log4j-spring-boot@3.0.0-alpha1?classifier=sources

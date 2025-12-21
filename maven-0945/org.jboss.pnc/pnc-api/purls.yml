@@ -73,3 +73,8 @@
 - pkg:maven/org.jboss.pnc/pnc-api@3.0.7
 - pkg:maven/org.jboss.pnc/pnc-api@3.0.7?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc/pnc-api@3.0.7?classifier=sources
+- pkg:maven/org.jboss.pnc/pnc-api@3.2.0
+- pkg:maven/org.jboss.pnc/pnc-api@3.2.0?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc/pnc-api@3.2.0?classifier=sources
+- pkg:maven/org.jboss.pnc/pnc-api@3.2.2?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc/pnc-api@3.2.2?classifier=sources

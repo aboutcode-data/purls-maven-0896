@@ -16,3 +16,4 @@
 - pkg:maven/org.apache.beam/beam-sdks-java-io-google-ads@2.63.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-google-ads@2.64.0?classifier=sources
 - pkg:maven/org.apache.beam/beam-sdks-java-io-google-ads@2.65.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-sdks-java-io-google-ads@2.66.0?classifier=sources

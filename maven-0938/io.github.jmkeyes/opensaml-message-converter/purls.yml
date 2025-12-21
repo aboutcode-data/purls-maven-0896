@@ -1,0 +1,8 @@
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@0.10.0?classifier=sources
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@0.10.1?classifier=sources
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@0.9.10?classifier=sources
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@0.9.7?classifier=sources
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@0.9.8?classifier=sources
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@0.9.9?classifier=sources
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@1.0.0?classifier=sources
+- pkg:maven/io.github.jmkeyes/opensaml-message-converter@2.0.0?classifier=sources

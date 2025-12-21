@@ -3,3 +3,4 @@
 - pkg:maven/org.praxislive.ide/praxislive-code@6.0.0?classifier=sources
 - pkg:maven/org.praxislive.ide/praxislive-code@6.1.0?classifier=sources
 - pkg:maven/org.praxislive.ide/praxislive-code@6.2.0?classifier=sources
+- pkg:maven/org.praxislive.ide/praxislive-code@6.3.0?classifier=sources

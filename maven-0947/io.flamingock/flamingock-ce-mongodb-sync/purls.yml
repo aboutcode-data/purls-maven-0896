@@ -1,0 +1,5 @@
+- pkg:maven/io.flamingock/flamingock-ce-mongodb-sync@0.0.34-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-ce-mongodb-sync@0.0.35-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-ce-mongodb-sync@0.0.36-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-ce-mongodb-sync@0.0.37-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-ce-mongodb-sync@0.0.38-beta?classifier=sources

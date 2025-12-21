@@ -37,6 +37,12 @@
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.14.1
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.14.1?classifier=sources
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.14?classifier=sources
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.15
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.15?classifier=sources
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.16
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.16?classifier=sources
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.17
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.17?classifier=sources
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.1?classifier=sources
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.2
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.2?classifier=sources
@@ -51,6 +57,10 @@
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.7
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.7?classifier=sources
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.8
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.8.1
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.8.1?classifier=sources
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.8.2
+- pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.8.2?classifier=sources
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.8?classifier=sources
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.9
 - pkg:maven/net.polyv/polyv-java-seminar-sdk@2.1.9.1

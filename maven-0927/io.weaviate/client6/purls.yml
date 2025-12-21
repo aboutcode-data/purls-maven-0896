@@ -2,3 +2,5 @@
 - pkg:maven/io.weaviate/client6@6.0.0-alpha1?classifier=sources
 - pkg:maven/io.weaviate/client6@6.0.0-alpha2
 - pkg:maven/io.weaviate/client6@6.0.0-alpha2?classifier=sources
+- pkg:maven/io.weaviate/client6@6.0.0-beta1
+- pkg:maven/io.weaviate/client6@6.0.0-beta1?classifier=sources

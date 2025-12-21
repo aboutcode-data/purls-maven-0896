@@ -2,3 +2,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.carrel.dts@3.0.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.carrel.dts@4.0.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.carrel.dts@4.0.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.carrel.dts@5.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.datum.carrel.dts@5.0.0?classifier=sources

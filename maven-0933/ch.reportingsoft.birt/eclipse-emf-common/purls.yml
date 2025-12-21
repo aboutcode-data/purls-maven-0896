@@ -2,3 +2,5 @@
 - pkg:maven/ch.reportingsoft.birt/eclipse-emf-common@2.40.2?classifier=sources
 - pkg:maven/ch.reportingsoft.birt/eclipse-emf-common@2.41.0
 - pkg:maven/ch.reportingsoft.birt/eclipse-emf-common@2.41.0?classifier=sources
+- pkg:maven/ch.reportingsoft.birt/eclipse-emf-common@2.42.0
+- pkg:maven/ch.reportingsoft.birt/eclipse-emf-common@2.42.0?classifier=sources

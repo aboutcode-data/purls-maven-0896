@@ -87,3 +87,4 @@
 - pkg:maven/io.github.crow-misia.aws-sdk-android-ktx/aws-sdk-android-amplify-ktx@0.62.0?classifier=sources
 - pkg:maven/io.github.crow-misia.aws-sdk-android-ktx/aws-sdk-android-amplify-ktx@0.63.0?classifier=sources
 - pkg:maven/io.github.crow-misia.aws-sdk-android-ktx/aws-sdk-android-amplify-ktx@0.64.0?classifier=sources
+- pkg:maven/io.github.crow-misia.aws-sdk-android-ktx/aws-sdk-android-amplify-ktx@0.65.0?classifier=sources

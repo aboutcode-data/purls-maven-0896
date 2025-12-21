@@ -1,0 +1,6 @@
+- pkg:maven/io.github.william27b/dashboard@0.15.01?classifier=sources
+- pkg:maven/io.github.william27b/dashboard@0.15.01?type=aar
+- pkg:maven/io.github.william27b/dashboard@0.15.02?classifier=sources
+- pkg:maven/io.github.william27b/dashboard@0.15.02?type=aar
+- pkg:maven/io.github.william27b/dashboard@0.15.0?classifier=sources
+- pkg:maven/io.github.william27b/dashboard@0.15.0?type=aar

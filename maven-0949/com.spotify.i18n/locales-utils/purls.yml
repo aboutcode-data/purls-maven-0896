@@ -8,3 +8,11 @@
 - pkg:maven/com.spotify.i18n/locales-utils@4.1.1?classifier=sources
 - pkg:maven/com.spotify.i18n/locales-utils@4.2.1
 - pkg:maven/com.spotify.i18n/locales-utils@4.2.1?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-utils@5.0.0
+- pkg:maven/com.spotify.i18n/locales-utils@5.0.0?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-utils@6.0.0
+- pkg:maven/com.spotify.i18n/locales-utils@6.0.0?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-utils@6.1.0
+- pkg:maven/com.spotify.i18n/locales-utils@6.1.0?classifier=sources
+- pkg:maven/com.spotify.i18n/locales-utils@6.1.1
+- pkg:maven/com.spotify.i18n/locales-utils@6.1.1?classifier=sources

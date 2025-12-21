@@ -219,6 +219,14 @@
 - pkg:maven/dev.jeka/nodejs-plugin@0.11.41?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.11.42
 - pkg:maven/dev.jeka/nodejs-plugin@0.11.42?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.43
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.43?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.44
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.44?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.45
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.45?classifier=sources
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.47
+- pkg:maven/dev.jeka/nodejs-plugin@0.11.47?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.11.4?classifier=sources
 - pkg:maven/dev.jeka/nodejs-plugin@0.11.5
 - pkg:maven/dev.jeka/nodejs-plugin@0.11.5?classifier=sources

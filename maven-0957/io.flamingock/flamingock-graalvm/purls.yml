@@ -3,3 +3,8 @@
 - pkg:maven/io.flamingock/flamingock-graalvm@0.0.30-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-graalvm@0.0.31-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-graalvm@0.0.32-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-graalvm@0.0.34-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-graalvm@0.0.35-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-graalvm@0.0.36-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-graalvm@0.0.37-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-graalvm@0.0.38-beta?classifier=sources

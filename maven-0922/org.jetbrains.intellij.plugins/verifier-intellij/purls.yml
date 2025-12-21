@@ -17,3 +17,4 @@
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-intellij@1.384?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-intellij@1.385?classifier=sources
 - pkg:maven/org.jetbrains.intellij.plugins/verifier-intellij@1.386?classifier=sources
+- pkg:maven/org.jetbrains.intellij.plugins/verifier-intellij@1.388?classifier=sources

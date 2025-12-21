@@ -6,3 +6,5 @@
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.bacnet.bacnet4j@2.1.0?classifier=sources
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.bacnet.bacnet4j@2.2.0
 - pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.bacnet.bacnet4j@2.2.0?classifier=sources
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.bacnet.bacnet4j@3.0.0
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.io.bacnet.bacnet4j@3.0.0?classifier=sources

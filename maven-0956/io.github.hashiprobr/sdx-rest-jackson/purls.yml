@@ -38,5 +38,6 @@
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.13-TEMP
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.13-TEMP?classifier=sources
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.13?classifier=sources
+- pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.14-TEMP?classifier=sources
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.9
 - pkg:maven/io.github.hashiprobr/sdx-rest-jackson@0.9.9?classifier=sources

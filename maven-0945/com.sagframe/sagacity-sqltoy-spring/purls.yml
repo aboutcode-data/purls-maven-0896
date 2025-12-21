@@ -401,6 +401,10 @@
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.48.jre8
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.48.jre8?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.48?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.49
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.49.jre8
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.49.jre8?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.49?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.4?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.5
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.5.RC1
@@ -425,6 +429,10 @@
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.5.RC7?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.5.jre8
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.5.jre8?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.50
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.50.jre8
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.50.jre8?classifier=sources
+- pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.50?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.5?classifier=sources
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.6
 - pkg:maven/com.sagframe/sagacity-sqltoy-spring@5.6.6.jre8

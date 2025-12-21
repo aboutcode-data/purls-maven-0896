@@ -6,3 +6,5 @@
 - pkg:maven/com.svenjacobs.reveal/reveal-common-wasm-js@3.2.0?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-common-wasm-js@3.2.1?classifier=sources
 - pkg:maven/com.svenjacobs.reveal/reveal-common-wasm-js@3.2.2?classifier=sources
+- pkg:maven/com.svenjacobs.reveal/reveal-common-wasm-js@3.2.3?classifier=sources
+- pkg:maven/com.svenjacobs.reveal/reveal-common-wasm-js@3.3.0?classifier=sources

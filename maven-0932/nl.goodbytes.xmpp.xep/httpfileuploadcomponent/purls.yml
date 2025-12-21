@@ -18,3 +18,5 @@
 - pkg:maven/nl.goodbytes.xmpp.xep/httpfileuploadcomponent@1.6.0?classifier=sources
 - pkg:maven/nl.goodbytes.xmpp.xep/httpfileuploadcomponent@1.7.0
 - pkg:maven/nl.goodbytes.xmpp.xep/httpfileuploadcomponent@1.7.0?classifier=sources
+- pkg:maven/nl.goodbytes.xmpp.xep/httpfileuploadcomponent@2.0.0?classifier=sources
+- pkg:maven/nl.goodbytes.xmpp.xep/httpfileuploadcomponent@2.0.1?classifier=sources

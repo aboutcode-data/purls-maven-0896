@@ -1,1 +1,4 @@
 - pkg:maven/org.eclipse.lmos/lmos-runtime-service@0.3.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-runtime-service@0.4.0-M1?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-runtime-service@0.4.0?classifier=sources
+- pkg:maven/org.eclipse.lmos/lmos-runtime-service@0.5.0-M1?classifier=sources

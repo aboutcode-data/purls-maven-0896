@@ -18,3 +18,5 @@
 - pkg:maven/fish.focus.uvms.movement/movement-client@5.6.21?classifier=sources
 - pkg:maven/fish.focus.uvms.movement/movement-client@5.6.9
 - pkg:maven/fish.focus.uvms.movement/movement-client@5.6.9?classifier=sources
+- pkg:maven/fish.focus.uvms.movement/movement-client@5.7.1
+- pkg:maven/fish.focus.uvms.movement/movement-client@5.7.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.martinhaeusler.lsm4k/compressor-zstd@1.0.0-Alpha?classifier=sources
+- pkg:maven/io.github.martinhaeusler.lsm4k/compressor-zstd@1.0.0-M1?classifier=sources

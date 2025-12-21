@@ -12,3 +12,5 @@
 - pkg:maven/org.simple4j/WSFeeler@25.01.26.1?classifier=sources
 - pkg:maven/org.simple4j/WSFeeler@25.01.26.2
 - pkg:maven/org.simple4j/WSFeeler@25.01.26.2?classifier=sources
+- pkg:maven/org.simple4j/WSFeeler@25.06.30.0
+- pkg:maven/org.simple4j/WSFeeler@25.06.30.0?classifier=sources

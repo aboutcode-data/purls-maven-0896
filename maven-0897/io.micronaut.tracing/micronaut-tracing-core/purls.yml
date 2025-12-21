@@ -39,3 +39,6 @@
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-core@6.8.0?classifier=sources
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-core@6.9.0?classifier=sources
 - pkg:maven/io.micronaut.tracing/micronaut-tracing-core@7.0.0?classifier=sources
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-core@7.1.0?classifier=sources
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-core@7.1.1?classifier=sources
+- pkg:maven/io.micronaut.tracing/micronaut-tracing-core@7.1.2?classifier=sources

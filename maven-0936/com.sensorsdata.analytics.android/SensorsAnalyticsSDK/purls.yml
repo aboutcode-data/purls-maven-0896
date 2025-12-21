@@ -208,3 +208,4 @@
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK@6.8.3-beta?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK@6.8.3?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK@6.8.4?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK@6.8.5?classifier=sources

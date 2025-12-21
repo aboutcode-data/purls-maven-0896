@@ -38,6 +38,7 @@
 - pkg:maven/com.github.ifrugal/mongodb-persistence@1.0.28?classifier=sources
 - pkg:maven/com.github.ifrugal/mongodb-persistence@1.0.29
 - pkg:maven/com.github.ifrugal/mongodb-persistence@1.0.29?classifier=sources
+- pkg:maven/com.github.ifrugal/mongodb-persistence@1.0.35?classifier=sources
 - pkg:maven/com.github.ifrugal/mongodb-persistence@1.0.7
 - pkg:maven/com.github.ifrugal/mongodb-persistence@1.0.7?classifier=sources
 - pkg:maven/com.github.ifrugal/mongodb-persistence@1.0.8

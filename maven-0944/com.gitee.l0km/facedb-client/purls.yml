@@ -38,3 +38,4 @@
 - pkg:maven/com.gitee.l0km/facedb-client@3.1.0?classifier=sources
 - pkg:maven/com.gitee.l0km/facedb-client@3.2.0
 - pkg:maven/com.gitee.l0km/facedb-client@3.2.0?classifier=sources
+- pkg:maven/com.gitee.l0km/facedb-client@3.3.0?classifier=sources

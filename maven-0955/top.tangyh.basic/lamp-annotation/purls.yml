@@ -38,3 +38,5 @@
 - pkg:maven/top.tangyh.basic/lamp-annotation@5.0.8?classifier=sources
 - pkg:maven/top.tangyh.basic/lamp-annotation@5.3.0
 - pkg:maven/top.tangyh.basic/lamp-annotation@5.3.0?classifier=sources
+- pkg:maven/top.tangyh.basic/lamp-annotation@5.3.1
+- pkg:maven/top.tangyh.basic/lamp-annotation@5.3.1?classifier=sources

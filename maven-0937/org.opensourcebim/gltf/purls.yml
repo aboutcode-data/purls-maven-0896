@@ -109,6 +109,7 @@
 - pkg:maven/org.opensourcebim/gltf@0.0.63?classifier=sources
 - pkg:maven/org.opensourcebim/gltf@0.0.64
 - pkg:maven/org.opensourcebim/gltf@0.0.64?classifier=sources
+- pkg:maven/org.opensourcebim/gltf@0.0.65?classifier=sources
 - pkg:maven/org.opensourcebim/gltf@0.0.6?classifier=sources
 - pkg:maven/org.opensourcebim/gltf@0.0.7
 - pkg:maven/org.opensourcebim/gltf@0.0.7?classifier=sources

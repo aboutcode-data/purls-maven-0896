@@ -1,2 +1,4 @@
 - pkg:maven/net.risesoft/risenet-y9boot-api-feignclient-webmail@v9.6.7
 - pkg:maven/net.risesoft/risenet-y9boot-api-feignclient-webmail@v9.6.7?classifier=sources
+- pkg:maven/net.risesoft/risenet-y9boot-api-feignclient-webmail@v9.6.8
+- pkg:maven/net.risesoft/risenet-y9boot-api-feignclient-webmail@v9.6.8?classifier=sources

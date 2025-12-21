@@ -3,3 +3,4 @@
 - pkg:maven/de.kempmobil.ktor.mqtt/mqtt-client@0.5.1?classifier=sources
 - pkg:maven/de.kempmobil.ktor.mqtt/mqtt-client@0.6.0?classifier=sources
 - pkg:maven/de.kempmobil.ktor.mqtt/mqtt-client@0.6.1?classifier=sources
+- pkg:maven/de.kempmobil.ktor.mqtt/mqtt-client@0.6.2?classifier=sources

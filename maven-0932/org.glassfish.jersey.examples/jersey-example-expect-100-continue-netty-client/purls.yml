@@ -1,2 +1,4 @@
 - pkg:maven/org.glassfish.jersey.examples/jersey-example-expect-100-continue-netty-client@2.47
 - pkg:maven/org.glassfish.jersey.examples/jersey-example-expect-100-continue-netty-client@2.47?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/jersey-example-expect-100-continue-netty-client@3.0.18
+- pkg:maven/org.glassfish.jersey.examples/jersey-example-expect-100-continue-netty-client@3.0.18?classifier=sources

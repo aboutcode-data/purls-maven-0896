@@ -1,3 +1,4 @@
+- pkg:maven/org.javastro.ivoa/ivoa-entities@0.9.10?classifier=sources
 - pkg:maven/org.javastro.ivoa/ivoa-entities@0.9.6
 - pkg:maven/org.javastro.ivoa/ivoa-entities@0.9.6?classifier=sources
 - pkg:maven/org.javastro.ivoa/ivoa-entities@0.9.8

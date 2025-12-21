@@ -10,6 +10,10 @@
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.14?classifier=sources
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.15
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.15?classifier=sources
+- pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.16
+- pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.16?classifier=sources
+- pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.17
+- pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.17?classifier=sources
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.4
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.4?classifier=sources
 - pkg:maven/com.byteplus/byteplus-java-sdk-v2-ecs@0.1.5

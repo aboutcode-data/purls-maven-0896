@@ -4,3 +4,5 @@
 - pkg:maven/me.proton.core/device-migration-dagger@32.0.2?classifier=sources
 - pkg:maven/me.proton.core/device-migration-dagger@32.1.0?classifier=sources
 - pkg:maven/me.proton.core/device-migration-dagger@32.2.0?classifier=sources
+- pkg:maven/me.proton.core/device-migration-dagger@33.0.0?classifier=sources
+- pkg:maven/me.proton.core/device-migration-dagger@33.0.2?classifier=sources

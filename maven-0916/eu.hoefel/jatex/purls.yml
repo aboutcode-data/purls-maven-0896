@@ -14,3 +14,5 @@
 - pkg:maven/eu.hoefel/jatex@1.3.3?classifier=sources
 - pkg:maven/eu.hoefel/jatex@1.3.4
 - pkg:maven/eu.hoefel/jatex@1.3.4?classifier=sources
+- pkg:maven/eu.hoefel/jatex@1.3.5
+- pkg:maven/eu.hoefel/jatex@1.3.5?classifier=sources

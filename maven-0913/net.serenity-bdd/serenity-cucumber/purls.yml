@@ -477,6 +477,8 @@
 - pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.32?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.33
 - pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.33?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.34
+- pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.34?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.3?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.4
 - pkg:maven/net.serenity-bdd/serenity-cucumber@4.2.4?classifier=sources

@@ -146,3 +146,5 @@
 - pkg:maven/org.redisson/redisson-micronaut-30@3.48.0?classifier=sources
 - pkg:maven/org.redisson/redisson-micronaut-30@3.49.0
 - pkg:maven/org.redisson/redisson-micronaut-30@3.49.0?classifier=sources
+- pkg:maven/org.redisson/redisson-micronaut-30@3.50.0
+- pkg:maven/org.redisson/redisson-micronaut-30@3.50.0?classifier=sources

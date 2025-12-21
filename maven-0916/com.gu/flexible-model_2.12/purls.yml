@@ -54,3 +54,9 @@
 - pkg:maven/com.gu/flexible-model_2.12@1.7.7?classifier=sources
 - pkg:maven/com.gu/flexible-model_2.12@1.7.8
 - pkg:maven/com.gu/flexible-model_2.12@1.7.8?classifier=sources
+- pkg:maven/com.gu/flexible-model_2.12@1.7.9
+- pkg:maven/com.gu/flexible-model_2.12@1.7.9-PREVIEW.bump-scrooge-to-2210.2025-06-18T1617.301b2254
+- pkg:maven/com.gu/flexible-model_2.12@1.7.9-PREVIEW.bump-scrooge-to-2210.2025-06-18T1617.301b2254?classifier=sources
+- pkg:maven/com.gu/flexible-model_2.12@1.7.9-PREVIEW.bump-scrooge-to-2210.2025-06-20T1352.ac46962f
+- pkg:maven/com.gu/flexible-model_2.12@1.7.9-PREVIEW.bump-scrooge-to-2210.2025-06-20T1352.ac46962f?classifier=sources
+- pkg:maven/com.gu/flexible-model_2.12@1.7.9?classifier=sources

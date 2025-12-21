@@ -25,6 +25,7 @@
 - pkg:maven/org.webjars.npm/preact@10.26.4
 - pkg:maven/org.webjars.npm/preact@10.26.6
 - pkg:maven/org.webjars.npm/preact@10.26.7
+- pkg:maven/org.webjars.npm/preact@10.26.9
 - pkg:maven/org.webjars.npm/preact@10.4.4
 - pkg:maven/org.webjars.npm/preact@10.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/preact@10.5.13

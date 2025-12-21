@@ -36,3 +36,5 @@
 - pkg:maven/com.google.apis/google-api-services-workspaceevents@v1-rev20250420-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workspaceevents@v1-rev20250427-2.0.0
 - pkg:maven/com.google.apis/google-api-services-workspaceevents@v1-rev20250427-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workspaceevents@v1-rev20250615-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workspaceevents@v1-rev20250615-2.0.0?classifier=sources

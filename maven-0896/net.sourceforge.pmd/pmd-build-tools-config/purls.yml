@@ -53,6 +53,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-build-tools-config@3
 - pkg:maven/net.sourceforge.pmd/pmd-build-tools-config@30
 - pkg:maven/net.sourceforge.pmd/pmd-build-tools-config@30?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-build-tools-config@32?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-build-tools-config@3?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-build-tools-config@5
 - pkg:maven/net.sourceforge.pmd/pmd-build-tools-config@5?classifier=sources

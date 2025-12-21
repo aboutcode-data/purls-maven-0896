@@ -48,3 +48,4 @@
 - pkg:maven/com.bazaarvoice.ostrich.examples.dictionary/dictionary-user@2.0.2?classifier=sources
 - pkg:maven/com.bazaarvoice.ostrich.examples.dictionary/dictionary-user@2.1.0
 - pkg:maven/com.bazaarvoice.ostrich.examples.dictionary/dictionary-user@2.1.0?classifier=sources
+- pkg:maven/com.bazaarvoice.ostrich.examples.dictionary/dictionary-user@2.1.1?classifier=sources

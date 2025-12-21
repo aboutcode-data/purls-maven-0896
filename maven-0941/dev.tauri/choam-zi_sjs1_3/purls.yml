@@ -20,6 +20,8 @@
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.4.12?classifier=sources
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-0a338cb
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-0a338cb?classifier=sources
+- pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-1436738
+- pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-1436738?classifier=sources
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-1bbdb4c
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-1bbdb4c?classifier=sources
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-2b409b0
@@ -28,6 +30,8 @@
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-4c4b98d?classifier=sources
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-5a1007c
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-5a1007c?classifier=sources
+- pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-62d65d5
+- pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-62d65d5?classifier=sources
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-8260456
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-8260456?classifier=sources
 - pkg:maven/dev.tauri/choam-zi_sjs1_3@0.5-c6fd41c

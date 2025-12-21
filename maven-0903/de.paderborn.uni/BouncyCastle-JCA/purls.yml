@@ -20,3 +20,5 @@
 - pkg:maven/de.paderborn.uni/BouncyCastle-JCA@3.1.2?classifier=sources
 - pkg:maven/de.paderborn.uni/BouncyCastle-JCA@3.1.3
 - pkg:maven/de.paderborn.uni/BouncyCastle-JCA@3.1.3?classifier=sources
+- pkg:maven/de.paderborn.uni/BouncyCastle-JCA@3.1.6
+- pkg:maven/de.paderborn.uni/BouncyCastle-JCA@3.1.6?classifier=sources

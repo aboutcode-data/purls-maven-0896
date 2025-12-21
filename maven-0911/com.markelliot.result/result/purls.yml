@@ -1,4 +1,5 @@
 - pkg:maven/com.markelliot.result/result@0.10.0?classifier=sources
+- pkg:maven/com.markelliot.result/result@0.119.1?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.12.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.13.0?classifier=sources
 - pkg:maven/com.markelliot.result/result@0.14.0?classifier=sources

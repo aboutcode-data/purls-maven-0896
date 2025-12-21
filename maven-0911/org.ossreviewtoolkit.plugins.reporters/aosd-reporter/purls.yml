@@ -50,3 +50,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@59.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@60.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@61.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@61.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@61.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/aosd-reporter@62.1.0?classifier=sources

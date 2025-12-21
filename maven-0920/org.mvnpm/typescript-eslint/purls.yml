@@ -18,3 +18,9 @@
 - pkg:maven/org.mvnpm/typescript-eslint@8.33.1?classifier=sources
 - pkg:maven/org.mvnpm/typescript-eslint@8.34.0
 - pkg:maven/org.mvnpm/typescript-eslint@8.34.0?classifier=sources
+- pkg:maven/org.mvnpm/typescript-eslint@8.34.1
+- pkg:maven/org.mvnpm/typescript-eslint@8.34.1?classifier=sources
+- pkg:maven/org.mvnpm/typescript-eslint@8.35.0
+- pkg:maven/org.mvnpm/typescript-eslint@8.35.0?classifier=sources
+- pkg:maven/org.mvnpm/typescript-eslint@8.35.1
+- pkg:maven/org.mvnpm/typescript-eslint@8.35.1?classifier=sources

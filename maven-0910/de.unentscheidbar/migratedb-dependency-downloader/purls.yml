@@ -12,3 +12,4 @@
 - pkg:maven/de.unentscheidbar/migratedb-dependency-downloader@1.4.0?classifier=sources
 - pkg:maven/de.unentscheidbar/migratedb-dependency-downloader@1.4.1
 - pkg:maven/de.unentscheidbar/migratedb-dependency-downloader@1.4.1?classifier=sources
+- pkg:maven/de.unentscheidbar/migratedb-dependency-downloader@1.5.0?classifier=sources
