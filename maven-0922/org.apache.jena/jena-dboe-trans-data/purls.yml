@@ -68,3 +68,5 @@
 - pkg:maven/org.apache.jena/jena-dboe-trans-data@5.4.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-dboe-trans-data@5.5.0
 - pkg:maven/org.apache.jena/jena-dboe-trans-data@5.5.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-dboe-trans-data@5.6.0
+- pkg:maven/org.apache.jena/jena-dboe-trans-data@5.6.0?classifier=sources

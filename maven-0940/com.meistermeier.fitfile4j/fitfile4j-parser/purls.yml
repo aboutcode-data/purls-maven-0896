@@ -1,3 +1,4 @@
 - pkg:maven/com.meistermeier.fitfile4j/fitfile4j-parser@1.0.0?classifier=sources
 - pkg:maven/com.meistermeier.fitfile4j/fitfile4j-parser@2.0.0?classifier=sources
 - pkg:maven/com.meistermeier.fitfile4j/fitfile4j-parser@2.0.1?classifier=sources
+- pkg:maven/com.meistermeier.fitfile4j/fitfile4j-parser@2.1.0?classifier=sources

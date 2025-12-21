@@ -4,3 +4,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.auth.oauth-client@0.1.2
 - pkg:maven/org.apache.sling/org.apache.sling.auth.oauth-client@0.1.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.auth.oauth-client@0.1.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.auth.oauth-client@0.1.4
+- pkg:maven/org.apache.sling/org.apache.sling.auth.oauth-client@0.1.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.auth.oauth-client@0.1.4?classifier=sources

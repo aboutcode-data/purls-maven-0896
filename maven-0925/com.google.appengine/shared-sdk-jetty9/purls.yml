@@ -39,3 +39,4 @@
 - pkg:maven/com.google.appengine/shared-sdk-jetty9@2.0.39-beta?classifier=sources
 - pkg:maven/com.google.appengine/shared-sdk-jetty9@2.0.39?classifier=sources
 - pkg:maven/com.google.appengine/shared-sdk-jetty9@3.0.0-beta?classifier=sources
+- pkg:maven/com.google.appengine/shared-sdk-jetty9@3.0.1?classifier=sources

@@ -34,3 +34,5 @@
 - pkg:maven/com.kosdev.kos.core/core.commons.kab@1.7.0?classifier=sources
 - pkg:maven/com.kosdev.kos.core/core.commons.kab@1.8.0
 - pkg:maven/com.kosdev.kos.core/core.commons.kab@1.8.0?classifier=sources
+- pkg:maven/com.kosdev.kos.core/core.commons.kab@1.8.1
+- pkg:maven/com.kosdev.kos.core/core.commons.kab@1.8.1?classifier=sources

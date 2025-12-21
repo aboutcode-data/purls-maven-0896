@@ -78,6 +78,12 @@
 - pkg:maven/com.outr/lightdb-sql_3@4.1.0?classifier=sources
 - pkg:maven/com.outr/lightdb-sql_3@4.10.0
 - pkg:maven/com.outr/lightdb-sql_3@4.10.0?classifier=sources
+- pkg:maven/com.outr/lightdb-sql_3@4.11.0
+- pkg:maven/com.outr/lightdb-sql_3@4.11.0?classifier=sources
+- pkg:maven/com.outr/lightdb-sql_3@4.11.1
+- pkg:maven/com.outr/lightdb-sql_3@4.11.1?classifier=sources
+- pkg:maven/com.outr/lightdb-sql_3@4.11.2
+- pkg:maven/com.outr/lightdb-sql_3@4.11.2?classifier=sources
 - pkg:maven/com.outr/lightdb-sql_3@4.2.0
 - pkg:maven/com.outr/lightdb-sql_3@4.2.0?classifier=sources
 - pkg:maven/com.outr/lightdb-sql_3@4.2.1

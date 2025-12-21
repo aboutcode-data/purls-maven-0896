@@ -4,3 +4,5 @@
 - pkg:maven/dev.syncended/kube-spring@0.3.2?classifier=sources
 - pkg:maven/dev.syncended/kube-spring@0.3.3?classifier=sources
 - pkg:maven/dev.syncended/kube-spring@0.3.4?classifier=sources
+- pkg:maven/dev.syncended/kube-spring@0.4.0?classifier=sources
+- pkg:maven/dev.syncended/kube-spring@0.4.1?classifier=sources

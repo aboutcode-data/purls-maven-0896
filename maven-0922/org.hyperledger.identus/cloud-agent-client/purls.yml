@@ -1,2 +1,3 @@
 - pkg:maven/org.hyperledger.identus/cloud-agent-client@1.40.1-31e679e?classifier=sources
 - pkg:maven/org.hyperledger.identus/cloud-agent-client@2.0.0?classifier=sources
+- pkg:maven/org.hyperledger.identus/cloud-agent-client@2.1.0?classifier=sources

@@ -39,3 +39,4 @@
 - pkg:maven/org.imixs.bpmn/open-bpmn.metamodel@1.2.6
 - pkg:maven/org.imixs.bpmn/open-bpmn.metamodel@1.2.6?classifier=sources
 - pkg:maven/org.imixs.bpmn/open-bpmn.metamodel@1.2.7?classifier=sources
+- pkg:maven/org.imixs.bpmn/open-bpmn.metamodel@1.2.8?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/org.finos.rune/rune-xcore-plugin-dependencies@9.67.7?classifier=sources
 - pkg:maven/org.finos.rune/rune-xcore-plugin-dependencies@9.67.8?classifier=sources
 - pkg:maven/org.finos.rune/rune-xcore-plugin-dependencies@9.67.9?classifier=sources
+- pkg:maven/org.finos.rune/rune-xcore-plugin-dependencies@9.68.0?classifier=sources
+- pkg:maven/org.finos.rune/rune-xcore-plugin-dependencies@9.68.1?classifier=sources

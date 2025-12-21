@@ -24,3 +24,4 @@
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.showcase.portlet@5.0.0?type=war
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.showcase.portlet@6.0.0?classifier=sources
 - pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.showcase.portlet@6.0.0?type=war
+- pkg:maven/com.liferay.faces.demo/com.liferay.faces.demo.jsf.showcase.portlet@6.0.1?classifier=sources

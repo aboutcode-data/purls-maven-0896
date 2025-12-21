@@ -2,3 +2,5 @@
 - pkg:maven/io.kevinlee/effectie-time_3@2.0.0-beta14
 - pkg:maven/io.kevinlee/effectie-time_3@2.0.0-beta14?classifier=sources
 - pkg:maven/io.kevinlee/effectie-time_3@2.0.0?classifier=sources
+- pkg:maven/io.kevinlee/effectie-time_3@2.1.0
+- pkg:maven/io.kevinlee/effectie-time_3@2.1.0?classifier=sources

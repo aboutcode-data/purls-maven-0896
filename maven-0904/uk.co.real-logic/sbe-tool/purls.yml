@@ -100,6 +100,7 @@
 - pkg:maven/uk.co.real-logic/sbe-tool@1.35.5?classifier=sources
 - pkg:maven/uk.co.real-logic/sbe-tool@1.35.6?classifier=sources
 - pkg:maven/uk.co.real-logic/sbe-tool@1.36.0?classifier=sources
+- pkg:maven/uk.co.real-logic/sbe-tool@1.36.1?classifier=sources
 - pkg:maven/uk.co.real-logic/sbe-tool@1.4.0-RC4
 - pkg:maven/uk.co.real-logic/sbe-tool@1.4.0-RC4?classifier=sources
 - pkg:maven/uk.co.real-logic/sbe-tool@1.4.1-RC4

@@ -3,3 +3,4 @@
 - pkg:maven/org.graylog/jadconfig@0.15.0
 - pkg:maven/org.graylog/jadconfig@0.15.0?classifier=sources
 - pkg:maven/org.graylog/jadconfig@0.16.0?classifier=sources
+- pkg:maven/org.graylog/jadconfig@1.0.0?classifier=sources

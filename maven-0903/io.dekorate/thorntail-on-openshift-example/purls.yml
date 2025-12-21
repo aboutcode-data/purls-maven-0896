@@ -17,3 +17,4 @@
 - pkg:maven/io.dekorate/thorntail-on-openshift-example@2.0.0-alpha-1?classifier=sources
 - pkg:maven/io.dekorate/thorntail-on-openshift-example@2.0.0-alpha-1?type=war
 - pkg:maven/io.dekorate/thorntail-on-openshift-example@4.1.6?classifier=sources
+- pkg:maven/io.dekorate/thorntail-on-openshift-example@4.1.7?classifier=sources

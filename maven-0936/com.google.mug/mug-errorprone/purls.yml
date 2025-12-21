@@ -23,3 +23,4 @@
 - pkg:maven/com.google.mug/mug-errorprone@9.0?classifier=sources
 - pkg:maven/com.google.mug/mug-errorprone@9.1?classifier=sources
 - pkg:maven/com.google.mug/mug-errorprone@9.2?classifier=sources
+- pkg:maven/com.google.mug/mug-errorprone@9.3?classifier=sources

@@ -148,3 +148,5 @@
 - pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20250414-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20250519-2.0.0
 - pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20250519-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20251008-2.0.0
+- pkg:maven/com.google.apis/google-api-services-baremetalsolution@v2-rev20251008-2.0.0?classifier=sources

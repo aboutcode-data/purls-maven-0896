@@ -6,6 +6,8 @@
 - pkg:maven/fr.abes.api-communes/AccesCbs@2.5.13
 - pkg:maven/fr.abes.api-communes/AccesCbs@2.5.130?classifier=sources
 - pkg:maven/fr.abes.api-communes/AccesCbs@2.5.131?classifier=sources
+- pkg:maven/fr.abes.api-communes/AccesCbs@2.5.132?classifier=sources
+- pkg:maven/fr.abes.api-communes/AccesCbs@2.5.133?classifier=sources
 - pkg:maven/fr.abes.api-communes/AccesCbs@2.5.13?classifier=sources
 - pkg:maven/fr.abes.api-communes/AccesCbs@2.5.16
 - pkg:maven/fr.abes.api-communes/AccesCbs@2.5.16?classifier=sources

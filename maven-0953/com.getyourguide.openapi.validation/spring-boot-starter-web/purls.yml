@@ -29,3 +29,4 @@
 - pkg:maven/com.getyourguide.openapi.validation/spring-boot-starter-web@3.3.0?classifier=sources
 - pkg:maven/com.getyourguide.openapi.validation/spring-boot-starter-web@3.3.1?classifier=sources
 - pkg:maven/com.getyourguide.openapi.validation/spring-boot-starter-web@3.3.2?classifier=sources
+- pkg:maven/com.getyourguide.openapi.validation/spring-boot-starter-web@3.4.0?classifier=sources

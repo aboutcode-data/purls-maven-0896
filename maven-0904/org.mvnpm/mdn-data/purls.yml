@@ -14,3 +14,5 @@
 - pkg:maven/org.mvnpm/mdn-data@2.23.0?classifier=sources
 - pkg:maven/org.mvnpm/mdn-data@2.24.0
 - pkg:maven/org.mvnpm/mdn-data@2.24.0?classifier=sources
+- pkg:maven/org.mvnpm/mdn-data@2.25.0
+- pkg:maven/org.mvnpm/mdn-data@2.25.0?classifier=sources

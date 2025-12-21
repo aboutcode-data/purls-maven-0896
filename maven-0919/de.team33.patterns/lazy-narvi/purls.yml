@@ -60,6 +60,7 @@
 - pkg:maven/de.team33.patterns/lazy-narvi@1.24.1?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@1.25.0
 - pkg:maven/de.team33.patterns/lazy-narvi@1.25.0?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@1.26.0?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@1.9.0
 - pkg:maven/de.team33.patterns/lazy-narvi@1.9.0?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@2.0.3
@@ -72,3 +73,6 @@
 - pkg:maven/de.team33.patterns/lazy-narvi@2.1.3?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@2.2.0?classifier=sources
 - pkg:maven/de.team33.patterns/lazy-narvi@2.3.0?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@2.4.0?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@2.4.1?classifier=sources
+- pkg:maven/de.team33.patterns/lazy-narvi@2.5.0?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/org.mvnpm/typescript-eslint@8.45.0?classifier=sources
 - pkg:maven/org.mvnpm/typescript-eslint@8.46.0
 - pkg:maven/org.mvnpm/typescript-eslint@8.46.0?classifier=sources
+- pkg:maven/org.mvnpm/typescript-eslint@8.46.1
+- pkg:maven/org.mvnpm/typescript-eslint@8.46.1?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-dependencies-resolution-shadowed@0.15.2-696-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-dependencies-resolution-shadowed@0.15.2-699-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-dependencies-resolution-shadowed@0.15.2-702-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-dependencies-resolution-shadowed@0.15.2-706-1?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-dependencies-resolution-shadowed@0.16.0-717?classifier=sources

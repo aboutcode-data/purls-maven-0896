@@ -14,3 +14,4 @@
 - pkg:maven/io.grpc/grpc-gcp-csm-observability@1.73.0?classifier=sources
 - pkg:maven/io.grpc/grpc-gcp-csm-observability@1.74.0?classifier=sources
 - pkg:maven/io.grpc/grpc-gcp-csm-observability@1.75.0?classifier=sources
+- pkg:maven/io.grpc/grpc-gcp-csm-observability@1.76.0?classifier=sources

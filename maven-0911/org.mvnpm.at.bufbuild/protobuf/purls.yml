@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.10.0
+- pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.10.0?classifier=sources
 - pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.2.4?classifier=sources
 - pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.2.5?classifier=sources
 - pkg:maven/org.mvnpm.at.bufbuild/protobuf@2.3.0

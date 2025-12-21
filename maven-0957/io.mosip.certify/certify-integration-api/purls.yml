@@ -8,6 +8,7 @@
 - pkg:maven/io.mosip.certify/certify-integration-api@0.11.0?classifier=sources
 - pkg:maven/io.mosip.certify/certify-integration-api@0.12.0?classifier=sources
 - pkg:maven/io.mosip.certify/certify-integration-api@0.12.1?classifier=sources
+- pkg:maven/io.mosip.certify/certify-integration-api@0.12.2?classifier=sources
 - pkg:maven/io.mosip.certify/certify-integration-api@0.9.0
 - pkg:maven/io.mosip.certify/certify-integration-api@0.9.0?classifier=sources
 - pkg:maven/io.mosip.certify/certify-integration-api@0.9.1

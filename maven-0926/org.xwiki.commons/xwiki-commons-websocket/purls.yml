@@ -240,6 +240,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.11?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.12?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.13?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.14?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@16.10.2?classifier=sources
@@ -335,6 +337,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.4.3?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.4.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.4.5?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.4.6?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.4.7?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.5.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.6.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.6.0?classifier=sources
@@ -342,3 +346,5 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.7.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.8.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.8.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.9.0-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-websocket@17.9.0?classifier=sources

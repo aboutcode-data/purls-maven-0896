@@ -1,1 +1,2 @@
 - pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-kotlin-android@0.1.4?classifier=sources
+- pkg:maven/io.embrace.opentelemetry.kotlin/opentelemetry-kotlin-android@0.7.0?classifier=sources

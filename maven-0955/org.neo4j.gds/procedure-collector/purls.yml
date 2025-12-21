@@ -43,6 +43,8 @@
 - pkg:maven/org.neo4j.gds/procedure-collector@2.21.0?classifier=sources
 - pkg:maven/org.neo4j.gds/procedure-collector@2.22.0
 - pkg:maven/org.neo4j.gds/procedure-collector@2.22.0?classifier=sources
+- pkg:maven/org.neo4j.gds/procedure-collector@2.23.0
+- pkg:maven/org.neo4j.gds/procedure-collector@2.23.0?classifier=sources
 - pkg:maven/org.neo4j.gds/procedure-collector@2.3.0-alpha01?classifier=sources
 - pkg:maven/org.neo4j.gds/procedure-collector@2.3.0-alpha02?classifier=sources
 - pkg:maven/org.neo4j.gds/procedure-collector@2.3.0-alpha03?classifier=sources

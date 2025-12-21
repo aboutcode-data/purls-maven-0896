@@ -568,6 +568,8 @@
 - pkg:maven/com.netease.nimlib/lucene@9.19.0?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.19.100?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.19.100?type=aar
+- pkg:maven/com.netease.nimlib/lucene@9.19.101?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@9.19.101?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.19.10?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.19.10?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.19.11?classifier=sources
@@ -610,6 +612,8 @@
 - pkg:maven/com.netease.nimlib/lucene@9.20.15?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.20.16?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.20.16?type=aar
+- pkg:maven/com.netease.nimlib/lucene@9.20.17?classifier=sources
+- pkg:maven/com.netease.nimlib/lucene@9.20.17?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.20.1?classifier=sources
 - pkg:maven/com.netease.nimlib/lucene@9.20.1?type=aar
 - pkg:maven/com.netease.nimlib/lucene@9.3.0?classifier=sources

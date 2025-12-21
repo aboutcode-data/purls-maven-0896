@@ -75,4 +75,6 @@
 - pkg:maven/io.lighty.modules.gnmi/lighty-gnmi-proto@21.1.0?classifier=sources
 - pkg:maven/io.lighty.modules.gnmi/lighty-gnmi-proto@21.2.0
 - pkg:maven/io.lighty.modules.gnmi/lighty-gnmi-proto@21.2.0?classifier=sources
+- pkg:maven/io.lighty.modules.gnmi/lighty-gnmi-proto@21.3.0?classifier=sources
 - pkg:maven/io.lighty.modules.gnmi/lighty-gnmi-proto@22.0.0?classifier=sources
+- pkg:maven/io.lighty.modules.gnmi/lighty-gnmi-proto@22.1.0?classifier=sources

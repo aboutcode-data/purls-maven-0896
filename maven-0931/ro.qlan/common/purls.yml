@@ -1,0 +1,3 @@
+- pkg:maven/ro.qlan/common@1.3.0?classifier=sources
+- pkg:maven/ro.qlan/common@1.4.0?classifier=sources
+- pkg:maven/ro.qlan/common@1.5.0?classifier=sources

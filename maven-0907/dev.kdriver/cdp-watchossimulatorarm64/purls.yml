@@ -34,3 +34,4 @@
 - pkg:maven/dev.kdriver/cdp-watchossimulatorarm64@0.2.8?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchossimulatorarm64@0.2.9?classifier=sources
 - pkg:maven/dev.kdriver/cdp-watchossimulatorarm64@0.3.0?classifier=sources
+- pkg:maven/dev.kdriver/cdp-watchossimulatorarm64@0.3.1?classifier=sources

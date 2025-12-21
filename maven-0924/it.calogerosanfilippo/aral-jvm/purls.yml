@@ -1,2 +1,4 @@
 - pkg:maven/it.calogerosanfilippo/aral-jvm@0.3.0?classifier=sources
 - pkg:maven/it.calogerosanfilippo/aral-jvm@0.4.0?classifier=sources
+- pkg:maven/it.calogerosanfilippo/aral-jvm@0.4.1?classifier=sources
+- pkg:maven/it.calogerosanfilippo/aral-jvm@0.5.0?classifier=sources

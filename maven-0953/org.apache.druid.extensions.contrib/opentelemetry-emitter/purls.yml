@@ -38,3 +38,5 @@
 - pkg:maven/org.apache.druid.extensions.contrib/opentelemetry-emitter@33.0.0?classifier=sources
 - pkg:maven/org.apache.druid.extensions.contrib/opentelemetry-emitter@34.0.0
 - pkg:maven/org.apache.druid.extensions.contrib/opentelemetry-emitter@34.0.0?classifier=sources
+- pkg:maven/org.apache.druid.extensions.contrib/opentelemetry-emitter@35.0.0
+- pkg:maven/org.apache.druid.extensions.contrib/opentelemetry-emitter@35.0.0?classifier=sources

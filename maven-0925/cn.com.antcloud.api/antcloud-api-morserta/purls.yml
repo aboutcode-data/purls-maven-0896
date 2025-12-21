@@ -1,2 +1,4 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-morserta@3.0.4
 - pkg:maven/cn.com.antcloud.api/antcloud-api-morserta@3.0.4?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-morserta@5.0.0?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-morserta@6.0.0?classifier=sources

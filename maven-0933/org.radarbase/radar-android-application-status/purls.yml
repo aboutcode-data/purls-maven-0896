@@ -7,3 +7,5 @@
 - pkg:maven/org.radarbase/radar-android-application-status@1.2.3?classifier=sources
 - pkg:maven/org.radarbase/radar-android-application-status@1.2.5?classifier=sources
 - pkg:maven/org.radarbase/radar-android-application-status@1.4.1?classifier=sources
+- pkg:maven/org.radarbase/radar-android-application-status@1.5.1?classifier=sources
+- pkg:maven/org.radarbase/radar-android-application-status@1.5.3?classifier=sources

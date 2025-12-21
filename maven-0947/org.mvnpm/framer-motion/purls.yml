@@ -47,6 +47,8 @@
 - pkg:maven/org.mvnpm/framer-motion@12.23.12?classifier=sources
 - pkg:maven/org.mvnpm/framer-motion@12.23.1?classifier=sources
 - pkg:maven/org.mvnpm/framer-motion@12.23.2
+- pkg:maven/org.mvnpm/framer-motion@12.23.24
+- pkg:maven/org.mvnpm/framer-motion@12.23.24?classifier=sources
 - pkg:maven/org.mvnpm/framer-motion@12.23.2?classifier=sources
 - pkg:maven/org.mvnpm/framer-motion@12.23.3
 - pkg:maven/org.mvnpm/framer-motion@12.23.3?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/com.bolyartech.forge.server/forge-server@21.2.0?classifier=sources
 - pkg:maven/com.bolyartech.forge.server/forge-server@21.3.0?classifier=sources
 - pkg:maven/com.bolyartech.forge.server/forge-server@21.3.1?classifier=sources
+- pkg:maven/com.bolyartech.forge.server/forge-server@21.3.3?classifier=sources

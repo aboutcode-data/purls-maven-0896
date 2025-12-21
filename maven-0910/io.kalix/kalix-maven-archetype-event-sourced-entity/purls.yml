@@ -23,6 +23,8 @@
 - pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.17-5-3ae566fe?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.17?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.18-1-6c0c0a5e?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.18-10-edb7288d?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.18-2-1efb11ee?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.18-3-84145e06?classifier=sources
 - pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.18?classifier=sources
+- pkg:maven/io.kalix/kalix-maven-archetype-event-sourced-entity@1.5.19?classifier=sources

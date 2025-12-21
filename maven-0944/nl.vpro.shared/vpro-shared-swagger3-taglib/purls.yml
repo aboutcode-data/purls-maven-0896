@@ -1,2 +1,4 @@
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger3-taglib@5.11.2?classifier=sources
 - pkg:maven/nl.vpro.shared/vpro-shared-swagger3-taglib@5.11.4?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger3-taglib@5.12.0?classifier=sources
+- pkg:maven/nl.vpro.shared/vpro-shared-swagger3-taglib@5.12.1?classifier=sources

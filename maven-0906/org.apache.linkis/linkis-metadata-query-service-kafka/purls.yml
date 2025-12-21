@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.linkis/linkis-metadata-query-service-kafka@1.6.0?classifier=sources
 - pkg:maven/org.apache.linkis/linkis-metadata-query-service-kafka@1.7.0
 - pkg:maven/org.apache.linkis/linkis-metadata-query-service-kafka@1.7.0?classifier=sources
+- pkg:maven/org.apache.linkis/linkis-metadata-query-service-kafka@1.8.0
+- pkg:maven/org.apache.linkis/linkis-metadata-query-service-kafka@1.8.0?classifier=sources

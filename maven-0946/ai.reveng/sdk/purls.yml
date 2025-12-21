@@ -5,5 +5,17 @@
 - pkg:maven/ai.reveng/sdk@1.99.0?classifier=sources
 - pkg:maven/ai.reveng/sdk@1.99.1?classifier=sources
 - pkg:maven/ai.reveng/sdk@2.0.0?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.0.4?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.1.0?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.11.1?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.11.7?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.12.0?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.12.1?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.13.0?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.14.1?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.4.0?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.8.0?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.9.0?classifier=sources
+- pkg:maven/ai.reveng/sdk@2.9.1?classifier=sources
 - pkg:maven/ai.reveng/sdk@v1.94.0?classifier=sources
 - pkg:maven/ai.reveng/sdk@v1.95.0?classifier=sources

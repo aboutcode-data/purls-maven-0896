@@ -46,6 +46,8 @@
 - pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.12.6?classifier=sources
 - pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.12.7
 - pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.12.7?classifier=sources
+- pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.12.8
+- pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.12.8?classifier=sources
 - pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.2.0
 - pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.2.0?classifier=sources
 - pkg:maven/za.co.absa.pramen/pramen-core_2.11@1.2.1

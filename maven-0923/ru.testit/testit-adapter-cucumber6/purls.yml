@@ -82,3 +82,5 @@
 - pkg:maven/ru.testit/testit-adapter-cucumber6@2.7.9.rc2?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-cucumber6@2.8.0?classifier=sources
 - pkg:maven/ru.testit/testit-adapter-cucumber6@2.8.1-TMS-5.5?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-cucumber6@2.8.2?classifier=sources
+- pkg:maven/ru.testit/testit-adapter-cucumber6@2.8.3?classifier=sources

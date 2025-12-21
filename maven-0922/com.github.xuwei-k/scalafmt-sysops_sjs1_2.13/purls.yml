@@ -20,5 +20,7 @@
 - pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.13@3.8.3-fork-2?classifier=sources
 - pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.13@3.8.4-fork-1
 - pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.13@3.8.4-fork-1?classifier=sources
+- pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.13@3.9.10-fork-1
+- pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.13@3.9.10-fork-1?classifier=sources
 - pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.13@3.9.6-fork-1
 - pkg:maven/com.github.xuwei-k/scalafmt-sysops_sjs1_2.13@3.9.6-fork-1?classifier=sources

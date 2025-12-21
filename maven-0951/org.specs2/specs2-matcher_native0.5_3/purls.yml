@@ -8,3 +8,5 @@
 - pkg:maven/org.specs2/specs2-matcher_native0.5_3@4.21.0?classifier=sources
 - pkg:maven/org.specs2/specs2-matcher_native0.5_3@4.22.0
 - pkg:maven/org.specs2/specs2-matcher_native0.5_3@4.22.0?classifier=sources
+- pkg:maven/org.specs2/specs2-matcher_native0.5_3@4.23.0
+- pkg:maven/org.specs2/specs2-matcher_native0.5_3@4.23.0?classifier=sources

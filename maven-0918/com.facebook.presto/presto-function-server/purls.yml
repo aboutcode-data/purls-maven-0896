@@ -3,3 +3,4 @@
 - pkg:maven/com.facebook.presto/presto-function-server@0.293
 - pkg:maven/com.facebook.presto/presto-function-server@0.293?classifier=sources
 - pkg:maven/com.facebook.presto/presto-function-server@0.294?classifier=sources
+- pkg:maven/com.facebook.presto/presto-function-server@0.295?classifier=sources

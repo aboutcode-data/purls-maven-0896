@@ -48,3 +48,4 @@
 - pkg:maven/org.openidentityplatform.commons.audit/handler-splunk@2.3.0?classifier=sources
 - pkg:maven/org.openidentityplatform.commons.audit/handler-splunk@2.4.0?classifier=sources
 - pkg:maven/org.openidentityplatform.commons.audit/handler-splunk@2.4.1?classifier=sources
+- pkg:maven/org.openidentityplatform.commons.audit/handler-splunk@3.0.1?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.8?classifier=sources
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.9
 - pkg:maven/org.apache.meecrowave/meecrowave-specs-api@1.2.9?classifier=sources
+- pkg:maven/org.apache.meecrowave/meecrowave-specs-api@2.0.0
+- pkg:maven/org.apache.meecrowave/meecrowave-specs-api@2.0.0?classifier=sources

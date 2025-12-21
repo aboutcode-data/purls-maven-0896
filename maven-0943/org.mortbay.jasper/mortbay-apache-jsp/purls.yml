@@ -2,7 +2,9 @@
 - pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@10.0.27.2?classifier=sources
 - pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@10.1.44.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@10.1.44?classifier=sources
+- pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@10.1.48?classifier=sources
 - pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@11.0.10.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@11.0.10?classifier=sources
 - pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@9.0.108.1?classifier=sources
 - pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@9.0.108?classifier=sources
+- pkg:maven/org.mortbay.jasper/mortbay-apache-jsp@9.0.111?classifier=sources

@@ -138,5 +138,6 @@
 - pkg:maven/com.applitools/eyes-common-java5@5.68.0?classifier=sources
 - pkg:maven/com.applitools/eyes-common-java5@5.68.1?classifier=sources
 - pkg:maven/com.applitools/eyes-common-java5@5.69.0?classifier=sources
+- pkg:maven/com.applitools/eyes-common-java5@5.69.3?classifier=sources
 - pkg:maven/com.applitools/eyes-common-java5@5.8.0
 - pkg:maven/com.applitools/eyes-common-java5@5.8.0?classifier=sources

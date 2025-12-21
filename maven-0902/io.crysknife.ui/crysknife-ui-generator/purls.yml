@@ -4,3 +4,4 @@
 - pkg:maven/io.crysknife.ui/crysknife-ui-generator@0.7?classifier=sources
 - pkg:maven/io.crysknife.ui/crysknife-ui-generator@0.8
 - pkg:maven/io.crysknife.ui/crysknife-ui-generator@0.8?classifier=sources
+- pkg:maven/io.crysknife.ui/crysknife-ui-generator@0.9?classifier=sources

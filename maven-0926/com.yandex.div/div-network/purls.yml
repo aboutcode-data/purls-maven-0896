@@ -3,3 +3,6 @@
 - pkg:maven/com.yandex.div/div-network@32.18.0?classifier=sources
 - pkg:maven/com.yandex.div/div-network@32.19.0?classifier=sources
 - pkg:maven/com.yandex.div/div-network@32.20.0?classifier=sources
+- pkg:maven/com.yandex.div/div-network@32.21.0?classifier=sources
+- pkg:maven/com.yandex.div/div-network@32.22.0?classifier=sources
+- pkg:maven/com.yandex.div/div-network@32.23.0?classifier=sources

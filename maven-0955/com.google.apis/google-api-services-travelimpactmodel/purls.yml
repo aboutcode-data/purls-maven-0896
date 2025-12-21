@@ -16,3 +16,7 @@
 - pkg:maven/com.google.apis/google-api-services-travelimpactmodel@v1-rev20250605-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-travelimpactmodel@v1-rev20250624-2.0.0
 - pkg:maven/com.google.apis/google-api-services-travelimpactmodel@v1-rev20250624-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-travelimpactmodel@v1-rev20251007-2.0.0
+- pkg:maven/com.google.apis/google-api-services-travelimpactmodel@v1-rev20251007-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-travelimpactmodel@v1-rev20251008-2.0.0
+- pkg:maven/com.google.apis/google-api-services-travelimpactmodel@v1-rev20251008-2.0.0?classifier=sources

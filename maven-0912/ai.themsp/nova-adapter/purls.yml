@@ -16,6 +16,11 @@
 - pkg:maven/ai.themsp/nova-adapter@0.9.0?classifier=sources
 - pkg:maven/ai.themsp/nova-adapter@2.0.0?classifier=sources
 - pkg:maven/ai.themsp/nova-adapter@2.1.0?classifier=sources
+- pkg:maven/ai.themsp/nova-adapter@2.10.0?classifier=sources
+- pkg:maven/ai.themsp/nova-adapter@2.11.0?classifier=sources
+- pkg:maven/ai.themsp/nova-adapter@2.12.0?classifier=sources
+- pkg:maven/ai.themsp/nova-adapter@2.12.1-newsbreak-msp-migration?classifier=sources
+- pkg:maven/ai.themsp/nova-adapter@2.12.2-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/nova-adapter@2.2.0?classifier=sources
 - pkg:maven/ai.themsp/nova-adapter@2.2.1?classifier=sources
 - pkg:maven/ai.themsp/nova-adapter@2.2.2?classifier=sources
@@ -40,3 +45,4 @@
 - pkg:maven/ai.themsp/nova-adapter@2.7.3-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/nova-adapter@2.7.4-newsbreak-msp-migration?classifier=sources
 - pkg:maven/ai.themsp/nova-adapter@2.8.0?classifier=sources
+- pkg:maven/ai.themsp/nova-adapter@2.9.0?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.47.0
 - pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.47.0?classifier=sources
 - pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.48.0?classifier=sources
+- pkg:maven/com.hcl.domino/domino-jnx-jna-r12@1.49.0?classifier=sources

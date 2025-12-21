@@ -7,3 +7,4 @@
 - pkg:maven/com.codenameone/qrscanner-common@2.0.4
 - pkg:maven/com.codenameone/qrscanner-common@2.0.4?classifier=sources
 - pkg:maven/com.codenameone/qrscanner-common@2.0.5?classifier=sources
+- pkg:maven/com.codenameone/qrscanner-common@2.0.6?classifier=sources

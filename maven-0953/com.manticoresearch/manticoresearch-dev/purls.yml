@@ -10,3 +10,4 @@
 - pkg:maven/com.manticoresearch/manticoresearch-dev@7.0.0?classifier=sources
 - pkg:maven/com.manticoresearch/manticoresearch-dev@8.0.0?classifier=sources
 - pkg:maven/com.manticoresearch/manticoresearch-dev@8.1.0?classifier=sources
+- pkg:maven/com.manticoresearch/manticoresearch-dev@9.0.0?classifier=sources

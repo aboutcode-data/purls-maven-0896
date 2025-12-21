@@ -24,3 +24,4 @@
 - pkg:maven/io.github.charlietap.chasm/sse2-jvm@0.9.81?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/sse2-jvm@1.0.0?classifier=sources
 - pkg:maven/io.github.charlietap.chasm/sse2-jvm@1.1.0?classifier=sources
+- pkg:maven/io.github.charlietap.chasm/sse2-jvm@1.2.0?classifier=sources

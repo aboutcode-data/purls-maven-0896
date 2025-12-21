@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm.at.tailwindcss/oxide-darwin-arm64@4.1.14
+- pkg:maven/org.mvnpm.at.tailwindcss/oxide-darwin-arm64@4.1.14?classifier=sources
+- pkg:maven/org.mvnpm.at.tailwindcss/oxide-darwin-arm64@4.1.16
+- pkg:maven/org.mvnpm.at.tailwindcss/oxide-darwin-arm64@4.1.16?classifier=sources

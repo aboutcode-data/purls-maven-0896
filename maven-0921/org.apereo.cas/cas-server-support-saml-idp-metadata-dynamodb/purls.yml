@@ -14,3 +14,4 @@
 - pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.3.0-RC3?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.3.0-RC4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.3.0?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.3.1?classifier=sources

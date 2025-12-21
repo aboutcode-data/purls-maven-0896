@@ -6,3 +6,4 @@
 - pkg:maven/io.mosip/vcverifier-jar@1.3.0-rc3?classifier=sources
 - pkg:maven/io.mosip/vcverifier-jar@1.3.0?classifier=sources
 - pkg:maven/io.mosip/vcverifier-jar@1.4.0?classifier=sources
+- pkg:maven/io.mosip/vcverifier-jar@1.5.0?classifier=sources

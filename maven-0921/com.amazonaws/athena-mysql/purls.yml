@@ -75,6 +75,7 @@
 - pkg:maven/com.amazonaws/athena-mysql@2025.31.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-mysql@2025.34.3?classifier=sources
 - pkg:maven/com.amazonaws/athena-mysql@2025.37.1?classifier=sources
+- pkg:maven/com.amazonaws/athena-mysql@2025.41.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-mysql@2025.5.1
 - pkg:maven/com.amazonaws/athena-mysql@2025.5.1?classifier=sources
 - pkg:maven/com.amazonaws/athena-mysql@2025.6.1

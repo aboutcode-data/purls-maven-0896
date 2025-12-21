@@ -41,3 +41,5 @@
 - pkg:maven/top.yukonga.miuix.kmp/miuix-desktop@0.5.0?classifier=sources
 - pkg:maven/top.yukonga.miuix.kmp/miuix-desktop@0.5.1?classifier=sources
 - pkg:maven/top.yukonga.miuix.kmp/miuix-desktop@0.5.2?classifier=sources
+- pkg:maven/top.yukonga.miuix.kmp/miuix-desktop@0.6.0?classifier=sources
+- pkg:maven/top.yukonga.miuix.kmp/miuix-desktop@0.6.1?classifier=sources

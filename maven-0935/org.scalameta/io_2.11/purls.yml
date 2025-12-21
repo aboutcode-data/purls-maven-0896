@@ -124,3 +124,7 @@
 - pkg:maven/org.scalameta/io_2.11@4.13.8?classifier=sources
 - pkg:maven/org.scalameta/io_2.11@4.13.9
 - pkg:maven/org.scalameta/io_2.11@4.13.9?classifier=sources
+- pkg:maven/org.scalameta/io_2.11@4.14.0
+- pkg:maven/org.scalameta/io_2.11@4.14.0?classifier=sources
+- pkg:maven/org.scalameta/io_2.11@4.14.1
+- pkg:maven/org.scalameta/io_2.11@4.14.1?classifier=sources

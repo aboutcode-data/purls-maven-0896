@@ -123,3 +123,4 @@
 - pkg:maven/com.powsybl/powsybl-open-loadflow@1.8.2?classifier=sources
 - pkg:maven/com.powsybl/powsybl-open-loadflow@1.9.0
 - pkg:maven/com.powsybl/powsybl-open-loadflow@1.9.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-open-loadflow@2.0.0?classifier=sources

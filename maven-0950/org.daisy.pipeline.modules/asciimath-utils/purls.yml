@@ -22,3 +22,4 @@
 - pkg:maven/org.daisy.pipeline.modules/asciimath-utils@1.0.8?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/asciimath-utils@1.0.9
 - pkg:maven/org.daisy.pipeline.modules/asciimath-utils@1.0.9?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/asciimath-utils@2.0.0?classifier=sources

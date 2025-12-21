@@ -13,6 +13,8 @@
 - pkg:maven/org.mvnpm.at.vaadin/component-base@23.6.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/component-base@23.6.1
 - pkg:maven/org.mvnpm.at.vaadin/component-base@23.6.1?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/component-base@23.6.2
+- pkg:maven/org.mvnpm.at.vaadin/component-base@23.6.2?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/component-base@24.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/component-base@24.0.14?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/component-base@24.0.2?classifier=sources
@@ -115,3 +117,9 @@
 - pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.1?classifier=sources
 - pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.2
 - pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.2?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.3
+- pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.3?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.4
+- pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.4?classifier=sources
+- pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.5
+- pkg:maven/org.mvnpm.at.vaadin/component-base@24.9.5?classifier=sources

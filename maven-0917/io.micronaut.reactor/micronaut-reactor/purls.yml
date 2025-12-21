@@ -46,3 +46,4 @@
 - pkg:maven/io.micronaut.reactor/micronaut-reactor@3.7.0?classifier=sources
 - pkg:maven/io.micronaut.reactor/micronaut-reactor@3.8.0?classifier=sources
 - pkg:maven/io.micronaut.reactor/micronaut-reactor@3.9.0?classifier=sources
+- pkg:maven/io.micronaut.reactor/micronaut-reactor@3.9.1?classifier=sources

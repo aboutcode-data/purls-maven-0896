@@ -743,6 +743,8 @@
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.4.4?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.4.5?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.4.6?classifier=sources
+- pkg:maven/org.noear/water-solon-cloud-plugin@3.4.7?classifier=sources
+- pkg:maven/org.noear/water-solon-cloud-plugin@3.4.8?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.5.0-M2?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.5.0-M3?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.5.0-RC?classifier=sources
@@ -754,6 +756,9 @@
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.5.3?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.5.4?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.5.5?classifier=sources
+- pkg:maven/org.noear/water-solon-cloud-plugin@3.5.6?classifier=sources
+- pkg:maven/org.noear/water-solon-cloud-plugin@3.5.7?classifier=sources
+- pkg:maven/org.noear/water-solon-cloud-plugin@3.5.8?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.6.0-M1?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.6.0-M2?classifier=sources
 - pkg:maven/org.noear/water-solon-cloud-plugin@3.6.0-RC?classifier=sources

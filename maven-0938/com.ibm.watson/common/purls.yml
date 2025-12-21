@@ -21,6 +21,7 @@
 - pkg:maven/com.ibm.watson/common@14.0.2
 - pkg:maven/com.ibm.watson/common@14.0.2?classifier=sources
 - pkg:maven/com.ibm.watson/common@15.0.0?classifier=sources
+- pkg:maven/com.ibm.watson/common@16.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/common@7.0.0
 - pkg:maven/com.ibm.watson/common@7.0.0?classifier=sources
 - pkg:maven/com.ibm.watson/common@7.1.0

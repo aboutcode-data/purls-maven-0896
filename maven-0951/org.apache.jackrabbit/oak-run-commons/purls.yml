@@ -218,6 +218,8 @@
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.84.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.86.0
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.86.0?classifier=sources
+- pkg:maven/org.apache.jackrabbit/oak-run-commons@1.88.0
+- pkg:maven/org.apache.jackrabbit/oak-run-commons@1.88.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.9.0
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.9.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit/oak-run-commons@1.9.1

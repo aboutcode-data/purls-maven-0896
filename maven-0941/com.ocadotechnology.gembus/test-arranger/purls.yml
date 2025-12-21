@@ -77,3 +77,4 @@
 - pkg:maven/com.ocadotechnology.gembus/test-arranger@1.6.4
 - pkg:maven/com.ocadotechnology.gembus/test-arranger@1.6.4.1?classifier=sources
 - pkg:maven/com.ocadotechnology.gembus/test-arranger@1.6.4?classifier=sources
+- pkg:maven/com.ocadotechnology.gembus/test-arranger@1.7.0?classifier=sources

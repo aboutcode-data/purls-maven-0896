@@ -57,3 +57,5 @@
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.3.2.1125?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.4.0.1306?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.4.0.1312?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@3.4.0.1335?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@3.4.1.1338?classifier=sources

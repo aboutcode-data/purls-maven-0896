@@ -22,6 +22,9 @@
 - pkg:maven/io.testomat/java-reporter-cucumber@0.7.8?classifier=sources
 - pkg:maven/io.testomat/java-reporter-cucumber@0.8.0?classifier=sources
 - pkg:maven/io.testomat/java-reporter-cucumber@0.8.10?classifier=sources
+- pkg:maven/io.testomat/java-reporter-cucumber@0.8.11?classifier=sources
+- pkg:maven/io.testomat/java-reporter-cucumber@0.8.12?classifier=sources
+- pkg:maven/io.testomat/java-reporter-cucumber@0.8.14?classifier=sources
 - pkg:maven/io.testomat/java-reporter-cucumber@0.8.2?classifier=sources
 - pkg:maven/io.testomat/java-reporter-cucumber@0.8.4?classifier=sources
 - pkg:maven/io.testomat/java-reporter-cucumber@0.8.5?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.pcloud.pcloud-networking-java/serialization-adapter-timestamp@2.10.0?classifier=sources
 - pkg:maven/com.pcloud.pcloud-networking-java/serialization-adapter-timestamp@2.5.2
 - pkg:maven/com.pcloud.pcloud-networking-java/serialization-adapter-timestamp@2.5.2?classifier=sources
 - pkg:maven/com.pcloud.pcloud-networking-java/serialization-adapter-timestamp@2.5.3

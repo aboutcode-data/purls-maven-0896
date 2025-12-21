@@ -6,3 +6,5 @@
 - pkg:maven/org.mvnpm.at.codemirror/lang-markdown@6.3.4?classifier=sources
 - pkg:maven/org.mvnpm.at.codemirror/lang-markdown@6.4.0
 - pkg:maven/org.mvnpm.at.codemirror/lang-markdown@6.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.codemirror/lang-markdown@6.5.0
+- pkg:maven/org.mvnpm.at.codemirror/lang-markdown@6.5.0?classifier=sources

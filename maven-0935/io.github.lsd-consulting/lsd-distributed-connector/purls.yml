@@ -17,3 +17,7 @@
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-connector@2.1.7?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-connector@2.1.8?classifier=sources
 - pkg:maven/io.github.lsd-consulting/lsd-distributed-connector@2.1.9?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-connector@2.2.0?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-connector@2.2.1?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-connector@2.2.2?classifier=sources
+- pkg:maven/io.github.lsd-consulting/lsd-distributed-connector@2.2.3?classifier=sources

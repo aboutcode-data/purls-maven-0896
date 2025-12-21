@@ -49,3 +49,4 @@
 - pkg:maven/com.squareup.wire/wire-schema-tests@5.3.8?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-tests@5.3.9?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-tests@5.4.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-tests@6.0.0-alpha01?classifier=sources

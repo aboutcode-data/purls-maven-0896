@@ -53,3 +53,7 @@
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.2?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.3?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.4?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-generated@8.8.0
+- pkg:maven/io.camunda/camunda-tasklist-client-generated@8.8.0?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-generated@8.8.1
+- pkg:maven/io.camunda/camunda-tasklist-client-generated@8.8.1?classifier=sources

@@ -14,3 +14,4 @@
 - pkg:maven/io.gravitee.ae/gravitee-alert-engine-connectors-core@2.1.0?classifier=sources
 - pkg:maven/io.gravitee.ae/gravitee-alert-engine-connectors-core@2.2.0
 - pkg:maven/io.gravitee.ae/gravitee-alert-engine-connectors-core@2.2.0?classifier=sources
+- pkg:maven/io.gravitee.ae/gravitee-alert-engine-connectors-core@2.2.2?classifier=sources

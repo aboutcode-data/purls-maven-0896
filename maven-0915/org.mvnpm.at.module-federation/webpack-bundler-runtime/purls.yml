@@ -38,4 +38,12 @@
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.19.1?classifier=sources
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.20.0
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.20.0?classifier=sources
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.0
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.0?classifier=sources
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.1
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.1?classifier=sources
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.2
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.2?classifier=sources
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.3
+- pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.21.3?classifier=sources
 - pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime@0.8.4?classifier=sources
