@@ -1,1 +1,2 @@
 - pkg:maven/io.github.cherkovskiyandrey/distributed-task-library@1.0.0?classifier=sources
+- pkg:maven/io.github.cherkovskiyandrey/distributed-task-library@2.0.0-rc.1?classifier=sources

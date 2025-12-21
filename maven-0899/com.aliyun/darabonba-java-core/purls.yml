@@ -79,3 +79,4 @@
 - pkg:maven/com.aliyun/darabonba-java-core@0.3.1-beta
 - pkg:maven/com.aliyun/darabonba-java-core@0.3.1-beta?classifier=sources
 - pkg:maven/com.aliyun/darabonba-java-core@0.3.2-beta?classifier=sources
+- pkg:maven/com.aliyun/darabonba-java-core@0.3.3-beta?classifier=sources

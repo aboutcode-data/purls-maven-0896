@@ -1,0 +1,3 @@
+- pkg:maven/io.ebean/ebean-pgvector-types@16.2.0-javax?classifier=sources
+- pkg:maven/io.ebean/ebean-pgvector-types@16.2.0?classifier=sources
+- pkg:maven/io.ebean/ebean-pgvector-types@17.2.0?classifier=sources

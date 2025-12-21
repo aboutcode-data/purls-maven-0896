@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dodogeny/bastion-distribution-enterprise@1.1.0?classifier=src&type=tar.gz
+- pkg:maven/io.github.dodogeny/bastion-distribution-enterprise@1.1.0?classifier=src&type=zip

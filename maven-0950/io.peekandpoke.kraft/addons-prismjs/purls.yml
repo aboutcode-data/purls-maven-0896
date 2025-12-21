@@ -177,3 +177,4 @@
 - pkg:maven/io.peekandpoke.kraft/addons-prismjs@0.97.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-prismjs@0.98.0?classifier=sources
 - pkg:maven/io.peekandpoke.kraft/addons-prismjs@0.98.2?classifier=sources
+- pkg:maven/io.peekandpoke.kraft/addons-prismjs@0.99.0?classifier=sources

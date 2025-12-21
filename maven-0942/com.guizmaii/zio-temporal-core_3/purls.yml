@@ -12,3 +12,7 @@
 - pkg:maven/com.guizmaii/zio-temporal-core_3@0.6.7?classifier=sources
 - pkg:maven/com.guizmaii/zio-temporal-core_3@0.6.9
 - pkg:maven/com.guizmaii/zio-temporal-core_3@0.6.9?classifier=sources
+- pkg:maven/com.guizmaii/zio-temporal-core_3@0.7.0
+- pkg:maven/com.guizmaii/zio-temporal-core_3@0.7.0?classifier=sources
+- pkg:maven/com.guizmaii/zio-temporal-core_3@0.7.1
+- pkg:maven/com.guizmaii/zio-temporal-core_3@0.7.1?classifier=sources

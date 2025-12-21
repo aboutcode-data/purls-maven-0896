@@ -4,3 +4,5 @@
 - pkg:maven/ch.epfl.scala/scalac-profiling_2.13.15@1.1.2?classifier=sources
 - pkg:maven/ch.epfl.scala/scalac-profiling_2.13.15@1.2.0
 - pkg:maven/ch.epfl.scala/scalac-profiling_2.13.15@1.2.0?classifier=sources
+- pkg:maven/ch.epfl.scala/scalac-profiling_2.13.15@1.2.1
+- pkg:maven/ch.epfl.scala/scalac-profiling_2.13.15@1.2.1?classifier=sources

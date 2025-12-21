@@ -13,6 +13,8 @@
 - pkg:maven/com.xsolla.android/store@2.5.12?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.12?type=aar
 - pkg:maven/com.xsolla.android/store@2.5.13?classifier=sources
+- pkg:maven/com.xsolla.android/store@2.5.14?classifier=sources
+- pkg:maven/com.xsolla.android/store@2.5.15?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.2?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.3?classifier=sources
 - pkg:maven/com.xsolla.android/store@2.5.4?classifier=sources

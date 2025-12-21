@@ -1,1 +1,4 @@
 - pkg:maven/io.github.adokky/equals-tester-watchosarm32@0.13?classifier=sources
+- pkg:maven/io.github.adokky/equals-tester-watchosarm32@0.2?classifier=sources
+- pkg:maven/io.github.adokky/equals-tester-watchosarm32@1.0?classifier=sources
+- pkg:maven/io.github.adokky/equals-tester-watchosarm32@1.1.0?classifier=sources

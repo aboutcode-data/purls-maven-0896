@@ -4,3 +4,5 @@
 - pkg:maven/net.ghoula/valar-core_native0.5_3@0.4.8-bundle?classifier=sources
 - pkg:maven/net.ghoula/valar-core_native0.5_3@0.5.0
 - pkg:maven/net.ghoula/valar-core_native0.5_3@0.5.0?classifier=sources
+- pkg:maven/net.ghoula/valar-core_native0.5_3@0.6.0
+- pkg:maven/net.ghoula/valar-core_native0.5_3@0.6.0?classifier=sources

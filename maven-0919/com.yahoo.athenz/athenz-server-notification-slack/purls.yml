@@ -28,3 +28,4 @@
 - pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.27?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.28?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.29?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.30?classifier=sources

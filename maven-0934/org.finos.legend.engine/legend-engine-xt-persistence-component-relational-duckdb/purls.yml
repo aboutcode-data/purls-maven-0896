@@ -18,6 +18,10 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.108.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.109.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.110.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.110.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.111.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.112.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.113.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.47.3
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.47.3?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-duckdb@4.48.0

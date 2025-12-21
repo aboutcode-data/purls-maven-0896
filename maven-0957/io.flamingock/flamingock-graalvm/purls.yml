@@ -15,3 +15,4 @@
 - pkg:maven/io.flamingock/flamingock-graalvm@0.0.44-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-graalvm@1.0.0-beta.1?classifier=sources
 - pkg:maven/io.flamingock/flamingock-graalvm@1.0.0-beta.2?classifier=sources
+- pkg:maven/io.flamingock/flamingock-graalvm@1.0.0-beta.3?classifier=sources

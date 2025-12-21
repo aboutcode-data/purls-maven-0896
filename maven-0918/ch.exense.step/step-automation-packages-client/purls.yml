@@ -57,3 +57,4 @@
 - pkg:maven/ch.exense.step/step-automation-packages-client@3.28.2?classifier=sources
 - pkg:maven/ch.exense.step/step-automation-packages-client@3.28.3?classifier=sources
 - pkg:maven/ch.exense.step/step-automation-packages-client@3.28.4?classifier=sources
+- pkg:maven/ch.exense.step/step-automation-packages-client@3.29.0?classifier=sources

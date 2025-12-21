@@ -29,6 +29,7 @@
 - pkg:maven/io.trtc.uikit/rtc_room_engine@2.9.3.575?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@2.9.4.578?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@2.9.5.580?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@2.9.6.581?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.0.0.685?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.0.1.691?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.0.10.748?classifier=sources
@@ -63,3 +64,6 @@
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.4.0.1335?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.4.1.1338?classifier=sources
 - pkg:maven/io.trtc.uikit/rtc_room_engine@3.4.2.1350?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@3.5.0.954?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@3.5.1.967?classifier=sources
+- pkg:maven/io.trtc.uikit/rtc_room_engine@3.5.2.977?classifier=sources

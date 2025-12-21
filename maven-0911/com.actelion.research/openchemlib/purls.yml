@@ -571,6 +571,8 @@
 - pkg:maven/com.actelion.research/openchemlib@2025.11.0?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2025.11.1?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2025.11.2?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2025.11.3?classifier=sources
+- pkg:maven/com.actelion.research/openchemlib@2025.11.4?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2025.2.0
 - pkg:maven/com.actelion.research/openchemlib@2025.2.0?classifier=sources
 - pkg:maven/com.actelion.research/openchemlib@2025.2.1

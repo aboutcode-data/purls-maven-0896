@@ -22,3 +22,4 @@
 - pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.50-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.51-release?classifier=sources
 - pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.52-release?classifier=sources
+- pkg:maven/cn.ucloud/ucloud-sdk-java-cloudwatch@1.2.53-release?classifier=sources

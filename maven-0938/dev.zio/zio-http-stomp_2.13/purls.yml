@@ -1,0 +1,4 @@
+- pkg:maven/dev.zio/zio-http-stomp_2.13@3.6.0
+- pkg:maven/dev.zio/zio-http-stomp_2.13@3.6.0?classifier=sources
+- pkg:maven/dev.zio/zio-http-stomp_2.13@3.7.0
+- pkg:maven/dev.zio/zio-http-stomp_2.13@3.7.0?classifier=sources

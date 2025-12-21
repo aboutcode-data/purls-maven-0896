@@ -55,6 +55,10 @@
 - pkg:maven/com.metamap/android-sdk@3.42.11?type=aar
 - pkg:maven/com.metamap/android-sdk@3.42.12?classifier=sources
 - pkg:maven/com.metamap/android-sdk@3.42.12?type=aar
+- pkg:maven/com.metamap/android-sdk@3.42.13?classifier=sources
+- pkg:maven/com.metamap/android-sdk@3.42.13?type=aar
+- pkg:maven/com.metamap/android-sdk@3.42.14?classifier=sources
+- pkg:maven/com.metamap/android-sdk@3.42.14?type=aar
 - pkg:maven/com.metamap/android-sdk@3.42.1?classifier=sources
 - pkg:maven/com.metamap/android-sdk@3.42.2?classifier=sources
 - pkg:maven/com.metamap/android-sdk@3.42.3?classifier=sources

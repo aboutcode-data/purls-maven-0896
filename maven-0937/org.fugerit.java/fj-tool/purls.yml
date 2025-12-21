@@ -587,3 +587,5 @@
 - pkg:maven/org.fugerit.java/fj-tool@8.6.9?classifier=sources
 - pkg:maven/org.fugerit.java/fj-tool@8.7.0?classifier=sources
 - pkg:maven/org.fugerit.java/fj-tool@8.7.1?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@8.7.2?classifier=sources
+- pkg:maven/org.fugerit.java/fj-tool@8.7.3?classifier=sources

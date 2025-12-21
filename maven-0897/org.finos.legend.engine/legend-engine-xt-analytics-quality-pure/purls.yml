@@ -18,6 +18,10 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.108.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.109.0?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.110.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.110.1?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.111.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.112.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.113.1?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.35.5
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.35.5?classifier=sources
 - pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-quality-pure@4.36.0

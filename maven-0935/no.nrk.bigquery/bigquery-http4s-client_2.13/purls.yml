@@ -16,3 +16,5 @@
 - pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.19.2?classifier=sources
 - pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.19.3
 - pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.19.3?classifier=sources
+- pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.19.4
+- pkg:maven/no.nrk.bigquery/bigquery-http4s-client_2.13@0.19.4?classifier=sources

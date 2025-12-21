@@ -6,3 +6,5 @@
 - pkg:maven/cn.aotcloud/gmcrypto-core-jdk15on@1.0.8?classifier=sources
 - pkg:maven/cn.aotcloud/gmcrypto-core-jdk15on@1.1.0
 - pkg:maven/cn.aotcloud/gmcrypto-core-jdk15on@1.1.0?classifier=sources
+- pkg:maven/cn.aotcloud/gmcrypto-core-jdk15on@1.1.1
+- pkg:maven/cn.aotcloud/gmcrypto-core-jdk15on@1.1.1?classifier=sources

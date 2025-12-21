@@ -992,6 +992,11 @@
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.608.33?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.609.39?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.61.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.610.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.611.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.612.20?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.613.57?classifier=sources
+- pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.614.22?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.62.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.63.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/clustercontroller-apps@8.64.13?classifier=sources

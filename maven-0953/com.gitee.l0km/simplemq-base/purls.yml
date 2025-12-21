@@ -86,3 +86,4 @@
 - pkg:maven/com.gitee.l0km/simplemq-base@2.5.2
 - pkg:maven/com.gitee.l0km/simplemq-base@2.5.2?classifier=sources
 - pkg:maven/com.gitee.l0km/simplemq-base@2.5.3?classifier=sources
+- pkg:maven/com.gitee.l0km/simplemq-base@2.5.4?classifier=sources

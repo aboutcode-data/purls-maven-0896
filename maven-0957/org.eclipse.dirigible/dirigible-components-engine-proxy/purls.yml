@@ -14,3 +14,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-proxy@12.43.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-proxy@12.44.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-engine-proxy@12.45.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-proxy@12.46.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-engine-proxy@12.47.0?classifier=sources

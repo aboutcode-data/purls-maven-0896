@@ -89,6 +89,7 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.5.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.50.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.51.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.52.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.6.0-alpha-1?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.6.0-alpha-2?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-core@1.6.0-alpha-3?classifier=sources

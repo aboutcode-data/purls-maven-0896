@@ -16,3 +16,4 @@
 - pkg:maven/org.digidoc4j.dss/dss-validation-server-common@6.0.d4j.1?classifier=sources
 - pkg:maven/org.digidoc4j.dss/dss-validation-server-common@6.0.d4j.2
 - pkg:maven/org.digidoc4j.dss/dss-validation-server-common@6.0.d4j.2?classifier=sources
+- pkg:maven/org.digidoc4j.dss/dss-validation-server-common@6.2.d4j.1?classifier=sources

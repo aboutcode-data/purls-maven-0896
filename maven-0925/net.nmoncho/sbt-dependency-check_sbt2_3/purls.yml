@@ -1,0 +1,2 @@
+- pkg:maven/net.nmoncho/sbt-dependency-check_sbt2_3@1.8.4
+- pkg:maven/net.nmoncho/sbt-dependency-check_sbt2_3@1.8.4?classifier=sources

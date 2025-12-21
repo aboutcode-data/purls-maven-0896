@@ -31,3 +31,7 @@
 - pkg:maven/net.optionfactory.spring/authentication-tokens@22.4?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-tokens@22.5?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-tokens@22.6?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@23.0?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@23.1?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@23.2?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@23.3?classifier=sources

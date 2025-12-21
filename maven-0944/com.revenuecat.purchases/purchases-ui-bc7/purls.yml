@@ -1,1 +1,4 @@
 - pkg:maven/com.revenuecat.purchases/purchases-ui-bc7@9.14.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-ui-bc7@9.15.0?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-ui-bc7@9.15.1?classifier=sources
+- pkg:maven/com.revenuecat.purchases/purchases-ui-bc7@9.16.0-alphaaidl01?classifier=sources

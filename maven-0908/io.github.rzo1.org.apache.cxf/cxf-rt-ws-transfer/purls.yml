@@ -1,3 +1,4 @@
 - pkg:maven/io.github.rzo1.org.apache.cxf/cxf-rt-ws-transfer@4.1.0-tomee-M1?classifier=sources
 - pkg:maven/io.github.rzo1.org.apache.cxf/cxf-rt-ws-transfer@4.1.0-tomee-M2?classifier=sources
+- pkg:maven/io.github.rzo1.org.apache.cxf/cxf-rt-ws-transfer@4.2.0-tomee-m0-071068f?classifier=sources
 - pkg:maven/io.github.rzo1.org.apache.cxf/cxf-rt-ws-transfer@4.2.0-tomee-m0-ce15546?classifier=sources

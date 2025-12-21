@@ -21,3 +21,4 @@
 - pkg:maven/com.airbnb/deeplinkdispatch-base@6.1.0?classifier=sources
 - pkg:maven/com.airbnb/deeplinkdispatch-base@6.2.1?classifier=sources
 - pkg:maven/com.airbnb/deeplinkdispatch-base@6.2.2?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch-base@6.2.3?classifier=sources

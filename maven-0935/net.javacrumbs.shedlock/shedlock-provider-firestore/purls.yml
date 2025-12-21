@@ -1,3 +1,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-firestore@6.10.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-firestore@7.0.0-RC1?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-firestore@7.0.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-firestore@7.1.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-firestore@7.2.0?classifier=sources

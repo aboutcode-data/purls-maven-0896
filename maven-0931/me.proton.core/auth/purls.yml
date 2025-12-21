@@ -173,6 +173,7 @@
 - pkg:maven/me.proton.core/auth@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/auth@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/auth@36.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/auth@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/auth@5.0.0?classifier=sources

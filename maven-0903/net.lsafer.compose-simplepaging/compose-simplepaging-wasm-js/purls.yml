@@ -1,3 +1,4 @@
 - pkg:maven/net.lsafer.compose-simplepaging/compose-simplepaging-wasm-js@0.0.1?classifier=sources
 - pkg:maven/net.lsafer.compose-simplepaging/compose-simplepaging-wasm-js@0.0.2-rc.0?classifier=sources
 - pkg:maven/net.lsafer.compose-simplepaging/compose-simplepaging-wasm-js@0.0.2-rc.1?classifier=sources
+- pkg:maven/net.lsafer.compose-simplepaging/compose-simplepaging-wasm-js@0.0.2-rc.2?classifier=sources

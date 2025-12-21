@@ -1,3 +1,4 @@
 - pkg:maven/org.eclipse.keypop/keypop-storagecard-java-api@0.1.0?classifier=sources
 - pkg:maven/org.eclipse.keypop/keypop-storagecard-java-api@0.2.0?classifier=sources
 - pkg:maven/org.eclipse.keypop/keypop-storagecard-java-api@0.3.0?classifier=sources
+- pkg:maven/org.eclipse.keypop/keypop-storagecard-java-api@1.0.0?classifier=sources

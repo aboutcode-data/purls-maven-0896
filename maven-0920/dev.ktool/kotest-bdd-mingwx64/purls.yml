@@ -7,3 +7,4 @@
 - pkg:maven/dev.ktool/kotest-bdd-mingwx64@2.0.2?classifier=sources
 - pkg:maven/dev.ktool/kotest-bdd-mingwx64@2.1.2?classifier=sources
 - pkg:maven/dev.ktool/kotest-bdd-mingwx64@2.1.3?classifier=sources
+- pkg:maven/dev.ktool/kotest-bdd-mingwx64@2.1.4?classifier=sources

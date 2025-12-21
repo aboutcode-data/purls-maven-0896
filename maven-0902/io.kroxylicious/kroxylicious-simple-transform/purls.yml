@@ -11,6 +11,7 @@
 - pkg:maven/io.kroxylicious/kroxylicious-simple-transform@0.16.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-simple-transform@0.17.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-simple-transform@0.17.1?classifier=sources
+- pkg:maven/io.kroxylicious/kroxylicious-simple-transform@0.18.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-simple-transform@0.4.0
 - pkg:maven/io.kroxylicious/kroxylicious-simple-transform@0.4.0?classifier=sources
 - pkg:maven/io.kroxylicious/kroxylicious-simple-transform@0.4.1

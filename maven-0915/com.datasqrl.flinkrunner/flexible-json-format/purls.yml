@@ -7,3 +7,4 @@
 - pkg:maven/com.datasqrl.flinkrunner/flexible-json-format@0.8.1?classifier=sources
 - pkg:maven/com.datasqrl.flinkrunner/flexible-json-format@0.8.2?classifier=sources
 - pkg:maven/com.datasqrl.flinkrunner/flexible-json-format@0.8.3?classifier=sources
+- pkg:maven/com.datasqrl.flinkrunner/flexible-json-format@0.9.0-alpha1?classifier=sources

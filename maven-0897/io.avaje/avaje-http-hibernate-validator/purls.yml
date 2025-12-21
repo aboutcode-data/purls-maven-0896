@@ -28,3 +28,4 @@
 - pkg:maven/io.avaje/avaje-http-hibernate-validator@3.5-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-http-hibernate-validator@3.5-RC3
 - pkg:maven/io.avaje/avaje-http-hibernate-validator@3.5-RC3?classifier=sources
+- pkg:maven/io.avaje/avaje-http-hibernate-validator@3.6-RC2?classifier=sources

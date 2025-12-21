@@ -1,3 +1,5 @@
 - pkg:maven/com.ribads.synapse/core-datetime-iosarm64@0.0.2-alpha2?classifier=sources
 - pkg:maven/com.ribads.synapse/core-datetime-iosarm64@0.0.2?classifier=sources
 - pkg:maven/com.ribads.synapse/core-datetime-iosarm64@0.0.3-alpha1?classifier=sources
+- pkg:maven/com.ribads.synapse/core-datetime-iosarm64@0.0.4-alpha1?classifier=sources
+- pkg:maven/com.ribads.synapse/core-datetime-iosarm64@0.0.5-alpha1?classifier=sources

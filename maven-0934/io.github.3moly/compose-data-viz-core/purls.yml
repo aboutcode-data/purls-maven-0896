@@ -1,0 +1,5 @@
+- pkg:maven/io.github.3moly/compose-data-viz-core@0.0.16?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-core@0.0.17?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-core@0.1.0?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-core@0.1.1?classifier=sources
+- pkg:maven/io.github.3moly/compose-data-viz-core@0.1.2?classifier=sources

@@ -13,3 +13,6 @@
 - pkg:maven/glass.yasan.toolkit/about@0.5.0?classifier=sources
 - pkg:maven/glass.yasan.toolkit/about@0.5.1?classifier=sources
 - pkg:maven/glass.yasan.toolkit/about@0.6.0?classifier=sources
+- pkg:maven/glass.yasan.toolkit/about@0.6.1?classifier=sources
+- pkg:maven/glass.yasan.toolkit/about@0.6.2?classifier=sources
+- pkg:maven/glass.yasan.toolkit/about@0.7.0?classifier=sources

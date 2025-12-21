@@ -52,3 +52,4 @@
 - pkg:maven/io.github.airwallex/payment@6.2.7?classifier=sources
 - pkg:maven/io.github.airwallex/payment@6.2.8?classifier=sources
 - pkg:maven/io.github.airwallex/payment@6.3.0?classifier=sources
+- pkg:maven/io.github.airwallex/payment@6.3.1?classifier=sources

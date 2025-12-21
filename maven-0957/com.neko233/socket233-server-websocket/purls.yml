@@ -10,3 +10,4 @@
 - pkg:maven/com.neko233/socket233-server-websocket@0.0.5?type=zip
 - pkg:maven/com.neko233/socket233-server-websocket@0.0.6?classifier=sources
 - pkg:maven/com.neko233/socket233-server-websocket@0.0.6?type=zip
+- pkg:maven/com.neko233/socket233-server-websocket@0.0.7?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/com.flowlogix.depchain/integration-test@10
 - pkg:maven/com.flowlogix.depchain/integration-test@100?classifier=sources
+- pkg:maven/com.flowlogix.depchain/integration-test@101?classifier=sources
+- pkg:maven/com.flowlogix.depchain/integration-test@102?classifier=sources
 - pkg:maven/com.flowlogix.depchain/integration-test@10?classifier=sources
 - pkg:maven/com.flowlogix.depchain/integration-test@11
 - pkg:maven/com.flowlogix.depchain/integration-test@11?classifier=sources

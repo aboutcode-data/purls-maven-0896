@@ -140,6 +140,7 @@
 - pkg:maven/me.proton.core/plan-data@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/plan-data@36.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/plan-data@5.0.0?classifier=sources

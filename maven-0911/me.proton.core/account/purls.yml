@@ -133,6 +133,7 @@
 - pkg:maven/me.proton.core/account@35.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@35.1.0?classifier=sources
 - pkg:maven/me.proton.core/account@35.2.0?classifier=sources
+- pkg:maven/me.proton.core/account@36.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/account@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/account@5.0.0?classifier=sources

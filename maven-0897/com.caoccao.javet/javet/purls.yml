@@ -82,3 +82,4 @@
 - pkg:maven/com.caoccao.javet/javet@4.1.7?classifier=sources
 - pkg:maven/com.caoccao.javet/javet@5.0.0?classifier=sources
 - pkg:maven/com.caoccao.javet/javet@5.0.1?classifier=sources
+- pkg:maven/com.caoccao.javet/javet@5.0.2?classifier=sources

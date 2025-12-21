@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.cdi/jakarta.cdi-ide-config@5.0.0.Alpha2?classifier=sources
+- pkg:maven/jakarta.cdi/jakarta.cdi-ide-config@5.0.0.Alpha3?classifier=sources
