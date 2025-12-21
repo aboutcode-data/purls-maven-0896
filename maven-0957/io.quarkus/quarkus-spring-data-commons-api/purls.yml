@@ -16,3 +16,5 @@
 - pkg:maven/io.quarkus/quarkus-spring-data-commons-api@3.2.SP2
 - pkg:maven/io.quarkus/quarkus-spring-data-commons-api@3.2.SP2?classifier=sources
 - pkg:maven/io.quarkus/quarkus-spring-data-commons-api@3.2?classifier=sources
+- pkg:maven/io.quarkus/quarkus-spring-data-commons-api@3.4
+- pkg:maven/io.quarkus/quarkus-spring-data-commons-api@3.4?classifier=sources

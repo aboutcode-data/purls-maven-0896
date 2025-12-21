@@ -8,3 +8,5 @@
 - pkg:maven/dev.hshn/crypto4s-bouncycastle_3@0.4.0?classifier=sources
 - pkg:maven/dev.hshn/crypto4s-bouncycastle_3@0.5.0
 - pkg:maven/dev.hshn/crypto4s-bouncycastle_3@0.5.0?classifier=sources
+- pkg:maven/dev.hshn/crypto4s-bouncycastle_3@0.6.0
+- pkg:maven/dev.hshn/crypto4s-bouncycastle_3@0.6.0?classifier=sources

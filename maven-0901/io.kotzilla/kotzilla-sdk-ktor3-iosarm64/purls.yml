@@ -1,0 +1,2 @@
+- pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.0?classifier=sources
+- pkg:maven/io.kotzilla/kotzilla-sdk-ktor3-iosarm64@1.0.1?classifier=sources

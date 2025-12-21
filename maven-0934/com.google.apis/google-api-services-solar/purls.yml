@@ -8,3 +8,5 @@
 - pkg:maven/com.google.apis/google-api-services-solar@v1-rev20240820-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-solar@v1-rev20241211-2.0.0
 - pkg:maven/com.google.apis/google-api-services-solar@v1-rev20241211-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-solar@v1-rev20250302-2.0.0
+- pkg:maven/com.google.apis/google-api-services-solar@v1-rev20250302-2.0.0?classifier=sources

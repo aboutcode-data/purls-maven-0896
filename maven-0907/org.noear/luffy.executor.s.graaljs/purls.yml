@@ -116,3 +116,5 @@
 - pkg:maven/org.noear/luffy.executor.s.graaljs@1.8.1?classifier=sources
 - pkg:maven/org.noear/luffy.executor.s.graaljs@1.9.0
 - pkg:maven/org.noear/luffy.executor.s.graaljs@1.9.0?classifier=sources
+- pkg:maven/org.noear/luffy.executor.s.graaljs@1.9.2
+- pkg:maven/org.noear/luffy.executor.s.graaljs@1.9.2?classifier=sources

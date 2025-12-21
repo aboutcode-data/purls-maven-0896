@@ -1,8 +1,11 @@
+- pkg:maven/org.mvnpm/path-to-regexp@0.1.12?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@0.1.7?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@0.1.9?classifier=sources
+- pkg:maven/org.mvnpm/path-to-regexp@1.9.0?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@2.4.0?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@6.2.1?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@6.2.2?classifier=sources
+- pkg:maven/org.mvnpm/path-to-regexp@6.3.0?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@7.0.0?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@7.1.0?classifier=sources
 - pkg:maven/org.mvnpm/path-to-regexp@7.2.0?classifier=sources

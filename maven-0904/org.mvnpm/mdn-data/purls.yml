@@ -1,0 +1,3 @@
+- pkg:maven/org.mvnpm/mdn-data@2.0.28?classifier=sources
+- pkg:maven/org.mvnpm/mdn-data@2.0.30?classifier=sources
+- pkg:maven/org.mvnpm/mdn-data@2.18.0?classifier=sources

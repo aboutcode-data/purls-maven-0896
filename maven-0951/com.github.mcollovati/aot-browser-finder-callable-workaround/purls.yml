@@ -1,2 +1,4 @@
 - pkg:maven/com.github.mcollovati/aot-browser-finder-callable-workaround@24.7.0-alpha1?classifier=sources
 - pkg:maven/com.github.mcollovati/aot-browser-finder-callable-workaround@24.7.0-alpha2?classifier=sources
+- pkg:maven/com.github.mcollovati/aot-browser-finder-callable-workaround@24.7.0-beta1?classifier=sources
+- pkg:maven/com.github.mcollovati/aot-browser-finder-callable-workaround@24.7.0?classifier=sources

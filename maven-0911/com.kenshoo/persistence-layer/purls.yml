@@ -186,6 +186,10 @@
 - pkg:maven/com.kenshoo/persistence-layer@0.1.127-jooq-3.15.1?classifier=sources
 - pkg:maven/com.kenshoo/persistence-layer@0.1.127-jooq-3.16.3
 - pkg:maven/com.kenshoo/persistence-layer@0.1.127-jooq-3.16.3?classifier=sources
+- pkg:maven/com.kenshoo/persistence-layer@0.1.128-jooq-3.15.1
+- pkg:maven/com.kenshoo/persistence-layer@0.1.128-jooq-3.15.1?classifier=sources
+- pkg:maven/com.kenshoo/persistence-layer@0.1.128-jooq-3.16.3
+- pkg:maven/com.kenshoo/persistence-layer@0.1.128-jooq-3.16.3?classifier=sources
 - pkg:maven/com.kenshoo/persistence-layer@0.1.40-jooq-3.10.4
 - pkg:maven/com.kenshoo/persistence-layer@0.1.40-jooq-3.10.4?classifier=sources
 - pkg:maven/com.kenshoo/persistence-layer@0.1.41-jooq-3.10.4

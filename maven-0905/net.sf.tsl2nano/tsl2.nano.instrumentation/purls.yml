@@ -34,3 +34,5 @@
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.instrumentation@2.5.3?classifier=sources
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.instrumentation@2.5.4b
 - pkg:maven/net.sf.tsl2nano/tsl2.nano.instrumentation@2.5.4b?classifier=sources
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.instrumentation@2.5.5
+- pkg:maven/net.sf.tsl2nano/tsl2.nano.instrumentation@2.5.5?classifier=sources

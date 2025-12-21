@@ -2,3 +2,5 @@
 - pkg:maven/com.garnercorp/test-charged_2.13@0.0.2?classifier=sources
 - pkg:maven/com.garnercorp/test-charged_2.13@0.0.3
 - pkg:maven/com.garnercorp/test-charged_2.13@0.0.3?classifier=sources
+- pkg:maven/com.garnercorp/test-charged_2.13@0.1.17
+- pkg:maven/com.garnercorp/test-charged_2.13@0.1.17?classifier=sources

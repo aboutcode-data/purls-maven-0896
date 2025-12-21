@@ -84,3 +84,5 @@
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@5.0-rc2?classifier=sources
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@5.0.0
 - pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@5.0.0?classifier=sources
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@5.1-20250314
+- pkg:maven/org.openehealth.ipf.platform-camel/ipf-platform-camel-ihe-fhir-r4-mhd@5.1-20250314?classifier=sources

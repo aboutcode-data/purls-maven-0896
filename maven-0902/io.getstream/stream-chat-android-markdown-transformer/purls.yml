@@ -95,6 +95,7 @@
 - pkg:maven/io.getstream/stream-chat-android-markdown-transformer@6.10.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-markdown-transformer@6.11.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-markdown-transformer@6.12.0?classifier=sources
+- pkg:maven/io.getstream/stream-chat-android-markdown-transformer@6.12.1?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-markdown-transformer@6.2.0?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-markdown-transformer@6.2.1?classifier=sources
 - pkg:maven/io.getstream/stream-chat-android-markdown-transformer@6.2.2?classifier=sources

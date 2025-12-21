@@ -16,3 +16,5 @@
 - pkg:maven/io.digiexpress/hdes-client@4.278.131?classifier=sources
 - pkg:maven/io.digiexpress/hdes-client@4.278.132
 - pkg:maven/io.digiexpress/hdes-client@4.278.132?classifier=sources
+- pkg:maven/io.digiexpress/hdes-client@5.1.1
+- pkg:maven/io.digiexpress/hdes-client@5.1.1?classifier=sources

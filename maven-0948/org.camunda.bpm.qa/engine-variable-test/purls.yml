@@ -142,3 +142,7 @@
 - pkg:maven/org.camunda.bpm.qa/engine-variable-test@7.23.0-alpha2?type=war
 - pkg:maven/org.camunda.bpm.qa/engine-variable-test@7.23.0-alpha3?classifier=sources
 - pkg:maven/org.camunda.bpm.qa/engine-variable-test@7.23.0-alpha3?type=war
+- pkg:maven/org.camunda.bpm.qa/engine-variable-test@7.23.0-alpha4?classifier=sources
+- pkg:maven/org.camunda.bpm.qa/engine-variable-test@7.23.0-alpha4?type=war
+- pkg:maven/org.camunda.bpm.qa/engine-variable-test@7.23.0-alpha5?classifier=sources
+- pkg:maven/org.camunda.bpm.qa/engine-variable-test@7.23.0-alpha5?type=war

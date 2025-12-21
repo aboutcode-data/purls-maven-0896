@@ -9,6 +9,7 @@
 - pkg:maven/org.webjars.npm/vega-scenegraph@4.10.1
 - pkg:maven/org.webjars.npm/vega-scenegraph@4.10.1?classifier=sources
 - pkg:maven/org.webjars.npm/vega-scenegraph@4.13.0
+- pkg:maven/org.webjars.npm/vega-scenegraph@4.13.1
 - pkg:maven/org.webjars.npm/vega-scenegraph@4.9.1
 - pkg:maven/org.webjars.npm/vega-scenegraph@4.9.1?classifier=sources
 - pkg:maven/org.webjars.npm/vega-scenegraph@4.9.4

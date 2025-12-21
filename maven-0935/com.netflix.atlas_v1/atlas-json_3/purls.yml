@@ -38,5 +38,11 @@
 - pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.28?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.29
 - pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.29?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.30
+- pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.30?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.31
+- pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.31?classifier=sources
+- pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.32
+- pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.32?classifier=sources
 - pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.9
 - pkg:maven/com.netflix.atlas_v1/atlas-json_3@1.8.0-rc.9?classifier=sources

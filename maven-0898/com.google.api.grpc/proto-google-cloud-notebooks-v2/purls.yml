@@ -64,3 +64,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-notebooks-v2@1.56.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-notebooks-v2@1.57.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-notebooks-v2@1.57.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-notebooks-v2@1.58.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-notebooks-v2@1.58.0?classifier=sources

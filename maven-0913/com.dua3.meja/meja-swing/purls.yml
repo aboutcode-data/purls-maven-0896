@@ -78,4 +78,6 @@
 - pkg:maven/com.dua3.meja/meja-swing@6.3.0?classifier=sources
 - pkg:maven/com.dua3.meja/meja-swing@7-RC?classifier=sources
 - pkg:maven/com.dua3.meja/meja-swing@7.0.1?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@7.0.2?classifier=sources
+- pkg:maven/com.dua3.meja/meja-swing@7.1.0?classifier=sources
 - pkg:maven/com.dua3.meja/meja-swing@7?classifier=sources

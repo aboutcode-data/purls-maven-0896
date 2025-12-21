@@ -1,1 +1,2 @@
+- pkg:maven/org.wiremock/wiremock-grpc-extension-jetty12@0.10.0?classifier=sources
 - pkg:maven/org.wiremock/wiremock-grpc-extension-jetty12@0.9.0?classifier=sources

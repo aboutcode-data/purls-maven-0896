@@ -114,6 +114,10 @@
 - pkg:maven/com.yandex.div/div-states@31.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@31.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@31.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@31.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@31.5.1?classifier=sources
+- pkg:maven/com.yandex.div/div-states@31.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-states@31.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-states@7.0.0?classifier=sources

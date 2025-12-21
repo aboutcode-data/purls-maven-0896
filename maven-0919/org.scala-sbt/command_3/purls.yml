@@ -4,6 +4,8 @@
 - pkg:maven/org.scala-sbt/command_3@2.0.0-M2?classifier=sources
 - pkg:maven/org.scala-sbt/command_3@2.0.0-M3
 - pkg:maven/org.scala-sbt/command_3@2.0.0-M3?classifier=sources
+- pkg:maven/org.scala-sbt/command_3@2.0.0-M4
+- pkg:maven/org.scala-sbt/command_3@2.0.0-M4?classifier=sources
 - pkg:maven/org.scala-sbt/command_3@2.0.0-alpha10
 - pkg:maven/org.scala-sbt/command_3@2.0.0-alpha10?classifier=sources
 - pkg:maven/org.scala-sbt/command_3@2.0.0-alpha6

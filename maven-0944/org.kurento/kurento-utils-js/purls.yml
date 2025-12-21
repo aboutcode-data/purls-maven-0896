@@ -42,3 +42,5 @@
 - pkg:maven/org.kurento/kurento-utils-js@7.0.0?type=zip
 - pkg:maven/org.kurento/kurento-utils-js@7.1.0?classifier=sources
 - pkg:maven/org.kurento/kurento-utils-js@7.1.0?type=zip
+- pkg:maven/org.kurento/kurento-utils-js@7.2.0?classifier=sources
+- pkg:maven/org.kurento/kurento-utils-js@7.2.0?type=zip

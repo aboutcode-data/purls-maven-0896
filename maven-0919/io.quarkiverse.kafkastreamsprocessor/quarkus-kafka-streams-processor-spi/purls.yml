@@ -18,3 +18,4 @@
 - pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-spi@4.0.2
 - pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-spi@4.0.2?classifier=sources
 - pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-spi@4.0.3?classifier=sources
+- pkg:maven/io.quarkiverse.kafkastreamsprocessor/quarkus-kafka-streams-processor-spi@4.1.0?classifier=sources

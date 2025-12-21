@@ -30,3 +30,6 @@
 - pkg:maven/se.idsec.signservice.commons/signservice-commons@2.1.2?classifier=sources
 - pkg:maven/se.idsec.signservice.commons/signservice-commons@2.2.0
 - pkg:maven/se.idsec.signservice.commons/signservice-commons@2.2.0?classifier=sources
+- pkg:maven/se.idsec.signservice.commons/signservice-commons@2.2.1
+- pkg:maven/se.idsec.signservice.commons/signservice-commons@2.2.1?classifier=sources
+- pkg:maven/se.idsec.signservice.commons/signservice-commons@2.3.0?classifier=sources

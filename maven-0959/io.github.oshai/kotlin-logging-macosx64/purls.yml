@@ -42,3 +42,4 @@
 - pkg:maven/io.github.oshai/kotlin-logging-macosx64@7.0.0?classifier=sources
 - pkg:maven/io.github.oshai/kotlin-logging-macosx64@7.0.3?classifier=sources
 - pkg:maven/io.github.oshai/kotlin-logging-macosx64@7.0.4?classifier=sources
+- pkg:maven/io.github.oshai/kotlin-logging-macosx64@7.0.5?classifier=sources

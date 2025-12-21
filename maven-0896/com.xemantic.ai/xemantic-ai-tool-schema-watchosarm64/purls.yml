@@ -5,3 +5,4 @@
 - pkg:maven/com.xemantic.ai/xemantic-ai-tool-schema-watchosarm64@0.2.1?classifier=sources
 - pkg:maven/com.xemantic.ai/xemantic-ai-tool-schema-watchosarm64@0.2.2?classifier=sources
 - pkg:maven/com.xemantic.ai/xemantic-ai-tool-schema-watchosarm64@1.0.0?classifier=sources
+- pkg:maven/com.xemantic.ai/xemantic-ai-tool-schema-watchosarm64@1.1.0?classifier=sources

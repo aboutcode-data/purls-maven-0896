@@ -17,3 +17,4 @@
 - pkg:maven/se.curity.identityserver/identityserver.haapi.android.driver@4.2.0?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.haapi.android.driver@4.2.1?classifier=sources
 - pkg:maven/se.curity.identityserver/identityserver.haapi.android.driver@4.3.0?classifier=sources
+- pkg:maven/se.curity.identityserver/identityserver.haapi.android.driver@4.4.0?classifier=sources

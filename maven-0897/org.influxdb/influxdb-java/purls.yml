@@ -43,6 +43,8 @@
 - pkg:maven/org.influxdb/influxdb-java@2.23?classifier=sources
 - pkg:maven/org.influxdb/influxdb-java@2.24
 - pkg:maven/org.influxdb/influxdb-java@2.24?classifier=sources
+- pkg:maven/org.influxdb/influxdb-java@2.25
+- pkg:maven/org.influxdb/influxdb-java@2.25?classifier=sources
 - pkg:maven/org.influxdb/influxdb-java@2.2?classifier=sources
 - pkg:maven/org.influxdb/influxdb-java@2.3
 - pkg:maven/org.influxdb/influxdb-java@2.3?classifier=sources

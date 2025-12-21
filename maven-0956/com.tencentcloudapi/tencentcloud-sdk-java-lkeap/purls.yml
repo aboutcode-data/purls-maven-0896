@@ -30,3 +30,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lkeap@3.1.1206?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lkeap@3.1.1207
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lkeap@3.1.1207?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lkeap@3.1.1210
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lkeap@3.1.1210?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lkeap@3.1.1222
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lkeap@3.1.1222?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/react-scripts@4.0.3?classifier=sources
 - pkg:maven/org.mvnpm/react-scripts@5.0.1?classifier=sources

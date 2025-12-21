@@ -56,6 +56,8 @@
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.37?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.38
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.38?classifier=sources
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.39
+- pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.39?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.8
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.8?classifier=sources
 - pkg:maven/io.github.fuookami.ospf.kotlin.framework.plugin/ospf-kotlin-framework-plugin-persistence-sqlite@1.0.9

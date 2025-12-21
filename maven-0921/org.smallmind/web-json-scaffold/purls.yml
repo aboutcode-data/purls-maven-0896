@@ -137,3 +137,4 @@
 - pkg:maven/org.smallmind/web-json-scaffold@6.3.0
 - pkg:maven/org.smallmind/web-json-scaffold@6.3.0?classifier=sources
 - pkg:maven/org.smallmind/web-json-scaffold@6.4.0?classifier=sources
+- pkg:maven/org.smallmind/web-json-scaffold@6.5.0?classifier=sources

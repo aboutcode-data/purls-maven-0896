@@ -1,3 +1,5 @@
+- pkg:maven/io.github.dftrakesh/finale@0.10
+- pkg:maven/io.github.dftrakesh/finale@0.10?classifier=sources
 - pkg:maven/io.github.dftrakesh/finale@0.3
 - pkg:maven/io.github.dftrakesh/finale@0.3?classifier=sources
 - pkg:maven/io.github.dftrakesh/finale@0.4

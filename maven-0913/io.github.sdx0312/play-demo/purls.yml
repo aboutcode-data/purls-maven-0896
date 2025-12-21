@@ -1,0 +1,3 @@
+- pkg:maven/io.github.sdx0312/play-demo@1.0?classifier=sources
+- pkg:maven/io.github.sdx0312/play-demo@2.0
+- pkg:maven/io.github.sdx0312/play-demo@2.0?classifier=sources

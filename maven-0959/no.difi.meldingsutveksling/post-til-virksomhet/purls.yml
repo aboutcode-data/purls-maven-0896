@@ -60,6 +60,10 @@
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.28.0?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.28.1
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.28.1?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.28.2
+- pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.28.2?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.28.3
+- pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.28.3?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.3.0
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.3.0?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.3.1
@@ -94,3 +98,5 @@
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.8.4?classifier=sources
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.9.0
 - pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@2.9.0?classifier=sources
+- pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@3.0.0-beta
+- pkg:maven/no.difi.meldingsutveksling/post-til-virksomhet@3.0.0-beta?classifier=sources

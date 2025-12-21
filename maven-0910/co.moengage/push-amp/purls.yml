@@ -2,3 +2,4 @@
 - pkg:maven/co.moengage/push-amp@4.5.2?classifier=sources
 - pkg:maven/co.moengage/push-amp@4.6.0?classifier=sources
 - pkg:maven/co.moengage/push-amp@5.2.0?classifier=sources
+- pkg:maven/co.moengage/push-amp@5.2.2?classifier=sources

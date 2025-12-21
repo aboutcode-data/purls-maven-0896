@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/delayed-stream@0.0.5?classifier=sources
 - pkg:maven/org.mvnpm/delayed-stream@1.0.0?classifier=sources

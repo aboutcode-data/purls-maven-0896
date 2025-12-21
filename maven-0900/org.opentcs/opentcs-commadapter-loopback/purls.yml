@@ -26,3 +26,4 @@
 - pkg:maven/org.opentcs/opentcs-commadapter-loopback@6.1.2?classifier=sources
 - pkg:maven/org.opentcs/opentcs-commadapter-loopback@6.2.0?classifier=sources
 - pkg:maven/org.opentcs/opentcs-commadapter-loopback@6.3.0?classifier=sources
+- pkg:maven/org.opentcs/opentcs-commadapter-loopback@6.4.0?classifier=sources

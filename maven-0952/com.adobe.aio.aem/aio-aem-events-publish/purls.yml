@@ -64,3 +64,5 @@
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@1.1.8?classifier=sources
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@2.0.0
 - pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@2.0.0?classifier=sources
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@2.0.2
+- pkg:maven/com.adobe.aio.aem/aio-aem-events-publish@2.0.2?classifier=sources

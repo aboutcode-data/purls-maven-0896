@@ -70,3 +70,5 @@
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@24.0.5?classifier=sources
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@24.0.6
 - pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@24.0.6?classifier=sources
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@24.0.7
+- pkg:maven/com.rws.lt.lc.public-api/lc-public-api-sdk@24.0.7?classifier=sources

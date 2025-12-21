@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/find-versions@5.1.0?classifier=sources
+- pkg:maven/org.mvnpm/find-versions@6.0.0?classifier=sources

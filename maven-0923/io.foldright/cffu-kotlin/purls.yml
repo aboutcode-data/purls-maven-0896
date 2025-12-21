@@ -77,3 +77,4 @@
 - pkg:maven/io.foldright/cffu-kotlin@1.0.1-Alpha?classifier=sources
 - pkg:maven/io.foldright/cffu-kotlin@1.0.2-Alpha?classifier=sources
 - pkg:maven/io.foldright/cffu-kotlin@1.0.3-Alpha?classifier=sources
+- pkg:maven/io.foldright/cffu-kotlin@1.1.0-Alpha?classifier=sources

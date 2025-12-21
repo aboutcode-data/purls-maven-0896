@@ -52,3 +52,5 @@
 - pkg:maven/org.dishevelled/dsh-bio-tools@2.3?classifier=sources
 - pkg:maven/org.dishevelled/dsh-bio-tools@2.4
 - pkg:maven/org.dishevelled/dsh-bio-tools@2.4?classifier=sources
+- pkg:maven/org.dishevelled/dsh-bio-tools@3.0
+- pkg:maven/org.dishevelled/dsh-bio-tools@3.0?classifier=sources

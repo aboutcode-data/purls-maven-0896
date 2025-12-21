@@ -8,3 +8,5 @@
 - pkg:maven/org.cojen/tupl@1.7.0?classifier=sources
 - pkg:maven/org.cojen/tupl@1.8.0
 - pkg:maven/org.cojen/tupl@1.8.0?classifier=sources
+- pkg:maven/org.cojen/tupl@1.9.0
+- pkg:maven/org.cojen/tupl@1.9.0?classifier=sources

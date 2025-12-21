@@ -1,4 +1,5 @@
 - pkg:maven/dev.shreyaspatil.permission-flow/permission-flow-compose@1.1.0?classifier=sources
 - pkg:maven/dev.shreyaspatil.permission-flow/permission-flow-compose@1.2.0?classifier=sources
 - pkg:maven/dev.shreyaspatil.permission-flow/permission-flow-compose@2.0.0?classifier=sources
+- pkg:maven/dev.shreyaspatil.permission-flow/permission-flow-compose@2.1.0?classifier=sources
 - pkg:maven/dev.shreyaspatil.permission-flow/permission-flow-compose@v1.0.1-dev-pre?classifier=sources

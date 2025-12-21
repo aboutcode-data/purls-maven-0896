@@ -7,3 +7,6 @@
 - pkg:maven/org.mvnpm.at.sentry-internal/feedback@7.89.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry-internal/feedback@7.91.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry-internal/feedback@7.99.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/feedback@9.10.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/feedback@9.10.1?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry-internal/feedback@9.9.0?classifier=sources

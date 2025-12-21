@@ -3,6 +3,10 @@
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.1.2?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.0?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.10?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.11?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.12?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.13?classifier=sources
+- pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.14?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.1?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.2?classifier=sources
 - pkg:maven/com.linkedin.isolation-forest/isolation-forest_3.5.1_2.12@3.2.3?classifier=sources

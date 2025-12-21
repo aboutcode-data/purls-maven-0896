@@ -68,3 +68,4 @@
 - pkg:maven/org.jetbrains.compose.material/material@1.8.0-alpha02?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material@1.8.0-alpha03?classifier=sources
 - pkg:maven/org.jetbrains.compose.material/material@1.8.0-alpha04?classifier=sources
+- pkg:maven/org.jetbrains.compose.material/material@1.8.0-beta01?classifier=sources

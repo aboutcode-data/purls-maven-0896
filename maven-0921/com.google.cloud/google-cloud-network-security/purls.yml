@@ -130,6 +130,8 @@
 - pkg:maven/com.google.cloud/google-cloud-network-security@0.61.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-network-security@0.62.0
 - pkg:maven/com.google.cloud/google-cloud-network-security@0.62.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-network-security@0.63.0
+- pkg:maven/com.google.cloud/google-cloud-network-security@0.63.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-network-security@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-network-security@0.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-network-security@0.8.0

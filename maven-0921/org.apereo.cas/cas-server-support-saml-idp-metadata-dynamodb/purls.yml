@@ -1,2 +1,4 @@
 - pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.2.0-RC4?classifier=sources
 - pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.2.0-RC5?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.2.0-RC6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-saml-idp-metadata-dynamodb@7.2.0?classifier=sources

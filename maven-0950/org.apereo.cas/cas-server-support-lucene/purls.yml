@@ -1,0 +1,2 @@
+- pkg:maven/org.apereo.cas/cas-server-support-lucene@7.2.0-RC6?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-support-lucene@7.2.0?classifier=sources

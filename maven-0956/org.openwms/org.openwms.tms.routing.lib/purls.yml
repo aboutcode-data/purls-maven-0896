@@ -1,0 +1,2 @@
+- pkg:maven/org.openwms/org.openwms.tms.routing.lib@2.0.0
+- pkg:maven/org.openwms/org.openwms.tms.routing.lib@2.0.0?classifier=sources

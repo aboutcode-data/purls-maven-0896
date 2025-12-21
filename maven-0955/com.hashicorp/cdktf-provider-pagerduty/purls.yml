@@ -1162,6 +1162,14 @@
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.16.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.17.0
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.17.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.17.1
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.17.1?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.18.0
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.18.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.19.0
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.19.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.19.1
+- pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.19.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.2.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-pagerduty@13.3.0

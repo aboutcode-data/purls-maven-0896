@@ -24,6 +24,8 @@
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.21?classifier=sources
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.22
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.22?classifier=sources
+- pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.23
+- pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.23?classifier=sources
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.3
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.3?classifier=sources
 - pkg:maven/org.glassfish.main/glassfish-itest-tools@7.0.4

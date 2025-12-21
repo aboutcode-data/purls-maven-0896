@@ -22,3 +22,7 @@
 - pkg:maven/dev.logchange/logchange-utils@1.16.8?classifier=sources
 - pkg:maven/dev.logchange/logchange-utils@1.16.9
 - pkg:maven/dev.logchange/logchange-utils@1.16.9?classifier=sources
+- pkg:maven/dev.logchange/logchange-utils@1.17.0
+- pkg:maven/dev.logchange/logchange-utils@1.17.0?classifier=sources
+- pkg:maven/dev.logchange/logchange-utils@1.18.0
+- pkg:maven/dev.logchange/logchange-utils@1.18.0?classifier=sources

@@ -14,3 +14,6 @@
 - pkg:maven/org.jolokia/jolokia-agent-war@2.2.2?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war@2.2.3?type=war
 - pkg:maven/org.jolokia/jolokia-agent-war@2.2.4?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war@2.2.5?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war@2.2.6?type=war
+- pkg:maven/org.jolokia/jolokia-agent-war@2.2.7?type=war

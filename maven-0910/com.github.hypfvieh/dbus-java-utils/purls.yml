@@ -33,3 +33,5 @@
 - pkg:maven/com.github.hypfvieh/dbus-java-utils@5.0.0?classifier=sources
 - pkg:maven/com.github.hypfvieh/dbus-java-utils@5.1.0
 - pkg:maven/com.github.hypfvieh/dbus-java-utils@5.1.0?classifier=sources
+- pkg:maven/com.github.hypfvieh/dbus-java-utils@5.1.1
+- pkg:maven/com.github.hypfvieh/dbus-java-utils@5.1.1?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.2.400?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.2.500
 - pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.2.500?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.2.600
+- pkg:maven/org.eclipse.platform/org.eclipse.tools.layout.spy@1.2.600?classifier=sources

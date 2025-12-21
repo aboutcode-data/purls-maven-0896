@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.sedona/sedona-spark-3.3_2.12@1.7.0
 - pkg:maven/org.apache.sedona/sedona-spark-3.3_2.12@1.7.0?classifier=sources
+- pkg:maven/org.apache.sedona/sedona-spark-3.3_2.12@1.7.1
+- pkg:maven/org.apache.sedona/sedona-spark-3.3_2.12@1.7.1?classifier=sources

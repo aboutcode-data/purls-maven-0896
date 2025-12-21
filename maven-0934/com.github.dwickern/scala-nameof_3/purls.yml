@@ -2,3 +2,5 @@
 - pkg:maven/com.github.dwickern/scala-nameof_3@4.0.0?classifier=sources
 - pkg:maven/com.github.dwickern/scala-nameof_3@4.1.0
 - pkg:maven/com.github.dwickern/scala-nameof_3@4.1.0?classifier=sources
+- pkg:maven/com.github.dwickern/scala-nameof_3@5.0.0
+- pkg:maven/com.github.dwickern/scala-nameof_3@5.0.0?classifier=sources

@@ -80,3 +80,7 @@
 - pkg:maven/com.litongjava/tio-core@3.7.3.v20250201-RELEASE?classifier=sources
 - pkg:maven/com.litongjava/tio-core@3.7.3.v20250301-RELEASE
 - pkg:maven/com.litongjava/tio-core@3.7.3.v20250301-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20250303-RELEASE
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20250303-RELEASE?classifier=sources
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20250305-RELEASE
+- pkg:maven/com.litongjava/tio-core@3.7.3.v20250305-RELEASE?classifier=sources

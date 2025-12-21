@@ -104,3 +104,4 @@
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.0.Beta3?classifier=sources
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.0.Final
 - pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly.clustering/wildfly-clustering-server-api@6.0.1.Final?classifier=sources

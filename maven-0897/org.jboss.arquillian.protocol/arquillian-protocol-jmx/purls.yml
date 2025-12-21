@@ -139,3 +139,4 @@
 - pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.9.2.Final?classifier=sources
 - pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.9.3.Final
 - pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.9.3.Final?classifier=sources
+- pkg:maven/org.jboss.arquillian.protocol/arquillian-protocol-jmx@1.9.4.Final?classifier=sources

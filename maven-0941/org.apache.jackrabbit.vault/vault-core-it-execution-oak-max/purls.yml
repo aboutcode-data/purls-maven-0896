@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-oak-max@3.8.0?classifier=sources
 - pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-oak-max@3.8.2
 - pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-oak-max@3.8.2?classifier=sources
+- pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-oak-max@3.8.4
+- pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-oak-max@3.8.4?classifier=sources

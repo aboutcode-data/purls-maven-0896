@@ -34,6 +34,8 @@
 - pkg:maven/com.oracle.database.observability/ojdbc10dms@19.24.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc10dms@19.25.0.0
 - pkg:maven/com.oracle.database.observability/ojdbc10dms@19.25.0.0?classifier=sources
+- pkg:maven/com.oracle.database.observability/ojdbc10dms@19.26.0.0
+- pkg:maven/com.oracle.database.observability/ojdbc10dms@19.26.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc10dms@19.7.0.0
 - pkg:maven/com.oracle.database.observability/ojdbc10dms@19.7.0.0?classifier=sources
 - pkg:maven/com.oracle.database.observability/ojdbc10dms@19.8.0.0

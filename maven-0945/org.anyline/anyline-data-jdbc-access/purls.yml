@@ -64,6 +64,10 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-20250212?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-20250225
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-20250225?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-20250312?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-20250401
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-20250401?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20240826
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20240826?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20240827
@@ -90,6 +94,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20250108?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk11-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20240827
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20240827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20240902
@@ -124,6 +130,8 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20250109?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk17-20250312?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20240827
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20240827?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20240902
@@ -168,3 +176,5 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20250109?classifier=sources
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20250212
 - pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20250212?classifier=sources
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20250312
+- pkg:maven/org.anyline/anyline-data-jdbc-access@8.7.2-jdk21-20250312?classifier=sources

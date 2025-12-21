@@ -1,5 +1,7 @@
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.10.0
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.10.0?classifier=sources
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.11.0
+- pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.11.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.7.0
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.7.0?classifier=sources
 - pkg:maven/org.apache.karaf.decanter.collector/org.apache.karaf.decanter.collector.druid@2.8.0

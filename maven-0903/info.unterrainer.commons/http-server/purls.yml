@@ -128,6 +128,12 @@
 - pkg:maven/info.unterrainer.commons/http-server@0.3.13?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.3.14
 - pkg:maven/info.unterrainer.commons/http-server@0.3.14?classifier=sources
+- pkg:maven/info.unterrainer.commons/http-server@0.3.15
+- pkg:maven/info.unterrainer.commons/http-server@0.3.15?classifier=sources
+- pkg:maven/info.unterrainer.commons/http-server@0.3.16
+- pkg:maven/info.unterrainer.commons/http-server@0.3.16?classifier=sources
+- pkg:maven/info.unterrainer.commons/http-server@0.3.19
+- pkg:maven/info.unterrainer.commons/http-server@0.3.19?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.3.1?classifier=sources
 - pkg:maven/info.unterrainer.commons/http-server@0.3.2
 - pkg:maven/info.unterrainer.commons/http-server@0.3.2?classifier=sources

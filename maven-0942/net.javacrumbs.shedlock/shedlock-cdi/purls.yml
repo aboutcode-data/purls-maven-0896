@@ -44,3 +44,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@6.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@6.3.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@6.3.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@6.3.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-cdi@6.3.1?classifier=sources

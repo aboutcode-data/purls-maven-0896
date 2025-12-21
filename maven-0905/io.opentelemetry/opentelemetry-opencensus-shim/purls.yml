@@ -70,6 +70,7 @@
 - pkg:maven/io.opentelemetry/opentelemetry-opencensus-shim@1.45.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opencensus-shim@1.46.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opencensus-shim@1.47.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-opencensus-shim@1.48.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opencensus-shim@1.5.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opencensus-shim@1.6.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-opencensus-shim@1.7.0-alpha?classifier=sources

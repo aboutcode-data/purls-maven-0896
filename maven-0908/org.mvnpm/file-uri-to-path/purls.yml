@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/file-uri-to-path@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/file-uri-to-path@2.0.0?classifier=sources

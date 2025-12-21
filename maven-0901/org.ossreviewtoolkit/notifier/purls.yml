@@ -76,6 +76,9 @@
 - pkg:maven/org.ossreviewtoolkit/notifier@52.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@52.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@53.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@54.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@55.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/notifier@55.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/notifier@6.1.1?classifier=sources

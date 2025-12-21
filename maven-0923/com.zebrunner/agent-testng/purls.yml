@@ -1,4 +1,5 @@
 - pkg:maven/com.zebrunner/agent-testng@1.0.0?classifier=sources
+- pkg:maven/com.zebrunner/agent-testng@1.10.0?classifier=sources
 - pkg:maven/com.zebrunner/agent-testng@1.2.0?classifier=sources
 - pkg:maven/com.zebrunner/agent-testng@1.4.0?classifier=sources
 - pkg:maven/com.zebrunner/agent-testng@1.5.0?classifier=sources

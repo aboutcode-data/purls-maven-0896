@@ -1,3 +1,4 @@
 - pkg:maven/com.factset.sdk/eventscontribution@0.20.0?classifier=sources
 - pkg:maven/com.factset.sdk/eventscontribution@0.20.1?classifier=sources
 - pkg:maven/com.factset.sdk/eventscontribution@0.20.2?classifier=sources
+- pkg:maven/com.factset.sdk/eventscontribution@0.20.3?classifier=sources

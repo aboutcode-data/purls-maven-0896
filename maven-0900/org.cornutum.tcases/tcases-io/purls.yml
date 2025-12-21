@@ -66,3 +66,5 @@
 - pkg:maven/org.cornutum.tcases/tcases-io@4.0.4?classifier=sources
 - pkg:maven/org.cornutum.tcases/tcases-io@4.0.5
 - pkg:maven/org.cornutum.tcases/tcases-io@4.0.5?classifier=sources
+- pkg:maven/org.cornutum.tcases/tcases-io@4.1.0
+- pkg:maven/org.cornutum.tcases/tcases-io@4.1.0?classifier=sources

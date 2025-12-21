@@ -1,0 +1,4 @@
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-weaviate-deployment@0.26.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-weaviate-deployment@0.26.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-weaviate-deployment@0.26.0?classifier=sources
+- pkg:maven/io.quarkiverse.langchain4j/quarkus-langchain4j-weaviate-deployment@0.26.1?classifier=sources

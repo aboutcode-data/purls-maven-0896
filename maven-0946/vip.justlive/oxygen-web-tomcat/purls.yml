@@ -67,6 +67,14 @@
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.11.1
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.11.1?classifier=sources
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.11?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12.0
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12.0?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12.1
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12.1?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12.2
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12.2?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.12?classifier=sources
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.1?classifier=sources
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.2
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.2?classifier=sources
@@ -94,3 +102,5 @@
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.9.0
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.9.0?classifier=sources
 - pkg:maven/vip.justlive/oxygen-web-tomcat@3.0.9?classifier=sources
+- pkg:maven/vip.justlive/oxygen-web-tomcat@4.0.0
+- pkg:maven/vip.justlive/oxygen-web-tomcat@4.0.0?classifier=sources

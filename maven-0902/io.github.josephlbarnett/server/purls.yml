@@ -19,3 +19,5 @@
 - pkg:maven/io.github.josephlbarnett/server@3.2.436?classifier=sources
 - pkg:maven/io.github.josephlbarnett/server@3.2.462?classifier=sources
 - pkg:maven/io.github.josephlbarnett/server@3.2.483?classifier=sources
+- pkg:maven/io.github.josephlbarnett/server@3.2.535?classifier=sources
+- pkg:maven/io.github.josephlbarnett/server@3.2.546?classifier=sources

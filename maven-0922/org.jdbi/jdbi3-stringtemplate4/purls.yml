@@ -184,6 +184,8 @@
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.47.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.48.0
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.48.0?classifier=sources
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.49.0
+- pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.49.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.5.0
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.5.0?classifier=sources
 - pkg:maven/org.jdbi/jdbi3-stringtemplate4@3.5.1

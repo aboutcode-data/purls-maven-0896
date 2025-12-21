@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/clap@1.2.3?classifier=sources
+- pkg:maven/org.mvnpm/clap@3.1.1?classifier=sources

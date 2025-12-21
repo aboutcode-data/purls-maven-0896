@@ -1,0 +1,2 @@
+- pkg:maven/io.gitlab.spring-cattle.oauth/cattle-oauth-starter-authorization@1.0.0
+- pkg:maven/io.gitlab.spring-cattle.oauth/cattle-oauth-starter-authorization@1.0.0?classifier=sources

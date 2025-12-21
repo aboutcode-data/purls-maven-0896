@@ -22,3 +22,4 @@
 - pkg:maven/io.quarkiverse.minio/quarkus-minio-native-deployment@3.7.6?classifier=sources
 - pkg:maven/io.quarkiverse.minio/quarkus-minio-native-deployment@3.7.7
 - pkg:maven/io.quarkiverse.minio/quarkus-minio-native-deployment@3.7.7?classifier=sources
+- pkg:maven/io.quarkiverse.minio/quarkus-minio-native-deployment@3.8.1?classifier=sources

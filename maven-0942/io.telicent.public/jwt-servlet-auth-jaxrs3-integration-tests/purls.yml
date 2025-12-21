@@ -22,3 +22,5 @@
 - pkg:maven/io.telicent.public/jwt-servlet-auth-jaxrs3-integration-tests@0.17.4?classifier=sources
 - pkg:maven/io.telicent.public/jwt-servlet-auth-jaxrs3-integration-tests@0.17.5
 - pkg:maven/io.telicent.public/jwt-servlet-auth-jaxrs3-integration-tests@0.17.5?classifier=sources
+- pkg:maven/io.telicent.public/jwt-servlet-auth-jaxrs3-integration-tests@0.17.6
+- pkg:maven/io.telicent.public/jwt-servlet-auth-jaxrs3-integration-tests@0.17.6?classifier=sources

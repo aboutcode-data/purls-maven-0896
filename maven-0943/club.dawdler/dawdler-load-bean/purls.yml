@@ -19,3 +19,6 @@
 - pkg:maven/club.dawdler/dawdler-load-bean@0.0.7-jdk1.8-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-load-bean@0.0.7-jdk17-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-load-bean@0.0.7-jdk21-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-load-bean@0.0.8-jdk1.8-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-load-bean@0.0.8-jdk17-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-load-bean@0.0.8-jdk21-RELEASES?classifier=sources

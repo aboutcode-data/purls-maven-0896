@@ -122,3 +122,5 @@
 - pkg:maven/ai.tock/tock-bot-admin-test-core@24.9.6?classifier=sources
 - pkg:maven/ai.tock/tock-bot-admin-test-core@24.9.7
 - pkg:maven/ai.tock/tock-bot-admin-test-core@24.9.7?classifier=sources
+- pkg:maven/ai.tock/tock-bot-admin-test-core@24.9.8
+- pkg:maven/ai.tock/tock-bot-admin-test-core@24.9.8?classifier=sources

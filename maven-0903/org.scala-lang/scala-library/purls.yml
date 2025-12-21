@@ -171,6 +171,8 @@
 - pkg:maven/org.scala-lang/scala-library@2.12.20-M1
 - pkg:maven/org.scala-lang/scala-library@2.12.20-M1?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.12.20?classifier=sources
+- pkg:maven/org.scala-lang/scala-library@2.12.21-M1
+- pkg:maven/org.scala-lang/scala-library@2.12.21-M1?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.12.2?classifier=sources
 - pkg:maven/org.scala-lang/scala-library@2.12.3
 - pkg:maven/org.scala-lang/scala-library@2.12.3?classifier=sources

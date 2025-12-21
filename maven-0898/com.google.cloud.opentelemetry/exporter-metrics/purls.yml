@@ -29,5 +29,6 @@
 - pkg:maven/com.google.cloud.opentelemetry/exporter-metrics@0.31.0?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-metrics@0.32.0?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-metrics@0.33.0?classifier=sources
+- pkg:maven/com.google.cloud.opentelemetry/exporter-metrics@0.34.0?classifier=sources
 - pkg:maven/com.google.cloud.opentelemetry/exporter-metrics@0.9.1
 - pkg:maven/com.google.cloud.opentelemetry/exporter-metrics@0.9.1?classifier=sources

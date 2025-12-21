@@ -2,3 +2,7 @@
 - pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.10?classifier=sources
 - pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.11
 - pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.11?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.12
+- pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.12?classifier=sources
+- pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.13
+- pkg:maven/com.yahoo.athenz/athenz-server-notification-slack@1.12.13?classifier=sources

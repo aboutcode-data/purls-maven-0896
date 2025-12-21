@@ -26,3 +26,7 @@
 - pkg:maven/nl.gn0s1s/elastic4s-effect-monix_2.12@8.15.4?classifier=sources
 - pkg:maven/nl.gn0s1s/elastic4s-effect-monix_2.12@8.16.0
 - pkg:maven/nl.gn0s1s/elastic4s-effect-monix_2.12@8.16.0?classifier=sources
+- pkg:maven/nl.gn0s1s/elastic4s-effect-monix_2.12@8.17.0
+- pkg:maven/nl.gn0s1s/elastic4s-effect-monix_2.12@8.17.0?classifier=sources
+- pkg:maven/nl.gn0s1s/elastic4s-effect-monix_2.12@8.17.1
+- pkg:maven/nl.gn0s1s/elastic4s-effect-monix_2.12@8.17.1?classifier=sources
