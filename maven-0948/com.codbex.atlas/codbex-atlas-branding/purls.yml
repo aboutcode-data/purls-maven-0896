@@ -95,8 +95,14 @@
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.63.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.63.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.64.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.65.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.66.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.67.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.68.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.69.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.7.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.7.0?classifier=sources
+- pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.70.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.8.0
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.8.0?classifier=sources
 - pkg:maven/com.codbex.atlas/codbex-atlas-branding@2.9.0

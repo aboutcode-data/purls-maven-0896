@@ -203,6 +203,10 @@
 - pkg:maven/org.openrewrite/rewrite-java-17@8.55.3?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.56.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.56.1?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@8.57.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@8.58.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@8.59.0?classifier=sources
+- pkg:maven/org.openrewrite/rewrite-java-17@8.59.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.6.0?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.6.1?classifier=sources
 - pkg:maven/org.openrewrite/rewrite-java-17@8.6.2?classifier=sources

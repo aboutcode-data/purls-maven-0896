@@ -14,3 +14,4 @@
 - pkg:maven/org.eclipse.angus/logging-mailhandler@2.0.2?classifier=sources
 - pkg:maven/org.eclipse.angus/logging-mailhandler@2.0.3
 - pkg:maven/org.eclipse.angus/logging-mailhandler@2.0.3?classifier=sources
+- pkg:maven/org.eclipse.angus/logging-mailhandler@2.0.4?classifier=sources

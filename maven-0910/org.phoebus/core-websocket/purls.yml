@@ -1,0 +1,2 @@
+- pkg:maven/org.phoebus/core-websocket@5.0.2
+- pkg:maven/org.phoebus/core-websocket@5.0.2?classifier=sources

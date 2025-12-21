@@ -28,3 +28,5 @@
 - pkg:maven/jakarta.tck.arquillian/arquillian-protocol-common@11.0.8?classifier=sources
 - pkg:maven/jakarta.tck.arquillian/arquillian-protocol-common@11.0.9
 - pkg:maven/jakarta.tck.arquillian/arquillian-protocol-common@11.0.9?classifier=sources
+- pkg:maven/jakarta.tck.arquillian/arquillian-protocol-common@11.1.0
+- pkg:maven/jakarta.tck.arquillian/arquillian-protocol-common@11.1.0?classifier=sources

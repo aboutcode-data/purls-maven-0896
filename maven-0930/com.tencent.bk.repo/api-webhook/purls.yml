@@ -1,3 +1,4 @@
 - pkg:maven/com.tencent.bk.repo/api-webhook@1.0.0?classifier=sources
 - pkg:maven/com.tencent.bk.repo/api-webhook@1.0.1?classifier=sources
 - pkg:maven/com.tencent.bk.repo/api-webhook@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.repo/api-webhook@2.5.0-rc.6-RELEASE?classifier=sources

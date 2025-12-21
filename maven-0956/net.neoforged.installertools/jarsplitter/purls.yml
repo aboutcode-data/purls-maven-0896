@@ -6,6 +6,7 @@
 - pkg:maven/net.neoforged.installertools/jarsplitter@2.1.9?classifier=sources
 - pkg:maven/net.neoforged.installertools/jarsplitter@3.0.0?classifier=sources
 - pkg:maven/net.neoforged.installertools/jarsplitter@3.0.10?classifier=sources
+- pkg:maven/net.neoforged.installertools/jarsplitter@3.0.13?classifier=sources
 - pkg:maven/net.neoforged.installertools/jarsplitter@3.0.1?classifier=sources
 - pkg:maven/net.neoforged.installertools/jarsplitter@3.0.2?classifier=sources
 - pkg:maven/net.neoforged.installertools/jarsplitter@3.0.3?classifier=sources

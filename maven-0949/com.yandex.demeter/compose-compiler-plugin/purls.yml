@@ -1,2 +1,4 @@
 - pkg:maven/com.yandex.demeter/compose-compiler-plugin@0.38.0?classifier=sources
+- pkg:maven/com.yandex.demeter/compose-compiler-plugin@0.38.2?classifier=sources
+- pkg:maven/com.yandex.demeter/compose-compiler-plugin@0.38.3?classifier=sources
 - pkg:maven/com.yandex.demeter/compose-compiler-plugin@1.0.0?classifier=sources

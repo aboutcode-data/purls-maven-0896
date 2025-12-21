@@ -14,4 +14,5 @@
 - pkg:maven/com.llama.llamastack/llama-stack-client-kotlin@0.1.4.2?classifier=sources
 - pkg:maven/com.llama.llamastack/llama-stack-client-kotlin@0.1.4?classifier=sources
 - pkg:maven/com.llama.llamastack/llama-stack-client-kotlin@0.1.7?classifier=sources
+- pkg:maven/com.llama.llamastack/llama-stack-client-kotlin@0.2.14?classifier=sources
 - pkg:maven/com.llama.llamastack/llama-stack-client-kotlin@0.2.2?classifier=sources

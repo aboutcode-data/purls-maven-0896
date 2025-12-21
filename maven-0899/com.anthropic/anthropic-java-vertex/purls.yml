@@ -10,3 +10,4 @@
 - pkg:maven/com.anthropic/anthropic-java-vertex@1.4.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-vertex@2.0.0?classifier=sources
 - pkg:maven/com.anthropic/anthropic-java-vertex@2.1.0?classifier=sources
+- pkg:maven/com.anthropic/anthropic-java-vertex@2.2.0?classifier=sources

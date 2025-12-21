@@ -41,3 +41,4 @@
 - pkg:maven/io.github.bdezonia/zorbage-gdal@0.1.9.1?classifier=sources
 - pkg:maven/io.github.bdezonia/zorbage-gdal@0.1.9?classifier=sources
 - pkg:maven/io.github.bdezonia/zorbage-gdal@0.2.1?classifier=sources
+- pkg:maven/io.github.bdezonia/zorbage-gdal@0.2.2?classifier=sources

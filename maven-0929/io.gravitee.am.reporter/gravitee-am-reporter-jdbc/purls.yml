@@ -361,6 +361,7 @@
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.5.18?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.5.19?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.5.1?classifier=sources
+- pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.5.23?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.5.2?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.5.3?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.5.4?classifier=sources
@@ -378,6 +379,7 @@
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.6.12?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.6.13?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.6.14?classifier=sources
+- pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.6.17?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.6.1?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.6.2?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.6.3?classifier=sources
@@ -392,6 +394,7 @@
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.0-alpha.3?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.0?classifier=sources
+- pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.10?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.1?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.2?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.3?classifier=sources
@@ -401,3 +404,4 @@
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.7.7?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.8.0-alpha.1?classifier=sources
 - pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.8.0?classifier=sources
+- pkg:maven/io.gravitee.am.reporter/gravitee-am-reporter-jdbc@4.8.3?classifier=sources

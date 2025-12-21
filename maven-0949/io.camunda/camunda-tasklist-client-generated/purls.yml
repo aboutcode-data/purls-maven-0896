@@ -27,6 +27,7 @@
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.6.10?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.6.11
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.6.11?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-generated@8.6.12?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.6.1?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.6.2
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.6.2?classifier=sources
@@ -50,3 +51,5 @@
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.1?classifier=sources
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.2
 - pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.2?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.3?classifier=sources
+- pkg:maven/io.camunda/camunda-tasklist-client-generated@8.7.4?classifier=sources

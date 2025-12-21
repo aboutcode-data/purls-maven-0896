@@ -1,4 +1,6 @@
 - pkg:maven/in.vectorpro.dropwizard/dropwizard-swagger-ui@3.51.1
 - pkg:maven/in.vectorpro.dropwizard/dropwizard-swagger-ui@3.51.1?classifier=sources
+- pkg:maven/in.vectorpro.dropwizard/dropwizard-swagger-ui@4.19.1?classifier=sources
 - pkg:maven/in.vectorpro.dropwizard/dropwizard-swagger-ui@4.6.2
 - pkg:maven/in.vectorpro.dropwizard/dropwizard-swagger-ui@4.6.2?classifier=sources
+- pkg:maven/in.vectorpro.dropwizard/dropwizard-swagger-ui@5.27.0?classifier=sources

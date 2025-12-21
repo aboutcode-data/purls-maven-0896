@@ -16,3 +16,4 @@
 - pkg:maven/io.kotzilla/kotzilla-sdk-iosx64@1.0.2-RC4?classifier=sources
 - pkg:maven/io.kotzilla/kotzilla-sdk-iosx64@1.0.2-RC5?classifier=sources
 - pkg:maven/io.kotzilla/kotzilla-sdk-iosx64@1.1.0?classifier=sources
+- pkg:maven/io.kotzilla/kotzilla-sdk-iosx64@1.2.0-Beta1?classifier=sources

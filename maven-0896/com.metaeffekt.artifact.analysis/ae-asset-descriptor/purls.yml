@@ -97,3 +97,8 @@
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.139.0
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.139.0?classifier=sources
 - pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.140.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.141.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.142.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.143.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.144.0?classifier=sources
+- pkg:maven/com.metaeffekt.artifact.analysis/ae-asset-descriptor@0.144.1?classifier=sources

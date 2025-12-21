@@ -803,6 +803,13 @@
 - pkg:maven/com.yahoo.vespa/configserver-flags@8.544.32?classifier=sources
 - pkg:maven/com.yahoo.vespa/configserver-flags@8.545.40?classifier=sources
 - pkg:maven/com.yahoo.vespa/configserver-flags@8.546.13?classifier=sources
+- pkg:maven/com.yahoo.vespa/configserver-flags@8.547.15?classifier=sources
+- pkg:maven/com.yahoo.vespa/configserver-flags@8.548.23?classifier=sources
+- pkg:maven/com.yahoo.vespa/configserver-flags@8.550.14?classifier=sources
+- pkg:maven/com.yahoo.vespa/configserver-flags@8.551.21?classifier=sources
+- pkg:maven/com.yahoo.vespa/configserver-flags@8.553.3?classifier=sources
+- pkg:maven/com.yahoo.vespa/configserver-flags@8.554.5?classifier=sources
+- pkg:maven/com.yahoo.vespa/configserver-flags@8.555.25?classifier=sources
 - pkg:maven/com.yahoo.vespa/configserver-flags@8.56.20?classifier=sources
 - pkg:maven/com.yahoo.vespa/configserver-flags@8.57.18?classifier=sources
 - pkg:maven/com.yahoo.vespa/configserver-flags@8.61.17?classifier=sources

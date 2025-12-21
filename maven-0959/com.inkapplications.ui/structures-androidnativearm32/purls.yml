@@ -20,3 +20,5 @@
 - pkg:maven/com.inkapplications.ui/structures-androidnativearm32@1.0.0?classifier=sources
 - pkg:maven/com.inkapplications.ui/structures-androidnativearm32@1.1.0?classifier=sources
 - pkg:maven/com.inkapplications.ui/structures-androidnativearm32@1.2.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/structures-androidnativearm32@1.4.0?classifier=sources
+- pkg:maven/com.inkapplications.ui/structures-androidnativearm32@1.5.0?classifier=sources

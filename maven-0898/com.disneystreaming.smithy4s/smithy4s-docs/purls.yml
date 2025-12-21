@@ -36,3 +36,7 @@
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.37?classifier=sources
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.38
 - pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.38?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.39
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.39?classifier=sources
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.40
+- pkg:maven/com.disneystreaming.smithy4s/smithy4s-docs@0.18.40?classifier=sources

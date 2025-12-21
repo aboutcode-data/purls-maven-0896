@@ -24,3 +24,4 @@
 - pkg:maven/org.hildan.socketio/socketio-kotlin@2.3.0?classifier=sources
 - pkg:maven/org.hildan.socketio/socketio-kotlin@2.4.0?classifier=sources
 - pkg:maven/org.hildan.socketio/socketio-kotlin@2.5.0?classifier=sources
+- pkg:maven/org.hildan.socketio/socketio-kotlin@2.6.0?classifier=sources

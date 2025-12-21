@@ -7,6 +7,7 @@
 - pkg:maven/net.accelbyte.sdk/module-session@0.14.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-session@0.15.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-session@0.16.0?classifier=sources
+- pkg:maven/net.accelbyte.sdk/module-session@0.17.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-session@0.2.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-session@0.3.0?classifier=sources
 - pkg:maven/net.accelbyte.sdk/module-session@0.4.0?classifier=sources

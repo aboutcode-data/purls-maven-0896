@@ -26,3 +26,7 @@
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.6.1?classifier=sources
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.6.2?classifier=sources
 - pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.6.3?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.7.0.CR1?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.7.0.CR2?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.7.0.CR3?classifier=sources
+- pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-markdown-deployment@1.7.0.CR4?classifier=sources

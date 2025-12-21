@@ -38,6 +38,8 @@
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@11.5.2?classifier=sources
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@11.5.3
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@11.5.3?classifier=sources
+- pkg:maven/org.docx4j/docx4j-openxml-objects-pml@11.5.4
+- pkg:maven/org.docx4j/docx4j-openxml-objects-pml@11.5.4?classifier=sources
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.0.0
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.0.0?classifier=sources
 - pkg:maven/org.docx4j/docx4j-openxml-objects-pml@8.1.0

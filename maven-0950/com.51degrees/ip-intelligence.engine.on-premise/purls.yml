@@ -1,3 +1,6 @@
+- pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.100?classifier=sources
+- pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.101?classifier=sources
+- pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.102?classifier=sources
 - pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.56?classifier=sources
 - pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.60?classifier=sources
 - pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.79?classifier=sources
@@ -15,3 +18,5 @@
 - pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.93?classifier=sources
 - pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.95?classifier=sources
 - pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.97?classifier=sources
+- pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.98?classifier=sources
+- pkg:maven/com.51degrees/ip-intelligence.engine.on-premise@0.0.1-alpha.99?classifier=sources

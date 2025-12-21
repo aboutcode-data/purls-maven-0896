@@ -71,7 +71,13 @@
 - pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.46?classifier=sources
 - pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.47
 - pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.47?classifier=sources
+- pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.49?classifier=sources
 - pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.4?classifier=sources
+- pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.50?classifier=sources
+- pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.51?classifier=sources
+- pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.52?classifier=sources
+- pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.53?classifier=sources
+- pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.54?classifier=sources
 - pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.6
 - pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.6?classifier=sources
 - pkg:maven/com.fluxtion/serverplugin-springbuilder@0.1.7

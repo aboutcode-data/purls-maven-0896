@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.causeway.viewer/causeway-viewer-wicket-viewer@3.2.0?classifier=sources
 - pkg:maven/org.apache.causeway.viewer/causeway-viewer-wicket-viewer@3.3.0
 - pkg:maven/org.apache.causeway.viewer/causeway-viewer-wicket-viewer@3.3.0?classifier=sources
+- pkg:maven/org.apache.causeway.viewer/causeway-viewer-wicket-viewer@3.4.0
+- pkg:maven/org.apache.causeway.viewer/causeway-viewer-wicket-viewer@3.4.0?classifier=sources

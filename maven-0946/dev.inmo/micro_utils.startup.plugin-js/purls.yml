@@ -119,3 +119,5 @@
 - pkg:maven/dev.inmo/micro_utils.startup.plugin-js@0.25.6?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.startup.plugin-js@0.25.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.startup.plugin-js@0.25.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.startup.plugin-js@0.26.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.startup.plugin-js@0.26.1?classifier=sources

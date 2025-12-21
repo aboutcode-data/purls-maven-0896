@@ -20,3 +20,4 @@
 - pkg:maven/com.webforj/webforj-foundation@25.00?classifier=sources
 - pkg:maven/com.webforj/webforj-foundation@25.01
 - pkg:maven/com.webforj/webforj-foundation@25.01?classifier=sources
+- pkg:maven/com.webforj/webforj-foundation@25.02?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.nhind/direct-msg-monitor-model@6.0?classifier=sources
 - pkg:maven/org.nhind/direct-msg-monitor-model@8.0.0
 - pkg:maven/org.nhind/direct-msg-monitor-model@8.0.0?classifier=sources
+- pkg:maven/org.nhind/direct-msg-monitor-model@8.1.0?classifier=sources

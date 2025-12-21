@@ -43,3 +43,8 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.48.2?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.49.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.49.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.50.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.50.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.50.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.50.3?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox-test@8.51.0?classifier=sources

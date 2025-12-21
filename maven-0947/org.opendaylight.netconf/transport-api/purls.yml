@@ -65,3 +65,5 @@
 - pkg:maven/org.opendaylight.netconf/transport-api@8.0.6?classifier=sources
 - pkg:maven/org.opendaylight.netconf/transport-api@8.0.7
 - pkg:maven/org.opendaylight.netconf/transport-api@8.0.7?classifier=sources
+- pkg:maven/org.opendaylight.netconf/transport-api@9.0.0
+- pkg:maven/org.opendaylight.netconf/transport-api@9.0.0?classifier=sources

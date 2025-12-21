@@ -1,2 +1,5 @@
 - pkg:maven/io.github.loop312/compose-keyhandler-iossimulatorarm64@0.2.0?classifier=sources
 - pkg:maven/io.github.loop312/compose-keyhandler-iossimulatorarm64@0.2.1?classifier=sources
+- pkg:maven/io.github.loop312/compose-keyhandler-iossimulatorarm64@0.5.0?classifier=sources
+- pkg:maven/io.github.loop312/compose-keyhandler-iossimulatorarm64@0.6.0?classifier=sources
+- pkg:maven/io.github.loop312/compose-keyhandler-iossimulatorarm64@0.6.1?classifier=sources

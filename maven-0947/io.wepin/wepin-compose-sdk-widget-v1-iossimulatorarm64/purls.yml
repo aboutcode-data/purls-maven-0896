@@ -3,3 +3,4 @@
 - pkg:maven/io.wepin/wepin-compose-sdk-widget-v1-iossimulatorarm64@0.0.3?classifier=sources
 - pkg:maven/io.wepin/wepin-compose-sdk-widget-v1-iossimulatorarm64@0.0.4?classifier=sources
 - pkg:maven/io.wepin/wepin-compose-sdk-widget-v1-iossimulatorarm64@1.0.0?classifier=sources
+- pkg:maven/io.wepin/wepin-compose-sdk-widget-v1-iossimulatorarm64@1.0.1?classifier=sources

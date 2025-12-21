@@ -2,3 +2,4 @@
 - pkg:maven/com.oviva.spicegen/example@0.12.0?classifier=sources
 - pkg:maven/com.oviva.spicegen/example@0.13.0?classifier=sources
 - pkg:maven/com.oviva.spicegen/example@0.14.0?classifier=sources
+- pkg:maven/com.oviva.spicegen/example@0.15.1?classifier=sources

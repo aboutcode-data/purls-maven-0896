@@ -102,3 +102,5 @@
 - pkg:maven/dev.inmo/micro_utils.serialization.mapper-android-debug@0.25.5?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.mapper-android-debug@0.25.7?classifier=sources
 - pkg:maven/dev.inmo/micro_utils.serialization.mapper-android-debug@0.25.8?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.mapper-android-debug@0.26.0?classifier=sources
+- pkg:maven/dev.inmo/micro_utils.serialization.mapper-android-debug@0.26.1?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/com.jd.easyflow/easyflow-process-server@1.6.0?classifier=sources
 - pkg:maven/com.jd.easyflow/easyflow-process-server@1.6.1
 - pkg:maven/com.jd.easyflow/easyflow-process-server@1.6.1?classifier=sources
+- pkg:maven/com.jd.easyflow/easyflow-process-server@1.6.2?classifier=sources
+- pkg:maven/com.jd.easyflow/easyflow-process-server@1.6.3?classifier=sources

@@ -21,3 +21,4 @@
 - pkg:maven/com.mx.path-facilities/encryption-service-jasypt@5.1.0?classifier=sources
 - pkg:maven/com.mx.path-facilities/encryption-service-jasypt@5.2.0?classifier=sources
 - pkg:maven/com.mx.path-facilities/encryption-service-jasypt@5.3.0?classifier=sources
+- pkg:maven/com.mx.path-facilities/encryption-service-jasypt@5.3.1?classifier=sources

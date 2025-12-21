@@ -75,6 +75,7 @@
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-http@0.14.8?classifier=sources
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-http@0.14.9
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-http@0.14.9?classifier=sources
+- pkg:maven/com.linked-planet.client/kotlin-insight-client-http@0.15.7?classifier=sources
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-http@0.9.0
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-http@0.9.0?classifier=sources
 - pkg:maven/com.linked-planet.client/kotlin-insight-client-http@0.9.1

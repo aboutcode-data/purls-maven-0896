@@ -24,3 +24,4 @@
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.3?classifier=sources
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.4
 - pkg:maven/org.bedework.selfreg/bw-self-registration-web@5.0.4?classifier=sources
+- pkg:maven/org.bedework.selfreg/bw-self-registration-web@6.0.0?classifier=sources

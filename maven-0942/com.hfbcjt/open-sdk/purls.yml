@@ -17,4 +17,5 @@
 - pkg:maven/com.hfbcjt/open-sdk@0.0.4.6?classifier=sources
 - pkg:maven/com.hfbcjt/open-sdk@0.0.4.7?classifier=sources
 - pkg:maven/com.hfbcjt/open-sdk@0.0.5.7?classifier=sources
+- pkg:maven/com.hfbcjt/open-sdk@0.0.5.9?classifier=sources
 - pkg:maven/com.hfbcjt/open-sdk@0.0.6.7?classifier=sources

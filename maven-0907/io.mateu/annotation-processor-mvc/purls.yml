@@ -2,6 +2,8 @@
 - pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.0100?classifier=sources
 - pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.101
 - pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.101?classifier=sources
+- pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.106?classifier=sources
+- pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.107?classifier=sources
 - pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.98
 - pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.98?classifier=sources
 - pkg:maven/io.mateu/annotation-processor-mvc@3.0-alpha.99

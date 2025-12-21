@@ -1,2 +1,4 @@
 - pkg:maven/io.preboot/preboot-securedata@1.0.0?classifier=sources
 - pkg:maven/io.preboot/preboot-securedata@1.1.0?classifier=sources
+- pkg:maven/io.preboot/preboot-securedata@1.1.1?classifier=sources
+- pkg:maven/io.preboot/preboot-securedata@1.1.2?classifier=sources

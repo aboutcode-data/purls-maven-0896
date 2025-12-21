@@ -4,3 +4,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-test@2.20.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-test@2.21.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-test@2.22.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-test@2.23.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-test@2.24.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-test@2.25.0?classifier=sources

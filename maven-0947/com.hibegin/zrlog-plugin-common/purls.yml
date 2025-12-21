@@ -92,3 +92,4 @@
 - pkg:maven/com.hibegin/zrlog-plugin-common@3.0.8?classifier=sources
 - pkg:maven/com.hibegin/zrlog-plugin-common@3.0.9
 - pkg:maven/com.hibegin/zrlog-plugin-common@3.0.9?classifier=sources
+- pkg:maven/com.hibegin/zrlog-plugin-common@3.2.2?classifier=sources

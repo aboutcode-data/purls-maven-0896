@@ -51,6 +51,7 @@
 - pkg:maven/org.tomitribe/tomitribe-crest@0.34?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest@0.35
 - pkg:maven/org.tomitribe/tomitribe-crest@0.35?classifier=sources
+- pkg:maven/org.tomitribe/tomitribe-crest@0.36?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest@0.3?classifier=sources
 - pkg:maven/org.tomitribe/tomitribe-crest@0.4
 - pkg:maven/org.tomitribe/tomitribe-crest@0.4?classifier=sources

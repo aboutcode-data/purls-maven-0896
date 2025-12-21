@@ -26,3 +26,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-parallelstore-v1@0.29.0?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-parallelstore-v1@0.30.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-parallelstore-v1@0.30.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-parallelstore-v1@0.31.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-parallelstore-v1@0.31.0?classifier=sources

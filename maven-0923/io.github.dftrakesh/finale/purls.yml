@@ -13,6 +13,8 @@
 - pkg:maven/io.github.dftrakesh/finale@0.16
 - pkg:maven/io.github.dftrakesh/finale@0.16?classifier=sources
 - pkg:maven/io.github.dftrakesh/finale@0.18?classifier=sources
+- pkg:maven/io.github.dftrakesh/finale@0.19?classifier=sources
+- pkg:maven/io.github.dftrakesh/finale@0.20?classifier=sources
 - pkg:maven/io.github.dftrakesh/finale@0.3
 - pkg:maven/io.github.dftrakesh/finale@0.3?classifier=sources
 - pkg:maven/io.github.dftrakesh/finale@0.4

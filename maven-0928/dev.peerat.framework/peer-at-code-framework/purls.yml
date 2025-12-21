@@ -1,0 +1,4 @@
+- pkg:maven/dev.peerat.framework/peer-at-code-framework@1.0.0
+- pkg:maven/dev.peerat.framework/peer-at-code-framework@1.0.0?classifier=sources
+- pkg:maven/dev.peerat.framework/peer-at-code-framework@1.0.1
+- pkg:maven/dev.peerat.framework/peer-at-code-framework@1.0.1?classifier=sources

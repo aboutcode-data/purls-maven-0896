@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-jr2-min@3.8.2?classifier=sources
 - pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-jr2-min@3.8.4
 - pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-jr2-min@3.8.4?classifier=sources
+- pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-jr2-min@4.0.0
+- pkg:maven/org.apache.jackrabbit.vault/vault-core-it-execution-jr2-min@4.0.0?classifier=sources

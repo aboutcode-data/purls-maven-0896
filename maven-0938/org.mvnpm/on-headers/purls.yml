@@ -1,1 +1,3 @@
 - pkg:maven/org.mvnpm/on-headers@1.0.2?classifier=sources
+- pkg:maven/org.mvnpm/on-headers@1.1.0
+- pkg:maven/org.mvnpm/on-headers@1.1.0?classifier=sources

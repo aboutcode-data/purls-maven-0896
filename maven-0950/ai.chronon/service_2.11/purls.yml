@@ -1,3 +1,5 @@
+- pkg:maven/ai.chronon/service_2.11@0.0.102
+- pkg:maven/ai.chronon/service_2.11@0.0.102?classifier=sources
 - pkg:maven/ai.chronon/service_2.11@0.0.86
 - pkg:maven/ai.chronon/service_2.11@0.0.86?classifier=sources
 - pkg:maven/ai.chronon/service_2.11@0.0.87

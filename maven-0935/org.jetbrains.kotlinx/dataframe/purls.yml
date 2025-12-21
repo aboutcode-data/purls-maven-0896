@@ -989,5 +989,14 @@
 - pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7510?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7568?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7570?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7782?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7791?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7817?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7822?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7826?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7831?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7852?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7863?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/dataframe@1.0.0-dev-7865?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe@1548?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/dataframe@1727?classifier=sources

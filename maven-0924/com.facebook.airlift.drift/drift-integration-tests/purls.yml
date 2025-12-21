@@ -4,3 +4,4 @@
 - pkg:maven/com.facebook.airlift.drift/drift-integration-tests@0.218?classifier=sources
 - pkg:maven/com.facebook.airlift.drift/drift-integration-tests@0.219
 - pkg:maven/com.facebook.airlift.drift/drift-integration-tests@0.219?classifier=sources
+- pkg:maven/com.facebook.airlift.drift/drift-integration-tests@0.220?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/dev.zt64.compose.pipette/compose-pipette-macosarm64@1.0.0-beta05?classifier=sources
 - pkg:maven/dev.zt64.compose.pipette/compose-pipette-macosarm64@1.0.0?classifier=sources
 - pkg:maven/dev.zt64.compose.pipette/compose-pipette-macosarm64@1.0.1?classifier=sources
+- pkg:maven/dev.zt64.compose.pipette/compose-pipette-macosarm64@2.0.0-beta01?classifier=sources

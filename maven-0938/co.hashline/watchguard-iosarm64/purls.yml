@@ -1,0 +1,2 @@
+- pkg:maven/co.hashline/watchguard-iosarm64@0.0.3?classifier=sources
+- pkg:maven/co.hashline/watchguard-iosarm64@unspecified?classifier=sources

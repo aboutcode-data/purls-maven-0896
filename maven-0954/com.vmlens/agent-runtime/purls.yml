@@ -25,3 +25,5 @@
 - pkg:maven/com.vmlens/agent-runtime@1.2.5
 - pkg:maven/com.vmlens/agent-runtime@1.2.5?classifier=sources
 - pkg:maven/com.vmlens/agent-runtime@1.2.6?classifier=sources
+- pkg:maven/com.vmlens/agent-runtime@1.2.7?classifier=sources
+- pkg:maven/com.vmlens/agent-runtime@1.2.8?classifier=sources

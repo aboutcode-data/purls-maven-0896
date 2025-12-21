@@ -20,6 +20,12 @@
 - pkg:maven/org.mvnpm/storybook@9.0.14?classifier=sources
 - pkg:maven/org.mvnpm/storybook@9.0.15
 - pkg:maven/org.mvnpm/storybook@9.0.15?classifier=sources
+- pkg:maven/org.mvnpm/storybook@9.0.16
+- pkg:maven/org.mvnpm/storybook@9.0.16?classifier=sources
+- pkg:maven/org.mvnpm/storybook@9.0.17
+- pkg:maven/org.mvnpm/storybook@9.0.17?classifier=sources
+- pkg:maven/org.mvnpm/storybook@9.0.18
+- pkg:maven/org.mvnpm/storybook@9.0.18?classifier=sources
 - pkg:maven/org.mvnpm/storybook@9.0.1?classifier=sources
 - pkg:maven/org.mvnpm/storybook@9.0.2
 - pkg:maven/org.mvnpm/storybook@9.0.2?classifier=sources
@@ -35,3 +41,5 @@
 - pkg:maven/org.mvnpm/storybook@9.0.8?classifier=sources
 - pkg:maven/org.mvnpm/storybook@9.0.9
 - pkg:maven/org.mvnpm/storybook@9.0.9?classifier=sources
+- pkg:maven/org.mvnpm/storybook@9.1.0
+- pkg:maven/org.mvnpm/storybook@9.1.0?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@2.1.0?classifier=sources
 - pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@2.2.0?classifier=sources
 - pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@2.2.1?classifier=sources
+- pkg:maven/com.dynatrace.metric.util/dynatrace-metric-utils-java@2.3.0?classifier=sources

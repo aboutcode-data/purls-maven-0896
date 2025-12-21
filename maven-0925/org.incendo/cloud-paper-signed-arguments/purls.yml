@@ -1,4 +1,5 @@
 - pkg:maven/org.incendo/cloud-paper-signed-arguments@2.0.0-beta.10?classifier=sources
+- pkg:maven/org.incendo/cloud-paper-signed-arguments@2.0.0-beta.11?classifier=sources
 - pkg:maven/org.incendo/cloud-paper-signed-arguments@2.0.0-beta.6?classifier=sources
 - pkg:maven/org.incendo/cloud-paper-signed-arguments@2.0.0-beta.7?classifier=sources
 - pkg:maven/org.incendo/cloud-paper-signed-arguments@2.0.0-beta.8?classifier=sources

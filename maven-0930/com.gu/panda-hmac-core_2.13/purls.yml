@@ -1,3 +1,4 @@
+- pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-04T1629.9c36af64
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-04T1629.9c36af64?classifier=sources
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-04T1704.a5c3dade
@@ -12,6 +13,7 @@
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-05T1642.20207023?classifier=sources
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-06T1153.1e899503
 - pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0-PREVIEW.introduce-play-free-response-strategy.2025-06-06T1153.1e899503?classifier=sources
+- pkg:maven/com.gu/panda-hmac-core_2.13@10.0.0?classifier=sources
 - pkg:maven/com.gu/panda-hmac-core_2.13@9.0.1-PREVIEW.extract-non-play-hmac-artifact.2025-03-14T1657.1a731f63
 - pkg:maven/com.gu/panda-hmac-core_2.13@9.0.1-PREVIEW.extract-non-play-hmac-artifact.2025-03-14T1657.1a731f63?classifier=sources
 - pkg:maven/com.gu/panda-hmac-core_2.13@9.0.1-PREVIEW.extract-non-play-hmac-artifact.2025-03-18T1014.a1215c9d

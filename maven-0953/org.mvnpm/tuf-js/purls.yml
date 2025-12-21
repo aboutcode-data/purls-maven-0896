@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/tuf-js@3.0.1?classifier=sources
 - pkg:maven/org.mvnpm/tuf-js@3.1.0
 - pkg:maven/org.mvnpm/tuf-js@3.1.0?classifier=sources
+- pkg:maven/org.mvnpm/tuf-js@4.0.0
+- pkg:maven/org.mvnpm/tuf-js@4.0.0?classifier=sources

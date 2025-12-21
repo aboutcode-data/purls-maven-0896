@@ -89,3 +89,9 @@
 - pkg:maven/com.lithic.api/lithic-kotlin-core@0.77.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-kotlin-core@0.78.0?classifier=sources
 - pkg:maven/com.lithic.api/lithic-kotlin-core@0.79.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.93.1?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.94.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.94.1?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.95.0?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.95.1?classifier=sources
+- pkg:maven/com.lithic.api/lithic-kotlin-core@0.96.0?classifier=sources

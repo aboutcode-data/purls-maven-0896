@@ -161,6 +161,9 @@
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.44.3?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.44.4?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.44.5?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.45.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.46.0?classifier=sources
+- pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.46.1?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.5.0
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.5.0?classifier=sources
 - pkg:maven/com.diffplug.spotless/spotless-maven-plugin@2.6.0

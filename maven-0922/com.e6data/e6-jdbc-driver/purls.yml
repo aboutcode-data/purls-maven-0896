@@ -43,8 +43,14 @@
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.69
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.69?classifier=sources
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.7
+- pkg:maven/com.e6data/e6-jdbc-driver@1.2.72
+- pkg:maven/com.e6data/e6-jdbc-driver@1.2.72?classifier=sources
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.7?classifier=sources
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.8
+- pkg:maven/com.e6data/e6-jdbc-driver@1.2.80
+- pkg:maven/com.e6data/e6-jdbc-driver@1.2.80?classifier=sources
+- pkg:maven/com.e6data/e6-jdbc-driver@1.2.82
+- pkg:maven/com.e6data/e6-jdbc-driver@1.2.82?classifier=sources
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.8?classifier=sources
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.9
 - pkg:maven/com.e6data/e6-jdbc-driver@1.2.9?classifier=sources

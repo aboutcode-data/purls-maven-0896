@@ -1,2 +1,4 @@
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-reply-service@3.4.4
 - pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-reply-service@3.4.4?classifier=sources
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-reply-service@3.4.5
+- pkg:maven/org.amqphub.spring/amqp-10-jms-spring-boot-reply-service@3.4.5?classifier=sources

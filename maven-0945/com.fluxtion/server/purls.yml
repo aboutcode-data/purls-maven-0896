@@ -78,3 +78,9 @@
 - pkg:maven/com.fluxtion/server@0.1.58?classifier=sources
 - pkg:maven/com.fluxtion/server@0.1.59
 - pkg:maven/com.fluxtion/server@0.1.59?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.63?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.65?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.67?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.68?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.69?classifier=sources
+- pkg:maven/com.fluxtion/server@0.1.70?classifier=sources

@@ -5,6 +5,8 @@
 - pkg:maven/org.neo4j.procedure/apoc-extended@2025.04.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-extended@2025.05.0
 - pkg:maven/org.neo4j.procedure/apoc-extended@2025.05.0?classifier=sources
+- pkg:maven/org.neo4j.procedure/apoc-extended@2025.06.0
+- pkg:maven/org.neo4j.procedure/apoc-extended@2025.06.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-extended@5.1.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-extended@5.10.0?classifier=sources
 - pkg:maven/org.neo4j.procedure/apoc-extended@5.11.0?classifier=sources

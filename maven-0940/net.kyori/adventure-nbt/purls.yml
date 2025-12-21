@@ -19,6 +19,7 @@
 - pkg:maven/net.kyori/adventure-nbt@4.21.0?classifier=sources
 - pkg:maven/net.kyori/adventure-nbt@4.22.0?classifier=sources
 - pkg:maven/net.kyori/adventure-nbt@4.23.0?classifier=sources
+- pkg:maven/net.kyori/adventure-nbt@4.24.0?classifier=sources
 - pkg:maven/net.kyori/adventure-nbt@4.3.0?classifier=sources
 - pkg:maven/net.kyori/adventure-nbt@4.4.0?classifier=sources
 - pkg:maven/net.kyori/adventure-nbt@4.5.0?classifier=sources

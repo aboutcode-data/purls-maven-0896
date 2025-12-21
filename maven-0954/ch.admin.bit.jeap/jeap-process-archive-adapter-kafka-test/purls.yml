@@ -2,6 +2,10 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.11.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.12.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.13.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.14.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.15.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.16.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.17.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.4.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.5.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-process-archive-adapter-kafka-test@8.6.0?classifier=sources

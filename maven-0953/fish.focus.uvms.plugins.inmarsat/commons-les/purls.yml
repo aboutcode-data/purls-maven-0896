@@ -6,3 +6,5 @@
 - pkg:maven/fish.focus.uvms.plugins.inmarsat/commons-les@3.1.14?classifier=sources
 - pkg:maven/fish.focus.uvms.plugins.inmarsat/commons-les@3.1.15
 - pkg:maven/fish.focus.uvms.plugins.inmarsat/commons-les@3.1.15?classifier=sources
+- pkg:maven/fish.focus.uvms.plugins.inmarsat/commons-les@3.2.0?classifier=sources
+- pkg:maven/fish.focus.uvms.plugins.inmarsat/commons-les@3.2.1?classifier=sources

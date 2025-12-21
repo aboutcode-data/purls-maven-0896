@@ -1,0 +1,2 @@
+- pkg:maven/org.kie/kie-addons-quarkus-kubernetes-test-utils@10.1.0
+- pkg:maven/org.kie/kie-addons-quarkus-kubernetes-test-utils@10.1.0?classifier=sources

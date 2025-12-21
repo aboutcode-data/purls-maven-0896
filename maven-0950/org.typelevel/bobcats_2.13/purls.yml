@@ -10,6 +10,8 @@
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-0c5aa2b?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-0dd0404
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-0dd0404?classifier=sources
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-1033829
+- pkg:maven/org.typelevel/bobcats_2.13@0.1-1033829?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-10dbd68
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-10dbd68?classifier=sources
 - pkg:maven/org.typelevel/bobcats_2.13@0.1-128c8aa

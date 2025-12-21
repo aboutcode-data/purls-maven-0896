@@ -4,3 +4,4 @@
 - pkg:maven/com.juul.khronicle/khronicle-core-wasm-js@0.4.1?classifier=sources
 - pkg:maven/com.juul.khronicle/khronicle-core-wasm-js@0.5.0?classifier=sources
 - pkg:maven/com.juul.khronicle/khronicle-core-wasm-js@0.5.1?classifier=sources
+- pkg:maven/com.juul.khronicle/khronicle-core-wasm-js@0.5.2?classifier=sources

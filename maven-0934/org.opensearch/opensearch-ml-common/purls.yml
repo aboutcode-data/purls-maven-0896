@@ -9,6 +9,7 @@
 - pkg:maven/org.opensearch/opensearch-ml-common@2.19.0.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-common@2.19.1.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-common@2.19.2.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-ml-common@2.19.3.0?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-common@3.0.0.0-alpha1?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-common@3.0.0.0-beta1?classifier=sources
 - pkg:maven/org.opensearch/opensearch-ml-common@3.0.0.0?classifier=sources

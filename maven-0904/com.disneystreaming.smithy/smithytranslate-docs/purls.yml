@@ -1,2 +1,8 @@
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.10
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.10?classifier=sources
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.7
 - pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.7?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.8-2-f698de
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.8-2-f698de?classifier=sources
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.9
+- pkg:maven/com.disneystreaming.smithy/smithytranslate-docs@0.5.9?classifier=sources

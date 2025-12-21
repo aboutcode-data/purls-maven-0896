@@ -18,6 +18,12 @@
 - pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.14.0?classifier=sources
 - pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.15.0
 - pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.15.0?classifier=sources
+- pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.16.0
+- pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.16.0?classifier=sources
+- pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.17.0
+- pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.17.0?classifier=sources
+- pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.18.0
+- pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.18.0?classifier=sources
 - pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.2.0
 - pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.2.0?classifier=sources
 - pkg:maven/io.github.nafg.dialogue-state/telnyx_2.13@0.2.1

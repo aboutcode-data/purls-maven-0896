@@ -32,3 +32,4 @@
 - pkg:maven/org.forgerock/forgerock-core@4.8.0?classifier=sources
 - pkg:maven/org.forgerock/forgerock-core@4.8.1-beta1?classifier=sources
 - pkg:maven/org.forgerock/forgerock-core@4.8.1?classifier=sources
+- pkg:maven/org.forgerock/forgerock-core@4.8.2-beta1?classifier=sources

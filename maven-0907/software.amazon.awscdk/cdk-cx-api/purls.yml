@@ -984,6 +984,14 @@
 - pkg:maven/software.amazon.awscdk/cdk-cx-api@2.203.1?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cx-api@2.204.0
 - pkg:maven/software.amazon.awscdk/cdk-cx-api@2.204.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.205.0
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.205.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.206.0
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.206.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.207.0
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.207.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.208.0
+- pkg:maven/software.amazon.awscdk/cdk-cx-api@2.208.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cx-api@2.21.0
 - pkg:maven/software.amazon.awscdk/cdk-cx-api@2.21.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/cdk-cx-api@2.21.1

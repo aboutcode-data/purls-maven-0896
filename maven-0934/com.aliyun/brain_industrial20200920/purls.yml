@@ -10,3 +10,5 @@
 - pkg:maven/com.aliyun/brain_industrial20200920@1.3.0?classifier=sources
 - pkg:maven/com.aliyun/brain_industrial20200920@2.0.0
 - pkg:maven/com.aliyun/brain_industrial20200920@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/brain_industrial20200920@2.0.1?classifier=sources
+- pkg:maven/com.aliyun/brain_industrial20200920@2.1.0?classifier=sources

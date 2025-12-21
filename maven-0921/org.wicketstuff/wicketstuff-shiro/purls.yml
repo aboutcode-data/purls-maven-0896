@@ -48,6 +48,7 @@
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@10.5.0
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@10.5.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-shiro@10.6.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@6.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@6.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-shiro@6.11.0

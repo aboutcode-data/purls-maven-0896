@@ -1,0 +1,8 @@
+- pkg:maven/io.github.andresviedma/trekkie-test-core@0.1.0-beta1?classifier=sources
+- pkg:maven/io.github.andresviedma/trekkie-test-core@0.1.1-beta1?classifier=sources
+- pkg:maven/io.github.andresviedma/trekkie-test-core@0.1.1-beta2?classifier=sources
+- pkg:maven/io.github.andresviedma/trekkie-test-core@0.1.1-beta3?classifier=sources
+- pkg:maven/io.github.andresviedma/trekkie-test-core@0.1.1-beta4?classifier=sources
+- pkg:maven/io.github.andresviedma/trekkie-test-core@0.1.1-beta5?classifier=sources
+- pkg:maven/io.github.andresviedma/trekkie-test-core@0.1.1-beta6?classifier=sources
+- pkg:maven/io.github.andresviedma/trekkie-test-core@1.0.0-rc-1?classifier=sources

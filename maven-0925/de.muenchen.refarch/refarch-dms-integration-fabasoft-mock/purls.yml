@@ -11,3 +11,4 @@
 - pkg:maven/de.muenchen.refarch/refarch-dms-integration-fabasoft-mock@1.5.1?classifier=sources
 - pkg:maven/de.muenchen.refarch/refarch-dms-integration-fabasoft-mock@2.0.0?classifier=sources
 - pkg:maven/de.muenchen.refarch/refarch-dms-integration-fabasoft-mock@2.0.1?classifier=sources
+- pkg:maven/de.muenchen.refarch/refarch-dms-integration-fabasoft-mock@2.1.0?classifier=sources

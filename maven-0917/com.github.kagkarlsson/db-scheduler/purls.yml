@@ -70,6 +70,7 @@
 - pkg:maven/com.github.kagkarlsson/db-scheduler@15.4.2?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler@15.5.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler@15.6.0?classifier=sources
+- pkg:maven/com.github.kagkarlsson/db-scheduler@16.0.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler@2.0
 - pkg:maven/com.github.kagkarlsson/db-scheduler@2.0?classifier=sources
 - pkg:maven/com.github.kagkarlsson/db-scheduler@2.1

@@ -6,6 +6,7 @@
 - pkg:maven/io.agora.rtc/iris-rtc@3.7.1-beta.3?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@3.7.1-beta.4?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@3.7.1-beta.5?type=aar
+- pkg:maven/io.agora.rtc/iris-rtc@3.7.3.5?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@3.8.201?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.0.0-alpha.1?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.0.0-beta.1%2B5?type=aar
@@ -36,8 +37,13 @@
 - pkg:maven/io.agora.rtc/iris-rtc@4.1.0-test.1?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.1.0-test.2?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.1.0-test.3?type=aar
+- pkg:maven/io.agora.rtc/iris-rtc@4.2.6.202-build.1?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.3.2.16-build.3?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.3.2.246-build.2?type=aar
+- pkg:maven/io.agora.rtc/iris-rtc@4.5.2-gxz.1?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.5.2.140-build.4?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.5.2.140-test.1?type=aar
 - pkg:maven/io.agora.rtc/iris-rtc@4.5.2.142-build.1?type=aar
+- pkg:maven/io.agora.rtc/iris-rtc@4.5.2.143-build.1?type=aar
+- pkg:maven/io.agora.rtc/iris-rtc@4.5.2.145-build.1?type=aar
+- pkg:maven/io.agora.rtc/iris-rtc@4.5.2.29574-dev.1?type=aar

@@ -7,3 +7,4 @@
 - pkg:maven/ch.ubique.android/qrscanner-mlkit@1.0.0-dev-6?classifier=sources
 - pkg:maven/ch.ubique.android/qrscanner-mlkit@1.0.0?classifier=sources
 - pkg:maven/ch.ubique.android/qrscanner-mlkit@1.1.0?classifier=sources
+- pkg:maven/ch.ubique.android/qrscanner-mlkit@1.1.1?classifier=sources

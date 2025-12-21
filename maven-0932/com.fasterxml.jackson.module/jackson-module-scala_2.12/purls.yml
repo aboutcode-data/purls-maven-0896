@@ -132,6 +132,8 @@
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.19.0?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.19.1
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.19.1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.19.2
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.19.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.6.7.1
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.6.7.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.module/jackson-module-scala_2.12@2.7.9

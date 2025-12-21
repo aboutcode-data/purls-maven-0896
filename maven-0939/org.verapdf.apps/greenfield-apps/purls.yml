@@ -56,5 +56,6 @@
 - pkg:maven/org.verapdf.apps/greenfield-apps@1.26.5?classifier=sources
 - pkg:maven/org.verapdf.apps/greenfield-apps@1.28.1
 - pkg:maven/org.verapdf.apps/greenfield-apps@1.28.1?classifier=sources
+- pkg:maven/org.verapdf.apps/greenfield-apps@1.28.2?classifier=sources
 - pkg:maven/org.verapdf.apps/greenfield-apps@1.8.1
 - pkg:maven/org.verapdf.apps/greenfield-apps@1.8.1?classifier=sources

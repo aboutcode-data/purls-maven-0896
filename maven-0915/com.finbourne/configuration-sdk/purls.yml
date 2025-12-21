@@ -170,4 +170,5 @@
 - pkg:maven/com.finbourne/configuration-sdk@2.0.9
 - pkg:maven/com.finbourne/configuration-sdk@2.0.90?classifier=sources
 - pkg:maven/com.finbourne/configuration-sdk@2.0.91?classifier=sources
+- pkg:maven/com.finbourne/configuration-sdk@2.0.92?classifier=sources
 - pkg:maven/com.finbourne/configuration-sdk@2.0.9?classifier=sources
