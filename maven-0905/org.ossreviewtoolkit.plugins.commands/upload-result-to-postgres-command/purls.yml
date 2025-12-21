@@ -73,6 +73,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@51.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@51.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@52.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@52.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@52.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@53.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command@6.1.1?classifier=sources

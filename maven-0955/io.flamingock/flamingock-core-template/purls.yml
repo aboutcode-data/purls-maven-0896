@@ -16,3 +16,4 @@
 - pkg:maven/io.flamingock/flamingock-core-template@0.0.28-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-core-template@0.0.29-beta?classifier=sources
 - pkg:maven/io.flamingock/flamingock-core-template@0.0.30-beta?classifier=sources
+- pkg:maven/io.flamingock/flamingock-core-template@0.0.31-beta?classifier=sources

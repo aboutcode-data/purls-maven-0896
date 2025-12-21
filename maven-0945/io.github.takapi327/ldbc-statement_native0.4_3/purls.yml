@@ -1,4 +1,6 @@
 - pkg:maven/io.github.takapi327/ldbc-statement_native0.4_3@0.3.0-beta10
 - pkg:maven/io.github.takapi327/ldbc-statement_native0.4_3@0.3.0-beta10?classifier=sources
+- pkg:maven/io.github.takapi327/ldbc-statement_native0.4_3@0.3.0-beta11
+- pkg:maven/io.github.takapi327/ldbc-statement_native0.4_3@0.3.0-beta11?classifier=sources
 - pkg:maven/io.github.takapi327/ldbc-statement_native0.4_3@0.3.0-beta9
 - pkg:maven/io.github.takapi327/ldbc-statement_native0.4_3@0.3.0-beta9?classifier=sources

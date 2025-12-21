@@ -16,6 +16,8 @@
 - pkg:maven/com.ibm.cloud/code-engine-examples@4.17.0?classifier=sources
 - pkg:maven/com.ibm.cloud/code-engine-examples@4.2.0
 - pkg:maven/com.ibm.cloud/code-engine-examples@4.2.0?classifier=sources
+- pkg:maven/com.ibm.cloud/code-engine-examples@4.22.1
+- pkg:maven/com.ibm.cloud/code-engine-examples@4.22.1?classifier=sources
 - pkg:maven/com.ibm.cloud/code-engine-examples@4.8.0
 - pkg:maven/com.ibm.cloud/code-engine-examples@4.8.0?classifier=sources
 - pkg:maven/com.ibm.cloud/code-engine-examples@v2.0.3

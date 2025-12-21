@@ -65,6 +65,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@51.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@51.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@52.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@52.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@52.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@53.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@7.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.versioncontrolsystems/subversion-version-control-system@8.0.0?classifier=sources

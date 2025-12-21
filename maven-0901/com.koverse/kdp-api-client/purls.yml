@@ -22,6 +22,10 @@
 - pkg:maven/com.koverse/kdp-api-client@4.156.0?classifier=sources
 - pkg:maven/com.koverse/kdp-api-client@4.157.0
 - pkg:maven/com.koverse/kdp-api-client@4.157.0?classifier=sources
+- pkg:maven/com.koverse/kdp-api-client@4.158.0
+- pkg:maven/com.koverse/kdp-api-client@4.158.0?classifier=sources
+- pkg:maven/com.koverse/kdp-api-client@4.159.0
+- pkg:maven/com.koverse/kdp-api-client@4.159.0?classifier=sources
 - pkg:maven/com.koverse/kdp-api-client@4.32.0
 - pkg:maven/com.koverse/kdp-api-client@4.32.0?classifier=sources
 - pkg:maven/com.koverse/kdp-api-client@4.33.0

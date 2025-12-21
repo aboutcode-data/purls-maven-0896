@@ -29,6 +29,7 @@
 - pkg:maven/me.pushy/sdk-react-native@1.0.21?classifier=sources
 - pkg:maven/me.pushy/sdk-react-native@1.0.22
 - pkg:maven/me.pushy/sdk-react-native@1.0.22?classifier=sources
+- pkg:maven/me.pushy/sdk-react-native@1.0.23?classifier=sources
 - pkg:maven/me.pushy/sdk-react-native@1.0.2?classifier=sources
 - pkg:maven/me.pushy/sdk-react-native@1.0.3
 - pkg:maven/me.pushy/sdk-react-native@1.0.3?classifier=sources

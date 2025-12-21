@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/just-curry-it@3.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/just-curry-it@3.2.1
 - pkg:maven/org.webjars.npm/just-curry-it@3.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/just-curry-it@5.3.0

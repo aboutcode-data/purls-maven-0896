@@ -148,3 +148,5 @@
 - pkg:maven/eu.rssw.openedge.parsers/proparse@2.8.2?classifier=sources
 - pkg:maven/eu.rssw.openedge.parsers/proparse@2.9.0
 - pkg:maven/eu.rssw.openedge.parsers/proparse@2.9.0?classifier=sources
+- pkg:maven/eu.rssw.openedge.parsers/proparse@3.0.0
+- pkg:maven/eu.rssw.openedge.parsers/proparse@3.0.0?classifier=sources

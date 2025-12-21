@@ -111,6 +111,8 @@
 - pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.153?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.154?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.155?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.156?classifier=sources
+- pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.157?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.15?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.object.rest.impl@1.0.16

@@ -5,6 +5,7 @@
 - pkg:maven/com.deploygate/sdk@3.1?classifier=sources
 - pkg:maven/com.deploygate/sdk@4.0.0?classifier=sources
 - pkg:maven/com.deploygate/sdk@4.1.0?classifier=sources
+- pkg:maven/com.deploygate/sdk@4.10.0?classifier=sources
 - pkg:maven/com.deploygate/sdk@4.2.0?classifier=sources
 - pkg:maven/com.deploygate/sdk@4.3.0?classifier=sources
 - pkg:maven/com.deploygate/sdk@4.4.0?classifier=sources

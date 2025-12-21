@@ -1,3 +1,4 @@
 - pkg:maven/dev.sitconsulting/sit-metrics-autoconfiguration@0.0.1?classifier=sources
 - pkg:maven/dev.sitconsulting/sit-metrics-autoconfiguration@0.0.2?classifier=sources
 - pkg:maven/dev.sitconsulting/sit-metrics-autoconfiguration@0.0.3?classifier=sources
+- pkg:maven/dev.sitconsulting/sit-metrics-autoconfiguration@1.0.0?classifier=sources

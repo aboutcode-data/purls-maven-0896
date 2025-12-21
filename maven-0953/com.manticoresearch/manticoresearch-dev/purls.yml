@@ -6,3 +6,5 @@
 - pkg:maven/com.manticoresearch/manticoresearch-dev@5.2.1?classifier=sources
 - pkg:maven/com.manticoresearch/manticoresearch-dev@5.3.0
 - pkg:maven/com.manticoresearch/manticoresearch-dev@5.3.0?classifier=sources
+- pkg:maven/com.manticoresearch/manticoresearch-dev@6.0.0?classifier=sources
+- pkg:maven/com.manticoresearch/manticoresearch-dev@7.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.serverlessworkflow/serverless-workflow-custom-generator@7.0.0.Final
+- pkg:maven/io.serverlessworkflow/serverless-workflow-custom-generator@7.0.0.Final?classifier=sources

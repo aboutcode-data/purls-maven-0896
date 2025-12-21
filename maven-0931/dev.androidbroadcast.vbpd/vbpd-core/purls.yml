@@ -3,3 +3,6 @@
 - pkg:maven/dev.androidbroadcast.vbpd/vbpd-core@2.0.0-beta01?classifier=sources
 - pkg:maven/dev.androidbroadcast.vbpd/vbpd-core@2.0.0-beta02?classifier=sources
 - pkg:maven/dev.androidbroadcast.vbpd/vbpd-core@2.0.0?classifier=sources
+- pkg:maven/dev.androidbroadcast.vbpd/vbpd-core@2.0.2?classifier=sources
+- pkg:maven/dev.androidbroadcast.vbpd/vbpd-core@2.0.3?classifier=sources
+- pkg:maven/dev.androidbroadcast.vbpd/vbpd-core@2.0.4?classifier=sources

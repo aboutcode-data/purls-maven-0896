@@ -1,0 +1,2 @@
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-pulsar-client@3.5.0
+- pkg:maven/io.zipkin.reporter2/zipkin-sender-pulsar-client@3.5.0?classifier=sources

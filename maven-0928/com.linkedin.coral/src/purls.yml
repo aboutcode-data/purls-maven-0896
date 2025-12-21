@@ -158,6 +158,7 @@
 - pkg:maven/com.linkedin.coral/src@2.2.4?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.50?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.51?classifier=sources
+- pkg:maven/com.linkedin.coral/src@2.2.52?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.5?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.6?classifier=sources
 - pkg:maven/com.linkedin.coral/src@2.2.7?classifier=sources

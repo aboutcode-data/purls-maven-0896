@@ -1,0 +1,4 @@
+- pkg:maven/io.evitadb/evita_java_driver_all_in_one@2025.1.0
+- pkg:maven/io.evitadb/evita_java_driver_all_in_one@2025.1.0?classifier=sources
+- pkg:maven/io.evitadb/evita_java_driver_all_in_one@2025.1.1
+- pkg:maven/io.evitadb/evita_java_driver_all_in_one@2025.1.1?classifier=sources

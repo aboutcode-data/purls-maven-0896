@@ -68,12 +68,14 @@
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.50
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.52
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.54
+- pkg:maven/com.adobe.aem/core-forms-components-core@1.1.55-staticDataRefB002
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.56
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.58
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.6
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.60
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.62
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.64
+- pkg:maven/com.adobe.aem/core-forms-components-core@1.1.66
 - pkg:maven/com.adobe.aem/core-forms-components-core@1.1.8
 - pkg:maven/com.adobe.aem/core-forms-components-core@2.0.10
 - pkg:maven/com.adobe.aem/core-forms-components-core@2.0.10-spa
@@ -126,6 +128,7 @@
 - pkg:maven/com.adobe.aem/core-forms-components-core@2.0.98-eds
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.0
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.10
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.100-xfaB002
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.12
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.14
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.16
@@ -164,3 +167,8 @@
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.80
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.82
 - pkg:maven/com.adobe.aem/core-forms-components-core@3.0.84
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.86
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.90
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.92
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.94
+- pkg:maven/com.adobe.aem/core-forms-components-core@3.0.96

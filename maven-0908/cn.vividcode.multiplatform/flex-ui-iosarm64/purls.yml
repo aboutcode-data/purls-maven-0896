@@ -1,3 +1,6 @@
 - pkg:maven/cn.vividcode.multiplatform/flex-ui-iosarm64@1.0.0-exp-01?classifier=sources
 - pkg:maven/cn.vividcode.multiplatform/flex-ui-iosarm64@1.0.0-exp-02?classifier=sources
 - pkg:maven/cn.vividcode.multiplatform/flex-ui-iosarm64@1.0.0-exp-03?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/flex-ui-iosarm64@1.0.0-exp-04?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/flex-ui-iosarm64@1.0.0-exp-05?classifier=sources
+- pkg:maven/cn.vividcode.multiplatform/flex-ui-iosarm64@1.0.0-exp-06?classifier=sources

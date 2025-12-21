@@ -1,1 +1,2 @@
+- pkg:maven/jakarta.tck.coreprofile/cdi-lite-tck-suite@10.0.4?classifier=sources
 - pkg:maven/jakarta.tck.coreprofile/cdi-lite-tck-suite@11.0.0?classifier=sources

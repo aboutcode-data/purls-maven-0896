@@ -274,6 +274,12 @@
 - pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.18.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.180.0-alpha.0
 - pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.180.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.181.0-alpha.0
+- pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.181.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.181.1-alpha.0
+- pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.181.1-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.182.0-alpha.0
+- pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.182.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.19.0-alpha.0
 - pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.19.0-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/lambda-python-alpha@2.2.0-alpha.0

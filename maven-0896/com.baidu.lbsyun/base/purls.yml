@@ -26,3 +26,5 @@
 - pkg:maven/com.baidu.lbsyun/base@7.6.2?classifier=sources
 - pkg:maven/com.baidu.lbsyun/base@7.6.3?classifier=sources
 - pkg:maven/com.baidu.lbsyun/base@7.6.3?type=aar
+- pkg:maven/com.baidu.lbsyun/base@7.6.4?classifier=sources
+- pkg:maven/com.baidu.lbsyun/base@7.6.4?type=aar

@@ -9279,3 +9279,7 @@
 - pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20241203-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20241211-2.0.0
 - pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20241211-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20250220-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20250220-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20250224-2.0.0
+- pkg:maven/com.google.apis/google-api-services-adsense@v2-rev20250224-2.0.0?classifier=sources

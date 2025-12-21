@@ -11,6 +11,8 @@
 - pkg:maven/com.webjetcms/webjetcms@2024.0.3?classifier=sources
 - pkg:maven/com.webjetcms/webjetcms@2024.0.47
 - pkg:maven/com.webjetcms/webjetcms@2024.0.47?classifier=sources
+- pkg:maven/com.webjetcms/webjetcms@2024.0.52
+- pkg:maven/com.webjetcms/webjetcms@2024.0.52?classifier=sources
 - pkg:maven/com.webjetcms/webjetcms@2024.0.9
 - pkg:maven/com.webjetcms/webjetcms@2024.0.9?classifier=sources
 - pkg:maven/com.webjetcms/webjetcms@2024.0?classifier=sources
@@ -18,3 +20,7 @@
 - pkg:maven/com.webjetcms/webjetcms@2024.18?classifier=sources
 - pkg:maven/com.webjetcms/webjetcms@2024.40
 - pkg:maven/com.webjetcms/webjetcms@2024.40?classifier=sources
+- pkg:maven/com.webjetcms/webjetcms@2024.52
+- pkg:maven/com.webjetcms/webjetcms@2024.52?classifier=sources
+- pkg:maven/com.webjetcms/webjetcms@2025.0
+- pkg:maven/com.webjetcms/webjetcms@2025.0?classifier=sources

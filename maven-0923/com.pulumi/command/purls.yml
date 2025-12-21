@@ -1,3 +1,6 @@
+- pkg:maven/com.pulumi/command@0.0.1-alpha.100?classifier=sources
+- pkg:maven/com.pulumi/command@0.0.1-alpha.101?classifier=sources
+- pkg:maven/com.pulumi/command@0.0.1-testwindows.signing?classifier=sources
 - pkg:maven/com.pulumi/command@0.10.0?classifier=sources
 - pkg:maven/com.pulumi/command@0.10.1-alpha.1713190448%2Bf13d9c82?classifier=sources
 - pkg:maven/com.pulumi/command@0.10.1-alpha.1713275266%2B2d502ed1?classifier=sources
@@ -119,6 +122,7 @@
 - pkg:maven/com.pulumi/command@0.9.3-alpha.1713013460%2B9c46c6a2?classifier=sources
 - pkg:maven/com.pulumi/command@1.0.0-beta.1?classifier=sources
 - pkg:maven/com.pulumi/command@1.0.0?classifier=sources
+- pkg:maven/com.pulumi/command@1.0.2?classifier=sources
 - pkg:maven/com.pulumi/command@1.1.0-alpha.1720683853?classifier=sources
 - pkg:maven/com.pulumi/command@1.1.0-alpha.1722938629?classifier=sources
 - pkg:maven/com.pulumi/command@1.1.0-alpha.1724929079?classifier=sources

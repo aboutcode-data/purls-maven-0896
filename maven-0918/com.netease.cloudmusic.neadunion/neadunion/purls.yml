@@ -10,3 +10,8 @@
 - pkg:maven/com.netease.cloudmusic.neadunion/neadunion@0.0.5?classifier=sources
 - pkg:maven/com.netease.cloudmusic.neadunion/neadunion@0.0.8?classifier=sources
 - pkg:maven/com.netease.cloudmusic.neadunion/neadunion@0.0.9?classifier=sources
+- pkg:maven/com.netease.cloudmusic.neadunion/neadunion@1.0.0?classifier=sources
+- pkg:maven/com.netease.cloudmusic.neadunion/neadunion@1.0.1?classifier=sources
+- pkg:maven/com.netease.cloudmusic.neadunion/neadunion@1.0.2?classifier=sources
+- pkg:maven/com.netease.cloudmusic.neadunion/neadunion@1.0.3-alpha-1?classifier=sources
+- pkg:maven/com.netease.cloudmusic.neadunion/neadunion@1.0.3-alpha-2?classifier=sources

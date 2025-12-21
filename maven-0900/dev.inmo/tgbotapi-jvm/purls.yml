@@ -103,6 +103,11 @@
 - pkg:maven/dev.inmo/tgbotapi-jvm@22.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-jvm@23.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-jvm@23.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi-jvm@23.1.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi-jvm@23.1.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi-jvm@23.2.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi-jvm@24.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi-jvm@24.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-jvm@3.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-jvm@3.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi-jvm@3.0.2?classifier=sources

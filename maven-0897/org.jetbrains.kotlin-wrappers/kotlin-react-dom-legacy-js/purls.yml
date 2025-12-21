@@ -404,6 +404,9 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.1.9-19.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.0-19.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.1-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.10-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.11-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.12-19.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.2-19.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.3-19.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.4-19.0.0?classifier=sources
@@ -411,3 +414,12 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.6-19.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.7-19.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.8-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.2.9-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.0-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.1-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.2-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.3-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.4-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.5-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.6-19.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-dom-legacy-js@2025.3.7-19.0.0?classifier=sources

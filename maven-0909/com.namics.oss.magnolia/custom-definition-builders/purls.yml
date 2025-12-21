@@ -44,6 +44,12 @@
 - pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.0?classifier=sources
 - pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.10
 - pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.10?classifier=sources
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.11
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.11?classifier=sources
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.12
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.12?classifier=sources
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.13
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.13?classifier=sources
 - pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.2
 - pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.2?classifier=sources
 - pkg:maven/com.namics.oss.magnolia/custom-definition-builders@1.2.3

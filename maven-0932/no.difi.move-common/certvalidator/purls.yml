@@ -36,3 +36,5 @@
 - pkg:maven/no.difi.move-common/certvalidator@1.8.0?classifier=sources
 - pkg:maven/no.difi.move-common/certvalidator@1.9.0
 - pkg:maven/no.difi.move-common/certvalidator@1.9.0?classifier=sources
+- pkg:maven/no.difi.move-common/certvalidator@2.0.1
+- pkg:maven/no.difi.move-common/certvalidator@2.0.1?classifier=sources

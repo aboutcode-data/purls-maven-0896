@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.camel/camel-test-infra-neo4j@4.10.0
+- pkg:maven/org.apache.camel/camel-test-infra-neo4j@4.10.0?classifier=sources

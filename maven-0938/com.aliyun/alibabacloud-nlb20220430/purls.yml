@@ -22,3 +22,5 @@
 - pkg:maven/com.aliyun/alibabacloud-nlb20220430@2.0.7?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-nlb20220430@2.0.8
 - pkg:maven/com.aliyun/alibabacloud-nlb20220430@2.0.8?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-nlb20220430@3.0.0
+- pkg:maven/com.aliyun/alibabacloud-nlb20220430@3.0.0?classifier=sources

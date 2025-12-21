@@ -2,3 +2,5 @@
 - pkg:maven/de.jplag/typescript@5.0.0?classifier=sources
 - pkg:maven/de.jplag/typescript@5.1.0
 - pkg:maven/de.jplag/typescript@5.1.0?classifier=sources
+- pkg:maven/de.jplag/typescript@6.0.0
+- pkg:maven/de.jplag/typescript@6.0.0?classifier=sources

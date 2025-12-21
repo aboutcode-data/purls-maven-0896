@@ -16,3 +16,6 @@
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-excavator-configurations@0.57.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-excavator-configurations@0.58.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-excavator-configurations@0.59.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-excavator-configurations@0.60.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-excavator-configurations@0.61.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-excavator-configurations@0.62.0?classifier=sources

@@ -68,3 +68,4 @@
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.1.6?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.1.7?classifier=sources
 - pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.1.8?classifier=sources
+- pkg:maven/com.navercorp.fixturemonkey/fixture-monkey-jakarta-validation@1.1.9?classifier=sources

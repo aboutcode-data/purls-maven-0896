@@ -239,3 +239,7 @@
 - pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter@3.4.1.1?classifier=sources
 - pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter@3.4.1.2?classifier=sources
 - pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter@3.4.2.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter@3.4.2.1?classifier=sources
+- pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter@3.4.2.2?classifier=sources
+- pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter@3.4.3.0?classifier=sources
+- pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter@3.4.3.1?classifier=sources

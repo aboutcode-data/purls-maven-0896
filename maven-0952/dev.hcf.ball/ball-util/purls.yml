@@ -12,6 +12,8 @@
 - pkg:maven/dev.hcf.ball/ball-util@6.4.13.20240628?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-util@6.4.14.20240921
 - pkg:maven/dev.hcf.ball/ball-util@6.4.14.20240921?classifier=sources
+- pkg:maven/dev.hcf.ball/ball-util@6.4.15.20250124
+- pkg:maven/dev.hcf.ball/ball-util@6.4.15.20250124?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-util@6.4.2.20221231
 - pkg:maven/dev.hcf.ball/ball-util@6.4.2.20221231?classifier=sources
 - pkg:maven/dev.hcf.ball/ball-util@6.4.3.20230201

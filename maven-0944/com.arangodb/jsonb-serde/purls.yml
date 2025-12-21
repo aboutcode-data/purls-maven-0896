@@ -14,6 +14,8 @@
 - pkg:maven/com.arangodb/jsonb-serde@7.15.0?classifier=sources
 - pkg:maven/com.arangodb/jsonb-serde@7.16.0
 - pkg:maven/com.arangodb/jsonb-serde@7.16.0?classifier=sources
+- pkg:maven/com.arangodb/jsonb-serde@7.17.0
+- pkg:maven/com.arangodb/jsonb-serde@7.17.0?classifier=sources
 - pkg:maven/com.arangodb/jsonb-serde@7.8.0
 - pkg:maven/com.arangodb/jsonb-serde@7.8.0?classifier=sources
 - pkg:maven/com.arangodb/jsonb-serde@7.9.0

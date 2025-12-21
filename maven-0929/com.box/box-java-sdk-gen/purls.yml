@@ -1,0 +1,2 @@
+- pkg:maven/com.box/box-java-sdk-gen@0.4.0?classifier=sources
+- pkg:maven/com.box/box-java-sdk-gen@0.5.0?classifier=sources

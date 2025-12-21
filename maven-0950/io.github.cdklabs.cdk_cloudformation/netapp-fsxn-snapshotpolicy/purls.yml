@@ -1,0 +1,4 @@
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/netapp-fsxn-snapshotpolicy@1.0.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/netapp-fsxn-snapshotpolicy@1.0.0-alpha.7?classifier=sources
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/netapp-fsxn-snapshotpolicy@1.1.0-alpha.7
+- pkg:maven/io.github.cdklabs.cdk_cloudformation/netapp-fsxn-snapshotpolicy@1.1.0-alpha.7?classifier=sources

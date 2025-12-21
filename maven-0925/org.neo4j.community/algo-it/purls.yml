@@ -1,5 +1,7 @@
 - pkg:maven/org.neo4j.community/algo-it@2025.01.0
 - pkg:maven/org.neo4j.community/algo-it@2025.01.0?classifier=sources
+- pkg:maven/org.neo4j.community/algo-it@2025.02.0
+- pkg:maven/org.neo4j.community/algo-it@2025.02.0?classifier=sources
 - pkg:maven/org.neo4j.community/algo-it@3.5.0
 - pkg:maven/org.neo4j.community/algo-it@3.5.0-alpha02
 - pkg:maven/org.neo4j.community/algo-it@3.5.0-alpha02?classifier=sources
@@ -376,6 +378,8 @@
 - pkg:maven/org.neo4j.community/algo-it@5.26.1?classifier=sources
 - pkg:maven/org.neo4j.community/algo-it@5.26.2
 - pkg:maven/org.neo4j.community/algo-it@5.26.2?classifier=sources
+- pkg:maven/org.neo4j.community/algo-it@5.26.3
+- pkg:maven/org.neo4j.community/algo-it@5.26.3?classifier=sources
 - pkg:maven/org.neo4j.community/algo-it@5.3.0
 - pkg:maven/org.neo4j.community/algo-it@5.3.0?classifier=sources
 - pkg:maven/org.neo4j.community/algo-it@5.4.0

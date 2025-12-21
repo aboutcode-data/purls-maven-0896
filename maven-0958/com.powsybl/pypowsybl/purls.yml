@@ -36,6 +36,8 @@
 - pkg:maven/com.powsybl/pypowsybl@1.0.0?classifier=sources
 - pkg:maven/com.powsybl/pypowsybl@1.1.0
 - pkg:maven/com.powsybl/pypowsybl@1.1.0?classifier=sources
+- pkg:maven/com.powsybl/pypowsybl@1.10.0
+- pkg:maven/com.powsybl/pypowsybl@1.10.0?classifier=sources
 - pkg:maven/com.powsybl/pypowsybl@1.2.0
 - pkg:maven/com.powsybl/pypowsybl@1.2.0?classifier=sources
 - pkg:maven/com.powsybl/pypowsybl@1.3.0

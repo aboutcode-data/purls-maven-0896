@@ -21,3 +21,6 @@
 - pkg:maven/com.rickclephas.kmp/kmp-observableviewmodel-core-android@1.0.0-BETA-8-kotlin-2.1.10-RC?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-observableviewmodel-core-android@1.0.0-BETA-8-kotlin-2.1.20-Beta1?classifier=sources
 - pkg:maven/com.rickclephas.kmp/kmp-observableviewmodel-core-android@1.0.0-BETA-8?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-observableviewmodel-core-android@1.0.0-BETA-9-kotlin-2.1.20-Beta2?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-observableviewmodel-core-android@1.0.0-BETA-9-kotlin-2.1.20-RC?classifier=sources
+- pkg:maven/com.rickclephas.kmp/kmp-observableviewmodel-core-android@1.0.0-BETA-9?classifier=sources

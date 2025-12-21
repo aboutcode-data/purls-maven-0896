@@ -104,6 +104,8 @@
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@2024.9.1?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@2025.0.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@2025.0.0?classifier=sources
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@2025.0.1
+- pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@2025.0.1?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.10.0
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.10.0?classifier=sources
 - pkg:maven/net.guerlab.cloud/guerlab-cloud-cache-redis@21.11.0

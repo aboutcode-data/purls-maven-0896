@@ -20,3 +20,4 @@
 - pkg:maven/io.prestodb.tempto/tempto-core@1.52?classifier=sources
 - pkg:maven/io.prestodb.tempto/tempto-core@1.53
 - pkg:maven/io.prestodb.tempto/tempto-core@1.53?classifier=sources
+- pkg:maven/io.prestodb.tempto/tempto-core@1.54?classifier=sources

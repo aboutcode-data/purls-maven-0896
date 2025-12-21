@@ -1,3 +1,4 @@
+- pkg:maven/io.avaje/avaje-json-core@3.0
 - pkg:maven/io.avaje/avaje-json-core@3.0-RC3
 - pkg:maven/io.avaje/avaje-json-core@3.0-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-json-core@3.0-RC4
@@ -8,3 +9,8 @@
 - pkg:maven/io.avaje/avaje-json-core@3.0-RC6-java8
 - pkg:maven/io.avaje/avaje-json-core@3.0-RC6-java8?classifier=sources
 - pkg:maven/io.avaje/avaje-json-core@3.0-RC6?classifier=sources
+- pkg:maven/io.avaje/avaje-json-core@3.0-RC7
+- pkg:maven/io.avaje/avaje-json-core@3.0-RC7?classifier=sources
+- pkg:maven/io.avaje/avaje-json-core@3.0-java8
+- pkg:maven/io.avaje/avaje-json-core@3.0-java8?classifier=sources
+- pkg:maven/io.avaje/avaje-json-core@3.0?classifier=sources

@@ -204,4 +204,6 @@
 - pkg:maven/com.bertramlabs.plugins/karman-aws@2.3.1?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-aws@2.3.2?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-aws@2.3.3?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-aws@2.3.4?classifier=sources
+- pkg:maven/com.bertramlabs.plugins/karman-aws@2.3.5?classifier=sources
 - pkg:maven/com.bertramlabs.plugins/karman-aws@3.0.0?classifier=sources

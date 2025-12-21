@@ -50,3 +50,4 @@
 - pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.23.5?classifier=sources
 - pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.23.6?classifier=sources
 - pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.23.7?classifier=sources
+- pkg:maven/io.gitlab.arturbosch.detekt/detekt-rules-complexity@1.23.8?classifier=sources

@@ -5,3 +5,5 @@
 - pkg:maven/io.github.sogis/iox-formats@0.0.35?classifier=sources
 - pkg:maven/io.github.sogis/iox-formats@0.0.40?classifier=sources
 - pkg:maven/io.github.sogis/iox-formats@1.0.1?classifier=sources
+- pkg:maven/io.github.sogis/iox-formats@1.0.2?classifier=sources
+- pkg:maven/io.github.sogis/iox-formats@1.0.3?classifier=sources

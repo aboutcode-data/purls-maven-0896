@@ -16,3 +16,7 @@
 - pkg:maven/com.copyleaks.sdk/copyleaks-java-sdk@4.0.0?classifier=sources
 - pkg:maven/com.copyleaks.sdk/copyleaks-java-sdk@4.1.0
 - pkg:maven/com.copyleaks.sdk/copyleaks-java-sdk@4.1.0?classifier=sources
+- pkg:maven/com.copyleaks.sdk/copyleaks-java-sdk@4.2.0
+- pkg:maven/com.copyleaks.sdk/copyleaks-java-sdk@4.2.0?classifier=sources
+- pkg:maven/com.copyleaks.sdk/copyleaks-java-sdk@4.2.1
+- pkg:maven/com.copyleaks.sdk/copyleaks-java-sdk@4.2.1?classifier=sources

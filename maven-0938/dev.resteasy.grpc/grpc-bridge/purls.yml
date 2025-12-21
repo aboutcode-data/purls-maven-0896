@@ -2,3 +2,5 @@
 - pkg:maven/dev.resteasy.grpc/grpc-bridge@1.0.0.Alpha2?classifier=sources
 - pkg:maven/dev.resteasy.grpc/grpc-bridge@1.0.0.Alpha5
 - pkg:maven/dev.resteasy.grpc/grpc-bridge@1.0.0.Alpha5?classifier=sources
+- pkg:maven/dev.resteasy.grpc/grpc-bridge@1.0.0.Alpha6
+- pkg:maven/dev.resteasy.grpc/grpc-bridge@1.0.0.Alpha6?classifier=sources

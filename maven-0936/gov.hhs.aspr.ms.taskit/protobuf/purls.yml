@@ -6,3 +6,4 @@
 - pkg:maven/gov.hhs.aspr.ms.taskit/protobuf@4.1.0?classifier=sources
 - pkg:maven/gov.hhs.aspr.ms.taskit/protobuf@4.1.1?classifier=sources
 - pkg:maven/gov.hhs.aspr.ms.taskit/protobuf@5.0.0?classifier=sources
+- pkg:maven/gov.hhs.aspr.ms.taskit/protobuf@5.1.0?classifier=sources

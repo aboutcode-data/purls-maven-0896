@@ -5,3 +5,7 @@
 - pkg:maven/me.hsgamer/topper-agent-core@3.4.0?classifier=sources
 - pkg:maven/me.hsgamer/topper-agent-core@3.4.1?classifier=sources
 - pkg:maven/me.hsgamer/topper-agent-core@3.4.2?classifier=sources
+- pkg:maven/me.hsgamer/topper-agent-core@3.5.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-agent-core@3.6.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-agent-core@3.7.0?classifier=sources
+- pkg:maven/me.hsgamer/topper-agent-core@3.7.1?classifier=sources

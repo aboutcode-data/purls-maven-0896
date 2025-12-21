@@ -14,3 +14,7 @@
 - pkg:maven/com.github.vipulasri/timelineview@1.1.4?type=aar
 - pkg:maven/com.github.vipulasri/timelineview@1.1.5?classifier=sources
 - pkg:maven/com.github.vipulasri/timelineview@1.1.5?type=aar
+- pkg:maven/com.github.vipulasri/timelineview@1.1.6?classifier=sources
+- pkg:maven/com.github.vipulasri/timelineview@1.2.0?classifier=sources
+- pkg:maven/com.github.vipulasri/timelineview@1.2.1?classifier=sources
+- pkg:maven/com.github.vipulasri/timelineview@1.2.2?classifier=sources

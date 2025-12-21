@@ -10,3 +10,5 @@
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-filestore@1.1.1-26.0?classifier=sources
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-filestore@1.1.2-26.0
 - pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-filestore@1.1.2-26.0?classifier=sources
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-filestore@1.2.0-26.1
+- pkg:maven/de.arbeitsagentur.opdt/keycloak-extension-filestore@1.2.0-26.1?classifier=sources

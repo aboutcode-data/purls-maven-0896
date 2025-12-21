@@ -23,3 +23,4 @@
 - pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@3.4.0?classifier=sources
 - pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@3.4.1?classifier=sources
 - pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@3.5.0?classifier=sources
+- pkg:maven/io.micronaut.mqtt/micronaut-mqttv3@3.6.0?classifier=sources

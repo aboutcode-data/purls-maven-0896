@@ -1,0 +1,2 @@
+- pkg:maven/io.jstuff/json-validation@3.0?classifier=sources
+- pkg:maven/io.jstuff/json-validation@4.0?classifier=sources

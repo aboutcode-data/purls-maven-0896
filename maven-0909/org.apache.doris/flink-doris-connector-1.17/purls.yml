@@ -28,3 +28,6 @@
 - pkg:maven/org.apache.doris/flink-doris-connector-1.17@24.1.0
 - pkg:maven/org.apache.doris/flink-doris-connector-1.17@24.1.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.doris/flink-doris-connector-1.17@24.1.0?classifier=sources
+- pkg:maven/org.apache.doris/flink-doris-connector-1.17@25.0.0
+- pkg:maven/org.apache.doris/flink-doris-connector-1.17@25.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.doris/flink-doris-connector-1.17@25.0.0?classifier=sources

@@ -26,3 +26,5 @@
 - pkg:maven/ai.djl/djl-zero@0.31.0?classifier=sources
 - pkg:maven/ai.djl/djl-zero@0.31.1
 - pkg:maven/ai.djl/djl-zero@0.31.1?classifier=sources
+- pkg:maven/ai.djl/djl-zero@0.32.0
+- pkg:maven/ai.djl/djl-zero@0.32.0?classifier=sources

@@ -66,6 +66,7 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@1.15.22.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@1.15.23.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@1.15.24.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tests@1.15.25.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@1.15.3.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@1.15.4.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@1.15.5.Final
@@ -132,6 +133,7 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.2.5.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.2.6.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.2.7.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.2.8.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.3.0.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.3.1.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.4.0.CR1
@@ -143,3 +145,4 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.5.1.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.5.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.6.0.Final
+- pkg:maven/org.wildfly.security/wildfly-elytron-tests@2.6.1.Final

@@ -25,3 +25,5 @@
 - pkg:maven/com.arkivanov.decompose/extensions-compose-js@3.3.0-alpha01?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-js@3.3.0-alpha02?classifier=sources
 - pkg:maven/com.arkivanov.decompose/extensions-compose-js@3.3.0-alpha03?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-js@3.3.0-beta01?classifier=sources
+- pkg:maven/com.arkivanov.decompose/extensions-compose-js@3.3.0?classifier=sources

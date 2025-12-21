@@ -50,3 +50,5 @@
 - pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.8.0?classifier=sources
 - pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.8.1
 - pkg:maven/dev.mongocamp/mongodb-driver_2.13@2.8.1?classifier=sources
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@3.0.0
+- pkg:maven/dev.mongocamp/mongodb-driver_2.13@3.0.0?classifier=sources

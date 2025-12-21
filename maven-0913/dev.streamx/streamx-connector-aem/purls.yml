@@ -1,0 +1,4 @@
+- pkg:maven/dev.streamx/streamx-connector-aem@0.0.10?classifier=sources
+- pkg:maven/dev.streamx/streamx-connector-aem@0.0.11?classifier=sources
+- pkg:maven/dev.streamx/streamx-connector-aem@0.0.8?classifier=sources
+- pkg:maven/dev.streamx/streamx-connector-aem@0.0.9?classifier=sources

@@ -126,6 +126,8 @@
 - pkg:maven/io.atleon/atleon-micrometer@0.28.3?classifier=sources
 - pkg:maven/io.atleon/atleon-micrometer@0.28.4
 - pkg:maven/io.atleon/atleon-micrometer@0.28.4?classifier=sources
+- pkg:maven/io.atleon/atleon-micrometer@0.29.0
+- pkg:maven/io.atleon/atleon-micrometer@0.29.0?classifier=sources
 - pkg:maven/io.atleon/atleon-micrometer@0.3.0
 - pkg:maven/io.atleon/atleon-micrometer@0.3.0?classifier=sources
 - pkg:maven/io.atleon/atleon-micrometer@0.4.0

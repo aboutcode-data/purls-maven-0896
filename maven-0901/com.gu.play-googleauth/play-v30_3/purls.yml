@@ -54,6 +54,12 @@
 - pkg:maven/com.gu.play-googleauth/play-v30_3@2.3.0?classifier=sources
 - pkg:maven/com.gu.play-googleauth/play-v30_3@2.4.0
 - pkg:maven/com.gu.play-googleauth/play-v30_3@2.4.0?classifier=sources
+- pkg:maven/com.gu.play-googleauth/play-v30_3@20.0.0
+- pkg:maven/com.gu.play-googleauth/play-v30_3@20.0.0?classifier=sources
+- pkg:maven/com.gu.play-googleauth/play-v30_3@20.1.0
+- pkg:maven/com.gu.play-googleauth/play-v30_3@20.1.0?classifier=sources
+- pkg:maven/com.gu.play-googleauth/play-v30_3@20.2.0
+- pkg:maven/com.gu.play-googleauth/play-v30_3@20.2.0?classifier=sources
 - pkg:maven/com.gu.play-googleauth/play-v30_3@3.0.0
 - pkg:maven/com.gu.play-googleauth/play-v30_3@3.0.0?classifier=sources
 - pkg:maven/com.gu.play-googleauth/play-v30_3@3.0.1

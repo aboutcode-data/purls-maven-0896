@@ -40,6 +40,8 @@
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.117?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.118
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.118?classifier=sources
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.119
+- pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.119?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.11?classifier=sources
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.12
 - pkg:maven/io.quarkus/quarkus-platform-bom-decomposer@0.0.12?classifier=sources

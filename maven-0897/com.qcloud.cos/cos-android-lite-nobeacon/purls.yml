@@ -55,6 +55,10 @@
 - pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.34?type=aar
 - pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.35?classifier=sources
 - pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.35?type=aar
+- pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.36-beta3?classifier=sources
+- pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.36-beta3?type=aar
+- pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.36?classifier=sources
+- pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.36?type=aar
 - pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.3?type=aar
 - pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.4?type=aar
 - pkg:maven/com.qcloud.cos/cos-android-lite-nobeacon@5.9.5?type=aar

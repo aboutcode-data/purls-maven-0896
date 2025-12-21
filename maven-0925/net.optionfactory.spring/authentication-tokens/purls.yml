@@ -1,4 +1,14 @@
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.10
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.10?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.11
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.11?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.12
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.12?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.13
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.13?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-tokens@21.7
 - pkg:maven/net.optionfactory.spring/authentication-tokens@21.7?classifier=sources
 - pkg:maven/net.optionfactory.spring/authentication-tokens@21.8
 - pkg:maven/net.optionfactory.spring/authentication-tokens@21.8?classifier=sources
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.9
+- pkg:maven/net.optionfactory.spring/authentication-tokens@21.9?classifier=sources

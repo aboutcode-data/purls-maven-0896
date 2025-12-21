@@ -1,3 +1,5 @@
+- pkg:maven/io.higherkindness/droste-scalacheck_2.12@0.10.0
+- pkg:maven/io.higherkindness/droste-scalacheck_2.12@0.10.0?classifier=sources
 - pkg:maven/io.higherkindness/droste-scalacheck_2.12@0.6.0
 - pkg:maven/io.higherkindness/droste-scalacheck_2.12@0.6.0?classifier=sources
 - pkg:maven/io.higherkindness/droste-scalacheck_2.12@0.7.0

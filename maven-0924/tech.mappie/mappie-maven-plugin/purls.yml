@@ -1,0 +1,2 @@
+- pkg:maven/tech.mappie/mappie-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/tech.mappie/mappie-maven-plugin@1.1.1?classifier=sources

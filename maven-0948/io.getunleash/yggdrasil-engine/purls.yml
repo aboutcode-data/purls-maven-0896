@@ -1,1 +1,5 @@
+- pkg:maven/io.getunleash/yggdrasil-engine@0.1.0-alpha.16?classifier=sources
+- pkg:maven/io.getunleash/yggdrasil-engine@0.1.0-alpha.17?classifier=sources
+- pkg:maven/io.getunleash/yggdrasil-engine@0.1.0-alpha.18?classifier=sources
 - pkg:maven/io.getunleash/yggdrasil-engine@0.1.0-alpha.2?classifier=sources
+- pkg:maven/io.getunleash/yggdrasil-engine@0.1.0?classifier=sources

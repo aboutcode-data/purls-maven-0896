@@ -11,3 +11,4 @@
 - pkg:maven/no.bekk.db-scheduler-ui/db-scheduler-ui@3.2.0?classifier=sources
 - pkg:maven/no.bekk.db-scheduler-ui/db-scheduler-ui@3.2.1?classifier=sources
 - pkg:maven/no.bekk.db-scheduler-ui/db-scheduler-ui@4.0.0?classifier=sources
+- pkg:maven/no.bekk.db-scheduler-ui/db-scheduler-ui@4.1.0?classifier=sources

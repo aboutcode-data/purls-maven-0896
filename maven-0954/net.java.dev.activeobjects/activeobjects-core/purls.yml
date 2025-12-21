@@ -640,3 +640,6 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.1.0?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.1.1
 - pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.1.1?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.1.2-27332d180?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.1.2-8d77224ea?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-core@6.1.2-m04-ada3f184c?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/io.github.matteobertozzi/tashkewey-core@0.1.7?classifier=sources
 - pkg:maven/io.github.matteobertozzi/tashkewey-core@0.1.8
 - pkg:maven/io.github.matteobertozzi/tashkewey-core@0.1.8?classifier=sources
+- pkg:maven/io.github.matteobertozzi/tashkewey-core@0.1.9
+- pkg:maven/io.github.matteobertozzi/tashkewey-core@0.1.9?classifier=sources

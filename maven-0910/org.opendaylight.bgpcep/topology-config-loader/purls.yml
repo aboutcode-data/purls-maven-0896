@@ -156,6 +156,8 @@
 - pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.22.7?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.22.8
 - pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.22.8?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.22.9
+- pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.22.9?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.9.0
 - pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.9.0?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/topology-config-loader@0.9.1

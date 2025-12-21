@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.camel/camel-micrometer-prometheus@4.10.0
+- pkg:maven/org.apache.camel/camel-micrometer-prometheus@4.10.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-micrometer-prometheus@4.3.0
 - pkg:maven/org.apache.camel/camel-micrometer-prometheus@4.3.0?classifier=sources
 - pkg:maven/org.apache.camel/camel-micrometer-prometheus@4.4.0

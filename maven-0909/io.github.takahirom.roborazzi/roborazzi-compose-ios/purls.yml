@@ -33,3 +33,7 @@
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.39.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.40.0?classifier=sources
 - pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.40.1?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.41.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.41.1?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.42.0?classifier=sources
+- pkg:maven/io.github.takahirom.roborazzi/roborazzi-compose-ios@1.43.0?classifier=sources

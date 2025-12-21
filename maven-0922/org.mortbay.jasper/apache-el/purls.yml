@@ -38,6 +38,8 @@
 - pkg:maven/org.mortbay.jasper/apache-el@11.0.0-M21
 - pkg:maven/org.mortbay.jasper/apache-el@11.0.0-M21?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-el@11.0.0?classifier=sources
+- pkg:maven/org.mortbay.jasper/apache-el@11.0.4
+- pkg:maven/org.mortbay.jasper/apache-el@11.0.4?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-el@8.0.20.M0
 - pkg:maven/org.mortbay.jasper/apache-el@8.0.20.M0?classifier=sources
 - pkg:maven/org.mortbay.jasper/apache-el@8.0.23.M0

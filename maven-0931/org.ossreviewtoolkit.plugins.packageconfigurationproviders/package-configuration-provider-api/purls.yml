@@ -73,6 +73,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@51.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@51.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@52.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@52.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@52.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@53.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.packageconfigurationproviders/package-configuration-provider-api@6.1.1?classifier=sources

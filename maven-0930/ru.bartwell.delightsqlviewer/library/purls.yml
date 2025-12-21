@@ -1,0 +1,4 @@
+- pkg:maven/ru.bartwell.delightsqlviewer/library@1.0.0?classifier=sources
+- pkg:maven/ru.bartwell.delightsqlviewer/library@1.0.1?classifier=sources
+- pkg:maven/ru.bartwell.delightsqlviewer/library@1.0.2?classifier=sources
+- pkg:maven/ru.bartwell.delightsqlviewer/library@main?classifier=sources

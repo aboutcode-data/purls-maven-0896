@@ -360,6 +360,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@2.8.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@2.8.1
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@2.8.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@2.81.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@2.81.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@2.9.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@2.9.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.0.0
@@ -548,6 +550,16 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.55.2?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.55.3
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.55.3?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.56.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.56.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.57.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.57.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.57.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.57.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.57.2
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.57.2?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.58.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.58.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.6.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.6.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-limits@3.7.0

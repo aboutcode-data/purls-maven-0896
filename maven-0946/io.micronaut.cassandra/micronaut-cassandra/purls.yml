@@ -27,3 +27,4 @@
 - pkg:maven/io.micronaut.cassandra/micronaut-cassandra@6.4.0?classifier=sources
 - pkg:maven/io.micronaut.cassandra/micronaut-cassandra@6.5.0?classifier=sources
 - pkg:maven/io.micronaut.cassandra/micronaut-cassandra@6.6.0?classifier=sources
+- pkg:maven/io.micronaut.cassandra/micronaut-cassandra@6.7.0?classifier=sources
